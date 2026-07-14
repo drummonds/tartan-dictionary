@@ -13,10 +13,10 @@ Its design is pattern [GBGBKGWR](/stripes/gbgbkgwr/) — the page of every tarta
 The **Sheffield, City of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/">Sheffield, City of</a></td><td><code>DG/124 N6 DG6 N62 K8 G10 LB10 R/6</code></td><td>334</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/"><img src="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/sett.png" alt="Sheffield, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/">Sheffield, City of</a></td><td></td><td><code>DG/124 N6 DG6 N62 K8 G10 LB10 R/6</code></td><td>334</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/"><img src="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/sett.png" alt="Sheffield, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

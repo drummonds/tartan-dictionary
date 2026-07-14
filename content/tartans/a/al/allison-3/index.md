@@ -20,12 +20,12 @@ The **Allison** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2~x2~db1106275-dbi1406275/">Allison</a> ★</td><td><code>DY/4 K6 R12 DB8 K34 W4 G32 K4 G32 DY4 K30 DBi32 K4 DBi/4</code></td><td>412</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2~x2~db1106275-dbi1406275/"><img src="/variants/s14/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2~x2~db1106275-dbi1406275/sett.png" alt="Allison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/">Family Tartan</a></td><td><code>DB/3 K3 DB15 K15 Y3 DG15 K3 DG15 W3 K15 DBi4 R6 K3 Y/2</code></td><td>—</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/"><img src="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2~x2~db1106275-dbi1406275/">Allison</a> ★</td><td></td><td><code>DY/4 K6 R12 DB8 K34 W4 G32 K4 G32 DY4 K30 DBi32 K4 DBi/4</code></td><td>412</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2~x2~db1106275-dbi1406275/"><img src="/variants/s14/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2~x2~db1106275-dbi1406275/sett.png" alt="Allison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/">Family Tartan</a></td><td>—</td><td><code>DB/3 K3 DB15 K15 Y3 DG15 K3 DG15 W3 K15 DBi4 R6 K3 Y/2</code></td><td>—</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/"><img src="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

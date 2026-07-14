@@ -16,10 +16,10 @@ Its design is pattern [BBBBBKBKBKBKBWBKBKBKBKBKB](/stripes/bbbbbkbkbkbkbwbkbkbkb
 The **Arran, Isle of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/">Arran, Isle of</a></td><td><code>DP/172 N8 DP8 N8 DP8 K32 DR4 K8 DR6 K6 DR8 K4 DR12 W6 DR12 K4 DR8 K6 DR6 K8 DR4 K32 N48 K8 N/20</code></td><td>700</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/"><img src="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/sett.png" alt="Arran, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/">Arran, Isle of</a></td><td></td><td><code>DP/172 N8 DP8 N8 DP8 K32 DR4 K8 DR6 K6 DR8 K4 DR12 W6 DR12 K4 DR8 K6 DR6 K8 DR4 K32 N48 K8 N/20</code></td><td>700</td><td>1978</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/"><img src="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/sett.png" alt="Arran, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

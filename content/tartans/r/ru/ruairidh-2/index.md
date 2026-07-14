@@ -18,10 +18,10 @@ Its design is pattern [BBWBWBKBYWYWYBKGBK](/stripes/bbwbwbkbywywybkgbk/) — the
 The **Ruairidh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/n17dr41w5dr5w5dr41k17n17ly36lb6ly6lb6ly36n17k17dy36n17k7/">Ruairidh</a></td><td><code>N/17 DR41 W5 DR5 W5 DR41 K17 N17 LY36 LB6 LY6 LB6 LY36 N17 K17 DY36 N17 K/7</code></td><td>640</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/n17dr41w5dr5w5dr41k17n17ly36lb6ly6lb6ly36n17k17dy36n17k7/"><img src="/variants/s18/n17dr41w5dr5w5dr41k17n17ly36lb6ly6lb6ly36n17k17dy36n17k7/sett.png" alt="Ruairidh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/n17dr41w5dr5w5dr41k17n17ly36lb6ly6lb6ly36n17k17dy36n17k7/">Ruairidh</a></td><td></td><td><code>N/17 DR41 W5 DR5 W5 DR41 K17 N17 LY36 LB6 LY6 LB6 LY36 N17 K17 DY36 N17 K/7</code></td><td>640</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/n17dr41w5dr5w5dr41k17n17ly36lb6ly6lb6ly36n17k17dy36n17k7/"><img src="/variants/s18/n17dr41w5dr5w5dr41k17n17ly36lb6ly6lb6ly36n17k17dy36n17k7/sett.png" alt="Ruairidh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

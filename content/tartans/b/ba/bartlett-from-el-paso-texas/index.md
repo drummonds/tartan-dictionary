@@ -16,10 +16,10 @@ Its design is pattern [BGBYBYBYBWR](/stripes/bgbybybybwr/) — the page of every
 The **Bartlett from El Paso, Texas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/">Bartlett from El Paso, Texas</a></td><td><code>R/6 W4 DB4 LO2 DB78 LO2 DB2 LY4 DB2 Y30 DB/2</code></td><td>264</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><img src="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/sett.png" alt="Bartlett from El Paso, Texas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/">Bartlett from El Paso, Texas</a></td><td></td><td><code>R/6 W4 DB4 LO2 DB78 LO2 DB2 LY4 DB2 Y30 DB/2</code></td><td>264</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><img src="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/sett.png" alt="Bartlett from El Paso, Texas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

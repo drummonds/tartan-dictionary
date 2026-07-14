@@ -13,10 +13,10 @@ Its design is pattern [RWRWBWBWBY](/stripes/rwrwbwbwby/) — the page of every t
 The **International Police Association** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r2lb1r1lb10db1lb1db12lb1db2ly2~x4~lb3203246-db1404245-ly3307090/">International Police Association</a></td><td><code>R/8 LB4 R4 LB40 DB4 LB4 DB48 LB4 DB8 LY/8</code></td><td>248</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r2lb1r1lb10db1lb1db12lb1db2ly2~x4~lb3203246-db1404245-ly3307090/"><img src="/variants/s10/r2lb1r1lb10db1lb1db12lb1db2ly2~x4~lb3203246-db1404245-ly3307090/sett.png" alt="International Police Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r2lb1r1lb10db1lb1db12lb1db2ly2~x4~lb3203246-db1404245-ly3307090/">International Police Association</a></td><td></td><td><code>R/8 LB4 R4 LB40 DB4 LB4 DB48 LB4 DB8 LY/8</code></td><td>248</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r2lb1r1lb10db1lb1db12lb1db2ly2~x4~lb3203246-db1404245-ly3307090/"><img src="/variants/s10/r2lb1r1lb10db1lb1db12lb1db2ly2~x4~lb3203246-db1404245-ly3307090/sett.png" alt="International Police Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

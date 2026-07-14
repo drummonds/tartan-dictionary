@@ -15,12 +15,12 @@ The **Pollard** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/">Pollard</a> ★</td><td><code>Gi/5 DG5 G5 DB5 DBi5 DG10 W/2</code></td><td>—</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/"><img src="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/sett.png" alt="Pollard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/">(2014)</a></td><td><code>G/5 DG5 DGi5 DB5 DBi5 DG10 W/2</code></td><td>—</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/"><img src="/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/sett.png" alt="(2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/">Pollard</a> ★</td><td></td><td><code>Gi/5 DG5 G5 DB5 DBi5 DG10 W/2</code></td><td>—</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/"><img src="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/sett.png" alt="Pollard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/">(2014)</a></td><td>—</td><td><code>G/5 DG5 DGi5 DB5 DBi5 DG10 W/2</code></td><td>—</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/"><img src="/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/sett.png" alt="(2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

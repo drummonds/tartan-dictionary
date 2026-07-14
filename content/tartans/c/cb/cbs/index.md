@@ -13,10 +13,10 @@ Its design is pattern [BBRBKBKBKBKBRKR](/stripes/bbrbkbkbkbkbrkr/) — the page 
 The **CBS** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/">CBS</a></td><td><code>DB/18 N16 O11 N20 K7 N7 K11 N7 K7 N35 K52 N71 O7 K7 O/12</code></td><td>546</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/"><img src="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/sett.png" alt="CBS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/">CBS</a></td><td></td><td><code>DB/18 N16 O11 N20 K7 N7 K11 N7 K7 N35 K52 N71 O7 K7 O/12</code></td><td>546</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/"><img src="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/sett.png" alt="CBS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

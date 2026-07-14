@@ -13,10 +13,10 @@ Its design is pattern [GRGRKGRYR](/stripes/grgrkgryr/) — the page of every tar
 The **Justerini & Brooks** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/">Justerini &amp; Brooks</a></td><td><code>O/96 LY28 O18 DG28 K12 O22 G12 O20 DG/6</code></td><td>382</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/"><img src="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/sett.png" alt="Justerini &amp; Brooks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/">Justerini &amp; Brooks</a></td><td></td><td><code>O/96 LY28 O18 DG28 K12 O22 G12 O20 DG/6</code></td><td>382</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/"><img src="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/sett.png" alt="Justerini &amp; Brooks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

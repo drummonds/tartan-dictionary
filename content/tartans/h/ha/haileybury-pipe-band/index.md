@@ -15,11 +15,11 @@ Designed for the Pipes and Drums of Haileybury College, Melbourne, marking unifi
 The **Haileybury Pipe Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/">Haileybury Pipe Band</a></td><td><code>Y/8 K60 DR60 K4 DR4 Y4 K4 DR10 W10 G/4</code></td><td>324</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/"><img src="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/sett.png" alt="Haileybury Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/">(Corporate)</a> · <a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2~g2408144/">Corporate Tartan</a></td></tr>
+<tr><td><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/">Haileybury Pipe Band</a></td><td></td><td><code>Y/8 K60 DR60 K4 DR4 Y4 K4 DR10 W10 G/4</code></td><td>324</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/"><img src="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/sett.png" alt="Haileybury Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/">(Corporate)</a> · <a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2~g2408144/">Corporate Tartan</a></td></tr>
 </tbody>
 </table>
 

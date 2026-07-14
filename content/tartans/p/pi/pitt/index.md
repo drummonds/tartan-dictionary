@@ -13,10 +13,10 @@ Its design is pattern [BBWBRB](/stripes/bbwbrb/) — the page of every tartan sh
 The **Pitt** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/t23db18w5db2r14db18~x2/">Pitt</a></td><td><code>T/46 DB36 W10 DB4 R28 DB/36</code></td><td>238</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/t23db18w5db2r14db18~x2/"><img src="/variants/s6/t23db18w5db2r14db18~x2/sett.png" alt="Pitt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t23db18w5db2r14db18~x2/">Pitt</a></td><td></td><td><code>T/46 DB36 W10 DB4 R28 DB/36</code></td><td>238</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/t23db18w5db2r14db18~x2/"><img src="/variants/s6/t23db18w5db2r14db18~x2/sett.png" alt="Pitt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

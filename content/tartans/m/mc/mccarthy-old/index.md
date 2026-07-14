@@ -16,10 +16,10 @@ Its design is pattern [BBBGG](/stripes/bbbgg/) — the page of every tartan shar
 The **McCarthy, Old** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/db7dr26db7dg24y2~x2/">McCarthy, Old</a></td><td><code>DB/14 DR52 DB14 DG48 Y/4</code></td><td>246</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db7dr26db7dg24y2~x2/"><img src="/variants/s5/db7dr26db7dg24y2~x2/sett.png" alt="McCarthy, Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db7dr26db7dg24y2~x2/">McCarthy, Old</a></td><td></td><td><code>DB/14 DR52 DB14 DG48 Y/4</code></td><td>246</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db7dr26db7dg24y2~x2/"><img src="/variants/s5/db7dr26db7dg24y2~x2/sett.png" alt="McCarthy, Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

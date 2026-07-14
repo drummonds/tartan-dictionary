@@ -13,11 +13,11 @@ Its design is pattern [BKGGGKBGKG](/stripes/bkgggkbgkg/) — the page of every t
 The **Verdon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/">Verdon</a></td><td><code>DT/144 K12 DG12 G4 DG12 K12 DT16 DG24 K4 G/8</code></td><td>344</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/"><img src="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/sett.png" alt="Verdon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/">(Fashion)</a> · <a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4~dg1605139-g2408144/">Verdon</a></td></tr>
+<tr><td><a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/">Verdon</a></td><td></td><td><code>DT/144 K12 DG12 G4 DG12 K12 DT16 DG24 K4 G/8</code></td><td>344</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/"><img src="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/sett.png" alt="Verdon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/">(Fashion)</a> · <a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4~dg1605139-g2408144/">Verdon</a></td></tr>
 </tbody>
 </table>
 

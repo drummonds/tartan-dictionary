@@ -13,10 +13,10 @@ Its design is pattern [BKBGKYBK](/stripes/bkbgkybk/) — the page of every tarta
 The **Lagavista** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/">Lagavista</a></td><td><code>K/24 DR16 LY8 K16 DY12 DR16 K44 DB/2</code></td><td>250</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/"><img src="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/sett.png" alt="Lagavista sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/">Lagavista</a></td><td></td><td><code>K/24 DR16 LY8 K16 DY12 DR16 K44 DB/2</code></td><td>250</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/"><img src="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/sett.png" alt="Lagavista sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

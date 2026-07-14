@@ -16,10 +16,10 @@ Its design is pattern [WRBWKWKYWYBWY](/stripes/wrbwkwkywybwy/) — the page of e
 The **Robieson Kith & Kin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/">Robieson Kith &amp; Kin</a></td><td><code>W/6 R6 DB48 LB6 K6 W48 K6 LO48 LB6 LO6 DB48 LB6 LO/6</code></td><td>480</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/"><img src="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/sett.png" alt="Robieson Kith &amp; Kin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/">Robieson Kith &amp; Kin</a></td><td></td><td><code>W/6 R6 DB48 LB6 K6 W48 K6 LO48 LB6 LO6 DB48 LB6 LO/6</code></td><td>480</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/"><img src="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/sett.png" alt="Robieson Kith &amp; Kin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

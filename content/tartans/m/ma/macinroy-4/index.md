@@ -18,10 +18,10 @@ Its design is pattern [BRBRKRKRKRKRGKGRKRKRKGKGKRKR](/stripes/brbrkrkrkrkrgkgrkr
 The **MacInroy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/">MacInroy</a></td><td><code>R/36 K6 R6 K22 G18 K4 G18 K22 R4 K22 R6 K6 R18 G4 K6 G4 R18 K6 R6 K22 R4 K22 R6 K6 R36 DB4 R6 DB/4</code></td><td>644</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><img src="/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/">MacInroy</a></td><td></td><td><code>R/36 K6 R6 K22 G18 K4 G18 K22 R4 K22 R6 K6 R18 G4 K6 G4 R18 K6 R6 K22 R4 K22 R6 K6 R36 DB4 R6 DB/4</code></td><td>644</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><img src="/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

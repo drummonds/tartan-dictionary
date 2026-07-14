@@ -19,13 +19,13 @@ The **MacLean** tartan is one sett, recorded at 2 scales — the same proportion
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/">MacLean</a></td><td><code>W/20 K6 W9 K6 W6 K12 W6 K48 W8 K16 W/16</code></td><td>270</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/"><img src="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/sett.png" alt="MacLean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16/">Black &amp; White</a></td><td><code>W/20 K6 W9 K6 W6 K12 W6 K48 W8 K16 W/16</code></td><td>270</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/">(Black and White)</a></td><td><code>W/40 K12 W18 K12 W12 K24 W12 K96 W16 K32 W/32</code></td><td>540</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16/">Black &amp; White</a> · <a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/">(Black and White)</a></td></tr>
+<tr><td><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/">MacLean</a></td><td></td><td><code>W/20 K6 W9 K6 W6 K12 W6 K48 W8 K16 W/16</code></td><td>270</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/"><img src="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/sett.png" alt="MacLean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16/">Black &amp; White</a></td><td>0.00</td><td><code>W/20 K6 W9 K6 W6 K12 W6 K48 W8 K16 W/16</code></td><td>270</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/">(Black and White)</a></td><td>0.00</td><td><code>W/40 K12 W18 K12 W12 K24 W12 K96 W16 K32 W/32</code></td><td>540</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16/">Black &amp; White</a> · <a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/">(Black and White)</a></td></tr>
 </tbody>
 </table>
 

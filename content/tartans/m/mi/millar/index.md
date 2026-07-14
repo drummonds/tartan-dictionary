@@ -13,10 +13,10 @@ Its design is pattern [BGRGBRWRB](/stripes/bgrgbrwrb/) — the page of every tar
 The **Millar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/">Millar</a></td><td><code>DB/40 R16 LP16 R16 DB40 Y8 R8 Y8 DB/40</code></td><td>304</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/"><img src="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/sett.png" alt="Millar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/">Millar</a></td><td></td><td><code>DB/40 R16 LP16 R16 DB40 Y8 R8 Y8 DB/40</code></td><td>304</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/"><img src="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/sett.png" alt="Millar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

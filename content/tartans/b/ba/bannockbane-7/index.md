@@ -18,10 +18,10 @@ Its design is pattern [BYBYWGYG](/stripes/bybywgyg/) — the page of every tarta
 The **Bannockbane** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg3lo2dg30w18ly1dt30ly2dt3~x2/">Bannockbane</a></td><td><code>DG/6 LO4 DG60 W36 LY2 DT60 LY4 DT/6</code></td><td>344</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg3lo2dg30w18ly1dt30ly2dt3~x2/"><img src="/variants/s8/dg3lo2dg30w18ly1dt30ly2dt3~x2/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg3lo2dg30w18ly1dt30ly2dt3~x2/">Bannockbane</a></td><td></td><td><code>DG/6 LO4 DG60 W36 LY2 DT60 LY4 DT/6</code></td><td>344</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg3lo2dg30w18ly1dt30ly2dt3~x2/"><img src="/variants/s8/dg3lo2dg30w18ly1dt30ly2dt3~x2/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

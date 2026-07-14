@@ -13,10 +13,10 @@ Its design is pattern [RBRBBWRWRWBW](/stripes/rbrbbwrwrwbw/) — the page of eve
 The **Meath** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/">Meath</a></td><td><code>O/10 DB4 R28 DO18 B16 LB6 R6 LB6 R6 LB6 B38 W/6</code></td><td>284</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/"><img src="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/sett.png" alt="Meath sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/">Meath</a></td><td></td><td><code>O/10 DB4 R28 DO18 B16 LB6 R6 LB6 R6 LB6 B38 W/6</code></td><td>284</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/"><img src="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/sett.png" alt="Meath sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

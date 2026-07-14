@@ -16,10 +16,10 @@ Its design is pattern [BRBWBKGYGWGWGBK](/stripes/brbwbkgygwgwgbk/) — the page 
 The **Australian Federal Police** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/">Australian Federal Police</a></td><td><code>K/94 DB20 G34 W3 G4 W3 G3 LY5 G5 K5 DB7 W5 DB5 R5 DB/12</code></td><td>314</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/"><img src="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/sett.png" alt="Australian Federal Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/">Australian Federal Police</a></td><td></td><td><code>K/94 DB20 G34 W3 G4 W3 G3 LY5 G5 K5 DB7 W5 DB5 R5 DB/12</code></td><td>314</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/"><img src="/variants/s15/k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12/sett.png" alt="Australian Federal Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

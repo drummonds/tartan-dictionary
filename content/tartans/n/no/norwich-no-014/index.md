@@ -13,10 +13,10 @@ Its design is pattern [RGBYRWGBW](/stripes/rgbyrwgbw/) — the page of every tar
 The **Norwich No.014** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r22y3db5ly2r2w2dg11db4w3~x2/">Norwich No.014</a></td><td><code>R/44 Y6 DB10 LY4 R4 W4 DG22 DB8 W/6</code></td><td>166</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r22y3db5ly2r2w2dg11db4w3~x2/"><img src="/variants/s9/r22y3db5ly2r2w2dg11db4w3~x2/sett.png" alt="Norwich No.014 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r22y3db5ly2r2w2dg11db4w3~x2/">Norwich No.014</a></td><td></td><td><code>R/44 Y6 DB10 LY4 R4 W4 DG22 DB8 W/6</code></td><td>166</td><td>1870</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r22y3db5ly2r2w2dg11db4w3~x2/"><img src="/variants/s9/r22y3db5ly2r2w2dg11db4w3~x2/sett.png" alt="Norwich No.014 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

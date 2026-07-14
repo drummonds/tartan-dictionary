@@ -15,10 +15,10 @@ Family tartan derived from a c.1746 portrait; red pivot halved for display.
 The **Hackston or Halkerston** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/">Hackston or Halkerston</a></td><td><code>R/22 LY6 R22 LY6 K22 LR4 R102 LR4 K22 LY6 R22 LY6 R22 G/6</code></td><td>516</td><td>1746</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/"><img src="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/sett.png" alt="Hackston or Halkerston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/">Hackston or Halkerston</a></td><td></td><td><code>R/22 LY6 R22 LY6 K22 LR4 R102 LR4 K22 LY6 R22 LY6 R22 G/6</code></td><td>516</td><td>1746</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/"><img src="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/sett.png" alt="Hackston or Halkerston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

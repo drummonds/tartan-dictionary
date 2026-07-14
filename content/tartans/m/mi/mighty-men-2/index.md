@@ -13,10 +13,10 @@ Its design is pattern [GWRWRBRBRBRBRW](/stripes/gwrwrbrbrbrbrw/) — the page of
 The **Mighty Men** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/">Mighty Men</a></td><td><code>G/80 LB4 O8 LB4 O8 DB16 R4 DB4 R4 DB4 R4 DB4 R8 W/8</code></td><td>232</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"><img src="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/sett.png" alt="Mighty Men sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/">Mighty Men</a></td><td></td><td><code>G/80 LB4 O8 LB4 O8 DB16 R4 DB4 R4 DB4 R4 DB4 R8 W/8</code></td><td>232</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"><img src="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/sett.png" alt="Mighty Men sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

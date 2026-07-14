@@ -18,10 +18,10 @@ Its design is pattern [RKWBYGY](/stripes/rkwbygy/) — the page of every tartan 
 The **Barbour** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/ly4y2ly21do11w2k20r3~x2/">Barbour</a></td><td><code>LY/8 Y4 LY42 DO22 W4 K40 R/6</code></td><td>238</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/ly4y2ly21do11w2k20r3~x2/"><img src="/variants/s7/ly4y2ly21do11w2k20r3~x2/sett.png" alt="Barbour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/ly4y2ly21do11w2k20r3~x2/">Barbour</a></td><td></td><td><code>LY/8 Y4 LY42 DO22 W4 K40 R/6</code></td><td>238</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/ly4y2ly21do11w2k20r3~x2/"><img src="/variants/s7/ly4y2ly21do11w2k20r3~x2/sett.png" alt="Barbour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

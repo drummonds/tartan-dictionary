@@ -20,10 +20,10 @@ Clan Abercrombie sett whose blue and green central panels should be doubled; aki
 The **Abercrombie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/">Abercrombie</a></td><td><code>K/24 R2 G28 W2 G28 K28 R2 DB16 K/4</code></td><td>240</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/"><img src="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/sett.png" alt="Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/">Abercrombie</a></td><td></td><td><code>K/24 R2 G28 W2 G28 K28 R2 DB16 K/4</code></td><td>240</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/"><img src="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/sett.png" alt="Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [KRWKWKWRKR](/stripes/krwkwkwrkr/) — the page of every t
 The **Brice** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/">Brice</a></td><td><code>K/18 R36 W4 K4 W8 K4 W4 R24 K18 R/12</code></td><td>234</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><img src="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/sett.png" alt="Brice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/">Brice</a></td><td></td><td><code>K/18 R36 W4 K4 W8 K4 W4 R24 K18 R/12</code></td><td>234</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><img src="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/sett.png" alt="Brice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

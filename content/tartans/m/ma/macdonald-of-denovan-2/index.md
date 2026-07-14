@@ -18,10 +18,10 @@ Its design is pattern [GBGBGBKGBGBG](/stripes/gbgbgbkgbgbg/) — the page of eve
 The **MacDonald of Denovan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/">MacDonald of Denovan</a></td><td><code>DG/20 DP4 DG6 DR8 DG26 K26 DR4 G26 DR8 G6 DR4 G/20</code></td><td>276</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/"><img src="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/sett.png" alt="MacDonald of Denovan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/">MacDonald of Denovan</a></td><td></td><td><code>DG/20 DP4 DG6 DR8 DG26 K26 DR4 G26 DR8 G6 DR4 G/20</code></td><td>276</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/"><img src="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/sett.png" alt="MacDonald of Denovan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

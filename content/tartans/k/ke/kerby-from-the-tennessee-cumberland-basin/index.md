@@ -13,10 +13,10 @@ Its design is pattern [BWBKGKGKGGGR](/stripes/bwbkgkgkgggr/) — the page of eve
 The **Kerby, from the Tennessee Cumberland Basin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/">Kerby, from the Tennessee Cumberland Basin</a></td><td><code>R/8 DG4 Y4 DG48 K4 DG6 K6 DG6 K20 B20 W4 B/8</code></td><td>260</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><img src="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/sett.png" alt="Kerby, from the Tennessee Cumberland Basin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/">Kerby, from the Tennessee Cumberland Basin</a></td><td></td><td><code>R/8 DG4 Y4 DG48 K4 DG6 K6 DG6 K20 B20 W4 B/8</code></td><td>260</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><img src="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/sett.png" alt="Kerby, from the Tennessee Cumberland Basin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

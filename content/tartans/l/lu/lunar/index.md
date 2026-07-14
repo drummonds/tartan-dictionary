@@ -18,10 +18,10 @@ Its design is pattern [BBBBBBBBKBK](/stripes/bbbbbbbbkbk/) — the page of every
 The **Lunar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k10dr1k3do7n1do1n1do1n1do1n7~x4/">Lunar</a></td><td><code>K/40 DR4 K12 DO28 N4 DO4 N4 DO4 N4 DO4 N/28</code></td><td>204</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k10dr1k3do7n1do1n1do1n1do1n7~x4/"><img src="/variants/s11/k10dr1k3do7n1do1n1do1n1do1n7~x4/sett.png" alt="Lunar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k10dr1k3do7n1do1n1do1n1do1n7~x4/">Lunar</a></td><td></td><td><code>K/40 DR4 K12 DO28 N4 DO4 N4 DO4 N4 DO4 N/28</code></td><td>204</td><td>1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k10dr1k3do7n1do1n1do1n1do1n7~x4/"><img src="/variants/s11/k10dr1k3do7n1do1n1do1n1do1n7~x4/sett.png" alt="Lunar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KYKYKWKY](/stripes/kykykwky/) — the page of every tarta
 The **Children's Wish Foundation of Canada** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/">Children's Wish Foundation of Canada</a></td><td><code>LY/10 K4 W32 K10 LG58 K4 LY4 K/4</code></td><td>238</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/"><img src="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/sett.png" alt="Children's Wish Foundation of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/">Children's Wish Foundation of Canada</a></td><td></td><td><code>LY/10 K4 W32 K10 LG58 K4 LY4 K/4</code></td><td>238</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/"><img src="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/sett.png" alt="Children's Wish Foundation of Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

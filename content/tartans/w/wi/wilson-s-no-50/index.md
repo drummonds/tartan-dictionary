@@ -13,10 +13,10 @@ Its design is pattern [GKW](/stripes/gkw/) — the page of every tartan sharing 
 The **Wilson's, No 50** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/g5k6lb1~x4/">Wilson's, No 50</a></td><td><code>G/20 K24 LB/4</code></td><td>72</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/g5k6lb1~x4/"><img src="/variants/s3/g5k6lb1~x4/sett.png" alt="Wilson's, No 50 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/g5k6lb1~x4/">Wilson's, No 50</a></td><td></td><td><code>G/20 K24 LB/4</code></td><td>72</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/g5k6lb1~x4/"><img src="/variants/s3/g5k6lb1~x4/sett.png" alt="Wilson's, No 50 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

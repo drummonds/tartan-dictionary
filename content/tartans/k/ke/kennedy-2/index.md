@@ -18,10 +18,10 @@ Its design is pattern [KWGWBGBWBKBKBKBGR](/stripes/kwgwbgbwbkbkbkbgr/) — the p
 The **Kennedy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k8w9y6w10dp5g6dp5w36db8k8db8k8db8k8db8g38r8/">Kennedy</a></td><td><code>K/8 W9 Y6 W10 DP5 G6 DP5 W36 DB8 K8 DB8 K8 DB8 K8 DB8 G38 R/8</code></td><td>358</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k8w9y6w10dp5g6dp5w36db8k8db8k8db8k8db8g38r8/"><img src="/variants/s17/k8w9y6w10dp5g6dp5w36db8k8db8k8db8k8db8g38r8/sett.png" alt="Kennedy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k8w9y6w10dp5g6dp5w36db8k8db8k8db8k8db8g38r8/">Kennedy</a></td><td></td><td><code>K/8 W9 Y6 W10 DP5 G6 DP5 W36 DB8 K8 DB8 K8 DB8 K8 DB8 G38 R/8</code></td><td>358</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k8w9y6w10dp5g6dp5w36db8k8db8k8db8k8db8g38r8/"><img src="/variants/s17/k8w9y6w10dp5g6dp5w36db8k8db8k8db8k8db8g38r8/sett.png" alt="Kennedy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

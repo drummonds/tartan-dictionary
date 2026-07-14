@@ -20,12 +20,12 @@ The **Mehrtens** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/">Mehrtens</a> ★</td><td><code>W/8 DB8 R36 N8 R2 N72 K2 N8 K12 R4 K12 R12 K4 R12 K8 R/4</code></td><td>412</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/"><img src="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/sett.png" alt="Mehrtens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/">(Personal)</a></td><td><code>W/8 DB8 R36 N8 R2 N72 K2 N8 K12 R4 K12 R12 K4 R12 LY8 R/4</code></td><td>412</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/"><img src="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/">Mehrtens</a> ★</td><td></td><td><code>W/8 DB8 R36 N8 R2 N72 K2 N8 K12 R4 K12 R12 K4 R12 K8 R/4</code></td><td>412</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/"><img src="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/sett.png" alt="Mehrtens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/">(Personal)</a></td><td>1.00</td><td><code>W/8 DB8 R36 N8 R2 N72 K2 N8 K12 R4 K12 R12 K4 R12 LY8 R/4</code></td><td>412</td><td>~2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/"><img src="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6ly4r2~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

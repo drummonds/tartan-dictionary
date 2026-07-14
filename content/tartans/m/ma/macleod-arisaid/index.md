@@ -16,11 +16,11 @@ Its design is pattern [WRRWBWGWRRRWBWGWRRW](/stripes/wrrwbwgwrrrwbwgwrrw/) — t
 The **MacLeod, Arisaid** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2209032/">MacLeod, Arisaid</a></td><td><code>LB/2 R6 Ri6 W40 DB6 W6 G24 W36 Ri6 R2 Ri6 W36 DB24 W6 G6 W40 Ri6 R6 LB/2</code></td><td>528</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2209032/"><img src="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2209032/sett.png" alt="MacLeod, Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2008029/">MacLeod, Arisaid</a> · <a href="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2209032/">McDougall, Miss Anne (Personal)</a></td></tr>
+<tr><td><a href="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2209032/">MacLeod, Arisaid</a></td><td></td><td><code>LB/2 R6 Ri6 W40 DB6 W6 G24 W36 Ri6 R2 Ri6 W36 DB24 W6 G6 W40 Ri6 R6 LB/2</code></td><td>528</td><td>1978</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2209032/"><img src="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2209032/sett.png" alt="MacLeod, Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2008029/">MacLeod, Arisaid</a> · <a href="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2209032/">McDougall, Miss Anne (Personal)</a></td></tr>
 </tbody>
 </table>
 

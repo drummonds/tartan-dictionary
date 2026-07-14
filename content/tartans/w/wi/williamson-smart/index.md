@@ -15,10 +15,10 @@ Designed by Mr Smart for his wedding, inspired by Lochaber and his Scottish heri
 The **Williamson/Smart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/">Williamson/Smart</a></td><td><code>DB/20 N6 DB20 R6 K42 G40 K30 R/6</code></td><td>314</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><img src="/variants/s8/db10n3db10r3k21g20k15r3~x2/sett.png" alt="Williamson/Smart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/">Williamson/Smart</a></td><td></td><td><code>DB/20 N6 DB20 R6 K42 G40 K30 R/6</code></td><td>314</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><img src="/variants/s8/db10n3db10r3k21g20k15r3~x2/sett.png" alt="Williamson/Smart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

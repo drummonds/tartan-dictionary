@@ -16,10 +16,10 @@ Its design is pattern [BRBWBBW](/stripes/brbwbbw/) — the page of every tartan 
 The **North Carolina** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db64r8db1w8db4b15w4~x2/">North Carolina</a></td><td><code>DB/128 R16 DB2 W16 DB8 B30 W/8</code></td><td>280</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><img src="/variants/s7/db64r8db1w8db4b15w4~x2/sett.png" alt="North Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db64r8db1w8db4b15w4~x2/">North Carolina</a></td><td></td><td><code>DB/128 R16 DB2 W16 DB8 B30 W/8</code></td><td>280</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><img src="/variants/s7/db64r8db1w8db4b15w4~x2/sett.png" alt="North Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

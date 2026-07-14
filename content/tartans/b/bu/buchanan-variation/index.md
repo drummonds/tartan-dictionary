@@ -16,10 +16,10 @@ Its design is pattern [GBGBGBRBRBGR](/stripes/gbgbgbrbrbgr/) — the page of eve
 The **Buchanan Variation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/y7do5dg4do3dg4do6r4do1r4do6y7r1~x4/">Buchanan Variation</a></td><td><code>Y/28 DO20 DG16 DO12 DG16 DO24 R16 DO4 R16 DO24 Y28 R/4</code></td><td>384</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y7do5dg4do3dg4do6r4do1r4do6y7r1~x4/"><img src="/variants/s12/y7do5dg4do3dg4do6r4do1r4do6y7r1~x4/sett.png" alt="Buchanan Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/y7do5dg4do3dg4do6r4do1r4do6y7r1~x4/">Buchanan Variation</a></td><td></td><td><code>Y/28 DO20 DG16 DO12 DG16 DO24 R16 DO4 R16 DO24 Y28 R/4</code></td><td>384</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y7do5dg4do3dg4do6r4do1r4do6y7r1~x4/"><img src="/variants/s12/y7do5dg4do3dg4do6r4do1r4do6y7r1~x4/sett.png" alt="Buchanan Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

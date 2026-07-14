@@ -20,12 +20,12 @@ The **Gillies** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/">Gillies</a> ★</td><td><code>DB/88 K15 G9 R12 G20 K3 Y8 K6 G20 R12 G9 K15 DB24 K/36</code></td><td>430</td><td>1940</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/"><img src="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/">Gillies</a></td><td><code>DB/176 K30 G18 R24 G40 K6 Y16 K6 G40 R24 G18 K30 DB48 K/72</code></td><td>848</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/"><img src="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/">Gillies</a> ★</td><td></td><td><code>DB/88 K15 G9 R12 G20 K3 Y8 K6 G20 R12 G9 K15 DB24 K/36</code></td><td>430</td><td>1940</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/"><img src="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/">Gillies</a></td><td>0.04</td><td><code>DB/176 K30 G18 R24 G40 K6 Y16 K6 G40 R24 G18 K30 DB48 K/72</code></td><td>848</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/"><img src="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

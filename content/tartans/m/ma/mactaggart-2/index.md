@@ -18,10 +18,10 @@ Its design is pattern [BBBKGBGBGKBB](/stripes/bbbkgbgbgkbb/) — the page of eve
 The **MacTaggart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr1db6k6g1t2g9t2g1k6db6dr1db1~x8/">MacTaggart</a></td><td><code>DR/8 DB48 K48 G8 T16 G72 T16 G8 K48 DB48 DR8 DB/8</code></td><td>656</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr1db6k6g1t2g9t2g1k6db6dr1db1~x8/"><img src="/variants/s12/dr1db6k6g1t2g9t2g1k6db6dr1db1~x8/sett.png" alt="MacTaggart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr1db6k6g1t2g9t2g1k6db6dr1db1~x8/">MacTaggart</a></td><td></td><td><code>DR/8 DB48 K48 G8 T16 G72 T16 G8 K48 DB48 DR8 DB/8</code></td><td>656</td><td>1906</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr1db6k6g1t2g9t2g1k6db6dr1db1~x8/"><img src="/variants/s12/dr1db6k6g1t2g9t2g1k6db6dr1db1~x8/sett.png" alt="MacTaggart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

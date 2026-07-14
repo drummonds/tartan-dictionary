@@ -13,10 +13,10 @@ Its design is pattern [GGKGKGKBRKRW](/stripes/ggkgkgkbrkrw/) — the page of eve
 The **Chattahoochee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2~ki0604259/">Chattahoochee</a></td><td><code>Y/6 DG30 Ki6 DG6 Ki6 DG8 Ki16 DB16 R22 K6 R6 W/6</code></td><td>256</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2~ki0604259/"><img src="/variants/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2~ki0604259/sett.png" alt="Chattahoochee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2~ki0604259/">Chattahoochee</a></td><td></td><td><code>Y/6 DG30 Ki6 DG6 Ki6 DG8 Ki16 DB16 R22 K6 R6 W/6</code></td><td>256</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2~ki0604259/"><img src="/variants/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2~ki0604259/sett.png" alt="Chattahoochee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

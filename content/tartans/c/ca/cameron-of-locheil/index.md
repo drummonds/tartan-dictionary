@@ -21,14 +21,14 @@ The **Cameron of Locheil** tartan is one sett, recorded at 3 scales — the same
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/">Cameron of Locheil</a></td><td><code>R/6 G3 R6 DB1 W1 DB1 R2 DB8 R/4</code></td><td>54</td><td>1764</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/r6g3r6db1w1db1r2db8r4/">Cameron of Locheil</a></td><td><code>R/6 G3 R6 DB1 W1 DB1 R2 DB8 R/4</code></td><td>54</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/">Cameron of Lochiel</a></td><td><code>R/12 G6 R12 DB2 W2 DB2 R4 DB16 R/8</code></td><td>108</td><td>1764</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/">#2</a></td><td><code>R/24 G12 R24 DB4 W4 DB4 R8 DB32 R/16</code></td><td>216</td><td>1820</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s9/r6g3r6db1w1db1r2db8r4/">Cameron of Locheil</a> · <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/">Cameron of Lochiel</a> · <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/">#2</a></td></tr>
+<tr><td><a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/">Cameron of Locheil</a></td><td></td><td><code>R/6 G3 R6 DB1 W1 DB1 R2 DB8 R/4</code></td><td>54</td><td>1764</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/r6g3r6db1w1db1r2db8r4/">Cameron of Locheil</a></td><td>0.00</td><td><code>R/6 G3 R6 DB1 W1 DB1 R2 DB8 R/4</code></td><td>54</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/">Cameron of Lochiel</a></td><td>0.00</td><td><code>R/12 G6 R12 DB2 W2 DB2 R4 DB16 R/8</code></td><td>108</td><td>1764</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/">#2</a></td><td>0.00</td><td><code>R/24 G12 R24 DB4 W4 DB4 R8 DB32 R/16</code></td><td>216</td><td>1820</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s9/r6g3r6db1w1db1r2db8r4/">Cameron of Locheil</a> · <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/">Cameron of Lochiel</a> · <a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/">#2</a></td></tr>
 </tbody>
 </table>
 

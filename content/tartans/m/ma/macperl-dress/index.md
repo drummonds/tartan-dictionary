@@ -18,10 +18,10 @@ Its design is pattern [KBKKWKBGKWKGBKKWKBKWKBWGWBKW](/stripes/kbkkwkbgkwkgbkkwkb
 The **MacPerl Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s28/ki1db5ki18k8w1ki18db5dy3ki1w3ki1dy3db5ki18k8w1ki18db5ki1w1ki1db3w1dy3w1db3ki1w1~x2~ki0604259-db1605267/">MacPerl Dress</a></td><td><code>Ki/2 DB10 Ki36 K16 W2 Ki36 DB10 DY6 Ki2 W6 Ki2 DY6 DB10 Ki36 K16 W2 Ki36 DB10 Ki2 W2 Ki2 DB6 W2 DY6 W2 DB6 Ki2 W/2</code></td><td>548</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s28/ki1db5ki18k8w1ki18db5dy3ki1w3ki1dy3db5ki18k8w1ki18db5ki1w1ki1db3w1dy3w1db3ki1w1~x2~ki0604259-db1605267/"><img src="/variants/s28/ki1db5ki18k8w1ki18db5dy3ki1w3ki1dy3db5ki18k8w1ki18db5ki1w1ki1db3w1dy3w1db3ki1w1~x2~ki0604259-db1605267/sett.png" alt="MacPerl Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s28/ki1db5ki18k8w1ki18db5dy3ki1w3ki1dy3db5ki18k8w1ki18db5ki1w1ki1db3w1dy3w1db3ki1w1~x2~ki0604259-db1605267/">MacPerl Dress</a></td><td></td><td><code>Ki/2 DB10 Ki36 K16 W2 Ki36 DB10 DY6 Ki2 W6 Ki2 DY6 DB10 Ki36 K16 W2 Ki36 DB10 Ki2 W2 Ki2 DB6 W2 DY6 W2 DB6 Ki2 W/2</code></td><td>548</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s28/ki1db5ki18k8w1ki18db5dy3ki1w3ki1dy3db5ki18k8w1ki18db5ki1w1ki1db3w1dy3w1db3ki1w1~x2~ki0604259-db1605267/"><img src="/variants/s28/ki1db5ki18k8w1ki18db5dy3ki1w3ki1dy3db5ki18k8w1ki18db5ki1w1ki1db3w1dy3w1db3ki1w1~x2~ki0604259-db1605267/sett.png" alt="MacPerl Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

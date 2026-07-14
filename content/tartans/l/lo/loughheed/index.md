@@ -13,10 +13,10 @@ Its design is pattern [BYBYBYB](/stripes/bybybyb/) — the page of every tartan 
 The **Loughheed** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/">Loughheed</a></td><td><code>DR/12 LO12 DR24 LO72 DR4 LO8 DR/8</code></td><td>260</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/"><img src="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/sett.png" alt="Loughheed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/">Loughheed</a></td><td></td><td><code>DR/12 LO12 DR24 LO72 DR4 LO8 DR/8</code></td><td>260</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/"><img src="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/sett.png" alt="Loughheed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

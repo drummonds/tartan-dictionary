@@ -18,10 +18,10 @@ Its design is pattern [GGBYK](/stripes/ggbyk/) — the page of every tartan shar
 The **Wellington** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k9lr6dt22g28dy2~x2~lr2901240-dt1703208/">Wellington</a></td><td><code>K/18 LR12 DT44 G56 DY/4</code></td><td>246</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k9lr6dt22g28dy2~x2~lr2901240-dt1703208/"><img src="/variants/s5/k9lr6dt22g28dy2~x2~lr2901240-dt1703208/sett.png" alt="Wellington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k9lr6dt22g28dy2~x2~lr2901240-dt1703208/">Wellington</a></td><td></td><td><code>K/18 LR12 DT44 G56 DY/4</code></td><td>246</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k9lr6dt22g28dy2~x2~lr2901240-dt1703208/"><img src="/variants/s5/k9lr6dt22g28dy2~x2~lr2901240-dt1703208/sett.png" alt="Wellington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

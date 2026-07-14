@@ -13,10 +13,10 @@ Its design is pattern [KBKBGKGGY](/stripes/kbkbgkggy/) — the page of every tar
 The **Pro Simon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/">Pro Simon</a></td><td><code>K/4 DB4 K4 DB34 DG20 K4 DG4 G26 LO/4</code></td><td>200</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/"><img src="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/sett.png" alt="Pro Simon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/">Pro Simon</a></td><td></td><td><code>K/4 DB4 K4 DB34 DG20 K4 DG4 G26 LO/4</code></td><td>200</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/"><img src="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/sett.png" alt="Pro Simon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

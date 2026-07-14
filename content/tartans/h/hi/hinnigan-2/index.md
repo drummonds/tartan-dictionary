@@ -18,10 +18,10 @@ Its design is pattern [BBGKGBGGGBGKGB](/stripes/bbgkgbgggbgkgb/) — the page of
 The **Hinnigan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/">Hinnigan</a></td><td><code>DB/8 Y28 K28 G8 DB32 G8 Y16 G8 DB32 G8 K28 Y28 DB8 T/6</code></td><td>478</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/"><img src="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/sett.png" alt="Hinnigan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/">Hinnigan</a></td><td></td><td><code>DB/8 Y28 K28 G8 DB32 G8 Y16 G8 DB32 G8 K28 Y28 DB8 T/6</code></td><td>478</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/"><img src="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/sett.png" alt="Hinnigan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBGBKGGG](/stripes/bgbgbkggg/) — the page of every tar
 The **Marie Curie Fields of Hope** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/">Marie Curie Fields of Hope</a></td><td><code>B/32 Y4 B8 Y4 B10 K28 G56 Y4 G/14</code></td><td>274</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><img src="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/sett.png" alt="Marie Curie Fields of Hope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/">Marie Curie Fields of Hope</a></td><td></td><td><code>B/32 Y4 B8 Y4 B10 K28 G56 Y4 G/14</code></td><td>274</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><img src="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/sett.png" alt="Marie Curie Fields of Hope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

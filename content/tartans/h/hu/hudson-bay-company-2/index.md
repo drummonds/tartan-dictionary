@@ -18,11 +18,11 @@ Corporate tartan designed by Gordon Kirkbright for the Hudson Bay Company, datin
 The **Hudson Bay Company** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/">Hudson Bay Company</a></td><td><code>R/4 K68 W4 K4 N54 G2 N4 K6 N4 Y2 N4 R/4</code></td><td>312</td><td>1974</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/"><img src="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/sett.png" alt="Hudson Bay Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/">Hudson's Bay (Corporate)</a> · <a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/">Hudson's Bay Company</a></td></tr>
+<tr><td><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/">Hudson Bay Company</a></td><td></td><td><code>R/4 K68 W4 K4 N54 G2 N4 K6 N4 Y2 N4 R/4</code></td><td>312</td><td>1974</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/"><img src="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/sett.png" alt="Hudson Bay Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/">Hudson's Bay (Corporate)</a> · <a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/">Hudson's Bay Company</a></td></tr>
 </tbody>
 </table>
 

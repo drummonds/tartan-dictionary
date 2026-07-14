@@ -16,10 +16,10 @@ Its design is pattern [KBKWKBKBW](/stripes/kbkwkbkbw/) — the page of every tar
 The **Wcwm 1669-3** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/">Wcwm 1669-3</a></td><td><code>K/186 DR4 K8 W4 K16 N16 K4 N32 W/4</code></td><td>358</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><img src="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/sett.png" alt="Wcwm 1669-3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/">Wcwm 1669-3</a></td><td></td><td><code>K/186 DR4 K8 W4 K16 N16 K4 N32 W/4</code></td><td>358</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><img src="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/sett.png" alt="Wcwm 1669-3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

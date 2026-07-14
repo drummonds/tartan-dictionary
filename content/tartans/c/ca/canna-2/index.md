@@ -18,10 +18,10 @@ Its design is pattern [WRRRRRWRYRW](/stripes/wrrrrrwryrw/) — the page of every
 The **Canna** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/">Canna</a></td><td><code>W/128 Ri36 LY4 Ri8 W4 Ri8 R28 O16 Ri4 O8 W/4</code></td><td>364</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/"><img src="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/sett.png" alt="Canna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/">Canna</a></td><td></td><td><code>W/128 Ri36 LY4 Ri8 W4 Ri8 R28 O16 Ri4 O8 W/4</code></td><td>364</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/"><img src="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/sett.png" alt="Canna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BYKBKGKGKG](/stripes/bykbkgkgkg/) — the page of every t
 The **Braemar, Camel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/">Braemar, Camel</a></td><td><code>DO/4 LR8 K20 DO12 K4 Y16 K4 Y40 K4 Y/4</code></td><td>224</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/"><img src="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/sett.png" alt="Braemar, Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/">Braemar, Camel</a></td><td></td><td><code>DO/4 LR8 K20 DO12 K4 Y16 K4 Y40 K4 Y/4</code></td><td>224</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/"><img src="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/sett.png" alt="Braemar, Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

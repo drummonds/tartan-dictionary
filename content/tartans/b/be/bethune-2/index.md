@@ -18,10 +18,10 @@ Its design is pattern [BYKYKWKGRKRWRKRGKWKYKYBW](/stripes/bykykwkgrkrwrkrgkwkyky
 The **Bethune** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18lb2~x4/">Bethune</a></td><td><code>DB/72 LY16 K20 LY4 K4 W4 K8 G32 R24 K4 R12 W4 R12 K4 R24 G32 K8 W4 K4 LY4 K20 LY16 DB72 LB/8</code></td><td>744</td><td>~1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18lb2~x4/"><img src="/variants/s24/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18lb2~x4/sett.png" alt="Bethune sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18lb2~x4/">Bethune</a></td><td></td><td><code>DB/72 LY16 K20 LY4 K4 W4 K8 G32 R24 K4 R12 W4 R12 K4 R24 G32 K8 W4 K4 LY4 K20 LY16 DB72 LB/8</code></td><td>744</td><td>~1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18lb2~x4/"><img src="/variants/s24/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18lb2~x4/sett.png" alt="Bethune sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [WKGGWGWGWGWKW](/stripes/wkggwgwgwgwkw/) — the page of e
 The **Stirling Castle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/">Stirling Castle</a></td><td><code>LB/4 K12 LB4 G68 W2 G10 W2 G10 W2 G68 Y2 K26 LB/2</code></td><td>418</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/"><img src="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/sett.png" alt="Stirling Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/">Stirling Castle</a></td><td></td><td><code>LB/4 K12 LB4 G68 W2 G10 W2 G10 W2 G68 Y2 K26 LB/2</code></td><td>418</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/"><img src="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/sett.png" alt="Stirling Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Commemorates Sir Oliver Mowat (1820–1903), Premier of Ontario and a Father of 
 The **Mowat, Sir Oliver** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/g6do2lr3do2lo3do2g6dr16g4do3g3do3g16do2lr3do2lo3do2dr4~x2/">Mowat, Sir Oliver</a></td><td><code>G/12 DO4 LR6 DO4 LO6 DO4 G12 DR32 G8 DO6 G6 DO6 G32 DO4 LR6 DO4 LO6 DO4 DR/8</code></td><td>320</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/g6do2lr3do2lo3do2g6dr16g4do3g3do3g16do2lr3do2lo3do2dr4~x2/"><img src="/variants/s19/g6do2lr3do2lo3do2g6dr16g4do3g3do3g16do2lr3do2lo3do2dr4~x2/sett.png" alt="Mowat, Sir Oliver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/g6do2lr3do2lo3do2g6dr16g4do3g3do3g16do2lr3do2lo3do2dr4~x2/">Mowat, Sir Oliver</a></td><td></td><td><code>G/12 DO4 LR6 DO4 LO6 DO4 G12 DR32 G8 DO6 G6 DO6 G32 DO4 LR6 DO4 LO6 DO4 DR/8</code></td><td>320</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/g6do2lr3do2lo3do2g6dr16g4do3g3do3g16do2lr3do2lo3do2dr4~x2/"><img src="/variants/s19/g6do2lr3do2lo3do2g6dr16g4do3g3do3g16do2lr3do2lo3do2dr4~x2/sett.png" alt="Mowat, Sir Oliver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

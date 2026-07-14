@@ -16,10 +16,10 @@ Its design is pattern [BKBKYKBGKRKG](/stripes/bkbkykbgkrkg/) — the page of eve
 The **Wells, Greg** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/">Wells, Greg</a></td><td><code>N/24 K6 N28 K24 LY2 K24 N4 G24 K2 R4 K2 G/24</code></td><td>288</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/"><img src="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/sett.png" alt="Wells, Greg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/">Wells, Greg</a></td><td></td><td><code>N/24 K6 N28 K24 LY2 K24 N4 G24 K2 R4 K2 G/24</code></td><td>288</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/"><img src="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/sett.png" alt="Wells, Greg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BWBWBBWBGBBBW](/stripes/bwbwbbwbgbbbw/) — the page of e
 The **Ritchie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/">Ritchie</a></td><td><code>DR/6 LB4 DR6 LB4 DR28 DB12 LB6 DB12 G32 DR12 T12 DR12 LB/6</code></td><td>292</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><img src="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/sett.png" alt="Ritchie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/">Ritchie</a></td><td></td><td><code>DR/6 LB4 DR6 LB4 DR28 DB12 LB6 DB12 G32 DR12 T12 DR12 LB/6</code></td><td>292</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><img src="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/sett.png" alt="Ritchie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

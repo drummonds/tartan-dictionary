@@ -18,10 +18,10 @@ Its design is pattern [GKWKWYKBKR](/stripes/gkwkwykbkr/) — the page of every t
 The **Timmins** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/">Timmins</a></td><td><code>R/8 K4 DP28 K24 LO2 LB64 K24 LB28 K4 G/8</code></td><td>372</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/"><img src="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/sett.png" alt="Timmins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/">Timmins</a></td><td></td><td><code>R/8 K4 DP28 K24 LO2 LB64 K24 LB28 K4 G/8</code></td><td>372</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/"><img src="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/sett.png" alt="Timmins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

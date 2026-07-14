@@ -20,12 +20,12 @@ The **Fitzpatrick** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/">Fitzpatrick</a> ★</td><td><code>W/12 Y4 W4 Y6 W22 G22 T4 K24 T6 K12 W/4</code></td><td>224</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><img src="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/sett.png" alt="Fitzpatrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/">Fitzpatrick</a></td><td><code>W/12 Y4 W4 Y6 W22 G22 DB4 K24 DB6 K12 W/4</code></td><td>224</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><img src="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/sett.png" alt="Fitzpatrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/">Fitzpatrick</a> ★</td><td></td><td><code>W/12 Y4 W4 Y6 W22 G22 T4 K24 T6 K12 W/4</code></td><td>224</td><td>1978</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><img src="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/sett.png" alt="Fitzpatrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/">Fitzpatrick</a></td><td>0.05</td><td><code>W/12 Y4 W4 Y6 W22 G22 DB4 K24 DB6 K12 W/4</code></td><td>224</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><img src="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/sett.png" alt="Fitzpatrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

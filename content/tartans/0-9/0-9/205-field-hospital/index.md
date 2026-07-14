@@ -13,10 +13,10 @@ Its design is pattern [BRKGKR](/stripes/brkgkr/) — the page of every tartan sh
 The **205 Field Hospital** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/">205 Field Hospital</a></td><td><code>N/6 R36 K4 DG36 K48 Ri/2</code></td><td>256</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/"><img src="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/sett.png" alt="205 Field Hospital sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/">205 Field Hospital</a></td><td></td><td><code>N/6 R36 K4 DG36 K48 Ri/2</code></td><td>256</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/"><img src="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/sett.png" alt="205 Field Hospital sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

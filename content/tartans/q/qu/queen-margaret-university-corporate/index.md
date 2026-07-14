@@ -13,10 +13,10 @@ Its design is pattern [BWBWBWK](/stripes/bwbwbwk/) — the page of every tartan 
 The **Queen Margaret University (Corporate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k1w3db2w4db8w1db1~x6/">Queen Margaret University (Corporate</a></td><td><code>K/6 W18 DB12 W24 DB48 W6 DB/6</code></td><td>228</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k1w3db2w4db8w1db1~x6/"><img src="/variants/s7/k1w3db2w4db8w1db1~x6/sett.png" alt="Queen Margaret University (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k1w3db2w4db8w1db1~x6/">Queen Margaret University (Corporate</a></td><td></td><td><code>K/6 W18 DB12 W24 DB48 W6 DB/6</code></td><td>228</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k1w3db2w4db8w1db1~x6/"><img src="/variants/s7/k1w3db2w4db8w1db1~x6/sett.png" alt="Queen Margaret University (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

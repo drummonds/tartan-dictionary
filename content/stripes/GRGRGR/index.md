@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/er/erskine-2/">Erskine</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-2/"><img src="/variants/s6/g6r1g24r28g1r4~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-2/"><img src="/variants/s6/dg6r1dg24r28dg1r4~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macquarie/">MacQuarie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macquarie/"><img src="/variants/s6/r16g1r1g1r4g12/sett.png" alt="MacQuarie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macquarrie-7/">MacQuarrie 7</a></td></tr>
@@ -42,7 +42,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/c/ca/cameron-clan-d/">Cameron Clan D</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ca/cameron-clan-d/"><img src="/variants/s6/r1g6r1g6r15y1~x2/sett.png" alt="Cameron Clan D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maguire-2/">Maguire</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maguire-2/"><img src="/variants/s6/r29g2r2g2r6dy21~x4/sett.png" alt="Maguire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maguire-2/"><img src="/variants/s6/r29g2r2g2r6y21~x4/sett.png" alt="Maguire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/h/ha/harmony-11-3/">Harmony, 11</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ha/harmony-11-3/"><img src="/variants/s6/o6g2o29g29o2g6~x2/sett.png" alt="Harmony, 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

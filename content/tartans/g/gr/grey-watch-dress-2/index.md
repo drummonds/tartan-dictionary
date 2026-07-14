@@ -15,12 +15,12 @@ The **Grey Watch, Dress** tartan groups 2 setts — the same named design record
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/">Grey Watch, Dress</a> ★</td><td><code>N/36 DO4 N4 DO4 N4 DO28 W28 DO/8</code></td><td>188</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><img src="/variants/s8/n9do1n1do1n1do7w7do2~x4/sett.png" alt="Grey Watch, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/">Grey Watch Dress (Fashion)</a></td><td><code>N/24 DT4 N4 DT4 N4 DT20 W24 DT/6</code></td><td>150</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/"><img src="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/sett.png" alt="Grey Watch Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/">Grey Watch, Dress</a> ★</td><td></td><td><code>N/36 DO4 N4 DO4 N4 DO28 W28 DO/8</code></td><td>188</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><img src="/variants/s8/n9do1n1do1n1do7w7do2~x4/sett.png" alt="Grey Watch, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/">Grey Watch Dress (Fashion)</a></td><td>1.87</td><td><code>N/24 DT4 N4 DT4 N4 DT20 W24 DT/6</code></td><td>150</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/"><img src="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/sett.png" alt="Grey Watch Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

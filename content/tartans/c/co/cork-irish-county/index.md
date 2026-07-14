@@ -15,10 +15,10 @@ One of Polly Wittering's Irish County series for House of Edgar, with soft warm 
 The **Cork Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/">Cork Irish County</a></td><td><code>G/56 DR24 G8 DB40 LO4 DB6 LO4 DB6 G/14</code></td><td>254</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><img src="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/sett.png" alt="Cork Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/">Cork Irish County</a></td><td></td><td><code>G/56 DR24 G8 DB40 LO4 DB6 LO4 DB6 G/14</code></td><td>254</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><img src="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/sett.png" alt="Cork Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

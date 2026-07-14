@@ -18,11 +18,11 @@ Designed in 1997 by Polly Wittering and Lady Saltoun for the Castle Fraser Gathe
 The **Fraser Gathering Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2/">Fraser Gathering Dress</a></td><td><code>R/4 DB24 DG4 G22 DG8 DB10 G4 W48 G/4</code></td><td>248</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2/"><img src="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2/sett.png" alt="Fraser Gathering Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2/">(1997)</a> · <a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2~w3600000/">Clan Tartan</a></td></tr>
+<tr><td><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2/">Fraser Gathering Dress</a></td><td></td><td><code>R/4 DB24 DG4 G22 DG8 DB10 G4 W48 G/4</code></td><td>248</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2/"><img src="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2/sett.png" alt="Fraser Gathering Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2/">(1997)</a> · <a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2~w3600000/">Clan Tartan</a></td></tr>
 </tbody>
 </table>
 

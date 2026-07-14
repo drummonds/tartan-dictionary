@@ -13,10 +13,10 @@ Its design is pattern [RBRGRBRGRGRBR](/stripes/rbrgrbrgrgrbr/) — the page of e
 The **London Caledonian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/">London Caledonian</a></td><td><code>R/16 DP4 R28 Y4 R4 DP12 R4 DG4 R4 DG22 R4 DB4 R/12</code></td><td>216</td><td>1900</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/"><img src="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/sett.png" alt="London Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/">London Caledonian</a></td><td></td><td><code>R/16 DP4 R28 Y4 R4 DP12 R4 DG4 R4 DG22 R4 DB4 R/12</code></td><td>216</td><td>1900</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/"><img src="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/sett.png" alt="London Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

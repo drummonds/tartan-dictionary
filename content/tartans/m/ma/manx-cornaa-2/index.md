@@ -18,12 +18,12 @@ The **Manx, Cornaa** tartan groups 2 setts — the same named design recorded as
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/b1db5b5w1~x4/">Manx, Cornaa</a> ★</td><td><code>B/4 DB20 B20 W/4</code></td><td>88</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/b1db5b5w1~x4/"><img src="/variants/s4/b1db5b5w1~x4/sett.png" alt="Manx, Cornaa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/w1lb5db5lb1~x4/">Manx Cornaa (Personal)</a></td><td><code>W/4 LB20 DB20 LB/4</code></td><td>88</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/w1lb5db5lb1~x4/"><img src="/variants/s4/w1lb5db5lb1~x4/sett.png" alt="Manx Cornaa (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/b1db5b5w1~x4/">Manx, Cornaa</a> ★</td><td></td><td><code>B/4 DB20 B20 W/4</code></td><td>88</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/b1db5b5w1~x4/"><img src="/variants/s4/b1db5b5w1~x4/sett.png" alt="Manx, Cornaa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/w1lb5db5lb1~x4/">Manx Cornaa (Personal)</a></td><td>0.61</td><td><code>W/4 LB20 DB20 LB/4</code></td><td>88</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/w1lb5db5lb1~x4/"><img src="/variants/s4/w1lb5db5lb1~x4/sett.png" alt="Manx Cornaa (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

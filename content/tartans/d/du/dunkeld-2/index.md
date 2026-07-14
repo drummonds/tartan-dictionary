@@ -18,10 +18,10 @@ Its design is pattern [RKBKBKWKBKRRWRR](/stripes/rkbkbkwkbkrrwrr/) — the page 
 The **Dunkeld** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/">Dunkeld</a></td><td><code>Oi/4 O3 W24 O4 Oi4 K12 DR16 K2 W4 K2 DR16 K12 DO16 K2 Oi/4</code></td><td>242</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/"><img src="/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/sett.png" alt="Dunkeld sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/">Dunkeld</a></td><td></td><td><code>Oi/4 O3 W24 O4 Oi4 K12 DR16 K2 W4 K2 DR16 K12 DO16 K2 Oi/4</code></td><td>242</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/"><img src="/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/sett.png" alt="Dunkeld sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

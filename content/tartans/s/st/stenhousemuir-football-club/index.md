@@ -13,10 +13,10 @@ Its design is pattern [BBBBGBKBKBGBBBBW](/stripes/bbbbgbkbkbgbbbbw/) — the pag
 The **Stenhousemuir Football Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/">Stenhousemuir Football Club</a></td><td><code>DB/6 DR6 DB28 DR120 DY6 DR8 K4 DR12 K4 DR8 DY6 DR120 DB28 DR6 DB6 W/2</code></td><td>732</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/"><img src="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/sett.png" alt="Stenhousemuir Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/">Stenhousemuir Football Club</a></td><td></td><td><code>DB/6 DR6 DB28 DR120 DY6 DR8 K4 DR12 K4 DR8 DY6 DR120 DB28 DR6 DB6 W/2</code></td><td>732</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/"><img src="/variants/s16/db3dr3db14dr60dy3dr4k2dr6k2dr4dy3dr60db14dr3db3w1~x2/sett.png" alt="Stenhousemuir Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BWBGBRBG](/stripes/bwbgbrbg/) — the page of every tarta
 The **Royal Agricultural Winter Fair** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/">Royal Agricultural Winter Fair</a></td><td><code>DB/128 W4 DB4 Y8 DB4 R4 DB16 DG/64</code></td><td>272</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/"><img src="/variants/s8/db32w1db1y2db1r1db4dg16~x4/sett.png" alt="Royal Agricultural Winter Fair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/">Royal Agricultural Winter Fair</a></td><td></td><td><code>DB/128 W4 DB4 Y8 DB4 R4 DB16 DG/64</code></td><td>272</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/"><img src="/variants/s8/db32w1db1y2db1r1db4dg16~x4/sett.png" alt="Royal Agricultural Winter Fair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

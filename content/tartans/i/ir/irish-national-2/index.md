@@ -13,10 +13,10 @@ Its design is pattern [GGGGKWGGGGGGGWKGGGG](/stripes/ggggkwgggggggwkgggg/) — t
 The **Irish National** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/g36dg5dy5dg9k5w5dg2g7dg1dy2dg1g7dg2w5k5dg9dy5dg5g17~x2/">Irish National</a></td><td><code>G/72 DG10 DY10 DG18 K10 W10 DG4 G14 DG2 DY4 DG2 G14 DG4 W10 K10 DG18 DY10 DG10 G/34</code></td><td>426</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/g36dg5dy5dg9k5w5dg2g7dg1dy2dg1g7dg2w5k5dg9dy5dg5g17~x2/"><img src="/variants/s19/g36dg5dy5dg9k5w5dg2g7dg1dy2dg1g7dg2w5k5dg9dy5dg5g17~x2/sett.png" alt="Irish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/g36dg5dy5dg9k5w5dg2g7dg1dy2dg1g7dg2w5k5dg9dy5dg5g17~x2/">Irish National</a></td><td></td><td><code>G/72 DG10 DY10 DG18 K10 W10 DG4 G14 DG2 DY4 DG2 G14 DG4 W10 K10 DG18 DY10 DG10 G/34</code></td><td>426</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/g36dg5dy5dg9k5w5dg2g7dg1dy2dg1g7dg2w5k5dg9dy5dg5g17~x2/"><img src="/variants/s19/g36dg5dy5dg9k5w5dg2g7dg1dy2dg1g7dg2w5k5dg9dy5dg5g17~x2/sett.png" alt="Irish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

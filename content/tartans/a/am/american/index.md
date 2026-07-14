@@ -13,10 +13,10 @@ Its design is pattern [BRBWBWBWR](/stripes/brbwbwbwr/) — the page of every tar
 The **American** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/">American</a></td><td><code>R/8 W8 B8 W8 B28 W16 B4 R84 B/8</code></td><td>328</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/"><img src="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/sett.png" alt="American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/">American</a></td><td></td><td><code>R/8 W8 B8 W8 B28 W16 B4 R84 B/8</code></td><td>328</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/"><img src="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/sett.png" alt="American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

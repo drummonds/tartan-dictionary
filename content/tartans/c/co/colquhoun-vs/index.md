@@ -17,13 +17,13 @@ The **Colquhoun VS** tartan is one sett, recorded at 2 scales — the same propo
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db4k2db16w1k8g24r4/">Colquhoun VS</a></td><td><code>DB/4 K2 DB16 W1 K8 G24 R/4</code></td><td>110</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db4k2db16w1k8g24r4/"><img src="/variants/s7/db4k2db16w1k8g24r4/sett.png" alt="Colquhoun VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/db4k2db16w1k8g24r4/">Colquhoun VS</a></td><td><code>DB/4 K2 DB16 W1 K8 G24 R/4</code></td><td>110</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/db4k2db16w1k8g24r4~x2/">Colquhoun</a></td><td><code>DB/8 K4 DB32 W2 K16 G48 R/8</code></td><td>220</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/db4k2db16w1k8g24r4/">Colquhoun VS</a> · <a href="/variants/s7/db4k2db16w1k8g24r4~x2/">Colquhoun</a></td></tr>
+<tr><td><a href="/variants/s7/db4k2db16w1k8g24r4/">Colquhoun VS</a></td><td></td><td><code>DB/4 K2 DB16 W1 K8 G24 R/4</code></td><td>110</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db4k2db16w1k8g24r4/"><img src="/variants/s7/db4k2db16w1k8g24r4/sett.png" alt="Colquhoun VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/db4k2db16w1k8g24r4/">Colquhoun VS</a></td><td>0.00</td><td><code>DB/4 K2 DB16 W1 K8 G24 R/4</code></td><td>110</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/db4k2db16w1k8g24r4~x2/">Colquhoun</a></td><td>0.00</td><td><code>DB/8 K4 DB32 W2 K16 G48 R/8</code></td><td>220</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/db4k2db16w1k8g24r4/">Colquhoun VS</a> · <a href="/variants/s7/db4k2db16w1k8g24r4~x2/">Colquhoun</a></td></tr>
 </tbody>
 </table>
 

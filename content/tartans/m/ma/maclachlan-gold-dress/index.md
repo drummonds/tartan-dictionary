@@ -16,10 +16,10 @@ Its design is pattern [YKYBRBYKYKY](/stripes/ykybrbykyky/) — the page of every
 The **MacLachlan, Gold Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/">MacLachlan, Gold Dress</a></td><td><code>LY/32 K4 LY4 K4 LY4 DB64 R6 DB64 LY32 K4 LY/4</code></td><td>408</td><td>~2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/"><img src="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/sett.png" alt="MacLachlan, Gold Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/">MacLachlan, Gold Dress</a></td><td></td><td><code>LY/32 K4 LY4 K4 LY4 DB64 R6 DB64 LY32 K4 LY/4</code></td><td>408</td><td>~2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/"><img src="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/sett.png" alt="MacLachlan, Gold Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

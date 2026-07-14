@@ -18,10 +18,10 @@ Adapted from the West Virginia Shawl, adopted by the state senate in 2008 as Wes
 The **West Virginia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/">West Virginia</a></td><td><code>LY/8 G8 DB16 R16 G16 R54 K6 W2 R54 LB12 G16 DB16 G8 LY/8</code></td><td>464</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/"><img src="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/sett.png" alt="West Virginia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/">West Virginia</a></td><td></td><td><code>LY/8 G8 DB16 R16 G16 R54 K6 W2 R54 LB12 G16 DB16 G8 LY/8</code></td><td>464</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/"><img src="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/sett.png" alt="West Virginia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

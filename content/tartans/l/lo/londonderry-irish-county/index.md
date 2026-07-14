@@ -15,10 +15,10 @@ One of Polly Wittering's Irish district series for House of Edgar, with soft war
 The **Londonderry Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g10lo8o5k2g3k2o5lo8g12k2o6k2g2~x4/">Londonderry Irish County</a></td><td><code>G/40 LO32 O20 K8 G12 K8 O20 LO32 G48 K8 O24 K8 G/8</code></td><td>488</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g10lo8o5k2g3k2o5lo8g12k2o6k2g2~x4/"><img src="/variants/s13/g10lo8o5k2g3k2o5lo8g12k2o6k2g2~x4/sett.png" alt="Londonderry Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g10lo8o5k2g3k2o5lo8g12k2o6k2g2~x4/">Londonderry Irish County</a></td><td></td><td><code>G/40 LO32 O20 K8 G12 K8 O20 LO32 G48 K8 O24 K8 G/8</code></td><td>488</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g10lo8o5k2g3k2o5lo8g12k2o6k2g2~x4/"><img src="/variants/s13/g10lo8o5k2g3k2o5lo8g12k2o6k2g2~x4/sett.png" alt="Londonderry Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

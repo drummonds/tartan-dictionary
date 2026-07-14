@@ -13,10 +13,10 @@ Its design is pattern [GBGKGWGKGBW](/stripes/gbgkgwgkgbw/) — the page of every
 The **Bowlers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/">Bowlers</a></td><td><code>W/8 DB40 G10 K12 G4 W6 G4 K12 G26 DP16 G/4</code></td><td>272</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/"><img src="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/sett.png" alt="Bowlers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/">Bowlers</a></td><td></td><td><code>W/8 DB40 G10 K12 G4 W6 G4 K12 G26 DP16 G/4</code></td><td>272</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/"><img src="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/sett.png" alt="Bowlers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

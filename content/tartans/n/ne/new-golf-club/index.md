@@ -13,10 +13,10 @@ Its design is pattern [GKGKRKRKW](/stripes/gkgkrkrkw/) — the page of every tar
 The **New Golf Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/">New Golf Club</a></td><td><code>DG/8 K8 DG46 K22 R4 K4 R4 K40 W/8</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><img src="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/sett.png" alt="New Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/">New Golf Club</a></td><td></td><td><code>DG/8 K8 DG46 K22 R4 K4 R4 K40 W/8</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><img src="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/sett.png" alt="New Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

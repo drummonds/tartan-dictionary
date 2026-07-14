@@ -16,10 +16,10 @@ Its design is pattern [BGKGKWKGRKRW](/stripes/bgkgkwkgrkrw/) — the page of eve
 The **MacBeth, MacLulich** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/">MacBeth, MacLulich</a></td><td><code>DB/72 Y8 K12 Y2 K2 W2 K2 G16 R12 K2 R6 W/2</code></td><td>202</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><img src="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/sett.png" alt="MacBeth, MacLulich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/">MacBeth, MacLulich</a></td><td></td><td><code>DB/72 Y8 K12 Y2 K2 W2 K2 G16 R12 K2 R6 W/2</code></td><td>202</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><img src="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/sett.png" alt="MacBeth, MacLulich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

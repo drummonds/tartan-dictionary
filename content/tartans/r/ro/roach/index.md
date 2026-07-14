@@ -13,10 +13,10 @@ Its design is pattern [BWBWBRKGGGGGG](/stripes/bwbwbrkgggggg/) — the page of e
 The **Roach** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/">Roach</a></td><td><code>DB/72 W4 DB4 W4 DB16 R16 K4 G48 DY4 G4 DY4 G4 DY/4</code></td><td>300</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><img src="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/sett.png" alt="Roach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/">Roach</a></td><td></td><td><code>DB/72 W4 DB4 W4 DB16 R16 K4 G48 DY4 G4 DY4 G4 DY/4</code></td><td>300</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><img src="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/sett.png" alt="Roach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

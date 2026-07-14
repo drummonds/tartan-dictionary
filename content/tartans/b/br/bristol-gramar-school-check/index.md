@@ -13,10 +13,10 @@ Its design is pattern [RBBBBR](/stripes/rbbbbr/) — the page of every tartan sh
 The **Bristol Gramar School Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/">Bristol Gramar School Check</a></td><td><code>R/4 T3 N12 DB8 T2 R/4</code></td><td>58</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/"><img src="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/sett.png" alt="Bristol Gramar School Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/">Bristol Gramar School Check</a></td><td></td><td><code>R/4 T3 N12 DB8 T2 R/4</code></td><td>58</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/"><img src="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/sett.png" alt="Bristol Gramar School Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

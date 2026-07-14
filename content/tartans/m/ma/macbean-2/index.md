@@ -18,10 +18,10 @@ Its design is pattern [GGRBGBRGKGKGBWGWBGR](/stripes/ggrbgbrgkgkgbwgwbgr/) — t
 The **MacBean** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/r24y1db2w1y1w1db2y1k1g6k1y1r2dp2g1dp2r2y1g3/">MacBean</a></td><td><code>R/24 Y1 DB2 W1 Y1 W1 DB2 Y1 K1 G6 K1 Y1 R2 DP2 G1 DP2 R2 Y1 G/3</code></td><td>83</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/r24y1db2w1y1w1db2y1k1g6k1y1r2dp2g1dp2r2y1g3/"><img src="/variants/s19/r24y1db2w1y1w1db2y1k1g6k1y1r2dp2g1dp2r2y1g3/sett.png" alt="MacBean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/r24y1db2w1y1w1db2y1k1g6k1y1r2dp2g1dp2r2y1g3/">MacBean</a></td><td></td><td><code>R/24 Y1 DB2 W1 Y1 W1 DB2 Y1 K1 G6 K1 Y1 R2 DP2 G1 DP2 R2 Y1 G/3</code></td><td>83</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/r24y1db2w1y1w1db2y1k1g6k1y1r2dp2g1dp2r2y1g3/"><img src="/variants/s19/r24y1db2w1y1w1db2y1k1g6k1y1r2dp2g1dp2r2y1g3/sett.png" alt="MacBean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

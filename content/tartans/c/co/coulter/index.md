@@ -18,10 +18,10 @@ Its design is pattern [KYKWKRGWWWGRYKYKW](/stripes/kykwkrgwwwgrykykw/) — the p
 The **Coulter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/">Coulter</a></td><td><code>LB/14 K18 LY4 K4 LY4 R28 G28 W4 LB6 W4 G28 R28 K4 LB14 K18 LY4 K/4</code></td><td>410</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><img src="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/sett.png" alt="Coulter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/">Coulter</a></td><td></td><td><code>LB/14 K18 LY4 K4 LY4 R28 G28 W4 LB6 W4 G28 R28 K4 LB14 K18 LY4 K/4</code></td><td>410</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><img src="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/sett.png" alt="Coulter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

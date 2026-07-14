@@ -16,10 +16,10 @@ Its design is pattern [RKGRBRGRBRGRBRGKRW](/stripes/rkgrbrgrbrgrbrgkrw/) — the
 The **Selkirk High School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3~x2/">Selkirk High School</a></td><td><code>O/36 K36 Y2 R4 T4 R4 Y2 O36 T4 O36 Y2 R4 T4 R4 Y2 K36 O36 W/6</code></td><td>474</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3~x2/"><img src="/variants/s18/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3~x2/sett.png" alt="Selkirk High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3~x2/">Selkirk High School</a></td><td></td><td><code>O/36 K36 Y2 R4 T4 R4 Y2 O36 T4 O36 Y2 R4 T4 R4 Y2 K36 O36 W/6</code></td><td>474</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3~x2/"><img src="/variants/s18/o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3~x2/sett.png" alt="Selkirk High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

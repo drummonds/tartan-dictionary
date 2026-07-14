@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ca/canadian-centennial/">Canadian Centennial</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/canadian-centennial/"><img src="/variants/s8/r3w6r2dg32db36k2db4y2~x2/sett.png" alt="Canadian Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/canadian-centennial/"><img src="/variants/s8/r3w6r2g32db36k2db4y2~x2/sett.png" alt="Canadian Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

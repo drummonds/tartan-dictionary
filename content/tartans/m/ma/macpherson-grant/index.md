@@ -13,10 +13,10 @@ Its design is pattern [RKRGRGRKRKR](/stripes/rkrgrgrkrkr/) — the page of every
 The **MacPherson-Grant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/">MacPherson-Grant</a></td><td><code>R/90 K6 R6 K6 R90 G6 R6 G45 R6 K4 R/3</code></td><td>443</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"><img src="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/sett.png" alt="MacPherson-Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/">MacPherson-Grant</a></td><td></td><td><code>R/90 K6 R6 K6 R90 G6 R6 G45 R6 K4 R/3</code></td><td>443</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"><img src="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/sett.png" alt="MacPherson-Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

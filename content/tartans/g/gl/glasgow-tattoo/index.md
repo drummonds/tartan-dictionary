@@ -16,10 +16,10 @@ Its design is pattern [GBWBBGBRBBBW](/stripes/gbwbbgbrbbbw/) — the page of eve
 The **Glasgow Tattoo** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/">Glasgow Tattoo</a></td><td><code>G/40 DB4 LB39 DB4 N4 Y4 N4 R4 N34 DP4 N4 W/4</code></td><td>254</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/"><img src="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/sett.png" alt="Glasgow Tattoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/">Glasgow Tattoo</a></td><td></td><td><code>G/40 DB4 LB39 DB4 N4 Y4 N4 R4 N34 DP4 N4 W/4</code></td><td>254</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/"><img src="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/sett.png" alt="Glasgow Tattoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

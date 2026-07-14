@@ -13,11 +13,11 @@ Its design is pattern [BRKWKWKBR](/stripes/brkwkwkbr/) — the page of every tar
 The **Scottish Knights Templar International** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/">Scottish Knights Templar International</a></td><td><code>R/6 DB40 K12 LB10 K8 LB6 K4 R2 DB/4</code></td><td>174</td><td>1979</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><img src="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/sett.png" alt="Scottish Knights Templar International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/">Scottish Knights Templar Int. (Corp)</a> · <a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/">Scottish Knights Templar International</a></td></tr>
+<tr><td><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/">Scottish Knights Templar International</a></td><td></td><td><code>R/6 DB40 K12 LB10 K8 LB6 K4 R2 DB/4</code></td><td>174</td><td>1979</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><img src="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/sett.png" alt="Scottish Knights Templar International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/">Scottish Knights Templar Int. (Corp)</a> · <a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/">Scottish Knights Templar International</a></td></tr>
 </tbody>
 </table>
 

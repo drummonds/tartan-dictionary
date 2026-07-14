@@ -13,10 +13,10 @@ Its design is pattern [BKGRYBR](/stripes/bkgrybr/) — the page of every tartan 
 The **Bro-Menez Are** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/t8k25g13m5ly5dr5m8~x2/">Bro-Menez Are</a></td><td><code>T/16 K50 G26 M10 LY10 DR10 M/16</code></td><td>244</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/t8k25g13m5ly5dr5m8~x2/"><img src="/variants/s7/t8k25g13m5ly5dr5m8~x2/sett.png" alt="Bro-Menez Are sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/t8k25g13m5ly5dr5m8~x2/">Bro-Menez Are</a></td><td></td><td><code>T/16 K50 G26 M10 LY10 DR10 M/16</code></td><td>244</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/t8k25g13m5ly5dr5m8~x2/"><img src="/variants/s7/t8k25g13m5ly5dr5m8~x2/sett.png" alt="Bro-Menez Are sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

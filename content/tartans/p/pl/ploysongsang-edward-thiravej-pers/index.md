@@ -13,10 +13,10 @@ Its design is pattern [RWWYWR](/stripes/rwwywr/) — the page of every tartan sh
 The **Ploysongsang, Edward Thiravej (Pers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r34w4lb7ly10lb7r18~x2/">Ploysongsang, Edward Thiravej (Pers</a></td><td><code>R/68 W8 LB14 LY20 LB14 R/36</code></td><td>216</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r34w4lb7ly10lb7r18~x2/"><img src="/variants/s6/r34w4lb7ly10lb7r18~x2/sett.png" alt="Ploysongsang, Edward Thiravej (Pers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r34w4lb7ly10lb7r18~x2/">Ploysongsang, Edward Thiravej (Pers</a></td><td></td><td><code>R/68 W8 LB14 LY20 LB14 R/36</code></td><td>216</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r34w4lb7ly10lb7r18~x2/"><img src="/variants/s6/r34w4lb7ly10lb7r18~x2/sett.png" alt="Ploysongsang, Edward Thiravej (Pers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

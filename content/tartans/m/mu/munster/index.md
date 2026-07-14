@@ -17,12 +17,12 @@ The **Munster** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/">Munster</a> ★</td><td><code>LB/8 R4 LB6 G2 LB2 G4 LB36 R2 K24 DG42 LB2 K6 DG2 K4 DG8 R/4</code></td><td>300</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/"><img src="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/sett.png" alt="Munster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s16/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2~x2~dgi1806142/">Irish District Tartan</a></td><td><code>LB/8 R4 LB6 DGi2 LB2 DGi4 LB36 R2 K24 DG42 LB2 K6 DG2 K4 DG8 R/4</code></td><td>300</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2~x2~dgi1806142/"><img src="/variants/s16/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2~x2~dgi1806142/sett.png" alt="Irish District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/">Munster</a> ★</td><td></td><td><code>LB/8 R4 LB6 G2 LB2 G4 LB36 R2 K24 DG42 LB2 K6 DG2 K4 DG8 R/4</code></td><td>300</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/"><img src="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/sett.png" alt="Munster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2~x2~dgi1806142/">Irish District Tartan</a></td><td>0.01</td><td><code>LB/8 R4 LB6 DGi2 LB2 DGi4 LB36 R2 K24 DG42 LB2 K6 DG2 K4 DG8 R/4</code></td><td>300</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2~x2~dgi1806142/"><img src="/variants/s16/lb4r2lb3dgi1lb1dgi2lb18r1k12dg21lb1k3dg1k2dg4r2~x2~dgi1806142/sett.png" alt="Irish District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

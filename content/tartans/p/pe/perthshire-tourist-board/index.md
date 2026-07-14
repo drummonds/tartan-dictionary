@@ -13,10 +13,10 @@ Its design is pattern [BBGBGB](/stripes/bbgbgb/) — the page of every tartan sh
 The **Perthshire Tourist Board** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/">Perthshire Tourist Board</a></td><td><code>DP/52 DR12 DG32 DP16 DG6 DR/4</code></td><td>188</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/"><img src="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/sett.png" alt="Perthshire Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/">Perthshire Tourist Board</a></td><td></td><td><code>DP/52 DR12 DG32 DP16 DG6 DR/4</code></td><td>188</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/"><img src="/variants/s6/dp26dr6dg16dp8dg3dr2~x2/sett.png" alt="Perthshire Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

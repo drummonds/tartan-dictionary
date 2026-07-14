@@ -18,10 +18,10 @@ Its design is pattern [KGKGKYRYRY](/stripes/kgkgkyryry/) — the page of every t
 The **Intergen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lg33r1lg4r1lg33k30dy3k4dy3k30~x2/">Intergen</a></td><td><code>LG/66 R2 LG8 R2 LG66 K60 DY6 K8 DY6 K/60</code></td><td>442</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lg33r1lg4r1lg33k30dy3k4dy3k30~x2/"><img src="/variants/s10/lg33r1lg4r1lg33k30dy3k4dy3k30~x2/sett.png" alt="Intergen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lg33r1lg4r1lg33k30dy3k4dy3k30~x2/">Intergen</a></td><td></td><td><code>LG/66 R2 LG8 R2 LG66 K60 DY6 K8 DY6 K/60</code></td><td>442</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lg33r1lg4r1lg33k30dy3k4dy3k30~x2/"><img src="/variants/s10/lg33r1lg4r1lg33k30dy3k4dy3k30~x2/sett.png" alt="Intergen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

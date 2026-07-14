@@ -18,10 +18,10 @@ Its design is pattern [RRKRGYWBWYGWBW](/stripes/rrkrgywbwygwbw/) — the page of
 The **Dundee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2~ri2109032-r1807008/">Dundee</a></td><td><code>Ri/84 R4 K30 R4 DG44 LY8 LB4 DP4 LB4 LY8 Y14 LB4 DP12 LB/12</code></td><td>376</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2~ri2109032-r1807008/"><img src="/variants/s14/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2~ri2109032-r1807008/sett.png" alt="Dundee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2~ri2109032-r1807008/">Dundee</a></td><td></td><td><code>Ri/84 R4 K30 R4 DG44 LY8 LB4 DP4 LB4 LY8 Y14 LB4 DP12 LB/12</code></td><td>376</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2~ri2109032-r1807008/"><img src="/variants/s14/ri42r2k15r2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2~ri2109032-r1807008/sett.png" alt="Dundee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

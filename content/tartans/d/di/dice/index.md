@@ -14,13 +14,13 @@ The **Dice** tartan is one sett, recorded at 2 scales — the same proportion wo
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s2/db1r1~x20/">Dice</a></td><td><code>DB/1 R/1</code></td><td>2</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s2/db1r1~x20/"><img src="/variants/s2/db1r1~x20/sett.png" alt="Dice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×20 — <a href="/variants/s2/db1r1~x20/">Masai Shuka 02 (Artefact)</a></td><td><code>DB/20 R/20</code></td><td>40</td><td>~2007</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/db1r1~x100/">(Name?)</a></td><td><code>DB/100 R/100</code></td><td>200</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s2/db1r1~x100/">(Name?)</a> · <a href="/variants/s2/db1r1~x20/">Masai Shuka 02 (Artefact)</a></td></tr>
+<tr><td><a href="/variants/s2/db1r1~x20/">Dice</a></td><td></td><td><code>DB/1 R/1</code></td><td>2</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s2/db1r1~x20/"><img src="/variants/s2/db1r1~x20/sett.png" alt="Dice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×20 — <a href="/variants/s2/db1r1~x20/">Masai Shuka 02 (Artefact)</a></td><td>0.00</td><td><code>DB/20 R/20</code></td><td>40</td><td>~2007</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/db1r1~x100/">(Name?)</a></td><td>0.00</td><td><code>DB/100 R/100</code></td><td>200</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s2/db1r1~x100/">(Name?)</a> · <a href="/variants/s2/db1r1~x20/">Masai Shuka 02 (Artefact)</a></td></tr>
 </tbody>
 </table>
 

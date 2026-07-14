@@ -13,10 +13,10 @@ Its design is pattern [KYKYKGKWBKWKY](/stripes/kykykgkwbkwky/) — the page of e
 The **Lotus Elan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/">Lotus Elan</a></td><td><code>K/6 LY8 K6 LY8 K6 G32 K32 W6 T32 K4 W4 K4 LY/4</code></td><td>294</td><td>~1963</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/"><img src="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/sett.png" alt="Lotus Elan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/">Lotus Elan</a></td><td></td><td><code>K/6 LY8 K6 LY8 K6 G32 K32 W6 T32 K4 W4 K4 LY/4</code></td><td>294</td><td>~1963</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/"><img src="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/sett.png" alt="Lotus Elan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

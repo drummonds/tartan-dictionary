@@ -18,10 +18,10 @@ Its design is pattern [BBBBBBGWGBBYBY](/stripes/bbbbbbgwgbbyby/) — the page of
 The **Allen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/do16dr2do3dr4do2n12dy18lb2dy18n12do12ly2dr2ly2~x2/">Allen</a></td><td><code>DO/32 DR4 DO6 DR8 DO4 N24 DY36 LB4 DY36 N24 DO24 LY4 DR4 LY/4</code></td><td>392</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/do16dr2do3dr4do2n12dy18lb2dy18n12do12ly2dr2ly2~x2/"><img src="/variants/s14/do16dr2do3dr4do2n12dy18lb2dy18n12do12ly2dr2ly2~x2/sett.png" alt="Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/do16dr2do3dr4do2n12dy18lb2dy18n12do12ly2dr2ly2~x2/">Allen</a></td><td></td><td><code>DO/32 DR4 DO6 DR8 DO4 N24 DY36 LB4 DY36 N24 DO24 LY4 DR4 LY/4</code></td><td>392</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/do16dr2do3dr4do2n12dy18lb2dy18n12do12ly2dr2ly2~x2/"><img src="/variants/s14/do16dr2do3dr4do2n12dy18lb2dy18n12do12ly2dr2ly2~x2/sett.png" alt="Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

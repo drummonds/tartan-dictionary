@@ -15,12 +15,12 @@ The **Scottish Italian** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/">Scottish Italian</a> ★</td><td><code>DBi/22 DB10 G8 W6 R6 K32 DB56 LB/4</code></td><td>262</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><img src="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/sett.png" alt="Scottish Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/t11db5g4w3r3k16db28t2~x2/">Scottish Italian</a></td><td><code>T/22 DB10 G8 W6 R6 K32 DB56 T/4</code></td><td>262</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/t11db5g4w3r3k16db28t2~x2/"><img src="/variants/s8/t11db5g4w3r3k16db28t2~x2/sett.png" alt="Scottish Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/">Scottish Italian</a> ★</td><td></td><td><code>DBi/22 DB10 G8 W6 R6 K32 DB56 LB/4</code></td><td>262</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><img src="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/sett.png" alt="Scottish Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/t11db5g4w3r3k16db28t2~x2/">Scottish Italian</a></td><td>1.00</td><td><code>T/22 DB10 G8 W6 R6 K32 DB56 T/4</code></td><td>262</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/t11db5g4w3r3k16db28t2~x2/"><img src="/variants/s8/t11db5g4w3r3k16db28t2~x2/sett.png" alt="Scottish Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

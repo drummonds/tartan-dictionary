@@ -13,10 +13,10 @@ Its design is pattern [BGRBYGRGYBRG](/stripes/bgrbygrgybrg/) — the page of eve
 The **Kilkenny, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/">Kilkenny, County</a></td><td><code>DG/54 O4 DB50 LY10 DG6 O6 DG6 LY10 DB50 O4 DG54 DR/8</code></td><td>462</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/"><img src="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/sett.png" alt="Kilkenny, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/">Kilkenny, County</a></td><td></td><td><code>DG/54 O4 DB50 LY10 DG6 O6 DG6 LY10 DB50 O4 DG54 DR/8</code></td><td>462</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/"><img src="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/sett.png" alt="Kilkenny, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

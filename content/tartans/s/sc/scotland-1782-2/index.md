@@ -18,10 +18,10 @@ Its design is pattern [BKGBBBBKBKBGBKBKBBBBGKBW](/stripes/bkgbbbbkbkbgbkbkbbbbgk
 The **Scotland 1782** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/">Scotland 1782</a></td><td><code>DB/30 K4 G3 DPi2 DP2 DPi2 DP10 K2 DP2 K4 DP2 G3 DP2 K4 DP2 K2 DP10 DPi2 DP2 DPi2 G3 K4 DB30 LB/3</code></td><td>—</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/"><img src="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/sett.png" alt="Scotland 1782 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/">Scotland 1782</a></td><td></td><td><code>DB/30 K4 G3 DPi2 DP2 DPi2 DP10 K2 DP2 K4 DP2 G3 DP2 K4 DP2 K2 DP10 DPi2 DP2 DPi2 G3 K4 DB30 LB/3</code></td><td>—</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/"><img src="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/sett.png" alt="Scotland 1782 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

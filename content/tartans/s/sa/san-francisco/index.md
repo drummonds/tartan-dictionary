@@ -13,10 +13,10 @@ Its design is pattern [RGRGRWBWRBGBGW](/stripes/rgrgrwbwrbgbgw/) — the page of
 The **San Francisco** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/">San Francisco</a></td><td><code>R/8 DY8 R2 DY4 R48 W4 DB8 W4 R8 DB4 DY36 DB4 DY2 W/8</code></td><td>280</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/"><img src="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/sett.png" alt="San Francisco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/">San Francisco</a></td><td></td><td><code>R/8 DY8 R2 DY4 R48 W4 DB8 W4 R8 DB4 DY36 DB4 DY2 W/8</code></td><td>280</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/"><img src="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/sett.png" alt="San Francisco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBKBKRGKGBK](/stripes/bbkbkrgkgbk/) — the page of every
 The **State Seal of Virginia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/">State Seal of Virginia</a></td><td><code>N/98 DB30 K2 N36 K8 R16 G14 K10 G10 N38 K/10</code></td><td>436</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/"><img src="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/sett.png" alt="State Seal of Virginia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/">State Seal of Virginia</a></td><td></td><td><code>N/98 DB30 K2 N36 K8 R16 G14 K10 G10 N38 K/10</code></td><td>436</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/"><img src="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/sett.png" alt="State Seal of Virginia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

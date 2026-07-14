@@ -13,10 +13,10 @@ Its design is pattern [GWKGRWGRWRWK](/stripes/gwkgrwgrwrwk/) — the page of eve
 The **Turblin, Jean Pierre** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/y2w2k3y1r8w6y8r2w1r1w22k1~x2/">Turblin, Jean Pierre</a></td><td><code>Y/4 W4 K6 Y2 R16 W12 Y16 R4 W2 R2 W44 K/2</code></td><td>222</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y2w2k3y1r8w6y8r2w1r1w22k1~x2/"><img src="/variants/s12/y2w2k3y1r8w6y8r2w1r1w22k1~x2/sett.png" alt="Turblin, Jean Pierre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/y2w2k3y1r8w6y8r2w1r1w22k1~x2/">Turblin, Jean Pierre</a></td><td></td><td><code>Y/4 W4 K6 Y2 R16 W12 Y16 R4 W2 R2 W44 K/2</code></td><td>222</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y2w2k3y1r8w6y8r2w1r1w22k1~x2/"><img src="/variants/s12/y2w2k3y1r8w6y8r2w1r1w22k1~x2/sett.png" alt="Turblin, Jean Pierre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

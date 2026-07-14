@@ -16,10 +16,10 @@ Its design is pattern [BBBRBBBRBRWGRBGBGBRBG](/stripes/bbbrbbbrbrwgrbgbgbrbg/) â
 The **Otago Peninsula** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/">Otago Peninsula</a></td><td><code>G/8 DB8 R8 DB4 G24 DB4 G24 DB4 R8 G8 W2 Ri8 DBi4 R8 DB8 DBi8 DB8 R8 DB4 DBi24 DB/4</code></td><td>360</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/"><img src="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/sett.png" alt="Otago Peninsula sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/">Otago Peninsula</a></td><td></td><td><code>G/8 DB8 R8 DB4 G24 DB4 G24 DB4 R8 G8 W2 Ri8 DBi4 R8 DB8 DBi8 DB8 R8 DB4 DBi24 DB/4</code></td><td>360</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/"><img src="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/sett.png" alt="Otago Peninsula sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

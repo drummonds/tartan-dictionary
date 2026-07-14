@@ -19,13 +19,13 @@ The **MacNab 3** tartan is one sett, recorded at 2 scales — the same proportio
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/">MacNab 3</a></td><td><code>G/8 R1 G1 R1 G1 R6 Ri8 R1 Ri8 R6 G7 R1 G/1</code></td><td>91</td><td>~1816</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/"><img src="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/sett.png" alt="MacNab 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1707016-ri2008029/">MacNab 3</a></td><td><code>G/16 R2 G2 R2 G2 R12 Ri16 R2 Ri16 R12 G14 R2 G/2</code></td><td>182</td><td>~1816</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r1807008-ri2109032/">MacNab (Logan)</a></td><td><code>G/32 R4 G4 R4 G4 R24 Ri32 R4 Ri32 R24 G28 R4 G/4</code></td><td>364</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1707016-ri2008029/">MacNab 3</a> · <a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/">MacNab Clan Tartan</a> · <a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r1807008-ri2109032/">MacNab (Logan)</a></td></tr>
+<tr><td><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/">MacNab 3</a></td><td></td><td><code>G/8 R1 G1 R1 G1 R6 Ri8 R1 Ri8 R6 G7 R1 G/1</code></td><td>91</td><td>~1816</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/"><img src="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/sett.png" alt="MacNab 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1707016-ri2008029/">MacNab 3</a></td><td>0.05</td><td><code>G/16 R2 G2 R2 G2 R12 Ri16 R2 Ri16 R12 G14 R2 G/2</code></td><td>182</td><td>~1816</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r1807008-ri2109032/">MacNab (Logan)</a></td><td>0.00</td><td><code>G/32 R4 G4 R4 G4 R24 Ri32 R4 Ri32 R24 G28 R4 G/4</code></td><td>364</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1707016-ri2008029/">MacNab 3</a> · <a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/">MacNab Clan Tartan</a> · <a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r1807008-ri2109032/">MacNab (Logan)</a></td></tr>
 </tbody>
 </table>
 

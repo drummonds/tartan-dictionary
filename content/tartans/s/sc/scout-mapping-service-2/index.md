@@ -13,10 +13,10 @@ Its design is pattern [BBGRGKY](/stripes/bbgrgky/) — the page of every tartan 
 The **Scout Mapping Service** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db24dr8dg8r2g8k1ly2~x2~dg1806142-g2408144/">Scout Mapping Service</a></td><td><code>DB/48 DR16 DG16 R4 G16 K2 LY/4</code></td><td>160</td><td>1979</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db24dr8dg8r2g8k1ly2~x2~dg1806142-g2408144/"><img src="/variants/s7/db24dr8dg8r2g8k1ly2~x2~dg1806142-g2408144/sett.png" alt="Scout Mapping Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db24dr8dg8r2g8k1ly2~x2~dg1806142-g2408144/">Scout Mapping Service</a></td><td></td><td><code>DB/48 DR16 DG16 R4 G16 K2 LY/4</code></td><td>160</td><td>1979</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db24dr8dg8r2g8k1ly2~x2~dg1806142-g2408144/"><img src="/variants/s7/db24dr8dg8r2g8k1ly2~x2~dg1806142-g2408144/sett.png" alt="Scout Mapping Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

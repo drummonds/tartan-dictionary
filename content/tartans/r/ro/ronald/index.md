@@ -13,10 +13,10 @@ Its design is pattern [BRGRKGRGRGW](/stripes/brgrkgrgrgw/) — the page of every
 The **Ronald** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/">Ronald</a></td><td><code>DB/8 R4 G40 R4 K24 G48 R8 G4 R4 G12 W/8</code></td><td>312</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><img src="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/sett.png" alt="Ronald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/">Ronald</a></td><td></td><td><code>DB/8 R4 G40 R4 K24 G48 R8 G4 R4 G12 W/8</code></td><td>312</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><img src="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/sett.png" alt="Ronald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

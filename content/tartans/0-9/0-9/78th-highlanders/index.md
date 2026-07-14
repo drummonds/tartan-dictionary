@@ -13,10 +13,10 @@ Its design is pattern [GRGGRGRGRGRG](/stripes/grggrgrgrgrg/) — the page of eve
 The **78th Highlanders** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/">78th Highlanders</a></td><td><code>DG/52 O4 DG4 O4 G38 O56 G6 O56 G38 DG44 O4 DG/4</code></td><td>564</td><td>~2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/"><img src="/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/sett.png" alt="78th Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/">78th Highlanders</a></td><td></td><td><code>DG/52 O4 DG4 O4 G38 O56 G6 O56 G38 DG44 O4 DG/4</code></td><td>564</td><td>~2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/"><img src="/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/sett.png" alt="78th Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

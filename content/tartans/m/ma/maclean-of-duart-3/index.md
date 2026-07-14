@@ -20,10 +20,10 @@ MacLean of Duart clan tartan dating to 1810-15, mathematically mirroring Royal S
 The **MacLean of Duart 3** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/">MacLean of Duart 3</a></td><td><code>LB/16 K12 Y4 K4 W6 K4 G32 R50 LB6 R8 K/3</code></td><td>271</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/"><img src="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/sett.png" alt="MacLean of Duart 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/">MacLean of Duart 3</a></td><td></td><td><code>LB/16 K12 Y4 K4 W6 K4 G32 R50 LB6 R8 K/3</code></td><td>271</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/"><img src="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/sett.png" alt="MacLean of Duart 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKR](/stripes/gkgkgkr/) — the page of every tartan 
 The **Unidentified 20th Centuary** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/">Unidentified 20th Centuary</a></td><td><code>R/4 K2 G30 K14 DY30 K2 Y/4</code></td><td>164</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/"><img src="/variants/s7/r2k1g15k7dy15k1y2~x2/sett.png" alt="Unidentified 20th Centuary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/">Unidentified 20th Centuary</a></td><td></td><td><code>R/4 K2 G30 K14 DY30 K2 Y/4</code></td><td>164</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/"><img src="/variants/s7/r2k1g15k7dy15k1y2~x2/sett.png" alt="Unidentified 20th Centuary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

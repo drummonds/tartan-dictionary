@@ -18,10 +18,10 @@ Its design is pattern [RKWKRKRKRKBKBW](/stripes/rkwkrkrkrkbkbw/) — the page of
 The **Harris** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/">Harris</a></td><td><code>W/12 DB8 K12 DB60 K20 R8 K6 R8 K6 R36 K2 W8 K2 R/8</code></td><td>372</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/"><img src="/variants/s14/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/sett.png" alt="Harris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/">Harris</a></td><td></td><td><code>W/12 DB8 K12 DB60 K20 R8 K6 R8 K6 R36 K2 W8 K2 R/8</code></td><td>372</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/"><img src="/variants/s14/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/sett.png" alt="Harris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

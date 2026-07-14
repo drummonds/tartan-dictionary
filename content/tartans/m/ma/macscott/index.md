@@ -13,10 +13,10 @@ Its design is pattern [GGBGBWBGGG](/stripes/ggbgbwbggg/) — the page of every t
 The **MacScott** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/">MacScott</a></td><td><code>G/46 DY10 DB26 G10 DB10 W6 DB10 G10 DY18 G/18</code></td><td>264</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/"><img src="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/sett.png" alt="MacScott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/">MacScott</a></td><td></td><td><code>G/46 DY10 DB26 G10 DB10 W6 DB10 G10 DY18 G/18</code></td><td>264</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/"><img src="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/sett.png" alt="MacScott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

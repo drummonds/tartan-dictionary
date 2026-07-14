@@ -13,10 +13,10 @@ Its design is pattern [GBGGGWGWGKWGWGWGBGG](/stripes/gbgggwgwgkwgwgwgbgg/) — t
 The **Tenon Tours** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/">Tenon Tours</a></td><td><code>G/80 DY6 DR24 Y6 W2 Y2 W4 Y2 W2 K8 Y2 W2 Y2 W2 DY2 Y2 DY6 DR24 DY/6</code></td><td>282</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/"><img src="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/sett.png" alt="Tenon Tours sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/">Tenon Tours</a></td><td></td><td><code>G/80 DY6 DR24 Y6 W2 Y2 W4 Y2 W2 K8 Y2 W2 Y2 W2 DY2 Y2 DY6 DR24 DY/6</code></td><td>282</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/"><img src="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/sett.png" alt="Tenon Tours sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

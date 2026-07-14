@@ -16,10 +16,10 @@ Its design is pattern [GRGKGRBRWRWRBRBK](/stripes/grgkgrbrwrwrbrbk/) — the pag
 The **Catalan Dance** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/">Catalan Dance</a></td><td><code>K/4 DB24 R24 DB4 R4 LB4 R4 LB4 R24 DB12 R4 DG24 K4 Y2 R2 Y/2</code></td><td>286</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><img src="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/sett.png" alt="Catalan Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/">Catalan Dance</a></td><td></td><td><code>K/4 DB24 R24 DB4 R4 LB4 R4 LB4 R24 DB12 R4 DG24 K4 Y2 R2 Y/2</code></td><td>286</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><img src="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/sett.png" alt="Catalan Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

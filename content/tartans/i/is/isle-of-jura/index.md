@@ -13,10 +13,10 @@ Its design is pattern [WYBWBRYY](/stripes/wybwbryy/) — the page of every tarta
 The **Isle of Jura** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/">Isle of Jura</a></td><td><code>LB/24 LG24 DB14 W2 DO10 O10 LO4 LY/4</code></td><td>156</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/"><img src="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/sett.png" alt="Isle of Jura sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/">Isle of Jura</a></td><td></td><td><code>LB/24 LG24 DB14 W2 DO10 O10 LO4 LY/4</code></td><td>156</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/"><img src="/variants/s8/lb12lg12db7w1do5o5lo2ly2~x2/sett.png" alt="Isle of Jura sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

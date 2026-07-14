@@ -15,10 +15,10 @@ Commemorates Sir George-Étienne Cartier (1814–1873), co-architect of Canadian
 The **Sir George Etienne-Cartier Canada** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/">Sir George Etienne-Cartier Canada</a></td><td><code>R/8 G12 Y6 G24 K28 DB10 R40 DB10 K8 DB/4</code></td><td>288</td><td>~1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><img src="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/sett.png" alt="Sir George Etienne-Cartier Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/">Sir George Etienne-Cartier Canada</a></td><td></td><td><code>R/8 G12 Y6 G24 K28 DB10 R40 DB10 K8 DB/4</code></td><td>288</td><td>~1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><img src="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/sett.png" alt="Sir George Etienne-Cartier Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

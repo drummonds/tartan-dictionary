@@ -18,10 +18,10 @@ Its design is pattern [GWKWGGKBW](/stripes/gwkwggkbw/) — the page of every tar
 The **Leach Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g32w1k3w1gi14g7k3dp3w1~x2~g1903114-gi2408144/">Leach Hunting</a></td><td><code>G/64 W2 K6 W2 Gi28 G14 K6 DP6 W/2</code></td><td>194</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g32w1k3w1gi14g7k3dp3w1~x2~g1903114-gi2408144/"><img src="/variants/s9/g32w1k3w1gi14g7k3dp3w1~x2~g1903114-gi2408144/sett.png" alt="Leach Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g32w1k3w1gi14g7k3dp3w1~x2~g1903114-gi2408144/">Leach Hunting</a></td><td></td><td><code>G/64 W2 K6 W2 Gi28 G14 K6 DP6 W/2</code></td><td>194</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g32w1k3w1gi14g7k3dp3w1~x2~g1903114-gi2408144/"><img src="/variants/s9/g32w1k3w1gi14g7k3dp3w1~x2~g1903114-gi2408144/sett.png" alt="Leach Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GKGBGKGKGKGKGBGK](/stripes/gkgbgkgkgkgkgbgk/) — the pag
 The **Herron of Ulster** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1dg1~x4~dg1605139/">Herron of Ulster</a></td><td><code>K/4 DG4 DB40 DG4 K4 DG4 K44 DG48 K44 DG4 K4 DG4 DB40 DG4 K4 DG/4</code></td><td>512</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1dg1~x4~dg1605139/"><img src="/variants/s16/k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1dg1~x4~dg1605139/sett.png" alt="Herron of Ulster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1dg1~x4~dg1605139/">Herron of Ulster</a></td><td></td><td><code>K/4 DG4 DB40 DG4 K4 DG4 K44 DG48 K44 DG4 K4 DG4 DB40 DG4 K4 DG/4</code></td><td>512</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1dg1~x4~dg1605139/"><img src="/variants/s16/k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1dg1~x4~dg1605139/sett.png" alt="Herron of Ulster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

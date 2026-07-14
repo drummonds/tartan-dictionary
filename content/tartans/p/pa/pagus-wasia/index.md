@@ -13,10 +13,10 @@ Its design is pattern [RBBBBBYBY](/stripes/rbbbbbyby/) — the page of every tar
 The **Pagus Wasia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/">Pagus Wasia</a></td><td><code>R/4 DB8 N4 DT12 N76 DB12 LO4 DB8 LO/4</code></td><td>256</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/"><img src="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/sett.png" alt="Pagus Wasia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/">Pagus Wasia</a></td><td></td><td><code>R/4 DB8 N4 DT12 N76 DB12 LO4 DB8 LO/4</code></td><td>256</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/"><img src="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/sett.png" alt="Pagus Wasia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

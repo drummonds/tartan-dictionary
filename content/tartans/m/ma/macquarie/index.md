@@ -14,14 +14,14 @@ The **MacQuarie** tartan is one sett, recorded at 3 scales — the same proporti
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r16g1r1g1r4g12~x4/">MacQuarie</a></td><td><code>R/16 G1 R1 G1 R4 G/12</code></td><td>42</td><td>1886</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r16g1r1g1r4g12~x4/"><img src="/variants/s6/r16g1r1g1r4g12~x4/sett.png" alt="MacQuarie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/r16g1r1g1r4g12/">MacQuarrie</a></td><td><code>R/16 G1 R1 G1 R4 G/12</code></td><td>42</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/r16g1r1g1r4g12~x2/">MacQuarie</a></td><td><code>R/32 G2 R2 G2 R8 G/24</code></td><td>84</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/r16g1r1g1r4g12~x4/">MacQuarrie #5</a></td><td><code>R/64 G4 R4 G4 R16 G/48</code></td><td>168</td><td>1886</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s6/r16g1r1g1r4g12/">MacQuarrie</a> · <a href="/variants/s6/r16g1r1g1r4g12~x2/">MacQuarie</a> · <a href="/variants/s6/r16g1r1g1r4g12~x4/">MacQuarrie #5</a></td></tr>
+<tr><td><a href="/variants/s6/r16g1r1g1r4g12~x4/">MacQuarie</a></td><td></td><td><code>R/16 G1 R1 G1 R4 G/12</code></td><td>42</td><td>1886</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r16g1r1g1r4g12~x4/"><img src="/variants/s6/r16g1r1g1r4g12~x4/sett.png" alt="MacQuarie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/r16g1r1g1r4g12/">MacQuarrie</a></td><td>0.00</td><td><code>R/16 G1 R1 G1 R4 G/12</code></td><td>42</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/r16g1r1g1r4g12~x2/">MacQuarie</a></td><td>0.00</td><td><code>R/32 G2 R2 G2 R8 G/24</code></td><td>84</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/r16g1r1g1r4g12~x4/">MacQuarrie #5</a></td><td>0.00</td><td><code>R/64 G4 R4 G4 R16 G/48</code></td><td>168</td><td>1886</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s6/r16g1r1g1r4g12/">MacQuarrie</a> · <a href="/variants/s6/r16g1r1g1r4g12~x2/">MacQuarie</a> · <a href="/variants/s6/r16g1r1g1r4g12~x4/">MacQuarrie #5</a></td></tr>
 </tbody>
 </table>
 

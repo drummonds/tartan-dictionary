@@ -13,10 +13,10 @@ Its design is pattern [KWKWBKWKGKBKW](/stripes/kwkwbkwkgkbkw/) — the page of e
 The **Lesotho** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/">Lesotho</a></td><td><code>W/8 K2 DB48 K2 DG24 K2 W24 K2 DB24 W8 K2 W2 K/4</code></td><td>292</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><img src="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/sett.png" alt="Lesotho sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/">Lesotho</a></td><td></td><td><code>W/8 K2 DB48 K2 DG24 K2 W24 K2 DB24 W8 K2 W2 K/4</code></td><td>292</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><img src="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/sett.png" alt="Lesotho sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

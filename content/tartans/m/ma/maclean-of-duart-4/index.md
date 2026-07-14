@@ -18,10 +18,10 @@ Its design is pattern [KRWRGKWKGKW](/stripes/krwrgkwkgkw/) — the page of every
 The **MacLean of Duart 4** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/">MacLean of Duart 4</a></td><td><code>LB/16 K8 Y2 K4 W6 K4 G24 R48 LB4 R6 K/4</code></td><td>232</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><img src="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/sett.png" alt="MacLean of Duart 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/">MacLean of Duart 4</a></td><td></td><td><code>LB/16 K8 Y2 K4 W6 K4 G24 R48 LB4 R6 K/4</code></td><td>232</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><img src="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/sett.png" alt="MacLean of Duart 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkb/) — the page of e
 The **MacDevitt** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/">MacDevitt</a></td><td><code>DB/24 K4 DB4 K4 DB4 K20 DR24 K6 DR24 K20 DB24 K4 DB/4</code></td><td>304</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/"><img src="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/sett.png" alt="MacDevitt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/">MacDevitt</a></td><td></td><td><code>DB/24 K4 DB4 K4 DB4 K20 DR24 K6 DR24 K20 DB24 K4 DB/4</code></td><td>304</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/"><img src="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/sett.png" alt="MacDevitt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

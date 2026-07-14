@@ -13,10 +13,10 @@ Its design is pattern [GWGWGWKGGRKWKW](/stripes/gwgwgwkggrkwkw/) — the page of
 The **Ethiopia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/">Ethiopia</a></td><td><code>DY/8 LB2 DY4 LB2 DY4 LB32 K2 G16 DY16 R16 K2 LB48 K2 W/8</code></td><td>308</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/"><img src="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/sett.png" alt="Ethiopia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/">Ethiopia</a></td><td></td><td><code>DY/8 LB2 DY4 LB2 DY4 LB32 K2 G16 DY16 R16 K2 LB48 K2 W/8</code></td><td>308</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/"><img src="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/sett.png" alt="Ethiopia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Designed in the 1940s by J.G. MacKay of Portree, evoking the blue and yellow wor
 The **Cameron** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/">Cameron</a></td><td><code>DB/14 R6 DB18 R4 K20 G18 R6 G4 R4 G/14</code></td><td>188</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><img src="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/sett.png" alt="Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/">Cameron</a></td><td></td><td><code>DB/14 R6 DB18 R4 K20 G18 R6 G4 R4 G/14</code></td><td>188</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><img src="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/sett.png" alt="Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

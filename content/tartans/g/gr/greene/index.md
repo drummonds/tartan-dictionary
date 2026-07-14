@@ -13,10 +13,10 @@ Its design is pattern [BRBWKGGGGG](/stripes/brbwkggggg/) — the page of every t
 The **Greene** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/">Greene</a></td><td><code>DB/12 R8 DB48 W6 K12 G36 Y8 G4 Y4 G/8</code></td><td>272</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><img src="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/sett.png" alt="Greene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/">Greene</a></td><td></td><td><code>DB/12 R8 DB48 W6 K12 G36 Y8 G4 Y4 G/8</code></td><td>272</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><img src="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/sett.png" alt="Greene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

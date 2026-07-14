@@ -13,10 +13,10 @@ Its design is pattern [WBWKWKBKGKY](/stripes/wbwkwkbkgky/) — the page of every
 The **Kildare County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/">Kildare County Crest</a></td><td><code>LY/40 K5 G48 K5 DR20 K5 LB14 K10 W4 DR28 LB/10</code></td><td>328</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/"><img src="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/sett.png" alt="Kildare County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/">Kildare County Crest</a></td><td></td><td><code>LY/40 K5 G48 K5 DR20 K5 LB14 K10 W4 DR28 LB/10</code></td><td>328</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/"><img src="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/sett.png" alt="Kildare County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

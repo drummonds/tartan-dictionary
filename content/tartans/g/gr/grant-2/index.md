@@ -18,10 +18,10 @@ Its design is pattern [RBRBRBRBRGRGRBRBRGRGRBRBRBRBR](/stripes/rbrbrbrbrgrgrbrbr
 The **Grant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/">Grant</a></td><td><code>R/20 DB2 R2 DB2 R144 T2 R2 DB40 R8 G2 R8 G168 R2 DB4 R20 DB2 R2 G168 R8 G2 R8 DB40 R4 T2 R144 DB4 R4 DB2 R/8</code></td><td>1620</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/"><img src="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/">Grant</a></td><td></td><td><code>R/20 DB2 R2 DB2 R144 T2 R2 DB40 R8 G2 R8 G168 R2 DB4 R20 DB2 R2 G168 R8 G2 R8 DB40 R4 T2 R144 DB4 R4 DB2 R/8</code></td><td>1620</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/"><img src="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

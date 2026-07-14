@@ -13,10 +13,10 @@ Its design is pattern [BRBRGGGRBRGRBRGWRBRGRGGGRBRGRBRGWR](/stripes/brbrgggrbrgr
 The **Unidentified 18th Centuary plain weave** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s34/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3~x2/">Unidentified 18th Centuary plain weave</a></td><td><code>DB/38 R4 DB4 R40 G4 Y2 G4 R4 DB36 R4 G6 R4 DB4 R44 G6 W2 R6 DB34 R4 G4 R48 G4 Y2 G4 R4 DB38 R6 G6 R4 DB4 R42 G6 W2 R/6</code></td><td>816</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s34/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3~x2/"><img src="/variants/s34/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3~x2/sett.png" alt="Unidentified 18th Centuary plain weave sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s34/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3~x2/">Unidentified 18th Centuary plain weave</a></td><td></td><td><code>DB/38 R4 DB4 R40 G4 Y2 G4 R4 DB36 R4 G6 R4 DB4 R44 G6 W2 R6 DB34 R4 G4 R48 G4 Y2 G4 R4 DB38 R6 G6 R4 DB4 R42 G6 W2 R/6</code></td><td>816</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s34/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3~x2/"><img src="/variants/s34/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3~x2/sett.png" alt="Unidentified 18th Centuary plain weave sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

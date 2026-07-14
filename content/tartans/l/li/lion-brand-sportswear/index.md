@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBG](/stripes/bbbbbbg/) — the page of every tartan 
 The **Lion Brand Sportswear** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/">Lion Brand Sportswear</a></td><td><code>N/8 DB2 DR30 DB84 DR12 DB8 DY/2</code></td><td>282</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/"><img src="/variants/s7/n4db1dr15db42dr6db4dy1~x2/sett.png" alt="Lion Brand Sportswear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/">Lion Brand Sportswear</a></td><td></td><td><code>N/8 DB2 DR30 DB84 DR12 DB8 DY/2</code></td><td>282</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/"><img src="/variants/s7/n4db1dr15db42dr6db4dy1~x2/sett.png" alt="Lion Brand Sportswear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

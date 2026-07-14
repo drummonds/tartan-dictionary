@@ -13,10 +13,10 @@ Its design is pattern [RRBWKW](/stripes/rrbwkw/) — the page of every tartan sh
 The **Thomson's, Fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r2o8db2lb4k4lb1~x6/">Thomson's, Fancy</a></td><td><code>R/12 O48 DB12 LB24 K24 LB/6</code></td><td>234</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r2o8db2lb4k4lb1~x6/"><img src="/variants/s6/r2o8db2lb4k4lb1~x6/sett.png" alt="Thomson's, Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r2o8db2lb4k4lb1~x6/">Thomson's, Fancy</a></td><td></td><td><code>R/12 O48 DB12 LB24 K24 LB/6</code></td><td>234</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r2o8db2lb4k4lb1~x6/"><img src="/variants/s6/r2o8db2lb4k4lb1~x6/sett.png" alt="Thomson's, Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

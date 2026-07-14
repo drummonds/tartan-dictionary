@@ -19,13 +19,13 @@ The **MacQueen** tartan is one sett, recorded at 2 scales — the same proportio
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k2r6k2r6k12y1~x2/">MacQueen</a></td><td><code>K/2 R6 K2 R6 K12 Y/1</code></td><td>55</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k2r6k2r6k12y1~x2/"><img src="/variants/s6/k2r6k2r6k12y1~x2/sett.png" alt="MacQueen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/k2r6k2r6k12y1~x2/">MacQueen</a></td><td><code>K/4 R12 K4 R12 K24 Y/2</code></td><td>110</td><td>1842</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/k2r6k2r6k12y1~x4/">MacQueen</a></td><td><code>K/8 R24 K8 R24 K48 Y/4</code></td><td>220</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/k2r6k2r6k12y1~x2/">MacQueen</a> · <a href="/variants/s6/k2r6k2r6k12y1~x4/">MacQueen</a></td></tr>
+<tr><td><a href="/variants/s6/k2r6k2r6k12y1~x2/">MacQueen</a></td><td></td><td><code>K/2 R6 K2 R6 K12 Y/1</code></td><td>55</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k2r6k2r6k12y1~x2/"><img src="/variants/s6/k2r6k2r6k12y1~x2/sett.png" alt="MacQueen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/k2r6k2r6k12y1~x2/">MacQueen</a></td><td>0.00</td><td><code>K/4 R12 K4 R12 K24 Y/2</code></td><td>110</td><td>1842</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/k2r6k2r6k12y1~x4/">MacQueen</a></td><td>0.00</td><td><code>K/8 R24 K8 R24 K48 Y/4</code></td><td>220</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/k2r6k2r6k12y1~x2/">MacQueen</a> · <a href="/variants/s6/k2r6k2r6k12y1~x4/">MacQueen</a></td></tr>
 </tbody>
 </table>
 

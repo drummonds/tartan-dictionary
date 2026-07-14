@@ -18,12 +18,12 @@ The **Hebridean Granite** tartan groups 2 setts — the same named design record
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/o3lb4o4k4o18k3dt36w3~x2~o2500000-dt1600000-w3600000/">Hebridean Granite</a> ★</td><td><code>O/6 LB8 O8 K8 O36 K6 DT72 W/6</code></td><td>288</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/o3lb4o4k4o18k3dt36w3~x2~o2500000-dt1600000-w3600000/"><img src="/variants/s8/o3lb4o4k4o18k3dt36w3~x2~o2500000-dt1600000-w3600000/sett.png" alt="Hebridean Granite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/o3lb4o4k4o18k3n36w3~x2~o2500000-n1900000/">(Fashion)</a></td><td><code>O/6 LB8 O8 K8 O36 K6 N72 W/6</code></td><td>288</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/o3lb4o4k4o18k3n36w3~x2~o2500000-n1900000/"><img src="/variants/s8/o3lb4o4k4o18k3n36w3~x2~o2500000-n1900000/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/o3lb4o4k4o18k3dt36w3~x2~o2500000-dt1600000-w3600000/">Hebridean Granite</a> ★</td><td></td><td><code>O/6 LB8 O8 K8 O36 K6 DT72 W/6</code></td><td>288</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/o3lb4o4k4o18k3dt36w3~x2~o2500000-dt1600000-w3600000/"><img src="/variants/s8/o3lb4o4k4o18k3dt36w3~x2~o2500000-dt1600000-w3600000/sett.png" alt="Hebridean Granite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/o3lb4o4k4o18k3n36w3~x2~o2500000-n1900000/">(Fashion)</a></td><td>0.08</td><td><code>O/6 LB8 O8 K8 O36 K6 N72 W/6</code></td><td>288</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/o3lb4o4k4o18k3n36w3~x2~o2500000-n1900000/"><img src="/variants/s8/o3lb4o4k4o18k3n36w3~x2~o2500000-n1900000/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

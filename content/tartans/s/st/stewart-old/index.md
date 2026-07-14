@@ -19,13 +19,13 @@ The **Stewart Old** tartan is one sett, recorded at 2 scales — the same propor
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/">Stewart Old</a></td><td><code>DB/12 K1 G2 K1 G2 K1 DB12 R2 K12 R1 K12 R2 G12 K1 DB2 K1 G/12</code></td><td>152</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/"><img src="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/sett.png" alt="Stewart Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12/">Stewart Old</a></td><td><code>DB/12 K1 G2 K1 G2 K1 DB12 R2 K12 R1 K12 R2 G12 K1 DB2 K1 G/12</code></td><td>152</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/">Stewart of Appin (Clan)</a></td><td><code>DB/24 K2 G4 K2 G4 K2 DB24 R4 K24 R2 K24 R4 G24 K2 DB4 K2 G/24</code></td><td>304</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12/">Stewart Old</a> · <a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/">Stewart of Appin (Clan)</a> · <a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2~db1406275/">Stewart/Stuart of Appin</a></td></tr>
+<tr><td><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/">Stewart Old</a></td><td></td><td><code>DB/12 K1 G2 K1 G2 K1 DB12 R2 K12 R1 K12 R2 G12 K1 DB2 K1 G/12</code></td><td>152</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/"><img src="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/sett.png" alt="Stewart Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12/">Stewart Old</a></td><td>0.00</td><td><code>DB/12 K1 G2 K1 G2 K1 DB12 R2 K12 R1 K12 R2 G12 K1 DB2 K1 G/12</code></td><td>152</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/">Stewart of Appin (Clan)</a></td><td>0.00</td><td><code>DB/24 K2 G4 K2 G4 K2 DB24 R4 K24 R2 K24 R4 G24 K2 DB4 K2 G/24</code></td><td>304</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12/">Stewart Old</a> · <a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/">Stewart of Appin (Clan)</a> · <a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2~db1406275/">Stewart/Stuart of Appin</a></td></tr>
 </tbody>
 </table>
 

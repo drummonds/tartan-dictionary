@@ -13,10 +13,10 @@ Its design is pattern [KWRBWRWBWKWKW](/stripes/kwrbwrwbwkwkw/) — the page of e
 The **Spirit of South Korea** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/">Spirit of South Korea</a></td><td><code>W/16 K8 W4 K8 W48 DB4 W2 R4 W2 DB24 R24 W16 K/4</code></td><td>308</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/"><img src="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/sett.png" alt="Spirit of South Korea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/">Spirit of South Korea</a></td><td></td><td><code>W/16 K8 W4 K8 W48 DB4 W2 R4 W2 DB24 R24 W16 K/4</code></td><td>308</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/"><img src="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/sett.png" alt="Spirit of South Korea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

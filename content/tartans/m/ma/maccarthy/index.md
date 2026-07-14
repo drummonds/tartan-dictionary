@@ -13,10 +13,10 @@ Its design is pattern [GKGRGKGRKW](/stripes/gkgrgkgrkw/) — the page of every t
 The **MacCarthy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/">MacCarthy</a></td><td><code>G/8 K4 G56 R8 G8 K40 G8 R16 K4 W/8</code></td><td>304</td><td>~1953</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><img src="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/sett.png" alt="MacCarthy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/">MacCarthy</a></td><td></td><td><code>G/8 K4 G56 R8 G8 K40 G8 R16 K4 W/8</code></td><td>304</td><td>~1953</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><img src="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/sett.png" alt="MacCarthy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

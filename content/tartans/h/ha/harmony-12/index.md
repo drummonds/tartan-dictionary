@@ -20,12 +20,12 @@ The **Harmony 12** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db6g2db29g29db2g6~x2/">Harmony 12</a> ★</td><td><code>DB/12 G4 DB58 G58 DB4 G/12</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db6g2db29g29db2g6~x2/"><img src="/variants/s6/db6g2db29g29db2g6~x2/sett.png" alt="Harmony 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/">#2</a></td><td><code>DY/12 N4 DY58 N58 DY4 N/12</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/"><img src="/variants/s6/dy6n2dy29n29dy2n6~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db6g2db29g29db2g6~x2/">Harmony 12</a> ★</td><td></td><td><code>DB/12 G4 DB58 G58 DB4 G/12</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db6g2db29g29db2g6~x2/"><img src="/variants/s6/db6g2db29g29db2g6~x2/sett.png" alt="Harmony 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/">#2</a></td><td>9.49</td><td><code>DY/12 N4 DY58 N58 DY4 N/12</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/"><img src="/variants/s6/dy6n2dy29n29dy2n6~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

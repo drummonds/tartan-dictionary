@@ -13,10 +13,10 @@ Its design is pattern [BWBWGWBWBKGRGRGRGKBWBWBWBWBKGRGR](/stripes/bwbwgwbwbkgrgr
 The **Unidentified Lindley** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s32/t3w1t1w1dg22w1t1w1t3k11dg22r1dg1r2dg1r1dg22k11t16w1t4w1t16w1t4w1t16k11dg22r1dg1r2~x2~dg1806142/">Unidentified Lindley</a></td><td><code>T/6 W2 T2 W2 DG44 W2 T2 W2 T6 K22 DG44 R2 DG2 R4 DG2 R2 DG44 K22 T32 W2 T8 W2 T32 W2 T8 W2 T32 K22 DG44 R2 DG2 R/4</code></td><td>802</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s32/t3w1t1w1dg22w1t1w1t3k11dg22r1dg1r2dg1r1dg22k11t16w1t4w1t16w1t4w1t16k11dg22r1dg1r2~x2~dg1806142/"><img src="/variants/s32/t3w1t1w1dg22w1t1w1t3k11dg22r1dg1r2dg1r1dg22k11t16w1t4w1t16w1t4w1t16k11dg22r1dg1r2~x2~dg1806142/sett.png" alt="Unidentified Lindley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s32/t3w1t1w1dg22w1t1w1t3k11dg22r1dg1r2dg1r1dg22k11t16w1t4w1t16w1t4w1t16k11dg22r1dg1r2~x2~dg1806142/">Unidentified Lindley</a></td><td></td><td><code>T/6 W2 T2 W2 DG44 W2 T2 W2 T6 K22 DG44 R2 DG2 R4 DG2 R2 DG44 K22 T32 W2 T8 W2 T32 W2 T8 W2 T32 K22 DG44 R2 DG2 R/4</code></td><td>802</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s32/t3w1t1w1dg22w1t1w1t3k11dg22r1dg1r2dg1r1dg22k11t16w1t4w1t16w1t4w1t16k11dg22r1dg1r2~x2~dg1806142/"><img src="/variants/s32/t3w1t1w1dg22w1t1w1t3k11dg22r1dg1r2dg1r1dg22k11t16w1t4w1t16w1t4w1t16k11dg22r1dg1r2~x2~dg1806142/sett.png" alt="Unidentified Lindley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

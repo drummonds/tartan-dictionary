@@ -20,12 +20,12 @@ The **Bell of the Borders.** tartan groups 2 setts — the same named design rec
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/">Bell of the Borders.</a> ★</td><td><code>R/6 G4 K18 B4 K4 B48 Y4 B4 Y/2</code></td><td>180</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><img src="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/sett.png" alt="Bell of the Borders. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/">Bell of the Borders (Name)</a></td><td><code>R/12 G8 K36 LB8 K8 LB96 Y8 LB8 Y/4</code></td><td>360</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/"><img src="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/sett.png" alt="Bell of the Borders (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/">Bell of the Borders.</a> ★</td><td></td><td><code>R/6 G4 K18 B4 K4 B48 Y4 B4 Y/2</code></td><td>180</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><img src="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/sett.png" alt="Bell of the Borders. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/">Bell of the Borders (Name)</a></td><td>0.20</td><td><code>R/12 G8 K36 LB8 K8 LB96 Y8 LB8 Y/4</code></td><td>360</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/"><img src="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/sett.png" alt="Bell of the Borders (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

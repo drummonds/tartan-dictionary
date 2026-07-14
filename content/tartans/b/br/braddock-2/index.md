@@ -18,10 +18,10 @@ Its design is pattern [KBKGRGKGWKWGKGRGKBKW](/stripes/kbkgrgkgwkwgkgrgkbkw/) —
 The **Braddock** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/">Braddock</a></td><td><code>W/10 K2 DB4 K10 Y4 R4 Y4 K60 G6 W14 K8 W14 G4 K60 Y4 R4 Y4 K10 DB4 K/2</code></td><td>452</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/"><img src="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/sett.png" alt="Braddock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/">Braddock</a></td><td></td><td><code>W/10 K2 DB4 K10 Y4 R4 Y4 K60 G6 W14 K8 W14 G4 K60 Y4 R4 Y4 K10 DB4 K/2</code></td><td>452</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/"><img src="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/sett.png" alt="Braddock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GRGRGRGR](/stripes/grgrgrgr/) — the page of every tarta
 The **Aukland & District Pipe Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g164r20g6r20g23r14g4r36/">Aukland &amp; District Pipe Band</a></td><td><code>G/164 R20 G6 R20 G23 R14 G4 R/36</code></td><td>374</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g164r20g6r20g23r14g4r36/"><img src="/variants/s8/g164r20g6r20g23r14g4r36/sett.png" alt="Aukland &amp; District Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g164r20g6r20g23r14g4r36/">Aukland &amp; District Pipe Band</a></td><td></td><td><code>G/164 R20 G6 R20 G23 R14 G4 R/36</code></td><td>374</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g164r20g6r20g23r14g4r36/"><img src="/variants/s8/g164r20g6r20g23r14g4r36/sett.png" alt="Aukland &amp; District Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

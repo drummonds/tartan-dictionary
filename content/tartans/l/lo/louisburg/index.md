@@ -18,10 +18,10 @@ Its design is pattern [BGWK](/stripes/bgwk/) — the page of every tartan sharin
 The **Louisburg** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/n22y10w3k8~x2/">Louisburg</a></td><td><code>N/44 Y20 W6 K/16</code></td><td>112</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/n22y10w3k8~x2/"><img src="/variants/s4/n22y10w3k8~x2/sett.png" alt="Louisburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/n22y10w3k8~x2/">Louisburg</a></td><td></td><td><code>N/44 Y20 W6 K/16</code></td><td>112</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/n22y10w3k8~x2/"><img src="/variants/s4/n22y10w3k8~x2/sett.png" alt="Louisburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

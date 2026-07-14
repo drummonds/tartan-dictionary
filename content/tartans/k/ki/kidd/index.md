@@ -13,10 +13,10 @@ Its design is pattern [RKWRWKWKWKGGRWR](/stripes/rkwrwkwkwkggrwr/) — the page 
 The **Kidd** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/">Kidd</a></td><td><code>R/28 LB6 R24 G32 Y4 K22 LB14 K4 LB4 K4 LB14 R24 W6 K6 R/8</code></td><td>364</td><td>1790</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><img src="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/sett.png" alt="Kidd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/">Kidd</a></td><td></td><td><code>R/28 LB6 R24 G32 Y4 K22 LB14 K4 LB4 K4 LB14 R24 W6 K6 R/8</code></td><td>364</td><td>1790</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><img src="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/sett.png" alt="Kidd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GBGBGWBWBWBWGBGBGG](/stripes/gbgbgwbwbwbwgbgbgg/) — the
 The **Jones of Wales** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dg46db17dg5db7dg7lb15db3lb3db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/">Jones of Wales</a></td><td><code>DG/46 DB17 DG5 DB7 DG7 LB15 DB3 LB3 DB6 LB3 DB3 LB15 DG7 DB7 DG5 DB17 DG46 DGi/4</code></td><td>382</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dg46db17dg5db7dg7lb15db3lb3db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><img src="/variants/s18/dg46db17dg5db7dg7lb15db3lb3db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/sett.png" alt="Jones of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dg46db17dg5db7dg7lb15db3lb3db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/">Jones of Wales</a></td><td></td><td><code>DG/46 DB17 DG5 DB7 DG7 LB15 DB3 LB3 DB6 LB3 DB3 LB15 DG7 DB7 DG5 DB17 DG46 DGi/4</code></td><td>382</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dg46db17dg5db7dg7lb15db3lb3db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><img src="/variants/s18/dg46db17dg5db7dg7lb15db3lb3db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/sett.png" alt="Jones of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

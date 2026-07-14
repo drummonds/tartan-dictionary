@@ -15,10 +15,10 @@ Corporate tartan of the Alaska Highlanders Pipes & Drums, reflecting Alaska's st
 The **Alaska Highlanders Pipes & Drums** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/">Alaska Highlanders Pipes &amp; Drums</a></td><td><code>DB/18 LB54 DB4 K8 DB4 LB20 DB4 W/6</code></td><td>212</td><td>~2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/"><img src="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/sett.png" alt="Alaska Highlanders Pipes &amp; Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/">Alaska Highlanders Pipes &amp; Drums</a></td><td></td><td><code>DB/18 LB54 DB4 K8 DB4 LB20 DB4 W/6</code></td><td>212</td><td>~2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/"><img src="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/sett.png" alt="Alaska Highlanders Pipes &amp; Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

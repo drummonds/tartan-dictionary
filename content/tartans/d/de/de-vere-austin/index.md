@@ -13,10 +13,10 @@ Its design is pattern [BKBKGKYKGKG](/stripes/bkbkgkykgkg/) — the page of every
 The **de Vere-Austin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg14k8dg21k2ly5k2dg21k11db18k2dr5~x2/">de Vere-Austin</a></td><td><code>DG/28 K16 DG42 K4 LY10 K4 DG42 K22 DB36 K4 DR/10</code></td><td>398</td><td>~1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg14k8dg21k2ly5k2dg21k11db18k2dr5~x2/"><img src="/variants/s11/dg14k8dg21k2ly5k2dg21k11db18k2dr5~x2/sett.png" alt="de Vere-Austin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg14k8dg21k2ly5k2dg21k11db18k2dr5~x2/">de Vere-Austin</a></td><td></td><td><code>DG/28 K16 DG42 K4 LY10 K4 DG42 K22 DB36 K4 DR/10</code></td><td>398</td><td>~1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg14k8dg21k2ly5k2dg21k11db18k2dr5~x2/"><img src="/variants/s11/dg14k8dg21k2ly5k2dg21k11db18k2dr5~x2/sett.png" alt="de Vere-Austin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

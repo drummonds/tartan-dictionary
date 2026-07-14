@@ -13,10 +13,10 @@ Its design is pattern [BWKGBGW](/stripes/bwkgbgw/) — the page of every tartan 
 The **Mellor, Phillip** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/do8w8k16dg32db3y5w5~x2/">Mellor, Phillip</a></td><td><code>DO/16 W16 K32 DG64 DB6 Y10 W/10</code></td><td>282</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/do8w8k16dg32db3y5w5~x2/"><img src="/variants/s7/do8w8k16dg32db3y5w5~x2/sett.png" alt="Mellor, Phillip sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/do8w8k16dg32db3y5w5~x2/">Mellor, Phillip</a></td><td></td><td><code>DO/16 W16 K32 DG64 DB6 Y10 W/10</code></td><td>282</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/do8w8k16dg32db3y5w5~x2/"><img src="/variants/s7/do8w8k16dg32db3y5w5~x2/sett.png" alt="Mellor, Phillip sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

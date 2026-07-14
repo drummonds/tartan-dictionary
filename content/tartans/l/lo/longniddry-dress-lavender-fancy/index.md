@@ -18,10 +18,10 @@ Dancers' fancy tartan from a D.C. Dalgleish swatch book.
 The **Longniddry Dress Lavender Fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/">Longniddry Dress Lavender Fancy</a></td><td><code>K/64 B24 DB10 R4 K4 R4 DB84 R4 K4 R4 DB10 B24 K64 DB/8</code></td><td>552</td><td>~1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/"><img src="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/sett.png" alt="Longniddry Dress Lavender Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/">Longniddry Dress Lavender Fancy</a></td><td></td><td><code>K/64 B24 DB10 R4 K4 R4 DB84 R4 K4 R4 DB10 B24 K64 DB/8</code></td><td>552</td><td>~1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/"><img src="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/sett.png" alt="Longniddry Dress Lavender Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

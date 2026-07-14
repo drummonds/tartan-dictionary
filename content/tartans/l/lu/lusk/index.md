@@ -13,10 +13,10 @@ Its design is pattern [KGKBKBWKR](/stripes/kgkbkbwkr/) — the page of every tar
 The **Lusk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/">Lusk</a></td><td><code>K/4 G60 K6 DBi8 K4 DB36 LB2 K6 R/4</code></td><td>252</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><img src="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/sett.png" alt="Lusk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/">Lusk</a></td><td></td><td><code>K/4 G60 K6 DBi8 K4 DB36 LB2 K6 R/4</code></td><td>252</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><img src="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/sett.png" alt="Lusk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

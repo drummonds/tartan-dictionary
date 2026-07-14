@@ -18,10 +18,10 @@ Its design is pattern [GRGRKRKRKRKRKRKRWRBRWRGRGRGRGRGGGRGWGW](/stripes/grgrkrkr
 The **Kinnoull** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s38/dg24r7dg24r26k2r2k5r2k2r24k2r2k5r2k2r26w3r12db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~dg1806142-g1904115/">Kinnoull</a></td><td><code>DG/24 R7 DG24 R26 K2 R2 K5 R2 K2 R24 K2 R2 K5 R2 K2 R26 W3 R12 DB33 R12 W3 R26 DG4 R12 DG4 R26 DG12 R8 DG12 R12 DG8 G7 DG8 R12 DG9 W3 DG16 W/2</code></td><td>776</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s38/dg24r7dg24r26k2r2k5r2k2r24k2r2k5r2k2r26w3r12db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~dg1806142-g1904115/"><img src="/variants/s38/dg24r7dg24r26k2r2k5r2k2r24k2r2k5r2k2r26w3r12db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~dg1806142-g1904115/sett.png" alt="Kinnoull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s38/dg24r7dg24r26k2r2k5r2k2r24k2r2k5r2k2r26w3r12db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~dg1806142-g1904115/">Kinnoull</a></td><td></td><td><code>DG/24 R7 DG24 R26 K2 R2 K5 R2 K2 R24 K2 R2 K5 R2 K2 R26 W3 R12 DB33 R12 W3 R26 DG4 R12 DG4 R26 DG12 R8 DG12 R12 DG8 G7 DG8 R12 DG9 W3 DG16 W/2</code></td><td>776</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s38/dg24r7dg24r26k2r2k5r2k2r24k2r2k5r2k2r26w3r12db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~dg1806142-g1904115/"><img src="/variants/s38/dg24r7dg24r26k2r2k5r2k2r24k2r2k5r2k2r26w3r12db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~dg1806142-g1904115/sett.png" alt="Kinnoull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

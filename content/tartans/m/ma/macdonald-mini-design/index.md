@@ -16,10 +16,10 @@ Its design is pattern [BRBRBRKGRGRG](/stripes/brbrbrkgrgrg/) — the page of eve
 The **MacDonald MINI Design** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/">MacDonald MINI Design</a></td><td><code>DB/8 R2 DB2 R3 DB12 R2 K12 G12 R3 G2 R2 G/8</code></td><td>120</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><img src="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/sett.png" alt="MacDonald MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/">MacDonald MINI Design</a></td><td></td><td><code>DB/8 R2 DB2 R3 DB12 R2 K12 G12 R3 G2 R2 G/8</code></td><td>120</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><img src="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/sett.png" alt="MacDonald MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

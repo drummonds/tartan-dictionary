@@ -13,10 +13,10 @@ Its design is pattern [WKBKRGKRGKWKWRW](/stripes/wkbkrgkrgkwkwrw/) — the page 
 The **Uganda** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/w4r2w1k2w8k6y6r6k6y6r6k1db16k1w4~x2/">Uganda</a></td><td><code>W/8 R4 W2 K4 W16 K12 Y12 R12 K12 Y12 R12 K2 DB32 K2 W/8</code></td><td>284</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/w4r2w1k2w8k6y6r6k6y6r6k1db16k1w4~x2/"><img src="/variants/s15/w4r2w1k2w8k6y6r6k6y6r6k1db16k1w4~x2/sett.png" alt="Uganda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w4r2w1k2w8k6y6r6k6y6r6k1db16k1w4~x2/">Uganda</a></td><td></td><td><code>W/8 R4 W2 K4 W16 K12 Y12 R12 K12 Y12 R12 K2 DB32 K2 W/8</code></td><td>284</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/w4r2w1k2w8k6y6r6k6y6r6k1db16k1w4~x2/"><img src="/variants/s15/w4r2w1k2w8k6y6r6k6y6r6k1db16k1w4~x2/sett.png" alt="Uganda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

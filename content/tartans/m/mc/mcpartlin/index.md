@@ -13,10 +13,10 @@ Its design is pattern [KWKWR](/stripes/kwkwr/) — the page of every tartan shar
 The **McPartlin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k27w29k5w14r2~x2/">McPartlin</a></td><td><code>K/54 W58 K10 W28 R/4</code></td><td>250</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k27w29k5w14r2~x2/"><img src="/variants/s5/k27w29k5w14r2~x2/sett.png" alt="McPartlin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k27w29k5w14r2~x2/">McPartlin</a></td><td></td><td><code>K/54 W58 K10 W28 R/4</code></td><td>250</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k27w29k5w14r2~x2/"><img src="/variants/s5/k27w29k5w14r2~x2/sett.png" alt="McPartlin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

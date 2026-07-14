@@ -18,10 +18,10 @@ Its design is pattern [GRGKWBR](/stripes/grgkwbr/) — the page of every tartan 
 The **Sinclair Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r2db16w1k16g30r1g2~x2/">Sinclair Hunting</a></td><td><code>R/4 DB32 W2 K32 G60 R2 G/4</code></td><td>264</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><img src="/variants/s7/r2db16w1k16g30r1g2~x2/sett.png" alt="Sinclair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2db16w1k16g30r1g2~x2/">Sinclair Hunting</a></td><td></td><td><code>R/4 DB32 W2 K32 G60 R2 G/4</code></td><td>264</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><img src="/variants/s7/r2db16w1k16g30r1g2~x2/sett.png" alt="Sinclair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

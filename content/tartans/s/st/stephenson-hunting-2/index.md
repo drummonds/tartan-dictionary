@@ -21,17 +21,17 @@ The **Stephenson Hunting** tartan groups 3 setts — the same named design recor
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2~x4/">Stephenson Hunting</a> ★</td><td><code>R/8 K4 T36 K36 G36 K4 W4 K8 W4 K4 G36 T36 K36 T36 K4 G/8</code></td><td>584</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2~x4/"><img src="/variants/s16/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2~x4/sett.png" alt="Stephenson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/">Stephenson Htg (Name)</a></td><td><code>DG/8 K4 DB36 K36 DG36 K4 W4 K8 W4 K4 DG36 K36 DB36 K4 R/8</code></td><td>512</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/"><img src="dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2-rev.png" alt="Stephenson Htg (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/">Stephenson, hunting</a></td><td><code>R/5 K3 DB25 K25 G25 K3 W3 K6 W3 K3 G25 K25 DB25 K3 G/5</code></td><td>358</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/"><img src="r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5-rev.png" alt="Stephenson, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/">Tartan</a></td><td><code>R/5 K3 DB25 K25 G25 K3 W3 K6 W3 K3 G25 K25 DB25 K3 G/5</code></td><td>358</td><td>1981</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/">Stephenson, hunting</a></td><td><code>R/10 K6 DB50 K50 G50 K6 W6 K12 W6 K6 G50 K50 DB50 K6 G/10</code></td><td>716</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/">Tartan</a> · <a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/">Stephenson, hunting</a></td></tr>
+<tr><td><a href="/variants/s16/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2~x4/">Stephenson Hunting</a> ★</td><td></td><td><code>R/8 K4 T36 K36 G36 K4 W4 K8 W4 K4 G36 T36 K36 T36 K4 G/8</code></td><td>584</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2~x4/"><img src="/variants/s16/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2~x4/sett.png" alt="Stephenson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/">Stephenson Htg (Name)</a></td><td>1.10</td><td><code>DG/8 K4 DB36 K36 DG36 K4 W4 K8 W4 K4 DG36 K36 DB36 K4 R/8</code></td><td>512</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/"><img src="dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2-rev.png" alt="Stephenson Htg (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/">Stephenson, hunting</a></td><td>1.21</td><td><code>R/5 K3 DB25 K25 G25 K3 W3 K6 W3 K3 G25 K25 DB25 K3 G/5</code></td><td>358</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/"><img src="r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5-rev.png" alt="Stephenson, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/">Tartan</a></td><td>1.21</td><td><code>R/5 K3 DB25 K25 G25 K3 W3 K6 W3 K3 G25 K25 DB25 K3 G/5</code></td><td>358</td><td>1981</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/">Stephenson, hunting</a></td><td>1.21</td><td><code>R/10 K6 DB50 K50 G50 K6 W6 K12 W6 K6 G50 K50 DB50 K6 G/10</code></td><td>716</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/">Tartan</a> · <a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/">Stephenson, hunting</a></td></tr>
 </tbody>
 </table>
 

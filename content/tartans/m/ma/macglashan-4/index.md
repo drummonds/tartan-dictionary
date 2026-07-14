@@ -18,10 +18,10 @@ Its design is pattern [RKWYWGRKRGWWKRWW](/stripes/rkwywgrkrgwwkrww/) — the pag
 The **MacGlashan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/">MacGlashan</a></td><td><code>R/40 K6 W4 LY50 W4 Y10 R8 K4 R8 Y10 W6 LB8 K10 R12 W2 LB/2</code></td><td>326</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/"><img src="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/sett.png" alt="MacGlashan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/">MacGlashan</a></td><td></td><td><code>R/40 K6 W4 LY50 W4 Y10 R8 K4 R8 Y10 W6 LB8 K10 R12 W2 LB/2</code></td><td>326</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/"><img src="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/sett.png" alt="MacGlashan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

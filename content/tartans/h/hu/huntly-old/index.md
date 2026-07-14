@@ -16,10 +16,10 @@ Its design is pattern [GWRWKWGWGWGRKRK](/stripes/gwrwkwgwgwgrkrk/) — the page 
 The **Huntly Old** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/">Huntly Old</a></td><td><code>DG/16 W2 R7 W2 K14 W8 DG15 W2 G17 W6 G6 R8 K6 R8 K/2</code></td><td>220</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/"><img src="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/sett.png" alt="Huntly Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/">Huntly Old</a></td><td></td><td><code>DG/16 W2 R7 W2 K14 W8 DG15 W2 G17 W6 G6 R8 K6 R8 K/2</code></td><td>220</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/"><img src="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/sett.png" alt="Huntly Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GRGRBR](/stripes/grgrbr/) — the page of every tartan sh
 The **AON** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r5db10r5dg5r25y1~x4/">AON</a></td><td><code>R/20 DB40 R20 DG20 R100 Y/4</code></td><td>384</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><img src="/variants/s6/r5db10r5dg5r25y1~x4/sett.png" alt="AON sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r5db10r5dg5r25y1~x4/">AON</a></td><td></td><td><code>R/20 DB40 R20 DG20 R100 Y/4</code></td><td>384</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><img src="/variants/s6/r5db10r5dg5r25y1~x4/sett.png" alt="AON sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,12 +15,12 @@ The **Talisman** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db8ly2~x2/">Talisman</a> ★</td><td><code>LR/4 DB6 K6 G16 DR12 DB4 LY4 K6 LR4 K12 DB16 LY/4</code></td><td>180</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db8ly2~x2/"><img src="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db8ly2~x2/sett.png" alt="Talisman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db32ly2~x2/">(Fashion)</a></td><td><code>LR/4 DB6 K6 G16 DR12 DB4 LY4 K6 LR4 K12 DB64 LY/4</code></td><td>276</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db32ly2~x2/"><img src="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db32ly2~x2/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db8ly2~x2/">Talisman</a> ★</td><td></td><td><code>LR/4 DB6 K6 G16 DR12 DB4 LY4 K6 LR4 K12 DB16 LY/4</code></td><td>180</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db8ly2~x2/"><img src="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db8ly2~x2/sett.png" alt="Talisman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db32ly2~x2/">(Fashion)</a></td><td>0.77</td><td><code>LR/4 DB6 K6 G16 DR12 DB4 LY4 K6 LR4 K12 DB64 LY/4</code></td><td>276</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db32ly2~x2/"><img src="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db32ly2~x2/sett.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

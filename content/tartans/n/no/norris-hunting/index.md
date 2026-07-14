@@ -18,10 +18,10 @@ Its design is pattern [BWBBWK](/stripes/bwbbwk/) — the page of every tartan sh
 The **Norris Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/">Norris Hunting</a></td><td><code>K/4 W2 N16 DR2 LB56 DR/4</code></td><td>160</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><img src="/variants/s6/k2w1n8dr1lb28dr2~x2/sett.png" alt="Norris Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/">Norris Hunting</a></td><td></td><td><code>K/4 W2 N16 DR2 LB56 DR/4</code></td><td>160</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><img src="/variants/s6/k2w1n8dr1lb28dr2~x2/sett.png" alt="Norris Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

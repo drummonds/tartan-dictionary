@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKWGRGWKWBWBRBWBWK](/stripes/bkbkbkwgrgwkwbwbrbwbwk/)
 The **Colquhoun Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/">Colquhoun Dress</a></td><td><code>K/15 W3 DB3 W18 DB2 R2 DB2 W19 DB3 W3 K15 W2 G13 R2 G14 W2 K15 DB10 K2 DB2 K2 DB/10</code></td><td>293</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/"><img src="/variants/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/sett.png" alt="Colquhoun Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/">Colquhoun Dress</a></td><td></td><td><code>K/15 W3 DB3 W18 DB2 R2 DB2 W19 DB3 W3 K15 W2 G13 R2 G14 W2 K15 DB10 K2 DB2 K2 DB/10</code></td><td>293</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/"><img src="/variants/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/sett.png" alt="Colquhoun Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

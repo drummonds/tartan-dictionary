@@ -15,10 +15,10 @@ Welsh surname tartan woven at Cambrian Woollen Mill, with differing warp and wef
 The **Edwards** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/n37db4n7db4n9db40lb2db4n2/">Edwards</a></td><td><code>N/37 DB4 N7 DB4 N9 DB40 LB2 DB4 N/2</code></td><td>179</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/n37db4n7db4n9db40lb2db4n2/"><img src="/variants/s9/n37db4n7db4n9db40lb2db4n2/sett.png" alt="Edwards sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/n37db4n7db4n9db40lb2db4n2/">Edwards</a></td><td></td><td><code>N/37 DB4 N7 DB4 N9 DB40 LB2 DB4 N/2</code></td><td>179</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/n37db4n7db4n9db40lb2db4n2/"><img src="/variants/s9/n37db4n7db4n9db40lb2db4n2/sett.png" alt="Edwards sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

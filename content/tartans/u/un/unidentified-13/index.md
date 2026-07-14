@@ -13,10 +13,10 @@ Its design is pattern [KWBGRKBWBW](/stripes/kwbgrkbwbw/) — the page of every t
 The **Unidentified 13** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k14lb2db6g7r2k14db6lb2db2lb4~x2/">Unidentified 13</a></td><td><code>K/28 LB4 DB12 G14 R4 K28 DB12 LB4 DB4 LB/8</code></td><td>200</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k14lb2db6g7r2k14db6lb2db2lb4~x2/"><img src="/variants/s10/k14lb2db6g7r2k14db6lb2db2lb4~x2/sett.png" alt="Unidentified 13 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k14lb2db6g7r2k14db6lb2db2lb4~x2/">Unidentified 13</a></td><td></td><td><code>K/28 LB4 DB12 G14 R4 K28 DB12 LB4 DB4 LB/8</code></td><td>200</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k14lb2db6g7r2k14db6lb2db2lb4~x2/"><img src="/variants/s10/k14lb2db6g7r2k14db6lb2db2lb4~x2/sett.png" alt="Unidentified 13 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

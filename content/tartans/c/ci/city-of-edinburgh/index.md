@@ -13,10 +13,10 @@ Its design is pattern [BKBGKWKWKG](/stripes/bkbgkwkwkg/) — the page of every t
 The **City of Edinburgh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/">City of Edinburgh</a></td><td><code>DG/20 K6 W6 K6 W6 K6 DG20 B12 K30 B/6</code></td><td>210</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/"><img src="/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/sett.png" alt="City of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/">City of Edinburgh</a></td><td></td><td><code>DG/20 K6 W6 K6 W6 K6 DG20 B12 K30 B/6</code></td><td>210</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/"><img src="/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/sett.png" alt="City of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BYRRBKBY](/stripes/byrrbkby/) — the page of every tarta
 The **Hyland Evening** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dp3lo2r19o4dpi6k36dpi2lo3~x2~dp1105325-dpi1607327/">Hyland Evening</a></td><td><code>DP/6 LO4 R38 O8 DPi12 K72 DPi4 LO/6</code></td><td>288</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dp3lo2r19o4dpi6k36dpi2lo3~x2~dp1105325-dpi1607327/"><img src="/variants/s8/dp3lo2r19o4dpi6k36dpi2lo3~x2~dp1105325-dpi1607327/sett.png" alt="Hyland Evening sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dp3lo2r19o4dpi6k36dpi2lo3~x2~dp1105325-dpi1607327/">Hyland Evening</a></td><td></td><td><code>DP/6 LO4 R38 O8 DPi12 K72 DPi4 LO/6</code></td><td>288</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dp3lo2r19o4dpi6k36dpi2lo3~x2~dp1105325-dpi1607327/"><img src="/variants/s8/dp3lo2r19o4dpi6k36dpi2lo3~x2~dp1105325-dpi1607327/sett.png" alt="Hyland Evening sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

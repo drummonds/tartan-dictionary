@@ -16,10 +16,10 @@ Its design is pattern [RBRGRWBRGRBGRBWRGRBRBW](/stripes/rbrgrwbrgrbgrbwrgrbrbw/)
 The **Cumming and Glenorchy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1~x2/">Cumming and Glenorchy</a></td><td><code>R/6 DB40 R6 G24 R16 LB2 DB24 R6 G44 R6 DB6 G66 R6 DB24 LB2 R16 G24 R6 DB40 R6 DB6 LB/2</code></td><td>748</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1~x2/"><img src="/variants/s22/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1~x2/sett.png" alt="Cumming and Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1~x2/">Cumming and Glenorchy</a></td><td></td><td><code>R/6 DB40 R6 G24 R16 LB2 DB24 R6 G44 R6 DB6 G66 R6 DB24 LB2 R16 G24 R6 DB40 R6 DB6 LB/2</code></td><td>748</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1~x2/"><img src="/variants/s22/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1~x2/sett.png" alt="Cumming and Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

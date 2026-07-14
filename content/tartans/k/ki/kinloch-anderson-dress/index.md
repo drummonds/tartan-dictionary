@@ -16,10 +16,10 @@ Its design is pattern [BBBBKWKRWRWB](/stripes/bbbbkwkrwrwb/) — the page of eve
 The **Kinloch Anderson Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/">Kinloch Anderson Dress</a></td><td><code>DR/8 W30 O5 W8 O5 K12 W6 K12 DB28 DR4 DB8 DR/8</code></td><td>252</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/"><img src="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/sett.png" alt="Kinloch Anderson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/">Kinloch Anderson Dress</a></td><td></td><td><code>DR/8 W30 O5 W8 O5 K12 W6 K12 DB28 DR4 DB8 DR/8</code></td><td>252</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/"><img src="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/sett.png" alt="Kinloch Anderson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

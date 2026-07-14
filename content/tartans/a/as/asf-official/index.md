@@ -13,10 +13,10 @@ Its design is pattern [WRGRGKGBBWBBWBWBWBRWRW](/stripes/wrgrgkgbbwbbwbwbwbrwrw/)
 The **ASF Official** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db1404245-dbi1406275/">ASF Official</a></td><td><code>W/4 R4 W4 R4 DB4 W2 DB2 W2 DB2 W2 DB4 DBi8 W2 DBi8 DB70 DG4 K2 DG4 R4 DG2 R4 W/2</code></td><td>282</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db1404245-dbi1406275/"><img src="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db1404245-dbi1406275/sett.png" alt="ASF Official sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db1404245-dbi1406275/">ASF Official</a></td><td></td><td><code>W/4 R4 W4 R4 DB4 W2 DB2 W2 DB2 W2 DB4 DBi8 W2 DBi8 DB70 DG4 K2 DG4 R4 DG2 R4 W/2</code></td><td>282</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db1404245-dbi1406275/"><img src="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db1404245-dbi1406275/sett.png" alt="ASF Official sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

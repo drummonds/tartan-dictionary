@@ -13,10 +13,10 @@ Its design is pattern [BKBWBRBGBGBGBG](/stripes/bkbwbrbgbgbgbg/) — the page of
 The **King Pootatau Te Wherowhero** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/">King Pootatau Te Wherowhero</a></td><td><code>DB/46 K2 DB2 W2 DB2 R2 DB8 Y4 DB2 Y4 DB2 Y4 DB2 Y/4</code></td><td>122</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/"><img src="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/sett.png" alt="King Pootatau Te Wherowhero sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/">King Pootatau Te Wherowhero</a></td><td></td><td><code>DB/46 K2 DB2 W2 DB2 R2 DB8 Y4 DB2 Y4 DB2 Y4 DB2 Y/4</code></td><td>122</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/"><img src="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/sett.png" alt="King Pootatau Te Wherowhero sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

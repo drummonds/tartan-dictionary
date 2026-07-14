@@ -13,10 +13,10 @@ Its design is pattern [GGKBGKGGKG](/stripes/ggkbgkggkg/) — the page of every t
 The **Antrim** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/">Antrim</a></td><td><code>G/10 K4 G34 Y4 K10 Y4 B10 K34 G4 Y/8</code></td><td>226</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/"><img src="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/sett.png" alt="Antrim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/">Antrim</a></td><td></td><td><code>G/10 K4 G34 Y4 K10 Y4 B10 K34 G4 Y/8</code></td><td>226</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/"><img src="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/sett.png" alt="Antrim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

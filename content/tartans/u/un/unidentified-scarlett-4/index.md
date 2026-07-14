@@ -13,10 +13,10 @@ Its design is pattern [BRGBRGBGRBGR](/stripes/brgbrgbgrbgr/) — the page of eve
 The **Unidentified Scarlett** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/">Unidentified Scarlett</a></td><td><code>R/28 G4 DP20 R4 G28 DP6 G28 R4 DP20 G4 R28 DP/6</code></td><td>326</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/"><img src="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/">Unidentified Scarlett</a></td><td></td><td><code>R/28 G4 DP20 R4 G28 DP6 G28 R4 DP20 G4 R28 DP/6</code></td><td>326</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/"><img src="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

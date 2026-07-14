@@ -13,10 +13,10 @@ Its design is pattern [GGBGRRRW](/stripes/ggbgrrrw/) — the page of every tarta
 The **Etienne, Paschal Tache Sir...** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/">Etienne, Paschal Tache Sir...</a></td><td><code>W/6 O2 R58 O32 G46 DB6 G6 Y/4</code></td><td>310</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/"><img src="/variants/s8/w3o1r29o16g23db3g3y2~x2/sett.png" alt="Etienne, Paschal Tache Sir... sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/">Etienne, Paschal Tache Sir...</a></td><td></td><td><code>W/6 O2 R58 O32 G46 DB6 G6 Y/4</code></td><td>310</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/"><img src="/variants/s8/w3o1r29o16g23db3g3y2~x2/sett.png" alt="Etienne, Paschal Tache Sir... sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

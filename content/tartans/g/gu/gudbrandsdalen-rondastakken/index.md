@@ -16,10 +16,10 @@ Its design is pattern [RKRGKRWR](/stripes/rkrgkrwr/) — the page of every tarta
 The **Gudbrandsdalen, Rondastakken** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/">Gudbrandsdalen, Rondastakken</a></td><td><code>R/130 W2 R12 K16 G16 R12 K6 R/22</code></td><td>280</td><td>1830</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><img src="/variants/s8/r65w1r6k8g8r6k3r11~x2/sett.png" alt="Gudbrandsdalen, Rondastakken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/">Gudbrandsdalen, Rondastakken</a></td><td></td><td><code>R/130 W2 R12 K16 G16 R12 K6 R/22</code></td><td>280</td><td>1830</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><img src="/variants/s8/r65w1r6k8g8r6k3r11~x2/sett.png" alt="Gudbrandsdalen, Rondastakken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

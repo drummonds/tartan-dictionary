@@ -18,10 +18,10 @@ Its design is pattern [BWBGBGBGRGRGRGRGRGBRWR](/stripes/bwbgbgbgrgrgrgrgrgbrwr/)
 The **Wilson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/">Wilson</a></td><td><code>DB/45 W4 DB6 G6 DB6 G6 DB6 G37 R6 G6 R6 G6 R6 G6 R6 G39 R27 G6 DB6 R12 W4 R/30</code></td><td>489</td><td>1780</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/"><img src="/variants/s22/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/sett.png" alt="Wilson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/">Wilson</a></td><td></td><td><code>DB/45 W4 DB6 G6 DB6 G6 DB6 G37 R6 G6 R6 G6 R6 G6 R6 G39 R27 G6 DB6 R12 W4 R/30</code></td><td>489</td><td>1780</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/"><img src="/variants/s22/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/sett.png" alt="Wilson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGWBGGBKRBKBRK](/stripes/bgwbggbkrbkbrk/) — the page of
 The **Abel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/">Abel</a></td><td><code>DB/44 G44 W12 DB8 Y14 G40 DB48 K40 R4 N48 K12 N48 R4 K/40</code></td><td>728</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/"><img src="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/sett.png" alt="Abel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/">Abel</a></td><td></td><td><code>DB/44 G44 W12 DB8 Y14 G40 DB48 K40 R4 N48 K12 N48 R4 K/40</code></td><td>728</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/"><img src="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/sett.png" alt="Abel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

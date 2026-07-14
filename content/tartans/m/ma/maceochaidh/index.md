@@ -13,10 +13,10 @@ Its design is pattern [BRBRBBBRBGKGG](/stripes/brbrbbbrbgkgg/) — the page of e
 The **MacEochaidh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3~x4/">MacEochaidh</a></td><td><code>DR/20 R4 DB4 R12 DR4 DB8 DR20 R16 DB16 G12 K12 G12 Y/12</code></td><td>272</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3~x4/"><img src="/variants/s13/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3~x4/sett.png" alt="MacEochaidh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3~x4/">MacEochaidh</a></td><td></td><td><code>DR/20 R4 DB4 R12 DR4 DB8 DR20 R16 DB16 G12 K12 G12 Y/12</code></td><td>272</td><td>1982</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3~x4/"><img src="/variants/s13/dr5r1db1r3dr1db2dr5r4db4g3k3g3y3~x4/sett.png" alt="MacEochaidh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

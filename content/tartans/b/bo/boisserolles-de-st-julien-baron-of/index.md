@@ -13,10 +13,10 @@ Its design is pattern [BBWBBBGGRK](/stripes/bbwbbbggrk/) — the page of every t
 The **Boisserolles de St-Julien, Baron of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db4n4w1db2n50db20y1dg25o4k2~x2/">Boisserolles de St-Julien, Baron of</a></td><td><code>DB/8 N8 W2 DB4 N100 DB40 Y2 DG50 O8 K/4</code></td><td>440</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db4n4w1db2n50db20y1dg25o4k2~x2/"><img src="/variants/s10/db4n4w1db2n50db20y1dg25o4k2~x2/sett.png" alt="Boisserolles de St-Julien, Baron of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db4n4w1db2n50db20y1dg25o4k2~x2/">Boisserolles de St-Julien, Baron of</a></td><td></td><td><code>DB/8 N8 W2 DB4 N100 DB40 Y2 DG50 O8 K/4</code></td><td>440</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db4n4w1db2n50db20y1dg25o4k2~x2/"><img src="/variants/s10/db4n4w1db2n50db20y1dg25o4k2~x2/sett.png" alt="Boisserolles de St-Julien, Baron of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

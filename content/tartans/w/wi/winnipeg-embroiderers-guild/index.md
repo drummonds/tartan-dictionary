@@ -13,10 +13,10 @@ Its design is pattern [RBGWBW](/stripes/rbgwbw/) — the page of every tartan sh
 The **Winnipeg Embroiderers' Guild** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r6db1y1w1db2w3~x4/">Winnipeg Embroiderers' Guild</a></td><td><code>R/24 DB4 Y4 W4 DB8 W/12</code></td><td>76</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r6db1y1w1db2w3~x4/"><img src="/variants/s6/r6db1y1w1db2w3~x4/sett.png" alt="Winnipeg Embroiderers' Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r6db1y1w1db2w3~x4/">Winnipeg Embroiderers' Guild</a></td><td></td><td><code>R/24 DB4 Y4 W4 DB8 W/12</code></td><td>76</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r6db1y1w1db2w3~x4/"><img src="/variants/s6/r6db1y1w1db2w3~x4/sett.png" alt="Winnipeg Embroiderers' Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

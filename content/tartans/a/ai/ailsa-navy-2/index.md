@@ -16,10 +16,10 @@ Its design is pattern [BWBKBK](/stripes/bwbkbk/) — the page of every tartan sh
 The **Ailsa, Navy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k60dr3k5dr3lb18n3~x2/">Ailsa, Navy</a></td><td><code>K/120 DR6 K10 DR6 LB36 N/6</code></td><td>242</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k60dr3k5dr3lb18n3~x2/"><img src="/variants/s6/k60dr3k5dr3lb18n3~x2/sett.png" alt="Ailsa, Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k60dr3k5dr3lb18n3~x2/">Ailsa, Navy</a></td><td></td><td><code>K/120 DR6 K10 DR6 LB36 N/6</code></td><td>242</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k60dr3k5dr3lb18n3~x2/"><img src="/variants/s6/k60dr3k5dr3lb18n3~x2/sett.png" alt="Ailsa, Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

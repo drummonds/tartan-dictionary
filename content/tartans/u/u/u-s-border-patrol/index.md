@@ -13,10 +13,10 @@ Its design is pattern [GKBKGKBK](/stripes/gkbkgkbk/) — the page of every tarta
 The **U.S. Border Patrol** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k10t10k15g40k15t10k10y3~x2/">U.S. Border Patrol</a></td><td><code>K/20 T20 K30 G80 K30 T20 K20 Y/6</code></td><td>426</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k10t10k15g40k15t10k10y3~x2/"><img src="/variants/s8/k10t10k15g40k15t10k10y3~x2/sett.png" alt="U.S. Border Patrol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k10t10k15g40k15t10k10y3~x2/">U.S. Border Patrol</a></td><td></td><td><code>K/20 T20 K30 G80 K30 T20 K20 Y/6</code></td><td>426</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k10t10k15g40k15t10k10y3~x2/"><img src="/variants/s8/k10t10k15g40k15t10k10y3~x2/sett.png" alt="U.S. Border Patrol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

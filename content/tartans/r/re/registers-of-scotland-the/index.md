@@ -13,10 +13,10 @@ Its design is pattern [GBYBYBWBBBYBR](/stripes/gbybybwbbbybr/) — the page of e
 The **Registers of Scotland, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2~x2~r1906028-lr2801060-n1800000-lri3002055-ly3203114-y2504115/">Registers of Scotland, The</a></td><td><code>R/4 DB84 LR2 DB4 N10 DB2 LB2 DB4 LRi4 N6 LY2 N2 Y/4</code></td><td>252</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2~x2~r1906028-lr2801060-n1800000-lri3002055-ly3203114-y2504115/"><img src="/variants/s13/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2~x2~r1906028-lr2801060-n1800000-lri3002055-ly3203114-y2504115/sett.png" alt="Registers of Scotland, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2~x2~r1906028-lr2801060-n1800000-lri3002055-ly3203114-y2504115/">Registers of Scotland, The</a></td><td></td><td><code>R/4 DB84 LR2 DB4 N10 DB2 LB2 DB4 LRi4 N6 LY2 N2 Y/4</code></td><td>252</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2~x2~r1906028-lr2801060-n1800000-lri3002055-ly3203114-y2504115/"><img src="/variants/s13/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2~x2~r1906028-lr2801060-n1800000-lri3002055-ly3203114-y2504115/sett.png" alt="Registers of Scotland, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

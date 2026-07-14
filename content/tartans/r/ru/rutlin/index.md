@@ -13,10 +13,10 @@ Its design is pattern [BBBWBBBYG](/stripes/bbbwbbbyg/) — the page of every tar
 The **Rutlin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/">Rutlin</a></td><td><code>N/12 DB4 N2 W34 N2 DB4 N32 LY54 G/4</code></td><td>280</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/"><img src="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/sett.png" alt="Rutlin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/">Rutlin</a></td><td></td><td><code>N/12 DB4 N2 W34 N2 DB4 N32 LY54 G/4</code></td><td>280</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/"><img src="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/sett.png" alt="Rutlin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KRGRBGGBR](/stripes/krgrbggbr/) — the page of every tar
 The **Mann** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k3r2dy4r1db25g12dy14db3r1~x2/">Mann</a></td><td><code>K/6 R4 DY8 R2 DB50 G24 DY28 DB6 R/2</code></td><td>252</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k3r2dy4r1db25g12dy14db3r1~x2/"><img src="/variants/s9/k3r2dy4r1db25g12dy14db3r1~x2/sett.png" alt="Mann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k3r2dy4r1db25g12dy14db3r1~x2/">Mann</a></td><td></td><td><code>K/6 R4 DY8 R2 DB50 G24 DY28 DB6 R/2</code></td><td>252</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k3r2dy4r1db25g12dy14db3r1~x2/"><img src="/variants/s9/k3r2dy4r1db25g12dy14db3r1~x2/sett.png" alt="Mann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

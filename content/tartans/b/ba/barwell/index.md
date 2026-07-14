@@ -13,10 +13,10 @@ Its design is pattern [BGBG](/stripes/bgbg/) — the page of every tartan sharin
 The **Barwell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/dr1dg3db3dg1~x4/">Barwell</a></td><td><code>DR/4 DG12 DB12 DG/4</code></td><td>56</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dr1dg3db3dg1~x4/"><img src="/variants/s4/dr1dg3db3dg1~x4/sett.png" alt="Barwell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dr1dg3db3dg1~x4/">Barwell</a></td><td></td><td><code>DR/4 DG12 DB12 DG/4</code></td><td>56</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/dr1dg3db3dg1~x4/"><img src="/variants/s4/dr1dg3db3dg1~x4/sett.png" alt="Barwell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

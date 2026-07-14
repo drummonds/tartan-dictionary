@@ -13,10 +13,10 @@ Its design is pattern [BWBWBWBBBBBWBW](/stripes/bwbwbwbbbbbwbw/) — the page of
 The **Majewski-White** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/">Majewski-White</a></td><td><code>DB/10 W14 DB8 W4 DB4 W6 DB8 DP12 DB6 DP12 DB68 W4 DB8 W/4</code></td><td>322</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/"><img src="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/sett.png" alt="Majewski-White sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/">Majewski-White</a></td><td></td><td><code>DB/10 W14 DB8 W4 DB4 W6 DB8 DP12 DB6 DP12 DB68 W4 DB8 W/4</code></td><td>322</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/"><img src="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/sett.png" alt="Majewski-White sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

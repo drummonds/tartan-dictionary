@@ -13,10 +13,10 @@ Its design is pattern [BWKBYKWBY](/stripes/bwkbykwby/) — the page of every tar
 The **Tipperary County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/">Tipperary County Crest</a></td><td><code>DR/10 LB36 K24 DR30 LY8 K16 W18 DB16 LY/9</code></td><td>315</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><img src="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/sett.png" alt="Tipperary County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/">Tipperary County Crest</a></td><td></td><td><code>DR/10 LB36 K24 DR30 LY8 K16 W18 DB16 LY/9</code></td><td>315</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><img src="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/sett.png" alt="Tipperary County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

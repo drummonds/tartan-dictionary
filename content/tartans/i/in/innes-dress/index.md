@@ -20,10 +20,10 @@ Inglis variation of MacIntyre, with yellow replacing the green stripe; from MacK
 The **Innes Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2~x2/">Innes Dress</a></td><td><code>LB/8 K24 R4 K4 R4 K4 W24 Y4 W6 DB12 W6 K4 G24 K4 W6 R/4</code></td><td>272</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2~x2/"><img src="/variants/s16/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2~x2/sett.png" alt="Innes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2~x2/">Innes Dress</a></td><td></td><td><code>LB/8 K24 R4 K4 R4 K4 W24 Y4 W6 DB12 W6 K4 G24 K4 W6 R/4</code></td><td>272</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2~x2/"><img src="/variants/s16/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2~x2/sett.png" alt="Innes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

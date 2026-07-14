@@ -16,10 +16,10 @@ Its design is pattern [BGGGBGGYGGGBGGGGWG](/stripes/bgggbggygggbggggwg/) — the
 The **Hebrides South Uist** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2~y2400000-ly3307090/">Hebrides South Uist</a></td><td><code>DB/38 Y4 G6 Y4 DB4 Y40 G2 LY2 Y2 G4 Y4 DB36 Y4 G4 Y44 G6 W2 Y/6</code></td><td>380</td><td>1730</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2~y2400000-ly3307090/"><img src="/variants/s18/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2~y2400000-ly3307090/sett.png" alt="Hebrides South Uist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2~y2400000-ly3307090/">Hebrides South Uist</a></td><td></td><td><code>DB/38 Y4 G6 Y4 DB4 Y40 G2 LY2 Y2 G4 Y4 DB36 Y4 G4 Y44 G6 W2 Y/6</code></td><td>380</td><td>1730</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2~y2400000-ly3307090/"><img src="/variants/s18/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2~y2400000-ly3307090/sett.png" alt="Hebrides South Uist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

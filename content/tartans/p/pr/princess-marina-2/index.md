@@ -13,10 +13,10 @@ Its design is pattern [RGRGRGRGRGW](/stripes/rgrgrgrgrgw/) — the page of every
 The **Princess Marina** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/">Princess Marina</a></td><td><code>R/6 G44 R6 G8 R10 G8 R10 G8 R10 G4 W/4</code></td><td>226</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/"><img src="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/sett.png" alt="Princess Marina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/">Princess Marina</a></td><td></td><td><code>R/6 G44 R6 G8 R10 G8 R10 G8 R10 G4 W/4</code></td><td>226</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/"><img src="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/sett.png" alt="Princess Marina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

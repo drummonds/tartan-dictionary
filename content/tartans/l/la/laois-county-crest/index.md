@@ -13,10 +13,10 @@ Its design is pattern [GYKYKBKBBKW](/stripes/gykykbkbbkw/) — the page of every
 The **Laois County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/">Laois County Crest</a></td><td><code>Y/18 LY6 K8 LY8 K16 DR34 K6 DR34 DB16 K8 W/8</code></td><td>298</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/"><img src="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/sett.png" alt="Laois County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/">Laois County Crest</a></td><td></td><td><code>Y/18 LY6 K8 LY8 K16 DR34 K6 DR34 DB16 K8 W/8</code></td><td>298</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/"><img src="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/sett.png" alt="Laois County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

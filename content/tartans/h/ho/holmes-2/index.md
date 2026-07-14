@@ -18,10 +18,10 @@ Its design is pattern [GGBKBKBGRGRGGGR](/stripes/ggbkbkbgrgrgggr/) — the page 
 The **Holmes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3~x2/">Holmes</a></td><td><code>Y/8 G78 DB18 K6 DB10 K6 DB18 G64 R4 G6 R4 G10 Y4 G6 R/6</code></td><td>482</td><td>1830</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3~x2/"><img src="/variants/s15/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3~x2/sett.png" alt="Holmes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3~x2/">Holmes</a></td><td></td><td><code>Y/8 G78 DB18 K6 DB10 K6 DB18 G64 R4 G6 R4 G10 Y4 G6 R/6</code></td><td>482</td><td>1830</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3~x2/"><img src="/variants/s15/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3~x2/sett.png" alt="Holmes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

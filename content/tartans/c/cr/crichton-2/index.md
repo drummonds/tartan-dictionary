@@ -20,10 +20,10 @@ Commissioned 2008 by clan chief; based on MacGill tartan, with colours from the 
 The **Crichton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/">Crichton</a></td><td><code>K/160 DG2 K4 DR8 LB2 N10 K16 LY4 DG/4</code></td><td>256</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/"><img src="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/sett.png" alt="Crichton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/">Crichton</a></td><td></td><td><code>K/160 DG2 K4 DR8 LB2 N10 K16 LY4 DG/4</code></td><td>256</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/"><img src="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/sett.png" alt="Crichton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

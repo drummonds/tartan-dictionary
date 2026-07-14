@@ -13,10 +13,10 @@ Its design is pattern [BWBBWBWBWBBBW](/stripes/bwbbwbwbwbbbw/) — the page of e
 The **Meiji Rugby 1923** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/">Meiji Rugby 1923</a></td><td><code>DP/4 W4 DP46 DB2 W6 DB14 W2 DB4 W2 DB2 DP10 DB24 W/4</code></td><td>240</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/"><img src="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/sett.png" alt="Meiji Rugby 1923 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/">Meiji Rugby 1923</a></td><td></td><td><code>DP/4 W4 DP46 DB2 W6 DB14 W2 DB4 W2 DB2 DP10 DB24 W/4</code></td><td>240</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/"><img src="/variants/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/sett.png" alt="Meiji Rugby 1923 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

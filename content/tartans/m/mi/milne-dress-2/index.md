@@ -20,12 +20,12 @@ The **Milne, Dress** tartan groups 2 setts — the same named design recorded as
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/">Milne, Dress</a> ★</td><td><code>W/48 LB8 W48 R68 W48 LB8 W20 DP/8</code></td><td>456</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/"><img src="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/sett.png" alt="Milne, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/w18db4w18r30w18db4w9dp4/">Milne, dress</a></td><td><code>W/18 DB4 W18 R30 W18 DB4 W9 DP/4</code></td><td>188</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w18db4w18r30w18db4w9dp4/"><img src="/variants/s8/w18db4w18r30w18db4w9dp4/sett.png" alt="Milne, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/">Milne, Dress</a> ★</td><td></td><td><code>W/48 LB8 W48 R68 W48 LB8 W20 DP/8</code></td><td>456</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/"><img src="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/sett.png" alt="Milne, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w18db4w18r30w18db4w9dp4/">Milne, dress</a></td><td>0.36</td><td><code>W/18 DB4 W18 R30 W18 DB4 W9 DP/4</code></td><td>188</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w18db4w18r30w18db4w9dp4/"><img src="/variants/s8/w18db4w18r30w18db4w9dp4/sett.png" alt="Milne, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

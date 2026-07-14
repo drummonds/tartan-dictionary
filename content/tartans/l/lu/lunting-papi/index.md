@@ -13,10 +13,10 @@ Its design is pattern [RBBGGGR](/stripes/rbbgggr/) — the page of every tartan 
 The **Lunting Papi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/">Lunting Papi</a></td><td><code>O/5 DR8 DP13 DGi21 DG34 G55 O/3</code></td><td>270</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/"><img src="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/sett.png" alt="Lunting Papi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/">Lunting Papi</a></td><td></td><td><code>O/5 DR8 DP13 DGi21 DG34 G55 O/3</code></td><td>270</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/"><img src="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/sett.png" alt="Lunting Papi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

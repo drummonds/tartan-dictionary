@@ -18,10 +18,10 @@ Its design is pattern [BKBWBKBKBKBKBKBKBYBKBKBKBKBK](/stripes/bkbwbkbkbkbkbkbkby
 The **Killin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s28/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9~x2/">Killin</a></td><td><code>K/52 DR4 K12 DR4 K52 DR8 K8 DR8 K8 DR36 LY4 DR36 K8 DR8 K8 DR8 K52 DR4 K12 DR4 K52 DR18 K8 DR40 W4 DR40 K8 DR/18</code></td><td>978</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s28/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9~x2/"><img src="/variants/s28/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9~x2/sett.png" alt="Killin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s28/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9~x2/">Killin</a></td><td></td><td><code>K/52 DR4 K12 DR4 K52 DR8 K8 DR8 K8 DR36 LY4 DR36 K8 DR8 K8 DR8 K52 DR4 K12 DR4 K52 DR18 K8 DR40 W4 DR40 K8 DR/18</code></td><td>978</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s28/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9~x2/"><img src="/variants/s28/k26dr2k6dr2k26dr4k4dr4k4dr18ly2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20w2dr20k4dr9~x2/sett.png" alt="Killin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BGYGBRBR](/stripes/bgygbrbr/) — the page of every tarta
 The **Ballantyne STWR** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/">Ballantyne STWR</a></td><td><code>DB/34 DY9 LY3 DY9 N30 R3 N11 R/5</code></td><td>169</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><img src="/variants/s8/db34dy9ly3dy9n30r3n11r5/sett.png" alt="Ballantyne STWR sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/">Ballantyne STWR</a></td><td></td><td><code>DB/34 DY9 LY3 DY9 N30 R3 N11 R/5</code></td><td>169</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><img src="/variants/s8/db34dy9ly3dy9n30r3n11r5/sett.png" alt="Ballantyne STWR sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

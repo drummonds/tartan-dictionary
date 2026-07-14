@@ -15,12 +15,12 @@ The **Walk the Walk** tartan groups 2 setts — the same named design recorded a
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2~lr3203019/">Walk the Walk</a> ★</td><td><code>W/120 LR30 W6 LR6 W6 LR6 W10 LR/30</code></td><td>278</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2~lr3203019/"><img src="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2~lr3203019/sett.png" alt="Walk the Walk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/w60r15w3r3w3r3w5r15~x2/">(Corporate)</a></td><td><code>W/120 R30 W6 R6 W6 R6 W10 R/30</code></td><td>278</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w60r15w3r3w3r3w5r15~x2/"><img src="/variants/s8/w60r15w3r3w3r3w5r15~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2~lr3203019/">Walk the Walk</a> ★</td><td></td><td><code>W/120 LR30 W6 LR6 W6 LR6 W10 LR/30</code></td><td>278</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2~lr3203019/"><img src="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2~lr3203019/sett.png" alt="Walk the Walk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w60r15w3r3w3r3w5r15~x2/">(Corporate)</a></td><td>0.16</td><td><code>W/120 R30 W6 R6 W6 R6 W10 R/30</code></td><td>278</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w60r15w3r3w3r3w5r15~x2/"><img src="/variants/s8/w60r15w3r3w3r3w5r15~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

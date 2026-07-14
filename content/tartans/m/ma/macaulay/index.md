@@ -20,16 +20,16 @@ The **MacAulay** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k2r16g6r3g8lb1~x2/">MacAulay</a> ★</td><td><code>K/4 R32 G12 R6 G16 LB/2</code></td><td>138</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><img src="/variants/s6/k2r16g6r3g8lb1~x2/sett.png" alt="MacAulay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k2r16g6r3g8w1~x4/">(Clan)</a></td><td><code>K/2 R16 G6 R3 G8 W/1</code></td><td>69</td><td>~1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k2r16g6r3g8w1~x4/"><img src="/variants/s6/k2r16g6r3g8w1~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/k2r16g6r3g8w1/">MacAulay</a></td><td><code>K/2 R16 G6 R3 G8 W/1</code></td><td>69</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/k2r16g6r3g8w1~x2/">MacAulay</a></td><td><code>K/4 R32 G12 R6 G16 W/2</code></td><td>138</td><td>1881</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/k2r16g6r3g8w1~x4/">(Clan)</a></td><td><code>K/8 R64 G24 R12 G32 W/4</code></td><td>276</td><td>~1880</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s6/k2r16g6r3g8w1/">MacAulay</a> · <a href="/variants/s6/k2r16g6r3g8w1~x2/">MacAulay</a> · <a href="/variants/s6/k2r16g6r3g8w1~x4/">(Clan)</a></td></tr>
+<tr><td><a href="/variants/s6/k2r16g6r3g8lb1~x2/">MacAulay</a> ★</td><td></td><td><code>K/4 R32 G12 R6 G16 LB/2</code></td><td>138</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><img src="/variants/s6/k2r16g6r3g8lb1~x2/sett.png" alt="MacAulay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k2r16g6r3g8w1~x4/">(Clan)</a></td><td>0.30</td><td><code>K/2 R16 G6 R3 G8 W/1</code></td><td>69</td><td>~1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k2r16g6r3g8w1~x4/"><img src="/variants/s6/k2r16g6r3g8w1~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/k2r16g6r3g8w1/">MacAulay</a></td><td>0.30</td><td><code>K/2 R16 G6 R3 G8 W/1</code></td><td>69</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/k2r16g6r3g8w1~x2/">MacAulay</a></td><td>0.30</td><td><code>K/4 R32 G12 R6 G16 W/2</code></td><td>138</td><td>1881</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/k2r16g6r3g8w1~x4/">(Clan)</a></td><td>0.30</td><td><code>K/8 R64 G24 R12 G32 W/4</code></td><td>276</td><td>~1880</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s6/k2r16g6r3g8w1/">MacAulay</a> · <a href="/variants/s6/k2r16g6r3g8w1~x2/">MacAulay</a> · <a href="/variants/s6/k2r16g6r3g8w1~x4/">(Clan)</a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [WKWKWGWW](/stripes/wkwkwgww/) — the page of every tarta
 The **Longniddry Turquoise** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/">Longniddry Turquoise</a></td><td><code>LB/76 K4 W4 K4 LB10 G20 W60 LB/8</code></td><td>288</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/"><img src="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/sett.png" alt="Longniddry Turquoise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/">Longniddry Turquoise</a></td><td></td><td><code>LB/76 K4 W4 K4 LB10 G20 W60 LB/8</code></td><td>288</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/"><img src="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/sett.png" alt="Longniddry Turquoise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

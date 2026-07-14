@@ -13,10 +13,10 @@ Its design is pattern [GGBKRGGGRKGG](/stripes/ggbkrgggrkgg/) — the page of eve
 The **MacCamley** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16t4g28dg16/">MacCamley</a></td><td><code>DG/29 G16 K8 R4 DG16 G16 Y4 R4 K16 T4 G28 DG/16</code></td><td>277</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16t4g28dg16/"><img src="/variants/s12/dg29g16k8r4dg16g16y4r4k16t4g28dg16/sett.png" alt="MacCamley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16t4g28dg16/">MacCamley</a></td><td></td><td><code>DG/29 G16 K8 R4 DG16 G16 Y4 R4 K16 T4 G28 DG/16</code></td><td>277</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16t4g28dg16/"><img src="/variants/s12/dg29g16k8r4dg16g16y4r4k16t4g28dg16/sett.png" alt="MacCamley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

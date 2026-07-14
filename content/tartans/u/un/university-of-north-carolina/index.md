@@ -13,10 +13,10 @@ Its design is pattern [BGBGBGWGW](/stripes/bgbgbgwgw/) — the page of every tar
 The **University of North Carolina** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/">University of North Carolina</a></td><td><code>DB/96 Y11 DB8 Y11 DB16 Y6 W4 Y16 W/8</code></td><td>248</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/"><img src="/variants/s9/db96y11db8y11db16y6w4y16w8/sett.png" alt="University of North Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/">University of North Carolina</a></td><td></td><td><code>DB/96 Y11 DB8 Y11 DB16 Y6 W4 Y16 W/8</code></td><td>248</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/"><img src="/variants/s9/db96y11db8y11db16y6w4y16w8/sett.png" alt="University of North Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

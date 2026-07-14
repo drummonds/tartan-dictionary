@@ -16,10 +16,10 @@ Its design is pattern [BKBKYKBYBWKBKBKY](/stripes/bkbkykbybwkbkbky/) — the pag
 The **Westmeath County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dr4k1db8k1ly3k2db4ly6db4w3k2db20k4dr21k1ly3~x2/">Westmeath County Crest</a></td><td><code>DR/8 K2 DB16 K2 LY6 K4 DB8 LY12 DB8 W6 K4 DB40 K8 DR42 K2 LY/6</code></td><td>334</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dr4k1db8k1ly3k2db4ly6db4w3k2db20k4dr21k1ly3~x2/"><img src="/variants/s16/dr4k1db8k1ly3k2db4ly6db4w3k2db20k4dr21k1ly3~x2/sett.png" alt="Westmeath County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dr4k1db8k1ly3k2db4ly6db4w3k2db20k4dr21k1ly3~x2/">Westmeath County Crest</a></td><td></td><td><code>DR/8 K2 DB16 K2 LY6 K4 DB8 LY12 DB8 W6 K4 DB40 K8 DR42 K2 LY/6</code></td><td>334</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dr4k1db8k1ly3k2db4ly6db4w3k2db20k4dr21k1ly3~x2/"><img src="/variants/s16/dr4k1db8k1ly3k2db4ly6db4w3k2db20k4dr21k1ly3~x2/sett.png" alt="Westmeath County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

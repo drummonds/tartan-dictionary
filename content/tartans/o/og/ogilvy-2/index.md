@@ -18,10 +18,10 @@ Its design is pattern [BKBGKRWRWRKGBWBGKRWRWRKGBKBKBGKRWRWRKWWWKGBGBGWRKRWWWRWWW
 The **Ogilvy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s80/db3k2db10y6k2r4w2r4w2r4k2y2db4w2db4y2k2r4w2r4w2r4k2y2db10k2db10k2db10y2k2r4w2r4w2r4k10w1lb2w1k10y6db4y2db4y6lb2r2k2r10w1lb1w1r10w1lb1w1r10k2r2lb2y2db4w2db4y2k4r4w2r4w2r4k4y6db4y6k2r2k2r2~x2/">Ogilvy</a></td><td><code>DB/6 K4 DB20 Y12 K4 R8 W4 R8 W4 R8 K4 Y4 DB8 W4 DB8 Y4 K4 R8 W4 R8 W4 R8 K4 Y4 DB20 K4 DB20 K4 DB20 Y4 K4 R8 W4 R8 W4 R8 K20 W2 LB4 W2 K20 Y12 DB8 Y4 DB8 Y12 LB4 R4 K4 R20 W2 LB2 W2 R20 W2 LB2 W2 R20 K4 R4 LB4 Y4 DB8 W4 DB8 Y4 K8 R8 W4 R8 W4 R8 K8 Y12 DB8 Y12 K4 R4 K4 R/4</code></td><td>1138</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s80/db3k2db10y6k2r4w2r4w2r4k2y2db4w2db4y2k2r4w2r4w2r4k2y2db10k2db10k2db10y2k2r4w2r4w2r4k10w1lb2w1k10y6db4y2db4y6lb2r2k2r10w1lb1w1r10w1lb1w1r10k2r2lb2y2db4w2db4y2k4r4w2r4w2r4k4y6db4y6k2r2k2r2~x2/"><img src="/variants/s80/db3k2db10y6k2r4w2r4w2r4k2y2db4w2db4y2k2r4w2r4w2r4k2y2db10k2db10k2db10y2k2r4w2r4w2r4k10w1lb2w1k10y6db4y2db4y6lb2r2k2r10w1lb1w1r10w1lb1w1r10k2r2lb2y2db4w2db4y2k4r4w2r4w2r4k4y6db4y6k2r2k2r2~x2/sett.png" alt="Ogilvy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s80/db3k2db10y6k2r4w2r4w2r4k2y2db4w2db4y2k2r4w2r4w2r4k2y2db10k2db10k2db10y2k2r4w2r4w2r4k10w1lb2w1k10y6db4y2db4y6lb2r2k2r10w1lb1w1r10w1lb1w1r10k2r2lb2y2db4w2db4y2k4r4w2r4w2r4k4y6db4y6k2r2k2r2~x2/">Ogilvy</a></td><td></td><td><code>DB/6 K4 DB20 Y12 K4 R8 W4 R8 W4 R8 K4 Y4 DB8 W4 DB8 Y4 K4 R8 W4 R8 W4 R8 K4 Y4 DB20 K4 DB20 K4 DB20 Y4 K4 R8 W4 R8 W4 R8 K20 W2 LB4 W2 K20 Y12 DB8 Y4 DB8 Y12 LB4 R4 K4 R20 W2 LB2 W2 R20 W2 LB2 W2 R20 K4 R4 LB4 Y4 DB8 W4 DB8 Y4 K8 R8 W4 R8 W4 R8 K8 Y12 DB8 Y12 K4 R4 K4 R/4</code></td><td>1138</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s80/db3k2db10y6k2r4w2r4w2r4k2y2db4w2db4y2k2r4w2r4w2r4k2y2db10k2db10k2db10y2k2r4w2r4w2r4k10w1lb2w1k10y6db4y2db4y6lb2r2k2r10w1lb1w1r10w1lb1w1r10k2r2lb2y2db4w2db4y2k4r4w2r4w2r4k4y6db4y6k2r2k2r2~x2/"><img src="/variants/s80/db3k2db10y6k2r4w2r4w2r4k2y2db4w2db4y2k2r4w2r4w2r4k2y2db10k2db10k2db10y2k2r4w2r4w2r4k10w1lb2w1k10y6db4y2db4y6lb2r2k2r10w1lb1w1r10w1lb1w1r10k2r2lb2y2db4w2db4y2k4r4w2r4w2r4k4y6db4y6k2r2k2r2~x2/sett.png" alt="Ogilvy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBGBRRRRRRRRWRRRRRRRRWRW](/stripes/bgbgbrrrrrrrrwrrrrrrr
 The **Unidentified 22** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18~x2/">Unidentified 22</a></td><td><code>DP/192 G20 DP16 G16 DP20 O68 R2 O12 R8 O8 R12 O4 R14 W6 R14 O4 R12 O8 R8 O12 R2 O68 LB72 O12 LB/36</code></td><td>1064</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18~x2/"><img src="/variants/s25/dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18~x2/sett.png" alt="Unidentified 22 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18~x2/">Unidentified 22</a></td><td></td><td><code>DP/192 G20 DP16 G16 DP20 O68 R2 O12 R8 O8 R12 O4 R14 W6 R14 O4 R12 O8 R8 O12 R2 O68 LB72 O12 LB/36</code></td><td>1064</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18~x2/"><img src="/variants/s25/dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18~x2/sett.png" alt="Unidentified 22 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

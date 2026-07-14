@@ -13,10 +13,10 @@ Its design is pattern [BRBGBWBWWWW](/stripes/brbgbwbwwww/) — the page of every
 The **Galego** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/">Galego</a></td><td><code>DB/32 R8 DB4 Y8 DB16 W16 DB4 W48 LB4 W2 LB/16</code></td><td>268</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/"><img src="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/sett.png" alt="Galego sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/">Galego</a></td><td></td><td><code>DB/32 R8 DB4 Y8 DB16 W16 DB4 W48 LB4 W2 LB/16</code></td><td>268</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/"><img src="/variants/s11/db16r4db2y4db8w8db2w24lb2w1lb8~x2/sett.png" alt="Galego sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

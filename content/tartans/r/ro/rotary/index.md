@@ -22,12 +22,12 @@ The **Rotary** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g15r3lb15r8g15ly2db4~x2/">Rotary</a> ★</td><td><code>G/30 R6 LB30 R16 G30 LY4 DB/8</code></td><td>210</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g15r3lb15r8g15ly2db4~x2/"><img src="/variants/s7/g15r3lb15r8g15ly2db4~x2/sett.png" alt="Rotary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g19r3lb19r11g19y2db4~x2/">Corporate Tartan</a></td><td><code>G/38 R6 LB38 R22 G38 Y4 DB/8</code></td><td>262</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g19r3lb19r11g19y2db4~x2/"><img src="/variants/s7/g19r3lb19r11g19y2db4~x2/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g15r3lb15r8g15ly2db4~x2/">Rotary</a> ★</td><td></td><td><code>G/30 R6 LB30 R16 G30 LY4 DB/8</code></td><td>210</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g15r3lb15r8g15ly2db4~x2/"><img src="/variants/s7/g15r3lb15r8g15ly2db4~x2/sett.png" alt="Rotary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g19r3lb19r11g19y2db4~x2/">Corporate Tartan</a></td><td>0.26</td><td><code>G/38 R6 LB38 R22 G38 Y4 DB/8</code></td><td>262</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g19r3lb19r11g19y2db4~x2/"><img src="/variants/s7/g19r3lb19r11g19y2db4~x2/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

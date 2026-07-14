@@ -21,17 +21,17 @@ The **MacTier of Durris** tartan groups 3 setts — the same named design record
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/">MacTier of Durris</a> ★</td><td><code>R/18 DB1 R1 DB2 R1 DB1 R18 DB18 R2 DB18 R18 G2 R4 G2 R18 G18 R2 G/9</code></td><td>279</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/"><img src="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/sett.png" alt="MacTier of Durris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/">MacTier of Durris</a></td><td><code>R/36 DB2 R2 DB4 R2 DB2 R36 DB36 R4 DB36 R36 G4 R8 G4 R36 G36 R4 G/18</code></td><td>558</td><td>1856</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/">Ross</a></td><td><code>R/72 DB4 R4 DB8 R4 DB4 R72 DB72 R8 DB72 R72 G8 R16 G8 R72 G72 R8 G/36</code></td><td>1116</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/">MacTier of Durris</a> · <a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/">Ross</a></td></tr>
-<tr><td><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18dg2r4dg2r18dg18r2dg9~x4/">MacTier of Durris</a></td><td><code>R/72 DB4 R4 DB8 R4 DB4 R72 DB72 R8 DB72 R72 DG8 R16 DG8 R72 DG72 R8 DG/36</code></td><td>1116</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18dg2r4dg2r18dg18r2dg9~x4/"><img src="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18dg2r4dg2r18dg18r2dg9~x4/sett.png" alt="MacTier of Durris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/">MacTier of Durris</a></td><td><code>R/36 DB4 R2 DB4 R2 DB2 R36 DB36 R4 DB36 R36 G4 R8 G4 R36 G36 R4 G/18</code></td><td>562</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/"><img src="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/sett.png" alt="MacTier of Durris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/">MacTier of Durris</a> ★</td><td></td><td><code>R/18 DB1 R1 DB2 R1 DB1 R18 DB18 R2 DB18 R18 G2 R4 G2 R18 G18 R2 G/9</code></td><td>279</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/"><img src="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/sett.png" alt="MacTier of Durris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/">MacTier of Durris</a></td><td>0.00</td><td><code>R/36 DB2 R2 DB4 R2 DB2 R36 DB36 R4 DB36 R36 G4 R8 G4 R36 G36 R4 G/18</code></td><td>558</td><td>1856</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/">Ross</a></td><td>0.00</td><td><code>R/72 DB4 R4 DB8 R4 DB4 R72 DB72 R8 DB72 R72 G8 R16 G8 R72 G72 R8 G/36</code></td><td>1116</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/">MacTier of Durris</a> · <a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/">Ross</a></td></tr>
+<tr><td><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18dg2r4dg2r18dg18r2dg9~x4/">MacTier of Durris</a></td><td>0.11</td><td><code>R/72 DB4 R4 DB8 R4 DB4 R72 DB72 R8 DB72 R72 DG8 R16 DG8 R72 DG72 R8 DG/36</code></td><td>1116</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18dg2r4dg2r18dg18r2dg9~x4/"><img src="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18dg2r4dg2r18dg18r2dg9~x4/sett.png" alt="MacTier of Durris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/">MacTier of Durris</a></td><td>0.02</td><td><code>R/36 DB4 R2 DB4 R2 DB2 R36 DB36 R4 DB36 R36 G4 R8 G4 R36 G36 R4 G/18</code></td><td>562</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/"><img src="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/sett.png" alt="MacTier of Durris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GBGBWGBWGG](/stripes/gbgbwgbwgg/) — the page of every t
 The **Kerry County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/">Kerry County Crest</a></td><td><code>Y/28 DB10 G50 DB10 W4 G22 DB14 W10 G12 Y/10</code></td><td>302</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/"><img src="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/sett.png" alt="Kerry County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/">Kerry County Crest</a></td><td></td><td><code>Y/28 DB10 G50 DB10 W4 G22 DB14 W10 G12 Y/10</code></td><td>302</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/"><img src="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/sett.png" alt="Kerry County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

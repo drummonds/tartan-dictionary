@@ -16,10 +16,10 @@ Its design is pattern [GBBGBGBGBBYBYBGBG](/stripes/gbbgbgbgbbybybgbg/) — the p
 The **Fermanagh, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/">Fermanagh, County</a></td><td><code>DY/6 DBi40 DB8 DG6 DB6 DG6 DB6 DG6 DB8 DBi26 LO4 DBi4 LO4 DBi4 DG4 DBi4 DG/6</code></td><td>284</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/"><img src="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/sett.png" alt="Fermanagh, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/">Fermanagh, County</a></td><td></td><td><code>DY/6 DBi40 DB8 DG6 DB6 DG6 DB6 DG6 DB8 DBi26 LO4 DBi4 LO4 DBi4 DG4 DBi4 DG/6</code></td><td>284</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/"><img src="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/sett.png" alt="Fermanagh, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

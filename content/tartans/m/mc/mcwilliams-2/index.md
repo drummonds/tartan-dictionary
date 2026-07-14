@@ -18,10 +18,10 @@ Its design is pattern [BKBKKKKKKKBK](/stripes/bkbkkkkkkkbk/) — the page of eve
 The **McWilliams** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k3db15k42db13k2db3~x2~db1704245/">McWilliams</a></td><td><code>K/6 DB30 K84 DB26 K4 DB/6</code></td><td>300</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3db15k42db13k2db3~x2~db1704245/"><img src="/variants/s6/k3db15k42db13k2db3~x2~db1704245/sett.png" alt="McWilliams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3db15k42db13k2db3~x2~db1704245/">McWilliams</a></td><td></td><td><code>K/6 DB30 K84 DB26 K4 DB/6</code></td><td>300</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k3db15k42db13k2db3~x2~db1704245/"><img src="/variants/s6/k3db15k42db13k2db3~x2~db1704245/sett.png" alt="McWilliams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

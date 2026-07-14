@@ -16,10 +16,10 @@ Its design is pattern [KBKGKWKGRKRW](/stripes/kbkgkwkgrkrw/) — the page of eve
 The **Stewart, Black ground** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/">Stewart, Black ground</a></td><td><code>K/72 DB8 K12 Y2 K2 W2 K2 G16 R8 K2 R4 W/2</code></td><td>190</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><img src="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/sett.png" alt="Stewart, Black ground sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/">Stewart, Black ground</a></td><td></td><td><code>K/72 DB8 K12 Y2 K2 W2 K2 G16 R8 K2 R4 W/2</code></td><td>190</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><img src="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/sett.png" alt="Stewart, Black ground sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

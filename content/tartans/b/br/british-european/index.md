@@ -14,13 +14,13 @@ The **British European** tartan is one sett, recorded at 2 scales — the same p
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/">British European</a></td><td><code>R/12 DB2 R12 DB17 W2 R/2</code></td><td>80</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><img src="/variants/s6/r12db2r12db17w2r2~x2~r1807033/sett.png" alt="British European sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/">British European</a></td><td><code>R/24 DB4 R24 DB34 W4 R/4</code></td><td>160</td><td>2001</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/r12db2r12db17w2r2~x4/">(Corporate)</a></td><td><code>R/48 DB8 R48 DB68 W8 R/8</code></td><td>320</td><td>~2004</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/">British European</a> · <a href="/variants/s6/r12db2r12db17w2r2~x4/">(Corporate)</a></td></tr>
+<tr><td><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/">British European</a></td><td></td><td><code>R/12 DB2 R12 DB17 W2 R/2</code></td><td>80</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><img src="/variants/s6/r12db2r12db17w2r2~x2~r1807033/sett.png" alt="British European sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/">British European</a></td><td>0.00</td><td><code>R/24 DB4 R24 DB34 W4 R/4</code></td><td>160</td><td>2001</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/r12db2r12db17w2r2~x4/">(Corporate)</a></td><td>0.12</td><td><code>R/48 DB8 R48 DB68 W8 R/8</code></td><td>320</td><td>~2004</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/">British European</a> · <a href="/variants/s6/r12db2r12db17w2r2~x4/">(Corporate)</a></td></tr>
 </tbody>
 </table>
 

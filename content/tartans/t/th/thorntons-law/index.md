@@ -15,10 +15,10 @@ Corporate tartan for Thorntons WS, a Dundee-based solicitors, estate agents and 
 The **Thorntons Law** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/db10g10r5w1~x2/">Thorntons Law</a></td><td><code>DB/20 G20 R10 W/2</code></td><td>82</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/db10g10r5w1~x2/"><img src="/variants/s4/db10g10r5w1~x2/sett.png" alt="Thorntons Law sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db10g10r5w1~x2/">Thorntons Law</a></td><td></td><td><code>DB/20 G20 R10 W/2</code></td><td>82</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/db10g10r5w1~x2/"><img src="/variants/s4/db10g10r5w1~x2/sett.png" alt="Thorntons Law sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RKRKWKW](/stripes/rkrkwkw/) — the page of every tartan 
 The **White Stripes Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r2k1r2k14w1k1w1~x8/">White Stripes Hunting</a></td><td><code>R/16 K8 R16 K112 W8 K8 W/8</code></td><td>328</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><img src="/variants/s7/r2k1r2k14w1k1w1~x8/sett.png" alt="White Stripes Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2k1r2k14w1k1w1~x8/">White Stripes Hunting</a></td><td></td><td><code>R/16 K8 R16 K112 W8 K8 W/8</code></td><td>328</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><img src="/variants/s7/r2k1r2k14w1k1w1~x8/sett.png" alt="White Stripes Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

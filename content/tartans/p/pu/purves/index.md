@@ -20,12 +20,12 @@ The **Purves** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/">Purves</a> ★</td><td><code>DY/8 W2 DG24 K6 DB32 R2 DB2 R/2</code></td><td>146</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/"><img src="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/sett.png" alt="Purves sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/">(2014)</a></td><td><code>Ki/8 W2 DG24 K6 DB32 R2 DB2 R/2</code></td><td>146</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/"><img src="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/sett.png" alt="(2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/">Purves</a> ★</td><td></td><td><code>DY/8 W2 DG24 K6 DB32 R2 DB2 R/2</code></td><td>146</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/"><img src="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/sett.png" alt="Purves sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/">(2014)</a></td><td>0.90</td><td><code>Ki/8 W2 DG24 K6 DB32 R2 DB2 R/2</code></td><td>146</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/"><img src="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/sett.png" alt="(2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -17,13 +17,13 @@ The **Grant VS** tartan is one sett, recorded at 2 scales — the same proportio
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/">Grant VS</a></td><td><code>R/4 DB2 R2 DB2 R56 DB16 R4 G1 R4 G36 R3 G1 R/4</code></td><td>262</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/"><img src="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/sett.png" alt="Grant VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4/">Grant VS</a></td><td><code>R/4 DB2 R2 DB2 R56 DB16 R4 G1 R4 G36 R3 G1 R/4</code></td><td>262</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/">Grant (Vestiarium Scoticum)</a></td><td><code>R/8 DB4 R4 DB4 R112 DB32 R8 G2 R8 G72 R6 G2 R/8</code></td><td>524</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4/">Grant VS</a> · <a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/">Grant (Vestiarium Scoticum)</a></td></tr>
+<tr><td><a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/">Grant VS</a></td><td></td><td><code>R/4 DB2 R2 DB2 R56 DB16 R4 G1 R4 G36 R3 G1 R/4</code></td><td>262</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/"><img src="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/sett.png" alt="Grant VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4/">Grant VS</a></td><td>0.00</td><td><code>R/4 DB2 R2 DB2 R56 DB16 R4 G1 R4 G36 R3 G1 R/4</code></td><td>262</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/">Grant (Vestiarium Scoticum)</a></td><td>0.00</td><td><code>R/8 DB4 R4 DB4 R112 DB32 R8 G2 R8 G72 R6 G2 R/8</code></td><td>524</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4/">Grant VS</a> · <a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/">Grant (Vestiarium Scoticum)</a></td></tr>
 </tbody>
 </table>
 

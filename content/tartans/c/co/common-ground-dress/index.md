@@ -13,10 +13,10 @@ Its design is pattern [WBWBY](/stripes/wbwby/) — the page of every tartan shar
 The **Common Ground Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/w3dr27w16db27ly3~x2/">Common Ground Dress</a></td><td><code>W/6 DR54 W32 DB54 LY/6</code></td><td>292</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w3dr27w16db27ly3~x2/"><img src="/variants/s5/w3dr27w16db27ly3~x2/sett.png" alt="Common Ground Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w3dr27w16db27ly3~x2/">Common Ground Dress</a></td><td></td><td><code>W/6 DR54 W32 DB54 LY/6</code></td><td>292</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/w3dr27w16db27ly3~x2/"><img src="/variants/s5/w3dr27w16db27ly3~x2/sett.png" alt="Common Ground Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Commissioned by ScotDance New Brunswick as a legacy gift to Saint John following
 The **St. John New Brunswick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/">St. John New Brunswick</a></td><td><code>G/2 R4 LG24 R30 W30 G6 W2 G6 W30 R30 LG6 DY24 LG/2</code></td><td>388</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/"><img src="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/sett.png" alt="St. John New Brunswick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/">St. John New Brunswick</a></td><td></td><td><code>G/2 R4 LG24 R30 W30 G6 W2 G6 W30 R30 LG6 DY24 LG/2</code></td><td>388</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/"><img src="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/sett.png" alt="St. John New Brunswick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

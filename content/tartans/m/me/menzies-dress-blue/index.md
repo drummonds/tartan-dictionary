@@ -16,10 +16,10 @@ Its design is pattern [WWBWBWBWWWWW](/stripes/wwbwbwbwwwww/) — the page of eve
 The **Menzies Dress Blue &** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2/">Menzies Dress Blue &amp;</a></td><td><code>W/8 LB2 W4 LB6 W46 DB10 LB6 DB2 LB2 DB2 LB38 W/4</code></td><td>248</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2/"><img src="/variants/s12/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2/sett.png" alt="Menzies Dress Blue &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2/">Menzies Dress Blue &amp;</a></td><td></td><td><code>W/8 LB2 W4 LB6 W46 DB10 LB6 DB2 LB2 DB2 LB38 W/4</code></td><td>248</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2/"><img src="/variants/s12/w4lb1w2lb3w23db5lb3db1lb1db1lb19w2~x2/sett.png" alt="Menzies Dress Blue &amp; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

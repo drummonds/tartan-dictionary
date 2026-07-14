@@ -18,10 +18,10 @@ Its design is pattern [GWGGRGR](/stripes/gwggrgr/) — the page of every tartan 
 The **Claus of the North Pole** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r21g3r21g16y3w2y3~x2/">Claus of the North Pole</a></td><td><code>R/42 G6 R42 G32 Y6 W4 Y/6</code></td><td>228</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r21g3r21g16y3w2y3~x2/"><img src="/variants/s7/r21g3r21g16y3w2y3~x2/sett.png" alt="Claus of the North Pole sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r21g3r21g16y3w2y3~x2/">Claus of the North Pole</a></td><td></td><td><code>R/42 G6 R42 G32 Y6 W4 Y/6</code></td><td>228</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r21g3r21g16y3w2y3~x2/"><img src="/variants/s7/r21g3r21g16y3w2y3~x2/sett.png" alt="Claus of the North Pole sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

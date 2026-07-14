@@ -13,10 +13,10 @@ Its design is pattern [YGBYGBGYYYGYGY](/stripes/ygbygbgyyygygy/) — the page of
 The **Arbutus** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/lr40dg3ly6dg2ly2lr2ly2dg10do2dg2ly2do2dg3lr2~x2/">Arbutus</a></td><td><code>LR/80 DG6 LY12 DG4 LY4 LR4 LY4 DG20 DO4 DG4 LY4 DO4 DG6 LR/4</code></td><td>236</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/lr40dg3ly6dg2ly2lr2ly2dg10do2dg2ly2do2dg3lr2~x2/"><img src="/variants/s14/lr40dg3ly6dg2ly2lr2ly2dg10do2dg2ly2do2dg3lr2~x2/sett.png" alt="Arbutus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/lr40dg3ly6dg2ly2lr2ly2dg10do2dg2ly2do2dg3lr2~x2/">Arbutus</a></td><td></td><td><code>LR/80 DG6 LY12 DG4 LY4 LR4 LY4 DG20 DO4 DG4 LY4 DO4 DG6 LR/4</code></td><td>236</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/lr40dg3ly6dg2ly2lr2ly2dg10do2dg2ly2do2dg3lr2~x2/"><img src="/variants/s14/lr40dg3ly6dg2ly2lr2ly2dg10do2dg2ly2do2dg3lr2~x2/sett.png" alt="Arbutus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

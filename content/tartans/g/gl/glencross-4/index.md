@@ -18,10 +18,10 @@ Its design is pattern [GWBBGR](/stripes/gwbbgr/) — the page of every tartan sh
 The **Glencross** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/">Glencross</a></td><td><code>R/62 G38 T54 DT2 W2 Y/2</code></td><td>256</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/"><img src="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/sett.png" alt="Glencross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/">Glencross</a></td><td></td><td><code>R/62 G38 T54 DT2 W2 Y/2</code></td><td>256</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/"><img src="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/sett.png" alt="Glencross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

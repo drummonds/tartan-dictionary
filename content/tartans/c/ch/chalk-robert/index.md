@@ -13,10 +13,10 @@ Its design is pattern [BBWGWGWYBWB](/stripes/bbwgwgwybwb/) — the page of every
 The **Chalk, Robert** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/">Chalk, Robert</a></td><td><code>DP/4 W10 DP10 LY22 W10 DG24 LB2 DG4 LB52 DO4 DP/4</code></td><td>284</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/"><img src="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/sett.png" alt="Chalk, Robert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/">Chalk, Robert</a></td><td></td><td><code>DP/4 W10 DP10 LY22 W10 DG24 LB2 DG4 LB52 DO4 DP/4</code></td><td>284</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/"><img src="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/sett.png" alt="Chalk, Robert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

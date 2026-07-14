@@ -16,10 +16,10 @@ Its design is pattern [WKGYGKGBRBRBRBRKW](/stripes/wkgygkgbrbrbrbrkw/) — the p
 The **Cornish Pascoe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1~x2~o2500000-n1900000/">Cornish Pascoe</a></td><td><code>W/4 K64 O10 N6 O4 N6 O4 N6 O2 N12 Y6 K4 Y2 LY6 Y4 K4 W/2</code></td><td>286</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1~x2~o2500000-n1900000/"><img src="/variants/s17/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1~x2~o2500000-n1900000/sett.png" alt="Cornish Pascoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1~x2~o2500000-n1900000/">Cornish Pascoe</a></td><td></td><td><code>W/4 K64 O10 N6 O4 N6 O4 N6 O2 N12 Y6 K4 Y2 LY6 Y4 K4 W/2</code></td><td>286</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1~x2~o2500000-n1900000/"><img src="/variants/s17/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1~x2~o2500000-n1900000/sett.png" alt="Cornish Pascoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

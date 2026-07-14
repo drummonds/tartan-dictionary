@@ -15,12 +15,12 @@ The **Highlands Country Club** tartan groups 2 setts — the same named design r
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/">Highlands Country Club</a> ★</td><td><code>G/20 DB60 LB44 W8 LB4 W4 DG/16</code></td><td>276</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/"><img src="/variants/s7/g5db15lb11w2lb1w1dg4~x4/sett.png" alt="Highlands Country Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/">(Corporate)</a></td><td><code>G/5 DB15 LBi11 LB2 LBi1 LB1 G/4</code></td><td>—</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><img src="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/">Highlands Country Club</a> ★</td><td></td><td><code>G/20 DB60 LB44 W8 LB4 W4 DG/16</code></td><td>276</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/"><img src="/variants/s7/g5db15lb11w2lb1w1dg4~x4/sett.png" alt="Highlands Country Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/">(Corporate)</a></td><td>—</td><td><code>G/5 DB15 LBi11 LB2 LBi1 LB1 G/4</code></td><td>—</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><img src="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

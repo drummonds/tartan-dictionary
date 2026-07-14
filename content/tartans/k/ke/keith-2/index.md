@@ -18,10 +18,10 @@ Its design is pattern [BKBKGGGKBRBRB](/stripes/bkbkgggkbrbrb/) — the page of e
 The **Keith** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/">Keith</a></td><td><code>T/18 R5 T3 R5 T3 K20 G18 DY4 G18 K20 T20 K6 T/6</code></td><td>268</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"><img src="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/sett.png" alt="Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/">Keith</a></td><td></td><td><code>T/18 R5 T3 R5 T3 K20 G18 DY4 G18 K20 T20 K6 T/6</code></td><td>268</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"><img src="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/sett.png" alt="Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

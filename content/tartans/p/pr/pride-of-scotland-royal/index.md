@@ -13,10 +13,10 @@ Its design is pattern [BKWBKWKWWWK](/stripes/bkwbkwkwwwk/) — the page of every
 The **Pride of Scotland Royal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/">Pride of Scotland Royal</a></td><td><code>K/14 LB4 W4 LB4 K26 LB4 K4 B2 LB26 K52 B/4</code></td><td>270</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/"><img src="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/sett.png" alt="Pride of Scotland Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/">Pride of Scotland Royal</a></td><td></td><td><code>K/14 LB4 W4 LB4 K26 LB4 K4 B2 LB26 K52 B/4</code></td><td>270</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/"><img src="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/sett.png" alt="Pride of Scotland Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

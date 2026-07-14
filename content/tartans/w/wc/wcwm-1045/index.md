@@ -18,10 +18,10 @@ Its design is pattern [BGKGBG](/stripes/bgkgbg/) — the page of every tartan sh
 The **Wcwm 1045** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/">Wcwm 1045</a></td><td><code>DR/4 DG24 K6 DG4 T16 DG/4</code></td><td>108</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><img src="/variants/s6/dr2dg12k3dg2t8dg2~x2/sett.png" alt="Wcwm 1045 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/">Wcwm 1045</a></td><td></td><td><code>DR/4 DG24 K6 DG4 T16 DG/4</code></td><td>108</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><img src="/variants/s6/dr2dg12k3dg2t8dg2~x2/sett.png" alt="Wcwm 1045 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

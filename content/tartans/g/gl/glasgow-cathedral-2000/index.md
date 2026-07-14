@@ -16,10 +16,10 @@ Its design is pattern [BGRGRBBBRG](/stripes/bgrgrbbbrg/) — the page of every t
 The **Glasgow Cathedral 2000** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/">Glasgow Cathedral 2000</a></td><td><code>G/44 R6 DB20 T4 DB20 R42 G44 R6 Y4 DB/4</code></td><td>340</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><img src="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/sett.png" alt="Glasgow Cathedral 2000 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/">Glasgow Cathedral 2000</a></td><td></td><td><code>G/44 R6 DB20 T4 DB20 R42 G44 R6 Y4 DB/4</code></td><td>340</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><img src="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/sett.png" alt="Glasgow Cathedral 2000 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

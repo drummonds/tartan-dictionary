@@ -16,10 +16,10 @@ Its design is pattern [KYKYKYKYKBY](/stripes/kykykykykby/) — the page of every
 The **Wcwm 9285 4906-1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k12lr4k4lr4k4lr10k4lr3k8dr24lr2~x2/">Wcwm 9285 4906-1</a></td><td><code>K/24 LR8 K8 LR8 K8 LR20 K8 LR6 K16 DR48 LR/4</code></td><td>288</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k12lr4k4lr4k4lr10k4lr3k8dr24lr2~x2/"><img src="/variants/s11/k12lr4k4lr4k4lr10k4lr3k8dr24lr2~x2/sett.png" alt="Wcwm 9285 4906-1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k12lr4k4lr4k4lr10k4lr3k8dr24lr2~x2/">Wcwm 9285 4906-1</a></td><td></td><td><code>K/24 LR8 K8 LR8 K8 LR20 K8 LR6 K16 DR48 LR/4</code></td><td>288</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k12lr4k4lr4k4lr10k4lr3k8dr24lr2~x2/"><img src="/variants/s11/k12lr4k4lr4k4lr10k4lr3k8dr24lr2~x2/sett.png" alt="Wcwm 9285 4906-1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

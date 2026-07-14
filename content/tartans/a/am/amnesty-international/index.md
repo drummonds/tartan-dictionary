@@ -18,10 +18,10 @@ Designed by James Scarlett for Amnesty International's 40th anniversary; colours
 The **Amnesty International** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/">Amnesty International</a></td><td><code>DB/24 O16 K52 O16 DB24 W4 DB24 O16 K24 LY4 K24 O16 DB24 K/4</code></td><td>516</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/"><img src="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/sett.png" alt="Amnesty International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/">Amnesty International</a></td><td></td><td><code>DB/24 O16 K52 O16 DB24 W4 DB24 O16 K24 LY4 K24 O16 DB24 K/4</code></td><td>516</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/"><img src="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/sett.png" alt="Amnesty International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

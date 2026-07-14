@@ -16,10 +16,10 @@ Its design is pattern [BBKGGGKBBR](/stripes/bbkgggkbbr/) — the page of every t
 The **Huntly Gordon 2000** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/">Huntly Gordon 2000</a></td><td><code>DB/6 T24 K22 G22 Y4 G22 K22 T24 DB6 R/4</code></td><td>302</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/"><img src="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/sett.png" alt="Huntly Gordon 2000 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/">Huntly Gordon 2000</a></td><td></td><td><code>DB/6 T24 K22 G22 Y4 G22 K22 T24 DB6 R/4</code></td><td>302</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/"><img src="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/sett.png" alt="Huntly Gordon 2000 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

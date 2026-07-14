@@ -15,10 +15,10 @@ Snooker-inspired design with ball colours; threadcount based on 146, the maximum
 The **Kungsholmen Snooker Corporate Sports** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w4lb1y2lb13ri1k13dy1k1g1k1r2~x4~ri2406019-r2109032/">Kungsholmen Snooker Corporate Sports</a></td><td><code>W/16 LB4 Y8 LB52 Ri4 K52 DY4 K4 G4 K4 R/8</code></td><td>296</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w4lb1y2lb13ri1k13dy1k1g1k1r2~x4~ri2406019-r2109032/"><img src="/variants/s11/w4lb1y2lb13ri1k13dy1k1g1k1r2~x4~ri2406019-r2109032/sett.png" alt="Kungsholmen Snooker Corporate Sports sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w4lb1y2lb13ri1k13dy1k1g1k1r2~x4~ri2406019-r2109032/">Kungsholmen Snooker Corporate Sports</a></td><td></td><td><code>W/16 LB4 Y8 LB52 Ri4 K52 DY4 K4 G4 K4 R/8</code></td><td>296</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w4lb1y2lb13ri1k13dy1k1g1k1r2~x4~ri2406019-r2109032/"><img src="/variants/s11/w4lb1y2lb13ri1k13dy1k1g1k1r2~x4~ri2406019-r2109032/sett.png" alt="Kungsholmen Snooker Corporate Sports sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

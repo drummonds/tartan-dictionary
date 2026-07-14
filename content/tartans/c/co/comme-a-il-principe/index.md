@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBBBY](/stripes/bkbkbkbbby/) — the page of every t
 The **Comme Ça Il Principe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi1404245-db1003265/">Comme Ça Il Principe</a></td><td><code>DBi/3 K53 DBi4 K4 DBi4 K4 DBi24 DB10 DBi1 LO/1</code></td><td>212</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi1404245-db1003265/"><img src="/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi1404245-db1003265/sett.png" alt="Comme Ça Il Principe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi1404245-db1003265/">Comme Ça Il Principe</a></td><td></td><td><code>DBi/3 K53 DBi4 K4 DBi4 K4 DBi24 DB10 DBi1 LO/1</code></td><td>212</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi1404245-db1003265/"><img src="/variants/s10/dbi3k53dbi4k4dbi4k4dbi24db10dbi1lo1~dbi1404245-db1003265/sett.png" alt="Comme Ça Il Principe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

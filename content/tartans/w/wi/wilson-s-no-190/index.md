@@ -13,10 +13,10 @@ Its design is pattern [KGKWWRWRGGKRWRWWKGK](/stripes/kgkwwrwrggkrwrwwkgk/) — t
 The **Wilson's No.190** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/k3y2k13w2lb11r12w2r12k12y2g12r12w2r12lb11w2k13y2k3~x2/">Wilson's No.190</a></td><td><code>K/6 Y4 K26 W4 LB22 R24 W4 R24 K24 Y4 G24 R24 W4 R24 LB22 W4 K26 Y4 K/6</code></td><td>548</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/k3y2k13w2lb11r12w2r12k12y2g12r12w2r12lb11w2k13y2k3~x2/"><img src="/variants/s19/k3y2k13w2lb11r12w2r12k12y2g12r12w2r12lb11w2k13y2k3~x2/sett.png" alt="Wilson's No.190 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/k3y2k13w2lb11r12w2r12k12y2g12r12w2r12lb11w2k13y2k3~x2/">Wilson's No.190</a></td><td></td><td><code>K/6 Y4 K26 W4 LB22 R24 W4 R24 K24 Y4 G24 R24 W4 R24 LB22 W4 K26 Y4 K/6</code></td><td>548</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/k3y2k13w2lb11r12w2r12k12y2g12r12w2r12lb11w2k13y2k3~x2/"><img src="/variants/s19/k3y2k13w2lb11r12w2r12k12y2g12r12w2r12lb11w2k13y2k3~x2/sett.png" alt="Wilson's No.190 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

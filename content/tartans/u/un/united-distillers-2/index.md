@@ -13,10 +13,10 @@ Its design is pattern [BGGGGGGGBW](/stripes/bgggggggbw/) — the page of every t
 The **United Distillers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dr12dy1dg12dy12y2dy12dg12dy1dr12lb2~x2/">United Distillers</a></td><td><code>DR/24 DY2 DG24 DY24 Y4 DY24 DG24 DY2 DR24 LB/4</code></td><td>284</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr12dy1dg12dy12y2dy12dg12dy1dr12lb2~x2/"><img src="/variants/s10/dr12dy1dg12dy12y2dy12dg12dy1dr12lb2~x2/sett.png" alt="United Distillers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr12dy1dg12dy12y2dy12dg12dy1dr12lb2~x2/">United Distillers</a></td><td></td><td><code>DR/24 DY2 DG24 DY24 Y4 DY24 DG24 DY2 DR24 LB/4</code></td><td>284</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dr12dy1dg12dy12y2dy12dg12dy1dr12lb2~x2/"><img src="/variants/s10/dr12dy1dg12dy12y2dy12dg12dy1dr12lb2~x2/sett.png" alt="United Distillers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -21,14 +21,14 @@ The **Stevenson** tartan groups 3 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/">Stevenson</a> ★</td><td><code>DR/8 G48 LY8 DR16 LY8 DR16 LY8 DB48 LY/8</code></td><td>320</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/"><img src="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/">Stevenson</a></td><td><code>R/2 G12 Y2 R4 Y2 R4 Y2 DB12 Y/2</code></td><td>80</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/"><img src="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/">Family Tartan</a></td><td><code>R/4 G32 Y4 R8 Y4 R8 Y4 DB32 Y/4</code></td><td>192</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/"><img src="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/">Stevenson</a> ★</td><td></td><td><code>DR/8 G48 LY8 DR16 LY8 DR16 LY8 DB48 LY/8</code></td><td>320</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/"><img src="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/">Stevenson</a></td><td>0.17</td><td><code>R/2 G12 Y2 R4 Y2 R4 Y2 DB12 Y/2</code></td><td>80</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/"><img src="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/">Family Tartan</a></td><td>0.34</td><td><code>R/4 G32 Y4 R8 Y4 R8 Y4 DB32 Y/4</code></td><td>192</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/"><img src="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

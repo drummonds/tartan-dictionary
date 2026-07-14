@@ -13,10 +13,10 @@ Its design is pattern [BBKBKBKBRGRGRGR](/stripes/bbkbkbkbrgrgrgr/) — the page 
 The **Homecoming** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/">Homecoming</a></td><td><code>N/4 T28 K6 T6 K6 T6 K30 T8 R4 G4 R4 G22 R4 G4 R/4</code></td><td>272</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/"><img src="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/sett.png" alt="Homecoming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/">Homecoming</a></td><td></td><td><code>N/4 T28 K6 T6 K6 T6 K30 T8 R4 G4 R4 G22 R4 G4 R/4</code></td><td>272</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/"><img src="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/sett.png" alt="Homecoming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

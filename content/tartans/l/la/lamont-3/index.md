@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKGWGKBKBKBKGWGKBKBKB](/stripes/bkbkbkgwgkbkbkbkgwgkb
 The **Lamont** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/">Lamont</a></td><td><code>DB/36 K12 DB12 K12 DB12 K48 G48 W12 G48 K48 DB48 K12 DB12 K12 DB48 K48 G48 W12 G48 K48 DB12 K12 DB12 K12 DB/20</code></td><td>1328</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/"><img src="/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/">Lamont</a></td><td></td><td><code>DB/36 K12 DB12 K12 DB12 K48 G48 W12 G48 K48 DB48 K12 DB12 K12 DB48 K48 G48 W12 G48 K48 DB12 K12 DB12 K12 DB/20</code></td><td>1328</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/"><img src="/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

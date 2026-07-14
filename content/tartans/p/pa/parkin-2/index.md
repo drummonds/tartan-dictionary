@@ -18,10 +18,10 @@ Its design is pattern [BKWBWGKW](/stripes/bkwbwgkw/) — the page of every tarta
 The **Parkin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/">Parkin</a></td><td><code>W/6 K18 Y2 LB6 DP18 LB2 K80 DP/4</code></td><td>262</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/"><img src="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/sett.png" alt="Parkin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/">Parkin</a></td><td></td><td><code>W/6 K18 Y2 LB6 DP18 LB2 K80 DP/4</code></td><td>262</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/"><img src="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/sett.png" alt="Parkin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

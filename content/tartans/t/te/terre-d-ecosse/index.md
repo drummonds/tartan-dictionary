@@ -13,10 +13,10 @@ Its design is pattern [WGKGKGKGYGKGKW](/stripes/wgkgkgkgygkgkw/) — the page of
 The **Terre D'Ecosse** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/">Terre D'Ecosse</a></td><td><code>W/6 DGi14 K6 DGi6 K6 DGi6 K26 DG32 LY6 DG32 K26 DGi32 K6 W/6</code></td><td>408</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/"><img src="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/sett.png" alt="Terre D'Ecosse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/">Terre D'Ecosse</a></td><td></td><td><code>W/6 DGi14 K6 DGi6 K6 DGi6 K26 DG32 LY6 DG32 K26 DGi32 K6 W/6</code></td><td>408</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/"><img src="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/sett.png" alt="Terre D'Ecosse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

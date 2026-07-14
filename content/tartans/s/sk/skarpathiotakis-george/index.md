@@ -13,10 +13,10 @@ Its design is pattern [BKBKGKGKBKBWBWB](/stripes/bkbkgkgkbkbwbwb/) — the page 
 The **Skarpathiotakis, George** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/">Skarpathiotakis, George</a></td><td><code>DB/4 K8 DB18 K8 Y8 K6 Y4 K10 DB8 K6 DB36 W4 DB4 W4 DB/4</code></td><td>256</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/"><img src="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/sett.png" alt="Skarpathiotakis, George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/">Skarpathiotakis, George</a></td><td></td><td><code>DB/4 K8 DB18 K8 Y8 K6 Y4 K10 DB8 K6 DB36 W4 DB4 W4 DB/4</code></td><td>256</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/"><img src="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/sett.png" alt="Skarpathiotakis, George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

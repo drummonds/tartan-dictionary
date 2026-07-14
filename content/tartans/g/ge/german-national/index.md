@@ -13,10 +13,10 @@ Its design is pattern [GRKRKRKRKRKR](/stripes/grkrkrkrkrkr/) — the page of eve
 The **German National** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/">German National</a></td><td><code>R/32 K4 R4 K4 R26 K24 R4 K24 R26 K26 R4 Y/4</code></td><td>328</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/"><img src="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/sett.png" alt="German National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/">German National</a></td><td></td><td><code>R/32 K4 R4 K4 R26 K24 R4 K24 R26 K26 R4 Y/4</code></td><td>328</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/"><img src="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/sett.png" alt="German National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

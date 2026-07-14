@@ -13,10 +13,10 @@ Its design is pattern [GKGKBKGBR](/stripes/gkgkbkgbr/) — the page of every tar
 The **Ewbank** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/">Ewbank</a></td><td><code>R/6 T28 Y4 K4 T28 K72 Y4 K4 Y/4</code></td><td>298</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><img src="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/sett.png" alt="Ewbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/">Ewbank</a></td><td></td><td><code>R/6 T28 Y4 K4 T28 K72 Y4 K4 Y/4</code></td><td>298</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><img src="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/sett.png" alt="Ewbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

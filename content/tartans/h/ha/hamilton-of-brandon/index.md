@@ -18,10 +18,10 @@ Its design is pattern [GKGWKY](/stripes/gkgwky/) — the page of every tartan sh
 The **Hamilton of Brandon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/ly16k7w1g7k1dy3~x4/">Hamilton of Brandon</a></td><td><code>LY/64 K28 W4 G28 K4 DY/12</code></td><td>204</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly16k7w1g7k1dy3~x4/"><img src="/variants/s6/ly16k7w1g7k1dy3~x4/sett.png" alt="Hamilton of Brandon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly16k7w1g7k1dy3~x4/">Hamilton of Brandon</a></td><td></td><td><code>LY/64 K28 W4 G28 K4 DY/12</code></td><td>204</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ly16k7w1g7k1dy3~x4/"><img src="/variants/s6/ly16k7w1g7k1dy3~x4/sett.png" alt="Hamilton of Brandon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

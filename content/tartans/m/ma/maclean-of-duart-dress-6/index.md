@@ -18,10 +18,10 @@ Its design is pattern [BBRGRWRWRBRR](/stripes/bbrgrwrwrbrr/) — the page of eve
 The **MacLean of Duart, dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/n12b2o4y2o3w3o3w19r30n2r4o2~x2/">MacLean of Duart, dress</a></td><td><code>N/24 B4 O8 Y4 O6 W6 O6 W38 R60 N4 R8 O/4</code></td><td>316</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/n12b2o4y2o3w3o3w19r30n2r4o2~x2/"><img src="/variants/s12/n12b2o4y2o3w3o3w19r30n2r4o2~x2/sett.png" alt="MacLean of Duart, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/n12b2o4y2o3w3o3w19r30n2r4o2~x2/">MacLean of Duart, dress</a></td><td></td><td><code>N/24 B4 O8 Y4 O6 W6 O6 W38 R60 N4 R8 O/4</code></td><td>316</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/n12b2o4y2o3w3o3w19r30n2r4o2~x2/"><img src="/variants/s12/n12b2o4y2o3w3o3w19r30n2r4o2~x2/sett.png" alt="MacLean of Duart, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

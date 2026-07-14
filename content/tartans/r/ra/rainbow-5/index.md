@@ -18,10 +18,10 @@ Its design is pattern [GWBWYWRWYWGW](/stripes/gwbwywrwywgw/) — the page of eve
 The **Rainbow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g1w1t1w1lo1w1r1w1lo1w1y1w1~x10/">Rainbow</a></td><td><code>G/10 W10 T10 W10 LO10 W10 R10 W10 LO10 W10 Y10 W/10</code></td><td>220</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g1w1t1w1lo1w1r1w1lo1w1y1w1~x10/"><img src="/variants/s12/g1w1t1w1lo1w1r1w1lo1w1y1w1~x10/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g1w1t1w1lo1w1r1w1lo1w1y1w1~x10/">Rainbow</a></td><td></td><td><code>G/10 W10 T10 W10 LO10 W10 R10 W10 LO10 W10 Y10 W/10</code></td><td>220</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g1w1t1w1lo1w1r1w1lo1w1y1w1~x10/"><img src="/variants/s12/g1w1t1w1lo1w1r1w1lo1w1y1w1~x10/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

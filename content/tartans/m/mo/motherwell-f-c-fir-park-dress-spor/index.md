@@ -13,10 +13,10 @@ Its design is pattern [BYBKYKYKYR](/stripes/bybkykykyr/) — the page of every t
 The **Motherwell F.C. Fir Park Dress (Spor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/">Motherwell F.C. Fir Park Dress (Spor</a></td><td><code>DR/12 LR4 DR80 K12 LO8 K8 LO8 K8 LO24 R/12</code></td><td>328</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><img src="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/sett.png" alt="Motherwell F.C. Fir Park Dress (Spor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/">Motherwell F.C. Fir Park Dress (Spor</a></td><td></td><td><code>DR/12 LR4 DR80 K12 LO8 K8 LO8 K8 LO24 R/12</code></td><td>328</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><img src="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/sett.png" alt="Motherwell F.C. Fir Park Dress (Spor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

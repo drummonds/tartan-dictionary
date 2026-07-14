@@ -13,10 +13,10 @@ Its design is pattern [BBRBRBBGBGBBRBRBBGBG](/stripes/bbrbrbbgbgbbrbrbbgbg/) —
 The **Woolmark Plaid, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/dg16db1dg16dt16db16r1db4r1db16dt16dg16db1dg16dt16db6r1db30r1db6dt16~x2/">Woolmark Plaid, The</a></td><td><code>DG/32 DB2 DG32 DT32 DB32 R2 DB8 R2 DB32 DT32 DG32 DB2 DG32 DT32 DB12 R2 DB60 R2 DB12 DT/32</code></td><td>784</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/dg16db1dg16dt16db16r1db4r1db16dt16dg16db1dg16dt16db6r1db30r1db6dt16~x2/"><img src="/variants/s20/dg16db1dg16dt16db16r1db4r1db16dt16dg16db1dg16dt16db6r1db30r1db6dt16~x2/sett.png" alt="Woolmark Plaid, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/dg16db1dg16dt16db16r1db4r1db16dt16dg16db1dg16dt16db6r1db30r1db6dt16~x2/">Woolmark Plaid, The</a></td><td></td><td><code>DG/32 DB2 DG32 DT32 DB32 R2 DB8 R2 DB32 DT32 DG32 DB2 DG32 DT32 DB12 R2 DB60 R2 DB12 DT/32</code></td><td>784</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/dg16db1dg16dt16db16r1db4r1db16dt16dg16db1dg16dt16db6r1db30r1db6dt16~x2/"><img src="/variants/s20/dg16db1dg16dt16db16r1db4r1db16dt16dg16db1dg16dt16db6r1db30r1db6dt16~x2/sett.png" alt="Woolmark Plaid, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

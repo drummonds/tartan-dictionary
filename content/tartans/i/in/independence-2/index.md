@@ -20,10 +20,10 @@ Designed 1996 by Donald Fraser for New Scots for Independence; launched at an SN
 The **Independence** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/">Independence</a></td><td><code>K/4 LO4 B32 LO4 K4 LO4 LB4 LO4 LB30 LO2 K4 LO/4</code></td><td>192</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/"><img src="/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/sett.png" alt="Independence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/">Independence</a></td><td></td><td><code>K/4 LO4 B32 LO4 K4 LO4 LB4 LO4 LB30 LO2 K4 LO/4</code></td><td>192</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/"><img src="/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/sett.png" alt="Independence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GKBKBKBKGW](/stripes/gkbkbkbkgw/) — the page of every t
 The **Granger/Grainger** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/">Granger/Grainger</a></td><td><code>G/54 K42 DB24 K8 DB80 K8 DB24 K42 G54 W/8</code></td><td>626</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><img src="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/sett.png" alt="Granger/Grainger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/">Granger/Grainger</a></td><td></td><td><code>G/54 K42 DB24 K8 DB80 K8 DB24 K42 G54 W/8</code></td><td>626</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><img src="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/sett.png" alt="Granger/Grainger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

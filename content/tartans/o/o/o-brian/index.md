@@ -13,10 +13,10 @@ Its design is pattern [GGGGGRBRBRGRBRBR](/stripes/gggggrbrbrgrbrbr/) — the pag
 The **O'Brian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/">O'Brian</a></td><td><code>R/62 DB4 R6 DB4 R6 DG24 R6 DB4 R6 DB4 R62 DY8 DG38 DY72 DG38 DY/8</code></td><td>634</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/"><img src="/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/sett.png" alt="O'Brian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/">O'Brian</a></td><td></td><td><code>R/62 DB4 R6 DB4 R6 DG24 R6 DB4 R6 DB4 R62 DY8 DG38 DY72 DG38 DY/8</code></td><td>634</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/"><img src="/variants/s16/r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4~x2/sett.png" alt="O'Brian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

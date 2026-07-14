@@ -20,10 +20,10 @@ Black-and-white clan tartan recorded in Wilson's of Bannockburn pattern books.
 The **Menzies Black Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/">Menzies Black Dress</a></td><td><code>W/8 K2 W4 K6 W46 DB10 K6 DB2 K2 DB2 K38 W/4</code></td><td>248</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><img src="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/sett.png" alt="Menzies Black Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/">Menzies Black Dress</a></td><td></td><td><code>W/8 K2 W4 K6 W46 DB10 K6 DB2 K2 DB2 K38 W/4</code></td><td>248</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><img src="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/sett.png" alt="Menzies Black Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

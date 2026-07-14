@@ -18,10 +18,10 @@ Its design is pattern [GBYBYBWKBKBK](/stripes/gbybybwkbkbk/) — the page of eve
 The **Downs Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k69dr6k4dr1k12w1dr6ly1dr24ly1dr5g3~x2/">Downs Dress</a></td><td><code>K/138 DR12 K8 DR2 K24 W2 DR12 LY2 DR48 LY2 DR10 G/6</code></td><td>388</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k69dr6k4dr1k12w1dr6ly1dr24ly1dr5g3~x2/"><img src="/variants/s12/k69dr6k4dr1k12w1dr6ly1dr24ly1dr5g3~x2/sett.png" alt="Downs Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k69dr6k4dr1k12w1dr6ly1dr24ly1dr5g3~x2/">Downs Dress</a></td><td></td><td><code>K/138 DR12 K8 DR2 K24 W2 DR12 LY2 DR48 LY2 DR10 G/6</code></td><td>388</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k69dr6k4dr1k12w1dr6ly1dr24ly1dr5g3~x2/"><img src="/variants/s12/k69dr6k4dr1k12w1dr6ly1dr24ly1dr5g3~x2/sett.png" alt="Downs Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

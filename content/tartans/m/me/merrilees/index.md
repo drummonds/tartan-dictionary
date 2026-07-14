@@ -18,10 +18,10 @@ Its design is pattern [RKRWWW](/stripes/rkrwww/) — the page of every tartan sh
 The **Merrilees** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w23lb6w6r5k35r10~x2/">Merrilees</a></td><td><code>W/46 LB12 W12 R10 K70 R/20</code></td><td>274</td><td>1829</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><img src="/variants/s6/w23lb6w6r5k35r10~x2/sett.png" alt="Merrilees sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w23lb6w6r5k35r10~x2/">Merrilees</a></td><td></td><td><code>W/46 LB12 W12 R10 K70 R/20</code></td><td>274</td><td>1829</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><img src="/variants/s6/w23lb6w6r5k35r10~x2/sett.png" alt="Merrilees sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

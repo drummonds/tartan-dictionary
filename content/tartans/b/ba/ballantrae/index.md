@@ -18,10 +18,10 @@ Its design is pattern [GRGKGBR](/stripes/grgkgbr/) — the page of every tartan 
 The **Ballantrae** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/">Ballantrae</a></td><td><code>DY/12 R6 DY68 K32 Y6 DT44 R/8</code></td><td>332</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/"><img src="/variants/s7/dy6r3dy34k16y3dt22r4~x2/sett.png" alt="Ballantrae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/">Ballantrae</a></td><td></td><td><code>DY/12 R6 DY68 K32 Y6 DT44 R/8</code></td><td>332</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/"><img src="/variants/s7/dy6r3dy34k16y3dt22r4~x2/sett.png" alt="Ballantrae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

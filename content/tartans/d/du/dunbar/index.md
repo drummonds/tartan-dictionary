@@ -20,10 +20,10 @@ Lowland family sett first appearing in the 1842 Vestiarium Scoticum; a separate 
 The **Dunbar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/r28k4w2k13~x2/">Dunbar</a></td><td><code>R/56 K8 W4 K/26</code></td><td>106</td><td>1840</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r28k4w2k13~x2/"><img src="/variants/s4/r28k4w2k13~x2/sett.png" alt="Dunbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r28k4w2k13~x2/">Dunbar</a></td><td></td><td><code>R/56 K8 W4 K/26</code></td><td>106</td><td>1840</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/r28k4w2k13~x2/"><img src="/variants/s4/r28k4w2k13~x2/sett.png" alt="Dunbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

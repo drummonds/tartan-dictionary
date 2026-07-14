@@ -13,10 +13,10 @@ Its design is pattern [WKWKWKW](/stripes/wkwkwkw/) — the page of every tartan 
 The **Saks Fifth Avenue** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w24k16w1k16w3k8w2~x2/">Saks Fifth Avenue</a></td><td><code>W/48 K32 W2 K32 W6 K16 W/4</code></td><td>228</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w24k16w1k16w3k8w2~x2/"><img src="/variants/s7/w24k16w1k16w3k8w2~x2/sett.png" alt="Saks Fifth Avenue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w24k16w1k16w3k8w2~x2/">Saks Fifth Avenue</a></td><td></td><td><code>W/48 K32 W2 K32 W6 K16 W/4</code></td><td>228</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w24k16w1k16w3k8w2~x2/"><img src="/variants/s7/w24k16w1k16w3k8w2~x2/sett.png" alt="Saks Fifth Avenue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

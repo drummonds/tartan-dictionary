@@ -20,10 +20,10 @@ Essentially Royal Stuart with white and yellow lines removed; first published by
 The **MacDuff** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r10db6k8g10r6g3r6~x2/">MacDuff</a></td><td><code>R/20 DB12 K16 G20 R12 G6 R/12</code></td><td>164</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><img src="/variants/s7/r10db6k8g10r6g3r6~x2/sett.png" alt="MacDuff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r10db6k8g10r6g3r6~x2/">MacDuff</a></td><td></td><td><code>R/20 DB12 K16 G20 R12 G6 R/12</code></td><td>164</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><img src="/variants/s7/r10db6k8g10r6g3r6~x2/sett.png" alt="MacDuff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [KYGBGKGKGKY](/stripes/kygbgkgkgky/) — the page of every
 The **MacMillan Anc** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/">MacMillan Anc</a></td><td><code>LY/20 K4 G6 K4 G80 K4 G6 DR50 G12 LY20 K/2</code></td><td>394</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/"><img src="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/sett.png" alt="MacMillan Anc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/">MacMillan Anc</a></td><td></td><td><code>LY/20 K4 G6 K4 G80 K4 G6 DR50 G12 LY20 K/2</code></td><td>394</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/"><img src="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/sett.png" alt="MacMillan Anc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

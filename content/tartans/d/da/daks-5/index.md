@@ -20,12 +20,12 @@ The **Daks** tartan groups 2 setts — the same named design recorded as differe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/o3k6dy4k6y3~x2/">Daks</a> ★</td><td><code>O/6 K12 DY8 K12 Y/6</code></td><td>76</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/o3k6dy4k6y3~x2/"><img src="/variants/s5/o3k6dy4k6y3~x2/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/b3k7o4k6ly3~x2/">Black House Check, C.6700.06</a></td><td><code>B/6 K14 O8 K12 LY/6</code></td><td>80</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/b3k7o4k6ly3~x2/"><img src="/variants/s5/b3k7o4k6ly3~x2/sett.png" alt="Black House Check, C.6700.06 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/o3k6dy4k6y3~x2/">Daks</a> ★</td><td></td><td><code>O/6 K12 DY8 K12 Y/6</code></td><td>76</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/o3k6dy4k6y3~x2/"><img src="/variants/s5/o3k6dy4k6y3~x2/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/b3k7o4k6ly3~x2/">Black House Check, C.6700.06</a></td><td>0.95</td><td><code>B/6 K14 O8 K12 LY/6</code></td><td>80</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/b3k7o4k6ly3~x2/"><img src="/variants/s5/b3k7o4k6ly3~x2/sett.png" alt="Black House Check, C.6700.06 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

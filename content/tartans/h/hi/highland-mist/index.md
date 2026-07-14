@@ -18,10 +18,10 @@ Designed 2002 by Claire Donaldson of House of Edgar for Harrisons of Hamilton's 
 The **Highland Mist** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s45/db2g3dp1g2ly1g2dt2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2dt2r1db2r1db30g3dp1g2ly1g2dt1dp2g1dp2r1dp2db2dt28dp1ly2dp3g1dp2r1dp2~x2/">Highland Mist</a></td><td><code>DB/4 G6 DP2 G4 LY2 G4 DT4 DP2 LY4 DP6 G2 DP4 R2 DP4 DB4 G6 DP2 G4 LY2 G4 DT4 R2 DB4 R2 DB60 G6 DP2 G4 LY2 G4 DT2 DP4 G2 DP4 R2 DP4 DB4 DT56 DP2 LY4 DP6 G2 DP4 R2 DP/4</code></td><td>520</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s45/db2g3dp1g2ly1g2dt2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2dt2r1db2r1db30g3dp1g2ly1g2dt1dp2g1dp2r1dp2db2dt28dp1ly2dp3g1dp2r1dp2~x2/"><img src="/variants/s45/db2g3dp1g2ly1g2dt2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2dt2r1db2r1db30g3dp1g2ly1g2dt1dp2g1dp2r1dp2db2dt28dp1ly2dp3g1dp2r1dp2~x2/sett.png" alt="Highland Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s45/db2g3dp1g2ly1g2dt2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2dt2r1db2r1db30g3dp1g2ly1g2dt1dp2g1dp2r1dp2db2dt28dp1ly2dp3g1dp2r1dp2~x2/">Highland Mist</a></td><td></td><td><code>DB/4 G6 DP2 G4 LY2 G4 DT4 DP2 LY4 DP6 G2 DP4 R2 DP4 DB4 G6 DP2 G4 LY2 G4 DT4 R2 DB4 R2 DB60 G6 DP2 G4 LY2 G4 DT2 DP4 G2 DP4 R2 DP4 DB4 DT56 DP2 LY4 DP6 G2 DP4 R2 DP/4</code></td><td>520</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s45/db2g3dp1g2ly1g2dt2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2dt2r1db2r1db30g3dp1g2ly1g2dt1dp2g1dp2r1dp2db2dt28dp1ly2dp3g1dp2r1dp2~x2/"><img src="/variants/s45/db2g3dp1g2ly1g2dt2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2dt2r1db2r1db30g3dp1g2ly1g2dt1dp2g1dp2r1dp2db2dt28dp1ly2dp3g1dp2r1dp2~x2/sett.png" alt="Highland Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

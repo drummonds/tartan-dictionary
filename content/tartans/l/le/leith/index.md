@@ -20,12 +20,12 @@ The **Leith** tartan groups 2 setts — the same named design recorded as differ
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/">Leith</a> ★</td><td><code>K/14 R4 Y4 K8 R70 DP8 R3 Y3 R8 DP64 R3 K63 W3 G64 R8 Y3 R3 G8 R70 K8 Y4 R4 K/14</code></td><td>854</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/"><img src="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/sett.png" alt="Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2dp15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Hay or Leith Clan Tartan</a></td><td><code>K/6 R2 Y2 K4 R32 DP4 R2 Y2 R4 DP30 R2 K30 W2 G30 R4 Y2 R2 G4 R32 K4 Y2 R2 K/6</code></td><td>408</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2dp15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><img src="/variants/s23/k3r1y1k2r16dp2r1y1r2dp15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/sett.png" alt="Hay or Leith Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/">Leith</a> ★</td><td></td><td><code>K/14 R4 Y4 K8 R70 DP8 R3 Y3 R8 DP64 R3 K63 W3 G64 R8 Y3 R3 G8 R70 K8 Y4 R4 K/14</code></td><td>854</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/"><img src="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/sett.png" alt="Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2dp15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Hay or Leith Clan Tartan</a></td><td>0.35</td><td><code>K/6 R2 Y2 K4 R32 DP4 R2 Y2 R4 DP30 R2 K30 W2 G30 R4 Y2 R2 G4 R32 K4 Y2 R2 K/6</code></td><td>408</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2dp15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><img src="/variants/s23/k3r1y1k2r16dp2r1y1r2dp15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/sett.png" alt="Hay or Leith Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

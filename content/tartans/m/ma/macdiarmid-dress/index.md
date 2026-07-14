@@ -21,13 +21,13 @@ The **MacDiarmid Dress** tartan is one sett, recorded at 2 scales — the same p
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w38r12w37g32k3w4k3g32r4/">MacDiarmid Dress</a></td><td><code>W/38 R12 W37 G32 K3 W4 K3 G32 R/4</code></td><td>288</td><td>1830</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w38r12w37g32k3w4k3g32r4/"><img src="/variants/s9/w38r12w37g32k3w4k3g32r4/sett.png" alt="MacDiarmid Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/w38r12w37g32k3w4k3g32r4/">MacDiarmid, dress</a></td><td><code>W/38 R12 W37 G32 K3 W4 K3 G32 R/4</code></td><td>288</td><td>~1830</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/w38r12w37g32k3w4k3g32r4~x2/">MacDiarmid Dress</a></td><td><code>W/76 R24 W74 G64 K6 W8 K6 G64 R/8</code></td><td>576</td><td>1830</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/w38r12w37g32k3w4k3g32r4/">MacDiarmid, dress</a> · <a href="/variants/s9/w38r12w37g32k3w4k3g32r4~x2/">MacDiarmid Dress</a></td></tr>
+<tr><td><a href="/variants/s9/w38r12w37g32k3w4k3g32r4/">MacDiarmid Dress</a></td><td></td><td><code>W/38 R12 W37 G32 K3 W4 K3 G32 R/4</code></td><td>288</td><td>1830</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w38r12w37g32k3w4k3g32r4/"><img src="/variants/s9/w38r12w37g32k3w4k3g32r4/sett.png" alt="MacDiarmid Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/w38r12w37g32k3w4k3g32r4/">MacDiarmid, dress</a></td><td>0.00</td><td><code>W/38 R12 W37 G32 K3 W4 K3 G32 R/4</code></td><td>288</td><td>~1830</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/w38r12w37g32k3w4k3g32r4~x2/">MacDiarmid Dress</a></td><td>0.00</td><td><code>W/76 R24 W74 G64 K6 W8 K6 G64 R/8</code></td><td>576</td><td>1830</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/w38r12w37g32k3w4k3g32r4/">MacDiarmid, dress</a> · <a href="/variants/s9/w38r12w37g32k3w4k3g32r4~x2/">MacDiarmid Dress</a></td></tr>
 </tbody>
 </table>
 

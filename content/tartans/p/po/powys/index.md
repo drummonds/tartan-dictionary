@@ -15,11 +15,11 @@ Welsh district tartan for Powys, with asymmetric warp/weft creating a striped ef
 The **Powys** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/">Powys</a></td><td><code>DG/24 T7 DG7 T7 DG7 DB22 T7 DB4 DY4 DB4 T40 R/14</code></td><td>256</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/"><img src="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/sett.png" alt="Powys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/">(District)</a> · <a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/">Welsh District Tartan</a></td></tr>
+<tr><td><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/">Powys</a></td><td></td><td><code>DG/24 T7 DG7 T7 DG7 DB22 T7 DB4 DY4 DB4 T40 R/14</code></td><td>256</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/"><img src="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/sett.png" alt="Powys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/">(District)</a> · <a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/">Welsh District Tartan</a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbb/) — the page 
 The **Scottish Gas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/">Scottish Gas</a></td><td><code>Ti/22 DB4 Ti8 DB4 Ti8 DB22 T22 DB4 Tii8 DB4 T22 DB22 Ti22 DB4 Ti/8</code></td><td>338</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/"><img src="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/sett.png" alt="Scottish Gas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/">Scottish Gas</a></td><td></td><td><code>Ti/22 DB4 Ti8 DB4 Ti8 DB22 T22 DB4 Tii8 DB4 T22 DB22 Ti22 DB4 Ti/8</code></td><td>338</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/"><img src="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/sett.png" alt="Scottish Gas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

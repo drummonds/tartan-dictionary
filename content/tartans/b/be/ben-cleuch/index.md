@@ -13,10 +13,10 @@ Its design is pattern [RGRGRWRWRW](/stripes/rgrgrwrwrw/) — the page of every t
 The **Ben Cleuch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/">Ben Cleuch</a></td><td><code>W/136 O6 W6 O16 W6 O54 DY32 R6 DY40 O/6</code></td><td>474</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><img src="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/sett.png" alt="Ben Cleuch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/">Ben Cleuch</a></td><td></td><td><code>W/136 O6 W6 O16 W6 O54 DY32 R6 DY40 O/6</code></td><td>474</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><img src="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/sett.png" alt="Ben Cleuch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

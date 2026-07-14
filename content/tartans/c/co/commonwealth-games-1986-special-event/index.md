@@ -16,10 +16,10 @@ Its design is pattern [BWRWKWBRBR](/stripes/bwrwkwbrbr/) — the page of every t
 The **Commonwealth Games 1986 Special Event** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/">Commonwealth Games 1986 Special Event</a></td><td><code>DB/24 W8 R24 W10 K8 W24 DB40 R8 DB10 R/8</code></td><td>296</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/"><img src="/variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/sett.png" alt="Commonwealth Games 1986 Special Event sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/">Commonwealth Games 1986 Special Event</a></td><td></td><td><code>DB/24 W8 R24 W10 K8 W24 DB40 R8 DB10 R/8</code></td><td>296</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/"><img src="/variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/sett.png" alt="Commonwealth Games 1986 Special Event sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

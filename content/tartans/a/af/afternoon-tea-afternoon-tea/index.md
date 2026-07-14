@@ -13,10 +13,10 @@ Its design is pattern [GGBRBW](/stripes/ggbrbw/) — the page of every tartan sh
 The **Afternoon Tea / Afternoon Tea** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/y15g98n72r25n8lb15/">Afternoon Tea / Afternoon Tea</a></td><td><code>Y/15 G98 N72 R25 N8 LB/15</code></td><td>436</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y15g98n72r25n8lb15/"><img src="/variants/s6/y15g98n72r25n8lb15/sett.png" alt="Afternoon Tea / Afternoon Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y15g98n72r25n8lb15/">Afternoon Tea / Afternoon Tea</a></td><td></td><td><code>Y/15 G98 N72 R25 N8 LB/15</code></td><td>436</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y15g98n72r25n8lb15/"><img src="/variants/s6/y15g98n72r25n8lb15/sett.png" alt="Afternoon Tea / Afternoon Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

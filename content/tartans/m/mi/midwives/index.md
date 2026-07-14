@@ -13,10 +13,10 @@ Its design is pattern [GWKWBWBWW](/stripes/gwkwbwbww/) — the page of every tar
 The **Midwives** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/">Midwives</a></td><td><code>DY/10 LB6 K2 LB12 N22 LB6 T6 LB86 W/6</code></td><td>296</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/"><img src="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/sett.png" alt="Midwives sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/">Midwives</a></td><td></td><td><code>DY/10 LB6 K2 LB12 N22 LB6 T6 LB86 W/6</code></td><td>296</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/"><img src="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/sett.png" alt="Midwives sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

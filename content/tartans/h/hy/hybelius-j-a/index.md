@@ -13,10 +13,10 @@ Its design is pattern [BGRWGRWRG](/stripes/bgrwgrwrg/) — the page of every tar
 The **Hybelius, J-A** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/">Hybelius, J-A</a></td><td><code>DB/116 Y4 R2 LB8 Y4 R4 LB14 R16 Y/12</code></td><td>232</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><img src="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/sett.png" alt="Hybelius, J-A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/">Hybelius, J-A</a></td><td></td><td><code>DB/116 Y4 R2 LB8 Y4 R4 LB14 R16 Y/12</code></td><td>232</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><img src="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/sett.png" alt="Hybelius, J-A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

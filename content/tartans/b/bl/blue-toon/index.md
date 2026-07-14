@@ -16,10 +16,10 @@ Its design is pattern [BBWBRBBWBWG](/stripes/bbwbrbbwbwg/) — the page of every
 The **Blue Toon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t2203246-db1404245/">Blue Toon</a></td><td><code>T/98 DB22 W4 DB4 R4 DB4 T20 LB8 DB4 LB4 Y/6</code></td><td>252</td><td>~2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t2203246-db1404245/"><img src="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t2203246-db1404245/sett.png" alt="Blue Toon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t2203246-db1404245/">Blue Toon</a></td><td></td><td><code>T/98 DB22 W4 DB4 R4 DB4 T20 LB8 DB4 LB4 Y/6</code></td><td>252</td><td>~2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t2203246-db1404245/"><img src="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t2203246-db1404245/sett.png" alt="Blue Toon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

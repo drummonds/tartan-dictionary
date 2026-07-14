@@ -21,14 +21,14 @@ The **Swan** tartan groups 3 setts — the same named design recorded as differe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k3w2k18b18k2b3~x4/">Swan</a> ★</td><td><code>K/12 W8 K72 B72 K8 B/12</code></td><td>344</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3w2k18b18k2b3~x4/"><img src="/variants/s6/k3w2k18b18k2b3~x4/sett.png" alt="Swan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k3w2k18t18k2t3~x4/">(Name)</a></td><td><code>K/12 W8 K72 T72 K8 T/12</code></td><td>344</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3w2k18t18k2t3~x4/"><img src="/variants/s6/k3w2k18t18k2t3~x4/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k6db17k6db17k27w3~x2/">Brian E</a></td><td><code>K/12 DB34 K12 DB34 K54 W/6</code></td><td>286</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k6db17k6db17k27w3~x2/"><img src="/variants/s6/k6db17k6db17k27w3~x2/sett.png" alt="Brian E sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3w2k18b18k2b3~x4/">Swan</a> ★</td><td></td><td><code>K/12 W8 K72 B72 K8 B/12</code></td><td>344</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k3w2k18b18k2b3~x4/"><img src="/variants/s6/k3w2k18b18k2b3~x4/sett.png" alt="Swan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3w2k18t18k2t3~x4/">(Name)</a></td><td>0.10</td><td><code>K/12 W8 K72 T72 K8 T/12</code></td><td>344</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k3w2k18t18k2t3~x4/"><img src="/variants/s6/k3w2k18t18k2t3~x4/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k6db17k6db17k27w3~x2/">Brian E</a></td><td>0.65</td><td><code>K/12 DB34 K12 DB34 K54 W/6</code></td><td>286</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k6db17k6db17k27w3~x2/"><img src="/variants/s6/k6db17k6db17k27w3~x2/sett.png" alt="Brian E sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

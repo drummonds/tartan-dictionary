@@ -16,10 +16,10 @@ Its design is pattern [BKWBRBRKW](/stripes/bkwbrbrkw/) — the page of every tar
 The **Montgomerie, Colin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/">Montgomerie, Colin</a></td><td><code>LB/4 K2 R10 N6 O24 N8 LB2 K80 DB/2</code></td><td>270</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><img src="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/sett.png" alt="Montgomerie, Colin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/">Montgomerie, Colin</a></td><td></td><td><code>LB/4 K2 R10 N6 O24 N8 LB2 K80 DB/2</code></td><td>270</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><img src="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/sett.png" alt="Montgomerie, Colin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

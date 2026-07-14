@@ -13,10 +13,10 @@ Its design is pattern [BBBWBBBY](/stripes/bbbwbbby/) — the page of every tarta
 The **Queen of the South F.C.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lr6dr16db20dbi18lb5dbi18t6dbi4~db1404245-dbi1406275/">Queen of the South F.C.</a></td><td><code>LR/6 DR16 DB20 DBi18 LB5 DBi18 T6 DBi/4</code></td><td>176</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lr6dr16db20dbi18lb5dbi18t6dbi4~db1404245-dbi1406275/"><img src="/variants/s8/lr6dr16db20dbi18lb5dbi18t6dbi4~db1404245-dbi1406275/sett.png" alt="Queen of the South F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lr6dr16db20dbi18lb5dbi18t6dbi4~db1404245-dbi1406275/">Queen of the South F.C.</a></td><td></td><td><code>LR/6 DR16 DB20 DBi18 LB5 DBi18 T6 DBi/4</code></td><td>176</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lr6dr16db20dbi18lb5dbi18t6dbi4~db1404245-dbi1406275/"><img src="/variants/s8/lr6dr16db20dbi18lb5dbi18t6dbi4~db1404245-dbi1406275/sett.png" alt="Queen of the South F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

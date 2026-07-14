@@ -16,10 +16,10 @@ Its design is pattern [GBBBBBBGBY](/stripes/gbbbbbbgby/) — the page of every t
 The **Blue Peter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/">Blue Peter</a></td><td><code>Y/6 DBi50 DB8 DBi8 DB8 DBi8 DB50 G8 DP8 LO/4</code></td><td>306</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/"><img src="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/sett.png" alt="Blue Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/">Blue Peter</a></td><td></td><td><code>Y/6 DBi50 DB8 DBi8 DB8 DBi8 DB50 G8 DP8 LO/4</code></td><td>306</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/"><img src="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/sett.png" alt="Blue Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

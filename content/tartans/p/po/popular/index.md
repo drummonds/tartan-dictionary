@@ -13,10 +13,10 @@ Its design is pattern [KRKWKRKWKRBRKW](/stripes/krkwkrkwkrbrkw/) — the page of
 The **Popular** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/">Popular</a></td><td><code>LB/16 K32 R34 DB38 R8 K4 LB14 K6 R6 K4 W10 K2 R6 K/6</code></td><td>350</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/"><img src="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/sett.png" alt="Popular sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/">Popular</a></td><td></td><td><code>LB/16 K32 R34 DB38 R8 K4 LB14 K6 R6 K4 W10 K2 R6 K/6</code></td><td>350</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/"><img src="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/sett.png" alt="Popular sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

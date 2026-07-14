@@ -13,10 +13,10 @@ Its design is pattern [BRKRWRWRWRWRWRKRKRKRKRKWRWRWRWRWRWYY](/stripes/brkrwrwrwr
 The **All Breeds Dairy Goats** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10~o2505058-ly3607098/">All Breeds Dairy Goats</a></td><td><code>DB/10 R10 K36 O1 W1 O1 W1 O1 W1 O1 W1 O1 W1 O1 K1 O1 K1 O1 K1 O1 K1 O1 K1 W1 O1 W1 O1 W1 O1 W1 O1 W1 O27 W26 LG10 LY/10</code></td><td>296</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10~o2505058-ly3607098/"><img src="/variants/s36/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10~o2505058-ly3607098/sett.png" alt="All Breeds Dairy Goats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10~o2505058-ly3607098/">All Breeds Dairy Goats</a></td><td></td><td><code>DB/10 R10 K36 O1 W1 O1 W1 O1 W1 O1 W1 O1 W1 O1 K1 O1 K1 O1 K1 O1 K1 O1 K1 W1 O1 W1 O1 W1 O1 W1 O1 W1 O27 W26 LG10 LY/10</code></td><td>296</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10~o2505058-ly3607098/"><img src="/variants/s36/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10~o2505058-ly3607098/sett.png" alt="All Breeds Dairy Goats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

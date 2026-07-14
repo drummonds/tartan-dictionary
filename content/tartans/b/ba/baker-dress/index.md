@@ -18,10 +18,10 @@ Its design is pattern [BGWGBWRW](/stripes/bgwgbwrw/) — the page of every tarta
 The **Baker Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/">Baker Dress</a></td><td><code>DB/112 Y12 W4 Y12 DB16 W8 R4 W/20</code></td><td>244</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/"><img src="/variants/s8/db28y3w1y3db4w2r1w5~x4/sett.png" alt="Baker Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/">Baker Dress</a></td><td></td><td><code>DB/112 Y12 W4 Y12 DB16 W8 R4 W/20</code></td><td>244</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/"><img src="/variants/s8/db28y3w1y3db4w2r1w5~x4/sett.png" alt="Baker Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

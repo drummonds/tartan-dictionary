@@ -16,10 +16,10 @@ Its design is pattern [BKBKBKWKWKBKB](/stripes/bkbkbkwkwkbkb/) — the page of e
 The **Blue Watch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/">Blue Watch</a></td><td><code>DB/44 K4 DB4 K4 DB4 K32 W32 K4 W32 K32 DB32 K4 DB/4</code></td><td>416</td><td>~1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/"><img src="/variants/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/sett.png" alt="Blue Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/">Blue Watch</a></td><td></td><td><code>DB/44 K4 DB4 K4 DB4 K32 W32 K4 W32 K32 DB32 K4 DB/4</code></td><td>416</td><td>~1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/"><img src="/variants/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/sett.png" alt="Blue Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

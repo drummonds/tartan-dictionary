@@ -16,10 +16,10 @@ Its design is pattern [BKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbk
 The **MacKay, Marled** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/">MacKay, Marled</a></td><td><code>K/4 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K12 N4 K12 N/4</code></td><td>126</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/"><img src="/variants/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/sett.png" alt="MacKay, Marled sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/">MacKay, Marled</a></td><td></td><td><code>K/4 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K1 N1 K12 N4 K12 N/4</code></td><td>126</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/"><img src="/variants/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/sett.png" alt="MacKay, Marled sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

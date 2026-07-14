@@ -13,10 +13,10 @@ Its design is pattern [BWKWKWKWRKRW](/stripes/bwkwkwkwrkrw/) — the page of eve
 The **Waverley Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/">Waverley Check</a></td><td><code>DO/88 W8 K12 W4 K4 W4 K4 W28 O20 K4 O8 W/4</code></td><td>284</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/"><img src="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/sett.png" alt="Waverley Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/">Waverley Check</a></td><td></td><td><code>DO/88 W8 K12 W4 K4 W4 K4 W28 O20 K4 O8 W/4</code></td><td>284</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/"><img src="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/sett.png" alt="Waverley Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

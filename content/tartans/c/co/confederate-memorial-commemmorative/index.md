@@ -15,10 +15,10 @@ Designed by Dr. Philip Smith in 1995; grey for the Confederacy, with fields for 
 The **Confederate Memorial Commemmorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lg8lr2r3lr2dy2lr28r10lb1db3lb2~x2/">Confederate Memorial Commemmorative</a></td><td><code>LG/16 LR4 R6 LR4 DY4 LR56 R20 LB2 DB6 LB/4</code></td><td>224</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lg8lr2r3lr2dy2lr28r10lb1db3lb2~x2/"><img src="/variants/s10/lg8lr2r3lr2dy2lr28r10lb1db3lb2~x2/sett.png" alt="Confederate Memorial Commemmorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lg8lr2r3lr2dy2lr28r10lb1db3lb2~x2/">Confederate Memorial Commemmorative</a></td><td></td><td><code>LG/16 LR4 R6 LR4 DY4 LR56 R20 LB2 DB6 LB/4</code></td><td>224</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lg8lr2r3lr2dy2lr28r10lb1db3lb2~x2/"><img src="/variants/s10/lg8lr2r3lr2dy2lr28r10lb1db3lb2~x2/sett.png" alt="Confederate Memorial Commemmorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KRKGKBGBKR](/stripes/krkgkbgbkr/) — the page of every t
 The **Process Safety Solutions Ltd** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/">Process Safety Solutions Ltd</a></td><td><code>R/8 K22 N16 DG4 N16 K26 DG4 K26 R10 K/4</code></td><td>260</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><img src="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/sett.png" alt="Process Safety Solutions Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/">Process Safety Solutions Ltd</a></td><td></td><td><code>R/8 K22 N16 DG4 N16 K26 DG4 K26 R10 K/4</code></td><td>260</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><img src="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/sett.png" alt="Process Safety Solutions Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

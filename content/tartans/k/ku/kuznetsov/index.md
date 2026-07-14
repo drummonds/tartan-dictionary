@@ -13,10 +13,10 @@ Its design is pattern [BGRGGWB](/stripes/bgrggwb/) — the page of every tartan 
 The **Kuznetsov** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db49y12r12y12dg32w8db3/">Kuznetsov</a></td><td><code>DB/49 Y12 R12 Y12 DG32 W8 DB/3</code></td><td>204</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db49y12r12y12dg32w8db3/"><img src="/variants/s7/db49y12r12y12dg32w8db3/sett.png" alt="Kuznetsov sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db49y12r12y12dg32w8db3/">Kuznetsov</a></td><td></td><td><code>DB/49 Y12 R12 Y12 DG32 W8 DB/3</code></td><td>204</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db49y12r12y12dg32w8db3/"><img src="/variants/s7/db49y12r12y12dg32w8db3/sett.png" alt="Kuznetsov sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

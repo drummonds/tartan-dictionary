@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKGKWKGKBKRKBKGKWKGKBKBKB](/stripes/bkbkbkgkwkgkbkrkb
 The **MacKenzie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/">MacKenzie</a></td><td><code>DB/56 K12 DB12 K12 DB12 K56 G56 K12 W12 K12 G56 K56 DB56 K12 R12 K12 DB56 K56 G56 K12 W12 K12 G56 K56 DB12 K12 DB12 K12 DB/28</code></td><td>1612</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/"><img src="/variants/s29/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/sett.png" alt="MacKenzie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/">MacKenzie</a></td><td></td><td><code>DB/56 K12 DB12 K12 DB12 K56 G56 K12 W12 K12 G56 K56 DB56 K12 R12 K12 DB56 K56 G56 K12 W12 K12 G56 K56 DB12 K12 DB12 K12 DB/28</code></td><td>1612</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/"><img src="/variants/s29/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/sett.png" alt="MacKenzie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

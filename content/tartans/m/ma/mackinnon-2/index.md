@@ -18,10 +18,10 @@ Its design is pattern [BRGKRGRKGRGBRW](/stripes/brgkrgrkgrgbrw/) — the page of
 The **MacKinnon 2** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/">MacKinnon 2</a></td><td><code>B/2 R4 G2 K2 R10 G22 R2 K4 G2 R22 G8 B2 R4 W/2</code></td><td>172</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/"><img src="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/sett.png" alt="MacKinnon 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/">MacKinnon 2</a></td><td></td><td><code>B/2 R4 G2 K2 R10 G22 R2 K4 G2 R22 G8 B2 R4 W/2</code></td><td>172</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/"><img src="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/sett.png" alt="MacKinnon 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

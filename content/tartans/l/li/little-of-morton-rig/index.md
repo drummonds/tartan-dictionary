@@ -18,10 +18,10 @@ Its design is pattern [GKBKBKWKWK](/stripes/gkbkbkwkwk/) — the page of every t
 The **Little of Morton Rig** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/">Little of Morton Rig</a></td><td><code>K/10 W7 K8 W7 K8 B14 K4 B14 K16 Y/2</code></td><td>168</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><img src="/variants/s10/k10w7k8w7k8b14k4b14k16y2/sett.png" alt="Little of Morton Rig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/">Little of Morton Rig</a></td><td></td><td><code>K/10 W7 K8 W7 K8 B14 K4 B14 K16 Y/2</code></td><td>168</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><img src="/variants/s10/k10w7k8w7k8b14k4b14k16y2/sett.png" alt="Little of Morton Rig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

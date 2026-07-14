@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/) — the page of e
 The **Lamberton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db30k5db5k5db5k24g24y6g24k24db24k5db5/">Lamberton</a></td><td><code>DB/30 K5 DB5 K5 DB5 K24 G24 Y6 G24 K24 DB24 K5 DB/5</code></td><td>337</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db30k5db5k5db5k24g24y6g24k24db24k5db5/"><img src="/variants/s13/db30k5db5k5db5k24g24y6g24k24db24k5db5/sett.png" alt="Lamberton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db30k5db5k5db5k24g24y6g24k24db24k5db5/">Lamberton</a></td><td></td><td><code>DB/30 K5 DB5 K5 DB5 K24 G24 Y6 G24 K24 DB24 K5 DB/5</code></td><td>337</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db30k5db5k5db5k24g24y6g24k24db24k5db5/"><img src="/variants/s13/db30k5db5k5db5k24g24y6g24k24db24k5db5/sett.png" alt="Lamberton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

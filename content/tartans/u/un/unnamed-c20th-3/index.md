@@ -13,10 +13,10 @@ Its design is pattern [WKRYRKGWKWW](/stripes/wkryrkgwkww/) — the page of every
 The **Unnamed C20th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/">Unnamed C20th</a></td><td><code>LB/16 K2 R44 LY2 R12 K6 DG20 W2 K6 LB40 W/2</code></td><td>286</td><td>~2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/"><img src="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/">Unnamed C20th</a></td><td></td><td><code>LB/16 K2 R44 LY2 R12 K6 DG20 W2 K6 LB40 W/2</code></td><td>286</td><td>~2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/"><img src="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

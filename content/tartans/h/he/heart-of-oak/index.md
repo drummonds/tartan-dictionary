@@ -13,10 +13,10 @@ Its design is pattern [BGWKBKBGRW](/stripes/bgwkbkbgrw/) — the page of every t
 The **Heart of Oak** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/">Heart of Oak</a></td><td><code>DP/6 G6 W2 K50 DB50 K4 DB4 G2 R6 W/4</code></td><td>258</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/"><img src="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/sett.png" alt="Heart of Oak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/">Heart of Oak</a></td><td></td><td><code>DP/6 G6 W2 K50 DB50 K4 DB4 G2 R6 W/4</code></td><td>258</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/"><img src="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/sett.png" alt="Heart of Oak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

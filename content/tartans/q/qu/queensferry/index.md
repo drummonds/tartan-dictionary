@@ -20,12 +20,12 @@ The **Queensferry** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3~x2/">Queensferry</a> ★</td><td><code>DG/12 N4 LB2 DG18 DT4 DG14 DT8 DG8 DT14 DG4 DT40 DR2 DT4 DR2 DY6 DT6 DR/6</code></td><td>290</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3~x2/"><img src="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3~x2/sett.png" alt="Queensferry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3~x2~r1606028-dr1004029/">(District)</a></td><td><code>DG/12 N4 LB2 DG18 DT4 DG14 DT8 DG8 DT14 DG4 DT40 R2 DT4 R2 DR6 DT6 R/6</code></td><td>290</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3~x2~r1606028-dr1004029/"><img src="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3~x2~r1606028-dr1004029/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3~x2/">Queensferry</a> ★</td><td></td><td><code>DG/12 N4 LB2 DG18 DT4 DG14 DT8 DG8 DT14 DG4 DT40 DR2 DT4 DR2 DY6 DT6 DR/6</code></td><td>290</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3~x2/"><img src="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20dr1dt2dr1dy3dt3dr3~x2/sett.png" alt="Queensferry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3~x2~r1606028-dr1004029/">(District)</a></td><td>1.20</td><td><code>DG/12 N4 LB2 DG18 DT4 DG14 DT8 DG8 DT14 DG4 DT40 R2 DT4 R2 DR6 DT6 R/6</code></td><td>290</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3~x2~r1606028-dr1004029/"><img src="/variants/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3~x2~r1606028-dr1004029/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

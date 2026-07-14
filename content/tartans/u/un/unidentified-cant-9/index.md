@@ -13,10 +13,10 @@ Its design is pattern [RGRGRGRGRGRGRWRGRGRGRGWGW](/stripes/rgrgrgrgrgrgrwrgrgrgr
 The **Unidentified Cant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/o99g6o8g4o10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34lb36dy6lb18~g2408144/">Unidentified Cant</a></td><td><code>O/99 G6 O8 G4 O10 DY34 R2 DY6 R4 DY4 R6 DY2 R7 W3 R7 DY2 R6 DY4 R4 DY6 R2 DY34 LB36 DY6 LB/18</code></td><td>523</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/o99g6o8g4o10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34lb36dy6lb18~g2408144/"><img src="/variants/s25/o99g6o8g4o10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34lb36dy6lb18~g2408144/sett.png" alt="Unidentified Cant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/o99g6o8g4o10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34lb36dy6lb18~g2408144/">Unidentified Cant</a></td><td></td><td><code>O/99 G6 O8 G4 O10 DY34 R2 DY6 R4 DY4 R6 DY2 R7 W3 R7 DY2 R6 DY4 R4 DY6 R2 DY34 LB36 DY6 LB/18</code></td><td>523</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/o99g6o8g4o10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34lb36dy6lb18~g2408144/"><img src="/variants/s25/o99g6o8g4o10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34lb36dy6lb18~g2408144/sett.png" alt="Unidentified Cant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

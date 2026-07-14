@@ -18,10 +18,10 @@ Its design is pattern [BGRGYG](/stripes/bgrgyg/) — the page of every tartan sh
 The **Hutcheson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/">Hutcheson</a></td><td><code>DB/16 Y8 R60 DG60 LO6 DG/8</code></td><td>292</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/"><img src="/variants/s6/db8y4r30dg30lo3dg4~x2/sett.png" alt="Hutcheson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/">Hutcheson</a></td><td></td><td><code>DB/16 Y8 R60 DG60 LO6 DG/8</code></td><td>292</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/"><img src="/variants/s6/db8y4r30dg30lo3dg4~x2/sett.png" alt="Hutcheson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

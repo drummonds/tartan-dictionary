@@ -13,11 +13,11 @@ Its design is pattern [BGWBWBWBG](/stripes/bgwbwbwbg/) — the page of every tar
 The **Orlando Police Department (Corporate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4/">Orlando Police Department (Corporate</a></td><td><code>DB/48 Y4 LB64 DB4 LB4 DB56 LB12 DB56 Y/4</code></td><td>452</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4/"><img src="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4/sett.png" alt="Orlando Police Department (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4/">Orlando Police Department (Corporate</a> · <a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4~db1406275/">Orlando Police Department</a></td></tr>
+<tr><td><a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4/">Orlando Police Department (Corporate</a></td><td></td><td><code>DB/48 Y4 LB64 DB4 LB4 DB56 LB12 DB56 Y/4</code></td><td>452</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4/"><img src="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4/sett.png" alt="Orlando Police Department (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4/">Orlando Police Department (Corporate</a> · <a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4~db1406275/">Orlando Police Department</a></td></tr>
 </tbody>
 </table>
 

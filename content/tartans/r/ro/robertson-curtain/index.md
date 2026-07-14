@@ -16,10 +16,10 @@ Its design is pattern [RGRBRBRGRBRGR](/stripes/rgrbrbrgrbrgr/) — the page of e
 The **Robertson Curtain** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/">Robertson Curtain</a></td><td><code>R/12 G8 R76 DB8 R12 DB80 R12 G80 R12 DB8 R76 G8 R/12</code></td><td>784</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/"><img src="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/sett.png" alt="Robertson Curtain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/">Robertson Curtain</a></td><td></td><td><code>R/12 G8 R76 DB8 R12 DB80 R12 G80 R12 DB8 R76 G8 R/12</code></td><td>784</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/"><img src="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/sett.png" alt="Robertson Curtain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

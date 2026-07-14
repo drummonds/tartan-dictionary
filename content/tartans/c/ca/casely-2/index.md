@@ -18,10 +18,10 @@ Its design is pattern [GRGKGBYBGK](/stripes/grgkgbybgk/) — the page of every t
 The **Casely** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/">Casely</a></td><td><code>K/38 G6 DB38 LO10 DB38 G6 K38 G38 R14 G/38</code></td><td>452</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/"><img src="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/sett.png" alt="Casely sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/">Casely</a></td><td></td><td><code>K/38 G6 DB38 LO10 DB38 G6 K38 G38 R14 G/38</code></td><td>452</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/"><img src="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/sett.png" alt="Casely sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

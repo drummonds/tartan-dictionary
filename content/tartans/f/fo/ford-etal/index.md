@@ -13,10 +13,10 @@ Its design is pattern [KWRKGBKW](/stripes/kwrkgbkw/) — the page of every tarta
 The **Ford & Etal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/">Ford &amp; Etal</a></td><td><code>K/12 W4 R64 K4 G84 T36 K24 W/4</code></td><td>448</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><img src="/variants/s8/k3w1r16k1g21t9k6w1~x4/sett.png" alt="Ford &amp; Etal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/">Ford &amp; Etal</a></td><td></td><td><code>K/12 W4 R64 K4 G84 T36 K24 W/4</code></td><td>448</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><img src="/variants/s8/k3w1r16k1g21t9k6w1~x4/sett.png" alt="Ford &amp; Etal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [KRKRGWGWGRKRWR](/stripes/krkrgwgwgrkrwr/) — the page of
 The **Drummond** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/">Drummond</a></td><td><code>K/40 R12 K8 R12 DG30 W4 G10 W4 DG30 R60 K8 R10 LB4 R/12</code></td><td>436</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/"><img src="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/">Drummond</a></td><td></td><td><code>K/40 R12 K8 R12 DG30 W4 G10 W4 DG30 R60 K8 R10 LB4 R/12</code></td><td>436</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/"><img src="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

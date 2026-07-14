@@ -18,11 +18,11 @@ Its design is pattern [GRRGRRK](/stripes/grrgrrk/) — the page of every tartan 
 The **MacNab 5** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/">MacNab 5</a></td><td><code>G/12 Ri4 R4 G8 R4 Ri24 K/2</code></td><td>102</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/"><img src="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/sett.png" alt="MacNab 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/">MacNab 5</a> · <a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2209032-r1707016/">MacNab #3</a></td></tr>
+<tr><td><a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/">MacNab 5</a></td><td></td><td><code>G/12 Ri4 R4 G8 R4 Ri24 K/2</code></td><td>102</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/"><img src="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/sett.png" alt="MacNab 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/">MacNab 5</a> · <a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2209032-r1707016/">MacNab #3</a></td></tr>
 </tbody>
 </table>
 

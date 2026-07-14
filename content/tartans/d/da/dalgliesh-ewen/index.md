@@ -13,10 +13,10 @@ Its design is pattern [BBBBGBGKRK](/stripes/bbbbgbgkrk/) — the page of every t
 The **Dalgliesh, Ewen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/">Dalgliesh, Ewen</a></td><td><code>DB/45 DP6 N6 DP30 DG6 DP6 DG30 K4 R4 K/3</code></td><td>232</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/"><img src="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/sett.png" alt="Dalgliesh, Ewen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/">Dalgliesh, Ewen</a></td><td></td><td><code>DB/45 DP6 N6 DP30 DG6 DP6 DG30 K4 R4 K/3</code></td><td>232</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/"><img src="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/sett.png" alt="Dalgliesh, Ewen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

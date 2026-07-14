@@ -13,10 +13,10 @@ Its design is pattern [GRKRGGGR](/stripes/grkrgggr/) — the page of every tarta
 The **Beard** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/y4r4k2r10g30y2g3r2~x2/">Beard</a></td><td><code>Y/8 R8 K4 R20 G60 Y4 G6 R/4</code></td><td>216</td><td>~1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y4r4k2r10g30y2g3r2~x2/"><img src="/variants/s8/y4r4k2r10g30y2g3r2~x2/sett.png" alt="Beard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/y4r4k2r10g30y2g3r2~x2/">Beard</a></td><td></td><td><code>Y/8 R8 K4 R20 G60 Y4 G6 R/4</code></td><td>216</td><td>~1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/y4r4k2r10g30y2g3r2~x2/"><img src="/variants/s8/y4r4k2r10g30y2g3r2~x2/sett.png" alt="Beard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

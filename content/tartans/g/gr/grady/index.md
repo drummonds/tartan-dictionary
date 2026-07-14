@@ -13,11 +13,11 @@ Its design is pattern [KRBRKBRGR](/stripes/krbrkbrgr/) — the page of every tar
 The **Grady** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2/">Grady</a></td><td><code>K/72 R6 DB6 R6 K16 DB48 R36 G6 R/6</code></td><td>326</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2/"><img src="/variants/s9/k36r3db3r3k8db24r18g3r3~x2/sett.png" alt="Grady sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2/">(Personal)</a> · <a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2~db1406275/">(Personal)</a></td></tr>
+<tr><td><a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2/">Grady</a></td><td></td><td><code>K/72 R6 DB6 R6 K16 DB48 R36 G6 R/6</code></td><td>326</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2/"><img src="/variants/s9/k36r3db3r3k8db24r18g3r3~x2/sett.png" alt="Grady sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2/">(Personal)</a> · <a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2~db1406275/">(Personal)</a></td></tr>
 </tbody>
 </table>
 

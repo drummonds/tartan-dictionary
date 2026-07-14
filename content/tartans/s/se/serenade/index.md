@@ -18,10 +18,10 @@ Its design is pattern [BBYBBBBBWBWBBBBBYB](/stripes/bbybbbbbwbwbbbbbyb/) — the
 The **Serenade** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/">Serenade</a></td><td><code>DP/24 LG6 DP24 T12 DB4 T52 DP32 LB4 DP12 LB4 DP32 T52 DB4 T12 DP24 LG6 DP24 DB/12</code></td><td>644</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/"><img src="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/sett.png" alt="Serenade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/">Serenade</a></td><td></td><td><code>DP/24 LG6 DP24 T12 DB4 T52 DP32 LB4 DP12 LB4 DP32 T52 DB4 T12 DP24 LG6 DP24 DB/12</code></td><td>644</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/"><img src="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/sett.png" alt="Serenade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

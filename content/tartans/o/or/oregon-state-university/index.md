@@ -15,10 +15,10 @@ Winner of a 2004–2005 student design competition; uses Oregon State University
 The **Oregon State University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/">Oregon State University</a></td><td><code>K/12 LO16 K26 W2 LO22 K2 LO22 W8 K4 LO2 K/4</code></td><td>224</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><img src="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/sett.png" alt="Oregon State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/">Oregon State University</a></td><td></td><td><code>K/12 LO16 K26 W2 LO22 K2 LO22 W8 K4 LO2 K/4</code></td><td>224</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><img src="/variants/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/sett.png" alt="Oregon State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

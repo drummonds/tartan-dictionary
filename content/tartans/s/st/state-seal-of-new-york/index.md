@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBGGBBY](/stripes/bbbbbbggbby/) — the page of every
 The **State Seal of New York** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db60t5db4dr6db4t5dy22g5t23db1ly4~x2/">State Seal of New York</a></td><td><code>DB/120 T10 DB8 DR12 DB8 T10 DY44 G10 T46 DB2 LY/8</code></td><td>428</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db60t5db4dr6db4t5dy22g5t23db1ly4~x2/"><img src="/variants/s11/db60t5db4dr6db4t5dy22g5t23db1ly4~x2/sett.png" alt="State Seal of New York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db60t5db4dr6db4t5dy22g5t23db1ly4~x2/">State Seal of New York</a></td><td></td><td><code>DB/120 T10 DB8 DR12 DB8 T10 DY44 G10 T46 DB2 LY/8</code></td><td>428</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db60t5db4dr6db4t5dy22g5t23db1ly4~x2/"><img src="/variants/s11/db60t5db4dr6db4t5dy22g5t23db1ly4~x2/sett.png" alt="State Seal of New York sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

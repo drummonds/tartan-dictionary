@@ -13,10 +13,10 @@ Its design is pattern [YBBWBRYRY](/stripes/ybbwbryry/) — the page of every tar
 The **Arbroath Smokie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/">Arbroath Smokie</a></td><td><code>LY/2 DR90 DT46 W2 DT12 R4 LY2 R4 LY/2</code></td><td>324</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/"><img src="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/sett.png" alt="Arbroath Smokie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/">Arbroath Smokie</a></td><td></td><td><code>LY/2 DR90 DT46 W2 DT12 R4 LY2 R4 LY/2</code></td><td>324</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/"><img src="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/sett.png" alt="Arbroath Smokie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

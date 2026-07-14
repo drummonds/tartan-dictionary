@@ -13,10 +13,10 @@ Its design is pattern [BGBGGBGBRGRGKW](/stripes/bgbggbgbrgrgkw/) — the page of
 The **Jones-MacGregor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/">Jones-MacGregor</a></td><td><code>DB/4 Y4 DB6 Y16 G8 DB8 G6 DB16 R24 G14 R6 G4 K2 W/2</code></td><td>234</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/"><img src="/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/sett.png" alt="Jones-MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/">Jones-MacGregor</a></td><td></td><td><code>DB/4 Y4 DB6 Y16 G8 DB8 G6 DB16 R24 G14 R6 G4 K2 W/2</code></td><td>234</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/"><img src="/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/sett.png" alt="Jones-MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RBBBRBBRBW](/stripes/rbbbrbbrbw/) — the page of every t
 The **Scottish N. A. Business Council (Co** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/">Scottish N. A. Business Council (Co</a></td><td><code>R/8 DB24 DBi24 DB8 R8 DB16 DBi24 R8 DB8 W/4</code></td><td>252</td><td>~2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/"><img src="/variants/s10/r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/sett.png" alt="Scottish N. A. Business Council (Co sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/">Scottish N. A. Business Council (Co</a></td><td></td><td><code>R/8 DB24 DBi24 DB8 R8 DB16 DBi24 R8 DB8 W/4</code></td><td>252</td><td>~2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/"><img src="/variants/s10/r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/sett.png" alt="Scottish N. A. Business Council (Co sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

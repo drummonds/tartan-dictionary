@@ -13,10 +13,10 @@ Its design is pattern [BRKBWBKGKBW](/stripes/brkbwbkgkbw/) — the page of every
 The **Kirk in the Hills** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb32db12k2y2k2db2lb8dr63k2r2dr9~x2/">Kirk in the Hills</a></td><td><code>LB/64 DB24 K4 Y4 K4 DB4 LB16 DR126 K4 R4 DR/18</code></td><td>462</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb32db12k2y2k2db2lb8dr63k2r2dr9~x2/"><img src="/variants/s11/lb32db12k2y2k2db2lb8dr63k2r2dr9~x2/sett.png" alt="Kirk in the Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb32db12k2y2k2db2lb8dr63k2r2dr9~x2/">Kirk in the Hills</a></td><td></td><td><code>LB/64 DB24 K4 Y4 K4 DB4 LB16 DR126 K4 R4 DR/18</code></td><td>462</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb32db12k2y2k2db2lb8dr63k2r2dr9~x2/"><img src="/variants/s11/lb32db12k2y2k2db2lb8dr63k2r2dr9~x2/sett.png" alt="Kirk in the Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

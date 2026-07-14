@@ -18,10 +18,10 @@ Its design is pattern [GGRBKBWBKBRKBK](/stripes/ggrbkbwbkbrkbk/) — the page of
 The **MacLellan Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7y2~x4/">MacLellan Hunting</a></td><td><code>K/8 DB28 K20 R8 DB20 K8 DB20 W4 DB20 K4 DB20 R8 DG28 Y/8</code></td><td>392</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7y2~x4/"><img src="/variants/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7y2~x4/sett.png" alt="MacLellan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7y2~x4/">MacLellan Hunting</a></td><td></td><td><code>K/8 DB28 K20 R8 DB20 K8 DB20 W4 DB20 K4 DB20 R8 DG28 Y/8</code></td><td>392</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7y2~x4/"><img src="/variants/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7y2~x4/sett.png" alt="MacLellan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

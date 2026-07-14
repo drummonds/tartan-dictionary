@@ -13,10 +13,10 @@ Its design is pattern [WRWBBBBBBYBY](/stripes/wrwbbbbbbyby/) — the page of eve
 The **Payeur, Francois** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/">Payeur, Francois</a></td><td><code>W/12 R4 W48 DB24 DBi6 DB4 DBi4 DB4 DBi24 LY2 DBi2 LY/6</code></td><td>262</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/"><img src="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/sett.png" alt="Payeur, Francois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/">Payeur, Francois</a></td><td></td><td><code>W/12 R4 W48 DB24 DBi6 DB4 DBi4 DB4 DBi24 LY2 DBi2 LY/6</code></td><td>262</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/"><img src="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/sett.png" alt="Payeur, Francois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GWGBGBGBGWGWGRGBGWRRRGRRRGWGWGBGBGBGWG](/stripes/gwgbgbgb
 The **New Brunswick, variation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s38/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/">New Brunswick, variation</a></td><td><code>Y/2 LB2 G1 B2 G2 B2 G2 B2 G2 LB2 Y2 LB2 G28 R24 Y1 N2 Y3 LB4 R10 O16 R4 Y2 R14 O5 R10 G28 LB2 Y2 LB2 G1 B2 G2 B2 G2 B2 G1 LB2 Y/2</code></td><td>388</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s38/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/"><img src="/variants/s38/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/sett.png" alt="New Brunswick, variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s38/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/">New Brunswick, variation</a></td><td></td><td><code>Y/2 LB2 G1 B2 G2 B2 G2 B2 G2 LB2 Y2 LB2 G28 R24 Y1 N2 Y3 LB4 R10 O16 R4 Y2 R14 O5 R10 G28 LB2 Y2 LB2 G1 B2 G2 B2 G2 B2 G1 LB2 Y/2</code></td><td>388</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s38/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/"><img src="/variants/s38/y2lb2g1b2g2b2g2b2g2lb2y2lb2g28r24y1n2y3lb4r10o16r4y2r14o5r10g28lb2y2lb2g1b2g2b2g2b2g1lb2y2/sett.png" alt="New Brunswick, variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

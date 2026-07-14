@@ -13,10 +13,10 @@ Its design is pattern [GKWBWKWK](/stripes/gkwbwkwk/) — the page of every tarta
 The **Anzac** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/">Anzac</a></td><td><code>K/84 LB8 K16 LB16 DO8 LB16 K52 G/8</code></td><td>324</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/"><img src="/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/sett.png" alt="Anzac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/">Anzac</a></td><td></td><td><code>K/84 LB8 K16 LB16 DO8 LB16 K52 G/8</code></td><td>324</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/"><img src="/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/sett.png" alt="Anzac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

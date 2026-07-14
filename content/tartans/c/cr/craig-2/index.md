@@ -18,10 +18,10 @@ Its design is pattern [BKBYBKGKBBKBKBKGKB](/stripes/bkbybkgkbbkbkbkgkb/) — the
 The **Craig** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dr2k2db3lo1db20k1g18k1dr2db2k1db2k1db2k2g2k2dr2~x2/">Craig</a></td><td><code>DR/4 K4 DB6 LO2 DB40 K2 G36 K2 DR4 DB4 K2 DB4 K2 DB4 K4 G4 K4 DR/4</code></td><td>256</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dr2k2db3lo1db20k1g18k1dr2db2k1db2k1db2k2g2k2dr2~x2/"><img src="/variants/s18/dr2k2db3lo1db20k1g18k1dr2db2k1db2k1db2k2g2k2dr2~x2/sett.png" alt="Craig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dr2k2db3lo1db20k1g18k1dr2db2k1db2k1db2k2g2k2dr2~x2/">Craig</a></td><td></td><td><code>DR/4 K4 DB6 LO2 DB40 K2 G36 K2 DR4 DB4 K2 DB4 K2 DB4 K4 G4 K4 DR/4</code></td><td>256</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dr2k2db3lo1db20k1g18k1dr2db2k1db2k1db2k2g2k2dr2~x2/"><img src="/variants/s18/dr2k2db3lo1db20k1g18k1dr2db2k1db2k1db2k2g2k2dr2~x2/sett.png" alt="Craig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

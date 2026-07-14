@@ -13,10 +13,10 @@ Its design is pattern [GWKRWR](/stripes/gwkrwr/) — the page of every tartan sh
 The **Nisbet Dress Rose** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r3w1r20k8w8g2~x4/">Nisbet Dress Rose</a></td><td><code>R/12 W4 R80 K32 W32 G/8</code></td><td>316</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r3w1r20k8w8g2~x4/"><img src="/variants/s6/r3w1r20k8w8g2~x4/sett.png" alt="Nisbet Dress Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r3w1r20k8w8g2~x4/">Nisbet Dress Rose</a></td><td></td><td><code>R/12 W4 R80 K32 W32 G/8</code></td><td>316</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r3w1r20k8w8g2~x4/"><img src="/variants/s6/r3w1r20k8w8g2~x4/sett.png" alt="Nisbet Dress Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

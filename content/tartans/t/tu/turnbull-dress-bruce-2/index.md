@@ -16,10 +16,10 @@ Its design is pattern [RBBBGBKR](/stripes/rbbbgbkr/) — the page of every tarta
 The **Turnbull, Dress Bruce** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/">Turnbull, Dress Bruce</a></td><td><code>O/11 K66 N32 DG11 N10 DB6 N10 R/4</code></td><td>285</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><img src="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/sett.png" alt="Turnbull, Dress Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/">Turnbull, Dress Bruce</a></td><td></td><td><code>O/11 K66 N32 DG11 N10 DB6 N10 R/4</code></td><td>285</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><img src="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/sett.png" alt="Turnbull, Dress Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

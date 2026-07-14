@@ -18,10 +18,10 @@ Its design is pattern [KWKWKWKBKGKW](/stripes/kwkwkwkbkgkw/) — the page of eve
 The **Ellis** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/">Ellis</a></td><td><code>K/4 LB26 K2 LB4 K2 LB26 K3 DB36 K3 DG30 K3 W/2</code></td><td>276</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><img src="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/sett.png" alt="Ellis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/">Ellis</a></td><td></td><td><code>K/4 LB26 K2 LB4 K2 LB26 K3 DB36 K3 DG30 K3 W/2</code></td><td>276</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><img src="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/sett.png" alt="Ellis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

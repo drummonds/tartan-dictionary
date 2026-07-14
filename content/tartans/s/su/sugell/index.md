@@ -13,10 +13,10 @@ Its design is pattern [GRGW](/stripes/grgw/) — the page of every tartan sharin
 The **Sugell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/g72r25y8w5/">Sugell</a></td><td><code>G/72 R25 Y8 W/5</code></td><td>143</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/g72r25y8w5/"><img src="/variants/s4/g72r25y8w5/sett.png" alt="Sugell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/g72r25y8w5/">Sugell</a></td><td></td><td><code>G/72 R25 Y8 W/5</code></td><td>143</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/g72r25y8w5/"><img src="/variants/s4/g72r25y8w5/sett.png" alt="Sugell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

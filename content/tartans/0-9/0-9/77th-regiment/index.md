@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKGKRKGKBKR](/stripes/bkbkbkgkrkgkbkr/) — the page 
 The **77th Regiment** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/">77th Regiment</a></td><td><code>DB/32 K6 DB6 K6 DB6 K32 DG28 K4 R6 K4 DG28 K32 DB28 K4 R/6</code></td><td>418</td><td>1770</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/"><img src="/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/sett.png" alt="77th Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/">77th Regiment</a></td><td></td><td><code>DB/32 K6 DB6 K6 DB6 K32 DG28 K4 R6 K4 DG28 K32 DB28 K4 R/6</code></td><td>418</td><td>1770</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/"><img src="/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/sett.png" alt="77th Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

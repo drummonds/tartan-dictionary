@@ -16,10 +16,10 @@ Its design is pattern [BKBYBKGKGRGKGKBKR](/stripes/bkbybkgkgrgkgkbkr/) — the p
 The **Murray, Tony** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/">Murray, Tony</a></td><td><code>B/30 K4 B4 LY4 B4 K20 G20 K2 G4 R4 G4 K2 G20 K20 B20 K2 R/4</code></td><td>302</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/"><img src="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/sett.png" alt="Murray, Tony sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/">Murray, Tony</a></td><td></td><td><code>B/30 K4 B4 LY4 B4 K20 G20 K2 G4 R4 G4 K2 G20 K20 B20 K2 R/4</code></td><td>302</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/"><img src="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/sett.png" alt="Murray, Tony sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

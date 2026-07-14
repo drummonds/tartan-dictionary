@@ -13,10 +13,10 @@ Its design is pattern [RGRBGRGBGRGR](/stripes/rgrbgrgbgrgr/) — the page of eve
 The **Frasers Highlanders** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r28g2r2g2db12g18r2g18db12r15g2r3~x2/">Frasers Highlanders</a></td><td><code>R/56 G4 R4 G4 DB24 G36 R4 G36 DB24 R30 G4 R/6</code></td><td>402</td><td>~2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r28g2r2g2db12g18r2g18db12r15g2r3~x2/"><img src="/variants/s12/r28g2r2g2db12g18r2g18db12r15g2r3~x2/sett.png" alt="Frasers Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r28g2r2g2db12g18r2g18db12r15g2r3~x2/">Frasers Highlanders</a></td><td></td><td><code>R/56 G4 R4 G4 DB24 G36 R4 G36 DB24 R30 G4 R/6</code></td><td>402</td><td>~2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r28g2r2g2db12g18r2g18db12r15g2r3~x2/"><img src="/variants/s12/r28g2r2g2db12g18r2g18db12r15g2r3~x2/sett.png" alt="Frasers Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

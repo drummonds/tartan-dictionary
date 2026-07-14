@@ -13,10 +13,10 @@ Its design is pattern [BGKGKWKRBKBW](/stripes/bgkgkwkrbkbw/) — the page of eve
 The **Broager** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/">Broager</a></td><td><code>DB/53 G10 K20 Y5 K5 W5 K7 R18 DB10 K6 DB6 W/6</code></td><td>243</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/"><img src="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/sett.png" alt="Broager sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/">Broager</a></td><td></td><td><code>DB/53 G10 K20 Y5 K5 W5 K7 R18 DB10 K6 DB6 W/6</code></td><td>243</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/"><img src="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/sett.png" alt="Broager sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

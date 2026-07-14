@@ -13,10 +13,10 @@ Its design is pattern [RWBBRBBW](/stripes/rwbbrbbw/) — the page of every tarta
 The **Fulbright Foundation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/">Fulbright Foundation</a></td><td><code>R/6 LB50 DB12 DBi6 R4 T10 DBi36 W/6</code></td><td>248</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/"><img src="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/sett.png" alt="Fulbright Foundation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/">Fulbright Foundation</a></td><td></td><td><code>R/6 LB50 DB12 DBi6 R4 T10 DBi36 W/6</code></td><td>248</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/"><img src="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/sett.png" alt="Fulbright Foundation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

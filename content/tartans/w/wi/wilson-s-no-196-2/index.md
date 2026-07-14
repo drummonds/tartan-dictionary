@@ -13,10 +13,10 @@ Its design is pattern [BGKW](/stripes/bgkw/) — the page of every tartan sharin
 The **Wilson's, No 196** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/b9g9k10lb2~x2/">Wilson's, No 196</a></td><td><code>B/18 G18 K20 LB/4</code></td><td>98</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/b9g9k10lb2~x2/"><img src="/variants/s4/b9g9k10lb2~x2/sett.png" alt="Wilson's, No 196 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/b9g9k10lb2~x2/">Wilson's, No 196</a></td><td></td><td><code>B/18 G18 K20 LB/4</code></td><td>98</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/b9g9k10lb2~x2/"><img src="/variants/s4/b9g9k10lb2~x2/sett.png" alt="Wilson's, No 196 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GBWBYBGYBYG](/stripes/gbwbybgybyg/) — the page of every
 The **Yarrow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/">Yarrow</a></td><td><code>DY/84 DO20 LB4 DO4 LY4 DO4 DY20 LY12 DO4 LY6 DY/4</code></td><td>244</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/"><img src="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/sett.png" alt="Yarrow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/">Yarrow</a></td><td></td><td><code>DY/84 DO20 LB4 DO4 LY4 DO4 DY20 LY12 DO4 LY6 DY/4</code></td><td>244</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/"><img src="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/sett.png" alt="Yarrow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

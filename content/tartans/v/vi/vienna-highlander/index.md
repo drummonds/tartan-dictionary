@@ -13,10 +13,10 @@ Its design is pattern [WBRBKBKY](/stripes/wbrbkbky/) — the page of every tarta
 The **Vienna Highlander** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/">Vienna Highlander</a></td><td><code>LO/6 K4 N30 K20 DT46 R4 DT2 W/4</code></td><td>222</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><img src="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/sett.png" alt="Vienna Highlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/">Vienna Highlander</a></td><td></td><td><code>LO/6 K4 N30 K20 DT46 R4 DT2 W/4</code></td><td>222</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><img src="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/sett.png" alt="Vienna Highlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

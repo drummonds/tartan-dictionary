@@ -18,10 +18,10 @@ Its design is pattern [GWGBRBRBGW](/stripes/gwgbrbrbgw/) — the page of every t
 The **Hamilton of Clayton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/">Hamilton of Clayton</a></td><td><code>G/6 W6 G36 DB28 R10 DB28 R10 DB28 G42 W/6</code></td><td>388</td><td>1959</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/"><img src="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/sett.png" alt="Hamilton of Clayton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/">Hamilton of Clayton</a></td><td></td><td><code>G/6 W6 G36 DB28 R10 DB28 R10 DB28 G42 W/6</code></td><td>388</td><td>1959</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/"><img src="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/sett.png" alt="Hamilton of Clayton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BWWGWGWGRGRGRGRGRGWRWR](/stripes/bwwgwgwgrgrgrgrgrgwrwr/)
 The **Wilson, Janet** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/">Wilson, Janet</a></td><td><code>DP/60 W4 LB6 DG6 LB6 DG6 LB6 DG32 R6 DG6 R6 DG6 R6 DG6 R6 DG50 R30 DG8 LB8 R16 W4 R/30</code></td><td>538</td><td>1780</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/"><img src="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/sett.png" alt="Wilson, Janet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/">Wilson, Janet</a></td><td></td><td><code>DP/60 W4 LB6 DG6 LB6 DG6 LB6 DG32 R6 DG6 R6 DG6 R6 DG6 R6 DG50 R30 DG8 LB8 R16 W4 R/30</code></td><td>538</td><td>1780</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/"><img src="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/sett.png" alt="Wilson, Janet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

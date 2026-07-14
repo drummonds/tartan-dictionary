@@ -13,10 +13,10 @@ Its design is pattern [BKGGKGGKBG](/stripes/bkggkggkbg/) — the page of every t
 The **Wilson's No.231** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/">Wilson's No.231</a></td><td><code>DP/16 K18 Y4 DG20 K4 DG20 Y4 K18 DP16 DG/4</code></td><td>228</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/"><img src="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/sett.png" alt="Wilson's No.231 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/">Wilson's No.231</a></td><td></td><td><code>DP/16 K18 Y4 DG20 K4 DG20 Y4 K18 DP16 DG/4</code></td><td>228</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/"><img src="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/sett.png" alt="Wilson's No.231 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

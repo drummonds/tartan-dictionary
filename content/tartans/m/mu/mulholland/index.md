@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKYGKGYKBKY](/stripes/bkbkbkygkgykbky/) — the page 
 The **Mulholland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/">Mulholland</a></td><td><code>DB/26 K4 DB6 K4 DB12 K24 LO4 G24 K4 G24 LO4 K24 DB32 K4 LO/8</code></td><td>374</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><img src="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/sett.png" alt="Mulholland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/">Mulholland</a></td><td></td><td><code>DB/26 K4 DB6 K4 DB12 K24 LO4 G24 K4 G24 LO4 K24 DB32 K4 LO/8</code></td><td>374</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><img src="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/sett.png" alt="Mulholland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

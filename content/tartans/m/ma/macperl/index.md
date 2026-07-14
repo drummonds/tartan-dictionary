@@ -18,10 +18,10 @@ Its design is pattern [KBYKWKYBGWKBKWKBWYWBKWKBKGW](/stripes/kbykwkybgwkbkwkbwyw
 The **MacPerl** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/">MacPerl</a></td><td><code>K/36 DB10 LY6 K2 W6 K2 LY6 DB10 DG16 W2 K72 DB10 K2 W2 K2 DB6 W2 LY6 W2 DB6 K2 W2 K2 DB10 K36 DG16 W/2</code></td><td>514</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/"><img src="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/sett.png" alt="MacPerl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/">MacPerl</a></td><td></td><td><code>K/36 DB10 LY6 K2 W6 K2 LY6 DB10 DG16 W2 K72 DB10 K2 W2 K2 DB6 W2 LY6 W2 DB6 K2 W2 K2 DB10 K36 DG16 W/2</code></td><td>514</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/"><img src="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/sett.png" alt="MacPerl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

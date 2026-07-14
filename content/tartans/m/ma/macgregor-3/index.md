@@ -20,10 +20,10 @@ The bold red-and-black check recorded as "Rob Roy" is a MacGregor tartan — nam
 The **MacGregor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db1r1db7r7db1r1~x4/">MacGregor</a></td><td><code>DB/4 R4 DB28 R28 DB4 R/4</code></td><td>136</td><td>1750</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db1r1db7r7db1r1~x4/"><img src="/variants/s6/db1r1db7r7db1r1~x4/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db1r1db7r7db1r1~x4/">MacGregor</a></td><td></td><td><code>DB/4 R4 DB28 R28 DB4 R/4</code></td><td>136</td><td>1750</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db1r1db7r7db1r1~x4/"><img src="/variants/s6/db1r1db7r7db1r1~x4/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

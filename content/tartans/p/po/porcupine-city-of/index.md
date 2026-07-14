@@ -16,10 +16,10 @@ Its design is pattern [GYBWBBR](/stripes/gybwbbr/) — the page of every tartan 
 The **Porcupine City of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/">Porcupine City of</a></td><td><code>O/40 N12 DB4 LB32 DB4 LO8 G/20</code></td><td>180</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><img src="/variants/s7/o10n3db1lb8db1lo2g5~x4/sett.png" alt="Porcupine City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/">Porcupine City of</a></td><td></td><td><code>O/40 N12 DB4 LB32 DB4 LO8 G/20</code></td><td>180</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><img src="/variants/s7/o10n3db1lb8db1lo2g5~x4/sett.png" alt="Porcupine City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GGGBGWGRGRW](/stripes/gggbgwgrgrw/) — the page of every
 The **Muirhead** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/">Muirhead</a></td><td><code>Y/6 DG28 G18 DB8 G16 W4 G24 R24 G4 R10 W/4</code></td><td>282</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/"><img src="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/sett.png" alt="Muirhead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/">Muirhead</a></td><td></td><td><code>Y/6 DG28 G18 DB8 G16 W4 G24 R24 G4 R10 W/4</code></td><td>282</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/"><img src="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/sett.png" alt="Muirhead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

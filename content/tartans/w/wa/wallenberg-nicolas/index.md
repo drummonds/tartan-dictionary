@@ -13,10 +13,10 @@ Its design is pattern [BGBGRGBWRGRGBGBG](/stripes/bgbgrgbwrgrgbgbg/) — the pag
 The **Wallenberg, Nicolas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/">Wallenberg, Nicolas</a></td><td><code>DB/8 G4 DP24 G8 R2 G56 DB6 W6 R6 G96 R2 G8 DP24 G4 DB8 Y/4</code></td><td>520</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/"><img src="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/sett.png" alt="Wallenberg, Nicolas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/">Wallenberg, Nicolas</a></td><td></td><td><code>DB/8 G4 DP24 G8 R2 G56 DB6 W6 R6 G96 R2 G8 DP24 G4 DB8 Y/4</code></td><td>520</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/"><img src="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/sett.png" alt="Wallenberg, Nicolas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

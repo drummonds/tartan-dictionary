@@ -21,14 +21,14 @@ The **Outlander** tartan groups 3 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/dy27n3dy17~x4/">Outlander</a> ★</td><td><code>DY/108 N12 DY/68</code></td><td>200</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/dy27n3dy17~x4/"><img src="/variants/s3/dy27n3dy17~x4/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s2/dy9n1~x12/">#4</a></td><td><code>DY/108 N/12</code></td><td>120</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s2/dy9n1~x12/"><img src="/variants/s2/dy9n1~x12/sett.png" alt="#4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/n13dy15n2~x4/">#5</a></td><td><code>N/52 DY60 N/8</code></td><td>180</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/n13dy15n2~x4/"><img src="/variants/s3/n13dy15n2~x4/sett.png" alt="#5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/dy27n3dy17~x4/">Outlander</a> ★</td><td></td><td><code>DY/108 N12 DY/68</code></td><td>200</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/dy27n3dy17~x4/"><img src="/variants/s3/dy27n3dy17~x4/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s2/dy9n1~x12/">#4</a></td><td>1.00</td><td><code>DY/108 N/12</code></td><td>120</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s2/dy9n1~x12/"><img src="/variants/s2/dy9n1~x12/sett.png" alt="#4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/n13dy15n2~x4/">#5</a></td><td>1.58</td><td><code>N/52 DY60 N/8</code></td><td>180</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/n13dy15n2~x4/"><img src="/variants/s3/n13dy15n2~x4/sett.png" alt="#5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBBBRWKWRKW](/stripes/bgbbbrwkwrkw/) — the page of eve
 The **Queen Mary RMS** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/">Queen Mary RMS</a></td><td><code>DB/48 Y8 N8 DP8 DB48 R8 W6 K36 W18 R8 K6 W/4</code></td><td>360</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><img src="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/sett.png" alt="Queen Mary RMS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/">Queen Mary RMS</a></td><td></td><td><code>DB/48 Y8 N8 DP8 DB48 R8 W6 K36 W18 R8 K6 W/4</code></td><td>360</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><img src="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/sett.png" alt="Queen Mary RMS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

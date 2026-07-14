@@ -13,10 +13,10 @@ Its design is pattern [BKBWBKBKBYB](/stripes/bkbwbkbkbyb/) — the page of every
 The **Apollo 12** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/">Apollo 12</a></td><td><code>DB/10 LY2 N38 K12 N8 K8 N24 W2 N24 K4 DB/4</code></td><td>258</td><td>~2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/"><img src="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/sett.png" alt="Apollo 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/">Apollo 12</a></td><td></td><td><code>DB/10 LY2 N38 K12 N8 K8 N24 W2 N24 K4 DB/4</code></td><td>258</td><td>~2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/"><img src="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/sett.png" alt="Apollo 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

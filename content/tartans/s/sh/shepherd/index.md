@@ -18,10 +18,10 @@ Its design is pattern [GGKWGWGGGGGWGWGKWGW](/stripes/ggkwgwgggggwgwgkwgw/) — t
 The **Shepherd** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10~x2/">Shepherd</a></td><td><code>G/80 DY10 K80 LB16 G2 LB2 G2 DY4 G2 DY4 G2 LB2 G2 LB14 G2 K30 LB10 G2 LB/20</code></td><td>472</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10~x2/"><img src="/variants/s19/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10~x2/sett.png" alt="Shepherd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10~x2/">Shepherd</a></td><td></td><td><code>G/80 DY10 K80 LB16 G2 LB2 G2 DY4 G2 DY4 G2 LB2 G2 LB14 G2 K30 LB10 G2 LB/20</code></td><td>472</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10~x2/"><img src="/variants/s19/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10~x2/sett.png" alt="Shepherd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

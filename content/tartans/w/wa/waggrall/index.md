@@ -18,10 +18,10 @@ Its design is pattern [RWRRWBWWWBWGGWBWGGWGGWGGWWBWBWWRRWRW](/stripes/rwrrwbwwwb
 The **Waggrall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1~x2~ri2406019-r2109032-g2408144-dg1806142/">Waggrall</a></td><td><code>Ri/8 W2 R22 Ri4 W4 DP22 LB8 W4 LB8 DP22 W4 G8 Y8 W2 DP10 W2 Y8 G8 W4 DG20 G8 W4 G8 DG20 W4 LB4 DP12 W2 DP12 LB4 W4 Ri4 R22 W2 Ri8 W/2</code></td><td>586</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1~x2~ri2406019-r2109032-g2408144-dg1806142/"><img src="/variants/s36/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1~x2~ri2406019-r2109032-g2408144-dg1806142/sett.png" alt="Waggrall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1~x2~ri2406019-r2109032-g2408144-dg1806142/">Waggrall</a></td><td></td><td><code>Ri/8 W2 R22 Ri4 W4 DP22 LB8 W4 LB8 DP22 W4 G8 Y8 W2 DP10 W2 Y8 G8 W4 DG20 G8 W4 G8 DG20 W4 LB4 DP12 W2 DP12 LB4 W4 Ri4 R22 W2 Ri8 W/2</code></td><td>586</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1~x2~ri2406019-r2109032-g2408144-dg1806142/"><img src="/variants/s36/ri4w1r11ri2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ri2r11w1ri4w1~x2~ri2406019-r2109032-g2408144-dg1806142/sett.png" alt="Waggrall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

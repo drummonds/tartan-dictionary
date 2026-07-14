@@ -13,10 +13,10 @@ Its design is pattern [BGGBGBGBGBGGBGBGBBG](/stripes/bggbgbgbgbggbgbgbbg/) — t
 The **Wiregrass** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/">Wiregrass</a></td><td><code>DG/4 T2 B4 G8 B6 G16 B44 DG2 G8 B4 DG14 B4 G4 B4 DG4 B8 DG2 G6 T/4</code></td><td>288</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/"><img src="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/sett.png" alt="Wiregrass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/">Wiregrass</a></td><td></td><td><code>DG/4 T2 B4 G8 B6 G16 B44 DG2 G8 B4 DG14 B4 G4 B4 DG4 B8 DG2 G6 T/4</code></td><td>288</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/"><img src="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/sett.png" alt="Wiregrass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [RKRKWBWKWR](/stripes/rkrkwbwkwr/) — the page of every t
 The **Stewart, Fawn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/o24k5r2k2w2b8w3k2w2o2~x2/">Stewart, Fawn</a></td><td><code>O/48 K10 R4 K4 W4 B16 W6 K4 W4 O/4</code></td><td>156</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o24k5r2k2w2b8w3k2w2o2~x2/"><img src="/variants/s10/o24k5r2k2w2b8w3k2w2o2~x2/sett.png" alt="Stewart, Fawn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o24k5r2k2w2b8w3k2w2o2~x2/">Stewart, Fawn</a></td><td></td><td><code>O/48 K10 R4 K4 W4 B16 W6 K4 W4 O/4</code></td><td>156</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/o24k5r2k2w2b8w3k2w2o2~x2/"><img src="/variants/s10/o24k5r2k2w2b8w3k2w2o2~x2/sett.png" alt="Stewart, Fawn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

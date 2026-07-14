@@ -18,10 +18,10 @@ Its design is pattern [BKBKGGGKBKBKBKBKBKGWGKBK](/stripes/bkbkgggkbkbkbkbkbkgwgk
 The **Campbell of Argyll** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/">Campbell of Argyll</a></td><td><code>K/2 T16 K16 G16 W4 G16 K16 T2 K2 T2 K2 T16 K2 T2 K2 T2 K16 G16 Y4 G16 K16 T16 K2 T/2</code></td><td>408</td><td>1822</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/"><img src="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/sett.png" alt="Campbell of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/">Campbell of Argyll</a></td><td></td><td><code>K/2 T16 K16 G16 W4 G16 K16 T2 K2 T2 K2 T16 K2 T2 K2 T2 K16 G16 Y4 G16 K16 T16 K2 T/2</code></td><td>408</td><td>1822</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/"><img src="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/sett.png" alt="Campbell of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

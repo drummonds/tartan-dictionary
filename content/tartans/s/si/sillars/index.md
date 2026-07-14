@@ -13,11 +13,11 @@ Its design is pattern [GKBGBGBGRBRW](/stripes/gkbgbgbgrbrw/) — the page of eve
 The **Sillars** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/">Sillars</a></td><td><code>G/128 K8 DB18 DY4 DB8 DY4 DB8 G22 R16 DB4 R8 W/6</code></td><td>334</td><td>~1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/"><img src="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/sett.png" alt="Sillars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/">(Name)</a> · <a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2~w4000000/">Sillars</a></td></tr>
+<tr><td><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/">Sillars</a></td><td></td><td><code>G/128 K8 DB18 DY4 DB8 DY4 DB8 G22 R16 DB4 R8 W/6</code></td><td>334</td><td>~1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/"><img src="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/sett.png" alt="Sillars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/">(Name)</a> · <a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2~w4000000/">Sillars</a></td></tr>
 </tbody>
 </table>
 

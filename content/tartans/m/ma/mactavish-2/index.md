@@ -23,18 +23,18 @@ The **MacTavish** tartan groups 3 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb2r12db2lb6k6lb1~x2/">MacTavish</a> ★</td><td><code>LB/2 R12 DB2 LB6 K6 LB/1</code></td><td>55</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb2r12db2lb6k6lb1~x2/"><img src="/variants/s6/lb2r12db2lb6k6lb1~x2/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/lb2r12db2lb6k6lb1/">MacTavish</a></td><td><code>LB/2 R12 DB2 LB6 K6 LB/1</code></td><td>55</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/lb2r12db2lb6k6lb1~x2/">MacTavish</a></td><td><code>LB/4 R24 DB4 LB12 K12 LB/2</code></td><td>110</td><td>1906</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/lb2r12db2lb6k6lb1~x4/">Thompson/Thomson/MacTavish</a></td><td><code>LB/8 R48 DB8 LB24 K24 LB/4</code></td><td>220</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s6/lb2r12db2lb6k6lb1/">MacTavish</a> · <a href="/variants/s6/lb2r12db2lb6k6lb1~x2/">MacTavish</a> · <a href="/variants/s6/lb2r12db2lb6k6lb1~x4/">Thompson/Thomson/MacTavish</a></td></tr>
-<tr><td><a href="/variants/s6/lb1dr6db1lb3k3lb1~x8/">#2</a></td><td><code>LB/8 DR48 DB8 LB24 K24 LB/8</code></td><td>224</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb1dr6db1lb3k3lb1~x8/"><img src="/variants/s6/lb1dr6db1lb3k3lb1~x8/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w2r12db2w6k6w1/">MacTavish</a></td><td><code>W/2 R12 DB2 W6 K6 W/1</code></td><td>55</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w2r12db2w6k6w1/"><img src="/variants/s6/w2r12db2w6k6w1/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb2r12db2lb6k6lb1~x2/">MacTavish</a> ★</td><td></td><td><code>LB/2 R12 DB2 LB6 K6 LB/1</code></td><td>55</td><td>1906</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb2r12db2lb6k6lb1~x2/"><img src="/variants/s6/lb2r12db2lb6k6lb1~x2/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/lb2r12db2lb6k6lb1/">MacTavish</a></td><td>0.00</td><td><code>LB/2 R12 DB2 LB6 K6 LB/1</code></td><td>55</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/lb2r12db2lb6k6lb1~x2/">MacTavish</a></td><td>0.00</td><td><code>LB/4 R24 DB4 LB12 K12 LB/2</code></td><td>110</td><td>1906</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/lb2r12db2lb6k6lb1~x4/">Thompson/Thomson/MacTavish</a></td><td>0.00</td><td><code>LB/8 R48 DB8 LB24 K24 LB/4</code></td><td>220</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s6/lb2r12db2lb6k6lb1/">MacTavish</a> · <a href="/variants/s6/lb2r12db2lb6k6lb1~x2/">MacTavish</a> · <a href="/variants/s6/lb2r12db2lb6k6lb1~x4/">Thompson/Thomson/MacTavish</a></td></tr>
+<tr><td><a href="/variants/s6/lb1dr6db1lb3k3lb1~x8/">#2</a></td><td>0.62</td><td><code>LB/8 DR48 DB8 LB24 K24 LB/8</code></td><td>224</td><td>1906</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb1dr6db1lb3k3lb1~x8/"><img src="/variants/s6/lb1dr6db1lb3k3lb1~x8/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w2r12db2w6k6w1/">MacTavish</a></td><td>1.70</td><td><code>W/2 R12 DB2 W6 K6 W/1</code></td><td>55</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w2r12db2w6k6w1/"><img src="/variants/s6/w2r12db2w6k6w1/sett.png" alt="MacTavish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

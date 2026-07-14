@@ -23,17 +23,17 @@ The **MacKenzie** tartan groups 3 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/">MacKenzie</a> ★</td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 K1 W2 K1 G12 K12 DB12 K1 R/2</code></td><td>160</td><td>1778</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/"><img src="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/sett.png" alt="MacKenzie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2/">MacKenzie</a></td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 K1 W2 K1 G12 K12 DB12 K1 R/2</code></td><td>160</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/">Mackenzie</a></td><td><code>DB/24 K4 DB4 K4 DB4 K24 G24 K2 W4 K2 G24 K24 DB24 K2 R/4</code></td><td>320</td><td>1778</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2/">MacKenzie</a> · <a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/">Mackenzie</a></td></tr>
-<tr><td><a href="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/">1780 (Clan) as 78th</a></td><td><code>DB/24 K4 DB4 K4 DB4 K24 DG24 K2 W4 K2 DG24 K24 DB24 K2 R/4</code></td><td>320</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/"><img src="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/sett.png" alt="1780 (Clan) as 78th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/">Clan Tartan</a></td><td><code>DB/24 K4 DB4 K4 DB4 K24 G24 K2 W6 K2 G24 K24 DB24 K2 R/6</code></td><td>326</td><td>1778</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/"><img src="/variants/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/">MacKenzie</a> ★</td><td></td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 K1 W2 K1 G12 K12 DB12 K1 R/2</code></td><td>160</td><td>1778</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/"><img src="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/sett.png" alt="MacKenzie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2/">MacKenzie</a></td><td>0.00</td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 K1 W2 K1 G12 K12 DB12 K1 R/2</code></td><td>160</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/">Mackenzie</a></td><td>0.00</td><td><code>DB/24 K4 DB4 K4 DB4 K24 G24 K2 W4 K2 G24 K24 DB24 K2 R/4</code></td><td>320</td><td>1778</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2/">MacKenzie</a> · <a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/">Mackenzie</a></td></tr>
+<tr><td><a href="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/">1780 (Clan) as 78th</a></td><td>0.13</td><td><code>DB/24 K4 DB4 K4 DB4 K24 DG24 K2 W4 K2 DG24 K24 DB24 K2 R/4</code></td><td>320</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/"><img src="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/sett.png" alt="1780 (Clan) as 78th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/">Clan Tartan</a></td><td>0.03</td><td><code>DB/24 K4 DB4 K4 DB4 K24 G24 K2 W6 K2 G24 K24 DB24 K2 R/6</code></td><td>326</td><td>1778</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/"><img src="/variants/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

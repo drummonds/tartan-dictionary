@@ -13,10 +13,10 @@ Its design is pattern [BWBWBWRGKGYWKW](/stripes/bwbwbwrgkgywkw/) — the page of
 The **Salaberry-de-Valleyfield** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/">Salaberry-de-Valleyfield</a></td><td><code>DB/40 W6 DB8 W6 DB8 W6 R44 G4 K2 G4 LY32 W2 K4 W/2</code></td><td>294</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><img src="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/sett.png" alt="Salaberry-de-Valleyfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/">Salaberry-de-Valleyfield</a></td><td></td><td><code>DB/40 W6 DB8 W6 DB8 W6 R44 G4 K2 G4 LY32 W2 K4 W/2</code></td><td>294</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><img src="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/sett.png" alt="Salaberry-de-Valleyfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

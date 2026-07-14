@@ -18,10 +18,10 @@ Its design is pattern [GWGYGYGY](/stripes/gwgygygy/) — the page of every tarta
 The **Baillie Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/">Baillie Dress</a></td><td><code>LY/48 DY6 LY6 DY6 LY6 DY40 W44 DY/8</code></td><td>272</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><img src="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/sett.png" alt="Baillie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/">Baillie Dress</a></td><td></td><td><code>LY/48 DY6 LY6 DY6 LY6 DY40 W44 DY/8</code></td><td>272</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><img src="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/sett.png" alt="Baillie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

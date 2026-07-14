@@ -18,10 +18,10 @@ Its design is pattern [GGGKBKBRBRWRWBW](/stripes/gggkbkbrbrwrwbw/) — the page 
 The **Watson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/">Watson</a></td><td><code>DG/20 Y12 DG40 K40 DB40 K12 DB16 R12 DB40 R12 W8 R32 W8 DB12 W/2</code></td><td>590</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/"><img src="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/sett.png" alt="Watson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/">Watson</a></td><td></td><td><code>DG/20 Y12 DG40 K40 DB40 K12 DB16 R12 DB40 R12 W8 R32 W8 DB12 W/2</code></td><td>590</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/"><img src="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/sett.png" alt="Watson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

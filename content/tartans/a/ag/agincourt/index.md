@@ -13,10 +13,10 @@ Its design is pattern [YBKYKBYKBYBYKY](/stripes/ybkykbykbybyky/) — the page of
 The **Agincourt** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/">Agincourt</a></td><td><code>LO/16 K4 LO12 DB4 LO4 DB8 K24 LO16 DB8 K24 LO28 K24 DB116 LO/8</code></td><td>568</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/"><img src="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/sett.png" alt="Agincourt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/">Agincourt</a></td><td></td><td><code>LO/16 K4 LO12 DB4 LO4 DB8 K24 LO16 DB8 K24 LO28 K24 DB116 LO/8</code></td><td>568</td><td>1982</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/"><img src="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/sett.png" alt="Agincourt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

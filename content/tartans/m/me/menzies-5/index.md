@@ -18,11 +18,11 @@ Its design is pattern [WRRRRRRWRWRW](/stripes/wrrrrrrwrwrw/) — the page of eve
 The **Menzies** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2008029-r1707016/">Menzies</a></td><td><code>W/8 Ri2 W4 Ri6 W48 R10 Ri6 R2 Ri2 R2 Ri40 W/4</code></td><td>256</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2008029-r1707016/"><img src="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2008029-r1707016/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2008029-r1707016/">Menzies</a> · <a href="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2209032-r1707016/">#3</a></td></tr>
+<tr><td><a href="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2008029-r1707016/">Menzies</a></td><td></td><td><code>W/8 Ri2 W4 Ri6 W48 R10 Ri6 R2 Ri2 R2 Ri40 W/4</code></td><td>256</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2008029-r1707016/"><img src="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2008029-r1707016/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2008029-r1707016/">Menzies</a> · <a href="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2209032-r1707016/">#3</a></td></tr>
 </tbody>
 </table>
 

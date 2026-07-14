@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKRWRKGKGKGKRWR](/stripes/gkgkgkrwrkgkgkgkrwr/) — t
 The **Pride of Loch Leven** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/">Pride of Loch Leven</a></td><td><code>DG/16 K2 DG2 K2 DG2 K8 O20 W4 O20 K6 DG6 K12 DG6 K12 DG6 K6 O20 W6 R/8</code></td><td>304</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/"><img src="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/sett.png" alt="Pride of Loch Leven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/">Pride of Loch Leven</a></td><td></td><td><code>DG/16 K2 DG2 K2 DG2 K8 O20 W4 O20 K6 DG6 K12 DG6 K12 DG6 K6 O20 W6 R/8</code></td><td>304</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/"><img src="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/sett.png" alt="Pride of Loch Leven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

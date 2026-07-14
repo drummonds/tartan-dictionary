@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKGKGKBKBKBKGKGKBKBKB](/stripes/bkbkbkgkgkbkbkbkgkgkb
 The **Sutherland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/">Sutherland</a></td><td><code>DB/88 K8 DB8 K8 DB8 K64 G64 K8 G64 K64 DB64 K8 DB8 K8 DB64 K64 G64 K8 G64 K64 DB8 K8 DB8 K8 DB/44</code></td><td>1620</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/"><img src="/variants/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/sett.png" alt="Sutherland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/">Sutherland</a></td><td></td><td><code>DB/88 K8 DB8 K8 DB8 K64 G64 K8 G64 K64 DB64 K8 DB8 K8 DB64 K64 G64 K8 G64 K64 DB8 K8 DB8 K8 DB/44</code></td><td>1620</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/"><img src="/variants/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/sett.png" alt="Sutherland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

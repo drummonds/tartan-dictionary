@@ -20,10 +20,10 @@ Family tartan dating to 1930, with the name traced to Guilhen de Bonares in Pert
 The **Bonner** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/">Bonner</a></td><td><code>DB/30 K4 DB4 K4 DB4 K28 DG36 K2 Y4 K2 DG36 K28 DB36 R/4</code></td><td>410</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/"><img src="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/sett.png" alt="Bonner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/">Bonner</a></td><td></td><td><code>DB/30 K4 DB4 K4 DB4 K28 DG36 K2 Y4 K2 DG36 K28 DB36 R/4</code></td><td>410</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/"><img src="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/sett.png" alt="Bonner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

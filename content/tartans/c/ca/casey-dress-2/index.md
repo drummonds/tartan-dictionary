@@ -18,10 +18,10 @@ Its design is pattern [WKWKWYWKRKRKRW](/stripes/wkwkwywkrkrkrw/) — the page of
 The **Casey, Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/">Casey, Dress</a></td><td><code>W/7 K21 W9 K9 W29 LO4 W29 K10 R3 K3 R3 K3 R19 W/6</code></td><td>297</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/"><img src="/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/sett.png" alt="Casey, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/">Casey, Dress</a></td><td></td><td><code>W/7 K21 W9 K9 W29 LO4 W29 K10 R3 K3 R3 K3 R19 W/6</code></td><td>297</td><td>~2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/"><img src="/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/sett.png" alt="Casey, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

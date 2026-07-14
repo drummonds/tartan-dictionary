@@ -15,10 +15,10 @@ Designed in 1997 for the Tartan Army, Scotland's football supporters renowned wo
 The **Tartan Army Corporate/Sport** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi1406275-db1404245/">Tartan Army Corporate/Sport</a></td><td><code>DBi/44 DB4 DBi8 DB4 DBi8 DB16 W4 DB4 W4 DB20 R10 Y4 R10 DB20 W4 DB4 W4 DB16 DBi36 DB4 DBi/8</code></td><td>420</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi1406275-db1404245/"><img src="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi1406275-db1404245/sett.png" alt="Tartan Army Corporate/Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi1406275-db1404245/">Tartan Army Corporate/Sport</a></td><td></td><td><code>DBi/44 DB4 DBi8 DB4 DBi8 DB16 W4 DB4 W4 DB20 R10 Y4 R10 DB20 W4 DB4 W4 DB16 DBi36 DB4 DBi/8</code></td><td>420</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi1406275-db1404245/"><img src="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi1406275-db1404245/sett.png" alt="Tartan Army Corporate/Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

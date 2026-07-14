@@ -13,10 +13,10 @@ Its design is pattern [GGKGKGKGWKR](/stripes/ggkgkgkgwkr/) — the page of every
 The **Louth County, Crest Range** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dy16y5k8y8k16dg48k4g46w8k8r8/">Louth County, Crest Range</a></td><td><code>DY/16 Y5 K8 Y8 K16 DG48 K4 G46 W8 K8 R/8</code></td><td>326</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dy16y5k8y8k16dg48k4g46w8k8r8/"><img src="/variants/s11/dy16y5k8y8k16dg48k4g46w8k8r8/sett.png" alt="Louth County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dy16y5k8y8k16dg48k4g46w8k8r8/">Louth County, Crest Range</a></td><td></td><td><code>DY/16 Y5 K8 Y8 K16 DG48 K4 G46 W8 K8 R/8</code></td><td>326</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dy16y5k8y8k16dg48k4g46w8k8r8/"><img src="/variants/s11/dy16y5k8y8k16dg48k4g46w8k8r8/sett.png" alt="Louth County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

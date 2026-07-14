@@ -18,10 +18,10 @@ Designed in 2005 for House of Edgar's wedding grays collection; originally named
 The **Hebridean Heather** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/">Hebridean Heather</a></td><td><code>N/8 DB4 N14 K60 N16 K14 DR10 DB2 W/4</code></td><td>252</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><img src="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/sett.png" alt="Hebridean Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/">Hebridean Heather</a></td><td></td><td><code>N/8 DB4 N14 K60 N16 K14 DR10 DB2 W/4</code></td><td>252</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><img src="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/sett.png" alt="Hebridean Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

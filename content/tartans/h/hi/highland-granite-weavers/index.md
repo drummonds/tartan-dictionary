@@ -18,10 +18,10 @@ Colours reflect granite hills between Perth, Inverness and Royal Deeside; a univ
 The **Highland Granite Weavers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2~x2~o2500000-n1900000/">Highland Granite Weavers</a></td><td><code>O/32 K4 O6 K4 O8 K20 N54 LB4 N16 LB4 N54 K20 O8 K4 O6 K4 O32 N/4</code></td><td>532</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2~x2~o2500000-n1900000/"><img src="/variants/s18/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2~x2~o2500000-n1900000/sett.png" alt="Highland Granite Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2~x2~o2500000-n1900000/">Highland Granite Weavers</a></td><td></td><td><code>O/32 K4 O6 K4 O8 K20 N54 LB4 N16 LB4 N54 K20 O8 K4 O6 K4 O32 N/4</code></td><td>532</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2~x2~o2500000-n1900000/"><img src="/variants/s18/o16k2o3k2o4k10n27lb2n8lb2n27k10o4k2o3k2o16n2~x2~o2500000-n1900000/sett.png" alt="Highland Granite Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

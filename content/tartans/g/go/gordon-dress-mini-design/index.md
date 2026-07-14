@@ -18,10 +18,10 @@ Reduced-scale "mini" version of the 294 Gordon Dress tartan.
 The **Gordon Dress MINI design** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/">Gordon Dress MINI design</a></td><td><code>DB/4 K6 DB10 K20 G4 Y3 G4 K20 W4 DB4 W20 DB2 W/3</code></td><td>201</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/"><img src="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/sett.png" alt="Gordon Dress MINI design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/">Gordon Dress MINI design</a></td><td></td><td><code>DB/4 K6 DB10 K20 G4 Y3 G4 K20 W4 DB4 W20 DB2 W/3</code></td><td>201</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/"><img src="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/sett.png" alt="Gordon Dress MINI design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

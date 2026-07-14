@@ -13,10 +13,10 @@ Its design is pattern [GBKGKWKWKGKBR](/stripes/gbkgkwkwkgkbr/) — the page of e
 The **Loch Carron** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/">Loch Carron</a></td><td><code>R/10 DB60 K38 G46 K4 W4 K10 W4 K4 G46 K38 DB50 G/10</code></td><td>628</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><img src="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/sett.png" alt="Loch Carron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/">Loch Carron</a></td><td></td><td><code>R/10 DB60 K38 G46 K4 W4 K10 W4 K4 G46 K38 DB50 G/10</code></td><td>628</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><img src="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/sett.png" alt="Loch Carron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

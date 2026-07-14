@@ -16,10 +16,10 @@ Its design is pattern [RWKWKWKGGRKRWR](/stripes/rwkwkwkggrkrwr/) — the page of
 The **Caledonia No 155** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/">Caledonia No 155</a></td><td><code>R/42 LB18 K4 LB4 K4 LB18 K36 Y6 G42 R26 K6 R26 W4 R/26</code></td><td>456</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><img src="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/sett.png" alt="Caledonia No 155 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/">Caledonia No 155</a></td><td></td><td><code>R/42 LB18 K4 LB4 K4 LB18 K36 Y6 G42 R26 K6 R26 W4 R/26</code></td><td>456</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><img src="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/sett.png" alt="Caledonia No 155 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

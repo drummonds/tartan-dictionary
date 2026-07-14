@@ -13,10 +13,10 @@ Its design is pattern [BGWWWBW](/stripes/bgwwwbw/) — the page of every tartan 
 The **St John's** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/">St John's</a></td><td><code>W/12 DB6 W90 LB72 W6 DY18 DB/6</code></td><td>402</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><img src="/variants/s7/w2db1w15lb12w1dy3db1~x6/sett.png" alt="St John's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/">St John's</a></td><td></td><td><code>W/12 DB6 W90 LB72 W6 DY18 DB/6</code></td><td>402</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><img src="/variants/s7/w2db1w15lb12w1dy3db1~x6/sett.png" alt="St John's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BBBGRW](/stripes/bbbgrw/) — the page of every tartan sh
 The **Nicolson of Lewis** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dt3db5n2dg5r11w3~x4/">Nicolson of Lewis</a></td><td><code>DT/12 DB20 N8 DG20 R44 W/12</code></td><td>208</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dt3db5n2dg5r11w3~x4/"><img src="/variants/s6/dt3db5n2dg5r11w3~x4/sett.png" alt="Nicolson of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dt3db5n2dg5r11w3~x4/">Nicolson of Lewis</a></td><td></td><td><code>DT/12 DB20 N8 DG20 R44 W/12</code></td><td>208</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dt3db5n2dg5r11w3~x4/"><img src="/variants/s6/dt3db5n2dg5r11w3~x4/sett.png" alt="Nicolson of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

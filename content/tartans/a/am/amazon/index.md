@@ -13,10 +13,10 @@ Its design is pattern [WWWWYWYW](/stripes/wwwwywyw/) — the page of every tarta
 The **Amazon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/">Amazon</a></td><td><code>W/16 LB60 W120 LB30 LO4 LB4 LO4 LB/10</code></td><td>470</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/"><img src="/variants/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/sett.png" alt="Amazon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/">Amazon</a></td><td></td><td><code>W/16 LB60 W120 LB30 LO4 LB4 LO4 LB/10</code></td><td>470</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/"><img src="/variants/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/sett.png" alt="Amazon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

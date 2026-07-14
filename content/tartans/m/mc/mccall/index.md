@@ -18,10 +18,10 @@ Its design is pattern [BKBBBWBBBWBBGBG](/stripes/bkbbbwbbbwbbgbg/) — the page 
 The **McCall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/">McCall</a></td><td><code>DR/12 K8 DR16 DP32 DR12 LB4 DR4 DP4 DR4 LB4 DR12 DP36 G12 DP4 G/2</code></td><td>318</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><img src="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/sett.png" alt="McCall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/">McCall</a></td><td></td><td><code>DR/12 K8 DR16 DP32 DR12 LB4 DR4 DP4 DR4 LB4 DR12 DP36 G12 DP4 G/2</code></td><td>318</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><img src="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/sett.png" alt="McCall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

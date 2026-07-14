@@ -19,13 +19,13 @@ The **Menzies Hunting** tartan is one sett, recorded at 2 scales — the same pr
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/">Menzies Hunting</a></td><td><code>G/48 R4 G2 R4 G6 R2 G3 R/9</code></td><td>99</td><td>1893</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><img src="/variants/s8/g48r4g2r4g6r2g3r9~x2/sett.png" alt="Menzies Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/g48r4g2r4g6r2g3r9/">Menzies Hunting</a></td><td><code>G/48 R4 G2 R4 G6 R2 G3 R/9</code></td><td>99</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/">Menzies</a></td><td><code>G/96 R8 G4 R8 G12 R4 G6 R/18</code></td><td>198</td><td>1893</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/g48r4g2r4g6r2g3r9/">Menzies Hunting</a> · <a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/">Menzies</a></td></tr>
+<tr><td><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/">Menzies Hunting</a></td><td></td><td><code>G/48 R4 G2 R4 G6 R2 G3 R/9</code></td><td>99</td><td>1893</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><img src="/variants/s8/g48r4g2r4g6r2g3r9~x2/sett.png" alt="Menzies Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/g48r4g2r4g6r2g3r9/">Menzies Hunting</a></td><td>0.00</td><td><code>G/48 R4 G2 R4 G6 R2 G3 R/9</code></td><td>99</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/">Menzies</a></td><td>0.00</td><td><code>G/96 R8 G4 R8 G12 R4 G6 R/18</code></td><td>198</td><td>1893</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/g48r4g2r4g6r2g3r9/">Menzies Hunting</a> · <a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/">Menzies</a></td></tr>
 </tbody>
 </table>
 

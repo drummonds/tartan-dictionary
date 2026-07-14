@@ -18,10 +18,10 @@ Its design is pattern [RGKWGRKWW](/stripes/rgkwgrkww/) — the page of every tar
 The **Drummond of Perth** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/">Drummond of Perth</a></td><td><code>R/102 Y4 K8 W4 G42 R20 K8 LB8 W/4</code></td><td>294</td><td>1745</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/"><img src="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/sett.png" alt="Drummond of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/">Drummond of Perth</a></td><td></td><td><code>R/102 Y4 K8 W4 G42 R20 K8 LB8 W/4</code></td><td>294</td><td>1745</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/"><img src="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/sett.png" alt="Drummond of Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

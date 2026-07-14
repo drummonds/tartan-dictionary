@@ -18,10 +18,10 @@ Its design is pattern [BYBRBRW](/stripes/bybrbrw/) — the page of every tartan 
 The **Banff** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/">Banff</a></td><td><code>DR/12 LY6 DR40 R40 DR6 R6 LB/12</code></td><td>220</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/"><img src="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/sett.png" alt="Banff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/">Banff</a></td><td></td><td><code>DR/12 LY6 DR40 R40 DR6 R6 LB/12</code></td><td>220</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/"><img src="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/sett.png" alt="Banff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

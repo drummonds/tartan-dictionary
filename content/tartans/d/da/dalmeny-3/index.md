@@ -18,10 +18,10 @@ Its design is pattern [BWBKGR](/stripes/bwbkgr/) — the page of every tartan sh
 The **Dalmeny** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db11w2db11k4g8r1~x2/">Dalmeny</a></td><td><code>DB/22 W4 DB22 K8 G16 R/2</code></td><td>124</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db11w2db11k4g8r1~x2/"><img src="/variants/s6/db11w2db11k4g8r1~x2/sett.png" alt="Dalmeny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db11w2db11k4g8r1~x2/">Dalmeny</a></td><td></td><td><code>DB/22 W4 DB22 K8 G16 R/2</code></td><td>124</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db11w2db11k4g8r1~x2/"><img src="/variants/s6/db11w2db11k4g8r1~x2/sett.png" alt="Dalmeny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BGBGBGBGRGKBKBKBGBKBKBKGGG](/stripes/bgbgbgbgrgkbkbkbgbkb
 The **Stewart Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/g37y3g37k9db4k2db3k2db31g4db31k2db3k2db4k9g37r3g37db9g4db31g4db31g4db9/">Stewart Hunting</a></td><td><code>G/37 Y3 G37 K9 DB4 K2 DB3 K2 DB31 G4 DB31 K2 DB3 K2 DB4 K9 G37 R3 G37 DB9 G4 DB31 G4 DB31 G4 DB/9</code></td><td>658</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/g37y3g37k9db4k2db3k2db31g4db31k2db3k2db4k9g37r3g37db9g4db31g4db31g4db9/"><img src="/variants/s26/g37y3g37k9db4k2db3k2db31g4db31k2db3k2db4k9g37r3g37db9g4db31g4db31g4db9/sett.png" alt="Stewart Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/g37y3g37k9db4k2db3k2db31g4db31k2db3k2db4k9g37r3g37db9g4db31g4db31g4db9/">Stewart Hunting</a></td><td></td><td><code>G/37 Y3 G37 K9 DB4 K2 DB3 K2 DB31 G4 DB31 K2 DB3 K2 DB4 K9 G37 R3 G37 DB9 G4 DB31 G4 DB31 G4 DB/9</code></td><td>658</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/g37y3g37k9db4k2db3k2db31g4db31k2db3k2db4k9g37r3g37db9g4db31g4db31g4db9/"><img src="/variants/s26/g37y3g37k9db4k2db3k2db31g4db31k2db3k2db4k9g37r3g37db9g4db31g4db31g4db9/sett.png" alt="Stewart Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

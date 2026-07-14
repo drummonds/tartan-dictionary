@@ -16,10 +16,10 @@ Its design is pattern [KYYYYKYKYKYYYYYYYYYY](/stripes/kyyyykykykyyyyyyyyyy/) —
 The **Highland Aircraft** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1~x2~loi2806047-lo2706066/">Highland Aircraft</a></td><td><code>K/4 LOi8 LR10 LO4 LR2 K2 LR4 K24 LR4 K2 LR4 LO12 LOi14 LO6 LOi24 LO2 LR8 LO2 LR24 LOi/2</code></td><td>318</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1~x2~loi2806047-lo2706066/"><img src="/variants/s20/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1~x2~loi2806047-lo2706066/sett.png" alt="Highland Aircraft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1~x2~loi2806047-lo2706066/">Highland Aircraft</a></td><td></td><td><code>K/4 LOi8 LR10 LO4 LR2 K2 LR4 K24 LR4 K2 LR4 LO12 LOi14 LO6 LOi24 LO2 LR8 LO2 LR24 LOi/2</code></td><td>318</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1~x2~loi2806047-lo2706066/"><img src="/variants/s20/k2loi4lr5lo2lr1k1lr2k12lr2k1lr2lo6loi7lo3loi12lo1lr4lo1lr12loi1~x2~loi2806047-lo2706066/sett.png" alt="Highland Aircraft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

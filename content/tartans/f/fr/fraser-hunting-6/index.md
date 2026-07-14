@@ -18,10 +18,10 @@ Its design is pattern [RBRGRRRGRBRBRGRW](/stripes/rbrgrrrgrbrbrgrw/) — the pag
 The **Fraser, hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/">Fraser, hunting</a></td><td><code>W/8 O56 G28 O4 DB28 O4 DB28 O4 G28 O56 R8 O56 G28 O4 DB28 O/4</code></td><td>732</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/"><img src="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/sett.png" alt="Fraser, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/">Fraser, hunting</a></td><td></td><td><code>W/8 O56 G28 O4 DB28 O4 DB28 O4 G28 O56 R8 O56 G28 O4 DB28 O/4</code></td><td>732</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/"><img src="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/sett.png" alt="Fraser, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

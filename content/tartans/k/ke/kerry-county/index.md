@@ -16,10 +16,10 @@ Its design is pattern [YBGBGBGBGBGBGBY](/stripes/ybgbgbgbgbgbgby/) — the page 
 The **Kerry, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/">Kerry, County</a></td><td><code>LO/4 DB6 DY6 DB8 G32 DB6 DY6 DB8 G6 DB6 DY32 DB8 G6 DB6 LO/4</code></td><td>280</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/"><img src="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/sett.png" alt="Kerry, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/">Kerry, County</a></td><td></td><td><code>LO/4 DB6 DY6 DB8 G32 DB6 DY6 DB8 G6 DB6 DY32 DB8 G6 DB6 LO/4</code></td><td>280</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/"><img src="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/sett.png" alt="Kerry, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

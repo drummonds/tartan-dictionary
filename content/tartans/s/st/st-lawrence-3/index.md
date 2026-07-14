@@ -13,10 +13,10 @@ Its design is pattern [GGYBKGBGBGKBYG](/stripes/ggybkgbgbgkbyg/) — the page of
 The **St. Lawrence** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1~x2/">St. Lawrence</a></td><td><code>G/4 LY42 DO2 K10 G22 DO26 G4 DO26 G22 K10 DO2 LY42 G4 DY/2</code></td><td>430</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1~x2/"><img src="/variants/s14/g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1~x2/sett.png" alt="St. Lawrence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1~x2/">St. Lawrence</a></td><td></td><td><code>G/4 LY42 DO2 K10 G22 DO26 G4 DO26 G22 K10 DO2 LY42 G4 DY/2</code></td><td>430</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1~x2/"><img src="/variants/s14/g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1~x2/sett.png" alt="St. Lawrence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

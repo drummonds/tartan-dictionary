@@ -20,10 +20,10 @@ Designed in 1984 for Colonel William H. Bell, president of the Bell Family Assoc
 The **Bell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db7k2db7w1k2w1k8g2w3r10w3g2k8w1db11k2n3k2~x2/">Bell</a></td><td><code>DB/14 K4 DB14 W2 K4 W2 K16 G4 W6 R20 W6 G4 K16 W2 DB22 K4 N6 K/4</code></td><td>282</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db7k2db7w1k2w1k8g2w3r10w3g2k8w1db11k2n3k2~x2/"><img src="/variants/s18/db7k2db7w1k2w1k8g2w3r10w3g2k8w1db11k2n3k2~x2/sett.png" alt="Bell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db7k2db7w1k2w1k8g2w3r10w3g2k8w1db11k2n3k2~x2/">Bell</a></td><td></td><td><code>DB/14 K4 DB14 W2 K4 W2 K16 G4 W6 R20 W6 G4 K16 W2 DB22 K4 N6 K/4</code></td><td>282</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db7k2db7w1k2w1k8g2w3r10w3g2k8w1db11k2n3k2~x2/"><img src="/variants/s18/db7k2db7w1k2w1k8g2w3r10w3g2k8w1db11k2n3k2~x2/sett.png" alt="Bell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

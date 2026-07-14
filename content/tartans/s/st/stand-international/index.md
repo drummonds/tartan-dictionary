@@ -13,10 +13,10 @@ Its design is pattern [WBWWBGWGWRW](/stripes/wbwwbgwgwrw/) — the page of every
 The **Stand International** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/">Stand International</a></td><td><code>LB/24 R4 LB4 Y4 LB4 G4 DB36 LB24 W4 DB24 LB/12</code></td><td>252</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/"><img src="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/sett.png" alt="Stand International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/">Stand International</a></td><td></td><td><code>LB/24 R4 LB4 Y4 LB4 G4 DB36 LB24 W4 DB24 LB/12</code></td><td>252</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/"><img src="/variants/s11/lb6r1lb1y1lb1g1db9lb6w1db6lb3~x4/sett.png" alt="Stand International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

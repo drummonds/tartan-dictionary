@@ -18,10 +18,10 @@ Its design is pattern [BWYGWKY](/stripes/bwygwky/) — the page of every tartan 
 The **MacLachlan Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/">MacLachlan Dress</a></td><td><code>DR/72 W6 LO8 G48 W48 K6 LO/12</code></td><td>316</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><img src="/variants/s7/dr36w3lo4g24w24k3lo6~x2/sett.png" alt="MacLachlan Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/">MacLachlan Dress</a></td><td></td><td><code>DR/72 W6 LO8 G48 W48 K6 LO/12</code></td><td>316</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><img src="/variants/s7/dr36w3lo4g24w24k3lo6~x2/sett.png" alt="MacLachlan Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

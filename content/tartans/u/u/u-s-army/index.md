@@ -13,10 +13,10 @@ Its design is pattern [BKGGGGGGGK](/stripes/bkgggggggk/) — the page of every t
 The **U.S. Army** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/">U.S. Army</a></td><td><code>K/34 Y8 DG102 DY6 G8 DY6 DG102 Y8 K34 DB/12</code></td><td>594</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/"><img src="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/sett.png" alt="U.S. Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/">U.S. Army</a></td><td></td><td><code>K/34 Y8 DG102 DY6 G8 DY6 DG102 Y8 K34 DB/12</code></td><td>594</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/"><img src="/variants/s10/k17y4dg51dy3g4dy3dg51y4k17db6~x2~dg1806142-g2203152/sett.png" alt="U.S. Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

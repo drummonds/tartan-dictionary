@@ -13,10 +13,10 @@ Its design is pattern [KBKBBBBBBBBW](/stripes/kbkbbbbbbbbw/) — the page of eve
 The **Celkilt** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/">Celkilt</a></td><td><code>K/80 N2 K160 DT8 N2 DT5 N3 DT3 N4 DT2 N5 W/2</code></td><td>470</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/"><img src="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/sett.png" alt="Celkilt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/">Celkilt</a></td><td></td><td><code>K/80 N2 K160 DT8 N2 DT5 N3 DT3 N4 DT2 N5 W/2</code></td><td>470</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/"><img src="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/sett.png" alt="Celkilt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

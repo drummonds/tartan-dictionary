@@ -13,10 +13,10 @@ Its design is pattern [BWKBKBWKG](/stripes/bwkbkbwkg/) — the page of every tar
 The **Norton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y75k6w3n2k6n2k6w3n2/">Norton</a></td><td><code>Y/75 K6 W3 N2 K6 N2 K6 W3 N/2</code></td><td>133</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y75k6w3n2k6n2k6w3n2/"><img src="/variants/s9/y75k6w3n2k6n2k6w3n2/sett.png" alt="Norton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y75k6w3n2k6n2k6w3n2/">Norton</a></td><td></td><td><code>Y/75 K6 W3 N2 K6 N2 K6 W3 N/2</code></td><td>133</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y75k6w3n2k6n2k6w3n2/"><img src="/variants/s9/y75k6w3n2k6n2k6w3n2/sett.png" alt="Norton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

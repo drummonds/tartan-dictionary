@@ -20,10 +20,10 @@ Corporate tartan for Gordonstoun, dating to 1966.
 The **Gordonstoun** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2~r1506019-g2203152-lb3103284-t2503227-ly3307090/">Gordonstoun</a></td><td><code>K/4 R4 K40 R4 G22 R22 LB4 T22 R4 G38 LY10 G38 R4 T22 LB4 R22 G22 R4 K40 R4 K4 LB/4</code></td><td>676</td><td>1956</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2~r1506019-g2203152-lb3103284-t2503227-ly3307090/"><img src="/variants/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2~r1506019-g2203152-lb3103284-t2503227-ly3307090/sett.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2~r1506019-g2203152-lb3103284-t2503227-ly3307090/">Gordonstoun</a></td><td></td><td><code>K/4 R4 K40 R4 G22 R22 LB4 T22 R4 G38 LY10 G38 R4 T22 LB4 R22 G22 R4 K40 R4 K4 LB/4</code></td><td>676</td><td>1956</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2~r1506019-g2203152-lb3103284-t2503227-ly3307090/"><img src="/variants/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2~r1506019-g2203152-lb3103284-t2503227-ly3307090/sett.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GRYRWYWRGRGRGBGBGBR](/stripes/gryrwywrgrgrgbgbgbr/) — t
 The **Drymen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/">Drymen</a></td><td><code>G/8 O3 LR3 O3 W28 LR4 W8 O12 G3 O3 G3 O3 G8 DO3 G3 DO3 G3 DO12 R/4</code></td><td>222</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/"><img src="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/sett.png" alt="Drymen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/">Drymen</a></td><td></td><td><code>G/8 O3 LR3 O3 W28 LR4 W8 O12 G3 O3 G3 O3 G8 DO3 G3 DO3 G3 DO12 R/4</code></td><td>222</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/"><img src="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/sett.png" alt="Drymen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

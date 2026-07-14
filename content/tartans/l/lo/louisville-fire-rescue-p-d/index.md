@@ -13,10 +13,10 @@ Its design is pattern [WBRBRBRBY](/stripes/wbrbrbrby/) — the page of every tar
 The **Louisville Fire & Rescue P&D** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/">Louisville Fire &amp; Rescue P&amp;D</a></td><td><code>W/4 DB32 R12 DB8 R4 DB8 R12 DB32 LY/4</code></td><td>224</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/"><img src="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/sett.png" alt="Louisville Fire &amp; Rescue P&amp;D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/">Louisville Fire &amp; Rescue P&amp;D</a></td><td></td><td><code>W/4 DB32 R12 DB8 R4 DB8 R12 DB32 LY/4</code></td><td>224</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/"><img src="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/sett.png" alt="Louisville Fire &amp; Rescue P&amp;D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

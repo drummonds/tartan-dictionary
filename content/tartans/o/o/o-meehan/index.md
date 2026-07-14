@@ -13,11 +13,11 @@ Its design is pattern [GKWRWRKRK](/stripes/gkwrwrkrk/) — the page of every tar
 The **O'Meehan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/">O'Meehan</a></td><td><code>Y/54 K8 W8 R128 W8 R8 K8 R8 K/24</code></td><td>430</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/"><img src="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/sett.png" alt="O'Meehan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/">(Name)</a> · <a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2~r2109013/">O'Meehan</a></td></tr>
+<tr><td><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/">O'Meehan</a></td><td></td><td><code>Y/54 K8 W8 R128 W8 R8 K8 R8 K/24</code></td><td>430</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/"><img src="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/sett.png" alt="O'Meehan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/">(Name)</a> · <a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2~r2109013/">O'Meehan</a></td></tr>
 </tbody>
 </table>
 

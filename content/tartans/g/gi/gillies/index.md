@@ -20,12 +20,12 @@ The **Gillies** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/">Gillies</a> ★</td><td><code>T/64 K24 T24 G12 R12 G36 K4 Y/6</code></td><td>294</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><img src="/variants/s8/t32k12t12g6r6g18k2y3~x2/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/">Gillies</a></td><td><code>DB/64 K24 DB24 G12 R12 G36 K4 Y/6</code></td><td>294</td><td>~1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><img src="/variants/s8/db32k12db12g6r6g18k2y3~x2/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/">Gillies</a> ★</td><td></td><td><code>T/64 K24 T24 G12 R12 G36 K4 Y/6</code></td><td>294</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><img src="/variants/s8/t32k12t12g6r6g18k2y3~x2/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/">Gillies</a></td><td>0.19</td><td><code>DB/64 K24 DB24 G12 R12 G36 K4 Y/6</code></td><td>294</td><td>~1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><img src="/variants/s8/db32k12db12g6r6g18k2y3~x2/sett.png" alt="Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

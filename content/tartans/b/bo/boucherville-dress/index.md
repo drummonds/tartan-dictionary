@@ -21,14 +21,14 @@ The **Boucherville Dress** tartan groups 3 setts — the same named design recor
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/">Boucherville Dress</a> ★</td><td><code>LB/40 LO4 N10 LB8 DB4 N4 DB4 N4 DG/2</code></td><td>118</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><img src="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/sett.png" alt="Boucherville Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/">(District)</a></td><td><code>W/40 LO4 N10 W8 DB4 N4 DB4 N4 DG/2</code></td><td>118</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><img src="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/">Boucherville (Tartan de..), dress</a></td><td><code>W/80 Y8 N20 W16 B8 N8 B8 N8 G/2</code></td><td>234</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/"><img src="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/sett.png" alt="Boucherville (Tartan de..), dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/">Boucherville Dress</a> ★</td><td></td><td><code>LB/40 LO4 N10 LB8 DB4 N4 DB4 N4 DG/2</code></td><td>118</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><img src="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/sett.png" alt="Boucherville Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/">(District)</a></td><td>2.50</td><td><code>W/40 LO4 N10 W8 DB4 N4 DB4 N4 DG/2</code></td><td>118</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><img src="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/">Boucherville (Tartan de..), dress</a></td><td>3.46</td><td><code>W/80 Y8 N20 W16 B8 N8 B8 N8 G/2</code></td><td>234</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/"><img src="/variants/s9/w40y4n10w8b4n4b4n4g1~x2/sett.png" alt="Boucherville (Tartan de..), dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

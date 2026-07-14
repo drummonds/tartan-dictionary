@@ -15,10 +15,10 @@ Corporate tartan for a general merchandising company with mills at Langholm, Dum
 The **Crombie House Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k3lb10db2g6db18g2~x2/">Crombie House Check</a></td><td><code>K/6 LB20 DB4 G12 DB36 G/4</code></td><td>154</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3lb10db2g6db18g2~x2/"><img src="/variants/s6/k3lb10db2g6db18g2~x2/sett.png" alt="Crombie House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3lb10db2g6db18g2~x2/">Crombie House Check</a></td><td></td><td><code>K/6 LB20 DB4 G12 DB36 G/4</code></td><td>154</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k3lb10db2g6db18g2~x2/"><img src="/variants/s6/k3lb10db2g6db18g2~x2/sett.png" alt="Crombie House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

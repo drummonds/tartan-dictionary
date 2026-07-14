@@ -20,11 +20,11 @@ Canadian provincial tartan for Manitoba, designed by Hugh Kirkwood Rankine, give
 The **Manitoba** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/">Manitoba</a></td><td><code>Y/4 R12 G2 Ri4 G24 LB2 G2 LB/4</code></td><td>100</td><td>1962</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/"><img src="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/sett.png" alt="Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2008029/">Manitoba</a> · <a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/">Red</a> · <a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/">District Tartan</a></td></tr>
+<tr><td><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/">Manitoba</a></td><td></td><td><code>Y/4 R12 G2 Ri4 G24 LB2 G2 LB/4</code></td><td>100</td><td>1962</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/"><img src="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/sett.png" alt="Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2008029/">Manitoba</a> · <a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/">Red</a> · <a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/">District Tartan</a></td></tr>
 </tbody>
 </table>
 

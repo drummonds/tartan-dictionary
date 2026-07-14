@@ -18,10 +18,10 @@ Ayrton family tartan with restricted weaving and wearing access.
 The **Ayrton Laoch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/">Ayrton Laoch</a></td><td><code>R/4 G24 Y4 G24 DB4 G4 DB4 G4 DB8 R/4</code></td><td>160</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/"><img src="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/sett.png" alt="Ayrton Laoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/">Ayrton Laoch</a></td><td></td><td><code>R/4 G24 Y4 G24 DB4 G4 DB4 G4 DB8 R/4</code></td><td>160</td><td>1982</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/"><img src="/variants/s10/r1g6y1g6db1g1db1g1db2r1~x4/sett.png" alt="Ayrton Laoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

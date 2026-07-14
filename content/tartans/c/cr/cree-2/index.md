@@ -18,10 +18,10 @@ Its design is pattern [GGBKGKWKGRKRW](/stripes/ggbkgkwkgrkrw/) — the page of e
 The **Cree** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/">Cree</a></td><td><code>Y/60 DY40 DB4 K12 Y6 K4 W6 K4 G12 R12 K6 R6 W/6</code></td><td>290</td><td>1979</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/"><img src="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/sett.png" alt="Cree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/">Cree</a></td><td></td><td><code>Y/60 DY40 DB4 K12 Y6 K4 W6 K4 G12 R12 K6 R6 W/6</code></td><td>290</td><td>1979</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/"><img src="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/sett.png" alt="Cree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

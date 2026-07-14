@@ -13,10 +13,10 @@ Its design is pattern [BKBGKBKBKB](/stripes/bkbgkbkbkb/) — the page of every t
 The **St George's School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/">St George's School</a></td><td><code>DR/20 K8 DR8 K12 DR56 K20 DY8 DB60 K8 DB/14</code></td><td>394</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/"><img src="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/sett.png" alt="St George's School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/">St George's School</a></td><td></td><td><code>DR/20 K8 DR8 K12 DR56 K20 DY8 DB60 K8 DB/14</code></td><td>394</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/"><img src="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/sett.png" alt="St George's School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [KGRKRKRGRBRKGKRW](/stripes/kgrkrkrgrbrkgkrw/) — the pag
 The **Innes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/">Innes</a></td><td><code>K/4 G24 R4 K4 R4 K4 R32 Y4 R6 DB12 R6 K2 G16 K2 R6 W/4</code></td><td>260</td><td>1950</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/"><img src="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/sett.png" alt="Innes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/">Innes</a></td><td></td><td><code>K/4 G24 R4 K4 R4 K4 R32 Y4 R6 DB12 R6 K2 G16 K2 R6 W/4</code></td><td>260</td><td>1950</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/"><img src="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/sett.png" alt="Innes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

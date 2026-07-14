@@ -13,10 +13,10 @@ Its design is pattern [BGBWGBBKBKBBWKB](/stripes/bgbwgbbkbkbbwkb/) — the page 
 The **Proven** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/">Proven</a></td><td><code>DT/28 DY6 DT28 LB20 DY4 DT14 DR10 K4 DR4 K4 DR10 DT18 W2 K4 DT/4</code></td><td>288</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/"><img src="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/sett.png" alt="Proven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/">Proven</a></td><td></td><td><code>DT/28 DY6 DT28 LB20 DY4 DT14 DR10 K4 DR4 K4 DR10 DT18 W2 K4 DT/4</code></td><td>288</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/"><img src="/variants/s15/dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2~x2/sett.png" alt="Proven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

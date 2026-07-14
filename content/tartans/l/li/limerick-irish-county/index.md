@@ -15,10 +15,10 @@ Irish district tartan by Polly Wittering of House of Edgar, with soft warm colou
 The **Limerick Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/g9db2dg3db2dg5db2dg3lo3dg6lo3dg3db2dg5db2dg3db2g16dr3db2dr3g7~x2/">Limerick Irish County</a></td><td><code>G/18 DB4 DG6 DB4 DG10 DB4 DG6 LO6 DG12 LO6 DG6 DB4 DG10 DB4 DG6 DB4 G32 DR6 DB4 DR6 G/14</code></td><td>312</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/g9db2dg3db2dg5db2dg3lo3dg6lo3dg3db2dg5db2dg3db2g16dr3db2dr3g7~x2/"><img src="/variants/s21/g9db2dg3db2dg5db2dg3lo3dg6lo3dg3db2dg5db2dg3db2g16dr3db2dr3g7~x2/sett.png" alt="Limerick Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/g9db2dg3db2dg5db2dg3lo3dg6lo3dg3db2dg5db2dg3db2g16dr3db2dr3g7~x2/">Limerick Irish County</a></td><td></td><td><code>G/18 DB4 DG6 DB4 DG10 DB4 DG6 LO6 DG12 LO6 DG6 DB4 DG10 DB4 DG6 DB4 G32 DR6 DB4 DR6 G/14</code></td><td>312</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/g9db2dg3db2dg5db2dg3lo3dg6lo3dg3db2dg5db2dg3db2g16dr3db2dr3g7~x2/"><img src="/variants/s21/g9db2dg3db2dg5db2dg3lo3dg6lo3dg3db2dg5db2dg3db2g16dr3db2dr3g7~x2/sett.png" alt="Limerick Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

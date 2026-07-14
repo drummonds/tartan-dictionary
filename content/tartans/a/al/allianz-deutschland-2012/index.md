@@ -17,12 +17,12 @@ The **Allianz Deutschland 2012** tartan groups 2 setts — the same named design
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/">Allianz Deutschland 2012</a> ★</td><td><code>T/12 DB6 T12 DB40 K40 DB16 W/8</code></td><td>248</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/"><img src="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/sett.png" alt="Allianz Deutschland 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/">(Corporate)</a></td><td><code>DBi/6 DB3 DBi6 DB20 K20 DB8 W/4</code></td><td>—</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/"><img src="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/">Allianz Deutschland 2012</a> ★</td><td></td><td><code>T/12 DB6 T12 DB40 K40 DB16 W/8</code></td><td>248</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/"><img src="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/sett.png" alt="Allianz Deutschland 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/">(Corporate)</a></td><td>—</td><td><code>DBi/6 DB3 DBi6 DB20 K20 DB8 W/4</code></td><td>—</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/"><img src="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -22,12 +22,12 @@ The **MacInnes** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/">MacInnes</a> ★</td><td><code>W/4 R8 K4 G16 K4 R4 DB8 R4 Y4 R24 G4 R4 G4 R4 G24 LB/4</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/"><img src="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/sett.png" alt="MacInnes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s16/db2r2k1dg4k1r1db2r1y1r6dg1r1dg1r1dg6lb1~x4/">(MacGregor Hastie) (Clan)</a></td><td><code>DB/8 R8 K4 DG16 K4 R4 DB8 R4 Y4 R24 DG4 R4 DG4 R4 DG24 LB/4</code></td><td>244</td><td>~1950</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db2r2k1dg4k1r1db2r1y1r6dg1r1dg1r1dg6lb1~x4/"><img src="/variants/s16/db2r2k1dg4k1r1db2r1y1r6dg1r1dg1r1dg6lb1~x4/sett.png" alt="(MacGregor Hastie) (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/">MacInnes</a> ★</td><td></td><td><code>W/4 R8 K4 G16 K4 R4 DB8 R4 Y4 R24 G4 R4 G4 R4 G24 LB/4</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/"><img src="/variants/s16/w1r2k1g4k1r1db2r1y1r6g1r1g1r1g6lb1~x4/sett.png" alt="MacInnes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db2r2k1dg4k1r1db2r1y1r6dg1r1dg1r1dg6lb1~x4/">(MacGregor Hastie) (Clan)</a></td><td>0.42</td><td><code>DB/8 R8 K4 DG16 K4 R4 DB8 R4 Y4 R24 DG4 R4 DG4 R4 DG24 LB/4</code></td><td>244</td><td>~1950</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db2r2k1dg4k1r1db2r1y1r6dg1r1dg1r1dg6lb1~x4/"><img src="/variants/s16/db2r2k1dg4k1r1db2r1y1r6dg1r1dg1r1dg6lb1~x4/sett.png" alt="(MacGregor Hastie) (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

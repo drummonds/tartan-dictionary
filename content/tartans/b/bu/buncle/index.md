@@ -20,12 +20,12 @@ The **Buncle** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/y9r31g12dy2lb9~x2/">Buncle</a> ★</td><td><code>Y/18 R62 G24 DY4 LB/18</code></td><td>216</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/y9r31g12dy2lb9~x2/"><img src="/variants/s5/y9r31g12dy2lb9~x2/sett.png" alt="Buncle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/ly9r31g12dy2lb9~x2/">(Name)</a></td><td><code>LY/18 R62 G24 DY4 LB/18</code></td><td>216</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/ly9r31g12dy2lb9~x2/"><img src="/variants/s5/ly9r31g12dy2lb9~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/y9r31g12dy2lb9~x2/">Buncle</a> ★</td><td></td><td><code>Y/18 R62 G24 DY4 LB/18</code></td><td>216</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/y9r31g12dy2lb9~x2/"><img src="/variants/s5/y9r31g12dy2lb9~x2/sett.png" alt="Buncle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/ly9r31g12dy2lb9~x2/">(Name)</a></td><td>0.08</td><td><code>LY/18 R62 G24 DY4 LB/18</code></td><td>216</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/ly9r31g12dy2lb9~x2/"><img src="/variants/s5/ly9r31g12dy2lb9~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

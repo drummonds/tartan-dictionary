@@ -13,10 +13,10 @@ Its design is pattern [GGGWGWGGGGGGR](/stripes/gggwgwggggggr/) — the page of e
 The **Field Gun Association** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/">Field Gun Association</a></td><td><code>R/4 DG24 G6 DG4 G4 DG4 G32 LB8 DG24 W2 G16 DG28 Y/4</code></td><td>312</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/"><img src="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/sett.png" alt="Field Gun Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/">Field Gun Association</a></td><td></td><td><code>R/4 DG24 G6 DG4 G4 DG4 G32 LB8 DG24 W2 G16 DG28 Y/4</code></td><td>312</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/"><img src="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/sett.png" alt="Field Gun Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

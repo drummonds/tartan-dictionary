@@ -13,10 +13,10 @@ Its design is pattern [GKRKRKGKRKRK](/stripes/gkrkrkgkrkrk/) — the page of eve
 The **O'Boyle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/">O'Boyle</a></td><td><code>K/90 O18 K24 R2 K2 G24 K2 R2 K24 O18 K90 G/18</code></td><td>520</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/"><img src="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/sett.png" alt="O'Boyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/">O'Boyle</a></td><td></td><td><code>K/90 O18 K24 R2 K2 G24 K2 R2 K24 O18 K90 G/18</code></td><td>520</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/"><img src="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/sett.png" alt="O'Boyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

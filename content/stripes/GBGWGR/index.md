@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/an/annapolis-valley/">Annapolis Valley</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/an/annapolis-valley/"><img src="/variants/s6/g30db8g5lb4g5r1~x4/sett.png" alt="Annapolis Valley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/an/annapolis-valley/"><img src="/variants/s6/g30t8g5lb4g5r2~x4~t2405244-lb3203246/sett.png" alt="Annapolis Valley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

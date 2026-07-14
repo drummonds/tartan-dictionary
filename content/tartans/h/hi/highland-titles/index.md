@@ -16,10 +16,10 @@ Its design is pattern [BKBWBKBRBKBYBKBR](/stripes/bkbwbkbrbkbybkbr/) — the pag
 The **Highland Titles** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/">Highland Titles</a></td><td><code>R/40 DBi25 K20 DB15 LY6 DB15 K20 DBi25 R40 DBi25 K20 DB15 W4 DB15 K20 DBi/25</code></td><td>595</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/"><img src="/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/sett.png" alt="Highland Titles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/">Highland Titles</a></td><td></td><td><code>R/40 DBi25 K20 DB15 LY6 DB15 K20 DBi25 R40 DBi25 K20 DB15 W4 DB15 K20 DBi/25</code></td><td>595</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/"><img src="/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/sett.png" alt="Highland Titles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

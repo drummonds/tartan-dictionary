@@ -22,12 +22,12 @@ The **Frame** tartan groups 2 setts — the same named design recorded as differ
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/">Frame</a> ★</td><td><code>G/16 DY56 R4 DY4 G4 DY4 R4 DY56 R56 DY4 R4 G/4</code></td><td>412</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/"><img src="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/sett.png" alt="Frame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/">Ferniegair (Personal)</a></td><td><code>DG/16 DY56 R4 DY4 DG4 DY4 R4 DY56 R56 DY4 R4 DG/4</code></td><td>412</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/"><img src="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/sett.png" alt="Ferniegair (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/">Frame</a> ★</td><td></td><td><code>G/16 DY56 R4 DY4 G4 DY4 R4 DY56 R56 DY4 R4 G/4</code></td><td>412</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/"><img src="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/sett.png" alt="Frame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/">Ferniegair (Personal)</a></td><td>0.07</td><td><code>DG/16 DY56 R4 DY4 DG4 DY4 R4 DY56 R56 DY4 R4 DG/4</code></td><td>412</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/"><img src="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/sett.png" alt="Ferniegair (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

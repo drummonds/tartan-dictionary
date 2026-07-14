@@ -13,10 +13,10 @@ Its design is pattern [GYBGBGBGW](/stripes/gybgbgbgw/) — the page of every tar
 The **Tinkler, Andrew** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/">Tinkler, Andrew</a></td><td><code>G/8 LY36 DO24 DY12 DO8 DY12 DO8 DY40 W/8</code></td><td>296</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><img src="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/sett.png" alt="Tinkler, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/">Tinkler, Andrew</a></td><td></td><td><code>G/8 LY36 DO24 DY12 DO8 DY12 DO8 DY40 W/8</code></td><td>296</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><img src="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/sett.png" alt="Tinkler, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GGKRBW](/stripes/ggkrbw/) — the page of every tartan sh
 The **Morris of Balgonie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w3b22r3k22g22y2~x2/">Morris of Balgonie</a></td><td><code>W/6 B44 R6 K44 G44 Y/4</code></td><td>286</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w3b22r3k22g22y2~x2/"><img src="/variants/s6/w3b22r3k22g22y2~x2/sett.png" alt="Morris of Balgonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w3b22r3k22g22y2~x2/">Morris of Balgonie</a></td><td></td><td><code>W/6 B44 R6 K44 G44 Y/4</code></td><td>286</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w3b22r3k22g22y2~x2/"><img src="/variants/s6/w3b22r3k22g22y2~x2/sett.png" alt="Morris of Balgonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

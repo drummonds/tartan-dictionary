@@ -13,10 +13,10 @@ Its design is pattern [GKRKGKWGKGY](/stripes/gkrkgkwgkgy/) — the page of every
 The **Offally County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12ly10/">Offally County Crest</a></td><td><code>Y/24 K8 R4 K6 G76 K8 W14 G4 K9 G12 LY/10</code></td><td>316</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12ly10/"><img src="/variants/s11/y24k8r4k6g76k8w14g4k9g12ly10/sett.png" alt="Offally County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12ly10/">Offally County Crest</a></td><td></td><td><code>Y/24 K8 R4 K6 G76 K8 W14 G4 K9 G12 LY/10</code></td><td>316</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12ly10/"><img src="/variants/s11/y24k8r4k6g76k8w14g4k9g12ly10/sett.png" alt="Offally County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

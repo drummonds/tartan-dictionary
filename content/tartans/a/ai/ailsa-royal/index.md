@@ -18,10 +18,10 @@ One of a series of dancers' tartans designed by Kirsty Anderson for House of Edg
 The **Ailsa Royal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dbi8lb3dbi28w32db3w4~x2~dbi1406275-db1404245/">Ailsa Royal</a></td><td><code>DBi/16 LB6 DBi56 W64 DB6 W/8</code></td><td>288</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dbi8lb3dbi28w32db3w4~x2~dbi1406275-db1404245/"><img src="/variants/s6/dbi8lb3dbi28w32db3w4~x2~dbi1406275-db1404245/sett.png" alt="Ailsa Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dbi8lb3dbi28w32db3w4~x2~dbi1406275-db1404245/">Ailsa Royal</a></td><td></td><td><code>DBi/16 LB6 DBi56 W64 DB6 W/8</code></td><td>288</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dbi8lb3dbi28w32db3w4~x2~dbi1406275-db1404245/"><img src="/variants/s6/dbi8lb3dbi28w32db3w4~x2~dbi1406275-db1404245/sett.png" alt="Ailsa Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

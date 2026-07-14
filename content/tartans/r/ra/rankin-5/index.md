@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRKRBWBRKRRBRBRBW](/stripes/brbrbrkrbwbrkrrbrbrbw/) â
 The **Rankin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2~n1900000-o2500000/">Rankin</a></td><td><code>N/28 O2 N2 O2 N2 O18 K12 R2 N10 W2 N10 R2 K12 O18 R2 N10 R4 N4 R2 N4 W/2</code></td><td>270</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2~n1900000-o2500000/"><img src="/variants/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2~n1900000-o2500000/sett.png" alt="Rankin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2~n1900000-o2500000/">Rankin</a></td><td></td><td><code>N/28 O2 N2 O2 N2 O18 K12 R2 N10 W2 N10 R2 K12 O18 R2 N10 R4 N4 R2 N4 W/2</code></td><td>270</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2~n1900000-o2500000/"><img src="/variants/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2~n1900000-o2500000/sett.png" alt="Rankin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

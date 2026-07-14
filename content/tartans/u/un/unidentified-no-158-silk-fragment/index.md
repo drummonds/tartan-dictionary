@@ -13,10 +13,10 @@ Its design is pattern [BKRKRKRKGKGRW](/stripes/bkrkrkrkgkgrw/) — the page of e
 The **Unidentified No 158 Silk Fragment** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/">Unidentified No 158 Silk Fragment</a></td><td><code>DB/16 K2 R8 K2 R8 K2 R8 K2 G16 K2 Y2 R2 W/2</code></td><td>126</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/"><img src="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/sett.png" alt="Unidentified No 158 Silk Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/">Unidentified No 158 Silk Fragment</a></td><td></td><td><code>DB/16 K2 R8 K2 R8 K2 R8 K2 G16 K2 Y2 R2 W/2</code></td><td>126</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/"><img src="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/sett.png" alt="Unidentified No 158 Silk Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

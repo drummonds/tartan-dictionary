@@ -13,11 +13,11 @@ Its design is pattern [BYKBKBG](/stripes/bykbkbg/) — the page of every tartan 
 The **City of Rome Pipe Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dr12lo6k88db45k6db6y6/">City of Rome Pipe Band</a></td><td><code>DR/12 LO6 K88 DB45 K6 DB6 Y/6</code></td><td>320</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr12lo6k88db45k6db6y6/"><img src="/variants/s7/dr12lo6k88db45k6db6y6/sett.png" alt="City of Rome Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/dr12lo6k88db45k6db6y6/">(Corporate)</a> · <a href="/variants/s7/dr12lo6k88db45k6db6y6~db1406275/">City of Rome Pipe Band</a></td></tr>
+<tr><td><a href="/variants/s7/dr12lo6k88db45k6db6y6/">City of Rome Pipe Band</a></td><td></td><td><code>DR/12 LO6 K88 DB45 K6 DB6 Y/6</code></td><td>320</td><td>~2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr12lo6k88db45k6db6y6/"><img src="/variants/s7/dr12lo6k88db45k6db6y6/sett.png" alt="City of Rome Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/dr12lo6k88db45k6db6y6/">(Corporate)</a> · <a href="/variants/s7/dr12lo6k88db45k6db6y6~db1406275/">City of Rome Pipe Band</a></td></tr>
 </tbody>
 </table>
 

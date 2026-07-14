@@ -18,10 +18,10 @@ Its design is pattern [BKBBBBYBKBBBK](/stripes/bkbbbbybkbbbk/) — the page of e
 The **Wcwm 1445** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/">Wcwm 1445</a></td><td><code>DB/12 K4 DR4 N96 DR4 N16 LO12 DB4 K16 DR4 N32 DR4 K/4</code></td><td>408</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/"><img src="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/sett.png" alt="Wcwm 1445 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/">Wcwm 1445</a></td><td></td><td><code>DB/12 K4 DR4 N96 DR4 N16 LO12 DB4 K16 DR4 N32 DR4 K/4</code></td><td>408</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/"><img src="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/sett.png" alt="Wcwm 1445 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

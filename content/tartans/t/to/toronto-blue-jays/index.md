@@ -13,10 +13,10 @@ Its design is pattern [RBWBBBBBWBW](/stripes/rbwbbbbbwbw/) — the page of every
 The **Toronto Blue Jays** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/">Toronto Blue Jays</a></td><td><code>R/4 DP2 LB26 N26 DP8 N8 DP8 N8 LB26 DP2 W/4</code></td><td>236</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/"><img src="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/sett.png" alt="Toronto Blue Jays sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/">Toronto Blue Jays</a></td><td></td><td><code>R/4 DP2 LB26 N26 DP8 N8 DP8 N8 LB26 DP2 W/4</code></td><td>236</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/"><img src="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/sett.png" alt="Toronto Blue Jays sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

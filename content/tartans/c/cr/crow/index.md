@@ -13,10 +13,10 @@ Its design is pattern [GBGBGBGY](/stripes/gbgbgbgy/) — the page of every tarta
 The **Crow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/">Crow</a></td><td><code>G/8 DB8 G24 DB16 G12 DB16 G72 LY/8</code></td><td>312</td><td>1953</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/"><img src="/variants/s8/g2db2g6db4g3db4g18ly2~x4/sett.png" alt="Crow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/">Crow</a></td><td></td><td><code>G/8 DB8 G24 DB16 G12 DB16 G72 LY/8</code></td><td>312</td><td>1953</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/"><img src="/variants/s8/g2db2g6db4g3db4g18ly2~x4/sett.png" alt="Crow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

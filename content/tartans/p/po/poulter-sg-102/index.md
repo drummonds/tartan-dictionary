@@ -16,10 +16,10 @@ Its design is pattern [WBWBKWKBWBWBW](/stripes/wbwbkwkbwbwbw/) — the page of e
 The **Poulter SG 102** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/">Poulter SG 102</a></td><td><code>W/25 DP8 W8 DP8 W8 DP46 K46 LP8 K46 DP46 W46 DP8 W/8</code></td><td>589</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><img src="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/sett.png" alt="Poulter SG 102 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/">Poulter SG 102</a></td><td></td><td><code>W/25 DP8 W8 DP8 W8 DP46 K46 LP8 K46 DP46 W46 DP8 W/8</code></td><td>589</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><img src="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/sett.png" alt="Poulter SG 102 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

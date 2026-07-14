@@ -13,10 +13,10 @@ Its design is pattern [BKBGWGWGWGBKBK](/stripes/bkbgwgwgwgbkbk/) — the page of
 The **Ship Hector, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/">Ship Hector, The</a></td><td><code>DB/20 K10 DB32 G6 W32 G10 W6 G10 W32 G6 DB32 K10 DB20 K/6</code></td><td>438</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/"><img src="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/sett.png" alt="Ship Hector, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/">Ship Hector, The</a></td><td></td><td><code>DB/20 K10 DB32 G6 W32 G10 W6 G10 W32 G6 DB32 K10 DB20 K/6</code></td><td>438</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/"><img src="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/sett.png" alt="Ship Hector, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

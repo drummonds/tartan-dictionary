@@ -22,16 +22,16 @@ The **MacBain** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/">MacBain</a> ★</td><td><code>R/60 W2 LB5 K2 W2 K2 LB5 W2 K2 G12 K2 W2 R5 DR5 G2 DR5 R5 W2 G/10</code></td><td>194</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/"><img src="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/sett.png" alt="MacBain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/">MacBain</a></td><td><code>R/60 W2 LB5 K2 W2 K2 LB5 W2 K2 G12 K2 W2 R5 DR5 G2 DR5 R5 W2 G/10</code></td><td>194</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~x2~r1908029/">MacBain</a></td><td><code>R/120 W4 LB10 K4 W4 K4 LB10 W4 K4 G24 K4 W4 R10 DR10 G4 DR10 R10 W4 G/20</code></td><td>388</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/">MacBain</a> · <a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~x2~r1908029/">MacBain</a></td></tr>
-<tr><td><a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2109032-r1807008/">/MacBean</a></td><td><code>Ri/120 W4 LB10 K4 W4 K4 LB10 W4 K4 G24 K4 W4 Ri10 R10 G4 R10 Ri10 W4 G/20</code></td><td>388</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2109032-r1807008/"><img src="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2109032-r1807008/sett.png" alt="/MacBean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2008029-r1707016/">/MacBean</a> · <a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2109032-r1807008/">Clan Tartan</a></td></tr>
+<tr><td><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/">MacBain</a> ★</td><td></td><td><code>R/60 W2 LB5 K2 W2 K2 LB5 W2 K2 G12 K2 W2 R5 DR5 G2 DR5 R5 W2 G/10</code></td><td>194</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/"><img src="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/sett.png" alt="MacBain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/">MacBain</a></td><td>0.00</td><td><code>R/60 W2 LB5 K2 W2 K2 LB5 W2 K2 G12 K2 W2 R5 DR5 G2 DR5 R5 W2 G/10</code></td><td>194</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~x2~r1908029/">MacBain</a></td><td>0.00</td><td><code>R/120 W4 LB10 K4 W4 K4 LB10 W4 K4 G24 K4 W4 R10 DR10 G4 DR10 R10 W4 G/20</code></td><td>388</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/">MacBain</a> · <a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~x2~r1908029/">MacBain</a></td></tr>
+<tr><td><a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2109032-r1807008/">/MacBean</a></td><td>0.09</td><td><code>Ri/120 W4 LB10 K4 W4 K4 LB10 W4 K4 G24 K4 W4 Ri10 R10 G4 R10 Ri10 W4 G/20</code></td><td>388</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2109032-r1807008/"><img src="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2109032-r1807008/sett.png" alt="/MacBean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2008029-r1707016/">/MacBean</a> · <a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2109032-r1807008/">Clan Tartan</a></td></tr>
 </tbody>
 </table>
 

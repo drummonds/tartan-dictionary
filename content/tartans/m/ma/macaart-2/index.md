@@ -18,10 +18,10 @@ Its design is pattern [BGKYKGBGKGK](/stripes/bgkykgbgkgk/) — the page of every
 The **MacAart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dr3g6k1lo1k1g6dr2dy2k2dy9k2~x4/">MacAart</a></td><td><code>DR/12 G24 K4 LO4 K4 G24 DR8 DY8 K8 DY36 K/8</code></td><td>260</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dr3g6k1lo1k1g6dr2dy2k2dy9k2~x4/"><img src="/variants/s11/dr3g6k1lo1k1g6dr2dy2k2dy9k2~x4/sett.png" alt="MacAart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dr3g6k1lo1k1g6dr2dy2k2dy9k2~x4/">MacAart</a></td><td></td><td><code>DR/12 G24 K4 LO4 K4 G24 DR8 DY8 K8 DY36 K/8</code></td><td>260</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dr3g6k1lo1k1g6dr2dy2k2dy9k2~x4/"><img src="/variants/s11/dr3g6k1lo1k1g6dr2dy2k2dy9k2~x4/sett.png" alt="MacAart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBKBGBKBKBKBKBB](/stripes/bbkbgbkbkbkbkbb/) — the page 
 The **ShadowHalls** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/">ShadowHalls</a></td><td><code>DTi/4 DT16 K44 DT4 K4 DT4 K4 DTi4 K44 N16 G4 N32 K32 DT32 N/4</code></td><td>488</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/"><img src="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/sett.png" alt="ShadowHalls sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/">ShadowHalls</a></td><td></td><td><code>DTi/4 DT16 K44 DT4 K4 DT4 K4 DTi4 K44 N16 G4 N32 K32 DT32 N/4</code></td><td>488</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/"><img src="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/sett.png" alt="ShadowHalls sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

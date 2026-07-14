@@ -18,10 +18,10 @@ Designed for a House of Edgar collection, evoking a gray morning suit.
 The **Hebridean Granite** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/">Hebridean Granite</a></td><td><code>LB/8 O8 K8 O36 K6 N72 W6 N72 K6 O36 K8 O8 LB8 O/6</code></td><td>562</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/"><img src="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/sett.png" alt="Hebridean Granite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/">Hebridean Granite</a></td><td></td><td><code>LB/8 O8 K8 O36 K6 N72 W6 N72 K6 O36 K8 O8 LB8 O/6</code></td><td>562</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/"><img src="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/sett.png" alt="Hebridean Granite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

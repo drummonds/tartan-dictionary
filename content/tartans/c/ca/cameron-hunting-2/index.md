@@ -22,15 +22,15 @@ The **Cameron Hunting** tartan groups 2 setts — the same named design recorded
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r3g10r3g14db16g3y2~x2/">Cameron Hunting</a> ★</td><td><code>R/3 G10 R3 G14 DB16 G3 Y/2</code></td><td>97</td><td>1940</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><img src="/variants/s7/r3g10r3g14db16g3y2~x2/sett.png" alt="Cameron Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/r3g10r3g14db16g3y2/">Cameron Hunting</a></td><td><code>R/3 G10 R3 G14 DB16 G3 Y/2</code></td><td>97</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r3g10r3g14db16g3y2~x2/">Cameron of Lochiel (Hunting)</a></td><td><code>R/6 G20 R6 G28 DB32 G6 Y/4</code></td><td>194</td><td>1940</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r3g10r3g14db16g3y2/">Cameron Hunting</a> · <a href="/variants/s7/r3g10r3g14db16g3y2~x2/">Cameron of Lochiel (Hunting)</a></td></tr>
-<tr><td><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/">Clan Tartan</a></td><td><code>R/6 G20 R6 G28 DB32 G6 DY/4</code></td><td>194</td><td>1956</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><img src="/variants/s7/r3g10r3g14db16g3dy2~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3g10r3g14db16g3y2~x2/">Cameron Hunting</a> ★</td><td></td><td><code>R/3 G10 R3 G14 DB16 G3 Y/2</code></td><td>97</td><td>1940</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><img src="/variants/s7/r3g10r3g14db16g3y2~x2/sett.png" alt="Cameron Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/r3g10r3g14db16g3y2/">Cameron Hunting</a></td><td>0.00</td><td><code>R/3 G10 R3 G14 DB16 G3 Y/2</code></td><td>97</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r3g10r3g14db16g3y2~x2/">Cameron of Lochiel (Hunting)</a></td><td>0.00</td><td><code>R/6 G20 R6 G28 DB32 G6 Y/4</code></td><td>194</td><td>1940</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/r3g10r3g14db16g3y2/">Cameron Hunting</a> · <a href="/variants/s7/r3g10r3g14db16g3y2~x2/">Cameron of Lochiel (Hunting)</a></td></tr>
+<tr><td><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/">Clan Tartan</a></td><td>0.02</td><td><code>R/6 G20 R6 G28 DB32 G6 DY/4</code></td><td>194</td><td>1956</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><img src="/variants/s7/r3g10r3g14db16g3dy2~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

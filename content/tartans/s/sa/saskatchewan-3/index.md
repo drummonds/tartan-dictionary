@@ -18,11 +18,11 @@ Its design is pattern [GYRYGGKW](/stripes/gyryggkw/) — the page of every tarta
 The **Saskatchewan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/">Saskatchewan</a></td><td><code>Y/4 LY2 R4 LY52 DY22 G12 K2 W/4</code></td><td>196</td><td>1959</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/"><img src="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/sett.png" alt="Saskatchewan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2/">(District)</a> · <a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~dy1603076/">Saskatchewan</a> · <a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/">District Tartan</a></td></tr>
+<tr><td><a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/">Saskatchewan</a></td><td></td><td><code>Y/4 LY2 R4 LY52 DY22 G12 K2 W/4</code></td><td>196</td><td>1959</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/"><img src="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/sett.png" alt="Saskatchewan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2/">(District)</a> · <a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~dy1603076/">Saskatchewan</a> · <a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/">District Tartan</a></td></tr>
 </tbody>
 </table>
 

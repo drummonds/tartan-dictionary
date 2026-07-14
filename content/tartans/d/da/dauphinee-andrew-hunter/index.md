@@ -16,10 +16,10 @@ Its design is pattern [BWBBBBBBR](/stripes/bwbbbbbbr/) — the page of every tar
 The **Dauphinee, Andrew Hunter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/">Dauphinee, Andrew Hunter</a></td><td><code>R/6 N64 DB4 N6 DB8 N4 DB32 W2 DB/2</code></td><td>248</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><img src="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/sett.png" alt="Dauphinee, Andrew Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/">Dauphinee, Andrew Hunter</a></td><td></td><td><code>R/6 N64 DB4 N6 DB8 N4 DB32 W2 DB/2</code></td><td>248</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><img src="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/sett.png" alt="Dauphinee, Andrew Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

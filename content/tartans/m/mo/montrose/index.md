@@ -18,10 +18,10 @@ Its design is pattern [GYGKBW](/stripes/gygkbw/) — the page of every tartan sh
 The **Montrose** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dg6lo3dg26k10n30lb3~x2/">Montrose</a></td><td><code>DG/12 LO6 DG52 K20 N60 LB/6</code></td><td>294</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg6lo3dg26k10n30lb3~x2/"><img src="/variants/s6/dg6lo3dg26k10n30lb3~x2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg6lo3dg26k10n30lb3~x2/">Montrose</a></td><td></td><td><code>DG/12 LO6 DG52 K20 N60 LB/6</code></td><td>294</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dg6lo3dg26k10n30lb3~x2/"><img src="/variants/s6/dg6lo3dg26k10n30lb3~x2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

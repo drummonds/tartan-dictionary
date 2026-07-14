@@ -13,10 +13,10 @@ Its design is pattern [GGKWKGKWGWKGKWG](/stripes/ggkwkgkwgwkgkwg/) — the page 
 The **Massie/Massey** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/">Massie/Massey</a></td><td><code>DY/58 G34 K2 W6 K2 Y4 K20 LB16 DY8 LB16 K20 Y4 K2 W6 DY/58</code></td><td>396</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/"><img src="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/sett.png" alt="Massie/Massey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/">Massie/Massey</a></td><td></td><td><code>DY/58 G34 K2 W6 K2 Y4 K20 LB16 DY8 LB16 K20 Y4 K2 W6 DY/58</code></td><td>396</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/"><img src="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/sett.png" alt="Massie/Massey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

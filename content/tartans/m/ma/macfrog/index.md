@@ -13,10 +13,10 @@ Its design is pattern [GWGBKGBR](/stripes/gwgbkgbr/) — the page of every tarta
 The **MacFrog** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r3db20g3k20db3g20w3g3~x2/">MacFrog</a></td><td><code>R/6 DB40 G6 K40 DB6 G40 W6 G/6</code></td><td>288</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r3db20g3k20db3g20w3g3~x2/"><img src="/variants/s8/r3db20g3k20db3g20w3g3~x2/sett.png" alt="MacFrog sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r3db20g3k20db3g20w3g3~x2/">MacFrog</a></td><td></td><td><code>R/6 DB40 G6 K40 DB6 G40 W6 G/6</code></td><td>288</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r3db20g3k20db3g20w3g3~x2/"><img src="/variants/s8/r3db20g3k20db3g20w3g3~x2/sett.png" alt="MacFrog sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

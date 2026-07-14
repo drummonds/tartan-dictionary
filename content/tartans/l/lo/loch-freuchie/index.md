@@ -16,14 +16,14 @@ The **Loch Freuchie** tartan groups 3 setts — the same named design recorded a
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/">Loch Freuchie</a> ★</td><td><code>R/6 DB6 K4 DB26 Y4 K50 G40 R4 G6 LB/6</code></td><td>292</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/"><img src="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/sett.png" alt="Loch Freuchie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r3db3k2db13k27g20r2g3lb3~x2/">District Tartan</a></td><td><code>R/6 DB6 K4 DB26 K54 G40 R4 G6 LB/6</code></td><td>292</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3db3k2db13k27g20r2g3lb3~x2/"><img src="/variants/s9/r3db3k2db13k27g20r2g3lb3~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/r3db3k2db18ly2k25g20r2g3lb3~x2/">(District)</a></td><td><code>R/6 DB6 K4 DB36 LY4 K50 G40 R4 G6 LB/6</code></td><td>312</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r3db3k2db18ly2k25g20r2g3lb3~x2/"><img src="/variants/s10/r3db3k2db18ly2k25g20r2g3lb3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/">Loch Freuchie</a> ★</td><td></td><td><code>R/6 DB6 K4 DB26 Y4 K50 G40 R4 G6 LB/6</code></td><td>292</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/"><img src="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/sett.png" alt="Loch Freuchie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3db3k2db13k27g20r2g3lb3~x2/">District Tartan</a></td><td>0.37</td><td><code>R/6 DB6 K4 DB26 K54 G40 R4 G6 LB/6</code></td><td>292</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r3db3k2db13k27g20r2g3lb3~x2/"><img src="/variants/s9/r3db3k2db13k27g20r2g3lb3~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r3db3k2db18ly2k25g20r2g3lb3~x2/">(District)</a></td><td>0.10</td><td><code>R/6 DB6 K4 DB36 LY4 K50 G40 R4 G6 LB/6</code></td><td>312</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r3db3k2db18ly2k25g20r2g3lb3~x2/"><img src="/variants/s10/r3db3k2db18ly2k25g20r2g3lb3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

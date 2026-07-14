@@ -14,13 +14,13 @@ The **St. Combs Fisher** tartan is one sett, recorded at 2 scales — the same p
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s2/db1t1~x14/">St. Combs Fisher</a></td><td><code>DB/1 T/1</code></td><td>2</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s2/db1t1~x14/"><img src="/variants/s2/db1t1~x14/sett.png" alt="St. Combs Fisher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×14 — <a href="/variants/s2/db1t1~x14/">Plaid</a></td><td><code>DB/14 T/14</code></td><td>28</td><td>1800</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/db1t1~x100/">Rob Roy, Blue (Fashion)</a></td><td><code>DB/100 T/100</code></td><td>200</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s2/db1t1~x100/">Rob Roy, Blue (Fashion)</a> · <a href="/variants/s2/db1t1~x14/">Plaid</a></td></tr>
+<tr><td><a href="/variants/s2/db1t1~x14/">St. Combs Fisher</a></td><td></td><td><code>DB/1 T/1</code></td><td>2</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s2/db1t1~x14/"><img src="/variants/s2/db1t1~x14/sett.png" alt="St. Combs Fisher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×14 — <a href="/variants/s2/db1t1~x14/">Plaid</a></td><td>0.00</td><td><code>DB/14 T/14</code></td><td>28</td><td>1800</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/db1t1~x100/">Rob Roy, Blue (Fashion)</a></td><td>0.00</td><td><code>DB/100 T/100</code></td><td>200</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s2/db1t1~x100/">Rob Roy, Blue (Fashion)</a> · <a href="/variants/s2/db1t1~x14/">Plaid</a></td></tr>
 </tbody>
 </table>
 

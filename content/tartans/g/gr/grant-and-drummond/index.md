@@ -16,10 +16,10 @@ Its design is pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/) — the page 
 The **Grant and Drummond** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/">Grant and Drummond</a></td><td><code>R/6 DB4 R4 G76 R4 G4 R4 DB20 R4 LB4 R74 DB4 R4 DB4 R/6</code></td><td>432</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/"><img src="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/sett.png" alt="Grant and Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/">Grant and Drummond</a></td><td></td><td><code>R/6 DB4 R4 G76 R4 G4 R4 DB20 R4 LB4 R74 DB4 R4 DB4 R/6</code></td><td>432</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/"><img src="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/sett.png" alt="Grant and Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

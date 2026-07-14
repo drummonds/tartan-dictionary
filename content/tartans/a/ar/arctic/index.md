@@ -18,10 +18,10 @@ Its design is pattern [BWWWWRGKWBBW](/stripes/bwwwwrgkwbbw/) — the page of eve
 The **Arctic** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/t1w6lb1w1lb2r2dg2k2w1t2db16w1~x4/">Arctic</a></td><td><code>T/4 W24 LB4 W4 LB8 R8 DG8 K8 W4 T8 DB64 W/4</code></td><td>288</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/t1w6lb1w1lb2r2dg2k2w1t2db16w1~x4/"><img src="/variants/s12/t1w6lb1w1lb2r2dg2k2w1t2db16w1~x4/sett.png" alt="Arctic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/t1w6lb1w1lb2r2dg2k2w1t2db16w1~x4/">Arctic</a></td><td></td><td><code>T/4 W24 LB4 W4 LB8 R8 DG8 K8 W4 T8 DB64 W/4</code></td><td>288</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/t1w6lb1w1lb2r2dg2k2w1t2db16w1~x4/"><img src="/variants/s12/t1w6lb1w1lb2r2dg2k2w1t2db16w1~x4/sett.png" alt="Arctic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

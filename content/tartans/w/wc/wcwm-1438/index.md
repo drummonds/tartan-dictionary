@@ -18,10 +18,10 @@ Its design is pattern [BBKYKWKGBKBWBKBG](/stripes/bbkykwkgbkbwbkbg/) — the pag
 The **Wcwm 1438** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dr100b6k14ly2k3w3k4dg14dr6k3dr3w2dr3k3dr6dg14~x2/">Wcwm 1438</a></td><td><code>DR/200 B12 K28 LY4 K6 W6 K8 DG28 DR12 K6 DR6 W4 DR6 K6 DR12 DG/28</code></td><td>516</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dr100b6k14ly2k3w3k4dg14dr6k3dr3w2dr3k3dr6dg14~x2/"><img src="/variants/s16/dr100b6k14ly2k3w3k4dg14dr6k3dr3w2dr3k3dr6dg14~x2/sett.png" alt="Wcwm 1438 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dr100b6k14ly2k3w3k4dg14dr6k3dr3w2dr3k3dr6dg14~x2/">Wcwm 1438</a></td><td></td><td><code>DR/200 B12 K28 LY4 K6 W6 K8 DG28 DR12 K6 DR6 W4 DR6 K6 DR12 DG/28</code></td><td>516</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dr100b6k14ly2k3w3k4dg14dr6k3dr3w2dr3k3dr6dg14~x2/"><img src="/variants/s16/dr100b6k14ly2k3w3k4dg14dr6k3dr3w2dr3k3dr6dg14~x2/sett.png" alt="Wcwm 1438 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

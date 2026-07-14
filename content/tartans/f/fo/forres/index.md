@@ -13,10 +13,10 @@ Its design is pattern [BBKGYG](/stripes/bbkgyg/) — the page of every tartan sh
 The **Forres** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g2lo1g5k4do5dr1~x4/">Forres</a></td><td><code>G/8 LO4 G20 K16 DO20 DR/4</code></td><td>132</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g2lo1g5k4do5dr1~x4/"><img src="/variants/s6/g2lo1g5k4do5dr1~x4/sett.png" alt="Forres sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g2lo1g5k4do5dr1~x4/">Forres</a></td><td></td><td><code>G/8 LO4 G20 K16 DO20 DR/4</code></td><td>132</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g2lo1g5k4do5dr1~x4/"><img src="/variants/s6/g2lo1g5k4do5dr1~x4/sett.png" alt="Forres sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

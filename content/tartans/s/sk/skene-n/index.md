@@ -17,13 +17,13 @@ The **Skene N** tartan is one sett, recorded at 2 scales — the same proportion
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/">Skene N</a></td><td><code>K/4 DB24 K4 R3 K4 G24 K4 Y3 K4 G24 R3 K/4</code></td><td>202</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/"><img src="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/sett.png" alt="Skene N sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/">Skene N</a></td><td><code>K/4 DB24 K4 R3 K4 G24 K4 Y3 K4 G24 R3 K/4</code></td><td>202</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/">Skene N</a></td><td><code>K/8 DB48 K8 R6 K8 G48 K8 Y6 K8 G48 R6 K/8</code></td><td>404</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/">Skene N</a> · <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~r1908029-y1904072/">Skene N</a> · <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/">Skene N</a></td></tr>
+<tr><td><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/">Skene N</a></td><td></td><td><code>K/4 DB24 K4 R3 K4 G24 K4 Y3 K4 G24 R3 K/4</code></td><td>202</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/"><img src="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/sett.png" alt="Skene N sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/">Skene N</a></td><td>0.00</td><td><code>K/4 DB24 K4 R3 K4 G24 K4 Y3 K4 G24 R3 K/4</code></td><td>202</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/">Skene N</a></td><td>0.31</td><td><code>K/8 DB48 K8 R6 K8 G48 K8 Y6 K8 G48 R6 K/8</code></td><td>404</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/">Skene N</a> · <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~r1908029-y1904072/">Skene N</a> · <a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/">Skene N</a></td></tr>
 </tbody>
 </table>
 

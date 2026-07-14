@@ -13,10 +13,10 @@ Its design is pattern [BKBKGKGW](/stripes/bkbkgkgw/) — the page of every tarta
 The **Meiklejohn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/">Meiklejohn</a></td><td><code>DR/4 K26 DB8 K26 DG12 K34 DG46 W/2</code></td><td>310</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/"><img src="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/sett.png" alt="Meiklejohn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/">Meiklejohn</a></td><td></td><td><code>DR/4 K26 DB8 K26 DG12 K34 DG46 W/2</code></td><td>310</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/"><img src="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/sett.png" alt="Meiklejohn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -22,12 +22,12 @@ The **Dauphinee** tartan groups 2 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/">Dauphinee</a> ★</td><td><code>R/18 K8 W12 K8 DB42 Y6 DB26 K4 W8 K4 R/12</code></td><td>266</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/"><img src="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/sett.png" alt="Dauphinee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/">(Personal)</a></td><td><code>R/18 K8 W12 K8 DB42 LY6 DB26 K4 W8 K4 R/12</code></td><td>266</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/"><img src="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/">Dauphinee</a> ★</td><td></td><td><code>R/18 K8 W12 K8 DB42 Y6 DB26 K4 W8 K4 R/12</code></td><td>266</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/"><img src="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/sett.png" alt="Dauphinee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/">(Personal)</a></td><td>0.02</td><td><code>R/18 K8 W12 K8 DB42 LY6 DB26 K4 W8 K4 R/12</code></td><td>266</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/"><img src="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

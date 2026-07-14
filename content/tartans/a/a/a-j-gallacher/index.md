@@ -13,10 +13,10 @@ Its design is pattern [GBKBKBRBRBRWBWBWBWBWBWBWG](/stripes/gbkbkbrbrbrwbwbwbwbwb
 The **A J Gallacher** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2~x2/">A J Gallacher</a></td><td><code>DG/6 W2 B8 W2 B6 W4 B6 W4 B4 W6 B4 W6 B2 W8 R40 DR2 R2 DR2 R2 DR14 K6 B2 K2 B2 DG/4</code></td><td>282</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2~x2/"><img src="/variants/s25/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2~x2/sett.png" alt="A J Gallacher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2~x2/">A J Gallacher</a></td><td></td><td><code>DG/6 W2 B8 W2 B6 W4 B6 W4 B4 W6 B4 W6 B2 W8 R40 DR2 R2 DR2 R2 DR14 K6 B2 K2 B2 DG/4</code></td><td>282</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2~x2/"><img src="/variants/s25/dg3w1b4w1b3w2b3w2b2w3b2w3b1w4r20dr1r1dr1r1dr7k3b1k1b1dg2~x2/sett.png" alt="A J Gallacher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

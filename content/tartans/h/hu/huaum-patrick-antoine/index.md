@@ -13,10 +13,10 @@ Its design is pattern [GBBBBGKWGBK](/stripes/gbbbbgkwgbk/) — the page of every
 The **Huaum, Patrick Antoine )** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/">Huaum, Patrick Antoine )</a></td><td><code>G/10 DB9 DP4 DR2 DP4 G6 K10 W4 G24 DB60 K/4</code></td><td>260</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><img src="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/sett.png" alt="Huaum, Patrick Antoine ) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/">Huaum, Patrick Antoine )</a></td><td></td><td><code>G/10 DB9 DP4 DR2 DP4 G6 K10 W4 G24 DB60 K/4</code></td><td>260</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><img src="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/sett.png" alt="Huaum, Patrick Antoine ) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

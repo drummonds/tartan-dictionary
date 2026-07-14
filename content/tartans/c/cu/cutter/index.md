@@ -13,10 +13,10 @@ Its design is pattern [GRBRBRBRBRRR](/stripes/grbrbrbrbrrr/) — the page of eve
 The **Cutter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r2ri2r14db2r2db5r2db2r2db12r1y1~x4~r2109032-ri2307033/">Cutter</a></td><td><code>R/2 Ri2 R14 DB2 R2 DB5 R2 DB2 R2 DB12 R1 Y/1</code></td><td>—</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r2ri2r14db2r2db5r2db2r2db12r1y1~x4~r2109032-ri2307033/"><img src="/variants/s12/r2ri2r14db2r2db5r2db2r2db12r1y1~x4~r2109032-ri2307033/sett.png" alt="Cutter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r2ri2r14db2r2db5r2db2r2db12r1y1~x4~r2109032-ri2307033/">Cutter</a></td><td></td><td><code>R/2 Ri2 R14 DB2 R2 DB5 R2 DB2 R2 DB12 R1 Y/1</code></td><td>—</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r2ri2r14db2r2db5r2db2r2db12r1y1~x4~r2109032-ri2307033/"><img src="/variants/s12/r2ri2r14db2r2db5r2db2r2db12r1y1~x4~r2109032-ri2307033/sett.png" alt="Cutter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

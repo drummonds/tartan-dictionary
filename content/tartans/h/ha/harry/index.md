@@ -15,10 +15,10 @@ Welsh surname tartan with differing warp and weft creating vertical stripes; wov
 The **Harry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db6n3db3n15r7db7r5db17r46n4/">Harry</a></td><td><code>DB/6 N3 DB3 N15 R7 DB7 R5 DB17 R46 N/4</code></td><td>216</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db6n3db3n15r7db7r5db17r46n4/"><img src="/variants/s10/db6n3db3n15r7db7r5db17r46n4/sett.png" alt="Harry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db6n3db3n15r7db7r5db17r46n4/">Harry</a></td><td></td><td><code>DB/6 N3 DB3 N15 R7 DB7 R5 DB17 R46 N/4</code></td><td>216</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db6n3db3n15r7db7r5db17r46n4/"><img src="/variants/s10/db6n3db3n15r7db7r5db17r46n4/sett.png" alt="Harry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

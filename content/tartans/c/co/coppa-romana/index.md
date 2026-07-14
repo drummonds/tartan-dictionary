@@ -15,12 +15,12 @@ The **Coppa Romana** tartan groups 2 setts — the same named design recorded as
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/">Coppa Romana</a> ★</td><td><code>K/34 Y4 K4 Y4 K18 LB22 K4 LB22 K40 Y/4</code></td><td>274</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/"><img src="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/sett.png" alt="Coppa Romana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/">(Corporate)</a></td><td><code>K/34 LY4 K4 LY4 K18 LB22 K4 LB22 K40 LY/4</code></td><td>274</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/"><img src="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/">Coppa Romana</a> ★</td><td></td><td><code>K/34 Y4 K4 Y4 K18 LB22 K4 LB22 K40 Y/4</code></td><td>274</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/"><img src="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/sett.png" alt="Coppa Romana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/">(Corporate)</a></td><td>0.04</td><td><code>K/34 LY4 K4 LY4 K18 LB22 K4 LB22 K40 LY/4</code></td><td>274</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/"><img src="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

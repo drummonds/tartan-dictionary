@@ -18,10 +18,10 @@ Its design is pattern [BKBKBK](/stripes/bkbkbk/) — the page of every tartan sh
 The **Slanj** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k3n25k3n3k21n3~x2/">Slanj</a></td><td><code>K/6 N50 K6 N6 K42 N/6</code></td><td>220</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3n25k3n3k21n3~x2/"><img src="/variants/s6/k3n25k3n3k21n3~x2/sett.png" alt="Slanj sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3n25k3n3k21n3~x2/">Slanj</a></td><td></td><td><code>K/6 N50 K6 N6 K42 N/6</code></td><td>220</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k3n25k3n3k21n3~x2/"><img src="/variants/s6/k3n25k3n3k21n3~x2/sett.png" alt="Slanj sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GYRKRKRKRK](/stripes/gyrkrkrkrk/) — the page of every t
 The **Hannay Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/">Hannay Dress</a></td><td><code>K/18 R8 K4 R8 K4 R58 K18 R8 LG28 Y/4</code></td><td>294</td><td>~1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><img src="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/sett.png" alt="Hannay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/">Hannay Dress</a></td><td></td><td><code>K/18 R8 K4 R8 K4 R58 K18 R8 LG28 Y/4</code></td><td>294</td><td>~1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><img src="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/sett.png" alt="Hannay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

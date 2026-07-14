@@ -13,10 +13,10 @@ Its design is pattern [WWGGRBWYWGGRGWYWY](/stripes/wwggrbwywggrgwywy/) — the p
 The **Ste-Anne-de-Portneuf** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2~x4/">Ste-Anne-de-Portneuf</a></td><td><code>LO/8 W12 LY28 LB4 DY16 R8 Y24 DG8 W4 LY8 LB24 DO8 R16 Y4 DG28 W12 LB/8</code></td><td>424</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2~x4/"><img src="/variants/s17/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2~x4/sett.png" alt="Ste-Anne-de-Portneuf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2~x4/">Ste-Anne-de-Portneuf</a></td><td></td><td><code>LO/8 W12 LY28 LB4 DY16 R8 Y24 DG8 W4 LY8 LB24 DO8 R16 Y4 DG28 W12 LB/8</code></td><td>424</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2~x4/"><img src="/variants/s17/lo2w3ly7lb1dy4r2y6dg2w1ly2lb6do2r4y1dg7w3lb2~x4/sett.png" alt="Ste-Anne-de-Portneuf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

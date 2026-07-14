@@ -19,14 +19,14 @@ The **Menzies Dress** tartan is one sett, recorded at 3 scales — the same prop
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/">Menzies Dress</a></td><td><code>R/36 W4 R3 W4 R6 W2 R1 W/12</code></td><td>88</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/"><img src="/variants/s8/r36w4r3w4r6w2r1w12~x2/sett.png" alt="Menzies Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/r36w4r3w4r6w2r1w12/">Menzies Dress</a></td><td><code>R/36 W4 R3 W4 R6 W2 R1 W/12</code></td><td>88</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/">Menzies</a></td><td><code>R/72 W8 R6 W8 R12 W4 R2 W/24</code></td><td>176</td><td>1810</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s8/r36w4r3w4r6w2r1w12~x4/">Menzies (1815)</a></td><td><code>R/144 W16 R12 W16 R24 W8 R4 W/48</code></td><td>352</td><td>1815</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s8/r36w4r3w4r6w2r1w12/">Menzies Dress</a> · <a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/">Menzies</a> · <a href="/variants/s8/r36w4r3w4r6w2r1w12~x4/">Menzies (1815)</a></td></tr>
+<tr><td><a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/">Menzies Dress</a></td><td></td><td><code>R/36 W4 R3 W4 R6 W2 R1 W/12</code></td><td>88</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/"><img src="/variants/s8/r36w4r3w4r6w2r1w12~x2/sett.png" alt="Menzies Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/r36w4r3w4r6w2r1w12/">Menzies Dress</a></td><td>0.00</td><td><code>R/36 W4 R3 W4 R6 W2 R1 W/12</code></td><td>88</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/">Menzies</a></td><td>0.00</td><td><code>R/72 W8 R6 W8 R12 W4 R2 W/24</code></td><td>176</td><td>1810</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s8/r36w4r3w4r6w2r1w12~x4/">Menzies (1815)</a></td><td>0.00</td><td><code>R/144 W16 R12 W16 R24 W8 R4 W/48</code></td><td>352</td><td>1815</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s8/r36w4r3w4r6w2r1w12/">Menzies Dress</a> · <a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/">Menzies</a> · <a href="/variants/s8/r36w4r3w4r6w2r1w12~x4/">Menzies (1815)</a></td></tr>
 </tbody>
 </table>
 

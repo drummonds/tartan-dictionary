@@ -13,10 +13,10 @@ Its design is pattern [GWRKRKWGWKRKWRWKRKRW](/stripes/gwrkrkwgwkrkwrwkrkrw/) —
 The **Holy Sepulchre** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/">Holy Sepulchre</a></td><td><code>DY/4 W4 R26 K34 R4 K34 W4 DY8 W4 K34 R4 K34 W4 R26 W4 K34 R4 K34 R26 W/4</code></td><td>652</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/"><img src="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/sett.png" alt="Holy Sepulchre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/">Holy Sepulchre</a></td><td></td><td><code>DY/4 W4 R26 K34 R4 K34 W4 DY8 W4 K34 R4 K34 W4 R26 W4 K34 R4 K34 R26 W/4</code></td><td>652</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/"><img src="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/sett.png" alt="Holy Sepulchre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RGBGKGKWKGRKRW](/stripes/rgbgkgkwkgrkrw/) — the page of
 The **Victoria** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/">Victoria</a></td><td><code>R/12 Y120 DB24 Y12 K24 Y4 K4 W4 K4 G36 R36 K6 R8 W/4</code></td><td>580</td><td>1847</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/"><img src="/variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/sett.png" alt="Victoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/">Victoria</a></td><td></td><td><code>R/12 Y120 DB24 Y12 K24 Y4 K4 W4 K4 G36 R36 K6 R8 W/4</code></td><td>580</td><td>1847</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/"><img src="/variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/sett.png" alt="Victoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

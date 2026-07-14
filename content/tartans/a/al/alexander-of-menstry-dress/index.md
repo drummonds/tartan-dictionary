@@ -18,10 +18,10 @@ Its design is pattern [BWWKBGBG](/stripes/bwwkbgbg/) — the page of every tarta
 The **Alexander of Menstry Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/">Alexander of Menstry Dress</a></td><td><code>DB/10 W60 LB18 K18 DP18 G4 DP4 G/10</code></td><td>264</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><img src="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/sett.png" alt="Alexander of Menstry Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/">Alexander of Menstry Dress</a></td><td></td><td><code>DB/10 W60 LB18 K18 DP18 G4 DP4 G/10</code></td><td>264</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><img src="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/sett.png" alt="Alexander of Menstry Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

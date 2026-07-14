@@ -13,10 +13,10 @@ Its design is pattern [KBKGRGKY](/stripes/kbkgrgky/) — the page of every tarta
 The **MacLeish** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k18db12k5g4r6g12k2ly4~x2/">MacLeish</a></td><td><code>K/36 DB24 K10 G8 R12 G24 K4 LY/8</code></td><td>208</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k18db12k5g4r6g12k2ly4~x2/"><img src="/variants/s8/k18db12k5g4r6g12k2ly4~x2/sett.png" alt="MacLeish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k18db12k5g4r6g12k2ly4~x2/">MacLeish</a></td><td></td><td><code>K/36 DB24 K10 G8 R12 G24 K4 LY/8</code></td><td>208</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k18db12k5g4r6g12k2ly4~x2/"><img src="/variants/s8/k18db12k5g4r6g12k2ly4~x2/sett.png" alt="MacLeish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,18 +18,18 @@ The **Hay and Leith** tartan groups 2 setts — the same named design recorded a
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a> ★</td><td><code>K/3 R1 Y1 K2 R16 DB2 R1 Y1 R2 DB15 R1 K15 W1 G15 R2 Y1 R1 G2 R16 K2 Y1 R1 K/3</code></td><td>204</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/"><img src="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/sett.png" alt="Hay and Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a></td><td><code>K/3 R1 Y1 K2 R16 DB2 R1 Y1 R2 DB15 R1 K15 W1 G15 R2 Y1 R1 G2 R16 K2 Y1 R1 K/3</code></td><td>204</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Leith, (Hay)</a></td><td><code>K/6 R2 Y2 K4 R32 DB4 R2 Y2 R4 DB30 R2 K30 W2 G30 R4 Y2 R2 G4 R32 K4 Y2 R2 K/6</code></td><td>408</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a> · <a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Leith, (Hay)</a></td></tr>
-<tr><td><a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a></td><td><code>K/3 R1 Y1 K2 R16 DR2 R1 Y1 R2 DR15 R1 K15 W1 G15 R2 Y1 R1 G2 R16 K2 Y1 R1 K/3</code></td><td>204</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/"><img src="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/sett.png" alt="Hay and Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a></td><td><code>K/3 R1 Y1 K2 R16 DR2 R1 Y1 R2 DR15 R1 K15 W1 G15 R2 Y1 R1 G2 R16 K2 Y1 R1 K/3</code></td><td>204</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Hay and Leith</a></td><td><code>K/6 R2 Y2 K4 R32 DR4 R2 Y2 R4 DR30 R2 K30 W2 G30 R4 Y2 R2 G4 R32 K4 Y2 R2 K/6</code></td><td>408</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a> · <a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Hay and Leith</a></td></tr>
+<tr><td><a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a> ★</td><td></td><td><code>K/3 R1 Y1 K2 R16 DB2 R1 Y1 R2 DB15 R1 K15 W1 G15 R2 Y1 R1 G2 R16 K2 Y1 R1 K/3</code></td><td>204</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/"><img src="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/sett.png" alt="Hay and Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a></td><td>0.00</td><td><code>K/3 R1 Y1 K2 R16 DB2 R1 Y1 R2 DB15 R1 K15 W1 G15 R2 Y1 R1 G2 R16 K2 Y1 R1 K/3</code></td><td>204</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Leith, (Hay)</a></td><td>0.00</td><td><code>K/6 R2 Y2 K4 R32 DB4 R2 Y2 R4 DB30 R2 K30 W2 G30 R4 Y2 R2 G4 R32 K4 Y2 R2 K/6</code></td><td>408</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a> · <a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Leith, (Hay)</a></td></tr>
+<tr><td><a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a></td><td>1.58</td><td><code>K/3 R1 Y1 K2 R16 DR2 R1 Y1 R2 DR15 R1 K15 W1 G15 R2 Y1 R1 G2 R16 K2 Y1 R1 K/3</code></td><td>204</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/"><img src="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/sett.png" alt="Hay and Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a></td><td>1.58</td><td><code>K/3 R1 Y1 K2 R16 DR2 R1 Y1 R2 DR15 R1 K15 W1 G15 R2 Y1 R1 G2 R16 K2 Y1 R1 K/3</code></td><td>204</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Hay and Leith</a></td><td>1.58</td><td><code>K/6 R2 Y2 K4 R32 DR4 R2 Y2 R4 DR30 R2 K30 W2 G30 R4 Y2 R2 G4 R32 K4 Y2 R2 K/6</code></td><td>408</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3/">Hay and Leith</a> · <a href="/variants/s23/k3r1y1k2r16dr2r1y1r2dr15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/">Hay and Leith</a></td></tr>
 </tbody>
 </table>
 

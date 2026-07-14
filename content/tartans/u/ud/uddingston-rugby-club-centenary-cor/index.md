@@ -13,10 +13,10 @@ Its design is pattern [RBYBKBRYY](/stripes/rbybkbryy/) — the page of every tar
 The **Uddingston Rugby Club Centenary (Cor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/">Uddingston Rugby Club Centenary (Cor</a></td><td><code>R/48 T28 LY4 T6 K4 T12 R76 LY2 LR/4</code></td><td>316</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/"><img src="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/sett.png" alt="Uddingston Rugby Club Centenary (Cor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/">Uddingston Rugby Club Centenary (Cor</a></td><td></td><td><code>R/48 T28 LY4 T6 K4 T12 R76 LY2 LR/4</code></td><td>316</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/"><img src="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/sett.png" alt="Uddingston Rugby Club Centenary (Cor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

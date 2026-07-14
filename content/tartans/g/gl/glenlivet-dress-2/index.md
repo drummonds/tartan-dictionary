@@ -18,10 +18,10 @@ Its design is pattern [BGWGBGRG](/stripes/bgwgbgrg/) — the page of every tarta
 The **Glenlivet Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dy6o2dy42db2dy5w16dy5db2~x2/">Glenlivet Dress</a></td><td><code>DY/12 O4 DY84 DB4 DY10 W32 DY10 DB/4</code></td><td>304</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dy6o2dy42db2dy5w16dy5db2~x2/"><img src="/variants/s8/dy6o2dy42db2dy5w16dy5db2~x2/sett.png" alt="Glenlivet Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dy6o2dy42db2dy5w16dy5db2~x2/">Glenlivet Dress</a></td><td></td><td><code>DY/12 O4 DY84 DB4 DY10 W32 DY10 DB/4</code></td><td>304</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dy6o2dy42db2dy5w16dy5db2~x2/"><img src="/variants/s8/dy6o2dy42db2dy5w16dy5db2~x2/sett.png" alt="Glenlivet Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

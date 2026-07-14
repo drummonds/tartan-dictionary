@@ -13,10 +13,10 @@ Its design is pattern [KRBRBRBRBRBRBRBRKWKBKBKBKBKBKBKBKWBW](/stripes/krbrbrbrbr
 The **Quebec** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/">Quebec</a></td><td><code>W/50 DB16 W8 K8 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB20 K40 W12 K24 R8 DB1 R1 DB1 R1 DB1 R1 DB1 R1 DB1 R1 DB1 R1 DB28 R6 K/4</code></td><td>442</td><td>1966</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/"><img src="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/sett.png" alt="Quebec sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/">Quebec</a></td><td></td><td><code>W/50 DB16 W8 K8 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB20 K40 W12 K24 R8 DB1 R1 DB1 R1 DB1 R1 DB1 R1 DB1 R1 DB1 R1 DB28 R6 K/4</code></td><td>442</td><td>1966</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/"><img src="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/sett.png" alt="Quebec sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

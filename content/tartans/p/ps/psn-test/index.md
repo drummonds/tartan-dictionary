@@ -13,10 +13,10 @@ Its design is pattern [BYBBBWBW](/stripes/bybbbwbw/) — the page of every tarta
 The **PSN Test** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db25lo1db6t1db6lb4ti3w1~x4~db1607278-ti2404245/">PSN Test</a></td><td><code>DB/100 LO4 DB24 T4 DB24 LB16 Ti12 W/4</code></td><td>272</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db25lo1db6t1db6lb4ti3w1~x4~db1607278-ti2404245/"><img src="/variants/s8/db25lo1db6t1db6lb4ti3w1~x4~db1607278-ti2404245/sett.png" alt="PSN Test sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db25lo1db6t1db6lb4ti3w1~x4~db1607278-ti2404245/">PSN Test</a></td><td></td><td><code>DB/100 LO4 DB24 T4 DB24 LB16 Ti12 W/4</code></td><td>272</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db25lo1db6t1db6lb4ti3w1~x4~db1607278-ti2404245/"><img src="/variants/s8/db25lo1db6t1db6lb4ti3w1~x4~db1607278-ti2404245/sett.png" alt="PSN Test sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

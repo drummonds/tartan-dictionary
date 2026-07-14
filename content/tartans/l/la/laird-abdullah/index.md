@@ -13,10 +13,10 @@ Its design is pattern [KBKBKRKR](/stripes/kbkbkrkr/) — the page of every tarta
 The **Laird Abdullah** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/">Laird Abdullah</a></td><td><code>K/20 N4 K4 N16 K80 R8 K10 Ri/4</code></td><td>268</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><img src="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/sett.png" alt="Laird Abdullah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/">Laird Abdullah</a></td><td></td><td><code>K/20 N4 K4 N16 K80 R8 K10 Ri/4</code></td><td>268</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><img src="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/sett.png" alt="Laird Abdullah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

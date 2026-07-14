@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBKWKBKBRBKGRGRGKGKGRGRGKBKBKB](/stripes/bkbkbkbkwkb
 The **Unidentified Wilson sample** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s35/db26k3db3k3db3k24db26k1w5k1db26k24db17r26db17k24g15r4g4r4g8k1y5k1g8r4g4r4g15k24db3k3db3k3db26~x2/">Unidentified Wilson sample</a></td><td><code>DB/52 K6 DB6 K6 DB6 K48 DB52 K2 W10 K2 DB52 K48 DB34 R52 DB34 K48 G30 R8 G8 R8 G16 K2 Y10 K2 G16 R8 G8 R8 G30 K48 DB6 K6 DB6 K6 DB/52</code></td><td>1368</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s35/db26k3db3k3db3k24db26k1w5k1db26k24db17r26db17k24g15r4g4r4g8k1y5k1g8r4g4r4g15k24db3k3db3k3db26~x2/"><img src="/variants/s35/db26k3db3k3db3k24db26k1w5k1db26k24db17r26db17k24g15r4g4r4g8k1y5k1g8r4g4r4g15k24db3k3db3k3db26~x2/sett.png" alt="Unidentified Wilson sample sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s35/db26k3db3k3db3k24db26k1w5k1db26k24db17r26db17k24g15r4g4r4g8k1y5k1g8r4g4r4g15k24db3k3db3k3db26~x2/">Unidentified Wilson sample</a></td><td></td><td><code>DB/52 K6 DB6 K6 DB6 K48 DB52 K2 W10 K2 DB52 K48 DB34 R52 DB34 K48 G30 R8 G8 R8 G16 K2 Y10 K2 G16 R8 G8 R8 G30 K48 DB6 K6 DB6 K6 DB/52</code></td><td>1368</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s35/db26k3db3k3db3k24db26k1w5k1db26k24db17r26db17k24g15r4g4r4g8k1y5k1g8r4g4r4g15k24db3k3db3k3db26~x2/"><img src="/variants/s35/db26k3db3k3db3k24db26k1w5k1db26k24db17r26db17k24g15r4g4r4g8k1y5k1g8r4g4r4g15k24db3k3db3k3db26~x2/sett.png" alt="Unidentified Wilson sample sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

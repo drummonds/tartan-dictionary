@@ -20,10 +20,10 @@ Irish family tartan registered with the Chief Herald of Ireland in 1983; usually
 The **Cian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/">Cian</a></td><td><code>T/31 DB4 LB4 T20 DB8 Y16 O8 T14 LB4 DB4 LY/4</code></td><td>199</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/"><img src="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/sett.png" alt="Cian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/">Cian</a></td><td></td><td><code>T/31 DB4 LB4 T20 DB8 Y16 O8 T14 LB4 DB4 LY/4</code></td><td>199</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/"><img src="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/sett.png" alt="Cian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

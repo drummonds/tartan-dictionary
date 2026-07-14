@@ -13,10 +13,10 @@ Its design is pattern [BBRBBY](/stripes/bbrbby/) — the page of every tartan sh
 The **Lytley Formal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/">Lytley Formal</a></td><td><code>DBi/10 DB10 R10 DP20 DR10 LY/10</code></td><td>120</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/"><img src="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/sett.png" alt="Lytley Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/">Lytley Formal</a></td><td></td><td><code>DBi/10 DB10 R10 DP20 DR10 LY/10</code></td><td>120</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/"><img src="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/sett.png" alt="Lytley Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

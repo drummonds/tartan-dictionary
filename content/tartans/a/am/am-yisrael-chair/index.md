@@ -13,10 +13,10 @@ Its design is pattern [BBKBBKBBKBBKBBKBBKWBWKBWBKWBYGYGYGYG](/stripes/bbkbbkbbkb
 The **Am Yisrael Chair** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/">Am Yisrael Chair</a></td><td><code>DP/2 DB4 K2 DP2 DB4 K2 DP2 DB4 K2 DP2 DB4 K2 DP2 DB4 K2 DP2 DB4 K2 W54 DB54 W12 K6 N4 W2 N4 K6 W4 DR18 LY4 Y2 LY4 Y2 LY4 Y2 LY4 Y/2</code></td><td>468</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/"><img src="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/sett.png" alt="Am Yisrael Chair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/">Am Yisrael Chair</a></td><td></td><td><code>DP/2 DB4 K2 DP2 DB4 K2 DP2 DB4 K2 DP2 DB4 K2 DP2 DB4 K2 DP2 DB4 K2 W54 DB54 W12 K6 N4 W2 N4 K6 W4 DR18 LY4 Y2 LY4 Y2 LY4 Y2 LY4 Y/2</code></td><td>468</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/"><img src="/variants/s36/dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1dp1db2k1w27db27w6k3n2w1n2k3w2dr9ly2y1ly2y1ly2y1ly2y1~x2/sett.png" alt="Am Yisrael Chair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

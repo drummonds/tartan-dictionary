@@ -15,10 +15,10 @@ Designed for Celtic F.C., launched at Parkhead in 1989; appeared at the 1990 Wor
 The **Celtic F.C.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3~x2/">Celtic F.C.</a></td><td><code>DG/12 G6 DG48 K4 DG8 K32 O10 DG4 W8 DG4 G42 DG4 K4 Y/6</code></td><td>366</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3~x2/"><img src="/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3~x2/sett.png" alt="Celtic F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3~x2/">Celtic F.C.</a></td><td></td><td><code>DG/12 G6 DG48 K4 DG8 K32 O10 DG4 W8 DG4 G42 DG4 K4 Y/6</code></td><td>366</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3~x2/"><img src="/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3~x2/sett.png" alt="Celtic F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

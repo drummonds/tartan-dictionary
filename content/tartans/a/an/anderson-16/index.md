@@ -20,12 +20,12 @@ The **Anderson** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/">Anderson</a> ★</td><td><code>R/8 G12 R4 G12 R6 DB8 R2 K8 Y2 K2 Y2 K6 W6 K6 LB36 R2 K4 R2 LB12 R/6</code></td><td>278</td><td>~1900</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/"><img src="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/">Anderson</a></td><td><code>R/8 G12 R4 G12 R6 DB8 R2 K8 Y2 K2 Y2 K6 W6 K6 W36 R2 K4 R2 W12 R/6</code></td><td>278</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/"><img src="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/">Anderson</a> ★</td><td></td><td><code>R/8 G12 R4 G12 R6 DB8 R2 K8 Y2 K2 Y2 K6 W6 K6 LB36 R2 K4 R2 LB12 R/6</code></td><td>278</td><td>~1900</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/"><img src="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/">Anderson</a></td><td>2.40</td><td><code>R/8 G12 R4 G12 R6 DB8 R2 K8 Y2 K2 Y2 K6 W6 K6 W36 R2 K4 R2 W12 R/6</code></td><td>278</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/"><img src="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Personal tartan using Malaysian flag colours (navy, red, yellow, cream) to repre
 The **Yusra** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/">Yusra</a></td><td><code>R/24 K6 W28 DB20 K4 DB48 R/4</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><img src="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/sett.png" alt="Yusra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/">Yusra</a></td><td></td><td><code>R/24 K6 W28 DB20 K4 DB48 R/4</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><img src="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/sett.png" alt="Yusra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

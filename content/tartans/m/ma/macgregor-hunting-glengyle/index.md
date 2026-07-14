@@ -18,10 +18,10 @@ Standard MacGregor sett with darker crimson ground, from Alasdair MacGregor of C
 The **MacGregor Hunting Glengyle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r96g42r16g17k4lb6/">MacGregor Hunting Glengyle</a></td><td><code>R/96 G42 R16 G17 K4 LB/6</code></td><td>260</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r96g42r16g17k4lb6/"><img src="/variants/s6/r96g42r16g17k4lb6/sett.png" alt="MacGregor Hunting Glengyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r96g42r16g17k4lb6/">MacGregor Hunting Glengyle</a></td><td></td><td><code>R/96 G42 R16 G17 K4 LB/6</code></td><td>260</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r96g42r16g17k4lb6/"><img src="/variants/s6/r96g42r16g17k4lb6/sett.png" alt="MacGregor Hunting Glengyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

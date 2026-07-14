@@ -13,10 +13,10 @@ Its design is pattern [BKGWKBKGBKGBWKBK](/stripes/bkgwkbkgbkgbwkbk/) — the pag
 The **Northern Guard Supporters** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/">Northern Guard Supporters</a></td><td><code>K/16 DR6 K2 W4 N2 Y2 K50 N4 Y4 K6 DR10 K2 W6 Y14 K2 N/2</code></td><td>246</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><img src="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/sett.png" alt="Northern Guard Supporters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/">Northern Guard Supporters</a></td><td></td><td><code>K/16 DR6 K2 W4 N2 Y2 K50 N4 Y4 K6 DR10 K2 W6 Y14 K2 N/2</code></td><td>246</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><img src="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/sett.png" alt="Northern Guard Supporters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBBGBKGKBW](/stripes/bgbbgbkgkbw/) — the page of every
 The **Highland Pride of Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2~dpi1607327-dp1105325/">Highland Pride of Scotland</a></td><td><code>DB/18 DG4 DPi4 DP4 DG36 DPi4 K4 DG2 K38 DB66 W/4</code></td><td>346</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2~dpi1607327-dp1105325/"><img src="/variants/s11/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2~dpi1607327-dp1105325/sett.png" alt="Highland Pride of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2~dpi1607327-dp1105325/">Highland Pride of Scotland</a></td><td></td><td><code>DB/18 DG4 DPi4 DP4 DG36 DPi4 K4 DG2 K38 DB66 W/4</code></td><td>346</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2~dpi1607327-dp1105325/"><img src="/variants/s11/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2~dpi1607327-dp1105325/sett.png" alt="Highland Pride of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

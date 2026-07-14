@@ -13,10 +13,10 @@ Its design is pattern [BWBWBWBWBRBWBWBWBWBWBWBW](/stripes/bwbwbwbwbrbwbwbwbwbwbw
 The **Weait** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2~x2~t2304245-db1004274/">Weait</a></td><td><code>T/12 LB12 DB14 LB4 DB4 LB4 DB14 LB12 T12 R4 T12 LB12 DB4 LB4 DB4 LB4 DB16 LB4 DB4 LB4 DB4 LB12 T12 W/4</code></td><td>368</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2~x2~t2304245-db1004274/"><img src="/variants/s24/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2~x2~t2304245-db1004274/sett.png" alt="Weait sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2~x2~t2304245-db1004274/">Weait</a></td><td></td><td><code>T/12 LB12 DB14 LB4 DB4 LB4 DB14 LB12 T12 R4 T12 LB12 DB4 LB4 DB4 LB4 DB16 LB4 DB4 LB4 DB4 LB12 T12 W/4</code></td><td>368</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2~x2~t2304245-db1004274/"><img src="/variants/s24/t6lb6db7lb2db2lb2db7lb6t6r2t6lb6db2lb2db2lb2db8lb2db2lb2db2lb6t6w2~x2~t2304245-db1004274/sett.png" alt="Weait sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GGKBWGBRBKGWG](/stripes/ggkbwgbrbkgwg/) — the page of e
 The **Greylock** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/">Greylock</a></td><td><code>G/20 W4 G20 K6 DB24 R6 DB24 G30 W4 DB6 K4 G6 Y/6</code></td><td>294</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/"><img src="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/sett.png" alt="Greylock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/">Greylock</a></td><td></td><td><code>G/20 W4 G20 K6 DB24 R6 DB24 G30 W4 DB6 K4 G6 Y/6</code></td><td>294</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/"><img src="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/sett.png" alt="Greylock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

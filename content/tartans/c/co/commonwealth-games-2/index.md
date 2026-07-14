@@ -16,10 +16,10 @@ Its design is pattern [GYBYRRRRRRR](/stripes/gybyrrrrrrr/) — the page of every
 The **Commonwealth Games** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/">Commonwealth Games</a></td><td><code>G/56 LO36 DB8 LO36 Ri6 R4 Ri6 R4 Ri6 R4 Ri/6</code></td><td>282</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/"><img src="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/sett.png" alt="Commonwealth Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/">Commonwealth Games</a></td><td></td><td><code>G/56 LO36 DB8 LO36 Ri6 R4 Ri6 R4 Ri6 R4 Ri/6</code></td><td>282</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/"><img src="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/sett.png" alt="Commonwealth Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

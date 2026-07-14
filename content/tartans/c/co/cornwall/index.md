@@ -13,10 +13,10 @@ Its design is pattern [BBBKBBBKBBBBKBY](/stripes/bbbkbbbkbbbbkby/) — the page 
 The **Cornwall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/">Cornwall</a></td><td><code>T/8 DR24 T8 K28 T72 DR6 T72 K28 T8 DR24 T8 DR24 K28 T72 LY/6</code></td><td>818</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/"><img src="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/sett.png" alt="Cornwall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/">Cornwall</a></td><td></td><td><code>T/8 DR24 T8 K28 T72 DR6 T72 K28 T8 DR24 T8 DR24 K28 T72 LY/6</code></td><td>818</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/"><img src="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/sett.png" alt="Cornwall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

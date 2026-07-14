@@ -18,10 +18,10 @@ Pre-1800 hand-spun, hand-woven fragment from Glen Affric peat, likely late 17th-
 The **Glen Affric Fragment Artefact** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/">Glen Affric Fragment Artefact</a></td><td><code>K/4 G4 LR20 G4 LR14 G4 LR14 G4 LR10 G4 R28 LR2 G/4</code></td><td>224</td><td>~1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/"><img src="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/sett.png" alt="Glen Affric Fragment Artefact sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/">Glen Affric Fragment Artefact</a></td><td></td><td><code>K/4 G4 LR20 G4 LR14 G4 LR14 G4 LR10 G4 R28 LR2 G/4</code></td><td>224</td><td>~1800</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/"><img src="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/sett.png" alt="Glen Affric Fragment Artefact sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

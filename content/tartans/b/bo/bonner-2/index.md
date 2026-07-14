@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKRKRGRKR](/stripes/bkbkbkrkrgrkr/) — the page of e
 The **Bonner** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/">Bonner</a></td><td><code>R/26 K2 R6 G20 R10 K4 R6 K24 DB4 K4 DB4 K4 DB/24</code></td><td>226</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><img src="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/sett.png" alt="Bonner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/">Bonner</a></td><td></td><td><code>R/26 K2 R6 G20 R10 K4 R6 K24 DB4 K4 DB4 K4 DB/24</code></td><td>226</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><img src="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/sett.png" alt="Bonner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

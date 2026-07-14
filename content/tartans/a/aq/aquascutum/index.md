@@ -18,10 +18,10 @@ Its design is pattern [BBWBWBGBG](/stripes/bbwbwbgbg/) — the page of every tar
 The **Aquascutum** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/">Aquascutum</a></td><td><code>DY/7 DB7 DY4 DB26 W12 DB3 W14 DR2 DB/6</code></td><td>149</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/"><img src="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/sett.png" alt="Aquascutum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/">Aquascutum</a></td><td></td><td><code>DY/7 DB7 DY4 DB26 W12 DB3 W14 DR2 DB/6</code></td><td>149</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/"><img src="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/sett.png" alt="Aquascutum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

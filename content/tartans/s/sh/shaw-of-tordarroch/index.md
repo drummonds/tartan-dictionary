@@ -18,10 +18,10 @@ Its design is pattern [BRGRBGKW](/stripes/brgrbgkw/) — the page of every tarta
 The **Shaw of Tordarroch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb5k1g30db15r8g30r8db2~x2/">Shaw of Tordarroch</a></td><td><code>LB/10 K2 G60 DB30 R16 G60 R16 DB/4</code></td><td>382</td><td>1971</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb5k1g30db15r8g30r8db2~x2/"><img src="/variants/s8/lb5k1g30db15r8g30r8db2~x2/sett.png" alt="Shaw of Tordarroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb5k1g30db15r8g30r8db2~x2/">Shaw of Tordarroch</a></td><td></td><td><code>LB/10 K2 G60 DB30 R16 G60 R16 DB/4</code></td><td>382</td><td>1971</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb5k1g30db15r8g30r8db2~x2/"><img src="/variants/s8/lb5k1g30db15r8g30r8db2~x2/sett.png" alt="Shaw of Tordarroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

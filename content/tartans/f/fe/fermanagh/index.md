@@ -18,10 +18,10 @@ Its design is pattern [BBBKBGKBB](/stripes/bbbkbgkbb/) — the page of every tar
 The **Fermanagh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/n44do4n1k1n4y4k1db4do4~x2/">Fermanagh</a></td><td><code>N/88 DO8 N2 K2 N8 Y8 K2 DB8 DO/8</code></td><td>172</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/n44do4n1k1n4y4k1db4do4~x2/"><img src="/variants/s9/n44do4n1k1n4y4k1db4do4~x2/sett.png" alt="Fermanagh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/n44do4n1k1n4y4k1db4do4~x2/">Fermanagh</a></td><td></td><td><code>N/88 DO8 N2 K2 N8 Y8 K2 DB8 DO/8</code></td><td>172</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/n44do4n1k1n4y4k1db4do4~x2/"><img src="/variants/s9/n44do4n1k1n4y4k1db4do4~x2/sett.png" alt="Fermanagh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BRKGBG](/stripes/brkgbg/) — the page of every tartan sh
 The **Edinburgh Int.Conf. Centre** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dy4dt20dy3k20o24dt3~x2/">Edinburgh Int.Conf. Centre</a></td><td><code>DY/8 DT40 DY6 K40 O48 DT/6</code></td><td>282</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy4dt20dy3k20o24dt3~x2/"><img src="/variants/s6/dy4dt20dy3k20o24dt3~x2/sett.png" alt="Edinburgh Int.Conf. Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy4dt20dy3k20o24dt3~x2/">Edinburgh Int.Conf. Centre</a></td><td></td><td><code>DY/8 DT40 DY6 K40 O48 DT/6</code></td><td>282</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dy4dt20dy3k20o24dt3~x2/"><img src="/variants/s6/dy4dt20dy3k20o24dt3~x2/sett.png" alt="Edinburgh Int.Conf. Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

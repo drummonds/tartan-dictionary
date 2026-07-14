@@ -13,10 +13,10 @@ Its design is pattern [GWGGR](/stripes/gwggr/) — the page of every tartan shar
 The **Eastern Townshippers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/r1dy5g5w5y1~x8/">Eastern Townshippers</a></td><td><code>R/8 DY40 G40 W40 Y/8</code></td><td>256</td><td>1968</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r1dy5g5w5y1~x8/"><img src="/variants/s5/r1dy5g5w5y1~x8/sett.png" alt="Eastern Townshippers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r1dy5g5w5y1~x8/">Eastern Townshippers</a></td><td></td><td><code>R/8 DY40 G40 W40 Y/8</code></td><td>256</td><td>1968</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r1dy5g5w5y1~x8/"><img src="/variants/s5/r1dy5g5w5y1~x8/sett.png" alt="Eastern Townshippers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

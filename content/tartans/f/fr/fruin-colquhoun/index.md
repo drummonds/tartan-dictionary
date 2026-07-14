@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKWGRGWK](/stripes/bkbkbkwgrgwk/) — the page of eve
 The **Fruin Colquhoun** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k19w3dg19r5dg19w3k19db19k3db2k3db19~x2/">Fruin Colquhoun</a></td><td><code>K/38 W6 DG38 R10 DG38 W6 K38 DB38 K6 DB4 K6 DB/38</code></td><td>456</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k19w3dg19r5dg19w3k19db19k3db2k3db19~x2/"><img src="/variants/s12/k19w3dg19r5dg19w3k19db19k3db2k3db19~x2/sett.png" alt="Fruin Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k19w3dg19r5dg19w3k19db19k3db2k3db19~x2/">Fruin Colquhoun</a></td><td></td><td><code>K/38 W6 DG38 R10 DG38 W6 K38 DB38 K6 DB4 K6 DB/38</code></td><td>456</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k19w3dg19r5dg19w3k19db19k3db2k3db19~x2/"><img src="/variants/s12/k19w3dg19r5dg19w3k19db19k3db2k3db19~x2/sett.png" alt="Fruin Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

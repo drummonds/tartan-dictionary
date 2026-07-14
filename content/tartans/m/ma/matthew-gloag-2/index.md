@@ -13,10 +13,10 @@ Its design is pattern [BRGKBKBKRG](/stripes/brgkbkbkrg/) — the page of every t
 The **Matthew Gloag** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/">Matthew Gloag</a></td><td><code>G/6 R40 K4 DB6 K26 DB6 K4 G40 R6 DB/4</code></td><td>274</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/"><img src="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/sett.png" alt="Matthew Gloag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/">Matthew Gloag</a></td><td></td><td><code>G/6 R40 K4 DB6 K26 DB6 K4 G40 R6 DB/4</code></td><td>274</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/"><img src="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/sett.png" alt="Matthew Gloag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

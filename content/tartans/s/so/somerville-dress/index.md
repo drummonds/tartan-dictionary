@@ -13,10 +13,10 @@ Its design is pattern [GRRWRGRBRRRGRBRRRW](/stripes/grrwrgrbrrrgrbrrrw/) — the
 The **Somerville Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/y2ri5r3w54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/">Somerville Dress</a></td><td><code>Y/4 Ri10 R6 W108 R10 G6 R10 DB40 Ri10 R6 Ri10 G32 R4 DB8 R96 Ri12 R6 W/4</code></td><td>756</td><td>~2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/y2ri5r3w54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/"><img src="/variants/s18/y2ri5r3w54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/sett.png" alt="Somerville Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/y2ri5r3w54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/">Somerville Dress</a></td><td></td><td><code>Y/4 Ri10 R6 W108 R10 G6 R10 DB40 Ri10 R6 Ri10 G32 R4 DB8 R96 Ri12 R6 W/4</code></td><td>756</td><td>~2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/y2ri5r3w54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/"><img src="/variants/s18/y2ri5r3w54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/sett.png" alt="Somerville Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

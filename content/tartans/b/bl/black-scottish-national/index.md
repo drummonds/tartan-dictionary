@@ -18,10 +18,10 @@ Reworked dark variant of the Scottish National tartan, woven by Marton Mills.
 The **Black Scottish National** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/">Black Scottish National</a></td><td><code>O/16 W2 O2 DP2 O2 K14 G14 K2 G6 K2 G14 K14 O14 K2 DP/6</code></td><td>202</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/"><img src="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/sett.png" alt="Black Scottish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/">Black Scottish National</a></td><td></td><td><code>O/16 W2 O2 DP2 O2 K14 G14 K2 G6 K2 G14 K14 O14 K2 DP/6</code></td><td>202</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/"><img src="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/sett.png" alt="Black Scottish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

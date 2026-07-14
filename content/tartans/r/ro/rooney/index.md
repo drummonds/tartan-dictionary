@@ -15,10 +15,10 @@ Asymmetric family tartan based on Henderson.
 The **Rooney** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/lb36g12lb4g72k4g13k36r4k4y4k36g13k4g72lb4g12lb36w4/">Rooney</a></td><td><code>LB/36 G12 LB4 G72 K4 G13 K36 R4 K4 Y4 K36 G13 K4 G72 LB4 G12 LB36 W/4</code></td><td>700</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/lb36g12lb4g72k4g13k36r4k4y4k36g13k4g72lb4g12lb36w4/"><img src="/variants/s18/lb36g12lb4g72k4g13k36r4k4y4k36g13k4g72lb4g12lb36w4/sett.png" alt="Rooney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/lb36g12lb4g72k4g13k36r4k4y4k36g13k4g72lb4g12lb36w4/">Rooney</a></td><td></td><td><code>LB/36 G12 LB4 G72 K4 G13 K36 R4 K4 Y4 K36 G13 K4 G72 LB4 G12 LB36 W/4</code></td><td>700</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/lb36g12lb4g72k4g13k36r4k4y4k36g13k4g72lb4g12lb36w4/"><img src="/variants/s18/lb36g12lb4g72k4g13k36r4k4y4k36g13k4g72lb4g12lb36w4/sett.png" alt="Rooney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

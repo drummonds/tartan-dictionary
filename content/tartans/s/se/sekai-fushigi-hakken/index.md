@@ -13,10 +13,10 @@ Its design is pattern [BGRWRWGWRGBWGWRW](/stripes/bgrwrwgwrgbwgwrw/) — the pag
 The **Sekai Fushigi Hakken** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3~x2~ri2806019-r2108022/">Sekai Fushigi Hakken</a></td><td><code>W/36 Ri4 W6 DG4 W54 DR6 DG4 R6 W54 DG4 W6 Ri4 W36 R6 DG4 DR/6</code></td><td>438</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3~x2~ri2806019-r2108022/"><img src="/variants/s16/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3~x2~ri2806019-r2108022/sett.png" alt="Sekai Fushigi Hakken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3~x2~ri2806019-r2108022/">Sekai Fushigi Hakken</a></td><td></td><td><code>W/36 Ri4 W6 DG4 W54 DR6 DG4 R6 W54 DG4 W6 Ri4 W36 R6 DG4 DR/6</code></td><td>438</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3~x2~ri2806019-r2108022/"><img src="/variants/s16/w18ri2w3dg2w27dr3dg2r3w27dg2w3ri2w18r3dg2dr3~x2~ri2806019-r2108022/sett.png" alt="Sekai Fushigi Hakken sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

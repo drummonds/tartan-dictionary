@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKBKWKBKGKGKRKGW](/stripes/gkgkgkbkwkbkgkgkrkgw/) —
 The **Unnamed No 38** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/">Unnamed No 38</a></td><td><code>G/164 K4 G4 K4 G4 K16 DB56 K2 W12 K2 DB56 K2 DY12 K2 G64 K4 R10 K4 G30 W/12</code></td><td>752</td><td>~1900</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/"><img src="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/sett.png" alt="Unnamed No 38 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/">Unnamed No 38</a></td><td></td><td><code>G/164 K4 G4 K4 G4 K16 DB56 K2 W12 K2 DB56 K2 DY12 K2 G64 K4 R10 K4 G30 W/12</code></td><td>752</td><td>~1900</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/"><img src="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/sett.png" alt="Unnamed No 38 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RBRGRBRGRBR](/stripes/rbrgrbrgrbr/) — the page of every
 The **MacIntosh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/">MacIntosh</a></td><td><code>R/192 DB48 R20 G84 R32 DB4 R32 G84 R20 DB48 R/96</code></td><td>1032</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/"><img src="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/sett.png" alt="MacIntosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/">MacIntosh</a></td><td></td><td><code>R/192 DB48 R20 G84 R32 DB4 R32 G84 R20 DB48 R/96</code></td><td>1032</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/"><img src="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/sett.png" alt="MacIntosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

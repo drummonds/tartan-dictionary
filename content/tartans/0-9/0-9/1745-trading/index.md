@@ -13,10 +13,10 @@ Its design is pattern [RWRGRGRBRWRW](/stripes/rwrgrgrbrwrw/) — the page of eve
 The **1745 Trading** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/">1745 Trading</a></td><td><code>R/8 W4 R6 DG12 R4 DG4 R4 DB32 R4 LB4 R64 W/4</code></td><td>288</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><img src="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/sett.png" alt="1745 Trading sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/">1745 Trading</a></td><td></td><td><code>R/8 W4 R6 DG12 R4 DG4 R4 DB32 R4 LB4 R64 W/4</code></td><td>288</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><img src="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/sett.png" alt="1745 Trading sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

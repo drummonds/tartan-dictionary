@@ -13,10 +13,10 @@ Its design is pattern [RWRGWRKY](/stripes/rwrgwrky/) — the page of every tarta
 The **MacBrair Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ly57k1r12w1g12r14w1r2~x2/">MacBrair Hunting</a></td><td><code>LY/114 K2 R24 W2 G24 R28 W2 R/4</code></td><td>282</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly57k1r12w1g12r14w1r2~x2/"><img src="/variants/s8/ly57k1r12w1g12r14w1r2~x2/sett.png" alt="MacBrair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly57k1r12w1g12r14w1r2~x2/">MacBrair Hunting</a></td><td></td><td><code>LY/114 K2 R24 W2 G24 R28 W2 R/4</code></td><td>282</td><td>1982</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ly57k1r12w1g12r14w1r2~x2/"><img src="/variants/s8/ly57k1r12w1g12r14w1r2~x2/sett.png" alt="MacBrair Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

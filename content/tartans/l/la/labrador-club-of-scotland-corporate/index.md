@@ -13,10 +13,10 @@ Its design is pattern [RYGYRKGY](/stripes/rygyrkgy/) — the page of every tarta
 The **Labrador Club of Scotland (Corporate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/">Labrador Club of Scotland (Corporate</a></td><td><code>O/42 LYi8 DY10 LYi8 O10 K42 DG42 LY/10</code></td><td>292</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/"><img src="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/sett.png" alt="Labrador Club of Scotland (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/">Labrador Club of Scotland (Corporate</a></td><td></td><td><code>O/42 LYi8 DY10 LYi8 O10 K42 DG42 LY/10</code></td><td>292</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/"><img src="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/sett.png" alt="Labrador Club of Scotland (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

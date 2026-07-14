@@ -18,10 +18,10 @@ Its design is pattern [KRGWGRKWGRGWKGR](/stripes/krgwgrkwgrgwkgr/) — the page 
 The **Gayre** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/">Gayre</a></td><td><code>Ri/20 G4 K4 LB4 G16 Ri4 G16 LB4 K4 R6 G4 LB4 G3 Ri6 K/4</code></td><td>—</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/"><img src="/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/sett.png" alt="Gayre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/">Gayre</a></td><td></td><td><code>Ri/20 G4 K4 LB4 G16 Ri4 G16 LB4 K4 R6 G4 LB4 G3 Ri6 K/4</code></td><td>—</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/"><img src="/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/sett.png" alt="Gayre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

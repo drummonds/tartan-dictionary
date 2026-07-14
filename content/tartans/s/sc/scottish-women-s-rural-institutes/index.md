@@ -13,10 +13,10 @@ Its design is pattern [BWBKGGGWGKBG](/stripes/bwbkgggwgkbg/) — the page of eve
 The **Scottish Women's Rural Institutes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/">Scottish Women's Rural Institutes</a></td><td><code>DB/12 LB4 DB40 K30 G40 Y4 G12 LB4 G40 K30 DB40 Y/8</code></td><td>508</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><img src="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/sett.png" alt="Scottish Women's Rural Institutes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/">Scottish Women's Rural Institutes</a></td><td></td><td><code>DB/12 LB4 DB40 K30 G40 Y4 G12 LB4 G40 K30 DB40 Y/8</code></td><td>508</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><img src="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/sett.png" alt="Scottish Women's Rural Institutes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

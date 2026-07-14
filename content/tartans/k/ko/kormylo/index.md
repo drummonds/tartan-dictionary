@@ -18,10 +18,10 @@ Its design is pattern [GRBGRBRGBRBWBRBGRBRGBR](/stripes/grbgrbrgbrbwbrbgrbrgbr/)
 The **Kormylo** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2~x2/">Kormylo</a></td><td><code>R/18 DB6 DG24 R4 DB80 R4 DG40 DB4 R36 DB4 W4 DB4 R36 DB4 DG40 R4 DB80 R4 DG24 DB6 R18 Y/4</code></td><td>874</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2~x2/"><img src="/variants/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2~x2/sett.png" alt="Kormylo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2~x2/">Kormylo</a></td><td></td><td><code>R/18 DB6 DG24 R4 DB80 R4 DG40 DB4 R36 DB4 W4 DB4 R36 DB4 DG40 R4 DB80 R4 DG24 DB6 R18 Y/4</code></td><td>874</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2~x2/"><img src="/variants/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2~x2/sett.png" alt="Kormylo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

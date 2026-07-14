@@ -13,10 +13,10 @@ Its design is pattern [BBGBBBGY](/stripes/bbgbbbgy/) — the page of every tarta
 The **Prince George's Police** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/">Prince George's Police</a></td><td><code>DB/84 DR4 Y32 DR4 DB12 DR4 Y16 LO/6</code></td><td>234</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/"><img src="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/sett.png" alt="Prince George's Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/">Prince George's Police</a></td><td></td><td><code>DB/84 DR4 Y32 DR4 DB12 DR4 Y16 LO/6</code></td><td>234</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/"><img src="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/sett.png" alt="Prince George's Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

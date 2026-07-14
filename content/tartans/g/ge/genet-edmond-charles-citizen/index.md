@@ -16,10 +16,10 @@ Its design is pattern [RKGBRBW](/stripes/rkgbrbw/) — the page of every tartan 
 The **Genet, Edmond Charles 'Citizen'** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/">Genet, Edmond Charles 'Citizen'</a></td><td><code>R/8 K18 DG18 DB80 R4 DB4 W/4</code></td><td>260</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><img src="/variants/s7/r4k9dg9db40r2db2w2~x2/sett.png" alt="Genet, Edmond Charles 'Citizen' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/">Genet, Edmond Charles 'Citizen'</a></td><td></td><td><code>R/8 K18 DG18 DB80 R4 DB4 W/4</code></td><td>260</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><img src="/variants/s7/r4k9dg9db40r2db2w2~x2/sett.png" alt="Genet, Edmond Charles 'Citizen' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

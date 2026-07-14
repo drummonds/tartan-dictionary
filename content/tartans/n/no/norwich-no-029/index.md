@@ -13,10 +13,10 @@ Its design is pattern [BGWBWGWBWG](/stripes/bgwbwgwbwg/) — the page of every t
 The **Norwich No.029** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g11lb2db11lb6g3lb6db11lb2g11db3~x2~db1406275/">Norwich No.029</a></td><td><code>G/22 LB4 DB22 LB12 G6 LB12 DB22 LB4 G22 DB/6</code></td><td>236</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g11lb2db11lb6g3lb6db11lb2g11db3~x2~db1406275/"><img src="/variants/s10/g11lb2db11lb6g3lb6db11lb2g11db3~x2~db1406275/sett.png" alt="Norwich No.029 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g11lb2db11lb6g3lb6db11lb2g11db3~x2~db1406275/">Norwich No.029</a></td><td></td><td><code>G/22 LB4 DB22 LB12 G6 LB12 DB22 LB4 G22 DB/6</code></td><td>236</td><td>1870</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g11lb2db11lb6g3lb6db11lb2g11db3~x2~db1406275/"><img src="/variants/s10/g11lb2db11lb6g3lb6db11lb2g11db3~x2~db1406275/sett.png" alt="Norwich No.029 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

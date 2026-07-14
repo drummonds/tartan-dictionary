@@ -15,12 +15,12 @@ The **Swiss Highlander** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/">Swiss Highlander</a> ★</td><td><code>DG/12 G24 DB48 R23 W8 R23 DB24 Y4 G12 DG/12</code></td><td>356</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/"><img src="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/sett.png" alt="Swiss Highlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/">(Corporate)</a></td><td><code>DG/12 G24 T48 R23 W8 R23 T24 Y4 G12 DG/12</code></td><td>356</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/"><img src="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/">Swiss Highlander</a> ★</td><td></td><td><code>DG/12 G24 DB48 R23 W8 R23 DB24 Y4 G12 DG/12</code></td><td>356</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/"><img src="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/sett.png" alt="Swiss Highlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/">(Corporate)</a></td><td>0.17</td><td><code>DG/12 G24 T48 R23 W8 R23 T24 Y4 G12 DG/12</code></td><td>356</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/"><img src="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBRGKRKGRBGR](/stripes/gbrgkrkgrbgr/) — the page of eve
 The **Stewart/Stuart C18th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/">Stewart/Stuart C18th</a></td><td><code>G/16 DB36 R36 G36 K8 R8 K8 G36 R36 DB32 G16 R/8</code></td><td>528</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/"><img src="/variants/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/sett.png" alt="Stewart/Stuart C18th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/">Stewart/Stuart C18th</a></td><td></td><td><code>G/16 DB36 R36 G36 K8 R8 K8 G36 R36 DB32 G16 R/8</code></td><td>528</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/"><img src="/variants/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/sett.png" alt="Stewart/Stuart C18th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

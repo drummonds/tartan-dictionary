@@ -13,10 +13,10 @@ Its design is pattern [BWGKBGWGWG](/stripes/bwgkbgwgwg/) — the page of every t
 The **City of Pointe-Claire** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/">City of Pointe-Claire</a></td><td><code>DB/16 W4 DY4 K8 DB16 DY8 W4 DY4 W4 DY/4</code></td><td>124</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/"><img src="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/sett.png" alt="City of Pointe-Claire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/">City of Pointe-Claire</a></td><td></td><td><code>DB/16 W4 DY4 K8 DB16 DY8 W4 DY4 W4 DY/4</code></td><td>124</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/"><img src="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/sett.png" alt="City of Pointe-Claire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

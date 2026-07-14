@@ -16,10 +16,10 @@ Its design is pattern [BRGRBRGGRGRBRGRGWR](/stripes/brgrbrggrgrbrgrgwr/) — the
 The **Hebridean, South Uist** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db19r2g3r2db2r20g1y1r1g2r2db18r2g2r22g3w1r3~x2/">Hebridean, South Uist</a></td><td><code>DB/38 R4 G6 R4 DB4 R40 G2 Y2 R2 G4 R4 DB36 R4 G4 R44 G6 W2 R/6</code></td><td>380</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db19r2g3r2db2r20g1y1r1g2r2db18r2g2r22g3w1r3~x2/"><img src="/variants/s18/db19r2g3r2db2r20g1y1r1g2r2db18r2g2r22g3w1r3~x2/sett.png" alt="Hebridean, South Uist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db19r2g3r2db2r20g1y1r1g2r2db18r2g2r22g3w1r3~x2/">Hebridean, South Uist</a></td><td></td><td><code>DB/38 R4 G6 R4 DB4 R40 G2 Y2 R2 G4 R4 DB36 R4 G4 R44 G6 W2 R/6</code></td><td>380</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db19r2g3r2db2r20g1y1r1g2r2db18r2g2r22g3w1r3~x2/"><img src="/variants/s18/db19r2g3r2db2r20g1y1r1g2r2db18r2g2r22g3w1r3~x2/sett.png" alt="Hebridean, South Uist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

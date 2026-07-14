@@ -13,10 +13,10 @@ Its design is pattern [BGWBGGGWKBGWGGRKR](/stripes/bgwbgggwkbgwggrkr/) — the p
 The **Les Cercles de Fermieres du Quebec** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/">Les Cercles de Fermieres du Quebec</a></td><td><code>DB/32 DG80 W10 DB50 G60 Y8 DG6 W6 K8 DB30 G44 W4 DG38 G4 O16 K8 O/32</code></td><td>808</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/"><img src="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/sett.png" alt="Les Cercles de Fermieres du Quebec sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/">Les Cercles de Fermieres du Quebec</a></td><td></td><td><code>DB/32 DG80 W10 DB50 G60 Y8 DG6 W6 K8 DB30 G44 W4 DG38 G4 O16 K8 O/32</code></td><td>808</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/"><img src="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/sett.png" alt="Les Cercles de Fermieres du Quebec sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

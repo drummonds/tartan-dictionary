@@ -13,10 +13,10 @@ Its design is pattern [RBWBKWBW](/stripes/rbwbkwbw/) — the page of every tarta
 The **DeCloud-McMasters** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/">DeCloud-McMasters</a></td><td><code>R/6 DB4 W4 DB52 K44 W6 DB6 W/6</code></td><td>244</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><img src="/variants/s8/r3db2w2db26k22w3db3w3~x2/sett.png" alt="DeCloud-McMasters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/">DeCloud-McMasters</a></td><td></td><td><code>R/6 DB4 W4 DB52 K44 W6 DB6 W/6</code></td><td>244</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><img src="/variants/s8/r3db2w2db26k22w3db3w3~x2/sett.png" alt="DeCloud-McMasters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

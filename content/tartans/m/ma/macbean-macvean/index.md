@@ -16,10 +16,10 @@ Its design is pattern [GWRRRGRRRWKGKWBBWWWBBWR](/stripes/gwrrrgrrrwkgkwbbwwwbbwr
 The **MacBean MacVean** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/r32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2ri3r3rii3g2rii3r3ri3w2g6~x2~db0804274-dbi1605267-ri1505012-rii1707033/">MacBean MacVean</a></td><td><code>R/64 W4 DB4 DBi4 LB4 W4 LB4 DBi4 DB4 W4 K4 G18 K4 W4 Ri6 R6 Rii6 G4 Rii6 R6 Ri6 W4 G/12</code></td><td>296</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/r32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2ri3r3rii3g2rii3r3ri3w2g6~x2~db0804274-dbi1605267-ri1505012-rii1707033/"><img src="/variants/s23/r32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2ri3r3rii3g2rii3r3ri3w2g6~x2~db0804274-dbi1605267-ri1505012-rii1707033/sett.png" alt="MacBean MacVean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/r32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2ri3r3rii3g2rii3r3ri3w2g6~x2~db0804274-dbi1605267-ri1505012-rii1707033/">MacBean MacVean</a></td><td></td><td><code>R/64 W4 DB4 DBi4 LB4 W4 LB4 DBi4 DB4 W4 K4 G18 K4 W4 Ri6 R6 Rii6 G4 Rii6 R6 Ri6 W4 G/12</code></td><td>296</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/r32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2ri3r3rii3g2rii3r3ri3w2g6~x2~db0804274-dbi1605267-ri1505012-rii1707033/"><img src="/variants/s23/r32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2ri3r3rii3g2rii3r3ri3w2g6~x2~db0804274-dbi1605267-ri1505012-rii1707033/sett.png" alt="MacBean MacVean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

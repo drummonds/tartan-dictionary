@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBWG](/stripes/bbbbbbwg/) — the page of every tarta
 The **Unnamed, No 52** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/">Unnamed, No 52</a></td><td><code>G/38 W2 DB24 B4 DB4 B4 DB4 B/32</code></td><td>154</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><img src="/variants/s8/g19w1db12b2db2b2db2b16~x2/sett.png" alt="Unnamed, No 52 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/">Unnamed, No 52</a></td><td></td><td><code>G/38 W2 DB24 B4 DB4 B4 DB4 B/32</code></td><td>154</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><img src="/variants/s8/g19w1db12b2db2b2db2b16~x2/sett.png" alt="Unnamed, No 52 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGKGKGKGRGBKBGRGKGKGKGGBGBGBGBGBGBG](/stripes/bgkgkgkgrgb
 The **Unidentified 'Old tartan'** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3~x2/">Unidentified 'Old tartan'</a></td><td><code>DB/12 G12 K6 G6 K6 G6 K6 G30 R18 G12 DB6 K18 DB6 G12 R18 G30 K6 G6 K6 G6 K6 G12 DY18 DB6 DY6 DB6 DY6 DB6 DY12 DB20 DY6 DB6 DY6 DB6 DY/6</code></td><td>694</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3~x2/"><img src="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3~x2/sett.png" alt="Unidentified 'Old tartan' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3~x2/">Unidentified 'Old tartan'</a></td><td></td><td><code>DB/12 G12 K6 G6 K6 G6 K6 G30 R18 G12 DB6 K18 DB6 G12 R18 G30 K6 G6 K6 G6 K6 G12 DY18 DB6 DY6 DB6 DY6 DB6 DY12 DB20 DY6 DB6 DY6 DB6 DY/6</code></td><td>694</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3~x2/"><img src="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3~x2/sett.png" alt="Unidentified 'Old tartan' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

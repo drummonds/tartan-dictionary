@@ -13,10 +13,10 @@ Its design is pattern [BGGBWB](/stripes/bggbwb/) — the page of every tartan sh
 The **Heriot Bay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/t5dy2dg4n3w1t5~x8/">Heriot Bay</a></td><td><code>T/40 DY16 DG32 N24 W8 T/40</code></td><td>240</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><img src="/variants/s6/t5dy2dg4n3w1t5~x8/sett.png" alt="Heriot Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t5dy2dg4n3w1t5~x8/">Heriot Bay</a></td><td></td><td><code>T/40 DY16 DG32 N24 W8 T/40</code></td><td>240</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><img src="/variants/s6/t5dy2dg4n3w1t5~x8/sett.png" alt="Heriot Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

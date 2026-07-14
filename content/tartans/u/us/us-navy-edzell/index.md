@@ -13,11 +13,11 @@ Its design is pattern [BBWBRB](/stripes/bbwbrb/) — the page of every tartan sh
 The **US Navy Edzell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/">US Navy Edzell</a></td><td><code>DB/104 DBi16 W8 DBi66 R3 DBi/16</code></td><td>306</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/"><img src="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/sett.png" alt="US Navy Edzell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db0805267-dbi1604274/">Edzell, U.S. Navy</a> · <a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1204274-dbi1406275/">Edzell U.S. Navy Regimental Tartan</a> · <a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/">US Navy Edzell</a></td></tr>
+<tr><td><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/">US Navy Edzell</a></td><td></td><td><code>DB/104 DBi16 W8 DBi66 R3 DBi/16</code></td><td>306</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/"><img src="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/sett.png" alt="US Navy Edzell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db0805267-dbi1604274/">Edzell, U.S. Navy</a> · <a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1204274-dbi1406275/">Edzell U.S. Navy Regimental Tartan</a> · <a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/">US Navy Edzell</a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GYGKRYRKY](/stripes/gygkryrky/) — the page of every tar
 The **Durango** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/">Durango</a></td><td><code>LO/128 K24 R4 LR4 R4 K16 DG32 LO4 DG/12</code></td><td>316</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/"><img src="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/sett.png" alt="Durango sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/">Durango</a></td><td></td><td><code>LO/128 K24 R4 LR4 R4 K16 DG32 LO4 DG/12</code></td><td>316</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/"><img src="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/sett.png" alt="Durango sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

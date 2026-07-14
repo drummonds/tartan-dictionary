@@ -13,10 +13,10 @@ Its design is pattern [GWBWKWKGWGK](/stripes/gwbwkwkgwgk/) — the page of every
 The **Bro-Roazhon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/">Bro-Roazhon</a></td><td><code>K/56 Y2 W4 Y2 K6 W34 K10 W6 DB4 W20 G/4</code></td><td>236</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/"><img src="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/sett.png" alt="Bro-Roazhon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/">Bro-Roazhon</a></td><td></td><td><code>K/56 Y2 W4 Y2 K6 W34 K10 W6 DB4 W20 G/4</code></td><td>236</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/"><img src="/variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/sett.png" alt="Bro-Roazhon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

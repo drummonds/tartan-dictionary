@@ -13,10 +13,10 @@ Its design is pattern [GBGWGBWK](/stripes/gbgwgbwk/) — the page of every tarta
 The **Western Illinois University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/">Western Illinois University</a></td><td><code>K/4 W6 DP10 Y8 W6 Y8 DP50 Y/4</code></td><td>184</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/"><img src="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/sett.png" alt="Western Illinois University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/">Western Illinois University</a></td><td></td><td><code>K/4 W6 DP10 Y8 W6 Y8 DP50 Y/4</code></td><td>184</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/"><img src="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/sett.png" alt="Western Illinois University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

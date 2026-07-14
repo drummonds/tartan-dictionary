@@ -20,12 +20,12 @@ The **Katsushika** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/">Katsushika</a> ★</td><td><code>DB/44 LY4 DB2 LY4 DB20 Y4 G22 Y/12</code></td><td>168</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><img src="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/sett.png" alt="Katsushika sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/">Scottish Country Dancers</a></td><td><code>DB/44 Y4 DB2 Y4 DB20 R4 G22 R/12</code></td><td>168</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><img src="/variants/s8/db22y2db1y2db10r2g11r6~x2/sett.png" alt="Scottish Country Dancers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/">Katsushika</a> ★</td><td></td><td><code>DB/44 LY4 DB2 LY4 DB20 Y4 G22 Y/12</code></td><td>168</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><img src="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/sett.png" alt="Katsushika sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/">Scottish Country Dancers</a></td><td>0.62</td><td><code>DB/44 Y4 DB2 Y4 DB20 R4 G22 R/12</code></td><td>168</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><img src="/variants/s8/db22y2db1y2db10r2g11r6~x2/sett.png" alt="Scottish Country Dancers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

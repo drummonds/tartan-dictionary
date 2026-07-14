@@ -13,10 +13,10 @@ Its design is pattern [WKWRKWRW](/stripes/wkwrkwrw/) — the page of every tarta
 The **Yale College, Wrexham** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/">Yale College, Wrexham</a></td><td><code>LB/57 K5 LB9 R29 K18 W9 R9 W/5</code></td><td>220</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><img src="/variants/s8/lb57k5lb9r29k18w9r9w5/sett.png" alt="Yale College, Wrexham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/">Yale College, Wrexham</a></td><td></td><td><code>LB/57 K5 LB9 R29 K18 W9 R9 W/5</code></td><td>220</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><img src="/variants/s8/lb57k5lb9r29k18w9r9w5/sett.png" alt="Yale College, Wrexham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

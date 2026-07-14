@@ -15,10 +15,10 @@ One of Polly Wittering's Irish district tartans for House of Edgar, with soft wa
 The **Cavan Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/">Cavan Irish County</a></td><td><code>K/6 R18 K28 O6 K28 DG48 K4 O/6</code></td><td>276</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/"><img src="/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/sett.png" alt="Cavan Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/">Cavan Irish County</a></td><td></td><td><code>K/6 R18 K28 O6 K28 DG48 K4 O/6</code></td><td>276</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/"><img src="/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/sett.png" alt="Cavan Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -17,13 +17,13 @@ The **St. Johnstone F.C.** tartan groups 2 setts — the same named design recor
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/">St. Johnstone F.C.</a> ★</td><td><code>K/24 LB12 K32 DB28 LO8 DB28 LB/4</code></td><td>244</td><td>~1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/"><img src="/variants/s7/k6lb3k8db7lo2db7lb1~x4/sett.png" alt="St. Johnstone F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/">(Sports)</a> · <a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4~db1406275/">St. Johnstone Football Club</a></td></tr>
-<tr><td><a href="/variants/s7/k19w8k19b16y4b16w2~x2/">St Johnstone F.C.</a></td><td><code>K/38 W16 K38 B32 Y8 B32 W/4</code></td><td>294</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k19w8k19b16y4b16w2~x2/"><img src="/variants/s7/k19w8k19b16y4b16w2~x2/sett.png" alt="St Johnstone F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/">St. Johnstone F.C.</a> ★</td><td></td><td><code>K/24 LB12 K32 DB28 LO8 DB28 LB/4</code></td><td>244</td><td>~1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/"><img src="/variants/s7/k6lb3k8db7lo2db7lb1~x4/sett.png" alt="St. Johnstone F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/">(Sports)</a> · <a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4~db1406275/">St. Johnstone Football Club</a></td></tr>
+<tr><td><a href="/variants/s7/k19w8k19b16y4b16w2~x2/">St Johnstone F.C.</a></td><td>1.24</td><td><code>K/38 W16 K38 B32 Y8 B32 W/4</code></td><td>294</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k19w8k19b16y4b16w2~x2/"><img src="/variants/s7/k19w8k19b16y4b16w2~x2/sett.png" alt="St Johnstone F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

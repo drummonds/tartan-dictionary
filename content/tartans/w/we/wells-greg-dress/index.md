@@ -16,10 +16,10 @@ Its design is pattern [RGGGBWGGGWGGYGR](/stripes/rgggbwgggwggygr/) — the page 
 The **Wells, Greg Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/">Wells, Greg Dress</a></td><td><code>R/12 DY2 Y4 DY2 DP30 W4 DY14 Y2 DY14 W4 Y30 DY2 LY4 DY2 R/12</code></td><td>252</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/"><img src="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/sett.png" alt="Wells, Greg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/">Wells, Greg Dress</a></td><td></td><td><code>R/12 DY2 Y4 DY2 DP30 W4 DY14 Y2 DY14 W4 Y30 DY2 LY4 DY2 R/12</code></td><td>252</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/"><img src="/variants/s15/r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6~x2/sett.png" alt="Wells, Greg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [RBRBRRRKYKYKWKRRKRRR](/stripes/rbrbrrrkykykwkrrkrrr/) —
 The **Westwood Red Anderson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/ri5t6ri2t9ri4r6ri4k5ly2k2ly2k5w5k5r23ri1k2ri1r5ri4~x2~ri2806019-r2109032/">Westwood Red Anderson</a></td><td><code>Ri/10 T12 Ri4 T18 Ri8 R12 Ri8 K10 LY4 K4 LY4 K10 W10 K10 R46 Ri2 K4 Ri2 R10 Ri/8</code></td><td>374</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/ri5t6ri2t9ri4r6ri4k5ly2k2ly2k5w5k5r23ri1k2ri1r5ri4~x2~ri2806019-r2109032/"><img src="/variants/s20/ri5t6ri2t9ri4r6ri4k5ly2k2ly2k5w5k5r23ri1k2ri1r5ri4~x2~ri2806019-r2109032/sett.png" alt="Westwood Red Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/ri5t6ri2t9ri4r6ri4k5ly2k2ly2k5w5k5r23ri1k2ri1r5ri4~x2~ri2806019-r2109032/">Westwood Red Anderson</a></td><td></td><td><code>Ri/10 T12 Ri4 T18 Ri8 R12 Ri8 K10 LY4 K4 LY4 K10 W10 K10 R46 Ri2 K4 Ri2 R10 Ri/8</code></td><td>374</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/ri5t6ri2t9ri4r6ri4k5ly2k2ly2k5w5k5r23ri1k2ri1r5ri4~x2~ri2806019-r2109032/"><img src="/variants/s20/ri5t6ri2t9ri4r6ri4k5ly2k2ly2k5w5k5r23ri1k2ri1r5ri4~x2~ri2806019-r2109032/sett.png" alt="Westwood Red Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

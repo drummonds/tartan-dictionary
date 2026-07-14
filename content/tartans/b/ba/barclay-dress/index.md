@@ -21,14 +21,14 @@ The **Barclay Dress** tartan is one sett, recorded at 3 scales — the same prop
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/y1k6y6w1~x8/">Barclay Dress</a></td><td><code>Y/1 K6 Y6 W/1</code></td><td>26</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/y1k6y6w1~x8/"><img src="/variants/s4/y1k6y6w1~x8/sett.png" alt="Barclay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s4/y1k6y6w1/">Barclay Dress</a></td><td><code>Y/1 K6 Y6 W/1</code></td><td>26</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s4/y1k6y6w1~x2/">Barclay Dress</a></td><td><code>Y/2 K12 Y12 W/2</code></td><td>52</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s4/y1k6y6w1~x8/">Clan Tartan</a></td><td><code>Y/8 K48 Y48 W/8</code></td><td>208</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s4/y1k6y6w1/">Barclay Dress</a> · <a href="/variants/s4/y1k6y6w1~x2/">Barclay Dress</a> · <a href="/variants/s4/y1k6y6w1~x8/">Clan Tartan</a></td></tr>
+<tr><td><a href="/variants/s4/y1k6y6w1~x8/">Barclay Dress</a></td><td></td><td><code>Y/1 K6 Y6 W/1</code></td><td>26</td><td>1906</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/y1k6y6w1~x8/"><img src="/variants/s4/y1k6y6w1~x8/sett.png" alt="Barclay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s4/y1k6y6w1/">Barclay Dress</a></td><td>0.00</td><td><code>Y/1 K6 Y6 W/1</code></td><td>26</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s4/y1k6y6w1~x2/">Barclay Dress</a></td><td>0.00</td><td><code>Y/2 K12 Y12 W/2</code></td><td>52</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s4/y1k6y6w1~x8/">Clan Tartan</a></td><td>0.00</td><td><code>Y/8 K48 Y48 W/8</code></td><td>208</td><td>1906</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s4/y1k6y6w1/">Barclay Dress</a> · <a href="/variants/s4/y1k6y6w1~x2/">Barclay Dress</a> · <a href="/variants/s4/y1k6y6w1~x8/">Clan Tartan</a></td></tr>
 </tbody>
 </table>
 

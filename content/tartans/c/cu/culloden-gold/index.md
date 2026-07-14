@@ -16,10 +16,10 @@ Its design is pattern [RWBWKGKY](/stripes/rwbwkgky/) — the page of every tarta
 The **Culloden, Gold** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/">Culloden, Gold</a></td><td><code>R/10 LB4 B28 W4 K26 Y26 K4 LY/6</code></td><td>200</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/"><img src="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/sett.png" alt="Culloden, Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/">Culloden, Gold</a></td><td></td><td><code>R/10 LB4 B28 W4 K26 Y26 K4 LY/6</code></td><td>200</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/"><img src="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/sett.png" alt="Culloden, Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

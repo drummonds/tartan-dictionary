@@ -13,10 +13,10 @@ Its design is pattern [BKBBKYYYKYYY](/stripes/bkbbkyyykyyy/) — the page of eve
 The **Merise and Lars** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/">Merise and Lars</a></td><td><code>LYi/6 LY6 LYi24 K4 LY4 LO4 LY16 K4 DB24 DP16 K4 DP/4</code></td><td>222</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/"><img src="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/sett.png" alt="Merise and Lars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/">Merise and Lars</a></td><td></td><td><code>LYi/6 LY6 LYi24 K4 LY4 LO4 LY16 K4 DB24 DP16 K4 DP/4</code></td><td>222</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/"><img src="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/sett.png" alt="Merise and Lars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,11 +18,11 @@ Its design is pattern [RGKRRGRGRGR](/stripes/rgkrrgrgrgr/) — the page of every
 The **MacDougal 3** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/">MacDougal 3</a></td><td><code>Ri/8 G16 K12 R16 Ri12 G4 Ri4 G4 Ri48 G2 Ri/6</code></td><td>250</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/"><img src="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/sett.png" alt="MacDougal 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/">MacDougal 3</a> · <a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2209032-r1707016/">MacDougall #8</a></td></tr>
+<tr><td><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/">MacDougal 3</a></td><td></td><td><code>Ri/8 G16 K12 R16 Ri12 G4 Ri4 G4 Ri48 G2 Ri/6</code></td><td>250</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/"><img src="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/sett.png" alt="MacDougal 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/">MacDougal 3</a> · <a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2209032-r1707016/">MacDougall #8</a></td></tr>
 </tbody>
 </table>
 

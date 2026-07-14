@@ -18,10 +18,10 @@ Its design is pattern [GRGKGBGKGBW](/stripes/grgkgbgkgbw/) — the page of every
 The **Livingstone Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/">Livingstone Dress</a></td><td><code>G/30 R50 G8 K4 Y2 DB2 Y2 K4 G8 DB24 W/2</code></td><td>240</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/"><img src="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/sett.png" alt="Livingstone Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/">Livingstone Dress</a></td><td></td><td><code>G/30 R50 G8 K4 Y2 DB2 Y2 K4 G8 DB24 W/2</code></td><td>240</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/"><img src="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/sett.png" alt="Livingstone Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

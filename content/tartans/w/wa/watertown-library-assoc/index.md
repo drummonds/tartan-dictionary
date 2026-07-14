@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKGK](/stripes/gkgkgkgk/) — the page of every tarta
 The **Watertown Library Assoc.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/">Watertown Library Assoc.</a></td><td><code>K/8 Y4 K54 Y4 K16 Y62 K4 Y/8</code></td><td>304</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/"><img src="/variants/s8/k4y2k27y2k8y31k2y4~x2/sett.png" alt="Watertown Library Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/">Watertown Library Assoc.</a></td><td></td><td><code>K/8 Y4 K54 Y4 K16 Y62 K4 Y/8</code></td><td>304</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/"><img src="/variants/s8/k4y2k27y2k8y31k2y4~x2/sett.png" alt="Watertown Library Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

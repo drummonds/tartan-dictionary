@@ -15,10 +15,10 @@ Official Rhode Island state tartan, designed by Claire Donaldson of House of Edg
 The **Rhode Island, State of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/">Rhode Island, State of</a></td><td><code>DT/8 T56 DT22 W4 DT4 G28 Y/4</code></td><td>240</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><img src="/variants/s7/dt4t28dt11w2dt2g14y2~x2/sett.png" alt="Rhode Island, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/">Rhode Island, State of</a></td><td></td><td><code>DT/8 T56 DT22 W4 DT4 G28 Y/4</code></td><td>240</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><img src="/variants/s7/dt4t28dt11w2dt2g14y2~x2/sett.png" alt="Rhode Island, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

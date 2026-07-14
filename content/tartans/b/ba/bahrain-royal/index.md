@@ -13,10 +13,10 @@ Its design is pattern [BRBRBRBRBRBGWGRWRW](/stripes/brbrbrbrbrbgwgrwrw/) — the
 The **Bahrain, Royal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/">Bahrain, Royal</a></td><td><code>DB/32 R2 DB4 R6 DB2 R18 DB2 R6 DB4 R2 DB12 G6 LB6 G10 R56 W6 R6 W/6</code></td><td>334</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/"><img src="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/sett.png" alt="Bahrain, Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/">Bahrain, Royal</a></td><td></td><td><code>DB/32 R2 DB4 R6 DB2 R18 DB2 R6 DB4 R2 DB12 G6 LB6 G10 R56 W6 R6 W/6</code></td><td>334</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/"><img src="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/sett.png" alt="Bahrain, Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

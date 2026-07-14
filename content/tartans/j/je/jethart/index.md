@@ -20,13 +20,13 @@ The **Jethart** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2/">Jethart</a> ★</td><td><code>K/44 B32 DR6 B32 K4 B32 G6 B6 LB/10</code></td><td>290</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2/"><img src="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2/sett.png" alt="Jethart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2/">(District)</a> · <a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2~g2408144-lb3203246/">Jethart</a></td></tr>
-<tr><td><a href="/variants/s9/k22db16r3db16k3db16dg3db3b5~x2/">Jethart</a></td><td><code>K/44 DB32 R6 DB32 K6 DB32 DG6 DB6 B/10</code></td><td>294</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k22db16r3db16k3db16dg3db3b5~x2/"><img src="/variants/s9/k22db16r3db16k3db16dg3db3b5~x2/sett.png" alt="Jethart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2/">Jethart</a> ★</td><td></td><td><code>K/44 B32 DR6 B32 K4 B32 G6 B6 LB/10</code></td><td>290</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2/"><img src="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2/sett.png" alt="Jethart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2/">(District)</a> · <a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2~g2408144-lb3203246/">Jethart</a></td></tr>
+<tr><td><a href="/variants/s9/k22db16r3db16k3db16dg3db3b5~x2/">Jethart</a></td><td>0.52</td><td><code>K/44 DB32 R6 DB32 K6 DB32 DG6 DB6 B/10</code></td><td>294</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k22db16r3db16k3db16dg3db3b5~x2/"><img src="/variants/s9/k22db16r3db16k3db16dg3db3b5~x2/sett.png" alt="Jethart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

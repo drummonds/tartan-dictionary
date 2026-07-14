@@ -13,10 +13,10 @@ Its design is pattern [GGGGBGBGBRBR](/stripes/ggggbgbgbrbr/) — the page of eve
 The **Pacific** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/">Pacific</a></td><td><code>O/8 P8 O4 P56 DG8 P40 DG40 P8 DG56 G4 DG8 G/8</code></td><td>480</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/"><img src="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/sett.png" alt="Pacific sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/">Pacific</a></td><td></td><td><code>O/8 P8 O4 P56 DG8 P40 DG40 P8 DG56 G4 DG8 G/8</code></td><td>480</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/"><img src="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/sett.png" alt="Pacific sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

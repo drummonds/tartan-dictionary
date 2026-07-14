@@ -15,12 +15,12 @@ The **Scottish Watch** tartan groups 2 setts — the same named design recorded 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/dr104dg39lo4~x2/">Scottish Watch</a> ★</td><td><code>DR/208 DG78 LO/8</code></td><td>372</td><td>1932</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/dr104dg39lo4~x2/"><img src="/variants/s3/dr104dg39lo4~x2/sett.png" alt="Scottish Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/r104g39y4/">Scottish Watch</a></td><td><code>R/104 G39 Y/4</code></td><td>186</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/r104g39y4/"><img src="/variants/s3/r104g39y4/sett.png" alt="Scottish Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/dr104dg39lo4~x2/">Scottish Watch</a> ★</td><td></td><td><code>DR/208 DG78 LO/8</code></td><td>372</td><td>1932</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/dr104dg39lo4~x2/"><img src="/variants/s3/dr104dg39lo4~x2/sett.png" alt="Scottish Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/r104g39y4/">Scottish Watch</a></td><td>0.46</td><td><code>R/104 G39 Y/4</code></td><td>186</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/r104g39y4/"><img src="/variants/s3/r104g39y4/sett.png" alt="Scottish Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

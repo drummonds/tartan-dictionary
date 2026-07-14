@@ -13,10 +13,10 @@ Its design is pattern [KGBRGRBGKGKR](/stripes/kgbrgrbgkgkr/) — the page of eve
 The **ABF The Soldiers' Charity** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k25g29b24r2g11r2b24g29k25dy4k5r4~x2~k0604259-b1813263/">ABF The Soldiers' Charity</a></td><td><code>K/50 G58 B48 R4 G22 R4 B48 G58 K50 DY8 K10 R/8</code></td><td>678</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k25g29b24r2g11r2b24g29k25dy4k5r4~x2~k0604259-b1813263/"><img src="/variants/s12/k25g29b24r2g11r2b24g29k25dy4k5r4~x2~k0604259-b1813263/sett.png" alt="ABF The Soldiers' Charity sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k25g29b24r2g11r2b24g29k25dy4k5r4~x2~k0604259-b1813263/">ABF The Soldiers' Charity</a></td><td></td><td><code>K/50 G58 B48 R4 G22 R4 B48 G58 K50 DY8 K10 R/8</code></td><td>678</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k25g29b24r2g11r2b24g29k25dy4k5r4~x2~k0604259-b1813263/"><img src="/variants/s12/k25g29b24r2g11r2b24g29k25dy4k5r4~x2~k0604259-b1813263/sett.png" alt="ABF The Soldiers' Charity sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

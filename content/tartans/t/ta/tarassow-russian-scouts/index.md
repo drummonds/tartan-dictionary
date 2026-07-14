@@ -15,10 +15,10 @@ Designed for Russian Scout association Scouts Russes Saint Georges; yellow strip
 The **Tarassow Russian Scouts** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/">Tarassow Russian Scouts</a></td><td><code>K/8 DY8 K8 DY2 G100 K42 R8 T8 W8 K21 DY2 K8 DY8 K/8</code></td><td>462</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/"><img src="/variants/s14/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/sett.png" alt="Tarassow Russian Scouts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/">Tarassow Russian Scouts</a></td><td></td><td><code>K/8 DY8 K8 DY2 G100 K42 R8 T8 W8 K21 DY2 K8 DY8 K/8</code></td><td>462</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/"><img src="/variants/s14/k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8/sett.png" alt="Tarassow Russian Scouts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

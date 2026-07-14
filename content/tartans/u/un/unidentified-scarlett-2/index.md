@@ -13,10 +13,10 @@ Its design is pattern [RKRGRKRGGGRKRKRGWRKRGRKRGGGRKRGRGW](/stripes/rkrgrkrgggrk
 The **Unidentified Scarlett** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~x2/">Unidentified Scarlett</a></td><td><code>R/6 K36 R4 G6 R4 K4 R40 G4 Y2 G4 R4 K36 R4 K4 R40 G6 W2 R6 K36 R4 G6 R4 K4 R40 G4 Y2 G4 R4 K36 R4 G4 R40 G6 W/2</code></td><td>816</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~x2/"><img src="/variants/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~x2/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~x2/">Unidentified Scarlett</a></td><td></td><td><code>R/6 K36 R4 G6 R4 K4 R40 G4 Y2 G4 R4 K36 R4 K4 R40 G6 W2 R6 K36 R4 G6 R4 K4 R40 G4 Y2 G4 R4 K36 R4 G4 R40 G6 W/2</code></td><td>816</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~x2/"><img src="/variants/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~x2/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

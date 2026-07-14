@@ -20,12 +20,12 @@ The **Duminiak** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/n47w6r24w3db5y3~x2/">Duminiak</a> ★</td><td><code>N/94 W12 R48 W6 DB10 Y/6</code></td><td>252</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/n47w6r24w3db5y3~x2/"><img src="/variants/s6/n47w6r24w3db5y3~x2/sett.png" alt="Duminiak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/n47w6r24w3db5ly3~x2/">(Personal)</a></td><td><code>N/94 W12 R48 W6 DB10 LY/6</code></td><td>252</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><img src="/variants/s6/n47w6r24w3db5ly3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/n47w6r24w3db5y3~x2/">Duminiak</a> ★</td><td></td><td><code>N/94 W12 R48 W6 DB10 Y/6</code></td><td>252</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/n47w6r24w3db5y3~x2/"><img src="/variants/s6/n47w6r24w3db5y3~x2/sett.png" alt="Duminiak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/n47w6r24w3db5ly3~x2/">(Personal)</a></td><td>0.02</td><td><code>N/94 W12 R48 W6 DB10 LY/6</code></td><td>252</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><img src="/variants/s6/n47w6r24w3db5ly3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

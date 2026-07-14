@@ -21,14 +21,14 @@ The **Highland Spring** tartan groups 3 setts — the same named design recorded
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/dp3g1dp9r3~x4/">Highland Spring</a> ★</td><td><code>DP/12 G4 DP36 R/12</code></td><td>104</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dp3g1dp9r3~x4/"><img src="/variants/s4/dp3g1dp9r3~x4/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/dp5g2dp19r5~x2/">Corporate Tartan</a></td><td><code>DP/10 G4 DP38 R/10</code></td><td>104</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dp5g2dp19r5~x2/"><img src="/variants/s4/dp5g2dp19r5~x2/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/dp5g3dp19r5~x2/">Highland Spring</a></td><td><code>DP/10 G6 DP38 R/10</code></td><td>108</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dp5g3dp19r5~x2/"><img src="/variants/s4/dp5g3dp19r5~x2/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dp3g1dp9r3~x4/">Highland Spring</a> ★</td><td></td><td><code>DP/12 G4 DP36 R/12</code></td><td>104</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/dp3g1dp9r3~x4/"><img src="/variants/s4/dp3g1dp9r3~x4/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dp5g2dp19r5~x2/">Corporate Tartan</a></td><td>0.22</td><td><code>DP/10 G4 DP38 R/10</code></td><td>104</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/dp5g2dp19r5~x2/"><img src="/variants/s4/dp5g2dp19r5~x2/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dp5g3dp19r5~x2/">Highland Spring</a></td><td>0.47</td><td><code>DP/10 G6 DP38 R/10</code></td><td>108</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/dp5g3dp19r5~x2/"><img src="/variants/s4/dp5g3dp19r5~x2/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

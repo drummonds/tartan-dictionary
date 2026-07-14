@@ -13,10 +13,10 @@ Its design is pattern [GBBGBRBBRG](/stripes/gbbgbrbbrg/) — the page of every t
 The **Glasgows, Miles Better** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y12n4b4y4b4r4b15n15r15y8~x2/">Glasgows, Miles Better</a></td><td><code>Y/24 N8 B8 Y8 B8 R8 B30 N30 R30 Y/16</code></td><td>300</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y12n4b4y4b4r4b15n15r15y8~x2/"><img src="/variants/s10/y12n4b4y4b4r4b15n15r15y8~x2/sett.png" alt="Glasgows, Miles Better sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y12n4b4y4b4r4b15n15r15y8~x2/">Glasgows, Miles Better</a></td><td></td><td><code>Y/24 N8 B8 Y8 B8 R8 B30 N30 R30 Y/16</code></td><td>300</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y12n4b4y4b4r4b15n15r15y8~x2/"><img src="/variants/s10/y12n4b4y4b4r4b15n15r15y8~x2/sett.png" alt="Glasgows, Miles Better sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

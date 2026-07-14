@@ -13,10 +13,10 @@ Its design is pattern [BYBKBYKBKGW](/stripes/bybkbykbkgw/) — the page of every
 The **State Seal of Kentucky** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/">State Seal of Kentucky</a></td><td><code>LB/12 G26 K24 T6 K6 LY6 T60 K6 N22 LY6 N/10</code></td><td>346</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/"><img src="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/sett.png" alt="State Seal of Kentucky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/">State Seal of Kentucky</a></td><td></td><td><code>LB/12 G26 K24 T6 K6 LY6 T60 K6 N22 LY6 N/10</code></td><td>346</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/"><img src="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/sett.png" alt="State Seal of Kentucky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

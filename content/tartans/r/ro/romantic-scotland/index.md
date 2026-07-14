@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBWBG](/stripes/bbbbbbwbg/) — the page of every tar
 The **Romantic Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dt5dp1dt4db4dt7db8w1db2y1~x4/">Romantic Scotland</a></td><td><code>DT/20 DP4 DT16 DB16 DT28 DB32 W4 DB8 Y/4</code></td><td>240</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dt5dp1dt4db4dt7db8w1db2y1~x4/"><img src="/variants/s9/dt5dp1dt4db4dt7db8w1db2y1~x4/sett.png" alt="Romantic Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dt5dp1dt4db4dt7db8w1db2y1~x4/">Romantic Scotland</a></td><td></td><td><code>DT/20 DP4 DT16 DB16 DT28 DB32 W4 DB8 Y/4</code></td><td>240</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dt5dp1dt4db4dt7db8w1db2y1~x4/"><img src="/variants/s9/dt5dp1dt4db4dt7db8w1db2y1~x4/sett.png" alt="Romantic Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

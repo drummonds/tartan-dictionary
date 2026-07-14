@@ -18,10 +18,10 @@ Its design is pattern [GKGKGKGKBKBKBRBR](/stripes/gkgkgkgkbkbkbrbr/) — the pag
 The **Herriot** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/">Herriot</a></td><td><code>O/8 DB4 O4 DB48 K4 DB4 K4 DB4 K20 G4 K4 G4 K4 G20 K8 Y/4</code></td><td>284</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/"><img src="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/sett.png" alt="Herriot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/">Herriot</a></td><td></td><td><code>O/8 DB4 O4 DB48 K4 DB4 K4 DB4 K20 G4 K4 G4 K4 G20 K8 Y/4</code></td><td>284</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/"><img src="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/sett.png" alt="Herriot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

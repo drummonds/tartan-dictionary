@@ -15,10 +15,10 @@ Based on Davidson tartan with red and gold stripes for Buchanan; surname Dow is 
 The **Dow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/db14g2db2g14k2g14k2g2k9r2k8y2k9g2k2g14k2g14db2g2db14w2~x2/">Dow</a></td><td><code>DB/28 G4 DB4 G28 K4 G28 K4 G4 K18 R4 K16 Y4 K18 G4 K4 G28 K4 G28 DB4 G4 DB28 W/4</code></td><td>512</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/db14g2db2g14k2g14k2g2k9r2k8y2k9g2k2g14k2g14db2g2db14w2~x2/"><img src="/variants/s22/db14g2db2g14k2g14k2g2k9r2k8y2k9g2k2g14k2g14db2g2db14w2~x2/sett.png" alt="Dow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/db14g2db2g14k2g14k2g2k9r2k8y2k9g2k2g14k2g14db2g2db14w2~x2/">Dow</a></td><td></td><td><code>DB/28 G4 DB4 G28 K4 G28 K4 G4 K18 R4 K16 Y4 K18 G4 K4 G28 K4 G28 DB4 G4 DB28 W/4</code></td><td>512</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/db14g2db2g14k2g14k2g2k9r2k8y2k9g2k2g14k2g14db2g2db14w2~x2/"><img src="/variants/s22/db14g2db2g14k2g14k2g2k9r2k8y2k9g2k2g14k2g14db2g2db14w2~x2/sett.png" alt="Dow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

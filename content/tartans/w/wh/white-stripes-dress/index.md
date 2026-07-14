@@ -13,10 +13,10 @@ Its design is pattern [KRKRWRW](/stripes/krkrwrw/) — the page of every tartan 
 The **White Stripes Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k2r1k2r14w1r1w1~x8/">White Stripes Dress</a></td><td><code>K/16 R8 K16 R112 W8 R8 W/8</code></td><td>328</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k2r1k2r14w1r1w1~x8/"><img src="/variants/s7/k2r1k2r14w1r1w1~x8/sett.png" alt="White Stripes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k2r1k2r14w1r1w1~x8/">White Stripes Dress</a></td><td></td><td><code>K/16 R8 K16 R112 W8 R8 W/8</code></td><td>328</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k2r1k2r14w1r1w1~x8/"><img src="/variants/s7/k2r1k2r14w1r1w1~x8/sett.png" alt="White Stripes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

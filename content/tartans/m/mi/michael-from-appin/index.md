@@ -13,10 +13,10 @@ Its design is pattern [BBGBGGBBBGWB](/stripes/bbgbggbbbgwb/) — the page of eve
 The **Michael from Appin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2~x2/">Michael from Appin</a></td><td><code>DB/8 DR48 DG4 DR6 DG38 Y4 DR4 DB16 DR4 DG4 W4 DR/4</code></td><td>276</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2~x2/"><img src="/variants/s12/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2~x2/sett.png" alt="Michael from Appin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2~x2/">Michael from Appin</a></td><td></td><td><code>DB/8 DR48 DG4 DR6 DG38 Y4 DR4 DB16 DR4 DG4 W4 DR/4</code></td><td>276</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2~x2/"><img src="/variants/s12/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2~x2/sett.png" alt="Michael from Appin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

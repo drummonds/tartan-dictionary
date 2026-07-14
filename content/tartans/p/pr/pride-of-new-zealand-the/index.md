@@ -13,10 +13,10 @@ Its design is pattern [BKWK](/stripes/bkwk/) — the page of every tartan sharin
 The **Pride of New Zealand, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/b124k60w1k2~x2/">Pride of New Zealand, The</a></td><td><code>B/248 K120 W2 K/4</code></td><td>496</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/b124k60w1k2~x2/"><img src="/variants/s4/b124k60w1k2~x2/sett.png" alt="Pride of New Zealand, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/b124k60w1k2~x2/">Pride of New Zealand, The</a></td><td></td><td><code>B/248 K120 W2 K/4</code></td><td>496</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/b124k60w1k2~x2/"><img src="/variants/s4/b124k60w1k2~x2/sett.png" alt="Pride of New Zealand, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

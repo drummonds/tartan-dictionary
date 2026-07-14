@@ -16,10 +16,10 @@ Its design is pattern [WBGBKWWWKWWBWW](/stripes/wbgbkwwwkwwbww/) — the page of
 The **Praetorian Imperator** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp1005325-dpi1708331/">Praetorian Imperator</a></td><td><code>W/6 DP6 Y6 DPi48 K6 LB6 W48 LB6 K48 LB6 W6 DPi48 LB6 W/6</code></td><td>492</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp1005325-dpi1708331/"><img src="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp1005325-dpi1708331/sett.png" alt="Praetorian Imperator sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp1005325-dpi1708331/">Praetorian Imperator</a></td><td></td><td><code>W/6 DP6 Y6 DPi48 K6 LB6 W48 LB6 K48 LB6 W6 DPi48 LB6 W/6</code></td><td>492</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp1005325-dpi1708331/"><img src="/variants/s14/w1dp1y1dpi8k1lb1w8lb1k8lb1w1dpi8lb1w1~x6~dp1005325-dpi1708331/sett.png" alt="Praetorian Imperator sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **Cranston Dress** tartan groups 2 setts — the same named design recorded 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/">Cranston Dress</a> ★</td><td><code>R/30 DB4 R2 DB4 R6 DB14 G26 DG/6</code></td><td>148</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><img src="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/sett.png" alt="Cranston Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/">Family Tartan</a></td><td><code>R/30 DB3 R2 DB3 R6 DB14 G26 DG/6</code></td><td>144</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><img src="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/">Cranston Dress</a> ★</td><td></td><td><code>R/30 DB4 R2 DB4 R6 DB14 G26 DG/6</code></td><td>148</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><img src="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/sett.png" alt="Cranston Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/">Family Tartan</a></td><td>0.03</td><td><code>R/30 DB3 R2 DB3 R6 DB14 G26 DG/6</code></td><td>144</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><img src="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

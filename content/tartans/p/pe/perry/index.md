@@ -18,10 +18,10 @@ Its design is pattern [GYKY](/stripes/gyky/) — the page of every tartan sharin
 The **Perry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/">Perry</a></td><td><code>LY/150 K58 LY8 Y/12</code></td><td>294</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/"><img src="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/sett.png" alt="Perry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/">Perry</a></td><td></td><td><code>LY/150 K58 LY8 Y/12</code></td><td>294</td><td>1982</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/"><img src="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/sett.png" alt="Perry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

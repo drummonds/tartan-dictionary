@@ -16,10 +16,10 @@ Its design is pattern [RWBWKWGRKRW](/stripes/rwbwkwgrkrw/) — the page of every
 The **Rothesay, Duke of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/">Rothesay, Duke of</a></td><td><code>R/4 W56 DB8 W4 K12 W4 G14 R8 K2 R4 W/2</code></td><td>230</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><img src="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/sett.png" alt="Rothesay, Duke of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/">Rothesay, Duke of</a></td><td></td><td><code>R/4 W56 DB8 W4 K12 W4 G14 R8 K2 R4 W/2</code></td><td>230</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><img src="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/sett.png" alt="Rothesay, Duke of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

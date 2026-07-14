@@ -18,10 +18,10 @@ Its design is pattern [GBGKBKBKBKBKBKBKBKGKYBYBYBYBYBYBYBYK](/stripes/gbgkbkbkbk
 The **Manitoba** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/">Manitoba</a></td><td><code>G/50 DB16 G8 K8 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB20 K40 G12 K24 LY8 DB1 LY1 DB1 LY1 DB1 LY1 DB1 LY1 DB1 LY1 DB1 LY1 DB28 LY6 K/4</code></td><td>442</td><td>1966</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/"><img src="/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/sett.png" alt="Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/">Manitoba</a></td><td></td><td><code>G/50 DB16 G8 K8 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB20 K40 G12 K24 LY8 DB1 LY1 DB1 LY1 DB1 LY1 DB1 LY1 DB1 LY1 DB1 LY1 DB28 LY6 K/4</code></td><td>442</td><td>1966</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/"><img src="/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/sett.png" alt="Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

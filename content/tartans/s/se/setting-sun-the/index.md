@@ -13,10 +13,10 @@ Its design is pattern [WYBWRYBRBYWBRWBY](/stripes/wybwrybrbywbrwby/) — the pag
 The **Setting Sun, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1~x2/">Setting Sun, The</a></td><td><code>LO/30 DO8 LB16 R36 DO4 LB4 LO8 DO4 R12 DO32 LO4 R4 LB12 DO4 LO6 LB/2</code></td><td>340</td><td>~1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1~x2/"><img src="/variants/s16/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1~x2/sett.png" alt="Setting Sun, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1~x2/">Setting Sun, The</a></td><td></td><td><code>LO/30 DO8 LB16 R36 DO4 LB4 LO8 DO4 R12 DO32 LO4 R4 LB12 DO4 LO6 LB/2</code></td><td>340</td><td>~1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1~x2/"><img src="/variants/s16/lo15do4lb8r18do2lb2lo4do2r6do16lo2r2lb6do2lo3lb1~x2/sett.png" alt="Setting Sun, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

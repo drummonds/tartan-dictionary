@@ -18,12 +18,12 @@ The **Poulter Millicent** tartan groups 2 setts — the same named design record
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/">Poulter Millicent</a> ★</td><td><code>G/69 W14 G13 W14 G13 LB69 W72 DP13 W72 LB69 G68 W14 G/13</code></td><td>944</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/"><img src="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/sett.png" alt="Poulter Millicent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/">Poulter Millicent</a></td><td><code>G/36 W7 G7 W7 G7 LB36 W35 DP7 W36 LB35 G34 W7 G/7</code></td><td>479</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/"><img src="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/sett.png" alt="Poulter Millicent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/">Poulter Millicent</a> ★</td><td></td><td><code>G/69 W14 G13 W14 G13 LB69 W72 DP13 W72 LB69 G68 W14 G/13</code></td><td>944</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/"><img src="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/sett.png" alt="Poulter Millicent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/">Poulter Millicent</a></td><td>0.10</td><td><code>G/36 W7 G7 W7 G7 LB36 W35 DP7 W36 LB35 G34 W7 G/7</code></td><td>479</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/"><img src="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/sett.png" alt="Poulter Millicent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

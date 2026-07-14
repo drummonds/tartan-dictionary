@@ -13,10 +13,10 @@ Its design is pattern [BBBKBBBBBBBBBWBW](/stripes/bbbkbbbbbbbbbwbw/) — the pag
 The **Purple Rain** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dp4n2dp24k1n8dp2n1dp2n4dp2n1dp2n16w2n1w4~x2/">Purple Rain</a></td><td><code>DP/8 N4 DP48 K2 N16 DP4 N2 DP4 N8 DP4 N2 DP4 N32 W4 N2 W/8</code></td><td>288</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dp4n2dp24k1n8dp2n1dp2n4dp2n1dp2n16w2n1w4~x2/"><img src="/variants/s16/dp4n2dp24k1n8dp2n1dp2n4dp2n1dp2n16w2n1w4~x2/sett.png" alt="Purple Rain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dp4n2dp24k1n8dp2n1dp2n4dp2n1dp2n16w2n1w4~x2/">Purple Rain</a></td><td></td><td><code>DP/8 N4 DP48 K2 N16 DP4 N2 DP4 N8 DP4 N2 DP4 N32 W4 N2 W/8</code></td><td>288</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dp4n2dp24k1n8dp2n1dp2n4dp2n1dp2n16w2n1w4~x2/"><img src="/variants/s16/dp4n2dp24k1n8dp2n1dp2n4dp2n1dp2n16w2n1w4~x2/sett.png" alt="Purple Rain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBGBKBWR](/stripes/bgbgbkbwr/) — the page of every tar
 The **Scottish Association for N.S.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/">Scottish Association for N.S.</a></td><td><code>DB/46 Y4 DB4 Y4 DB6 K16 N66 W11 R/6</code></td><td>274</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><img src="/variants/s9/db46y4db4y4db6k16n66w11r6/sett.png" alt="Scottish Association for N.S. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/">Scottish Association for N.S.</a></td><td></td><td><code>DB/46 Y4 DB4 Y4 DB6 K16 N66 W11 R/6</code></td><td>274</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><img src="/variants/s9/db46y4db4y4db6k16n66w11r6/sett.png" alt="Scottish Association for N.S. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

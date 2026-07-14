@@ -20,10 +20,10 @@ Worn by a member of Prince Charles' staff at the 1746 battle; now a district tar
 The **Culloden** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r5lb2dp14w2k13ly13k2y3~x2/">Culloden</a></td><td><code>R/10 LB4 DP28 W4 K26 LY26 K4 Y/6</code></td><td>200</td><td>1746</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r5lb2dp14w2k13ly13k2y3~x2/"><img src="/variants/s8/r5lb2dp14w2k13ly13k2y3~x2/sett.png" alt="Culloden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r5lb2dp14w2k13ly13k2y3~x2/">Culloden</a></td><td></td><td><code>R/10 LB4 DP28 W4 K26 LY26 K4 Y/6</code></td><td>200</td><td>1746</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r5lb2dp14w2k13ly13k2y3~x2/"><img src="/variants/s8/r5lb2dp14w2k13ly13k2y3~x2/sett.png" alt="Culloden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

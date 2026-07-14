@@ -13,10 +13,10 @@ Its design is pattern [WBRBRY](/stripes/wbrbry/) — the page of every tartan sh
 The **Afternoon Tea / Apple Tea** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/">Afternoon Tea / Apple Tea</a></td><td><code>LY/15 R98 DO72 M25 DO8 LB/15</code></td><td>436</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/"><img src="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/sett.png" alt="Afternoon Tea / Apple Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/">Afternoon Tea / Apple Tea</a></td><td></td><td><code>LY/15 R98 DO72 M25 DO8 LB/15</code></td><td>436</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/"><img src="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/sett.png" alt="Afternoon Tea / Apple Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

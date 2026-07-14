@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKGRGKGKR](/stripes/gkgkgkgrgkgkr/) — the page of e
 The **Moncrieffe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/">Moncrieffe</a></td><td><code>G/50 K8 G8 K8 G8 K52 G50 R18 G50 K52 G50 K4 R/18</code></td><td>684</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/"><img src="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/sett.png" alt="Moncrieffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/">Moncrieffe</a></td><td></td><td><code>G/50 K8 G8 K8 G8 K52 G50 R18 G50 K52 G50 K4 R/18</code></td><td>684</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/"><img src="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/sett.png" alt="Moncrieffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [RYRYRYRKRY](/stripes/ryryryrkry/) — the page of every t
 The **Austin College** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/">Austin College</a></td><td><code>R/6 LR4 R4 LR6 R6 LR14 R6 K14 R28 LR/4</code></td><td>174</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/"><img src="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/sett.png" alt="Austin College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/">Austin College</a></td><td></td><td><code>R/6 LR4 R4 LR6 R6 LR14 R6 K14 R28 LR/4</code></td><td>174</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/"><img src="/variants/s10/r3lr2r2lr3r3lr7r3k7r14lr2~x2/sett.png" alt="Austin College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

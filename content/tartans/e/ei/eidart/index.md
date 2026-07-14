@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRBBWBWB](/stripes/brbrbrbbwbwb/) — the page of eve
 The **Eidart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/">Eidart</a></td><td><code>DB/56 R30 DB54 R4 DB54 R6 DB52 N40 W6 N4 W4 N/8</code></td><td>572</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><img src="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/sett.png" alt="Eidart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/">Eidart</a></td><td></td><td><code>DB/56 R30 DB54 R4 DB54 R6 DB52 N40 W6 N4 W4 N/8</code></td><td>572</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><img src="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/sett.png" alt="Eidart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

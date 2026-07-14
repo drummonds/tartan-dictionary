@@ -16,10 +16,10 @@ Its design is pattern [GGBWGGBR](/stripes/ggbwggbr/) — the page of every tarta
 The **Glasgow High** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dy6y3t42w4dg18y2t12r3~x2/">Glasgow High</a></td><td><code>DY/12 Y6 T84 W8 DG36 Y4 T24 R/6</code></td><td>342</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dy6y3t42w4dg18y2t12r3~x2/"><img src="/variants/s8/dy6y3t42w4dg18y2t12r3~x2/sett.png" alt="Glasgow High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dy6y3t42w4dg18y2t12r3~x2/">Glasgow High</a></td><td></td><td><code>DY/12 Y6 T84 W8 DG36 Y4 T24 R/6</code></td><td>342</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dy6y3t42w4dg18y2t12r3~x2/"><img src="/variants/s8/dy6y3t42w4dg18y2t12r3~x2/sett.png" alt="Glasgow High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

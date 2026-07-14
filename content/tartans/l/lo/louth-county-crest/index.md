@@ -13,10 +13,10 @@ Its design is pattern [GYKYKGWKR](/stripes/gykykgwkr/) — the page of every tar
 The **Louth County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y16ly5k8ly8k68g46w8k8r8/">Louth County Crest</a></td><td><code>Y/16 LY5 K8 LY8 K68 G46 W8 K8 R/8</code></td><td>326</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y16ly5k8ly8k68g46w8k8r8/"><img src="/variants/s9/y16ly5k8ly8k68g46w8k8r8/sett.png" alt="Louth County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y16ly5k8ly8k68g46w8k8r8/">Louth County Crest</a></td><td></td><td><code>Y/16 LY5 K8 LY8 K68 G46 W8 K8 R/8</code></td><td>326</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y16ly5k8ly8k68g46w8k8r8/"><img src="/variants/s9/y16ly5k8ly8k68g46w8k8r8/sett.png" alt="Louth County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

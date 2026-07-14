@@ -15,10 +15,10 @@ Designed by Scott Baughman for the Stratford Police Pipe Band, Ontario; blue, wh
 The **Stratford Police Pipe Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2~x2/">Stratford Police Pipe Band</a></td><td><code>R/10 LB4 Y2 R90 LB8 W2 K8 DB18 LB4 Y4 LB4 K20 W/4</code></td><td>342</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2~x2/"><img src="/variants/s13/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2~x2/sett.png" alt="Stratford Police Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2~x2/">Stratford Police Pipe Band</a></td><td></td><td><code>R/10 LB4 Y2 R90 LB8 W2 K8 DB18 LB4 Y4 LB4 K20 W/4</code></td><td>342</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2~x2/"><img src="/variants/s13/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2~x2/sett.png" alt="Stratford Police Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

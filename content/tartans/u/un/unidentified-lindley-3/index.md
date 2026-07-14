@@ -13,10 +13,10 @@ Its design is pattern [GYWBWBWBWGBGWBWBWBWYGK](/stripes/gywbwbwbwgbgwbwbwbwygk/)
 The **Unidentified Lindley** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/g3lo19w2db3w3db6w2db3w2y4db14y4w2db3w2db6w3db3w2lo19g3k2~x2~w4000000/">Unidentified Lindley</a></td><td><code>G/6 LO38 W4 DB6 W6 DB12 W4 DB6 W4 Y8 DB28 Y8 W4 DB6 W4 DB12 W6 DB6 W4 LO38 G6 K/4</code></td><td>430</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/g3lo19w2db3w3db6w2db3w2y4db14y4w2db3w2db6w3db3w2lo19g3k2~x2~w4000000/"><img src="/variants/s22/g3lo19w2db3w3db6w2db3w2y4db14y4w2db3w2db6w3db3w2lo19g3k2~x2~w4000000/sett.png" alt="Unidentified Lindley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/g3lo19w2db3w3db6w2db3w2y4db14y4w2db3w2db6w3db3w2lo19g3k2~x2~w4000000/">Unidentified Lindley</a></td><td></td><td><code>G/6 LO38 W4 DB6 W6 DB12 W4 DB6 W4 Y8 DB28 Y8 W4 DB6 W4 DB12 W6 DB6 W4 LO38 G6 K/4</code></td><td>430</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/g3lo19w2db3w3db6w2db3w2y4db14y4w2db3w2db6w3db3w2lo19g3k2~x2~w4000000/"><img src="/variants/s22/g3lo19w2db3w3db6w2db3w2y4db14y4w2db3w2db6w3db3w2lo19g3k2~x2~w4000000/sett.png" alt="Unidentified Lindley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

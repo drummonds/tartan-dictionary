@@ -18,10 +18,10 @@ Its design is pattern [RGKBKBKBKBKBKGW](/stripes/rgkbkbkbkbkbkgw/) — the page 
 The **MacKenzie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/">MacKenzie</a></td><td><code>R/4 G44 K16 DB8 K4 DB4 K4 DB56 K4 DB4 K4 DB8 K16 G44 W/4</code></td><td>440</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/"><img src="/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/sett.png" alt="MacKenzie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/">MacKenzie</a></td><td></td><td><code>R/4 G44 K16 DB8 K4 DB4 K4 DB56 K4 DB4 K4 DB8 K16 G44 W/4</code></td><td>440</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/"><img src="/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/sett.png" alt="MacKenzie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KWRGRGRGGYGWRGRKW](/stripes/kwrgrgrggygwrgrkw/) — the p
 The **Pernel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/">Pernel</a></td><td><code>K/16 W2 R4 G32 R16 G16 R22 Y4 G4 LO2 G4 W4 R20 Y4 R4 K2 W/8</code></td><td>304</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/"><img src="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/sett.png" alt="Pernel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/">Pernel</a></td><td></td><td><code>K/16 W2 R4 G32 R16 G16 R22 Y4 G4 LO2 G4 W4 R20 Y4 R4 K2 W/8</code></td><td>304</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/"><img src="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/sett.png" alt="Pernel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

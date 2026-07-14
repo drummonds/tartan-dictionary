@@ -13,10 +13,10 @@ Its design is pattern [RGGGR](/stripes/rgggr/) — the page of every tartan shar
 The **Belladrum Estate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/r4dg1g6y3r2~x8~g1903114-y2303114/">Belladrum Estate</a></td><td><code>R/32 DG8 G48 Y24 R/16</code></td><td>208</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r4dg1g6y3r2~x8~g1903114-y2303114/"><img src="/variants/s5/r4dg1g6y3r2~x8~g1903114-y2303114/sett.png" alt="Belladrum Estate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r4dg1g6y3r2~x8~g1903114-y2303114/">Belladrum Estate</a></td><td></td><td><code>R/32 DG8 G48 Y24 R/16</code></td><td>208</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r4dg1g6y3r2~x8~g1903114-y2303114/"><img src="/variants/s5/r4dg1g6y3r2~x8~g1903114-y2303114/sett.png" alt="Belladrum Estate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

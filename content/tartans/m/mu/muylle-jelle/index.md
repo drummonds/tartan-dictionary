@@ -13,10 +13,10 @@ Its design is pattern [KRGKGRKBW](/stripes/krgkgrkbw/) — the page of every tar
 The **Muylle, Jelle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/">Muylle, Jelle</a></td><td><code>K/30 R6 Y6 K6 Y6 R6 K48 DB6 W/6</code></td><td>204</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><img src="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/sett.png" alt="Muylle, Jelle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/">Muylle, Jelle</a></td><td></td><td><code>K/30 R6 Y6 K6 Y6 R6 K48 DB6 W/6</code></td><td>204</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><img src="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/sett.png" alt="Muylle, Jelle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

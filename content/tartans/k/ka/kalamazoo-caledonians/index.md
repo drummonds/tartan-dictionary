@@ -13,10 +13,10 @@ Its design is pattern [RBRBRBWRWR](/stripes/rbrbrbwrwr/) — the page of every t
 The **Kalamazoo Caledonians** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/m3db1m1db1m1db5lb1m1lb6m2~x4/">Kalamazoo Caledonians</a></td><td><code>M/12 DB4 M4 DB4 M4 DB20 LB4 M4 LB24 M/8</code></td><td>156</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/m3db1m1db1m1db5lb1m1lb6m2~x4/"><img src="/variants/s10/m3db1m1db1m1db5lb1m1lb6m2~x4/sett.png" alt="Kalamazoo Caledonians sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/m3db1m1db1m1db5lb1m1lb6m2~x4/">Kalamazoo Caledonians</a></td><td></td><td><code>M/12 DB4 M4 DB4 M4 DB20 LB4 M4 LB24 M/8</code></td><td>156</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/m3db1m1db1m1db5lb1m1lb6m2~x4/"><img src="/variants/s10/m3db1m1db1m1db5lb1m1lb6m2~x4/sett.png" alt="Kalamazoo Caledonians sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

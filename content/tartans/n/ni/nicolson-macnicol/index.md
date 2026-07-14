@@ -16,10 +16,10 @@ Its design is pattern [KRGRGRKWKRGRK](/stripes/krgrgrkwkrgrk/) — the page of e
 The **Nicolson MacNicol** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/">Nicolson MacNicol</a></td><td><code>K/4 R16 G4 R16 G28 R4 K12 LB2 K14 R16 G4 R16 K/4</code></td><td>272</td><td>1876</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/"><img src="/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/sett.png" alt="Nicolson MacNicol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/">Nicolson MacNicol</a></td><td></td><td><code>K/4 R16 G4 R16 G28 R4 K12 LB2 K14 R16 G4 R16 K/4</code></td><td>272</td><td>1876</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/"><img src="/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/sett.png" alt="Nicolson MacNicol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

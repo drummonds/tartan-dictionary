@@ -13,10 +13,10 @@ Its design is pattern [RBBBBBBBYBBBYBYBY](/stripes/rbbbbbbbybbbybyby/) — the p
 The **Thom, Calum** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/">Thom, Calum</a></td><td><code>LY/6 DR4 LY18 DR2 LY6 DR6 DP6 DR20 LY4 DR20 DP6 DR6 DO12 DR4 DO12 DP4 R/4</code></td><td>270</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/"><img src="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/sett.png" alt="Thom, Calum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/">Thom, Calum</a></td><td></td><td><code>LY/6 DR4 LY18 DR2 LY6 DR6 DP6 DR20 LY4 DR20 DP6 DR6 DO12 DR4 DO12 DP4 R/4</code></td><td>270</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/"><img src="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/sett.png" alt="Thom, Calum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

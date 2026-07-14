@@ -21,13 +21,13 @@ The **Oliphant** tartan is one sett, recorded at 2 scales — the same proportio
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db4k4db24g32w1g2~x2/">Oliphant</a></td><td><code>DB/4 K4 DB24 G32 W1 G/2</code></td><td>128</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db4k4db24g32w1g2~x2/"><img src="/variants/s6/db4k4db24g32w1g2~x2/sett.png" alt="Oliphant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/db4k4db24g32w1g2~x2/">Oliphant</a></td><td><code>DB/8 K8 DB48 G64 W2 G/4</code></td><td>256</td><td>1842</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/db4k4db24g32w1g2~x4/">(Clan)</a></td><td><code>DB/16 K16 DB96 G128 W4 G/8</code></td><td>512</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s6/db4k4db24g32w1g2~x2/">Oliphant</a> · <a href="/variants/s6/db4k4db24g32w1g2~x4/">(Clan)</a> · <a href="/variants/s6/db4k4db24g32w1g2~x4~db1406275-w4000000/">Oliphant</a></td></tr>
+<tr><td><a href="/variants/s6/db4k4db24g32w1g2~x2/">Oliphant</a></td><td></td><td><code>DB/4 K4 DB24 G32 W1 G/2</code></td><td>128</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db4k4db24g32w1g2~x2/"><img src="/variants/s6/db4k4db24g32w1g2~x2/sett.png" alt="Oliphant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/db4k4db24g32w1g2~x2/">Oliphant</a></td><td>0.00</td><td><code>DB/8 K8 DB48 G64 W2 G/4</code></td><td>256</td><td>1842</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/db4k4db24g32w1g2~x4/">(Clan)</a></td><td>0.00</td><td><code>DB/16 K16 DB96 G128 W4 G/8</code></td><td>512</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s6/db4k4db24g32w1g2~x2/">Oliphant</a> · <a href="/variants/s6/db4k4db24g32w1g2~x4/">(Clan)</a> · <a href="/variants/s6/db4k4db24g32w1g2~x4~db1406275-w4000000/">Oliphant</a></td></tr>
 </tbody>
 </table>
 

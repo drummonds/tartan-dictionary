@@ -13,10 +13,10 @@ Its design is pattern [BGBKBBBKBG](/stripes/bgbkbbbkbg/) — the page of every t
 The **Notre Dame Marching Guard** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/">Notre Dame Marching Guard</a></td><td><code>G/18 T18 K48 T70 DR10 T70 K48 T18 G18 DR/10</code></td><td>628</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/"><img src="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/sett.png" alt="Notre Dame Marching Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/">Notre Dame Marching Guard</a></td><td></td><td><code>G/18 T18 K48 T70 DR10 T70 K48 T18 G18 DR/10</code></td><td>628</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/"><img src="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/sett.png" alt="Notre Dame Marching Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

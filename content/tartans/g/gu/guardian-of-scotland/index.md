@@ -13,10 +13,10 @@ Its design is pattern [GKBBGBBRKW](/stripes/gkbbgbbrkw/) — the page of every t
 The **Guardian of Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/">Guardian of Scotland</a></td><td><code>Y/4 K2 DP16 DBi8 G8 DBi40 DB14 R50 K2 W/4</code></td><td>288</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/"><img src="/variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/sett.png" alt="Guardian of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/">Guardian of Scotland</a></td><td></td><td><code>Y/4 K2 DP16 DBi8 G8 DBi40 DB14 R50 K2 W/4</code></td><td>288</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/"><img src="/variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/sett.png" alt="Guardian of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

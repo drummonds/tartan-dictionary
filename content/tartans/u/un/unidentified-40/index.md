@@ -13,10 +13,10 @@ Its design is pattern [RWGWBWGGWGBWGWGRGW](/stripes/rwgwbwggwgbwgwgrgw/) — the
 The **Unidentified** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r2lb2dy3lb14do1lb1g7dy3lb2dy3do7lb3g2lb3g16r2dy3lb2~x2/">Unidentified</a></td><td><code>R/4 LB4 DY6 LB28 DO2 LB2 G14 DY6 LB4 DY6 DO14 LB6 G4 LB6 G32 R4 DY6 LB/4</code></td><td>296</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r2lb2dy3lb14do1lb1g7dy3lb2dy3do7lb3g2lb3g16r2dy3lb2~x2/"><img src="/variants/s18/r2lb2dy3lb14do1lb1g7dy3lb2dy3do7lb3g2lb3g16r2dy3lb2~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r2lb2dy3lb14do1lb1g7dy3lb2dy3do7lb3g2lb3g16r2dy3lb2~x2/">Unidentified</a></td><td></td><td><code>R/4 LB4 DY6 LB28 DO2 LB2 G14 DY6 LB4 DY6 DO14 LB6 G4 LB6 G32 R4 DY6 LB/4</code></td><td>296</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r2lb2dy3lb14do1lb1g7dy3lb2dy3do7lb3g2lb3g16r2dy3lb2~x2/"><img src="/variants/s18/r2lb2dy3lb14do1lb1g7dy3lb2dy3do7lb3g2lb3g16r2dy3lb2~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

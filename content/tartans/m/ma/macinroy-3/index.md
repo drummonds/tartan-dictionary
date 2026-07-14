@@ -18,10 +18,10 @@ Its design is pattern [KGKRBRBRGW](/stripes/kgkrbrbrgw/) — the page of every t
 The **MacInroy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/">MacInroy</a></td><td><code>K/6 DG34 K18 R4 DB34 R4 DB4 R34 DG4 W/4</code></td><td>282</td><td>1825</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/"><img src="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/">MacInroy</a></td><td></td><td><code>K/6 DG34 K18 R4 DB34 R4 DB4 R34 DG4 W/4</code></td><td>282</td><td>1825</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/"><img src="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

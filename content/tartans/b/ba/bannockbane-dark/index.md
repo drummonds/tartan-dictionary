@@ -16,10 +16,10 @@ Its design is pattern [GGGWYGY](/stripes/gggwygy/) — the page of every tartan 
 The **Bannockbane Dark** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/">Bannockbane Dark</a></td><td><code>DG/8 G6 DG48 W30 LY42 DGi6 LY/8</code></td><td>280</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/"><img src="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/sett.png" alt="Bannockbane Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/">Bannockbane Dark</a></td><td></td><td><code>DG/8 G6 DG48 W30 LY42 DGi6 LY/8</code></td><td>280</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/"><img src="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/sett.png" alt="Bannockbane Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BKWGBKBWB](/stripes/bkwgbkbwb/) — the page of every tar
 The **Unidentified** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/">Unidentified</a></td><td><code>DR/16 K48 W4 DG24 DR12 K4 DR12 W4 DR/12</code></td><td>244</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/"><img src="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/">Unidentified</a></td><td></td><td><code>DR/16 K48 W4 DG24 DR12 K4 DR12 W4 DR/12</code></td><td>244</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/"><img src="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Designed for Queen Elizabeth II's 1977 Silver Jubilee, but never officially adop
 The **Stuart Silver Commemorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/">Stuart Silver Commemorative</a></td><td><code>N/120 LB10 N16 Y4 N8 W4 N8 G32 DY16 N4 DY8 W/4</code></td><td>344</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/"><img src="/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/sett.png" alt="Stuart Silver Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/">Stuart Silver Commemorative</a></td><td></td><td><code>N/120 LB10 N16 Y4 N8 W4 N8 G32 DY16 N4 DY8 W/4</code></td><td>344</td><td>1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/"><img src="/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/sett.png" alt="Stuart Silver Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

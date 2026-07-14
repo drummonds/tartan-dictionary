@@ -16,10 +16,10 @@ Its design is pattern [BKBGBKBKGBK](/stripes/bkbgbkbkgbk/) — the page of every
 The **Clergy, or Priest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/">Clergy, or Priest</a></td><td><code>K/4 B4 DG28 K32 B4 K32 B4 DG8 B4 K16 B/4</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><img src="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/sett.png" alt="Clergy, or Priest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/">Clergy, or Priest</a></td><td></td><td><code>K/4 B4 DG28 K32 B4 K32 B4 DG8 B4 K16 B/4</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><img src="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/sett.png" alt="Clergy, or Priest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

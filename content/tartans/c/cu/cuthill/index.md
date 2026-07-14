@@ -20,10 +20,10 @@ Designed in 2006 by Mr Cuthill, based on Lindsay tartan worn by his family since
 The **Cuthill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3dr4dbi2dr3dbi3dr16db16g16r3g3r2g4dbi3~x2~db1404245-dbi1406275/">Cuthill</a></td><td><code>G/8 R4 G6 R6 G32 DB32 DR32 DBi6 DR6 DBi4 DR8 Y6 DR8 DBi4 DR6 DBi6 DR32 DB32 G32 R6 G6 R4 G8 DBi/6</code></td><td>586</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3dr4dbi2dr3dbi3dr16db16g16r3g3r2g4dbi3~x2~db1404245-dbi1406275/"><img src="/variants/s24/g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3dr4dbi2dr3dbi3dr16db16g16r3g3r2g4dbi3~x2~db1404245-dbi1406275/sett.png" alt="Cuthill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3dr4dbi2dr3dbi3dr16db16g16r3g3r2g4dbi3~x2~db1404245-dbi1406275/">Cuthill</a></td><td></td><td><code>G/8 R4 G6 R6 G32 DB32 DR32 DBi6 DR6 DBi4 DR8 Y6 DR8 DBi4 DR6 DBi6 DR32 DB32 G32 R6 G6 R4 G8 DBi/6</code></td><td>586</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3dr4dbi2dr3dbi3dr16db16g16r3g3r2g4dbi3~x2~db1404245-dbi1406275/"><img src="/variants/s24/g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3dr4dbi2dr3dbi3dr16db16g16r3g3r2g4dbi3~x2~db1404245-dbi1406275/sett.png" alt="Cuthill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

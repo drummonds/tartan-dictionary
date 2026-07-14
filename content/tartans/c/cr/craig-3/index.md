@@ -20,10 +20,10 @@ Designed 1957 by MacGregor Hastie for the clanless Craig family, colours based o
 The **Craig** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s30/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/">Craig</a></td><td><code>B/100 K18 B6 K5 W4 K1 W60 B4 W5 B24 W4 B4 LB6 W6 K1 Y4 K1 W6 LB6 B4 W4 B24 W5 B4 W60 K1 W4 K6 B6 K/18</code></td><td>684</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s30/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/"><img src="/variants/s30/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/sett.png" alt="Craig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s30/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/">Craig</a></td><td></td><td><code>B/100 K18 B6 K5 W4 K1 W60 B4 W5 B24 W4 B4 LB6 W6 K1 Y4 K1 W6 LB6 B4 W4 B24 W5 B4 W60 K1 W4 K6 B6 K/18</code></td><td>684</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s30/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/"><img src="/variants/s30/b100k18b6k5w4k1w60b4w5b24w4b4lb6w6k1y4k1w6lb6b4w4b24w5b4w60k1w4k6b6k18/sett.png" alt="Craig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

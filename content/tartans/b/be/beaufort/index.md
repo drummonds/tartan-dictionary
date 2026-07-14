@@ -13,10 +13,10 @@ Its design is pattern [BWRWRWRKRKRKWBRKRK](/stripes/bwrwrwrkrkrkwbrkrk/) — the
 The **Beaufort** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/k3o1k2o2t24lb2k8o2k2o2k2o8lb2o2lb2o2lb8t3~x2/">Beaufort</a></td><td><code>K/6 O2 K4 O4 T48 LB4 K16 O4 K4 O4 K4 O16 LB4 O4 LB4 O4 LB16 T/6</code></td><td>296</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/k3o1k2o2t24lb2k8o2k2o2k2o8lb2o2lb2o2lb8t3~x2/"><img src="/variants/s18/k3o1k2o2t24lb2k8o2k2o2k2o8lb2o2lb2o2lb8t3~x2/sett.png" alt="Beaufort sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k3o1k2o2t24lb2k8o2k2o2k2o8lb2o2lb2o2lb8t3~x2/">Beaufort</a></td><td></td><td><code>K/6 O2 K4 O4 T48 LB4 K16 O4 K4 O4 K4 O16 LB4 O4 LB4 O4 LB16 T/6</code></td><td>296</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/k3o1k2o2t24lb2k8o2k2o2k2o8lb2o2lb2o2lb8t3~x2/"><img src="/variants/s18/k3o1k2o2t24lb2k8o2k2o2k2o8lb2o2lb2o2lb8t3~x2/sett.png" alt="Beaufort sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

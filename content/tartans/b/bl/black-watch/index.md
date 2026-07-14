@@ -16,10 +16,10 @@ Its design is pattern [BGBBKB](/stripes/bgbbkb/) — the page of every tartan sh
 The **Black Watch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/t3k2t8db8g8db2~x2/">Black Watch</a></td><td><code>T/6 K4 T16 DB16 G16 DB/4</code></td><td>114</td><td>1967</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/t3k2t8db8g8db2~x2/"><img src="/variants/s6/t3k2t8db8g8db2~x2/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t3k2t8db8g8db2~x2/">Black Watch</a></td><td></td><td><code>T/6 K4 T16 DB16 G16 DB/4</code></td><td>114</td><td>1967</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/t3k2t8db8g8db2~x2/"><img src="/variants/s6/t3k2t8db8g8db2~x2/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BWRGGGRGG](/stripes/bwrgggrgg/) — the page of every tar
 The **Stirling** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg2gi1o1dg1g1gi1o1w1b2~x20~dg1304144-gi2508144/">Stirling</a></td><td><code>DG/40 Gi20 O20 DG20 G20 Gi20 O20 W20 B/40</code></td><td>360</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg2gi1o1dg1g1gi1o1w1b2~x20~dg1304144-gi2508144/"><img src="/variants/s9/dg2gi1o1dg1g1gi1o1w1b2~x20~dg1304144-gi2508144/sett.png" alt="Stirling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg2gi1o1dg1g1gi1o1w1b2~x20~dg1304144-gi2508144/">Stirling</a></td><td></td><td><code>DG/40 Gi20 O20 DG20 G20 Gi20 O20 W20 B/40</code></td><td>360</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg2gi1o1dg1g1gi1o1w1b2~x20~dg1304144-gi2508144/"><img src="/variants/s9/dg2gi1o1dg1g1gi1o1w1b2~x20~dg1304144-gi2508144/sett.png" alt="Stirling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

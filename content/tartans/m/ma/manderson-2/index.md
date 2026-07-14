@@ -18,10 +18,10 @@ Its design is pattern [KBKGKRGBRBW](/stripes/kbkgkrgbrbw/) — the page of every
 The **Manderson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/">Manderson</a></td><td><code>K/8 N20 K8 G16 K24 R10 G32 T32 R10 T12 W/4</code></td><td>340</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/"><img src="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/sett.png" alt="Manderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/">Manderson</a></td><td></td><td><code>K/8 N20 K8 G16 K24 R10 G32 T32 R10 T12 W/4</code></td><td>340</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/"><img src="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/sett.png" alt="Manderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

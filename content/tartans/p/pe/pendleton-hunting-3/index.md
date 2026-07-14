@@ -18,10 +18,10 @@ Its design is pattern [BKGBGKGRGKB](/stripes/bkgbgkgrgkb/) — the page of every
 The **Pendleton hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db2ki16dg14r3dg14k3dg14b3dg14ki16db2~ki0604259/">Pendleton hunting</a></td><td><code>DB/2 Ki16 DG14 R3 DG14 K3 DG14 B3 DG14 Ki16 DB/2</code></td><td>198</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db2ki16dg14r3dg14k3dg14b3dg14ki16db2~ki0604259/"><img src="/variants/s11/db2ki16dg14r3dg14k3dg14b3dg14ki16db2~ki0604259/sett.png" alt="Pendleton hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db2ki16dg14r3dg14k3dg14b3dg14ki16db2~ki0604259/">Pendleton hunting</a></td><td></td><td><code>DB/2 Ki16 DG14 R3 DG14 K3 DG14 B3 DG14 Ki16 DB/2</code></td><td>198</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db2ki16dg14r3dg14k3dg14b3dg14ki16db2~ki0604259/"><img src="/variants/s11/db2ki16dg14r3dg14k3dg14b3dg14ki16db2~ki0604259/sett.png" alt="Pendleton hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

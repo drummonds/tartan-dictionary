@@ -16,10 +16,10 @@ Its design is pattern [GRBGBGBR](/stripes/grbgbgbr/) — the page of every tarta
 The **Thomas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r2db1g2db1g19db2r27g2~x2/">Thomas</a></td><td><code>R/4 DB2 G4 DB2 G38 DB4 R54 G/4</code></td><td>216</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r2db1g2db1g19db2r27g2~x2/"><img src="/variants/s8/r2db1g2db1g19db2r27g2~x2/sett.png" alt="Thomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r2db1g2db1g19db2r27g2~x2/">Thomas</a></td><td></td><td><code>R/4 DB2 G4 DB2 G38 DB4 R54 G/4</code></td><td>216</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r2db1g2db1g19db2r27g2~x2/"><img src="/variants/s8/r2db1g2db1g19db2r27g2~x2/sett.png" alt="Thomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

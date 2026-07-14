@@ -13,10 +13,10 @@ Its design is pattern [GWGWGY](/stripes/gwgwgy/) — the page of every tartan sh
 The **Oman, Sultanate of / Oliver dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/">Oman, Sultanate of / Oliver dress</a></td><td><code>DY/18 LB6 DY12 LB6 DY40 LY/4</code></td><td>150</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/"><img src="/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/sett.png" alt="Oman, Sultanate of / Oliver dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/">Oman, Sultanate of / Oliver dress</a></td><td></td><td><code>DY/18 LB6 DY12 LB6 DY40 LY/4</code></td><td>150</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/"><img src="/variants/s6/dy9lb3dy6lb3dy20ly2~x2~dy1603076-ly3307090/sett.png" alt="Oman, Sultanate of / Oliver dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

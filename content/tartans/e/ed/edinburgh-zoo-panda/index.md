@@ -16,10 +16,10 @@ Its design is pattern [GWWWKWRBKRKR](/stripes/gwwwkwrbkrkr/) — the page of eve
 The **Edinburgh Zoo Panda** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/">Edinburgh Zoo Panda</a></td><td><code>G/4 W28 LB3 W3 K16 LB4 O10 N4 K14 R2 K2 R/3</code></td><td>179</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/"><img src="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/sett.png" alt="Edinburgh Zoo Panda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/">Edinburgh Zoo Panda</a></td><td></td><td><code>G/4 W28 LB3 W3 K16 LB4 O10 N4 K14 R2 K2 R/3</code></td><td>179</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/"><img src="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/sett.png" alt="Edinburgh Zoo Panda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

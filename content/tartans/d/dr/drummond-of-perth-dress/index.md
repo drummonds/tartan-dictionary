@@ -20,12 +20,12 @@ The **Drummond of Perth Dress** tartan groups 2 setts — the same named design 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/">Drummond of Perth Dress</a> ★</td><td><code>R/82 Y6 N14 DB6 W48 R20 N14 DB14 W/6</code></td><td>332</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/"><img src="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/sett.png" alt="Drummond of Perth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/">#3</a></td><td><code>R/134 Y6 N12 LB6 W50 R20 N12 LB14 W/6</code></td><td>380</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/"><img src="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/sett.png" alt="#3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/">Drummond of Perth Dress</a> ★</td><td></td><td><code>R/82 Y6 N14 DB6 W48 R20 N14 DB14 W/6</code></td><td>332</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/"><img src="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/sett.png" alt="Drummond of Perth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/">#3</a></td><td>0.51</td><td><code>R/134 Y6 N12 LB6 W50 R20 N12 LB14 W/6</code></td><td>380</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/"><img src="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/sett.png" alt="#3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

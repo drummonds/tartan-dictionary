@@ -13,10 +13,10 @@ Its design is pattern [KGKRKRGKGW](/stripes/kgkrkrgkgw/) — the page of every t
 The **Carlow County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w15g8k12g14r64k12r16k10y8k14/">Carlow County Crest</a></td><td><code>W/15 G8 K12 G14 R64 K12 R16 K10 Y8 K/14</code></td><td>317</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w15g8k12g14r64k12r16k10y8k14/"><img src="/variants/s10/w15g8k12g14r64k12r16k10y8k14/sett.png" alt="Carlow County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w15g8k12g14r64k12r16k10y8k14/">Carlow County Crest</a></td><td></td><td><code>W/15 G8 K12 G14 R64 K12 R16 K10 Y8 K/14</code></td><td>317</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w15g8k12g14r64k12r16k10y8k14/"><img src="/variants/s10/w15g8k12g14r64k12r16k10y8k14/sett.png" alt="Carlow County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,11 +18,11 @@ Its design is pattern [KBKBGKGGGKGWBWBWBW](/stripes/kbkbgkgggkgwbwbwbw/) — the
 The **Johnston Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/">Johnston Dress</a></td><td><code>K/6 DB6 K6 DB36 G40 K6 G6 Y6 G6 K6 G40 LB6 DB6 LB6 DB6 LB24 DB6 LB/6</code></td><td>436</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/"><img src="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/sett.png" alt="Johnston Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/">(Clan?)</a> · <a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2~db1406275/">(Dalgleish)</a></td></tr>
+<tr><td><a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/">Johnston Dress</a></td><td></td><td><code>K/6 DB6 K6 DB36 G40 K6 G6 Y6 G6 K6 G40 LB6 DB6 LB6 DB6 LB24 DB6 LB/6</code></td><td>436</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/"><img src="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/sett.png" alt="Johnston Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/">(Clan?)</a> · <a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2~db1406275/">(Dalgleish)</a></td></tr>
 </tbody>
 </table>
 

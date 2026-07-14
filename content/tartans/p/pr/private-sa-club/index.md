@@ -13,10 +13,10 @@ Its design is pattern [BBBYBKBK](/stripes/bbbybkbk/) — the page of every tarta
 The **Private SA Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/">Private SA Club</a></td><td><code>K/6 DR16 K6 DR16 LO38 DR14 DT72 DR/6</code></td><td>336</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><img src="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/sett.png" alt="Private SA Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/">Private SA Club</a></td><td></td><td><code>K/6 DR16 K6 DR16 LO38 DR14 DT72 DR/6</code></td><td>336</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><img src="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/sett.png" alt="Private SA Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

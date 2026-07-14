@@ -16,10 +16,10 @@ Its design is pattern [RBRBBWGWBWBWWWBBRBRBRW](/stripes/rbrbbwgwbwbwwwbbrbrbrw/)
 The **Glasgow Garden Festival** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/">Glasgow Garden Festival</a></td><td><code>R/12 N2 R8 DB8 N4 W2 Y2 W2 N2 W4 N2 W2 LB2 W2 N3 DB12 R68 N2 R2 N2 R3 W/4</code></td><td>284</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/"><img src="/variants/s22/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/sett.png" alt="Glasgow Garden Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/">Glasgow Garden Festival</a></td><td></td><td><code>R/12 N2 R8 DB8 N4 W2 Y2 W2 N2 W4 N2 W2 LB2 W2 N3 DB12 R68 N2 R2 N2 R3 W/4</code></td><td>284</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/"><img src="/variants/s22/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/sett.png" alt="Glasgow Garden Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBGBGBGKGKWKWKGKWG](/stripes/gbgbgbgkgkwkwkgkwg/) — the
 The **Royal Canadian Air Force** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dg4lb6k1dg2k1lb14k3w3k2dg2k2dg2db4dg2db6dg2db6dg3/">Royal Canadian Air Force</a></td><td><code>DG/4 LB6 K1 DG2 K1 LB14 K3 W3 K2 DG2 K2 DG2 DB4 DG2 DB6 DG2 DB6 DG/3</code></td><td>123</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dg4lb6k1dg2k1lb14k3w3k2dg2k2dg2db4dg2db6dg2db6dg3/"><img src="/variants/s18/dg4lb6k1dg2k1lb14k3w3k2dg2k2dg2db4dg2db6dg2db6dg3/sett.png" alt="Royal Canadian Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dg4lb6k1dg2k1lb14k3w3k2dg2k2dg2db4dg2db6dg2db6dg3/">Royal Canadian Air Force</a></td><td></td><td><code>DG/4 LB6 K1 DG2 K1 LB14 K3 W3 K2 DG2 K2 DG2 DB4 DG2 DB6 DG2 DB6 DG/3</code></td><td>123</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dg4lb6k1dg2k1lb14k3w3k2dg2k2dg2db4dg2db6dg2db6dg3/"><img src="/variants/s18/dg4lb6k1dg2k1lb14k3w3k2dg2k2dg2db4dg2db6dg2db6dg3/sett.png" alt="Royal Canadian Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

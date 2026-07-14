@@ -16,10 +16,10 @@ Its design is pattern [GKBBBKW](/stripes/gkbbbkw/) — the page of every tartan 
 The **George Heriot's** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/">George Heriot's</a></td><td><code>Y/6 K2 N48 DB20 DBi48 K2 W/6</code></td><td>252</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/"><img src="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/sett.png" alt="George Heriot's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/">George Heriot's</a></td><td></td><td><code>Y/6 K2 N48 DB20 DBi48 K2 W/6</code></td><td>252</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/"><img src="/variants/s7/y3k1n24db10dbi24k1w3~x2~db1004274-dbi1406275/sett.png" alt="George Heriot's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

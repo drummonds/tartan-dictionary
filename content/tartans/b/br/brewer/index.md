@@ -13,10 +13,10 @@ Its design is pattern [GBBBGBGBGBBGBGBGGGR](/stripes/gbbbgbgbgbbgbgbgggr/) — t
 The **Brewer** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2~x2/">Brewer</a></td><td><code>DG/6 DR4 T2 DR38 DG2 DR2 DG2 DR16 DG2 T16 DR2 DG16 DR2 DG2 DR2 DG56 DY2 DG4 O/4</code></td><td>350</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2~x2/"><img src="/variants/s19/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2~x2/sett.png" alt="Brewer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2~x2/">Brewer</a></td><td></td><td><code>DG/6 DR4 T2 DR38 DG2 DR2 DG2 DR16 DG2 T16 DR2 DG16 DR2 DG2 DR2 DG56 DY2 DG4 O/4</code></td><td>350</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2~x2/"><img src="/variants/s19/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2~x2/sett.png" alt="Brewer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

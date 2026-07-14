@@ -13,10 +13,10 @@ Its design is pattern [GYGYGYGYGYGYYYGY](/stripes/gygygygygygyyygy/) — the pag
 The **UPS No. 1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076/">UPS No. 1</a></td><td><code>LYi/16 DY4 LYi4 LO4 LYi4 DY4 LYi30 DY4 LYi120 DY8 LY2 DY4 LY4 DY4 LY2 DY/8</code></td><td>420</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076/"><img src="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076/sett.png" alt="UPS No. 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076/">UPS No. 1</a></td><td></td><td><code>LYi/16 DY4 LYi4 LO4 LYi4 DY4 LYi30 DY4 LYi120 DY8 LY2 DY4 LY4 DY4 LY2 DY/8</code></td><td>420</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076/"><img src="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076/sett.png" alt="UPS No. 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

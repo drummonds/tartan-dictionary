@@ -16,10 +16,10 @@ Its design is pattern [RKGKGKGRYRGKGKGKRWR](/stripes/rkgkgkgryrgkgkgkrwr/) — t
 The **East Kilbride** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/r20k2y10k2y10k2g15r21lo4r21g15k2y10k2y10k2r27w4r7~x2/">East Kilbride</a></td><td><code>R/40 K4 Y20 K4 Y20 K4 G30 R42 LO8 R42 G30 K4 Y20 K4 Y20 K4 R54 W8 R/14</code></td><td>690</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/r20k2y10k2y10k2g15r21lo4r21g15k2y10k2y10k2r27w4r7~x2/"><img src="/variants/s19/r20k2y10k2y10k2g15r21lo4r21g15k2y10k2y10k2r27w4r7~x2/sett.png" alt="East Kilbride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/r20k2y10k2y10k2g15r21lo4r21g15k2y10k2y10k2r27w4r7~x2/">East Kilbride</a></td><td></td><td><code>R/40 K4 Y20 K4 Y20 K4 G30 R42 LO8 R42 G30 K4 Y20 K4 Y20 K4 R54 W8 R/14</code></td><td>690</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/r20k2y10k2y10k2g15r21lo4r21g15k2y10k2y10k2r27w4r7~x2/"><img src="/variants/s19/r20k2y10k2y10k2g15r21lo4r21g15k2y10k2y10k2r27w4r7~x2/sett.png" alt="East Kilbride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

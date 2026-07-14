@@ -13,10 +13,10 @@ Its design is pattern [KBGKBKBKBW](/stripes/kbgkbkbkbw/) — the page of every t
 The **Dollar Academy, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w4db52k12db12k12db12k12dg24db8k1~x2/">Dollar Academy, The</a></td><td><code>W/8 DB104 K24 DB24 K24 DB24 K24 DG48 DB16 K/2</code></td><td>586</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w4db52k12db12k12db12k12dg24db8k1~x2/"><img src="/variants/s10/w4db52k12db12k12db12k12dg24db8k1~x2/sett.png" alt="Dollar Academy, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w4db52k12db12k12db12k12dg24db8k1~x2/">Dollar Academy, The</a></td><td></td><td><code>W/8 DB104 K24 DB24 K24 DB24 K24 DG48 DB16 K/2</code></td><td>586</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w4db52k12db12k12db12k12dg24db8k1~x2/"><img src="/variants/s10/w4db52k12db12k12db12k12dg24db8k1~x2/sett.png" alt="Dollar Academy, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

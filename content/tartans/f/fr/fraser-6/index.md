@@ -18,10 +18,10 @@ Its design is pattern [WGWGWRWGWGWRWRW](/stripes/wgwgwrwgwgwrwrw/) — the page 
 The **Fraser** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/">Fraser</a></td><td><code>W/4 R56 W4 R12 W4 G42 W4 G42 W4 R12 W4 G42 W4 G42 W/4</code></td><td>552</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><img src="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/">Fraser</a></td><td></td><td><code>W/4 R56 W4 R12 W4 G42 W4 G42 W4 R12 W4 G42 W4 G42 W/4</code></td><td>552</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><img src="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

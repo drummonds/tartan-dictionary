@@ -18,10 +18,10 @@ Its design is pattern [GRGGGGGRYRYG](/stripes/grgggggryryg/) — the page of eve
 The **Harmony 5** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g9r3g4dy3g3dy4g3o11ly30r3ly4g3~x2/">Harmony 5</a></td><td><code>G/18 R6 G8 DY6 G6 DY8 G6 O22 LY60 R6 LY8 G/6</code></td><td>296</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g9r3g4dy3g3dy4g3o11ly30r3ly4g3~x2/"><img src="/variants/s12/g9r3g4dy3g3dy4g3o11ly30r3ly4g3~x2/sett.png" alt="Harmony 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g9r3g4dy3g3dy4g3o11ly30r3ly4g3~x2/">Harmony 5</a></td><td></td><td><code>G/18 R6 G8 DY6 G6 DY8 G6 O22 LY60 R6 LY8 G/6</code></td><td>296</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g9r3g4dy3g3dy4g3o11ly30r3ly4g3~x2/"><img src="/variants/s12/g9r3g4dy3g3dy4g3o11ly30r3ly4g3~x2/sett.png" alt="Harmony 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

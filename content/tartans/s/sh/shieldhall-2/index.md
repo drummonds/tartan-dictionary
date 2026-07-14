@@ -18,10 +18,10 @@ Its design is pattern [BRBRBBWBRBRB](/stripes/brbrbbwbrbrb/) — the page of eve
 The **Shieldhall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/">Shieldhall</a></td><td><code>DO/48 R4 DO8 R4 DO8 LB8 DO12 N36 R4 N8 R4 N/12</code></td><td>252</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/"><img src="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/sett.png" alt="Shieldhall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/">Shieldhall</a></td><td></td><td><code>DO/48 R4 DO8 R4 DO8 LB8 DO12 N36 R4 N8 R4 N/12</code></td><td>252</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/"><img src="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/sett.png" alt="Shieldhall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

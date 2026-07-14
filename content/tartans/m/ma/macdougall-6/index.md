@@ -18,10 +18,10 @@ Its design is pattern [GRBRGRBRBRBRRBR](/stripes/grbrgrbrbrbrrbr/) — the page 
 The **MacDougall 6** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/g18r6dr4ri6g20ri6dr4ri6dr4r6db22ri8r6dr4ri5~r1506028-ri2008029/">MacDougall 6</a></td><td><code>G/18 R6 DR4 Ri6 G20 Ri6 DR4 Ri6 DR4 R6 DB22 Ri8 R6 DR4 Ri/5</code></td><td>227</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/g18r6dr4ri6g20ri6dr4ri6dr4r6db22ri8r6dr4ri5~r1506028-ri2008029/"><img src="/variants/s15/g18r6dr4ri6g20ri6dr4ri6dr4r6db22ri8r6dr4ri5~r1506028-ri2008029/sett.png" alt="MacDougall 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g18r6dr4ri6g20ri6dr4ri6dr4r6db22ri8r6dr4ri5~r1506028-ri2008029/">MacDougall 6</a></td><td></td><td><code>G/18 R6 DR4 Ri6 G20 Ri6 DR4 Ri6 DR4 R6 DB22 Ri8 R6 DR4 Ri/5</code></td><td>227</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g18r6dr4ri6g20ri6dr4ri6dr4r6db22ri8r6dr4ri5~r1506028-ri2008029/"><img src="/variants/s15/g18r6dr4ri6g20ri6dr4ri6dr4r6db22ri8r6dr4ri5~r1506028-ri2008029/sett.png" alt="MacDougall 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

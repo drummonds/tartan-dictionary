@@ -20,10 +20,10 @@ Designed by Peter MacDonald in 1994 for Martin Robb of Carroglen, Comrie, Perths
 The **Robb Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/">Robb Dress</a></td><td><code>DP/4 R2 DG52 R36 DP52 Y2 R2 DP/4</code></td><td>300</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/"><img src="/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/sett.png" alt="Robb Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/">Robb Dress</a></td><td></td><td><code>DP/4 R2 DG52 R36 DP52 Y2 R2 DP/4</code></td><td>300</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/"><img src="/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/sett.png" alt="Robb Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

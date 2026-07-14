@@ -13,10 +13,10 @@ Its design is pattern [WGWGRGGGGGRWGWY](/stripes/wgwgrgggggrwgwy/) — the page 
 The **el Corte** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/ly6lb5g4lb5r2dy5g2dy14g10dy1r30dy10lb14g5lb2~x2/">el Corte</a></td><td><code>LY/12 LB10 G8 LB10 R4 DY10 G4 DY28 G20 DY2 R60 DY20 LB28 G10 LB/4</code></td><td>444</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/ly6lb5g4lb5r2dy5g2dy14g10dy1r30dy10lb14g5lb2~x2/"><img src="/variants/s15/ly6lb5g4lb5r2dy5g2dy14g10dy1r30dy10lb14g5lb2~x2/sett.png" alt="el Corte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/ly6lb5g4lb5r2dy5g2dy14g10dy1r30dy10lb14g5lb2~x2/">el Corte</a></td><td></td><td><code>LY/12 LB10 G8 LB10 R4 DY10 G4 DY28 G20 DY2 R60 DY20 LB28 G10 LB/4</code></td><td>444</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/ly6lb5g4lb5r2dy5g2dy14g10dy1r30dy10lb14g5lb2~x2/"><img src="/variants/s15/ly6lb5g4lb5r2dy5g2dy14g10dy1r30dy10lb14g5lb2~x2/sett.png" alt="el Corte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

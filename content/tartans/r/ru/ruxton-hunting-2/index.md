@@ -18,10 +18,10 @@ Its design is pattern [RKRBKBKRKRBRKRKR](/stripes/rkrbkbkrkrbrkrkr/) — the pag
 The **Ruxton hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/">Ruxton hunting</a></td><td><code>R/32 K2 R16 DB4 K2 DB32 K6 R2 K2 R30 DB8 R4 K6 R2 K2 R/32</code></td><td>300</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/"><img src="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/sett.png" alt="Ruxton hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/">Ruxton hunting</a></td><td></td><td><code>R/32 K2 R16 DB4 K2 DB32 K6 R2 K2 R30 DB8 R4 K6 R2 K2 R/32</code></td><td>300</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/"><img src="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/sett.png" alt="Ruxton hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

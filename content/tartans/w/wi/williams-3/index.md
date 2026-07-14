@@ -18,10 +18,10 @@ Its design is pattern [BGBGBKBGBKBGBKG](/stripes/bgbgbkbgbkbgbkg/) — the page 
 The **Williams** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/">Williams</a></td><td><code>DR/52 Y4 DR26 DG4 DR6 K4 DR12 DG2 DR12 K4 DR6 DG4 DR60 K4 DG/4</code></td><td>352</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/"><img src="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/sett.png" alt="Williams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/">Williams</a></td><td></td><td><code>DR/52 Y4 DR26 DG4 DR6 K4 DR12 DG2 DR12 K4 DR6 DG4 DR60 K4 DG/4</code></td><td>352</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/"><img src="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/sett.png" alt="Williams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

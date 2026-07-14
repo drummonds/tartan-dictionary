@@ -16,10 +16,10 @@ Its design is pattern [YRKRKWKBRKRBKWKRKRY](/stripes/yrkrkwkbrkrbkwkrkry/) — t
 The **Cornish Brewery** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/">Cornish Brewery</a></td><td><code>LY/4 R6 K4 R12 K20 W8 K20 B6 R14 K6 R70 B6 K20 W8 K20 R10 K4 R6 LY/4</code></td><td>488</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/"><img src="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/sett.png" alt="Cornish Brewery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/">Cornish Brewery</a></td><td></td><td><code>LY/4 R6 K4 R12 K20 W8 K20 B6 R14 K6 R70 B6 K20 W8 K20 R10 K4 R6 LY/4</code></td><td>488</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/"><img src="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/sett.png" alt="Cornish Brewery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

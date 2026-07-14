@@ -20,10 +20,10 @@ Differs from Ferguson only by a yellow line; produced by Wilsons pre-1820 as 'Re
 The **MacLaren** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db22k4db4k4db4k22g22r6g6k2y3~x2/">MacLaren</a></td><td><code>DB/44 K8 DB8 K8 DB8 K44 G44 R12 G12 K4 Y/6</code></td><td>346</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db22k4db4k4db4k22g22r6g6k2y3~x2/"><img src="/variants/s11/db22k4db4k4db4k22g22r6g6k2y3~x2/sett.png" alt="MacLaren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db22k4db4k4db4k22g22r6g6k2y3~x2/">MacLaren</a></td><td></td><td><code>DB/44 K8 DB8 K8 DB8 K44 G44 R12 G12 K4 Y/6</code></td><td>346</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db22k4db4k4db4k22g22r6g6k2y3~x2/"><img src="/variants/s11/db22k4db4k4db4k22g22r6g6k2y3~x2/sett.png" alt="MacLaren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

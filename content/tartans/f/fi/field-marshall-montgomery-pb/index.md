@@ -13,10 +13,10 @@ Its design is pattern [RBRGKYKWBKW](/stripes/rbrgkykwbkw/) — the page of every
 The **Field Marshall Montgomery PB** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k0700000/">Field Marshall Montgomery PB</a></td><td><code>R/16 DB2 R62 DG4 K16 LY2 K4 W2 DB20 K12 W/4</code></td><td>268</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k0700000/"><img src="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k0700000/sett.png" alt="Field Marshall Montgomery PB sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k0700000/">Field Marshall Montgomery PB</a></td><td></td><td><code>R/16 DB2 R62 DG4 K16 LY2 K4 W2 DB20 K12 W/4</code></td><td>268</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k0700000/"><img src="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k0700000/sett.png" alt="Field Marshall Montgomery PB sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

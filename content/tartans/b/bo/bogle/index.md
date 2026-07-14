@@ -13,10 +13,10 @@ Its design is pattern [KKKKKKRKGKRKKKW](/stripes/kkkkkkrkgkrkkkw/) — the page 
 The **Bogle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k38r16k1y2k1r16k27w2~x2/">Bogle</a></td><td><code>K/76 R32 K2 Y4 K2 R32 K54 W/4</code></td><td>332</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k38r16k1y2k1r16k27w2~x2/"><img src="/variants/s8/k38r16k1y2k1r16k27w2~x2/sett.png" alt="Bogle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k38r16k1y2k1r16k27w2~x2/">Bogle</a></td><td></td><td><code>K/76 R32 K2 Y4 K2 R32 K54 W/4</code></td><td>332</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k38r16k1y2k1r16k27w2~x2/"><img src="/variants/s8/k38r16k1y2k1r16k27w2~x2/sett.png" alt="Bogle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

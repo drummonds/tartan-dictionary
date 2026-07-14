@@ -13,10 +13,10 @@ Its design is pattern [RYBYYGBYYBGYR](/stripes/rybyygbyybgyr/) — the page of e
 The **Callanish, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2~x2~lr3301060-dt1300000/">Callanish, The</a></td><td><code>R/4 LR4 DT4 LO4 LR12 G6 DT6 LO8 LR4 DT6 G4 LR4 R/4</code></td><td>132</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2~x2~lr3301060-dt1300000/"><img src="/variants/s13/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2~x2~lr3301060-dt1300000/sett.png" alt="Callanish, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2~x2~lr3301060-dt1300000/">Callanish, The</a></td><td></td><td><code>R/4 LR4 DT4 LO4 LR12 G6 DT6 LO8 LR4 DT6 G4 LR4 R/4</code></td><td>132</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2~x2~lr3301060-dt1300000/"><img src="/variants/s13/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2~x2~lr3301060-dt1300000/sett.png" alt="Callanish, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

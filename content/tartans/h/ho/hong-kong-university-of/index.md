@@ -15,10 +15,10 @@ Centenary tartan gifted by Aberdeen University to Hong Kong University in 2012, 
 The **Hong Kong, University of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/">Hong Kong, University of</a></td><td><code>Y/4 K2 R4 DG12 LG10 K2 DB10 K2 DG84 K2 W4 K2 W/4</code></td><td>276</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/"><img src="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/sett.png" alt="Hong Kong, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/">Hong Kong, University of</a></td><td></td><td><code>Y/4 K2 R4 DG12 LG10 K2 DB10 K2 DG84 K2 W4 K2 W/4</code></td><td>276</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/"><img src="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/sett.png" alt="Hong Kong, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

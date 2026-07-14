@@ -13,10 +13,10 @@ Its design is pattern [BGBBGWGW](/stripes/bgbbgwgw/) — the page of every tarta
 The **Business Air** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/">Business Air</a></td><td><code>B/8 Y4 B32 DB30 G32 W6 G6 W/8</code></td><td>236</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><img src="/variants/s8/b4y2b16db15g16w3g3w4~x2/sett.png" alt="Business Air sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/">Business Air</a></td><td></td><td><code>B/8 Y4 B32 DB30 G32 W6 G6 W/8</code></td><td>236</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><img src="/variants/s8/b4y2b16db15g16w3g3w4~x2/sett.png" alt="Business Air sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

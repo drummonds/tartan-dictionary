@@ -13,10 +13,10 @@ Its design is pattern [GRWKGRGRGRGRGKWBW](/stripes/grwkgrgrgrgrgkwbw/) — the p
 The **Espana** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/">Espana</a></td><td><code>W/68 T10 W6 K2 Y4 R4 Y4 R4 Y4 R4 Y4 R4 Y4 K2 W6 R8 Y/16</code></td><td>224</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/"><img src="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/sett.png" alt="Espana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/">Espana</a></td><td></td><td><code>W/68 T10 W6 K2 Y4 R4 Y4 R4 Y4 R4 Y4 R4 Y4 K2 W6 R8 Y/16</code></td><td>224</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/"><img src="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/sett.png" alt="Espana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

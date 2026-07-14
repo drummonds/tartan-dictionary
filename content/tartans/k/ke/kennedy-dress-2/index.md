@@ -18,10 +18,10 @@ Its design is pattern [KGYGRGRGBKBKBKBYR](/stripes/kgygrgrgbkbkbkbyr/) — the p
 The **Kennedy Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k2g2lo1g2o1g2o1g10db3k2db2k2db2k2db3lr9o2~x2/">Kennedy Dress</a></td><td><code>K/4 G4 LO2 G4 O2 G4 O2 G20 DB6 K4 DB4 K4 DB4 K4 DB6 LR18 O/4</code></td><td>184</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k2g2lo1g2o1g2o1g10db3k2db2k2db2k2db3lr9o2~x2/"><img src="/variants/s17/k2g2lo1g2o1g2o1g10db3k2db2k2db2k2db3lr9o2~x2/sett.png" alt="Kennedy Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k2g2lo1g2o1g2o1g10db3k2db2k2db2k2db3lr9o2~x2/">Kennedy Dress</a></td><td></td><td><code>K/4 G4 LO2 G4 O2 G4 O2 G20 DB6 K4 DB4 K4 DB4 K4 DB6 LR18 O/4</code></td><td>184</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k2g2lo1g2o1g2o1g10db3k2db2k2db2k2db3lr9o2~x2/"><img src="/variants/s17/k2g2lo1g2o1g2o1g10db3k2db2k2db2k2db3lr9o2~x2/sett.png" alt="Kennedy Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

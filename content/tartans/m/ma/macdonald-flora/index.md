@@ -18,12 +18,12 @@ The **MacDonald, Flora** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24~x2/">MacDonald, Flora</a> ★</td><td><code>T/48 K8 T8 K8 T8 K44 T48 W12 T48 K44 T36 R48 T36 K44 G28 R8 G8 R8 G16 K2 W12 K2 G16 R8 G8 R8 G28 K44 T8 K8 T8 K8 T/48</code></td><td>1336</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24~x2/"><img src="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24~x2/sett.png" alt="MacDonald, Flora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1ly6k1g8r4g4r4g14k22t4k4t4k4t24~x2/">(Artefact)</a></td><td><code>T/48 K8 T8 K8 T8 K44 T48 W12 T48 K44 T36 R48 T36 K44 G28 R8 G8 R8 G16 K2 LY12 K2 G16 R8 G8 R8 G28 K44 T8 K8 T8 K8 T/48</code></td><td>1336</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1ly6k1g8r4g4r4g14k22t4k4t4k4t24~x2/"><img src="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1ly6k1g8r4g4r4g14k22t4k4t4k4t24~x2/sett.png" alt="(Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24~x2/">MacDonald, Flora</a> ★</td><td></td><td><code>T/48 K8 T8 K8 T8 K44 T48 W12 T48 K44 T36 R48 T36 K44 G28 R8 G8 R8 G16 K2 W12 K2 G16 R8 G8 R8 G28 K44 T8 K8 T8 K8 T/48</code></td><td>1336</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24~x2/"><img src="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24~x2/sett.png" alt="MacDonald, Flora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1ly6k1g8r4g4r4g14k22t4k4t4k4t24~x2/">(Artefact)</a></td><td>0.30</td><td><code>T/48 K8 T8 K8 T8 K44 T48 W12 T48 K44 T36 R48 T36 K44 G28 R8 G8 R8 G16 K2 LY12 K2 G16 R8 G8 R8 G28 K44 T8 K8 T8 K8 T/48</code></td><td>1336</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1ly6k1g8r4g4r4g14k22t4k4t4k4t24~x2/"><img src="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1ly6k1g8r4g4r4g14k22t4k4t4k4t24~x2/sett.png" alt="(Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

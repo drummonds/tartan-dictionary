@@ -20,12 +20,12 @@ The **Dunbar** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k4r26k4w2k13y4~x2/">Dunbar</a> ★</td><td><code>K/8 R52 K8 W4 K26 Y/8</code></td><td>196</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4r26k4w2k13y4~x2/"><img src="/variants/s6/k4r26k4w2k13y4~x2/sett.png" alt="Dunbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k8dr49k8lb3k20lo3~x2/">(District)</a></td><td><code>K/16 DR98 K16 LB6 K40 LO/6</code></td><td>342</td><td>1860</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k8dr49k8lb3k20lo3~x2/"><img src="/variants/s6/k8dr49k8lb3k20lo3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4r26k4w2k13y4~x2/">Dunbar</a> ★</td><td></td><td><code>K/8 R52 K8 W4 K26 Y/8</code></td><td>196</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4r26k4w2k13y4~x2/"><img src="/variants/s6/k4r26k4w2k13y4~x2/sett.png" alt="Dunbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k8dr49k8lb3k20lo3~x2/">(District)</a></td><td>0.90</td><td><code>K/16 DR98 K16 LB6 K40 LO/6</code></td><td>342</td><td>1860</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k8dr49k8lb3k20lo3~x2/"><img src="/variants/s6/k8dr49k8lb3k20lo3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBGBWBGBGBG](/stripes/bgbgbwbgbgbg/) — the page of eve
 The **Tyrone, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/">Tyrone, County</a></td><td><code>DR/100 Y12 DO14 DG4 DO4 LB4 DO4 Y28 DR16 DG4 DR18 DG/6</code></td><td>322</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/"><img src="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/sett.png" alt="Tyrone, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/">Tyrone, County</a></td><td></td><td><code>DR/100 Y12 DO14 DG4 DO4 LB4 DO4 Y28 DR16 DG4 DR18 DG/6</code></td><td>322</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/"><img src="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/sett.png" alt="Tyrone, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

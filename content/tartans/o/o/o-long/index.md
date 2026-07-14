@@ -13,10 +13,10 @@ Its design is pattern [GBGBWBW](/stripes/gbgbwbw/) — the page of every tartan 
 The **O'Long** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/">O'Long</a></td><td><code>G/44 DP44 G6 DP22 W6 DP8 W/6</code></td><td>222</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><img src="/variants/s7/g22dp22g3dp11w3dp4w3~x2/sett.png" alt="O'Long sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/">O'Long</a></td><td></td><td><code>G/44 DP44 G6 DP22 W6 DP8 W/6</code></td><td>222</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><img src="/variants/s7/g22dp22g3dp11w3dp4w3~x2/sett.png" alt="O'Long sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

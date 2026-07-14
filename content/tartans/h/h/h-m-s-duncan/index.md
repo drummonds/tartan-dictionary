@@ -15,12 +15,12 @@ The **H.M.S. DUNCAN** tartan groups 2 setts — the same named design recorded a
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dp3dt15db15r2db15y3~x2/">H.M.S. DUNCAN</a> ★</td><td><code>DP/6 DT30 DB30 R4 DB30 Y/6</code></td><td>200</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><img src="/variants/s6/dp3dt15db15r2db15y3~x2/sett.png" alt="H.M.S. DUNCAN sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/dp3n15db15r2db15y3~x2/">HMS Duncan (Military)</a></td><td><code>DP/6 N30 DB30 R4 DB30 Y/6</code></td><td>200</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><img src="/variants/s6/dp3n15db15r2db15y3~x2/sett.png" alt="HMS Duncan (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp3dt15db15r2db15y3~x2/">H.M.S. DUNCAN</a> ★</td><td></td><td><code>DP/6 DT30 DB30 R4 DB30 Y/6</code></td><td>200</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><img src="/variants/s6/dp3dt15db15r2db15y3~x2/sett.png" alt="H.M.S. DUNCAN sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp3n15db15r2db15y3~x2/">HMS Duncan (Military)</a></td><td>1.40</td><td><code>DP/6 N30 DB30 R4 DB30 Y/6</code></td><td>200</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><img src="/variants/s6/dp3n15db15r2db15y3~x2/sett.png" alt="HMS Duncan (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [KGKGKGKGKR](/stripes/kgkgkgkgkr/) — the page of every t
 The **Childers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/">Childers</a></td><td><code>K/8 G28 K8 DG17 K88 DG17 K8 G28 K8 R/6</code></td><td>418</td><td>1907</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><img src="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/sett.png" alt="Childers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/">Childers</a></td><td></td><td><code>K/8 G28 K8 DG17 K88 DG17 K8 G28 K8 R/6</code></td><td>418</td><td>1907</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><img src="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/sett.png" alt="Childers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

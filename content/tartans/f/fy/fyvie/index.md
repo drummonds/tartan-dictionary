@@ -13,10 +13,10 @@ Its design is pattern [GGGGKBKBKBGBKBKBKGKW](/stripes/ggggkbkbkbgbkbkbkgkw/) —
 The **Fyvie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/">Fyvie</a></td><td><code>Y/10 G4 Y4 G30 K18 DB4 K4 DB4 K4 DB18 G10 DB18 K4 DB4 K4 DB4 K18 G30 K4 W/8</code></td><td>390</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/"><img src="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/sett.png" alt="Fyvie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/">Fyvie</a></td><td></td><td><code>Y/10 G4 Y4 G30 K18 DB4 K4 DB4 K4 DB18 G10 DB18 K4 DB4 K4 DB4 K18 G30 K4 W/8</code></td><td>390</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/"><img src="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/sett.png" alt="Fyvie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

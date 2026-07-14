@@ -13,10 +13,10 @@ Its design is pattern [BGWKYBY](/stripes/bgwkyby/) — the page of every tartan 
 The **State Seal of Washington** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/">State Seal of Washington</a></td><td><code>T/10 DY56 W10 K40 LY10 T94 LY/8</code></td><td>438</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><img src="/variants/s7/t5dy28w5k20ly5t47ly4~x2/sett.png" alt="State Seal of Washington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/">State Seal of Washington</a></td><td></td><td><code>T/10 DY56 W10 K40 LY10 T94 LY/8</code></td><td>438</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><img src="/variants/s7/t5dy28w5k20ly5t47ly4~x2/sett.png" alt="State Seal of Washington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

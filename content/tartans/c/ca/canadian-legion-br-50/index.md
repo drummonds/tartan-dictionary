@@ -15,10 +15,10 @@ Designed for Canadian Legion Branch 50, based on the c.1747 portrait of Lord Lou
 The **Canadian Legion Br 50** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/">Canadian Legion Br 50</a></td><td><code>DR/136 DB18 LB20 DB26 LO2 DB2 LO/4</code></td><td>276</td><td>1969</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/"><img src="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/sett.png" alt="Canadian Legion Br 50 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/">Canadian Legion Br 50</a></td><td></td><td><code>DR/136 DB18 LB20 DB26 LO2 DB2 LO/4</code></td><td>276</td><td>1969</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/"><img src="/variants/s7/dr68db9lb10db13lo1db1lo2~x2/sett.png" alt="Canadian Legion Br 50 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [KRWRBRBRGRBRWRK](/stripes/krwrbrbrgrbrwrk/) — the page 
 The **Fitzgerald** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/">Fitzgerald</a></td><td><code>K/8 R8 W8 R56 T8 R8 G50 R8 T50 R8 T8 R56 W8 R8 K/8</code></td><td>584</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/"><img src="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/sett.png" alt="Fitzgerald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/">Fitzgerald</a></td><td></td><td><code>K/8 R8 W8 R56 T8 R8 G50 R8 T50 R8 T8 R56 W8 R8 K/8</code></td><td>584</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/"><img src="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/sett.png" alt="Fitzgerald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

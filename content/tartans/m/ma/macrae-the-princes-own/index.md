@@ -18,10 +18,10 @@ One of two MacRae setts in the Highland Society collection, presumably sealed by
 The **MacRae The Princes Own** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s38/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20w2r9db26r5db28r9w2r22g3r8g3r22g8r6g8r6g5y3g5r7g12w2~x2/">MacRae The Princes Own</a></td><td><code>G/58 R10 G56 R44 K4 R4 K8 R4 K4 R44 K4 R4 K8 R4 K4 R40 W4 R18 DB52 R10 DB56 R18 W4 R44 G6 R16 G6 R44 G16 R12 G16 R12 G10 Y6 G10 R14 G24 W/4</code></td><td>1342</td><td>~1815</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s38/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20w2r9db26r5db28r9w2r22g3r8g3r22g8r6g8r6g5y3g5r7g12w2~x2/"><img src="/variants/s38/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20w2r9db26r5db28r9w2r22g3r8g3r22g8r6g8r6g5y3g5r7g12w2~x2/sett.png" alt="MacRae The Princes Own sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s38/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20w2r9db26r5db28r9w2r22g3r8g3r22g8r6g8r6g5y3g5r7g12w2~x2/">MacRae The Princes Own</a></td><td></td><td><code>G/58 R10 G56 R44 K4 R4 K8 R4 K4 R44 K4 R4 K8 R4 K4 R40 W4 R18 DB52 R10 DB56 R18 W4 R44 G6 R16 G6 R44 G16 R12 G16 R12 G10 Y6 G10 R14 G24 W/4</code></td><td>1342</td><td>~1815</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s38/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20w2r9db26r5db28r9w2r22g3r8g3r22g8r6g8r6g5y3g5r7g12w2~x2/"><img src="/variants/s38/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20w2r9db26r5db28r9w2r22g3r8g3r22g8r6g8r6g5y3g5r7g12w2~x2/sett.png" alt="MacRae The Princes Own sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

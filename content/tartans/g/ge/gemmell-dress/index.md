@@ -18,10 +18,10 @@ Its design is pattern [GRBWKBRKGBW](/stripes/grbwkbrkgbw/) — the page of every
 The **Gemmell Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg12r2db5w1k10t15r10k5dg4db40w4~x2~db1409278-t2405255/">Gemmell Dress</a></td><td><code>DG/24 R4 DB10 W2 K20 T30 R20 K10 DG8 DB80 W/8</code></td><td>400</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg12r2db5w1k10t15r10k5dg4db40w4~x2~db1409278-t2405255/"><img src="/variants/s11/dg12r2db5w1k10t15r10k5dg4db40w4~x2~db1409278-t2405255/sett.png" alt="Gemmell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg12r2db5w1k10t15r10k5dg4db40w4~x2~db1409278-t2405255/">Gemmell Dress</a></td><td></td><td><code>DG/24 R4 DB10 W2 K20 T30 R20 K10 DG8 DB80 W/8</code></td><td>400</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg12r2db5w1k10t15r10k5dg4db40w4~x2~db1409278-t2405255/"><img src="/variants/s11/dg12r2db5w1k10t15r10k5dg4db40w4~x2~db1409278-t2405255/sett.png" alt="Gemmell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

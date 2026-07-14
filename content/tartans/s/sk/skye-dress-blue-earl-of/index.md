@@ -16,10 +16,10 @@ Its design is pattern [BBBBBWBBWBBBWBWB](/stripes/bbbbbwbbwbbbwbwb/) — the pag
 The **Skye Dress Blue, Earl of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4~x2/">Skye Dress Blue, Earl of</a></td><td><code>DR/8 W10 DB4 W44 DR28 DB8 T4 W8 T4 DB6 W6 DB8 T4 N8 T4 DB/8</code></td><td>308</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4~x2/"><img src="/variants/s16/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4~x2/sett.png" alt="Skye Dress Blue, Earl of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4~x2/">Skye Dress Blue, Earl of</a></td><td></td><td><code>DR/8 W10 DB4 W44 DR28 DB8 T4 W8 T4 DB6 W6 DB8 T4 N8 T4 DB/8</code></td><td>308</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4~x2/"><img src="/variants/s16/dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4~x2/sett.png" alt="Skye Dress Blue, Earl of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

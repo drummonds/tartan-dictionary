@@ -18,10 +18,10 @@ Its design is pattern [BBBBBBBGYGYGYG](/stripes/bbbbbbbgygygyg/) — the page of
 The **Lochaber** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/">Lochaber</a></td><td><code>DO/20 N4 DO12 N24 DO4 N12 DO4 DY20 LY4 DY12 LY24 DY4 LY12 DY/2</code></td><td>294</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/"><img src="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/sett.png" alt="Lochaber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/">Lochaber</a></td><td></td><td><code>DO/20 N4 DO12 N24 DO4 N12 DO4 DY20 LY4 DY12 LY24 DY4 LY12 DY/2</code></td><td>294</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/"><img src="/variants/s14/do10n2do6n12do2n6do2dy10ly2dy6ly12dy2ly6dy1~x2/sett.png" alt="Lochaber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

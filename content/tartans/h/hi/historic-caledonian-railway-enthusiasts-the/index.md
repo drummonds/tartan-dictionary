@@ -13,10 +13,10 @@ Its design is pattern [BKGKBWKWBWR](/stripes/bkgkbwkwbwr/) — the page of every
 The **Historic Caledonian Railway Enthusiasts', The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/">Historic Caledonian Railway Enthusiasts', The</a></td><td><code>DB/12 K2 Y12 K2 DB56 W2 K4 W2 DB32 W2 R/10</code></td><td>250</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/"><img src="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/sett.png" alt="Historic Caledonian Railway Enthusiasts', The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/">Historic Caledonian Railway Enthusiasts', The</a></td><td></td><td><code>DB/12 K2 Y12 K2 DB56 W2 K4 W2 DB32 W2 R/10</code></td><td>250</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/"><img src="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/sett.png" alt="Historic Caledonian Railway Enthusiasts', The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

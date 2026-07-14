@@ -15,10 +15,10 @@ One of Polly Wittering's Irish district series for House of Edgar, soft warm cou
 The **Donegal Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/">Donegal Irish County</a></td><td><code>LO/6 G34 N6 G6 N6 K10 N36 R4 N16 R/4</code></td><td>246</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/"><img src="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/sett.png" alt="Donegal Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/">Donegal Irish County</a></td><td></td><td><code>LO/6 G34 N6 G6 N6 K10 N36 R4 N16 R/4</code></td><td>246</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/"><img src="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/sett.png" alt="Donegal Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

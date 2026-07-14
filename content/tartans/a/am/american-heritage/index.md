@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBKBKW](/stripes/bkbkbkbkbkw/) — the page of every
 The **American Heritage** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/">American Heritage</a></td><td><code>W/5 K2 DB14 K4 DR8 K4 DB4 K80 DR6 K4 DR/4</code></td><td>261</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/"><img src="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/sett.png" alt="American Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/">American Heritage</a></td><td></td><td><code>W/5 K2 DB14 K4 DR8 K4 DB4 K80 DR6 K4 DR/4</code></td><td>261</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/"><img src="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/sett.png" alt="American Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GRGGWKWGRGWK](/stripes/grggwkwgrgwk/) — the page of eve
 The **City of Lethbridge** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g20ri1g10y2lb3k1w2y10r1g10lb2k1~x2~ri2806019-r2108022/">City of Lethbridge</a></td><td><code>G/40 Ri2 G20 Y4 LB6 K2 W4 Y20 R2 G20 LB4 K/2</code></td><td>210</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g20ri1g10y2lb3k1w2y10r1g10lb2k1~x2~ri2806019-r2108022/"><img src="/variants/s12/g20ri1g10y2lb3k1w2y10r1g10lb2k1~x2~ri2806019-r2108022/sett.png" alt="City of Lethbridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g20ri1g10y2lb3k1w2y10r1g10lb2k1~x2~ri2806019-r2108022/">City of Lethbridge</a></td><td></td><td><code>G/40 Ri2 G20 Y4 LB6 K2 W4 Y20 R2 G20 LB4 K/2</code></td><td>210</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g20ri1g10y2lb3k1w2y10r1g10lb2k1~x2~ri2806019-r2108022/"><img src="/variants/s12/g20ri1g10y2lb3k1w2y10r1g10lb2k1~x2~ri2806019-r2108022/sett.png" alt="City of Lethbridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

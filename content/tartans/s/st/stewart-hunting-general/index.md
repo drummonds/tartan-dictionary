@@ -18,10 +18,10 @@ First recorded in Wilson's of Bannockburn pattern books; unusually repeats the f
 The **Stewart Hunting General** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/">Stewart Hunting General</a></td><td><code>DB/9 G4 DB9 K3 DB3 K8 G27 R4 G27 K8 G5 K13 G4 K13 G5 K8 G27 Y4 G27 K8 DB3 K/3</code></td><td>432</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/"><img src="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/sett.png" alt="Stewart Hunting General sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/">Stewart Hunting General</a></td><td></td><td><code>DB/9 G4 DB9 K3 DB3 K8 G27 R4 G27 K8 G5 K13 G4 K13 G5 K8 G27 Y4 G27 K8 DB3 K/3</code></td><td>432</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/"><img src="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/sett.png" alt="Stewart Hunting General sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

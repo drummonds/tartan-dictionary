@@ -13,10 +13,10 @@ Its design is pattern [BWBKGKBWBKG](/stripes/bwbkgkbwbkg/) — the page of every
 The **Aurora House Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/">Aurora House Check</a></td><td><code>DB/80 LB6 DB22 K14 G44 K14 DB6 W6 N20 K64 Y/26</code></td><td>498</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><img src="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/sett.png" alt="Aurora House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/">Aurora House Check</a></td><td></td><td><code>DB/80 LB6 DB22 K14 G44 K14 DB6 W6 N20 K64 Y/26</code></td><td>498</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><img src="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/sett.png" alt="Aurora House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

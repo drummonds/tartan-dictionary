@@ -13,10 +13,10 @@ Its design is pattern [KGYGKGGKYKRKW](/stripes/kgygkggkykrkw/) — the page of e
 The **Donegal County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4~x2/">Donegal County Crest</a></td><td><code>K/8 DG20 LY8 DG20 K8 G40 DG10 K4 LY12 K4 R20 K4 W/8</code></td><td>316</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4~x2/"><img src="/variants/s13/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4~x2/sett.png" alt="Donegal County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4~x2/">Donegal County Crest</a></td><td></td><td><code>K/8 DG20 LY8 DG20 K8 G40 DG10 K4 LY12 K4 R20 K4 W/8</code></td><td>316</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4~x2/"><img src="/variants/s13/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4~x2/sett.png" alt="Donegal County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

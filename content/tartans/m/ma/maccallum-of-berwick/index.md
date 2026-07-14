@@ -20,12 +20,12 @@ The **MacCallum of Berwick** tartan groups 2 setts — the same named design rec
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/">MacCallum of Berwick</a> ★</td><td><code>DB/20 R14 DB62 K50 DG46 K16 DB14 K16 Y/10</code></td><td>466</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/"><img src="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/sett.png" alt="MacCallum of Berwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/">MacCallum, of Berwick</a></td><td><code>DB/20 R14 DB62 K50 G46 K16 DB14 K16 Y/10</code></td><td>466</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><img src="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/sett.png" alt="MacCallum, of Berwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/">MacCallum of Berwick</a> ★</td><td></td><td><code>DB/20 R14 DB62 K50 DG46 K16 DB14 K16 Y/10</code></td><td>466</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/"><img src="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/sett.png" alt="MacCallum of Berwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/">MacCallum, of Berwick</a></td><td>0.10</td><td><code>DB/20 R14 DB62 K50 G46 K16 DB14 K16 Y/10</code></td><td>466</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><img src="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/sett.png" alt="MacCallum, of Berwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

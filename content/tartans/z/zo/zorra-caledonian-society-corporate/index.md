@@ -13,10 +13,10 @@ Its design is pattern [GWGKWKGKGR](/stripes/gwgkwkgkgr/) — the page of every t
 The **Zorra Caledonian Society (Corporate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dgi1804158/">Zorra Caledonian Society (Corporate</a></td><td><code>DG/6 W4 DG78 K6 LB6 K6 DG6 K40 DGi20 R/4</code></td><td>342</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dgi1804158/"><img src="/variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dgi1804158/sett.png" alt="Zorra Caledonian Society (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dgi1804158/">Zorra Caledonian Society (Corporate</a></td><td></td><td><code>DG/6 W4 DG78 K6 LB6 K6 DG6 K40 DGi20 R/4</code></td><td>342</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dgi1804158/"><img src="/variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dgi1804158/sett.png" alt="Zorra Caledonian Society (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

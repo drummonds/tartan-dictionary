@@ -13,10 +13,10 @@ Its design is pattern [RYRYGWGYRY](/stripes/ryrygwgyry/) — the page of every t
 The **J & B Whisky** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/ly9r3ly12g16w5g16ly6r3ly7r2~x2/">J &amp; B Whisky</a></td><td><code>LY/18 R6 LY24 G32 W10 G32 LY12 R6 LY14 R/4</code></td><td>294</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/ly9r3ly12g16w5g16ly6r3ly7r2~x2/"><img src="/variants/s10/ly9r3ly12g16w5g16ly6r3ly7r2~x2/sett.png" alt="J &amp; B Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/ly9r3ly12g16w5g16ly6r3ly7r2~x2/">J &amp; B Whisky</a></td><td></td><td><code>LY/18 R6 LY24 G32 W10 G32 LY12 R6 LY14 R/4</code></td><td>294</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/ly9r3ly12g16w5g16ly6r3ly7r2~x2/"><img src="/variants/s10/ly9r3ly12g16w5g16ly6r3ly7r2~x2/sett.png" alt="J &amp; B Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BYBWBW](/stripes/bybwbw/) — the page of every tartan sh
 The **Glen Burns** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/n1ly6n6lb6n1lb1~x4/">Glen Burns</a></td><td><code>N/4 LY24 N24 LB24 N4 LB/4</code></td><td>160</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/n1ly6n6lb6n1lb1~x4/"><img src="/variants/s6/n1ly6n6lb6n1lb1~x4/sett.png" alt="Glen Burns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/n1ly6n6lb6n1lb1~x4/">Glen Burns</a></td><td></td><td><code>N/4 LY24 N24 LB24 N4 LB/4</code></td><td>160</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/n1ly6n6lb6n1lb1~x4/"><img src="/variants/s6/n1ly6n6lb6n1lb1~x4/sett.png" alt="Glen Burns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [WGWGWGGKWKBWGKW](/stripes/wgwgwggkwkbwgkw/) — the page 
 The **Wexford County, Crest Range** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/">Wexford County, Crest Range</a></td><td><code>W/6 G6 W6 G12 LB8 G14 DY24 K4 LB4 K4 DP44 W12 G20 K4 LB/5</code></td><td>335</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/"><img src="/variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/sett.png" alt="Wexford County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/">Wexford County, Crest Range</a></td><td></td><td><code>W/6 G6 W6 G12 LB8 G14 DY24 K4 LB4 K4 DP44 W12 G20 K4 LB/5</code></td><td>335</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/"><img src="/variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/sett.png" alt="Wexford County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

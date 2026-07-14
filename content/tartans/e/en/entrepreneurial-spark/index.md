@@ -13,10 +13,10 @@ Its design is pattern [GKWKYWYK](/stripes/gkwkywyk/) — the page of every tarta
 The **Entrepreneurial Spark** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/">Entrepreneurial Spark</a></td><td><code>K/28 LO6 W16 LO8 K12 W18 K62 G/2</code></td><td>274</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/"><img src="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/sett.png" alt="Entrepreneurial Spark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/">Entrepreneurial Spark</a></td><td></td><td><code>K/28 LO6 W16 LO8 K12 W18 K62 G/2</code></td><td>274</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/"><img src="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/sett.png" alt="Entrepreneurial Spark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

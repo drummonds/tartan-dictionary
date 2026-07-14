@@ -16,10 +16,10 @@ Its design is pattern [KGGGKGKGBGBGR](/stripes/kgggkgkgbgbgr/) — the page of e
 The **Bartlett from Winnetka, Illinois** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/">Bartlett from Winnetka, Illinois</a></td><td><code>K/6 G6 Y4 G8 K4 G6 K4 G48 DB20 Y4 DB20 G60 R/6</code></td><td>380</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/"><img src="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/sett.png" alt="Bartlett from Winnetka, Illinois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/">Bartlett from Winnetka, Illinois</a></td><td></td><td><code>K/6 G6 Y4 G8 K4 G6 K4 G48 DB20 Y4 DB20 G60 R/6</code></td><td>380</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/"><img src="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/sett.png" alt="Bartlett from Winnetka, Illinois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

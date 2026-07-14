@@ -13,10 +13,10 @@ Its design is pattern [RWRBKBKGGRKRKW](/stripes/rwrbkbkggrkrkw/) — the page of
 The **Unidentified Bedspread** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/">Unidentified Bedspread</a></td><td><code>R/20 W6 R100 DB15 K10 DB15 K40 Y5 G54 R15 K5 R15 K6 W/8</code></td><td>600</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/"><img src="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/sett.png" alt="Unidentified Bedspread sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/">Unidentified Bedspread</a></td><td></td><td><code>R/20 W6 R100 DB15 K10 DB15 K40 Y5 G54 R15 K5 R15 K6 W/8</code></td><td>600</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/"><img src="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/sett.png" alt="Unidentified Bedspread sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

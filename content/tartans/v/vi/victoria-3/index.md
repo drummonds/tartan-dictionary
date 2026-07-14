@@ -18,10 +18,10 @@ Its design is pattern [RGWBWBKGKBWGRGRGW](/stripes/rgwbwbkgkbwgrgrgw/) — the p
 The **Victoria** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/">Victoria</a></td><td><code>R/8 G2 W38 DB8 W8 DB2 K10 Y6 K4 DB2 W8 G30 R12 G6 R10 G2 W/6</code></td><td>310</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/"><img src="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/sett.png" alt="Victoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/">Victoria</a></td><td></td><td><code>R/8 G2 W38 DB8 W8 DB2 K10 Y6 K4 DB2 W8 G30 R12 G6 R10 G2 W/6</code></td><td>310</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/"><img src="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/sett.png" alt="Victoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

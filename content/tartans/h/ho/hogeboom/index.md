@@ -18,10 +18,10 @@ Its design is pattern [RRRBYBWGW](/stripes/rrrbybwgw/) — the page of every tar
 The **Hogeboom** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/">Hogeboom</a></td><td><code>LB/8 G6 LB18 DB28 LY16 DB4 R70 Ri4 R/6</code></td><td>306</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/"><img src="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/sett.png" alt="Hogeboom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/">Hogeboom</a></td><td></td><td><code>LB/8 G6 LB18 DB28 LY16 DB4 R70 Ri4 R/6</code></td><td>306</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/"><img src="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/sett.png" alt="Hogeboom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

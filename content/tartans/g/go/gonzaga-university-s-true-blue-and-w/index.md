@@ -13,10 +13,10 @@ Its design is pattern [RBGBWBW](/stripes/rbgbwbw/) — the page of every tartan 
 The **Gonzaga University's True Blue and W** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w6db2w3db2g2db20r1~x2/">Gonzaga University's True Blue and W</a></td><td><code>W/12 DB4 W6 DB4 G4 DB40 R/2</code></td><td>130</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><img src="/variants/s7/w6db2w3db2g2db20r1~x2/sett.png" alt="Gonzaga University's True Blue and W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w6db2w3db2g2db20r1~x2/">Gonzaga University's True Blue and W</a></td><td></td><td><code>W/12 DB4 W6 DB4 G4 DB40 R/2</code></td><td>130</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><img src="/variants/s7/w6db2w3db2g2db20r1~x2/sett.png" alt="Gonzaga University's True Blue and W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

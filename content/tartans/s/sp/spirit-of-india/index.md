@@ -13,10 +13,10 @@ Its design is pattern [BWBWBBGWGBBBW](/stripes/bwbwbbgwgbbbw/) — the page of e
 The **Spirit of India** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/t32w2dt1w2t4dt1g8w8dy8dt1t16dt1w4~x2~t2707254-dt0803265/">Spirit of India</a></td><td><code>T/64 W4 DT2 W4 T8 DT2 G16 W16 DY16 DT2 T32 DT2 W/8</code></td><td>280</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/t32w2dt1w2t4dt1g8w8dy8dt1t16dt1w4~x2~t2707254-dt0803265/"><img src="/variants/s13/t32w2dt1w2t4dt1g8w8dy8dt1t16dt1w4~x2~t2707254-dt0803265/sett.png" alt="Spirit of India sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/t32w2dt1w2t4dt1g8w8dy8dt1t16dt1w4~x2~t2707254-dt0803265/">Spirit of India</a></td><td></td><td><code>T/64 W4 DT2 W4 T8 DT2 G16 W16 DY16 DT2 T32 DT2 W/8</code></td><td>280</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/t32w2dt1w2t4dt1g8w8dy8dt1t16dt1w4~x2~t2707254-dt0803265/"><img src="/variants/s13/t32w2dt1w2t4dt1g8w8dy8dt1t16dt1w4~x2~t2707254-dt0803265/sett.png" alt="Spirit of India sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

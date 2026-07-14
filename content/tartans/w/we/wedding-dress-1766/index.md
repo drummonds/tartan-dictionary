@@ -16,10 +16,10 @@ Its design is pattern [BYWYBRWBYBWBYBWGWGRYWKWK](/stripes/bywybrwbybwbybwgwgrywk
 The **Wedding Dress:1766** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3~x4/">Wedding Dress:1766</a></td><td><code>K/16 LB8 K8 LB4 LG24 O24 DG24 LB4 DG108 LB4 DB16 LG16 DO12 LB4 DO12 LG16 DB16 LB4 O144 DB12 LG8 LB4 LG8 DB/12</code></td><td>988</td><td>1766</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3~x4/"><img src="/variants/s24/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3~x4/sett.png" alt="Wedding Dress:1766 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3~x4/">Wedding Dress:1766</a></td><td></td><td><code>K/16 LB8 K8 LB4 LG24 O24 DG24 LB4 DG108 LB4 DB16 LG16 DO12 LB4 DO12 LG16 DB16 LB4 O144 DB12 LG8 LB4 LG8 DB/12</code></td><td>988</td><td>1766</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3~x4/"><img src="/variants/s24/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3~x4/sett.png" alt="Wedding Dress:1766 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGWRBGBWWB](/stripes/bgwrbgbwwb/) — the page of every t
 The **Tau-Taurini** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/">Tau-Taurini</a></td><td><code>DB/64 Y3 W3 R12 DR3 G3 DP3 W3 LB10 DB/10</code></td><td>154</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/"><img src="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/sett.png" alt="Tau-Taurini sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/">Tau-Taurini</a></td><td></td><td><code>DB/64 Y3 W3 R12 DR3 G3 DP3 W3 LB10 DB/10</code></td><td>154</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/"><img src="/variants/s10/db64y3w3r12dr3g3dp3w3lb10db10/sett.png" alt="Tau-Taurini sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

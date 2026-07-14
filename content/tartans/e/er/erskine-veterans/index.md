@@ -16,10 +16,10 @@ Its design is pattern [GBKGRGKBWW](/stripes/gbkgrgkbww/) — the page of every t
 The **Erskine Veterans** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/">Erskine Veterans</a></td><td><code>Y/4 DB28 K28 DG28 R4 DG28 K28 DB28 LB2 W/4</code></td><td>356</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/"><img src="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/sett.png" alt="Erskine Veterans sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/">Erskine Veterans</a></td><td></td><td><code>Y/4 DB28 K28 DG28 R4 DG28 K28 DB28 LB2 W/4</code></td><td>356</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/"><img src="/variants/s10/y2db14k14dg14r2dg14k14db14lb1w2~x2/sett.png" alt="Erskine Veterans sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

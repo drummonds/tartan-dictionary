@@ -18,10 +18,10 @@ Its design is pattern [GRGRGKGGGRGR](/stripes/grgrgkgggrgr/) — the page of eve
 The **Quinn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r20dg5r5dg30y8g10k10dg30r5dg5r20g20~x2~dg1806142-g2203152/">Quinn</a></td><td><code>R/40 DG10 R10 DG60 Y16 G20 K20 DG60 R10 DG10 R40 G/40</code></td><td>592</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r20dg5r5dg30y8g10k10dg30r5dg5r20g20~x2~dg1806142-g2203152/"><img src="/variants/s12/r20dg5r5dg30y8g10k10dg30r5dg5r20g20~x2~dg1806142-g2203152/sett.png" alt="Quinn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r20dg5r5dg30y8g10k10dg30r5dg5r20g20~x2~dg1806142-g2203152/">Quinn</a></td><td></td><td><code>R/40 DG10 R10 DG60 Y16 G20 K20 DG60 R10 DG10 R40 G/40</code></td><td>592</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r20dg5r5dg30y8g10k10dg30r5dg5r20g20~x2~dg1806142-g2203152/"><img src="/variants/s12/r20dg5r5dg30y8g10k10dg30r5dg5r20g20~x2~dg1806142-g2203152/sett.png" alt="Quinn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

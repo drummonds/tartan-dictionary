@@ -19,13 +19,13 @@ The **Erskine BW MINI Design** tartan is one sett, recorded at 2 scales — the 
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k2w1k9w9k1w2~x6/">Erskine BW MINI Design</a></td><td><code>K/2 W1 K9 W9 K1 W/2</code></td><td>44</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k2w1k9w9k1w2~x6/"><img src="/variants/s6/k2w1k9w9k1w2~x6/sett.png" alt="Erskine BW MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×3 — <a href="/variants/s6/k2w1k9w9k1w2~x3/">Tartan</a></td><td><code>K/6 W3 K27 W27 K3 W/6</code></td><td>132</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s6/k2w1k9w9k1w2~x6/">Erskine (Black and White)</a></td><td><code>K/12 W6 K54 W54 K6 W/12</code></td><td>264</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/k2w1k9w9k1w2~x3/">Tartan</a> · <a href="/variants/s6/k2w1k9w9k1w2~x6/">Erskine (Black and White)</a></td></tr>
+<tr><td><a href="/variants/s6/k2w1k9w9k1w2~x6/">Erskine BW MINI Design</a></td><td></td><td><code>K/2 W1 K9 W9 K1 W/2</code></td><td>44</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k2w1k9w9k1w2~x6/"><img src="/variants/s6/k2w1k9w9k1w2~x6/sett.png" alt="Erskine BW MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×3 — <a href="/variants/s6/k2w1k9w9k1w2~x3/">Tartan</a></td><td>0.00</td><td><code>K/6 W3 K27 W27 K3 W/6</code></td><td>132</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s6/k2w1k9w9k1w2~x6/">Erskine (Black and White)</a></td><td>0.00</td><td><code>K/12 W6 K54 W54 K6 W/12</code></td><td>264</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/k2w1k9w9k1w2~x3/">Tartan</a> · <a href="/variants/s6/k2w1k9w9k1w2~x6/">Erskine (Black and White)</a></td></tr>
 </tbody>
 </table>
 

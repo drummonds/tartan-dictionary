@@ -13,10 +13,10 @@ Its design is pattern [WKWRKWWKRWWRKWWKW](/stripes/wkwrkwwkrwwrkwwkw/) — the p
 The **Abergavenny** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/">Abergavenny</a></td><td><code>W/36 K41 W4 LB6 K8 O24 W12 LB4 O4 K6 LB4 W4 K48 O4 W8 K22 W/18</code></td><td>452</td><td>~1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/"><img src="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/sett.png" alt="Abergavenny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/">Abergavenny</a></td><td></td><td><code>W/36 K41 W4 LB6 K8 O24 W12 LB4 O4 K6 LB4 W4 K48 O4 W8 K22 W/18</code></td><td>452</td><td>~1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/"><img src="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/sett.png" alt="Abergavenny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

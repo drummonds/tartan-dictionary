@@ -13,10 +13,10 @@ Its design is pattern [KBKGKGK](/stripes/kbkgkgk/) — the page of every tartan 
 The **Unidentified No 63** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k3g4k1g4k3db4k1~x2/">Unidentified No 63</a></td><td><code>K/6 G8 K2 G8 K6 DB8 K/2</code></td><td>72</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><img src="/variants/s7/k3g4k1g4k3db4k1~x2/sett.png" alt="Unidentified No 63 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k3g4k1g4k3db4k1~x2/">Unidentified No 63</a></td><td></td><td><code>K/6 G8 K2 G8 K6 DB8 K/2</code></td><td>72</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><img src="/variants/s7/k3g4k1g4k3db4k1~x2/sett.png" alt="Unidentified No 63 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

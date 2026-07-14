@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKGKWKGKBKBKBKGKYKGKBKBKB](/stripes/bkbkbkgkwkgkbkbkb
 The **Broun Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/dt16k3dt3k3dt3k16g15k1lb3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/">Broun Hunting</a></td><td><code>DT/64 K12 DT12 K12 DT12 K64 G60 K4 LB12 K4 G60 K64 DT60 K12 DT12 K12 DT60 K64 G60 K4 LR12 K4 G60 K64 DT12 K12 DT12 K12 DT/12</code></td><td>1652</td><td>1923</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/dt16k3dt3k3dt3k16g15k1lb3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/"><img src="/variants/s29/dt16k3dt3k3dt3k16g15k1lb3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/sett.png" alt="Broun Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/dt16k3dt3k3dt3k16g15k1lb3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/">Broun Hunting</a></td><td></td><td><code>DT/64 K12 DT12 K12 DT12 K64 G60 K4 LB12 K4 G60 K64 DT60 K12 DT12 K12 DT60 K64 G60 K4 LR12 K4 G60 K64 DT12 K12 DT12 K12 DT/12</code></td><td>1652</td><td>1923</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/dt16k3dt3k3dt3k16g15k1lb3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/"><img src="/variants/s29/dt16k3dt3k3dt3k16g15k1lb3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/sett.png" alt="Broun Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BWBGRGBGRGBGBWBG](/stripes/bwbgrgbgrgbgbwbg/) — the pag
 The **Tiger** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/">Tiger</a></td><td><code>G/8 DB4 LB24 DB40 G16 DB4 G4 R4 G4 DB4 G72 R4 G16 DB24 LB24 DB/4</code></td><td>500</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/"><img src="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/sett.png" alt="Tiger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/">Tiger</a></td><td></td><td><code>G/8 DB4 LB24 DB40 G16 DB4 G4 R4 G4 DB4 G72 R4 G16 DB24 LB24 DB/4</code></td><td>500</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/"><img src="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/sett.png" alt="Tiger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

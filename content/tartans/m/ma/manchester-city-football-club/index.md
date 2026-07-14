@@ -13,10 +13,10 @@ Its design is pattern [BBRBKBWBYBB](/stripes/bbrbkbwbybb/) — the page of every
 The **Manchester City Football Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/">Manchester City Football Club</a></td><td><code>DB/8 T26 R4 DB4 K4 DB4 W10 DB4 LY4 DB4 T/4</code></td><td>140</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/"><img src="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/sett.png" alt="Manchester City Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/">Manchester City Football Club</a></td><td></td><td><code>DB/8 T26 R4 DB4 K4 DB4 W10 DB4 LY4 DB4 T/4</code></td><td>140</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/"><img src="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/sett.png" alt="Manchester City Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

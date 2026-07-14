@@ -13,11 +13,11 @@ Its design is pattern [BWBWKG](/stripes/bwbwkg/) — the page of every tartan sh
 The **Isle of Barra** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dp2w12t11lb12k1g2~x4/">Isle of Barra</a></td><td><code>DP/8 W48 T44 LB48 K4 G/8</code></td><td>304</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp2w12t11lb12k1g2~x4/"><img src="/variants/s6/dp2w12t11lb12k1g2~x4/sett.png" alt="Isle of Barra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/dp2w12t11lb12k1g2~x4/">(District)</a> · <a href="/variants/s6/dp2w12t11lb12k1g2~x4~dp1607327/">Isle of Barra</a></td></tr>
+<tr><td><a href="/variants/s6/dp2w12t11lb12k1g2~x4/">Isle of Barra</a></td><td></td><td><code>DP/8 W48 T44 LB48 K4 G/8</code></td><td>304</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp2w12t11lb12k1g2~x4/"><img src="/variants/s6/dp2w12t11lb12k1g2~x4/sett.png" alt="Isle of Barra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/dp2w12t11lb12k1g2~x4/">(District)</a> · <a href="/variants/s6/dp2w12t11lb12k1g2~x4~dp1607327/">Isle of Barra</a></td></tr>
 </tbody>
 </table>
 

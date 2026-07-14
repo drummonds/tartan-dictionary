@@ -13,10 +13,10 @@ Its design is pattern [KRKBRBKGKR](/stripes/krkbrbkgkr/) — the page of every t
 The **Cavan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/">Cavan</a></td><td><code>K/6 R18 K10 DO18 O6 DO18 K10 G48 K4 O/6</code></td><td>276</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><img src="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/sett.png" alt="Cavan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/">Cavan</a></td><td></td><td><code>K/6 R18 K10 DO18 O6 DO18 K10 G48 K4 O/6</code></td><td>276</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><img src="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/sett.png" alt="Cavan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

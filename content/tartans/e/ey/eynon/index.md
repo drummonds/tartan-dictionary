@@ -15,10 +15,10 @@ Welsh surname tartan (also Beynon), woven at Cambrian Woollen Mill; asymmetric w
 The **Eynon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/">Eynon</a></td><td><code>K/22 Ki2 G6 K12 Ki2 K12 G6 K8 G14 K22 Y2 K22 G14 Y4 Ki/8</code></td><td>282</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/"><img src="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/sett.png" alt="Eynon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/">Eynon</a></td><td></td><td><code>K/22 Ki2 G6 K12 Ki2 K12 G6 K8 G14 K22 Y2 K22 G14 Y4 Ki/8</code></td><td>282</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/"><img src="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/sett.png" alt="Eynon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

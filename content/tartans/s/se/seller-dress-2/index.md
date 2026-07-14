@@ -18,10 +18,10 @@ Its design is pattern [WBGBGGYGYGGW](/stripes/wbgbggygyggw/) — the page of eve
 The **Seller Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w32dy6g10lo2g4lo2g4dg12dr8g2dr4w5~x2~g2203152-dg1806142/">Seller Dress</a></td><td><code>W/64 DY12 G20 LO4 G8 LO4 G8 DG24 DR16 G4 DR8 W/10</code></td><td>290</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w32dy6g10lo2g4lo2g4dg12dr8g2dr4w5~x2~g2203152-dg1806142/"><img src="/variants/s12/w32dy6g10lo2g4lo2g4dg12dr8g2dr4w5~x2~g2203152-dg1806142/sett.png" alt="Seller Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w32dy6g10lo2g4lo2g4dg12dr8g2dr4w5~x2~g2203152-dg1806142/">Seller Dress</a></td><td></td><td><code>W/64 DY12 G20 LO4 G8 LO4 G8 DG24 DR16 G4 DR8 W/10</code></td><td>290</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w32dy6g10lo2g4lo2g4dg12dr8g2dr4w5~x2~g2203152-dg1806142/"><img src="/variants/s12/w32dy6g10lo2g4lo2g4dg12dr8g2dr4w5~x2~g2203152-dg1806142/sett.png" alt="Seller Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [WBKBGKWKWKYBW](/stripes/wbkbgkwkwkybw/) — the page of e
 The **Dowling** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lb3db20ly5k8lb3k3lb3k3g14do8k3do4lb3~x2/">Dowling</a></td><td><code>LB/6 DB40 LY10 K16 LB6 K6 LB6 K6 G28 DO16 K6 DO8 LB/6</code></td><td>308</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lb3db20ly5k8lb3k3lb3k3g14do8k3do4lb3~x2/"><img src="/variants/s13/lb3db20ly5k8lb3k3lb3k3g14do8k3do4lb3~x2/sett.png" alt="Dowling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lb3db20ly5k8lb3k3lb3k3g14do8k3do4lb3~x2/">Dowling</a></td><td></td><td><code>LB/6 DB40 LY10 K16 LB6 K6 LB6 K6 G28 DO16 K6 DO8 LB/6</code></td><td>308</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lb3db20ly5k8lb3k3lb3k3g14do8k3do4lb3~x2/"><img src="/variants/s13/lb3db20ly5k8lb3k3lb3k3g14do8k3do4lb3~x2/sett.png" alt="Dowling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

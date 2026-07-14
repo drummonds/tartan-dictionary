@@ -18,10 +18,10 @@ Its design is pattern [RGRGRBRBRGRBRGRGRBRBRGRBRGRGR](/stripes/rgrgrbrbrgrbrgrgr
 The **Robertson 5** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/">Robertson 5</a></td><td><code>R/56 G4 R10 G4 R56 DB6 R6 DB48 R6 G48 R6 DB6 R56 G4 R10 G4 R56 DB6 R6 DB48 R6 G48 R6 DB6 R56 G4 R10 G4 R/56</code></td><td>1172</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/"><img src="/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/sett.png" alt="Robertson 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/">Robertson 5</a></td><td></td><td><code>R/56 G4 R10 G4 R56 DB6 R6 DB48 R6 G48 R6 DB6 R56 G4 R10 G4 R56 DB6 R6 DB48 R6 G48 R6 DB6 R56 G4 R10 G4 R/56</code></td><td>1172</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/"><img src="/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/sett.png" alt="Robertson 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [KYBYBYBGW](/stripes/kybybybgw/) — the page of every tar
 The **Highland Road** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k3lr15t3lr4t3lr4t10y30w3~x2~lr2800000-t2503227/">Highland Road</a></td><td><code>K/6 LR30 T6 LR8 T6 LR8 T20 Y60 W/6</code></td><td>288</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k3lr15t3lr4t3lr4t10y30w3~x2~lr2800000-t2503227/"><img src="/variants/s9/k3lr15t3lr4t3lr4t10y30w3~x2~lr2800000-t2503227/sett.png" alt="Highland Road sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k3lr15t3lr4t3lr4t10y30w3~x2~lr2800000-t2503227/">Highland Road</a></td><td></td><td><code>K/6 LR30 T6 LR8 T6 LR8 T20 Y60 W/6</code></td><td>288</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k3lr15t3lr4t3lr4t10y30w3~x2~lr2800000-t2503227/"><img src="/variants/s9/k3lr15t3lr4t3lr4t10y30w3~x2~lr2800000-t2503227/sett.png" alt="Highland Road sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

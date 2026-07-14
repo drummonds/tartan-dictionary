@@ -18,10 +18,10 @@ Its design is pattern [KRKGBKBKBY](/stripes/krkgbkbkby/) — the page of every t
 The **McCurrach** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k4r3k16g4do4k3do20k3do4ly3~x2/">McCurrach</a></td><td><code>K/8 R6 K32 G8 DO8 K6 DO40 K6 DO8 LY/6</code></td><td>242</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k4r3k16g4do4k3do20k3do4ly3~x2/"><img src="/variants/s10/k4r3k16g4do4k3do20k3do4ly3~x2/sett.png" alt="McCurrach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k4r3k16g4do4k3do20k3do4ly3~x2/">McCurrach</a></td><td></td><td><code>K/8 R6 K32 G8 DO8 K6 DO40 K6 DO8 LY/6</code></td><td>242</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k4r3k16g4do4k3do20k3do4ly3~x2/"><img src="/variants/s10/k4r3k16g4do4k3do20k3do4ly3~x2/sett.png" alt="McCurrach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGBWKR](/stripes/ggbwkr/) — the page of every tartan sh
 The **Gallowater** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r10k18lb10db18g40y5/">Gallowater</a></td><td><code>R/10 K18 LB10 DB18 G40 Y/5</code></td><td>187</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r10k18lb10db18g40y5/"><img src="/variants/s6/r10k18lb10db18g40y5/sett.png" alt="Gallowater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r10k18lb10db18g40y5/">Gallowater</a></td><td></td><td><code>R/10 K18 LB10 DB18 G40 Y/5</code></td><td>187</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r10k18lb10db18g40y5/"><img src="/variants/s6/r10k18lb10db18g40y5/sett.png" alt="Gallowater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

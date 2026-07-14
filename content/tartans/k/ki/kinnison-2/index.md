@@ -18,10 +18,10 @@ Its design is pattern [KBKWGWGWKRKWBWBW](/stripes/kbkwgwgwkrkwbwbw/) — the pag
 The **Kinnison** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12~x2/">Kinnison</a></td><td><code>K/34 T4 K34 W24 G4 W24 G4 W24 K34 R4 K34 W24 T4 W24 T4 W/24</code></td><td>550</td><td>~1961</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12~x2/"><img src="/variants/s16/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12~x2/sett.png" alt="Kinnison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12~x2/">Kinnison</a></td><td></td><td><code>K/34 T4 K34 W24 G4 W24 G4 W24 K34 R4 K34 W24 T4 W24 T4 W/24</code></td><td>550</td><td>~1961</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12~x2/"><img src="/variants/s16/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12~x2/sett.png" alt="Kinnison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

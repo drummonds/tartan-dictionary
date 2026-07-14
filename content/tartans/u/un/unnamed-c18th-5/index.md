@@ -13,10 +13,10 @@ Its design is pattern [RRRRRWGRBRRRRRGRKWRRRRRRRGRRRRRRRWBRGRBRGRRBW](/stripes/r
 The **Unnamed C18th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s45/w2db1ri3r7dg7ri2db1ri2dg7ri41db40w2ri4r4ri1r1ri1r4ri4dg15ri4r4ri1r1ri1r4ri4w2k40ri3dg36ri5r5ri1r5ri5db38ri40dg16w2ri8r8ri3r2ri1~ri2109032-r1807008/">Unnamed C18th</a></td><td><code>W/2 DB1 Ri3 R7 DG7 Ri2 DB1 Ri2 DG7 Ri41 DB40 W2 Ri4 R4 Ri1 R1 Ri1 R4 Ri4 DG15 Ri4 R4 Ri1 R1 Ri1 R4 Ri4 W2 K40 Ri3 DG36 Ri5 R5 Ri1 R5 Ri5 DB38 Ri40 DG16 W2 Ri8 R8 Ri3 R2 Ri/1</code></td><td>773</td><td>1744</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s45/w2db1ri3r7dg7ri2db1ri2dg7ri41db40w2ri4r4ri1r1ri1r4ri4dg15ri4r4ri1r1ri1r4ri4w2k40ri3dg36ri5r5ri1r5ri5db38ri40dg16w2ri8r8ri3r2ri1~ri2109032-r1807008/"><img src="/variants/s45/w2db1ri3r7dg7ri2db1ri2dg7ri41db40w2ri4r4ri1r1ri1r4ri4dg15ri4r4ri1r1ri1r4ri4w2k40ri3dg36ri5r5ri1r5ri5db38ri40dg16w2ri8r8ri3r2ri1~ri2109032-r1807008/sett.png" alt="Unnamed C18th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s45/w2db1ri3r7dg7ri2db1ri2dg7ri41db40w2ri4r4ri1r1ri1r4ri4dg15ri4r4ri1r1ri1r4ri4w2k40ri3dg36ri5r5ri1r5ri5db38ri40dg16w2ri8r8ri3r2ri1~ri2109032-r1807008/">Unnamed C18th</a></td><td></td><td><code>W/2 DB1 Ri3 R7 DG7 Ri2 DB1 Ri2 DG7 Ri41 DB40 W2 Ri4 R4 Ri1 R1 Ri1 R4 Ri4 DG15 Ri4 R4 Ri1 R1 Ri1 R4 Ri4 W2 K40 Ri3 DG36 Ri5 R5 Ri1 R5 Ri5 DB38 Ri40 DG16 W2 Ri8 R8 Ri3 R2 Ri/1</code></td><td>773</td><td>1744</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s45/w2db1ri3r7dg7ri2db1ri2dg7ri41db40w2ri4r4ri1r1ri1r4ri4dg15ri4r4ri1r1ri1r4ri4w2k40ri3dg36ri5r5ri1r5ri5db38ri40dg16w2ri8r8ri3r2ri1~ri2109032-r1807008/"><img src="/variants/s45/w2db1ri3r7dg7ri2db1ri2dg7ri41db40w2ri4r4ri1r1ri1r4ri4dg15ri4r4ri1r1ri1r4ri4w2k40ri3dg36ri5r5ri1r5ri5db38ri40dg16w2ri8r8ri3r2ri1~ri2109032-r1807008/sett.png" alt="Unnamed C18th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

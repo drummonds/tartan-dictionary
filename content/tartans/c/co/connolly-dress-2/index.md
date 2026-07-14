@@ -18,10 +18,10 @@ Its design is pattern [GKGKGBRGRG](/stripes/gkgkgbrgrg/) — the page of every t
 The **Connolly Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/">Connolly Dress</a></td><td><code>G/12 K4 G6 K4 G12 DB16 R40 Y4 R6 G/4</code></td><td>200</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"><img src="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/sett.png" alt="Connolly Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/">Connolly Dress</a></td><td></td><td><code>G/12 K4 G6 K4 G12 DB16 R40 Y4 R6 G/4</code></td><td>200</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"><img src="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/sett.png" alt="Connolly Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

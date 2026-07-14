@@ -18,10 +18,10 @@ Its design is pattern [GBGBKBKBKGKG](/stripes/gbgbkbkbkgkg/) — the page of eve
 The **Lysaght Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dy6db4dy6db11k1db3k3db1k11dg6k4dg6~x4/">Lysaght Hunting</a></td><td><code>DY/24 DB16 DY24 DB44 K4 DB12 K12 DB4 K44 DG24 K16 DG/24</code></td><td>448</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dy6db4dy6db11k1db3k3db1k11dg6k4dg6~x4/"><img src="/variants/s12/dy6db4dy6db11k1db3k3db1k11dg6k4dg6~x4/sett.png" alt="Lysaght Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dy6db4dy6db11k1db3k3db1k11dg6k4dg6~x4/">Lysaght Hunting</a></td><td></td><td><code>DY/24 DB16 DY24 DB44 K4 DB12 K12 DB4 K44 DG24 K16 DG/24</code></td><td>448</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dy6db4dy6db11k1db3k3db1k11dg6k4dg6~x4/"><img src="/variants/s12/dy6db4dy6db11k1db3k3db1k11dg6k4dg6~x4/sett.png" alt="Lysaght Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

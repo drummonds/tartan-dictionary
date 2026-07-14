@@ -18,10 +18,10 @@ Its design is pattern [KRRRKYKY](/stripes/krrrkyky/) — the page of every tarta
 The **Wilbers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/">Wilbers</a></td><td><code>LY/10 K18 LY4 K14 O20 R8 O70 K/8</code></td><td>286</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><img src="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/sett.png" alt="Wilbers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/">Wilbers</a></td><td></td><td><code>LY/10 K18 LY4 K14 O20 R8 O70 K/8</code></td><td>286</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><img src="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/sett.png" alt="Wilbers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

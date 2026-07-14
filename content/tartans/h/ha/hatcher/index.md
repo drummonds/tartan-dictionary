@@ -13,10 +13,10 @@ Its design is pattern [KRGBBBW](/stripes/krgbbbw/) — the page of every tartan 
 The **Hatcher** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/">Hatcher</a></td><td><code>LP/66 DR14 DB18 DP14 G24 R6 K/58</code></td><td>276</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/"><img src="/variants/s7/lp33dr7db9dp7g12r3k29~x2/sett.png" alt="Hatcher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/">Hatcher</a></td><td></td><td><code>LP/66 DR14 DB18 DP14 G24 R6 K/58</code></td><td>276</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/"><img src="/variants/s7/lp33dr7db9dp7g12r3k29~x2/sett.png" alt="Hatcher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

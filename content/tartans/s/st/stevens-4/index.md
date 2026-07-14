@@ -18,10 +18,10 @@ Its design is pattern [BGKYKWKBBKBW](/stripes/bgkykwkbbkbw/) — the page of eve
 The **Stevens** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/">Stevens</a></td><td><code>DP/54 Y4 K6 LY4 K4 W4 K4 N12 DP6 K4 DP4 W/4</code></td><td>162</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/"><img src="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/sett.png" alt="Stevens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/">Stevens</a></td><td></td><td><code>DP/54 Y4 K6 LY4 K4 W4 K4 N12 DP6 K4 DP4 W/4</code></td><td>162</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/"><img src="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/sett.png" alt="Stevens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

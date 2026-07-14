@@ -20,10 +20,10 @@ Dress variant of the MacKenzie clan tartan; unmarked sample, likely dating 1930â
 The **MacKenzie Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/">MacKenzie Dress</a></td><td><code>DB/20 K20 G18 K4 W4 K4 G18 K20 W4 DB4 W28 DB4 W4 DB4 W28 DB4 W4 K20 DB20 R/4</code></td><td>448</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/"><img src="/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/sett.png" alt="MacKenzie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/">MacKenzie Dress</a></td><td></td><td><code>DB/20 K20 G18 K4 W4 K4 G18 K20 W4 DB4 W28 DB4 W4 DB4 W28 DB4 W4 K20 DB20 R/4</code></td><td>448</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/"><img src="/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/sett.png" alt="MacKenzie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

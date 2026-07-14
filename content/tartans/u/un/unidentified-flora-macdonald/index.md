@@ -13,10 +13,10 @@ Its design is pattern [GKGRGRGKBRBKBKW](/stripes/gkgrgrgkbrbkbkw/) — the page 
 The **Unidentified Flora MacDonald** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/y6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/">Unidentified Flora MacDonald</a></td><td><code>Y/12 K2 G20 R6 G6 R6 G32 K48 DB36 R60 DB40 K48 DB60 K2 W/12</code></td><td>756</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/y6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/"><img src="/variants/s15/y6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/sett.png" alt="Unidentified Flora MacDonald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/y6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/">Unidentified Flora MacDonald</a></td><td></td><td><code>Y/12 K2 G20 R6 G6 R6 G32 K48 DB36 R60 DB40 K48 DB60 K2 W/12</code></td><td>756</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/y6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/"><img src="/variants/s15/y6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/sett.png" alt="Unidentified Flora MacDonald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

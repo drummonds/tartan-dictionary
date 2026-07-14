@@ -20,11 +20,11 @@ Reconstructed by Don Rankin from a 1720 portrait illustration; sample held in ST
 The **Dalrymple of Castleton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2109032-r1807008/">Dalrymple of Castleton</a></td><td><code>Y/4 Ri30 Y6 R4 Y6 K28 Y4 DB12 W4 DB12 Y4 Ri14 DB20 W/2</code></td><td>294</td><td>1720</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2109032-r1807008/"><img src="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2109032-r1807008/sett.png" alt="Dalrymple of Castleton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2008029-r1707016/">Dalrymple, of Castleton</a> · <a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2109032-r1807008/">Portrait Tartan</a></td></tr>
+<tr><td><a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2109032-r1807008/">Dalrymple of Castleton</a></td><td></td><td><code>Y/4 Ri30 Y6 R4 Y6 K28 Y4 DB12 W4 DB12 Y4 Ri14 DB20 W/2</code></td><td>294</td><td>1720</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2109032-r1807008/"><img src="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2109032-r1807008/sett.png" alt="Dalrymple of Castleton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2008029-r1707016/">Dalrymple, of Castleton</a> · <a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2109032-r1807008/">Portrait Tartan</a></td></tr>
 </tbody>
 </table>
 

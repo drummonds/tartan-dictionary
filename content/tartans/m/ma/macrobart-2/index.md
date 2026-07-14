@@ -22,12 +22,12 @@ The **MacRobart** tartan groups 2 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db30k10g10lb2g15lb2~x2/">MacRobart</a> ★</td><td><code>DB/60 K20 G20 LB4 G30 LB/4</code></td><td>212</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db30k10g10lb2g15lb2~x2/"><img src="/variants/s6/db30k10g10lb2g15lb2~x2/sett.png" alt="MacRobart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db72k21g16lb3g17lb3~x2/">MacRobart</a></td><td><code>DB/144 K42 G32 LB6 G34 LB/6</code></td><td>378</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db72k21g16lb3g17lb3~x2/"><img src="/variants/s6/db72k21g16lb3g17lb3~x2/sett.png" alt="MacRobart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db30k10g10lb2g15lb2~x2/">MacRobart</a> ★</td><td></td><td><code>DB/60 K20 G20 LB4 G30 LB/4</code></td><td>212</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db30k10g10lb2g15lb2~x2/"><img src="/variants/s6/db30k10g10lb2g15lb2~x2/sett.png" alt="MacRobart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db72k21g16lb3g17lb3~x2/">MacRobart</a></td><td>0.64</td><td><code>DB/144 K42 G32 LB6 G34 LB/6</code></td><td>378</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db72k21g16lb3g17lb3~x2/"><img src="/variants/s6/db72k21g16lb3g17lb3~x2/sett.png" alt="MacRobart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

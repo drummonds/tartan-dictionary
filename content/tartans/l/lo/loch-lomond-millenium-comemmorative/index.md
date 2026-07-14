@@ -15,10 +15,10 @@ Designed by Claire Donaldson for House of Edgar to commemorate the millennium; w
 The **Loch Lomond Millenium Comemmorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k3gi2k12db4g19dr3g19db4k12gi2dy3~x2~gi2504202-g2203152/">Loch Lomond Millenium Comemmorative</a></td><td><code>K/6 Gi4 K24 DB8 G38 DR6 G38 DB8 K24 Gi4 DY/6</code></td><td>320</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k3gi2k12db4g19dr3g19db4k12gi2dy3~x2~gi2504202-g2203152/"><img src="/variants/s11/k3gi2k12db4g19dr3g19db4k12gi2dy3~x2~gi2504202-g2203152/sett.png" alt="Loch Lomond Millenium Comemmorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k3gi2k12db4g19dr3g19db4k12gi2dy3~x2~gi2504202-g2203152/">Loch Lomond Millenium Comemmorative</a></td><td></td><td><code>K/6 Gi4 K24 DB8 G38 DR6 G38 DB8 K24 Gi4 DY/6</code></td><td>320</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k3gi2k12db4g19dr3g19db4k12gi2dy3~x2~gi2504202-g2203152/"><img src="/variants/s11/k3gi2k12db4g19dr3g19db4k12gi2dy3~x2~gi2504202-g2203152/sett.png" alt="Loch Lomond Millenium Comemmorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

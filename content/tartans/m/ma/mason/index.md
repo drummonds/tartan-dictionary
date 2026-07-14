@@ -13,10 +13,10 @@ Its design is pattern [KWGRBY](/stripes/kwgrby/) — the page of every tartan sh
 The **Mason** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k7w2dg2o31dr35ly2~x2/">Mason</a></td><td><code>K/14 W4 DG4 O62 DR70 LY/4</code></td><td>298</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k7w2dg2o31dr35ly2~x2/"><img src="/variants/s6/k7w2dg2o31dr35ly2~x2/sett.png" alt="Mason sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k7w2dg2o31dr35ly2~x2/">Mason</a></td><td></td><td><code>K/14 W4 DG4 O62 DR70 LY/4</code></td><td>298</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k7w2dg2o31dr35ly2~x2/"><img src="/variants/s6/k7w2dg2o31dr35ly2~x2/sett.png" alt="Mason sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -17,13 +17,13 @@ The **Huntly Old** tartan is one sett, recorded at 2 scales — the same proport
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/">Huntly Old</a></td><td><code>DR/16 W2 DR7 W2 K14 LB6 W2 DR15 W2 G17 LB6 G6 R8 K6 R8 K/2</code></td><td>220</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/"><img src="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/sett.png" alt="Huntly Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/">Huntly Old</a></td><td><code>DR/16 W2 DR7 W2 K14 LB6 W2 DR15 W2 G17 LB6 G6 R8 K6 R8 K/2</code></td><td>220</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~x2~r1908029/">Huntly Old</a></td><td><code>DR/32 W4 DR14 W4 K28 LB12 W4 DR30 W4 G34 LB12 G12 R16 K12 R16 K/4</code></td><td>440</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/">Huntly Old</a> · <a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~x2~r1908029/">Huntly Old</a></td></tr>
+<tr><td><a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/">Huntly Old</a></td><td></td><td><code>DR/16 W2 DR7 W2 K14 LB6 W2 DR15 W2 G17 LB6 G6 R8 K6 R8 K/2</code></td><td>220</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/"><img src="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/sett.png" alt="Huntly Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/">Huntly Old</a></td><td>0.00</td><td><code>DR/16 W2 DR7 W2 K14 LB6 W2 DR15 W2 G17 LB6 G6 R8 K6 R8 K/2</code></td><td>220</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~x2~r1908029/">Huntly Old</a></td><td>0.00</td><td><code>DR/32 W4 DR14 W4 K28 LB12 W4 DR30 W4 G34 LB12 G12 R16 K12 R16 K/4</code></td><td>440</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/">Huntly Old</a> · <a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~x2~r1908029/">Huntly Old</a></td></tr>
 </tbody>
 </table>
 

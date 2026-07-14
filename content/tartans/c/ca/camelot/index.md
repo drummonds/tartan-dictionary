@@ -13,10 +13,10 @@ Its design is pattern [GBBKGYG](/stripes/gbbkgyg/) — the page of every tartan 
 The **Camelot** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/">Camelot</a></td><td><code>G/30 DP5 DB32 K32 G36 LG2 Y/5</code></td><td>249</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/"><img src="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/sett.png" alt="Camelot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/">Camelot</a></td><td></td><td><code>G/30 DP5 DB32 K32 G36 LG2 Y/5</code></td><td>249</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/"><img src="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/sett.png" alt="Camelot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KGBGBGBGBKBKBKBBR](/stripes/kgbgbgbgbkbkbkbbr/) — the p
 The **Rendell, Charles** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/">Rendell, Charles</a></td><td><code>K/4 G4 B2 G4 B2 G4 B2 G24 DB8 K6 DB6 K6 DB6 K6 DB8 DP48 R/4</code></td><td>280</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/"><img src="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/sett.png" alt="Rendell, Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/">Rendell, Charles</a></td><td></td><td><code>K/4 G4 B2 G4 B2 G4 B2 G24 DB8 K6 DB6 K6 DB6 K6 DB8 DP48 R/4</code></td><td>280</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/"><img src="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/sett.png" alt="Rendell, Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

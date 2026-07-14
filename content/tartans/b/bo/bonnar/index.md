@@ -13,11 +13,11 @@ Its design is pattern [BKBKBKRKRGRKR](/stripes/bkbkbkrkrgrkr/) — the page of e
 The **Bonnar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/">Bonnar</a></td><td><code>R/52 K8 R12 G40 R20 K12 R12 K48 DB8 K12 DB8 K12 DB/48</code></td><td>484</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/"><img src="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/sett.png" alt="Bonnar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/">(Name)</a> · <a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db1406275/">Bonner or Bonnar</a></td></tr>
+<tr><td><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/">Bonnar</a></td><td></td><td><code>R/52 K8 R12 G40 R20 K12 R12 K48 DB8 K12 DB8 K12 DB/48</code></td><td>484</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/"><img src="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/sett.png" alt="Bonnar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/">(Name)</a> · <a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db1406275/">Bonner or Bonnar</a></td></tr>
 </tbody>
 </table>
 

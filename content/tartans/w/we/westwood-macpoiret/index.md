@@ -16,10 +16,10 @@ Its design is pattern [BBBBBKBWBKBBB](/stripes/bbbbbkbwbkbbb/) — the page of e
 The **Westwood MacPoiret** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/">Westwood MacPoiret</a></td><td><code>DB/42 N6 DB6 N6 DB6 K40 DP36 W6 DP36 K40 DB36 N6 DB/6</code></td><td>496</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/"><img src="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/sett.png" alt="Westwood MacPoiret sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/">Westwood MacPoiret</a></td><td></td><td><code>DB/42 N6 DB6 N6 DB6 K40 DP36 W6 DP36 K40 DB36 N6 DB/6</code></td><td>496</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/"><img src="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/sett.png" alt="Westwood MacPoiret sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

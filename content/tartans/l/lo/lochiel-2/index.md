@@ -18,10 +18,10 @@ Its design is pattern [GBGRBGRBRGBRGRBGR](/stripes/gbgrbgrbrgbrgrbgr/) — the p
 The **Lochiel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4~x2/">Lochiel</a></td><td><code>R/72 Y4 DB4 R6 G80 R6 DB4 Y4 R6 DB24 R6 Y4 DB4 R72 G6 B6 G/8</code></td><td>552</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4~x2/"><img src="/variants/s17/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4~x2/sett.png" alt="Lochiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4~x2/">Lochiel</a></td><td></td><td><code>R/72 Y4 DB4 R6 G80 R6 DB4 Y4 R6 DB24 R6 Y4 DB4 R72 G6 B6 G/8</code></td><td>552</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4~x2/"><img src="/variants/s17/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4~x2/sett.png" alt="Lochiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

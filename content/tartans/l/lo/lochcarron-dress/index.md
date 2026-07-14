@@ -18,10 +18,10 @@ Its design is pattern [GRGRKRKRBBBBBR](/stripes/grgrkrkrbbbbbr/) — the page of
 The **Lochcarron Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/">Lochcarron Dress</a></td><td><code>R/6 DB20 T6 DB4 T4 DB4 R6 K10 R4 K10 R44 DG4 R6 DG/4</code></td><td>254</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/"><img src="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/sett.png" alt="Lochcarron Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/">Lochcarron Dress</a></td><td></td><td><code>R/6 DB20 T6 DB4 T4 DB4 R6 K10 R4 K10 R44 DG4 R6 DG/4</code></td><td>254</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/"><img src="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/sett.png" alt="Lochcarron Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

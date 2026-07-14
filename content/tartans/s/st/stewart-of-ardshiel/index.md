@@ -18,10 +18,10 @@ Its design is pattern [GRBKRKWRKRWKRGRBKW](/stripes/grbkrkwrkrwkrgrbkw/) — the
 The **Stewart of Ardshiel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/">Stewart of Ardshiel</a></td><td><code>G/14 R6 B2 K3 R65 K2 LB2 R6 K34 R6 LB2 K2 R4 G66 R12 B2 K2 LB/4</code></td><td>450</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/"><img src="/variants/s18/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/sett.png" alt="Stewart of Ardshiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/">Stewart of Ardshiel</a></td><td></td><td><code>G/14 R6 B2 K3 R65 K2 LB2 R6 K34 R6 LB2 K2 R4 G66 R12 B2 K2 LB/4</code></td><td>450</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/"><img src="/variants/s18/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/sett.png" alt="Stewart of Ardshiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

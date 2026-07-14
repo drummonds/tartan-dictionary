@@ -16,10 +16,10 @@ Its design is pattern [BKBKBKBKBKGKB](/stripes/bkbkbkbkbkgkb/) — the page of e
 The **Edinburgh Castle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/">Edinburgh Castle</a></td><td><code>DR/4 K8 DR4 K44 N2 K6 N2 K6 N2 K44 Y2 K16 DR/2</code></td><td>278</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/"><img src="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/sett.png" alt="Edinburgh Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/">Edinburgh Castle</a></td><td></td><td><code>DR/4 K8 DR4 K44 N2 K6 N2 K6 N2 K44 Y2 K16 DR/2</code></td><td>278</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/"><img src="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/sett.png" alt="Edinburgh Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

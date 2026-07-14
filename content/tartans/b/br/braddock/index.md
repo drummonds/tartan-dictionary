@@ -18,10 +18,10 @@ Its design is pattern [KWGKYRYKBKW](/stripes/kwgkyrykbkw/) — the page of every
 The **Braddock** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/">Braddock</a></td><td><code>W/5 K4 DB2 K5 LY2 R2 LY2 K30 Y3 W7 K/4</code></td><td>—</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/"><img src="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/sett.png" alt="Braddock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/">Braddock</a></td><td></td><td><code>W/5 K4 DB2 K5 LY2 R2 LY2 K30 Y3 W7 K/4</code></td><td>—</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/"><img src="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/sett.png" alt="Braddock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

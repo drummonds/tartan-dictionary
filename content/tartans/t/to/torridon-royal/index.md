@@ -13,10 +13,10 @@ Its design is pattern [BBWBWRW](/stripes/bbwbwrw/) — the page of every tartan 
 The **Torridon Royal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db3t2w2t30w30r2w3~x2/">Torridon Royal</a></td><td><code>DB/6 T4 W4 T60 W60 R4 W/6</code></td><td>276</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db3t2w2t30w30r2w3~x2/"><img src="/variants/s7/db3t2w2t30w30r2w3~x2/sett.png" alt="Torridon Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db3t2w2t30w30r2w3~x2/">Torridon Royal</a></td><td></td><td><code>DB/6 T4 W4 T60 W60 R4 W/6</code></td><td>276</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db3t2w2t30w30r2w3~x2/"><img src="/variants/s7/db3t2w2t30w30r2w3~x2/sett.png" alt="Torridon Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGGRG](/stripes/gggrg/) — the page of every tartan shar
 The **Pendlebury, Andrew** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/g25y6dg5r3y10~x4/">Pendlebury, Andrew</a></td><td><code>G/100 Y24 DG20 R12 Y/40</code></td><td>252</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/g25y6dg5r3y10~x4/"><img src="/variants/s5/g25y6dg5r3y10~x4/sett.png" alt="Pendlebury, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g25y6dg5r3y10~x4/">Pendlebury, Andrew</a></td><td></td><td><code>G/100 Y24 DG20 R12 Y/40</code></td><td>252</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/g25y6dg5r3y10~x4/"><img src="/variants/s5/g25y6dg5r3y10~x4/sett.png" alt="Pendlebury, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

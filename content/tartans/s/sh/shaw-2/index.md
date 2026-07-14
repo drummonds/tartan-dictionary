@@ -20,11 +20,11 @@ Shaw clan sett, published by McIan c.1845 from a Black Watch–derived error; la
 The **Shaw** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g24k2db3k2db8r2~x2/">Shaw</a></td><td><code>G/48 K4 DB6 K4 DB16 R/4</code></td><td>112</td><td>1845</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g24k2db3k2db8r2~x2/"><img src="/variants/s6/g24k2db3k2db8r2~x2/sett.png" alt="Shaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/g24k2db3k2db8r2~x2/">(Clan 1)</a> · <a href="/variants/s6/g24k2db3k2db8r2~x2~db1406275/">Shaw</a></td></tr>
+<tr><td><a href="/variants/s6/g24k2db3k2db8r2~x2/">Shaw</a></td><td></td><td><code>G/48 K4 DB6 K4 DB16 R/4</code></td><td>112</td><td>1845</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g24k2db3k2db8r2~x2/"><img src="/variants/s6/g24k2db3k2db8r2~x2/sett.png" alt="Shaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/g24k2db3k2db8r2~x2/">(Clan 1)</a> · <a href="/variants/s6/g24k2db3k2db8r2~x2~db1406275/">Shaw</a></td></tr>
 </tbody>
 </table>
 

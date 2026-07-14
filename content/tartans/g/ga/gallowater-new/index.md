@@ -13,10 +13,10 @@ Its design is pattern [GGWBWKR](/stripes/ggwbwkr/) — the page of every tartan 
 The **Gallowater, New** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r11k33lb14dp32w2dg42y10/">Gallowater, New</a></td><td><code>R/11 K33 LB14 DP32 W2 DG42 Y/10</code></td><td>267</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r11k33lb14dp32w2dg42y10/"><img src="/variants/s7/r11k33lb14dp32w2dg42y10/sett.png" alt="Gallowater, New sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r11k33lb14dp32w2dg42y10/">Gallowater, New</a></td><td></td><td><code>R/11 K33 LB14 DP32 W2 DG42 Y/10</code></td><td>267</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r11k33lb14dp32w2dg42y10/"><img src="/variants/s7/r11k33lb14dp32w2dg42y10/sett.png" alt="Gallowater, New sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

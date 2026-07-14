@@ -13,10 +13,10 @@ Its design is pattern [YBRBGBRBRBGY](/stripes/ybrbgbrbrbgy/) — the page of eve
 The **Meath, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3~x2~ly2705081-lyi3103095/">Meath, County</a></td><td><code>LY/10 DB4 R28 DO18 DG16 DB6 R6 DB6 R6 DB6 DG36 LYi/6</code></td><td>280</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3~x2~ly2705081-lyi3103095/"><img src="/variants/s12/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3~x2~ly2705081-lyi3103095/sett.png" alt="Meath, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3~x2~ly2705081-lyi3103095/">Meath, County</a></td><td></td><td><code>LY/10 DB4 R28 DO18 DG16 DB6 R6 DB6 R6 DB6 DG36 LYi/6</code></td><td>280</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3~x2~ly2705081-lyi3103095/"><img src="/variants/s12/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3~x2~ly2705081-lyi3103095/sett.png" alt="Meath, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

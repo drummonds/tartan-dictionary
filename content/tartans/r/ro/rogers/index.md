@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/) — the page 
 The **Rogers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2~x4/">Rogers</a></td><td><code>DB/32 K4 DB8 K4 DB8 K24 DG32 K4 LB8 K4 DG32 K24 DB32 K4 DB/8</code></td><td>416</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2~x4/"><img src="/variants/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2~x4/sett.png" alt="Rogers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2~x4/">Rogers</a></td><td></td><td><code>DB/32 K4 DB8 K4 DB8 K24 DG32 K4 LB8 K4 DG32 K24 DB32 K4 DB/8</code></td><td>416</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2~x4/"><img src="/variants/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2~x4/sett.png" alt="Rogers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

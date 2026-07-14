@@ -20,11 +20,11 @@ Designed 1995 for Tall Ships event; based on Robertson tartan honouring Leith sh
 The **Leith** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/t5k2t17db3t3db22t3dg22t3db3t27k2dr4~x2/">Leith</a></td><td><code>T/5 K2 T17 DB3 T3 DB22 T3 DG22 T3 DB3 T27 K2 DR/4</code></td><td>446</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/t5k2t17db3t3db22t3dg22t3db3t27k2dr4~x2/"><img src="/variants/s13/t5k2t17db3t3db22t3dg22t3db3t27k2dr4~x2/sett.png" alt="Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/t5k2t17db3t3db22t3dg22t3db3t27k2dr4~x2/">Leith</a> · <a href="/variants/s13/t5k2t17db3t3db22t3dg22t3db3t27k2dr4~x2~db1204274/">District Tartan</a></td></tr>
+<tr><td><a href="/variants/s13/t5k2t17db3t3db22t3dg22t3db3t27k2dr4~x2/">Leith</a></td><td></td><td><code>T/5 K2 T17 DB3 T3 DB22 T3 DG22 T3 DB3 T27 K2 DR/4</code></td><td>446</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/t5k2t17db3t3db22t3dg22t3db3t27k2dr4~x2/"><img src="/variants/s13/t5k2t17db3t3db22t3dg22t3db3t27k2dr4~x2/sett.png" alt="Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/t5k2t17db3t3db22t3dg22t3db3t27k2dr4~x2/">Leith</a> · <a href="/variants/s13/t5k2t17db3t3db22t3dg22t3db3t27k2dr4~x2~db1204274/">District Tartan</a></td></tr>
 </tbody>
 </table>
 

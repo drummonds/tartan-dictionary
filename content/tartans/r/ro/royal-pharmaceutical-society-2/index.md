@@ -13,10 +13,10 @@ Its design is pattern [RBGBGBGBW](/stripes/rbgbgbgbw/) — the page of every tar
 The **Royal Pharmaceutical, Society** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/">Royal Pharmaceutical, Society</a></td><td><code>O/6 B4 G38 B12 G4 B12 DG28 DR8 W/4</code></td><td>222</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/"><img src="/variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/sett.png" alt="Royal Pharmaceutical, Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/">Royal Pharmaceutical, Society</a></td><td></td><td><code>O/6 B4 G38 B12 G4 B12 DG28 DR8 W/4</code></td><td>222</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/"><img src="/variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/sett.png" alt="Royal Pharmaceutical, Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

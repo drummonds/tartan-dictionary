@@ -22,12 +22,12 @@ The **Scrymgeour** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/">Scrymgeour</a> ★</td><td><code>R/90 K6 LO12 G18 R12 K6 LO/90</code></td><td>288</td><td>1971</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/"><img src="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/">(Clan)</a></td><td><code>DR/90 K6 LO12 DB18 DR12 K6 LO/90</code></td><td>288</td><td>1971</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/"><img src="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/">Scrymgeour</a> ★</td><td></td><td><code>R/90 K6 LO12 G18 R12 K6 LO/90</code></td><td>288</td><td>1971</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/"><img src="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/">(Clan)</a></td><td>2.99</td><td><code>DR/90 K6 LO12 DB18 DR12 K6 LO/90</code></td><td>288</td><td>1971</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/"><img src="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

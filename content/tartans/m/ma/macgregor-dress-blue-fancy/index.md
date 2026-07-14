@@ -16,10 +16,10 @@ Its design is pattern [GKBWBW](/stripes/gkbwbw/) — the page of every tartan sh
 The **MacGregor Dress Blue Fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w52db22w6db8k1g3~x2~g2408144/">MacGregor Dress Blue Fancy</a></td><td><code>W/104 DB44 W12 DB16 K2 G/6</code></td><td>258</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w52db22w6db8k1g3~x2~g2408144/"><img src="/variants/s6/w52db22w6db8k1g3~x2~g2408144/sett.png" alt="MacGregor Dress Blue Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w52db22w6db8k1g3~x2~g2408144/">MacGregor Dress Blue Fancy</a></td><td></td><td><code>W/104 DB44 W12 DB16 K2 G/6</code></td><td>258</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w52db22w6db8k1g3~x2~g2408144/"><img src="/variants/s6/w52db22w6db8k1g3~x2~g2408144/sett.png" alt="MacGregor Dress Blue Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

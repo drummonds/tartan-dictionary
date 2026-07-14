@@ -20,10 +20,10 @@ Border district tartan from John MacGregor Hastie's 1930s notes; centre echoes J
 The **Moffat** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k39n3k3n3k14n28r3~x2/">Moffat</a></td><td><code>K/78 N6 K6 N6 K28 N56 R/6</code></td><td>288</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><img src="/variants/s7/k39n3k3n3k14n28r3~x2/sett.png" alt="Moffat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k39n3k3n3k14n28r3~x2/">Moffat</a></td><td></td><td><code>K/78 N6 K6 N6 K28 N56 R/6</code></td><td>288</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><img src="/variants/s7/k39n3k3n3k14n28r3~x2/sett.png" alt="Moffat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

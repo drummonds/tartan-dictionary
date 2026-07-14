@@ -18,10 +18,10 @@ Its design is pattern [GBWBWBWBKGW](/stripes/gbwbwbwbkgw/) — the page of every
 The **Smith** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g2db2lb23db2lb2db6lb2db2k33y2lb2~x2/">Smith</a></td><td><code>G/4 DB4 LB46 DB4 LB4 DB12 LB4 DB4 K66 Y4 LB/4</code></td><td>304</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g2db2lb23db2lb2db6lb2db2k33y2lb2~x2/"><img src="/variants/s11/g2db2lb23db2lb2db6lb2db2k33y2lb2~x2/sett.png" alt="Smith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g2db2lb23db2lb2db6lb2db2k33y2lb2~x2/">Smith</a></td><td></td><td><code>G/4 DB4 LB46 DB4 LB4 DB12 LB4 DB4 K66 Y4 LB/4</code></td><td>304</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g2db2lb23db2lb2db6lb2db2k33y2lb2~x2/"><img src="/variants/s11/g2db2lb23db2lb2db6lb2db2k33y2lb2~x2/sett.png" alt="Smith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

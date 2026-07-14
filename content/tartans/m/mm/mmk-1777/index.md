@@ -13,10 +13,10 @@ Its design is pattern [RWRGRKW](/stripes/rwrgrkw/) — the page of every tartan 
 The **MMK 1777** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/">MMK 1777</a></td><td><code>W/120 K4 R28 DG28 R32 W4 R/8</code></td><td>320</td><td>1777</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><img src="/variants/s7/w30k1r7dg7r8w1r2~x4/sett.png" alt="MMK 1777 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/">MMK 1777</a></td><td></td><td><code>W/120 K4 R28 DG28 R32 W4 R/8</code></td><td>320</td><td>1777</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><img src="/variants/s7/w30k1r7dg7r8w1r2~x4/sett.png" alt="MMK 1777 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

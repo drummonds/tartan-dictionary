@@ -13,10 +13,10 @@ Its design is pattern [BGRGBGRGBGRG](/stripes/bgrgbgrgbgrg/) — the page of eve
 The **Scottish Piping Society of London** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/">Scottish Piping Society of London</a></td><td><code>G/42 R6 G42 DB10 G6 R60 G6 DB10 G42 R6 G42 DB/4</code></td><td>506</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/"><img src="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/sett.png" alt="Scottish Piping Society of London sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/">Scottish Piping Society of London</a></td><td></td><td><code>G/42 R6 G42 DB10 G6 R60 G6 DB10 G42 R6 G42 DB/4</code></td><td>506</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/"><img src="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/sett.png" alt="Scottish Piping Society of London sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BGKGYKRKRKYGKGBR](/stripes/bgkgykrkrkygkgbr/) — the pag
 The **Shanahan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/">Shanahan</a></td><td><code>T/34 DG32 K4 DG48 LY6 K8 R4 K4 R4 K8 LY6 DG48 K4 DG32 T34 R/4</code></td><td>522</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/"><img src="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/sett.png" alt="Shanahan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/">Shanahan</a></td><td></td><td><code>T/34 DG32 K4 DG48 LY6 K8 R4 K4 R4 K8 LY6 DG48 K4 DG32 T34 R/4</code></td><td>522</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/"><img src="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/sett.png" alt="Shanahan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

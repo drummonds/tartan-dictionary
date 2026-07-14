@@ -13,10 +13,10 @@ Its design is pattern [BRWRKRGGR](/stripes/brwrkrggr/) — the page of every tar
 The **Unidentified Travelling costume** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/">Unidentified Travelling costume</a></td><td><code>R/16 Y2 G40 R58 K4 R58 W40 R4 DB/14</code></td><td>442</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/"><img src="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/sett.png" alt="Unidentified Travelling costume sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/">Unidentified Travelling costume</a></td><td></td><td><code>R/16 Y2 G40 R58 K4 R58 W40 R4 DB/14</code></td><td>442</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/"><img src="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/sett.png" alt="Unidentified Travelling costume sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

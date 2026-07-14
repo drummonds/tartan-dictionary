@@ -13,10 +13,10 @@ Its design is pattern [BRBBGBGW](/stripes/brbbgbgw/) — the page of every tarta
 The **YPO Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/">YPO Dress</a></td><td><code>DO/6 O32 DO4 DP24 DG24 DO4 DY32 LB/6</code></td><td>252</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/"><img src="/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/sett.png" alt="YPO Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/">YPO Dress</a></td><td></td><td><code>DO/6 O32 DO4 DP24 DG24 DO4 DY32 LB/6</code></td><td>252</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/"><img src="/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/sett.png" alt="YPO Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

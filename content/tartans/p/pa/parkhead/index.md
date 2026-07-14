@@ -13,10 +13,10 @@ Its design is pattern [GKGKGGGWGWG](/stripes/gkgkgggwgwg/) — the page of every
 The **Parkhead** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/">Parkhead</a></td><td><code>DG/4 K4 DG36 K28 DY4 DG20 G16 W8 G4 W4 DG/4</code></td><td>256</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/"><img src="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/sett.png" alt="Parkhead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/">Parkhead</a></td><td></td><td><code>DG/4 K4 DG36 K28 DY4 DG20 G16 W8 G4 W4 DG/4</code></td><td>256</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/"><img src="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/sett.png" alt="Parkhead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

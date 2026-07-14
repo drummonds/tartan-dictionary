@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/st/stewart-hunting/">Stewart Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-hunting/"><img src="/variants/s27/g2db7k1db1k1db1k3g11r4g11k3g2k6g4k6g2k3g11y4g11k3db1k1db1k1db7g2/sett.png" alt="Stewart Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-hunting/"><img src="/variants/s27/g2db8k1db1k1db1k2g11r2g11k3g2k6g2k6g2k3g11y2g11k2db1k1db1k1db8g2/sett.png" alt="Stewart Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stewart-hunting-d/">Stewart Hunting D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-hunting-d/"><img src="/variants/s27/g2db3k1db1k1db1k4g12r4g12k3g2k6g4k6g2k3g12y4g12k4db1k1db1k1db3g2/sett.png" alt="Stewart Hunting D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/st/stewart-hunting-d/"><img src="/variants/s27/g2db3k1db1k1db1k4g12r2g12k3g2k6g2k6g2k3g12y2g12k4db1k1db1k1db3g2/sett.png" alt="Stewart Hunting D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

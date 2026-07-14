@@ -13,10 +13,10 @@ Its design is pattern [WKBWBYBYWRW](/stripes/wkbwbybywrw/) — the page of every
 The **Bourbon, Sebastien** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/">Bourbon, Sebastien</a></td><td><code>W/4 K4 N8 W8 N10 LY8 N6 LY100 W4 R4 W/4</code></td><td>312</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/"><img src="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/sett.png" alt="Bourbon, Sebastien sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/">Bourbon, Sebastien</a></td><td></td><td><code>W/4 K4 N8 W8 N10 LY8 N6 LY100 W4 R4 W/4</code></td><td>312</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/"><img src="/variants/s11/w2k2n4w4n5ly4n3ly50w2r2w2~x2/sett.png" alt="Bourbon, Sebastien sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

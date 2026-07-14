@@ -20,10 +20,10 @@ Fancy dancing tartan from Dalgliesh's Dancers Fancies swatch book.
 The **Glasgow Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/n16dr3lb15dr18w15n3lb3~x2/">Glasgow Dress</a></td><td><code>N/32 DR6 LB30 DR36 W30 N6 LB/6</code></td><td>254</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n16dr3lb15dr18w15n3lb3~x2/"><img src="/variants/s7/n16dr3lb15dr18w15n3lb3~x2/sett.png" alt="Glasgow Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n16dr3lb15dr18w15n3lb3~x2/">Glasgow Dress</a></td><td></td><td><code>N/32 DR6 LB30 DR36 W30 N6 LB/6</code></td><td>254</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/n16dr3lb15dr18w15n3lb3~x2/"><img src="/variants/s7/n16dr3lb15dr18w15n3lb3~x2/sett.png" alt="Glasgow Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

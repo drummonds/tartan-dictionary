@@ -18,10 +18,10 @@ Its design is pattern [GWGBGBGBGR](/stripes/gwgbgbgbgr/) — the page of every t
 The **Chisholm** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/">Chisholm</a></td><td><code>DY/10 W6 DY60 DB12 G6 DB6 G6 DB6 G30 R/6</code></td><td>280</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/"><img src="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/">Chisholm</a></td><td></td><td><code>DY/10 W6 DY60 DB12 G6 DB6 G6 DB6 G30 R/6</code></td><td>280</td><td>1906</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/"><img src="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBGBWWKWKWWBGBGBGRGGGRG](/stripes/bgbgbwwkwkwwbgbgbgrggg
 The **O'Sullivan McCragh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/">O'Sullivan McCragh</a></td><td><code>G/32 R4 G8 DY4 G8 R4 G32 DB4 G6 DB4 G6 DB20 W4 LB24 K4 LB10 K4 LB24 W4 DB20 G6 DB4 G6 DB/4</code></td><td>456</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/"><img src="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/sett.png" alt="O'Sullivan McCragh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/">O'Sullivan McCragh</a></td><td></td><td><code>G/32 R4 G8 DY4 G8 R4 G32 DB4 G6 DB4 G6 DB20 W4 LB24 K4 LB10 K4 LB24 W4 DB20 G6 DB4 G6 DB/4</code></td><td>456</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/"><img src="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/sett.png" alt="O'Sullivan McCragh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GRGBGKGGWGWGGRGW](/stripes/grgbgkggwgwggrgw/) — the pag
 The **Dalrymple of Castleton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/y2r15y2dr2y2k14y2g10w1g6w1g10y2r7g10w1~x2/">Dalrymple of Castleton</a></td><td><code>Y/4 R30 Y4 DR4 Y4 K28 Y4 G20 W2 G12 W2 G20 Y4 R14 G20 W/2</code></td><td>342</td><td>1720</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/y2r15y2dr2y2k14y2g10w1g6w1g10y2r7g10w1~x2/"><img src="/variants/s16/y2r15y2dr2y2k14y2g10w1g6w1g10y2r7g10w1~x2/sett.png" alt="Dalrymple of Castleton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/y2r15y2dr2y2k14y2g10w1g6w1g10y2r7g10w1~x2/">Dalrymple of Castleton</a></td><td></td><td><code>Y/4 R30 Y4 DR4 Y4 K28 Y4 G20 W2 G12 W2 G20 Y4 R14 G20 W/2</code></td><td>342</td><td>1720</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/y2r15y2dr2y2k14y2g10w1g6w1g10y2r7g10w1~x2/"><img src="/variants/s16/y2r15y2dr2y2k14y2g10w1g6w1g10y2r7g10w1~x2/sett.png" alt="Dalrymple of Castleton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

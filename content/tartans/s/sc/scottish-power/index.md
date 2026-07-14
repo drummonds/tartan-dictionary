@@ -13,10 +13,10 @@ Its design is pattern [BGBGKBGGGBKGBG](/stripes/bgbgkbgggbkgbg/) — the page of
 The **Scottish Power** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/">Scottish Power</a></td><td><code>DG/16 DR6 DG16 K20 DP10 G64 DG10 G64 DP10 K20 DG16 DR6 DG16 DP/6</code></td><td>538</td><td>~1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><img src="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/sett.png" alt="Scottish Power sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/">Scottish Power</a></td><td></td><td><code>DG/16 DR6 DG16 K20 DP10 G64 DG10 G64 DP10 K20 DG16 DR6 DG16 DP/6</code></td><td>538</td><td>~1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><img src="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/sett.png" alt="Scottish Power sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BWYBGWGYWGBRGBW](/stripes/bwybgwgywgbrgbw/) — the page 
 The **Thomas McGurran** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/">Thomas McGurran</a></td><td><code>DB/8 W16 LO6 DB2 G2 W2 G64 LO4 W2 G2 N16 R2 G4 N4 W/4</code></td><td>264</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/"><img src="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/sett.png" alt="Thomas McGurran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/">Thomas McGurran</a></td><td></td><td><code>DB/8 W16 LO6 DB2 G2 W2 G64 LO4 W2 G2 N16 R2 G4 N4 W/4</code></td><td>264</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/"><img src="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/sett.png" alt="Thomas McGurran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,11 +18,11 @@ Its design is pattern [BWBWBWGGBW](/stripes/bwbwbwggbw/) — the page of every t
 The **Greenshields** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/">Greenshields</a></td><td><code>DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W/4</code></td><td>244</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/"><img src="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/sett.png" alt="Greenshields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/">(Personal)</a> · <a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/">Family Tartan</a></td></tr>
+<tr><td><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/">Greenshields</a></td><td></td><td><code>DB/80 LB6 DB6 LB6 DB6 LB8 DG16 G16 N16 W/4</code></td><td>244</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/"><img src="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/sett.png" alt="Greenshields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/">(Personal)</a> · <a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/">Family Tartan</a></td></tr>
 </tbody>
 </table>
 

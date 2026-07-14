@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBGBGY](/stripes/bbbbbbgbgy/) — the page of every t
 The **Donegal, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/">Donegal, County</a></td><td><code>LY/6 DG34 T6 DG6 T6 DO10 T36 DR4 T16 DR/4</code></td><td>246</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/"><img src="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/sett.png" alt="Donegal, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/">Donegal, County</a></td><td></td><td><code>LY/6 DG34 T6 DG6 T6 DO10 T36 DR4 T16 DR/4</code></td><td>246</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/"><img src="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/sett.png" alt="Donegal, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

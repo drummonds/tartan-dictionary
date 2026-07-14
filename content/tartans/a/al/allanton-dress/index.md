@@ -18,10 +18,10 @@ Its design is pattern [GWBGWG](/stripes/gwbgwg/) — the page of every tartan sh
 The **Allanton Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g4w28db14y2lb17g4~x2/">Allanton Dress</a></td><td><code>G/8 W56 DB28 Y4 LB34 G/8</code></td><td>260</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><img src="/variants/s6/g4w28db14y2lb17g4~x2/sett.png" alt="Allanton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g4w28db14y2lb17g4~x2/">Allanton Dress</a></td><td></td><td><code>G/8 W56 DB28 Y4 LB34 G/8</code></td><td>260</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><img src="/variants/s6/g4w28db14y2lb17g4~x2/sett.png" alt="Allanton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [KWKGGGGGKRYR](/stripes/kwkgggggkryr/) — the page of eve
 The **Burns 250th Anniversary** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/">Burns 250th Anniversary</a></td><td><code>R/16 LY4 R48 K12 DY6 G4 DY6 G4 DY6 K6 W6 K/4</code></td><td>224</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><img src="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/sett.png" alt="Burns 250th Anniversary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/">Burns 250th Anniversary</a></td><td></td><td><code>R/16 LY4 R48 K12 DY6 G4 DY6 G4 DY6 K6 W6 K/4</code></td><td>224</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><img src="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/sett.png" alt="Burns 250th Anniversary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

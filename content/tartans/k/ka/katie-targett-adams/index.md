@@ -13,10 +13,10 @@ Its design is pattern [RBRBKRWBKBKBKR](/stripes/rbrbkrwbkbkbkr/) — the page of
 The **Katie Targett-Adams** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/">Katie Targett-Adams</a></td><td><code>R/4 DP10 R4 DP20 K32 M12 LB4 DPi28 K2 DPi28 K12 DP24 K32 M/2</code></td><td>422</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/"><img src="/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/sett.png" alt="Katie Targett-Adams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/">Katie Targett-Adams</a></td><td></td><td><code>R/4 DP10 R4 DP20 K32 M12 LB4 DPi28 K2 DPi28 K12 DP24 K32 M/2</code></td><td>422</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/"><img src="/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/sett.png" alt="Katie Targett-Adams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

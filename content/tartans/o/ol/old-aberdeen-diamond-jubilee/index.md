@@ -13,10 +13,10 @@ Its design is pattern [BRKBKBKRBKBKRB](/stripes/brkbkbkrbkbkrb/) — the page of
 The **Old Aberdeen Diamond Jubilee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/">Old Aberdeen Diamond Jubilee</a></td><td><code>DR/3 R2 K7 DR3 K3 DR52 R4 K52 DR3 K3 DR3 K7 R2 DR/3</code></td><td>288</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/"><img src="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/sett.png" alt="Old Aberdeen Diamond Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/">Old Aberdeen Diamond Jubilee</a></td><td></td><td><code>DR/3 R2 K7 DR3 K3 DR52 R4 K52 DR3 K3 DR3 K7 R2 DR/3</code></td><td>288</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/"><img src="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/sett.png" alt="Old Aberdeen Diamond Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

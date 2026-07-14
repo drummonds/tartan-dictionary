@@ -13,10 +13,10 @@ Its design is pattern [RWKBBRWBRW](/stripes/rwkbbrwbrw/) — the page of every t
 The **Voluntary Service Aberdeen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/">Voluntary Service Aberdeen</a></td><td><code>Oi/8 W2 K70 N2 DB4 O8 W2 DB28 O16 W/2</code></td><td>274</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/"><img src="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/sett.png" alt="Voluntary Service Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/">Voluntary Service Aberdeen</a></td><td></td><td><code>Oi/8 W2 K70 N2 DB4 O8 W2 DB28 O16 W/2</code></td><td>274</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/"><img src="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/sett.png" alt="Voluntary Service Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GWGYGWGKYBW](/stripes/gwgygwgkybw/) — the page of every
 The **Wcwm 1290** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/">Wcwm 1290</a></td><td><code>DG/56 LB4 DG6 LO8 DG6 LB4 DG6 K28 LG4 DB56 LB/6</code></td><td>306</td><td>1979</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><img src="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/sett.png" alt="Wcwm 1290 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/">Wcwm 1290</a></td><td></td><td><code>DG/56 LB4 DG6 LO8 DG6 LB4 DG6 K28 LG4 DB56 LB/6</code></td><td>306</td><td>1979</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><img src="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/sett.png" alt="Wcwm 1290 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

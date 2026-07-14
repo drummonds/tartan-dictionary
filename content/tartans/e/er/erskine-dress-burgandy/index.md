@@ -16,10 +16,10 @@ Its design is pattern [BWBWBW](/stripes/bwbwbw/) — the page of every tartan sh
 The **Erskine Dress Burgandy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dr5w2dr25w25dr2w5~x2/">Erskine Dress Burgandy</a></td><td><code>DR/10 W4 DR50 W50 DR4 W/10</code></td><td>236</td><td>1971</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr5w2dr25w25dr2w5~x2/"><img src="/variants/s6/dr5w2dr25w25dr2w5~x2/sett.png" alt="Erskine Dress Burgandy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr5w2dr25w25dr2w5~x2/">Erskine Dress Burgandy</a></td><td></td><td><code>DR/10 W4 DR50 W50 DR4 W/10</code></td><td>236</td><td>1971</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dr5w2dr25w25dr2w5~x2/"><img src="/variants/s6/dr5w2dr25w25dr2w5~x2/sett.png" alt="Erskine Dress Burgandy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

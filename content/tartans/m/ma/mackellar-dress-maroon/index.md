@@ -16,10 +16,10 @@ Its design is pattern [BWBKGWGYGWG](/stripes/bwbkgwgygwg/) — the page of every
 The **MacKellar Dress, Maroon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/">MacKellar Dress, Maroon</a></td><td><code>DY/54 W4 DY6 LY8 DY6 W4 DY10 K26 N4 W52 N/6</code></td><td>300</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/"><img src="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/sett.png" alt="MacKellar Dress, Maroon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/">MacKellar Dress, Maroon</a></td><td></td><td><code>DY/54 W4 DY6 LY8 DY6 W4 DY10 K26 N4 W52 N/6</code></td><td>300</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/"><img src="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/sett.png" alt="MacKellar Dress, Maroon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,11 +15,11 @@ Designed 1998 (Wittering or Murray) for the United Scottish Clans of Oklahoma; a
 The **Oklahoma** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k8dy2t21w3r2~x4/">Oklahoma</a></td><td><code>K/32 DY8 T84 W12 R/8</code></td><td>248</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k8dy2t21w3r2~x4/"><img src="/variants/s5/k8dy2t21w3r2~x4/sett.png" alt="Oklahoma sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s5/k8dy2t21w3r2~x4/">(US State)</a> · <a href="/variants/s5/k8dy2t21w3r2~x4~t2205244/">Oklahoma</a></td></tr>
+<tr><td><a href="/variants/s5/k8dy2t21w3r2~x4/">Oklahoma</a></td><td></td><td><code>K/32 DY8 T84 W12 R/8</code></td><td>248</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k8dy2t21w3r2~x4/"><img src="/variants/s5/k8dy2t21w3r2~x4/sett.png" alt="Oklahoma sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s5/k8dy2t21w3r2~x4/">(US State)</a> · <a href="/variants/s5/k8dy2t21w3r2~x4~t2205244/">Oklahoma</a></td></tr>
 </tbody>
 </table>
 

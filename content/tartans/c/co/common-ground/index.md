@@ -13,10 +13,10 @@ Its design is pattern [GBWBW](/stripes/gbwbw/) — the page of every tartan shar
 The **Common Ground** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/y3db27w16dr27w3~x2/">Common Ground</a></td><td><code>Y/6 DB54 W32 DR54 W/6</code></td><td>292</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/y3db27w16dr27w3~x2/"><img src="/variants/s5/y3db27w16dr27w3~x2/sett.png" alt="Common Ground sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/y3db27w16dr27w3~x2/">Common Ground</a></td><td></td><td><code>Y/6 DB54 W32 DR54 W/6</code></td><td>292</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/y3db27w16dr27w3~x2/"><img src="/variants/s5/y3db27w16dr27w3~x2/sett.png" alt="Common Ground sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

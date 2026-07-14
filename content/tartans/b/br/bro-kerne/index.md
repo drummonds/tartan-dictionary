@@ -13,10 +13,10 @@ Its design is pattern [WBKBKGKBY](/stripes/wbkbkgkby/) — the page of every tar
 The **Bro-Kerne** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/">Bro-Kerne</a></td><td><code>W/6 DB2 K28 DB4 K2 G12 K2 DB60 LY/6</code></td><td>232</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><img src="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/sett.png" alt="Bro-Kerne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/">Bro-Kerne</a></td><td></td><td><code>W/6 DB2 K28 DB4 K2 G12 K2 DB60 LY/6</code></td><td>232</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><img src="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/sett.png" alt="Bro-Kerne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

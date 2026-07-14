@@ -17,10 +17,10 @@ Its design is pattern [WWYW](/stripes/wwyw/) — the page of every tartan sharin
 The **Takla Makan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/lb4ly15lb4w2~x2/">Takla Makan</a></td><td><code>LB/8 LY30 LB8 W/4</code></td><td>88</td><td>~700 BCE</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/lb4ly15lb4w2~x2/"><img src="/variants/s4/lb4ly15lb4w2~x2/sett.png" alt="Takla Makan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/lb4ly15lb4w2~x2/">Takla Makan</a></td><td></td><td><code>LB/8 LY30 LB8 W/4</code></td><td>88</td><td>~700 BCE</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/lb4ly15lb4w2~x2/"><img src="/variants/s4/lb4ly15lb4w2~x2/sett.png" alt="Takla Makan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

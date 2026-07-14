@@ -17,12 +17,12 @@ The **US Air Force Reserve Pipe Band** tartan groups 2 setts — the same named 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/">US Air Force Reserve Pipe Band</a> ★</td><td><code>DB/88 LY6 K40 DR6 DB16 LG68 DB10 LG/30</code></td><td>410</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><img src="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/sett.png" alt="US Air Force Reserve Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db44k23dr3db8lg34db5lg15~x2/">Military Tartan</a></td><td><code>DB/88 K46 DR6 DB16 LG68 DB10 LG/30</code></td><td>410</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db44k23dr3db8lg34db5lg15~x2/"><img src="/variants/s7/db44k23dr3db8lg34db5lg15~x2/sett.png" alt="Military Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/">US Air Force Reserve Pipe Band</a> ★</td><td></td><td><code>DB/88 LY6 K40 DR6 DB16 LG68 DB10 LG/30</code></td><td>410</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><img src="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/sett.png" alt="US Air Force Reserve Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db44k23dr3db8lg34db5lg15~x2/">Military Tartan</a></td><td>0.33</td><td><code>DB/88 K46 DR6 DB16 LG68 DB10 LG/30</code></td><td>410</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db44k23dr3db8lg34db5lg15~x2/"><img src="/variants/s7/db44k23dr3db8lg34db5lg15~x2/sett.png" alt="Military Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

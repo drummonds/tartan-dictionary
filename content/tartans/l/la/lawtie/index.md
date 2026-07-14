@@ -13,10 +13,10 @@ Its design is pattern [BGBBKBKBKWK](/stripes/bgbbkbkbkwk/) — the page of every
 The **Lawtie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/">Lawtie</a></td><td><code>K/40 LB4 K16 DB4 K4 DB4 K4 DB20 DR10 G10 DB/30</code></td><td>222</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><img src="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/sett.png" alt="Lawtie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/">Lawtie</a></td><td></td><td><code>K/40 LB4 K16 DB4 K4 DB4 K4 DB20 DR10 G10 DB/30</code></td><td>222</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><img src="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/sett.png" alt="Lawtie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

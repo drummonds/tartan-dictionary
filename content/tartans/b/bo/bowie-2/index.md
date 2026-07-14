@@ -18,11 +18,11 @@ Its design is pattern [BRBRBRKGRGYK](/stripes/brbrbrkgrgyk/) — the page of eve
 The **Bowie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/">Bowie</a></td><td><code>K/9 LO1 DG3 R5 DG16 K17 R2 T16 R5 T3 R3 T/9</code></td><td>—</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/"><img src="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/sett.png" alt="Bowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/">Black (Name)</a> · <a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2~t2105244/">Black</a></td></tr>
+<tr><td><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/">Bowie</a></td><td></td><td><code>K/9 LO1 DG3 R5 DG16 K17 R2 T16 R5 T3 R3 T/9</code></td><td>—</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/"><img src="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/sett.png" alt="Bowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/">Black (Name)</a> · <a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2~t2105244/">Black</a></td></tr>
 </tbody>
 </table>
 

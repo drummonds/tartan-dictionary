@@ -16,10 +16,10 @@ Its design is pattern [GRKRGRKRKR](/stripes/grkrgrkrkr/) — the page of every t
 The **Hebridean South Uist** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/">Hebridean South Uist</a></td><td><code>G/48 R6 K6 R48 G6 R48 K6 R6 K48 R/6</code></td><td>402</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><img src="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/sett.png" alt="Hebridean South Uist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/">Hebridean South Uist</a></td><td></td><td><code>G/48 R6 K6 R48 G6 R48 K6 R6 K48 R/6</code></td><td>402</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><img src="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/sett.png" alt="Hebridean South Uist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

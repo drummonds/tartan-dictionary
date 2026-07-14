@@ -13,10 +13,10 @@ Its design is pattern [BGBWBWBYWGB](/stripes/bgbwbwbywgb/) — the page of every
 The **Belwade** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/">Belwade</a></td><td><code>DR/16 G16 W4 LO16 DR16 W4 DB4 W4 DBi16 G16 DBi/16</code></td><td>224</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/"><img src="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/sett.png" alt="Belwade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/">Belwade</a></td><td></td><td><code>DR/16 G16 W4 LO16 DR16 W4 DB4 W4 DBi16 G16 DBi/16</code></td><td>224</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/"><img src="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/sett.png" alt="Belwade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

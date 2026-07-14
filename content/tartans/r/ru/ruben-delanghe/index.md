@@ -13,10 +13,10 @@ Its design is pattern [GKBRGKBRKR](/stripes/gkbrgkbrkr/) — the page of every t
 The **Ruben Delanghe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/">Ruben Delanghe</a></td><td><code>G/14 K5 DB2 R21 G18 K4 DB18 R9 K2 R/12</code></td><td>184</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><img src="/variants/s10/g14k5db2r21g18k4db18r9k2r12/sett.png" alt="Ruben Delanghe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/">Ruben Delanghe</a></td><td></td><td><code>G/14 K5 DB2 R21 G18 K4 DB18 R9 K2 R/12</code></td><td>184</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><img src="/variants/s10/g14k5db2r21g18k4db18r9k2r12/sett.png" alt="Ruben Delanghe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

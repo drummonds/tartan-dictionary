@@ -13,10 +13,10 @@ Its design is pattern [WGBGYYWBWYGBWWW](/stripes/wgbgyywbwygbwww/) — the page 
 The **Bonnie Prince Charlie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2~x2~dy1603076-lyi3307090/">Bonnie Prince Charlie</a></td><td><code>W/18 DY28 DO22 DY6 LY22 LYi14 W2 DO6 W2 LYi14 DY14 DO6 W4 LB4 W/4</code></td><td>310</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2~x2~dy1603076-lyi3307090/"><img src="/variants/s15/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2~x2~dy1603076-lyi3307090/sett.png" alt="Bonnie Prince Charlie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2~x2~dy1603076-lyi3307090/">Bonnie Prince Charlie</a></td><td></td><td><code>W/18 DY28 DO22 DY6 LY22 LYi14 W2 DO6 W2 LYi14 DY14 DO6 W4 LB4 W/4</code></td><td>310</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2~x2~dy1603076-lyi3307090/"><img src="/variants/s15/w9dy14do11dy3ly11lyi7w1do3w1lyi7dy7do3w2lb2w2~x2~dy1603076-lyi3307090/sett.png" alt="Bonnie Prince Charlie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

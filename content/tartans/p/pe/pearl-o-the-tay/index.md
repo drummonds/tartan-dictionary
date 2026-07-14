@@ -13,10 +13,10 @@ Its design is pattern [BGBWBKBKBRK](/stripes/bgbwbkbkbrk/) — the page of every
 The **Pearl O' The Tay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/">Pearl O' The Tay</a></td><td><code>DB/12 G6 DB6 W4 DB10 K4 DB6 K4 DP32 R6 K/4</code></td><td>172</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/"><img src="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/sett.png" alt="Pearl O' The Tay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/">Pearl O' The Tay</a></td><td></td><td><code>DB/12 G6 DB6 W4 DB10 K4 DB6 K4 DP32 R6 K/4</code></td><td>172</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/"><img src="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/sett.png" alt="Pearl O' The Tay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

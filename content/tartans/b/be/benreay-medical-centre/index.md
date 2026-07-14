@@ -13,11 +13,11 @@ Its design is pattern [BRBBKW](/stripes/brbbkw/) — the page of every tartan sh
 The **Benreay Medical Centre** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dp4r1t5dp4k6lb1~x4/">Benreay Medical Centre</a></td><td><code>DP/16 R4 T20 DP16 K24 LB/4</code></td><td>148</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp4r1t5dp4k6lb1~x4/"><img src="/variants/s6/dp4r1t5dp4k6lb1~x4/sett.png" alt="Benreay Medical Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/dp4r1t5dp4k6lb1~x4/">(Corporate)</a> · <a href="/variants/s6/dp4r1t5dp4k6lb1~x4~dp1607327/">Benreay Medical Centre</a></td></tr>
+<tr><td><a href="/variants/s6/dp4r1t5dp4k6lb1~x4/">Benreay Medical Centre</a></td><td></td><td><code>DP/16 R4 T20 DP16 K24 LB/4</code></td><td>148</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp4r1t5dp4k6lb1~x4/"><img src="/variants/s6/dp4r1t5dp4k6lb1~x4/sett.png" alt="Benreay Medical Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/dp4r1t5dp4k6lb1~x4/">(Corporate)</a> · <a href="/variants/s6/dp4r1t5dp4k6lb1~x4~dp1607327/">Benreay Medical Centre</a></td></tr>
 </tbody>
 </table>
 

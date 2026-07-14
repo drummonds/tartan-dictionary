@@ -13,10 +13,10 @@ Its design is pattern [KYGW](/stripes/kygw/) — the page of every tartan sharin
 The **Hamworthy Association** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/">Hamworthy Association</a></td><td><code>K/82 LG32 DG28 W/4</code></td><td>206</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/"><img src="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/sett.png" alt="Hamworthy Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/">Hamworthy Association</a></td><td></td><td><code>K/82 LG32 DG28 W/4</code></td><td>206</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/"><img src="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/sett.png" alt="Hamworthy Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBBBGKGKG](/stripes/bbbbgkgkg/) — the page of every tar
 The **Queen of Scots** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g22k3g1k3g2dp8dr1dp8dr16~x2/">Queen of Scots</a></td><td><code>G/44 K6 G2 K6 G4 DP16 DR2 DP16 DR/32</code></td><td>180</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g22k3g1k3g2dp8dr1dp8dr16~x2/"><img src="/variants/s9/g22k3g1k3g2dp8dr1dp8dr16~x2/sett.png" alt="Queen of Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g22k3g1k3g2dp8dr1dp8dr16~x2/">Queen of Scots</a></td><td></td><td><code>G/44 K6 G2 K6 G4 DP16 DR2 DP16 DR/32</code></td><td>180</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g22k3g1k3g2dp8dr1dp8dr16~x2/"><img src="/variants/s9/g22k3g1k3g2dp8dr1dp8dr16~x2/sett.png" alt="Queen of Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

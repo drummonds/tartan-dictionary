@@ -18,10 +18,10 @@ Its design is pattern [GKGKR](/stripes/gkgkr/) — the page of every tartan shar
 The **Mar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/r2k4g45k3y2/">Mar</a></td><td><code>R/2 K4 G45 K3 Y/2</code></td><td>108</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r2k4g45k3y2/"><img src="/variants/s5/r2k4g45k3y2/sett.png" alt="Mar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r2k4g45k3y2/">Mar</a></td><td></td><td><code>R/2 K4 G45 K3 Y/2</code></td><td>108</td><td>1978</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r2k4g45k3y2/"><img src="/variants/s5/r2k4g45k3y2/sett.png" alt="Mar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

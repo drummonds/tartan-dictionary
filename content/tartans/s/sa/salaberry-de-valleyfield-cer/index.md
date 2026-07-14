@@ -13,10 +13,10 @@ Its design is pattern [BWBWBWRGKGWYKYW](/stripes/bwbwbwrgkgwykyw/) — the page 
 The **Salaberry-de-Valleyfield Cer.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/w16ly1k2ly1w16g2k1g2r22w4db3w4db3w4db3~x2/">Salaberry-de-Valleyfield Cer.</a></td><td><code>W/32 LY2 K4 LY2 W32 G4 K2 G4 R44 W8 DB6 W8 DB6 W8 DB/6</code></td><td>298</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/w16ly1k2ly1w16g2k1g2r22w4db3w4db3w4db3~x2/"><img src="/variants/s15/w16ly1k2ly1w16g2k1g2r22w4db3w4db3w4db3~x2/sett.png" alt="Salaberry-de-Valleyfield Cer. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w16ly1k2ly1w16g2k1g2r22w4db3w4db3w4db3~x2/">Salaberry-de-Valleyfield Cer.</a></td><td></td><td><code>W/32 LY2 K4 LY2 W32 G4 K2 G4 R44 W8 DB6 W8 DB6 W8 DB/6</code></td><td>298</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/w16ly1k2ly1w16g2k1g2r22w4db3w4db3w4db3~x2/"><img src="/variants/s15/w16ly1k2ly1w16g2k1g2r22w4db3w4db3w4db3~x2/sett.png" alt="Salaberry-de-Valleyfield Cer. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

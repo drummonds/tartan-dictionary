@@ -18,12 +18,12 @@ The **Washington County Sheriff’s Office** tartan groups 2 setts — the same 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb6k6lb6db3w1k39dy3k3~x2/">Washington County Sheriff’s Office</a> ★</td><td><code>LB/12 K12 LB12 DB6 W2 K78 DY6 K/6</code></td><td>250</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb6k6lb6db3w1k39dy3k3~x2/"><img src="/variants/s8/lb6k6lb6db3w1k39dy3k3~x2/sett.png" alt="Washington County Sheriff’s Office sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/lb6k6lb6t3w1k39ly3k3~x2/">Washington County Sheriff's Office</a></td><td><code>LB/12 K12 LB12 T6 W2 K78 LY6 K/6</code></td><td>250</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb6k6lb6t3w1k39ly3k3~x2/"><img src="/variants/s8/lb6k6lb6t3w1k39ly3k3~x2/sett.png" alt="Washington County Sheriff's Office sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb6k6lb6db3w1k39dy3k3~x2/">Washington County Sheriff’s Office</a> ★</td><td></td><td><code>LB/12 K12 LB12 DB6 W2 K78 DY6 K/6</code></td><td>250</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb6k6lb6db3w1k39dy3k3~x2/"><img src="/variants/s8/lb6k6lb6db3w1k39dy3k3~x2/sett.png" alt="Washington County Sheriff’s Office sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb6k6lb6t3w1k39ly3k3~x2/">Washington County Sheriff's Office</a></td><td>0.08</td><td><code>LB/12 K12 LB12 T6 W2 K78 LY6 K/6</code></td><td>250</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb6k6lb6t3w1k39ly3k3~x2/"><img src="/variants/s8/lb6k6lb6t3w1k39ly3k3~x2/sett.png" alt="Washington County Sheriff's Office sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

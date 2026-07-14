@@ -18,10 +18,10 @@ Its design is pattern [KWKWWBGWBWBW](/stripes/kwkwwbgwbwbw/) — the page of eve
 The **Allandale Blue Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3~x2/">Allandale Blue Dress</a></td><td><code>K/6 W4 K2 W80 LB34 DP10 Y6 W4 DP18 LB2 DP4 LB/6</code></td><td>340</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3~x2/"><img src="/variants/s12/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3~x2/sett.png" alt="Allandale Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3~x2/">Allandale Blue Dress</a></td><td></td><td><code>K/6 W4 K2 W80 LB34 DP10 Y6 W4 DP18 LB2 DP4 LB/6</code></td><td>340</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3~x2/"><img src="/variants/s12/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3~x2/sett.png" alt="Allandale Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

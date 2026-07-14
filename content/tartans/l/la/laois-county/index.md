@@ -13,10 +13,10 @@ Its design is pattern [BBBBKGBGB](/stripes/bbbbkgbgb/) — the page of every tar
 The **Laois, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/">Laois, County</a></td><td><code>DO/30 DY4 DO10 DY10 K36 DB10 DO10 DB4 DO/30</code></td><td>228</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/"><img src="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/sett.png" alt="Laois, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/">Laois, County</a></td><td></td><td><code>DO/30 DY4 DO10 DY10 K36 DB10 DO10 DB4 DO/30</code></td><td>228</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/"><img src="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/sett.png" alt="Laois, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

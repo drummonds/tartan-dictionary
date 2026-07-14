@@ -18,10 +18,10 @@ Its design is pattern [GKGGKRWRWRKGGWGGKRWRWRKGGKGKGGKRWRWRKWBWKGGGGGBRKRWBWRWBW
 The **Ogilvie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s81/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8y4k2r8w2r8w2~x2/">Ogilvie</a></td><td><code>G/28 K8 G28 Y8 K4 R16 W4 R16 W4 R16 K4 Y4 G16 W4 G16 Y4 K4 R16 W4 R16 W4 R16 K4 Y4 G28 K8 G28 K8 G28 Y4 K4 R16 W4 R16 W4 R16 K24 W2 DB8 W2 K24 Y8 G12 Y4 G12 Y8 DP4 R8 K4 R28 W2 DB4 W2 R28 W2 DB4 W2 R28 K4 R8 DP4 Y4 G16 W4 G16 Y4 K4 R16 W4 R16 W4 R16 K4 Y8 G16 Y8 K4 R16 W4 R16 W/4</code></td><td>1632</td><td>~1812</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s81/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8y4k2r8w2r8w2~x2/"><img src="/variants/s81/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8y4k2r8w2r8w2~x2/sett.png" alt="Ogilvie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s81/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8y4k2r8w2r8w2~x2/">Ogilvie</a></td><td></td><td><code>G/28 K8 G28 Y8 K4 R16 W4 R16 W4 R16 K4 Y4 G16 W4 G16 Y4 K4 R16 W4 R16 W4 R16 K4 Y4 G28 K8 G28 K8 G28 Y4 K4 R16 W4 R16 W4 R16 K24 W2 DB8 W2 K24 Y8 G12 Y4 G12 Y8 DP4 R8 K4 R28 W2 DB4 W2 R28 W2 DB4 W2 R28 K4 R8 DP4 Y4 G16 W4 G16 Y4 K4 R16 W4 R16 W4 R16 K4 Y8 G16 Y8 K4 R16 W4 R16 W/4</code></td><td>1632</td><td>~1812</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s81/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8y4k2r8w2r8w2~x2/"><img src="/variants/s81/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8y4k2r8w2r8w2~x2/sett.png" alt="Ogilvie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

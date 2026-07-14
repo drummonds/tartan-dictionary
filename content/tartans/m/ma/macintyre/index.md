@@ -18,10 +18,10 @@ Its design is pattern [GBRBGW](/stripes/gbrbgw/) — the page of every tartan sh
 The **MacIntyre** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dg4db12r3db12dg32w4~x2/">MacIntyre</a></td><td><code>DG/8 DB24 R6 DB24 DG64 W/8</code></td><td>252</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg4db12r3db12dg32w4~x2/"><img src="/variants/s6/dg4db12r3db12dg32w4~x2/sett.png" alt="MacIntyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg4db12r3db12dg32w4~x2/">MacIntyre</a></td><td></td><td><code>DG/8 DB24 R6 DB24 DG64 W/8</code></td><td>252</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dg4db12r3db12dg32w4~x2/"><img src="/variants/s6/dg4db12r3db12dg32w4~x2/sett.png" alt="MacIntyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGWBRWRG](/stripes/ggwbrwrg/) — the page of every tarta
 The **Southwell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg39r2w1r2db14w14dg2g10~x2~dg1806142-g2408144/">Southwell</a></td><td><code>DG/78 R4 W2 R4 DB28 W28 DG4 G/20</code></td><td>238</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg39r2w1r2db14w14dg2g10~x2~dg1806142-g2408144/"><img src="/variants/s8/dg39r2w1r2db14w14dg2g10~x2~dg1806142-g2408144/sett.png" alt="Southwell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg39r2w1r2db14w14dg2g10~x2~dg1806142-g2408144/">Southwell</a></td><td></td><td><code>DG/78 R4 W2 R4 DB28 W28 DG4 G/20</code></td><td>238</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg39r2w1r2db14w14dg2g10~x2~dg1806142-g2408144/"><img src="/variants/s8/dg39r2w1r2db14w14dg2g10~x2~dg1806142-g2408144/sett.png" alt="Southwell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

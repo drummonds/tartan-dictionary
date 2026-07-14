@@ -16,10 +16,10 @@ Its design is pattern [WBRBRBRWBWBW](/stripes/wbrbrbrwbwbw/) — the page of eve
 The **Menzies Cerise Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w4dp1w2dp3w24r5dp3r1dp1r1dp20w2~x2/">Menzies Cerise Dress</a></td><td><code>W/8 DP2 W4 DP6 W48 R10 DP6 R2 DP2 R2 DP40 W/4</code></td><td>256</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w4dp1w2dp3w24r5dp3r1dp1r1dp20w2~x2/"><img src="/variants/s12/w4dp1w2dp3w24r5dp3r1dp1r1dp20w2~x2/sett.png" alt="Menzies Cerise Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w4dp1w2dp3w24r5dp3r1dp1r1dp20w2~x2/">Menzies Cerise Dress</a></td><td></td><td><code>W/8 DP2 W4 DP6 W48 R10 DP6 R2 DP2 R2 DP40 W/4</code></td><td>256</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w4dp1w2dp3w24r5dp3r1dp1r1dp20w2~x2/"><img src="/variants/s12/w4dp1w2dp3w24r5dp3r1dp1r1dp20w2~x2/sett.png" alt="Menzies Cerise Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

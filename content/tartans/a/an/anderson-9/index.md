@@ -18,10 +18,10 @@ Its design is pattern [RBKRKBBWKGKGKRBGKRKGR](/stripes/rbkrkbbwkgkgkrbgkrkgr/) �
 The **Anderson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/r4g7k1r2k1g7dp5r2k5y2k2y2k3w3dp3db16k1r2k1db6r4~x2/">Anderson</a></td><td><code>R/8 G14 K2 R4 K2 G14 DP10 R4 K10 Y4 K4 Y4 K6 W6 DP6 DB32 K2 R4 K2 DB12 R/8</code></td><td>300</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/r4g7k1r2k1g7dp5r2k5y2k2y2k3w3dp3db16k1r2k1db6r4~x2/"><img src="/variants/s21/r4g7k1r2k1g7dp5r2k5y2k2y2k3w3dp3db16k1r2k1db6r4~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/r4g7k1r2k1g7dp5r2k5y2k2y2k3w3dp3db16k1r2k1db6r4~x2/">Anderson</a></td><td></td><td><code>R/8 G14 K2 R4 K2 G14 DP10 R4 K10 Y4 K4 Y4 K6 W6 DP6 DB32 K2 R4 K2 DB12 R/8</code></td><td>300</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/r4g7k1r2k1g7dp5r2k5y2k2y2k3w3dp3db16k1r2k1db6r4~x2/"><img src="/variants/s21/r4g7k1r2k1g7dp5r2k5y2k2y2k3w3dp3db16k1r2k1db6r4~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

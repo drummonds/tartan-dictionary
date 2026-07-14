@@ -13,10 +13,10 @@ Its design is pattern [GBWBWBWBWBWBWBBW](/stripes/gbwbwbwbwbwbwbbw/) — the pag
 The **Ryder Cup, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/">Ryder Cup, The</a></td><td><code>Y/6 DB10 LB24 T2 LB6 T2 LB4 T4 LB4 T6 LB2 T8 LB2 T16 DBi42 W/6</code></td><td>276</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/"><img src="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/sett.png" alt="Ryder Cup, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/">Ryder Cup, The</a></td><td></td><td><code>Y/6 DB10 LB24 T2 LB6 T2 LB4 T4 LB4 T6 LB2 T8 LB2 T16 DBi42 W/6</code></td><td>276</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/"><img src="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/sett.png" alt="Ryder Cup, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

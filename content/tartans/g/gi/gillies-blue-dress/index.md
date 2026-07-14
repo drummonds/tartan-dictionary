@@ -20,10 +20,10 @@ Clan name associated with Badenoch and the Hebrides, meaning 'servant of Jesus'.
 The **Gillies Blue Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r7k2lb16y5lb10k13w28g2w4g2~x2/">Gillies Blue Dress</a></td><td><code>R/14 K4 LB32 Y10 LB20 K26 W56 G4 W8 G/4</code></td><td>338</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r7k2lb16y5lb10k13w28g2w4g2~x2/"><img src="/variants/s10/r7k2lb16y5lb10k13w28g2w4g2~x2/sett.png" alt="Gillies Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r7k2lb16y5lb10k13w28g2w4g2~x2/">Gillies Blue Dress</a></td><td></td><td><code>R/14 K4 LB32 Y10 LB20 K26 W56 G4 W8 G/4</code></td><td>338</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r7k2lb16y5lb10k13w28g2w4g2~x2/"><img src="/variants/s10/r7k2lb16y5lb10k13w28g2w4g2~x2/sett.png" alt="Gillies Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

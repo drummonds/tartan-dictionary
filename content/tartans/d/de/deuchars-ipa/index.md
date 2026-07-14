@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBBWBGBG](/stripes/bbbbbbbwbgbg/) — the page of eve
 The **Deuchars IPA** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/">Deuchars IPA</a></td><td><code>DB/90 T6 DB6 T30 DB6 T6 DB14 W2 DB14 DY2 DB2 DY/2</code></td><td>268</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/"><img src="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/sett.png" alt="Deuchars IPA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/">Deuchars IPA</a></td><td></td><td><code>DB/90 T6 DB6 T30 DB6 T6 DB14 W2 DB14 DY2 DB2 DY/2</code></td><td>268</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/"><img src="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/sett.png" alt="Deuchars IPA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

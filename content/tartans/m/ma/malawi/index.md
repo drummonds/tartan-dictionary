@@ -13,10 +13,10 @@ Its design is pattern [RKRKRKRGKBW](/stripes/rkrkrkrgkbw/) — the page of every
 The **Malawi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/">Malawi</a></td><td><code>R/32 K8 R4 K8 R4 K16 R16 G16 K2 DB32 W/8</code></td><td>252</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/"><img src="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/sett.png" alt="Malawi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/">Malawi</a></td><td></td><td><code>R/32 K8 R4 K8 R4 K16 R16 G16 K2 DB32 W/8</code></td><td>252</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/"><img src="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/sett.png" alt="Malawi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

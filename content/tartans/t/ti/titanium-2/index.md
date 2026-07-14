@@ -18,10 +18,10 @@ Its design is pattern [BRBRWRWRW](/stripes/brbrwrwrw/) — the page of every tar
 The **Titanium** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/">Titanium</a></td><td><code>N/88 O16 N16 O44 LB8 O8 LB22 O4 W/4</code></td><td>328</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/"><img src="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/sett.png" alt="Titanium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/">Titanium</a></td><td></td><td><code>N/88 O16 N16 O44 LB8 O8 LB22 O4 W/4</code></td><td>328</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/"><img src="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/sett.png" alt="Titanium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

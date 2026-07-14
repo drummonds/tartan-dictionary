@@ -13,10 +13,10 @@ Its design is pattern [GBGBGGKGK](/stripes/gbgbggkgk/) — the page of every tar
 The **Historic Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/">Historic Scotland</a></td><td><code>K/4 G14 K2 G18 DY42 N4 DY2 N2 DY/4</code></td><td>176</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/"><img src="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/sett.png" alt="Historic Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/">Historic Scotland</a></td><td></td><td><code>K/4 G14 K2 G18 DY42 N4 DY2 N2 DY/4</code></td><td>176</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/"><img src="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/sett.png" alt="Historic Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

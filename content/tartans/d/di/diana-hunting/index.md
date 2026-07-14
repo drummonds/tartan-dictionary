@@ -18,10 +18,10 @@ Its design is pattern [GWGGRGWGWBWR](/stripes/gwggrgwgwbwr/) — the page of eve
 The **Diana Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/">Diana Hunting</a></td><td><code>DY/92 LB6 DY14 G4 R4 G4 W4 G22 LB12 DB4 LB6 R/4</code></td><td>256</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/"><img src="/variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/sett.png" alt="Diana Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/">Diana Hunting</a></td><td></td><td><code>DY/92 LB6 DY14 G4 R4 G4 W4 G22 LB12 DB4 LB6 R/4</code></td><td>256</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/"><img src="/variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/sett.png" alt="Diana Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

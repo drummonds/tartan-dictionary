@@ -18,10 +18,10 @@ Its design is pattern [RGRGRGRGRGRGRGRGRGRW](/stripes/rgrgrgrgrgrgrgrgrgrw/) —
 The **Bruce** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r8g2r2g6r1g6r2g2r8y1r8g2r2g6r1g6r2g2r8w1~x4/">Bruce</a></td><td><code>R/32 G8 R8 G24 R4 G24 R8 G8 R32 Y4 R32 G8 R8 G24 R4 G24 R8 G8 R32 W/4</code></td><td>572</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r8g2r2g6r1g6r2g2r8y1r8g2r2g6r1g6r2g2r8w1~x4/"><img src="/variants/s20/r8g2r2g6r1g6r2g2r8y1r8g2r2g6r1g6r2g2r8w1~x4/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r8g2r2g6r1g6r2g2r8y1r8g2r2g6r1g6r2g2r8w1~x4/">Bruce</a></td><td></td><td><code>R/32 G8 R8 G24 R4 G24 R8 G8 R32 Y4 R32 G8 R8 G24 R4 G24 R8 G8 R32 W/4</code></td><td>572</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r8g2r2g6r1g6r2g2r8y1r8g2r2g6r1g6r2g2r8w1~x4/"><img src="/variants/s20/r8g2r2g6r1g6r2g2r8y1r8g2r2g6r1g6r2g2r8w1~x4/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

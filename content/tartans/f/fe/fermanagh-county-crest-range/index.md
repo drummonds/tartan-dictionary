@@ -16,10 +16,10 @@ Its design is pattern [BWKBKGKGKW](/stripes/bwkbkgkgkw/) — the page of every t
 The **Fermanagh County, Crest Range** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/">Fermanagh County, Crest Range</a></td><td><code>DR/8 W12 K20 DB10 K6 Y32 K6 G66 K2 W/8</code></td><td>324</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/"><img src="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/sett.png" alt="Fermanagh County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/">Fermanagh County, Crest Range</a></td><td></td><td><code>DR/8 W12 K20 DB10 K6 Y32 K6 G66 K2 W/8</code></td><td>324</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/"><img src="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/sett.png" alt="Fermanagh County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

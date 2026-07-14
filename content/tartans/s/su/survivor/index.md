@@ -14,13 +14,13 @@ The **Survivor** tartan is one sett, recorded at 2 scales — the same proportio
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/">Survivor</a></td><td><code>K/1 R1 K8 G1 K1 G8 Y1 DB8 K1 DB1 K8 W1 K/1</code></td><td>80</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/"><img src="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/sett.png" alt="Survivor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×3 — <a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/">(Fashion)</a></td><td><code>K/3 R3 K24 G3 K3 G24 Y3 DB24 K3 DB3 K24 W3 K/3</code></td><td>240</td><td>2006</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x6/">Survivor</a></td><td><code>K/6 R6 K48 G6 K6 G48 Y6 DB48 K6 DB6 K48 W6 K/6</code></td><td>480</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/">(Fashion)</a> · <a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x6/">Survivor</a></td></tr>
+<tr><td><a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/">Survivor</a></td><td></td><td><code>K/1 R1 K8 G1 K1 G8 Y1 DB8 K1 DB1 K8 W1 K/1</code></td><td>80</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/"><img src="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/sett.png" alt="Survivor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×3 — <a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/">(Fashion)</a></td><td>0.00</td><td><code>K/3 R3 K24 G3 K3 G24 Y3 DB24 K3 DB3 K24 W3 K/3</code></td><td>240</td><td>2006</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x6/">Survivor</a></td><td>0.00</td><td><code>K/6 R6 K48 G6 K6 G48 Y6 DB48 K6 DB6 K48 W6 K/6</code></td><td>480</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/">(Fashion)</a> · <a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x6/">Survivor</a></td></tr>
 </tbody>
 </table>
 

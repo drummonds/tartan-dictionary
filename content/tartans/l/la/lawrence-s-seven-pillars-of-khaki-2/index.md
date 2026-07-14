@@ -13,10 +13,10 @@ Its design is pattern [GWGWGGGRR](/stripes/gwgwgggrr/) — the page of every tar
 The **Lawrence's Seven Pillars of Khaki** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/">Lawrence's Seven Pillars of Khaki</a></td><td><code>DG/6 LB24 DG20 LB12 DG16 G12 DG16 O46 Oi/6</code></td><td>304</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/"><img src="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/sett.png" alt="Lawrence's Seven Pillars of Khaki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/">Lawrence's Seven Pillars of Khaki</a></td><td></td><td><code>DG/6 LB24 DG20 LB12 DG16 G12 DG16 O46 Oi/6</code></td><td>304</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/"><img src="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/sett.png" alt="Lawrence's Seven Pillars of Khaki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

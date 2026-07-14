@@ -15,10 +15,10 @@ Corporate tartan for the Royal College of Physicians, Edinburgh, designed by Don
 The **Royal College of Physicians** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db18r3k9r3g23y3~x2/">Royal College of Physicians</a></td><td><code>DB/36 R6 K18 R6 G46 Y/6</code></td><td>194</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db18r3k9r3g23y3~x2/"><img src="/variants/s6/db18r3k9r3g23y3~x2/sett.png" alt="Royal College of Physicians sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db18r3k9r3g23y3~x2/">Royal College of Physicians</a></td><td></td><td><code>DB/36 R6 K18 R6 G46 Y/6</code></td><td>194</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db18r3k9r3g23y3~x2/"><img src="/variants/s6/db18r3k9r3g23y3~x2/sett.png" alt="Royal College of Physicians sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GGRBGBRGRGRBR](/stripes/ggrbgbrgrgrbr/) — the page of e
 The **Sarna** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/">Sarna</a></td><td><code>G/8 Y2 O4 DP4 G3 DP4 O42 G4 R3 G4 O4 DP5 R/3</code></td><td>169</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/"><img src="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/sett.png" alt="Sarna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/">Sarna</a></td><td></td><td><code>G/8 Y2 O4 DP4 G3 DP4 O42 G4 R3 G4 O4 DP5 R/3</code></td><td>169</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/"><img src="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/sett.png" alt="Sarna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

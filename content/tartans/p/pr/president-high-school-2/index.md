@@ -13,10 +13,10 @@ Its design is pattern [BKWBRKRW](/stripes/bkwbrkrw/) — the page of every tarta
 The **President High School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/">President High School</a></td><td><code>N/166 K14 W12 N20 R14 K6 R40 W/6</code></td><td>384</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><img src="/variants/s8/n83k7w6n10r7k3r20w3~x2/sett.png" alt="President High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/">President High School</a></td><td></td><td><code>N/166 K14 W12 N20 R14 K6 R40 W/6</code></td><td>384</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><img src="/variants/s8/n83k7w6n10r7k3r20w3~x2/sett.png" alt="President High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

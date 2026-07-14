@@ -13,11 +13,11 @@ Its design is pattern [BKBKBKGRGRG](/stripes/bkbkbkgrgrg/) — the page of every
 The **Scottish Tourist Board** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/">Scottish Tourist Board</a></td><td><code>DB/60 K4 DB4 K4 DB4 K64 G30 R4 G8 R8 G/60</code></td><td>380</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><img src="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/sett.png" alt="Scottish Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/">(1981) (Corp)</a> · <a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2~db1406275/">(1981)</a></td></tr>
+<tr><td><a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/">Scottish Tourist Board</a></td><td></td><td><code>DB/60 K4 DB4 K4 DB4 K64 G30 R4 G8 R8 G/60</code></td><td>380</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><img src="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/sett.png" alt="Scottish Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/">(1981) (Corp)</a> · <a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2~db1406275/">(1981)</a></td></tr>
 </tbody>
 </table>
 

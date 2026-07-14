@@ -18,10 +18,10 @@ Its design is pattern [RKRGWGWGKRGRW](/stripes/rkrgwgwgkrgrw/) — the page of e
 The **Leando Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/o19k2r1dy3w1dy1w1dy1k6o3dy1o3w1~x4/">Leando Hunting</a></td><td><code>O/76 K8 R4 DY12 W4 DY4 W4 DY4 K24 O12 DY4 O12 W/4</code></td><td>264</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/o19k2r1dy3w1dy1w1dy1k6o3dy1o3w1~x4/"><img src="/variants/s13/o19k2r1dy3w1dy1w1dy1k6o3dy1o3w1~x4/sett.png" alt="Leando Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/o19k2r1dy3w1dy1w1dy1k6o3dy1o3w1~x4/">Leando Hunting</a></td><td></td><td><code>O/76 K8 R4 DY12 W4 DY4 W4 DY4 K24 O12 DY4 O12 W/4</code></td><td>264</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/o19k2r1dy3w1dy1w1dy1k6o3dy1o3w1~x4/"><img src="/variants/s13/o19k2r1dy3w1dy1w1dy1k6o3dy1o3w1~x4/sett.png" alt="Leando Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

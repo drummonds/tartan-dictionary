@@ -13,10 +13,10 @@ Its design is pattern [BRBBBGBRBRBGBBBRBW](/stripes/brbbbgbrbrbgbbbrbw/) — the
 The **Guild, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/">Guild, The</a></td><td><code>DB/40 R2 DR6 N2 DR60 G10 DB16 R2 DB16 R2 DB16 G10 DR60 N2 DR6 R2 DB40 W/4</code></td><td>548</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/"><img src="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/sett.png" alt="Guild, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/">Guild, The</a></td><td></td><td><code>DB/40 R2 DR6 N2 DR60 G10 DB16 R2 DB16 R2 DB16 G10 DR60 N2 DR6 R2 DB40 W/4</code></td><td>548</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/"><img src="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/sett.png" alt="Guild, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKG](/stripes/bgkbkbkbkb
 The **Canadian Centennial** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/">Canadian Centennial</a></td><td><code>G/104 K8 DY12 DB28 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY16 K48 G24 K8 DB40 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K16 G16 DB/32</code></td><td>664</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/"><img src="/variants/s36/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/sett.png" alt="Canadian Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/">Canadian Centennial</a></td><td></td><td><code>G/104 K8 DY12 DB28 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY2 DB2 DY16 K48 G24 K8 DB40 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K16 G16 DB/32</code></td><td>664</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/"><img src="/variants/s36/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/sett.png" alt="Canadian Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

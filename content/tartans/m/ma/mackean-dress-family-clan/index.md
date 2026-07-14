@@ -18,10 +18,10 @@ Designed in 1995 for silk squares woven by D C Dalgliesh; likely a New Zealand M
 The **MacKean dress Family/Clan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/">MacKean dress Family/Clan</a></td><td><code>K/12 G24 K6 G6 K12 DB18 K6 W6 K6 DB18 K12 G6 K6 G24 K12 R/6</code></td><td>342</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/"><img src="/variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/sett.png" alt="MacKean dress Family/Clan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/">MacKean dress Family/Clan</a></td><td></td><td><code>K/12 G24 K6 G6 K12 DB18 K6 W6 K6 DB18 K12 G6 K6 G24 K12 R/6</code></td><td>342</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/"><img src="/variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/sett.png" alt="MacKean dress Family/Clan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

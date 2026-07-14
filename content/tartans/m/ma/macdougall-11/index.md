@@ -18,10 +18,10 @@ Its design is pattern [RBRKBKRKWKRKBKR](/stripes/rbrkbkrkwkrkbkr/) — the page 
 The **MacDougall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r20ti36r4k2t7k4r2k2w3k2r3k4t7k13r20~x2~ti2607245-t2304245/">MacDougall</a></td><td><code>R/40 Ti72 R8 K4 T14 K8 R4 K4 W6 K4 R6 K8 T14 K26 R/40</code></td><td>436</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r20ti36r4k2t7k4r2k2w3k2r3k4t7k13r20~x2~ti2607245-t2304245/"><img src="/variants/s15/r20ti36r4k2t7k4r2k2w3k2r3k4t7k13r20~x2~ti2607245-t2304245/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r20ti36r4k2t7k4r2k2w3k2r3k4t7k13r20~x2~ti2607245-t2304245/">MacDougall</a></td><td></td><td><code>R/40 Ti72 R8 K4 T14 K8 R4 K4 W6 K4 R6 K8 T14 K26 R/40</code></td><td>436</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r20ti36r4k2t7k4r2k2w3k2r3k4t7k13r20~x2~ti2607245-t2304245/"><img src="/variants/s15/r20ti36r4k2t7k4r2k2w3k2r3k4t7k13r20~x2~ti2607245-t2304245/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

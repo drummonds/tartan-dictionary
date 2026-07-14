@@ -13,10 +13,10 @@ Its design is pattern [WYWYRY](/stripes/wywyry/) — the page of every tartan sh
 The **Virgin One** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/ly11r2ly11w6ly7w6~x2/">Virgin One</a></td><td><code>LY/22 R4 LY22 W12 LY14 W/12</code></td><td>138</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly11r2ly11w6ly7w6~x2/"><img src="/variants/s6/ly11r2ly11w6ly7w6~x2/sett.png" alt="Virgin One sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly11r2ly11w6ly7w6~x2/">Virgin One</a></td><td></td><td><code>LY/22 R4 LY22 W12 LY14 W/12</code></td><td>138</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ly11r2ly11w6ly7w6~x2/"><img src="/variants/s6/ly11r2ly11w6ly7w6~x2/sett.png" alt="Virgin One sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

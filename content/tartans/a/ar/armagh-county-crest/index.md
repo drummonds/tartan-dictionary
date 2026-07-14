@@ -13,10 +13,10 @@ Its design is pattern [WBGKBGGGW](/stripes/wbgkbgggw/) — the page of every tar
 The **Armagh County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/">Armagh County Crest</a></td><td><code>W/6 DB8 DG16 K10 DBi40 G6 Y26 G8 W/4</code></td><td>238</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/"><img src="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/sett.png" alt="Armagh County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/">Armagh County Crest</a></td><td></td><td><code>W/6 DB8 DG16 K10 DBi40 G6 Y26 G8 W/4</code></td><td>238</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/"><img src="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/sett.png" alt="Armagh County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

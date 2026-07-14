@@ -15,11 +15,11 @@ Irish district tartan for Oriel, recorded by Dr. Phil Smith in 1994.
 The **Oriel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/">Oriel</a></td><td><code>R/24 DB4 R6 G40 K8 G40 R60 K4 R/2</code></td><td>350</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/"><img src="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/sett.png" alt="Oriel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/">#1 (District)</a> · <a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/">#1</a></td></tr>
+<tr><td><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/">Oriel</a></td><td></td><td><code>R/24 DB4 R6 G40 K8 G40 R60 K4 R/2</code></td><td>350</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/"><img src="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/sett.png" alt="Oriel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/">#1 (District)</a> · <a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/">#1</a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BKYKBKYKG](/stripes/bkykbkykg/) — the page of every tar
 The **Scottish Tartan Society** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/">Scottish Tartan Society</a></td><td><code>DB/40 K20 LO6 K14 DR8 K14 LO6 K16 G/40</code></td><td>248</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><img src="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/sett.png" alt="Scottish Tartan Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/">Scottish Tartan Society</a></td><td></td><td><code>DB/40 K20 LO6 K14 DR8 K14 LO6 K16 G/40</code></td><td>248</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><img src="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/sett.png" alt="Scottish Tartan Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

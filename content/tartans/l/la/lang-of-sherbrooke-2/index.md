@@ -18,10 +18,10 @@ Its design is pattern [GGKGKGKGBBW](/stripes/ggkgkgkgbbw/) — the page of every
 The **Lang of Sherbrooke** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/">Lang of Sherbrooke</a></td><td><code>DG/20 Y4 K4 DG4 K26 DG4 K4 DG2 DP26 DB48 W/4</code></td><td>268</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/"><img src="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/sett.png" alt="Lang of Sherbrooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/">Lang of Sherbrooke</a></td><td></td><td><code>DG/20 Y4 K4 DG4 K26 DG4 K4 DG2 DP26 DB48 W/4</code></td><td>268</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/"><img src="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/sett.png" alt="Lang of Sherbrooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

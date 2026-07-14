@@ -13,10 +13,10 @@ Its design is pattern [BKBRBKBRBR](/stripes/bkbrbkbrbr/) — the page of every t
 The **Cartier, Sir George Etienne** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/">Cartier, Sir George Etienne</a></td><td><code>R/8 DO12 O6 DO20 K28 T12 R36 T12 K8 T/4</code></td><td>280</td><td>1967</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/"><img src="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/sett.png" alt="Cartier, Sir George Etienne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/">Cartier, Sir George Etienne</a></td><td></td><td><code>R/8 DO12 O6 DO20 K28 T12 R36 T12 K8 T/4</code></td><td>280</td><td>1967</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/"><img src="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/sett.png" alt="Cartier, Sir George Etienne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

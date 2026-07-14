@@ -13,10 +13,10 @@ Its design is pattern [RBBGGGGBRBR](/stripes/rbbggggbrbr/) — the page of every
 The **Glenisla** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/o3dp5r2dp9g8dg2g4dg2n8db28o2~x2~o2500000-n1900000/">Glenisla</a></td><td><code>O/6 DP10 R4 DP18 G16 DG4 G8 DG4 N16 DB56 O/4</code></td><td>282</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/o3dp5r2dp9g8dg2g4dg2n8db28o2~x2~o2500000-n1900000/"><img src="/variants/s11/o3dp5r2dp9g8dg2g4dg2n8db28o2~x2~o2500000-n1900000/sett.png" alt="Glenisla sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/o3dp5r2dp9g8dg2g4dg2n8db28o2~x2~o2500000-n1900000/">Glenisla</a></td><td></td><td><code>O/6 DP10 R4 DP18 G16 DG4 G8 DG4 N16 DB56 O/4</code></td><td>282</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/o3dp5r2dp9g8dg2g4dg2n8db28o2~x2~o2500000-n1900000/"><img src="/variants/s11/o3dp5r2dp9g8dg2g4dg2n8db28o2~x2~o2500000-n1900000/sett.png" alt="Glenisla sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

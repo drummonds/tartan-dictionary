@@ -18,10 +18,10 @@ Its design is pattern [RKWRBKBKBKYGRBRBRGYKBKBKBRWKR](/stripes/rkwrbkbkbkygrbrbr
 The **MacPherson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/r2k2w2r22t8k2t2k2t8k12ly2g16r22t4r22t4r22g16ly2k12t8k2t2k2t8r22w1k1r1~x2/">MacPherson</a></td><td><code>R/4 K4 W4 R44 T16 K4 T4 K4 T16 K24 LY4 G32 R44 T8 R44 T8 R44 G32 LY4 K24 T16 K4 T4 K4 T16 R44 W2 K2 R/2</code></td><td>918</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/r2k2w2r22t8k2t2k2t8k12ly2g16r22t4r22t4r22g16ly2k12t8k2t2k2t8r22w1k1r1~x2/"><img src="/variants/s29/r2k2w2r22t8k2t2k2t8k12ly2g16r22t4r22t4r22g16ly2k12t8k2t2k2t8r22w1k1r1~x2/sett.png" alt="MacPherson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/r2k2w2r22t8k2t2k2t8k12ly2g16r22t4r22t4r22g16ly2k12t8k2t2k2t8r22w1k1r1~x2/">MacPherson</a></td><td></td><td><code>R/4 K4 W4 R44 T16 K4 T4 K4 T16 K24 LY4 G32 R44 T8 R44 T8 R44 G32 LY4 K24 T16 K4 T4 K4 T16 R44 W2 K2 R/2</code></td><td>918</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/r2k2w2r22t8k2t2k2t8k12ly2g16r22t4r22t4r22g16ly2k12t8k2t2k2t8r22w1k1r1~x2/"><img src="/variants/s29/r2k2w2r22t8k2t2k2t8k12ly2g16r22t4r22t4r22g16ly2k12t8k2t2k2t8r22w1k1r1~x2/sett.png" alt="MacPherson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

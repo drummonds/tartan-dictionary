@@ -18,10 +18,10 @@ Its design is pattern [BBBBBBBYWYWY](/stripes/bbbbbbbywywy/) — the page of eve
 The **Callum** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr3t16db2t2db2t3db6ly20w3ly2w2ly3~x2~t1903246-db0906265/">Callum</a></td><td><code>DR/6 T32 DB4 T4 DB4 T6 DB12 LY40 W6 LY4 W4 LY/6</code></td><td>244</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr3t16db2t2db2t3db6ly20w3ly2w2ly3~x2~t1903246-db0906265/"><img src="/variants/s12/dr3t16db2t2db2t3db6ly20w3ly2w2ly3~x2~t1903246-db0906265/sett.png" alt="Callum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr3t16db2t2db2t3db6ly20w3ly2w2ly3~x2~t1903246-db0906265/">Callum</a></td><td></td><td><code>DR/6 T32 DB4 T4 DB4 T6 DB12 LY40 W6 LY4 W4 LY/6</code></td><td>244</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr3t16db2t2db2t3db6ly20w3ly2w2ly3~x2~t1903246-db0906265/"><img src="/variants/s12/dr3t16db2t2db2t3db6ly20w3ly2w2ly3~x2~t1903246-db0906265/sett.png" alt="Callum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [WKBKBKBKBKY](/stripes/wkbkbkbkbky/) — the page of every
 The **Mount Isla** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/">Mount Isla</a></td><td><code>LO/8 K4 DR24 K8 DB28 K8 DB28 K8 DR28 K4 LB/8</code></td><td>296</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><img src="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/sett.png" alt="Mount Isla sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/">Mount Isla</a></td><td></td><td><code>LO/8 K4 DR24 K8 DB28 K8 DB28 K8 DR28 K4 LB/8</code></td><td>296</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><img src="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/sett.png" alt="Mount Isla sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

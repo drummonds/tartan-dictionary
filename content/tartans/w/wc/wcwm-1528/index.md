@@ -18,10 +18,10 @@ Its design is pattern [GBRBBBBBGBGBGRGRGRY](/stripes/gbrbbbbbgbgbgrgrgry/) — t
 The **Wcwm 1528** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/dg3dr2o2dr2n20b3n3dr8dg2dr2dg2dr2dg8o2dg2o2dg2o8ly3~x2/">Wcwm 1528</a></td><td><code>DG/6 DR4 O4 DR4 N40 B6 N6 DR16 DG4 DR4 DG4 DR4 DG16 O4 DG4 O4 DG4 O16 LY/6</code></td><td>300</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/dg3dr2o2dr2n20b3n3dr8dg2dr2dg2dr2dg8o2dg2o2dg2o8ly3~x2/"><img src="/variants/s19/dg3dr2o2dr2n20b3n3dr8dg2dr2dg2dr2dg8o2dg2o2dg2o8ly3~x2/sett.png" alt="Wcwm 1528 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/dg3dr2o2dr2n20b3n3dr8dg2dr2dg2dr2dg8o2dg2o2dg2o8ly3~x2/">Wcwm 1528</a></td><td></td><td><code>DG/6 DR4 O4 DR4 N40 B6 N6 DR16 DG4 DR4 DG4 DR4 DG16 O4 DG4 O4 DG4 O16 LY/6</code></td><td>300</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/dg3dr2o2dr2n20b3n3dr8dg2dr2dg2dr2dg8o2dg2o2dg2o8ly3~x2/"><img src="/variants/s19/dg3dr2o2dr2n20b3n3dr8dg2dr2dg2dr2dg8o2dg2o2dg2o8ly3~x2/sett.png" alt="Wcwm 1528 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

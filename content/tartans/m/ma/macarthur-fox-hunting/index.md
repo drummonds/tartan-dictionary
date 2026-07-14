@@ -13,10 +13,10 @@ Its design is pattern [BGKGKY](/stripes/bgkgky/) — the page of every tartan sh
 The **MacArthur-Fox Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dr3g30k12g1k16lo2~x2/">MacArthur-Fox Hunting</a></td><td><code>DR/6 G60 K24 G2 K32 LO/4</code></td><td>246</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr3g30k12g1k16lo2~x2/"><img src="/variants/s6/dr3g30k12g1k16lo2~x2/sett.png" alt="MacArthur-Fox Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr3g30k12g1k16lo2~x2/">MacArthur-Fox Hunting</a></td><td></td><td><code>DR/6 G60 K24 G2 K32 LO/4</code></td><td>246</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dr3g30k12g1k16lo2~x2/"><img src="/variants/s6/dr3g30k12g1k16lo2~x2/sett.png" alt="MacArthur-Fox Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

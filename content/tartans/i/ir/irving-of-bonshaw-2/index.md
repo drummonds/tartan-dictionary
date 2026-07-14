@@ -18,10 +18,10 @@ Its design is pattern [GBBBG](/stripes/gbbbg/) — the page of every tartan shar
 The **Irving of Bonshaw** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/g27t14db2t2y2~x4/">Irving of Bonshaw</a></td><td><code>G/108 T56 DB8 T8 Y/8</code></td><td>260</td><td>~1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/g27t14db2t2y2~x4/"><img src="/variants/s5/g27t14db2t2y2~x4/sett.png" alt="Irving of Bonshaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g27t14db2t2y2~x4/">Irving of Bonshaw</a></td><td></td><td><code>G/108 T56 DB8 T8 Y/8</code></td><td>260</td><td>~1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/g27t14db2t2y2~x4/"><img src="/variants/s5/g27t14db2t2y2~x4/sett.png" alt="Irving of Bonshaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

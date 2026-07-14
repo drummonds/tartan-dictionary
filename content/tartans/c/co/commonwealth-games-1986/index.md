@@ -16,11 +16,11 @@ Its design is pattern [BWRWKWBRBR](/stripes/bwrwkwbrbr/) — the page of every t
 The **Commonwealth Games 1986** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/">Commonwealth Games 1986</a></td><td><code>DB/24 W8 R24 W12 K8 W24 DB40 R8 DB12 R/8</code></td><td>304</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/"><img src="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/sett.png" alt="Commonwealth Games 1986 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/">(Corporate)</a> · <a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4~db1406275/">Commonwealth Games 1986</a></td></tr>
+<tr><td><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/">Commonwealth Games 1986</a></td><td></td><td><code>DB/24 W8 R24 W12 K8 W24 DB40 R8 DB12 R/8</code></td><td>304</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/"><img src="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/sett.png" alt="Commonwealth Games 1986 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/">(Corporate)</a> · <a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4~db1406275/">Commonwealth Games 1986</a></td></tr>
 </tbody>
 </table>
 

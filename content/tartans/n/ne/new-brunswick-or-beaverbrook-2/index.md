@@ -13,10 +13,10 @@ Its design is pattern [WGWGBGBGBGWGWGWGRGBGWRRRGRRRGWGWGWGBGBGBGWGW](/stripes/wg
 The **New Brunswick, or Beaverbrook** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/">New Brunswick, or Beaverbrook</a></td><td><code>LB/2 Y2 LB2 DG2 B4 DG4 B4 DG4 B4 DG2 LB2 Y2 LB2 Y2 LB2 DG36 R32 Y2 N4 Y6 LB8 R16 O18 R6 Y4 R18 O10 R12 DG36 LB2 Y2 LB2 Y2 LB2 DG2 B4 DG4 B4 DG4 B4 DG2 LB2 Y2 LB/2</code></td><td>572</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/"><img src="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/sett.png" alt="New Brunswick, or Beaverbrook sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/">New Brunswick, or Beaverbrook</a></td><td></td><td><code>LB/2 Y2 LB2 DG2 B4 DG4 B4 DG4 B4 DG2 LB2 Y2 LB2 Y2 LB2 DG36 R32 Y2 N4 Y6 LB8 R16 O18 R6 Y4 R18 O10 R12 DG36 LB2 Y2 LB2 Y2 LB2 DG2 B4 DG4 B4 DG4 B4 DG2 LB2 Y2 LB/2</code></td><td>572</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/"><img src="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/sett.png" alt="New Brunswick, or Beaverbrook sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

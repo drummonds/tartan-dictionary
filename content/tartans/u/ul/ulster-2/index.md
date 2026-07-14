@@ -18,10 +18,10 @@ Its design is pattern [GKGKGKYKRK](/stripes/gkgkgkykrk/) — the page of every t
 The **Ulster** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/">Ulster</a></td><td><code>Y/56 K4 Y56 K4 Y4 K4 LY58 K4 R4 K/4</code></td><td>336</td><td>~1590</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/"><img src="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/sett.png" alt="Ulster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/">Ulster</a></td><td></td><td><code>Y/56 K4 Y56 K4 Y4 K4 LY58 K4 R4 K/4</code></td><td>336</td><td>~1590</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/"><img src="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/sett.png" alt="Ulster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

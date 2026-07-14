@@ -15,10 +15,10 @@ Pattern derived from the shawl in a pastel portrait of Louis Pasteur's mother, d
 The **Pasteur Fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/do10lr1do30y3~x4/">Pasteur Fancy</a></td><td><code>DO/40 LR4 DO120 Y/12</code></td><td>300</td><td>1836</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/do10lr1do30y3~x4/"><img src="/variants/s4/do10lr1do30y3~x4/sett.png" alt="Pasteur Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/do10lr1do30y3~x4/">Pasteur Fancy</a></td><td></td><td><code>DO/40 LR4 DO120 Y/12</code></td><td>300</td><td>1836</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/do10lr1do30y3~x4/"><img src="/variants/s4/do10lr1do30y3~x4/sett.png" alt="Pasteur Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

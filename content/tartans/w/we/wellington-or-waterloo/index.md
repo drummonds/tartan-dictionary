@@ -20,12 +20,12 @@ The **Wellington or Waterloo** tartan groups 2 setts — the same named design r
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb3g12k14lb11r3lb3~x2/">Wellington or Waterloo</a> ★</td><td><code>LB/6 G24 K28 LB22 R6 LB/6</code></td><td>172</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb3g12k14lb11r3lb3~x2/"><img src="/variants/s6/lb3g12k14lb11r3lb3~x2/sett.png" alt="Wellington or Waterloo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/lb3g8k9db7r2db2~x2/">Wellington, or Waterloo</a></td><td><code>LB/6 G16 K18 DB14 R4 DB/4</code></td><td>114</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb3g8k9db7r2db2~x2/"><img src="/variants/s6/lb3g8k9db7r2db2~x2/sett.png" alt="Wellington, or Waterloo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb3g12k14lb11r3lb3~x2/">Wellington or Waterloo</a> ★</td><td></td><td><code>LB/6 G24 K28 LB22 R6 LB/6</code></td><td>172</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb3g12k14lb11r3lb3~x2/"><img src="/variants/s6/lb3g12k14lb11r3lb3~x2/sett.png" alt="Wellington or Waterloo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb3g8k9db7r2db2~x2/">Wellington, or Waterloo</a></td><td>1.13</td><td><code>LB/6 G16 K18 DB14 R4 DB/4</code></td><td>114</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb3g8k9db7r2db2~x2/"><img src="/variants/s6/lb3g8k9db7r2db2~x2/sett.png" alt="Wellington, or Waterloo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

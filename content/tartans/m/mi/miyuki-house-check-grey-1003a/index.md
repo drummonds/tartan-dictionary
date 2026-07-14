@@ -16,10 +16,10 @@ Its design is pattern [BGBGBRGBGRBGBGBRGB](/stripes/bgbgbrgbgrbgbgbrgb/) — the
 The **Miyuki, House Check Grey, 1003A** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/">Miyuki, House Check Grey, 1003A</a></td><td><code>B/12 DG14 R3 N6 DG10 B28 DG10 N6 R3 DG8 N10 DG8 R3 N6 DG40 B6 DG6 B/6</code></td><td>352</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/"><img src="/variants/s18/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/sett.png" alt="Miyuki, House Check Grey, 1003A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/">Miyuki, House Check Grey, 1003A</a></td><td></td><td><code>B/12 DG14 R3 N6 DG10 B28 DG10 N6 R3 DG8 N10 DG8 R3 N6 DG40 B6 DG6 B/6</code></td><td>352</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/"><img src="/variants/s18/b12dg14r3n6dg10b28dg10n6r3dg8n10dg8r3n6dg40b6dg6b6/sett.png" alt="Miyuki, House Check Grey, 1003A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

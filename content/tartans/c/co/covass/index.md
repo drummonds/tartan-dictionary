@@ -13,10 +13,10 @@ Its design is pattern [BKGKRKWRKBK](/stripes/bkgkrkwrkbk/) — the page of every
 The **CoVASS** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/">CoVASS</a></td><td><code>K/180 DP2 K4 R4 W2 K2 R8 K4 G2 K4 DB/4</code></td><td>248</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/"><img src="/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/sett.png" alt="CoVASS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/">CoVASS</a></td><td></td><td><code>K/180 DP2 K4 R4 W2 K2 R8 K4 G2 K4 DB/4</code></td><td>248</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/"><img src="/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/sett.png" alt="CoVASS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

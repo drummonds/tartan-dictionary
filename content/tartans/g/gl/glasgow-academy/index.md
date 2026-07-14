@@ -18,10 +18,10 @@ Based on Black Watch, marking 1992 merger of Westbourne (purple) and Glasgow Aca
 The **Glasgow Academy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/">Glasgow Academy</a></td><td><code>DB/22 K3 DB3 K3 DB3 K22 DP22 K4 DP22 K22 DB22 K4 DB/4</code></td><td>286</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/"><img src="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/sett.png" alt="Glasgow Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/">Glasgow Academy</a></td><td></td><td><code>DB/22 K3 DB3 K3 DB3 K22 DP22 K4 DP22 K22 DB22 K4 DB/4</code></td><td>286</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/"><img src="/variants/s13/db22k3db3k3db3k22dp22k4dp22k22db22k4db4/sett.png" alt="Glasgow Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RRRBW](/stripes/rrrbw/) — the page of every tartan shar
 The **Unamed, Riding cloak 1745** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/r1o8r2db8lb1~x2/">Unamed, Riding cloak 1745</a></td><td><code>R/2 O16 R4 DB16 LB/2</code></td><td>76</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r1o8r2db8lb1~x2/"><img src="/variants/s5/r1o8r2db8lb1~x2/sett.png" alt="Unamed, Riding cloak 1745 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r1o8r2db8lb1~x2/">Unamed, Riding cloak 1745</a></td><td></td><td><code>R/2 O16 R4 DB16 LB/2</code></td><td>76</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r1o8r2db8lb1~x2/"><img src="/variants/s5/r1o8r2db8lb1~x2/sett.png" alt="Unamed, Riding cloak 1745 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **Mullikin** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/">Mullikin</a> ★</td><td><code>R/10 W8 LG12 DB4 G86 DB4 LG8 R/6</code></td><td>260</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><img src="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/sett.png" alt="Mullikin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/">(2013)</a></td><td><code>R/5 W4 DBi6 DB2 G43 DB2 DBi4 R/3</code></td><td>—</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/"><img src="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/sett.png" alt="(2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/">Mullikin</a> ★</td><td></td><td><code>R/10 W8 LG12 DB4 G86 DB4 LG8 R/6</code></td><td>260</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><img src="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/sett.png" alt="Mullikin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/">(2013)</a></td><td>—</td><td><code>R/5 W4 DBi6 DB2 G43 DB2 DBi4 R/3</code></td><td>—</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/"><img src="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/sett.png" alt="(2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

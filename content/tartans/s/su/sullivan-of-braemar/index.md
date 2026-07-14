@@ -18,10 +18,10 @@ Its design is pattern [KGKBRBWR](/stripes/kgkbrbwr/) — the page of every tarta
 The **Sullivan of Braemar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k8y4k16db10r19db10w2r6~x2/">Sullivan of Braemar</a></td><td><code>K/16 Y8 K32 DB20 R38 DB20 W4 R/12</code></td><td>272</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k8y4k16db10r19db10w2r6~x2/"><img src="/variants/s8/k8y4k16db10r19db10w2r6~x2/sett.png" alt="Sullivan of Braemar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k8y4k16db10r19db10w2r6~x2/">Sullivan of Braemar</a></td><td></td><td><code>K/16 Y8 K32 DB20 R38 DB20 W4 R/12</code></td><td>272</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k8y4k16db10r19db10w2r6~x2/"><img src="/variants/s8/k8y4k16db10r19db10w2r6~x2/sett.png" alt="Sullivan of Braemar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

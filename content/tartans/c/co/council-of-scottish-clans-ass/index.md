@@ -13,10 +13,10 @@ Its design is pattern [WRBKGRY](/stripes/wrbkgry/) — the page of every tartan 
 The **Council of Scottish Clans & Ass.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/">Council of Scottish Clans &amp; Ass.</a></td><td><code>W/4 R4 DB32 K28 G30 R4 LY/4</code></td><td>204</td><td>~2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><img src="/variants/s7/w2r2db16k14g15r2ly2~x2/sett.png" alt="Council of Scottish Clans &amp; Ass. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/">Council of Scottish Clans &amp; Ass.</a></td><td></td><td><code>W/4 R4 DB32 K28 G30 R4 LY/4</code></td><td>204</td><td>~2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><img src="/variants/s7/w2r2db16k14g15r2ly2~x2/sett.png" alt="Council of Scottish Clans &amp; Ass. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BKBKBKBKGKBKBKW](/stripes/bkbkbkbkgkbkbkw/) — the page 
 The **Fleming /Frisken/Flanders** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/">Fleming /Frisken/Flanders</a></td><td><code>DB/32 K6 DB6 K6 DB6 K32 DB33 K4 Y8 K4 DB33 K32 DB34 K4 W/8</code></td><td>456</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/"><img src="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/sett.png" alt="Fleming /Frisken/Flanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/">Fleming /Frisken/Flanders</a></td><td></td><td><code>DB/32 K6 DB6 K6 DB6 K32 DB33 K4 Y8 K4 DB33 K32 DB34 K4 W/8</code></td><td>456</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/"><img src="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/sett.png" alt="Fleming /Frisken/Flanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

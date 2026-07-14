@@ -16,10 +16,10 @@ Its design is pattern [KWBBBRKBWBW](/stripes/kwbbbrkbwbw/) — the page of every
 The **Lomond Mist** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/">Lomond Mist</a></td><td><code>K/16 LB2 B2 DO20 B32 R4 K6 DT66 LB2 DT6 W/4</code></td><td>300</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/"><img src="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/sett.png" alt="Lomond Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/">Lomond Mist</a></td><td></td><td><code>K/16 LB2 B2 DO20 B32 R4 K6 DT66 LB2 DT6 W/4</code></td><td>300</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/"><img src="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/sett.png" alt="Lomond Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

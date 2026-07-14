@@ -18,10 +18,10 @@ Its design is pattern [KBRBRBKYWGKBRBRBKGWY](/stripes/kbrbrbkywgkbrbrbkgwy/) —
 The **Sandhu** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/">Sandhu</a></td><td><code>K/64 DB64 R4 DB12 R4 DB64 K64 LO7 W7 G7 K64 DB64 R4 DB12 R4 DB64 K64 G7 W7 LO/7</code></td><td>1117</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/"><img src="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/sett.png" alt="Sandhu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/">Sandhu</a></td><td></td><td><code>K/64 DB64 R4 DB12 R4 DB64 K64 LO7 W7 G7 K64 DB64 R4 DB12 R4 DB64 K64 G7 W7 LO/7</code></td><td>1117</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/"><img src="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/sett.png" alt="Sandhu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

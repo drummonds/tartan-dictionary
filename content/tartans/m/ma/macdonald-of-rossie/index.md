@@ -18,10 +18,10 @@ Its design is pattern [GRGKRBRBRBRBRBRKGRGRG](/stripes/grgkrbrbrbrbrbrkgrgrg/) â
 The **Macdonald of Rossie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/">Macdonald of Rossie</a></td><td><code>DG/40 R4 DG64 K64 R4 DB64 R12 DB6 R4 DB40 R4 DB6 R12 DB64 R4 K64 DG64 R12 DG8 R4 DG/20</code></td><td>1068</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/"><img src="/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/sett.png" alt="Macdonald of Rossie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/">Macdonald of Rossie</a></td><td></td><td><code>DG/40 R4 DG64 K64 R4 DB64 R12 DB6 R4 DB40 R4 DB6 R12 DB64 R4 K64 DG64 R12 DG8 R4 DG/20</code></td><td>1068</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/"><img src="/variants/s21/dg20r2dg32k32r2db32r6db3r2db20r2db3r6db32r2k32dg32r6dg4r2dg10~x2/sett.png" alt="Macdonald of Rossie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

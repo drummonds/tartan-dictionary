@@ -18,10 +18,10 @@ Its design is pattern [WBWWKGYBWBWW](/stripes/wbwwkgybwbww/) — the page of eve
 The **Antarctic** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/">Antarctic</a></td><td><code>W/2 DB32 LB11 W4 K11 DY7 LO11 N11 W4 N4 W76 LB/2</code></td><td>346</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/"><img src="/variants/s12/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/sett.png" alt="Antarctic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/">Antarctic</a></td><td></td><td><code>W/2 DB32 LB11 W4 K11 DY7 LO11 N11 W4 N4 W76 LB/2</code></td><td>346</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/"><img src="/variants/s12/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/sett.png" alt="Antarctic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

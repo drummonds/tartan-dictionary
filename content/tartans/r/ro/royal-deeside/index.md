@@ -13,10 +13,10 @@ Its design is pattern [RWYBYR](/stripes/rwybyr/) — the page of every tartan sh
 The **Royal Deeside** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/ri4ly2db4ly35lb27r3~x2~ri2806019-r2109032/">Royal Deeside</a></td><td><code>Ri/8 LY4 DB8 LY70 LB54 R/6</code></td><td>286</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ri4ly2db4ly35lb27r3~x2~ri2806019-r2109032/"><img src="/variants/s6/ri4ly2db4ly35lb27r3~x2~ri2806019-r2109032/sett.png" alt="Royal Deeside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ri4ly2db4ly35lb27r3~x2~ri2806019-r2109032/">Royal Deeside</a></td><td></td><td><code>Ri/8 LY4 DB8 LY70 LB54 R/6</code></td><td>286</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ri4ly2db4ly35lb27r3~x2~ri2806019-r2109032/"><img src="/variants/s6/ri4ly2db4ly35lb27r3~x2~ri2806019-r2109032/sett.png" alt="Royal Deeside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

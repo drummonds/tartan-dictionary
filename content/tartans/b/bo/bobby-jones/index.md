@@ -13,10 +13,10 @@ Its design is pattern [BGBGBY](/stripes/bgbgby/) — the page of every tartan sh
 The **Bobby Jones** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dr1dy2dt12dy8db16ly1~x2/">Bobby Jones</a></td><td><code>DR/2 DY4 DT24 DY16 DB32 LY/2</code></td><td>156</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr1dy2dt12dy8db16ly1~x2/"><img src="/variants/s6/dr1dy2dt12dy8db16ly1~x2/sett.png" alt="Bobby Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr1dy2dt12dy8db16ly1~x2/">Bobby Jones</a></td><td></td><td><code>DR/2 DY4 DT24 DY16 DB32 LY/2</code></td><td>156</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dr1dy2dt12dy8db16ly1~x2/"><img src="/variants/s6/dr1dy2dt12dy8db16ly1~x2/sett.png" alt="Bobby Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

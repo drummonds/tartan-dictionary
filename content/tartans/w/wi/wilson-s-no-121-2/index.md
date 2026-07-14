@@ -13,10 +13,10 @@ Its design is pattern [KRWGBBW](/stripes/krwgbbw/) — the page of every tartan 
 The **Wilson's, No 121** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/lb4dp3b1g9w1r8k1~x4/">Wilson's, No 121</a></td><td><code>LB/16 DP12 B4 G36 W4 R32 K/4</code></td><td>196</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb4dp3b1g9w1r8k1~x4/"><img src="/variants/s7/lb4dp3b1g9w1r8k1~x4/sett.png" alt="Wilson's, No 121 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb4dp3b1g9w1r8k1~x4/">Wilson's, No 121</a></td><td></td><td><code>LB/16 DP12 B4 G36 W4 R32 K/4</code></td><td>196</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/lb4dp3b1g9w1r8k1~x4/"><img src="/variants/s7/lb4dp3b1g9w1r8k1~x4/sett.png" alt="Wilson's, No 121 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

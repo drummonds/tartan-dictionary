@@ -13,10 +13,10 @@ Its design is pattern [WKBKBKBKWKGWGRWRWRW](/stripes/wkbkbkbkwkgwgrwrwrw/) — t
 The **German** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/w7k1db16k2db1k2db4k8w2k8y8w2y8r8w2r8w2r1w4~x2/">German</a></td><td><code>W/14 K2 DB32 K4 DB2 K4 DB8 K16 W4 K16 Y16 W4 Y16 R16 W4 R16 W4 R2 W/8</code></td><td>354</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/w7k1db16k2db1k2db4k8w2k8y8w2y8r8w2r8w2r1w4~x2/"><img src="/variants/s19/w7k1db16k2db1k2db4k8w2k8y8w2y8r8w2r8w2r1w4~x2/sett.png" alt="German sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/w7k1db16k2db1k2db4k8w2k8y8w2y8r8w2r8w2r1w4~x2/">German</a></td><td></td><td><code>W/14 K2 DB32 K4 DB2 K4 DB8 K16 W4 K16 Y16 W4 Y16 R16 W4 R16 W4 R2 W/8</code></td><td>354</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/w7k1db16k2db1k2db4k8w2k8y8w2y8r8w2r8w2r1w4~x2/"><img src="/variants/s19/w7k1db16k2db1k2db4k8w2k8y8w2y8r8w2r8w2r1w4~x2/sett.png" alt="German sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

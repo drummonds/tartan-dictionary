@@ -13,10 +13,10 @@ Its design is pattern [BWRBBBRWGWBWWWBWR](/stripes/bwrbbbrwgwbwwwbwr/) — the p
 The **Birral, Burrell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8b4dp2b4r8w2dp16~x2/">Birral, Burrell</a></td><td><code>R/130 W4 DP16 LB8 W4 LB8 DP16 W4 G64 W4 R16 B8 DP4 B8 R16 W4 DP/32</code></td><td>530</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8b4dp2b4r8w2dp16~x2/"><img src="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8b4dp2b4r8w2dp16~x2/sett.png" alt="Birral, Burrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8b4dp2b4r8w2dp16~x2/">Birral, Burrell</a></td><td></td><td><code>R/130 W4 DP16 LB8 W4 LB8 DP16 W4 G64 W4 R16 B8 DP4 B8 R16 W4 DP/32</code></td><td>530</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8b4dp2b4r8w2dp16~x2/"><img src="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8b4dp2b4r8w2dp16~x2/sett.png" alt="Birral, Burrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

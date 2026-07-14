@@ -14,13 +14,13 @@ The **BABC** tartan is one sett, recorded at 2 scales — the same proportion wo
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/">BABC</a></td><td><code>R/3 DB4 W2 DB33 DBi32 DB2 R4 W/3</code></td><td>160</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/"><img src="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/sett.png" alt="BABC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/">BABC</a></td><td><code>R/3 DB4 W2 DB33 DBi32 DB2 R4 W/3</code></td><td>160</td><td>2005</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/r3db4w2db33dbi32db2r4w3~x2~db1404245-dbi1406275/">B.A.B.C. (Corporate)</a></td><td><code>R/6 DB8 W4 DB66 DBi64 DB4 R8 W/6</code></td><td>320</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/">BABC</a> · <a href="/variants/s8/r3db4w2db33dbi32db2r4w3~x2~db1404245-dbi1406275/">B.A.B.C. (Corporate)</a></td></tr>
+<tr><td><a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/">BABC</a></td><td></td><td><code>R/3 DB4 W2 DB33 DBi32 DB2 R4 W/3</code></td><td>160</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/"><img src="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/sett.png" alt="BABC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/">BABC</a></td><td>0.00</td><td><code>R/3 DB4 W2 DB33 DBi32 DB2 R4 W/3</code></td><td>160</td><td>2005</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/r3db4w2db33dbi32db2r4w3~x2~db1404245-dbi1406275/">B.A.B.C. (Corporate)</a></td><td>0.00</td><td><code>R/6 DB8 W4 DB66 DBi64 DB4 R8 W/6</code></td><td>320</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/">BABC</a> · <a href="/variants/s8/r3db4w2db33dbi32db2r4w3~x2~db1404245-dbi1406275/">B.A.B.C. (Corporate)</a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KYKYKBYBKY](/stripes/kykykbybky/) — the page of every t
 The **Lebrun** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lr40k11do8lr2do8k6lr2k16lr1k16~x2/">Lebrun</a></td><td><code>LR/80 K22 DO16 LR4 DO16 K12 LR4 K32 LR2 K/32</code></td><td>328</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lr40k11do8lr2do8k6lr2k16lr1k16~x2/"><img src="/variants/s10/lr40k11do8lr2do8k6lr2k16lr1k16~x2/sett.png" alt="Lebrun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lr40k11do8lr2do8k6lr2k16lr1k16~x2/">Lebrun</a></td><td></td><td><code>LR/80 K22 DO16 LR4 DO16 K12 LR4 K32 LR2 K/32</code></td><td>328</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lr40k11do8lr2do8k6lr2k16lr1k16~x2/"><img src="/variants/s10/lr40k11do8lr2do8k6lr2k16lr1k16~x2/sett.png" alt="Lebrun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GBWBWBWBWGWW](/stripes/gbwbwbwbwgww/) — the page of eve
 The **Hand, Edinburgh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/">Hand, Edinburgh</a></td><td><code>G/2 N16 LB10 N46 LB10 DB6 LB10 DP6 LB10 G10 LB6 W/2</code></td><td>264</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/"><img src="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/sett.png" alt="Hand, Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/">Hand, Edinburgh</a></td><td></td><td><code>G/2 N16 LB10 N46 LB10 DB6 LB10 DP6 LB10 G10 LB6 W/2</code></td><td>264</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/"><img src="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/sett.png" alt="Hand, Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

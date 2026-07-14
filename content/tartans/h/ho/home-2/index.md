@@ -18,10 +18,10 @@ Its design is pattern [BGBKRKRKRKRKBG](/stripes/bgbkrkrkrkrkbg/) — the page of
 The **Home** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/">Home</a></td><td><code>G/6 T72 K18 R6 K6 R6 K72 R6 K6 R6 K18 T72 G6 T/4</code></td><td>598</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/"><img src="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/sett.png" alt="Home sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/">Home</a></td><td></td><td><code>G/6 T72 K18 R6 K6 R6 K72 R6 K6 R6 K18 T72 G6 T/4</code></td><td>598</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/"><img src="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/sett.png" alt="Home sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

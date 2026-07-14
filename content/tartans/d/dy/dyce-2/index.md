@@ -20,10 +20,10 @@ Dyce clan tartan with black tramlines on blue; modern version woven by House of 
 The **Dyce** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/">Dyce</a></td><td><code>DB/32 K4 DB4 K4 DB4 K24 G24 Y4 K4 Y4 G24 K32 DB32 K2 W/6</code></td><td>370</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><img src="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/sett.png" alt="Dyce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/">Dyce</a></td><td></td><td><code>DB/32 K4 DB4 K4 DB4 K24 G24 Y4 K4 Y4 G24 K32 DB32 K2 W/6</code></td><td>370</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><img src="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/sett.png" alt="Dyce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

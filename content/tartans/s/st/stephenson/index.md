@@ -23,14 +23,14 @@ The **Stephenson** tartan groups 3 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/">Stephenson</a> ★</td><td><code>K/12 G40 T4 DR10 T4 K40 LO6 DB40 G52 DR6 DB/10</code></td><td>426</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/"><img src="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/sett.png" alt="Stephenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/">(Name)</a></td><td><code>K/12 G40 LB4 DR10 LB4 K40 LO6 DB40 G52 DR6 DB/10</code></td><td>426</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/"><img src="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/">Stephenson</a></td><td><code>K/12 G40 LB4 R10 LB4 K40 Y6 DB40 G52 R6 DB/10</code></td><td>426</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><img src="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/sett.png" alt="Stephenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/">Stephenson</a> ★</td><td></td><td><code>K/12 G40 T4 DR10 T4 K40 LO6 DB40 G52 DR6 DB/10</code></td><td>426</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/"><img src="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/sett.png" alt="Stephenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/">(Name)</a></td><td>0.10</td><td><code>K/12 G40 LB4 DR10 LB4 K40 LO6 DB40 G52 DR6 DB/10</code></td><td>426</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/"><img src="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/">Stephenson</a></td><td>0.39</td><td><code>K/12 G40 LB4 R10 LB4 K40 Y6 DB40 G52 R6 DB/10</code></td><td>426</td><td>1870</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><img src="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/sett.png" alt="Stephenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BRBKGKWKGRKRW](/stripes/brbkgkwkgrkrw/) — the page of e
 The **Prince Albert** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/">Prince Albert</a></td><td><code>DB/46 R12 DB12 K20 Y6 K4 W4 K4 G22 R24 K4 R20 W/4</code></td><td>314</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/"><img src="/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/sett.png" alt="Prince Albert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/">Prince Albert</a></td><td></td><td><code>DB/46 R12 DB12 K20 Y6 K4 W4 K4 G22 R24 K4 R20 W/4</code></td><td>314</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/"><img src="/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/sett.png" alt="Prince Albert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

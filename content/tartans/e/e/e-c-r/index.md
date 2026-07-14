@@ -13,10 +13,10 @@ Its design is pattern [GRBGRGBGBWGW](/stripes/grbgrgbgbwgw/) — the page of eve
 The **E.C.R.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/">E.C.R.</a></td><td><code>LB/32 G4 LB32 DB36 Y4 DB26 G22 R4 G18 DB24 R4 Y/4</code></td><td>384</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/"><img src="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/sett.png" alt="E.C.R. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/">E.C.R.</a></td><td></td><td><code>LB/32 G4 LB32 DB36 Y4 DB26 G22 R4 G18 DB24 R4 Y/4</code></td><td>384</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/"><img src="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/sett.png" alt="E.C.R. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

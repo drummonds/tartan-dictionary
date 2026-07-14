@@ -16,10 +16,10 @@ Its design is pattern [BRBRBRGRGRBRB](/stripes/brbrbrgrgrbrb/) — the page of e
 The **Black Watch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/">Black Watch</a></td><td><code>DB/32 R8 DB8 R8 DB8 R58 G54 R8 G54 R58 DB52 R8 DB/8</code></td><td>688</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/"><img src="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/">Black Watch</a></td><td></td><td><code>DB/32 R8 DB8 R8 DB8 R58 G54 R8 G54 R58 DB52 R8 DB/8</code></td><td>688</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/"><img src="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

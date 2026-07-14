@@ -15,12 +15,12 @@ The **Beckett Beaumont** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/">Beckett Beaumont</a> ★</td><td><code>W/108 DT14 W38 K10 W16 DG16 W16 DG32 K16 DY16 W42 R22 DG14 DT22 DG16 W/14</code></td><td>702</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/"><img src="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/sett.png" alt="Beckett Beaumont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/">Artifact Tartan</a></td><td><code>W/54 DT7 W19 K5 W8 DGi8 W8 DGi16 K8 DG8 W21 R11 DGi7 DT11 DGi8 W/7</code></td><td>—</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/"><img src="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/sett.png" alt="Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/">Beckett Beaumont</a> ★</td><td></td><td><code>W/108 DT14 W38 K10 W16 DG16 W16 DG32 K16 DY16 W42 R22 DG14 DT22 DG16 W/14</code></td><td>702</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/"><img src="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/sett.png" alt="Beckett Beaumont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/">Artifact Tartan</a></td><td>—</td><td><code>W/54 DT7 W19 K5 W8 DGi8 W8 DGi16 K8 DG8 W21 R11 DGi7 DT11 DGi8 W/7</code></td><td>—</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/"><img src="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/sett.png" alt="Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

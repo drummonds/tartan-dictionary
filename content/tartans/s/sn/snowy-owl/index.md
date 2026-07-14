@@ -13,10 +13,10 @@ Its design is pattern [WKBKBBBBRBRWRW](/stripes/wkbkbbbbrbrwrw/) — the page of
 The **Snowy Owl** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/">Snowy Owl</a></td><td><code>W/80 O2 W12 O6 N2 O14 N6 DO2 N16 DO6 K2 DO18 K4 W/16</code></td><td>276</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><img src="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/sett.png" alt="Snowy Owl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/">Snowy Owl</a></td><td></td><td><code>W/80 O2 W12 O6 N2 O14 N6 DO2 N16 DO6 K2 DO18 K4 W/16</code></td><td>276</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><img src="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/sett.png" alt="Snowy Owl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BWBGKWRKRKRWKGRWKG](/stripes/bwbgkwrkrkrwkgrwkg/) — the
 The **Unidentified 33** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2o15w22k2y2~x2/">Unidentified 33</a></td><td><code>N/40 W4 DP140 Y4 K26 W20 R10 K2 R10 K2 R10 W20 K26 Y4 O30 W44 K4 Y/4</code></td><td>756</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2o15w22k2y2~x2/"><img src="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2o15w22k2y2~x2/sett.png" alt="Unidentified 33 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2o15w22k2y2~x2/">Unidentified 33</a></td><td></td><td><code>N/40 W4 DP140 Y4 K26 W20 R10 K2 R10 K2 R10 W20 K26 Y4 O30 W44 K4 Y/4</code></td><td>756</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2o15w22k2y2~x2/"><img src="/variants/s18/n20w2dp70y2k13w10r5k1r5k1r5w10k13y2o15w22k2y2~x2/sett.png" alt="Unidentified 33 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

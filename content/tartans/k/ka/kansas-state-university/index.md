@@ -13,10 +13,10 @@ Its design is pattern [BKBWBWBKB](/stripes/bkbwbwbkb/) — the page of every tar
 The **Kansas State University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dp60k10dp6lb6dp6w4dp4k15dp15/">Kansas State University</a></td><td><code>DP/60 K10 DP6 LB6 DP6 W4 DP4 K15 DP/15</code></td><td>177</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp60k10dp6lb6dp6w4dp4k15dp15/"><img src="/variants/s9/dp60k10dp6lb6dp6w4dp4k15dp15/sett.png" alt="Kansas State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp60k10dp6lb6dp6w4dp4k15dp15/">Kansas State University</a></td><td></td><td><code>DP/60 K10 DP6 LB6 DP6 W4 DP4 K15 DP/15</code></td><td>177</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dp60k10dp6lb6dp6w4dp4k15dp15/"><img src="/variants/s9/dp60k10dp6lb6dp6w4dp4k15dp15/sett.png" alt="Kansas State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

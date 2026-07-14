@@ -13,10 +13,10 @@ Its design is pattern [WKGKW](/stripes/wkgkw/) — the page of every tartan shar
 The **Longford County, Crest Range** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/w7k6dy15k24w3~x2/">Longford County, Crest Range</a></td><td><code>W/14 K12 DY30 K48 W/6</code></td><td>200</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w7k6dy15k24w3~x2/"><img src="/variants/s5/w7k6dy15k24w3~x2/sett.png" alt="Longford County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w7k6dy15k24w3~x2/">Longford County, Crest Range</a></td><td></td><td><code>W/14 K12 DY30 K48 W/6</code></td><td>200</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/w7k6dy15k24w3~x2/"><img src="/variants/s5/w7k6dy15k24w3~x2/sett.png" alt="Longford County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

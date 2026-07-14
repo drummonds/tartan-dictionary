@@ -23,14 +23,14 @@ The **Cunningham** tartan groups 3 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k3r1k30r28db1r1w3~x2/">Cunningham</a> ★</td><td><code>K/6 R2 K60 R56 DB2 R2 W/6</code></td><td>256</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><img src="/variants/s7/k3r1k30r28db1r1w3~x2/sett.png" alt="Cunningham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/k3r1k30r28k1r1w3~x2/">Cunningham</a></td><td><code>K/6 R2 K60 R56 K2 R2 W/6</code></td><td>256</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k3r1k30r28k1r1w3~x2/"><img src="/variants/s7/k3r1k30r28k1r1w3~x2/sett.png" alt="Cunningham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/k3r2k30r28k2r2w3~x2/">#2</a></td><td><code>K/6 R4 K60 R56 K4 R4 W/6</code></td><td>268</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k3r2k30r28k2r2w3~x2/"><img src="/variants/s7/k3r2k30r28k2r2w3~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k3r1k30r28db1r1w3~x2/">Cunningham</a> ★</td><td></td><td><code>K/6 R2 K60 R56 DB2 R2 W/6</code></td><td>256</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><img src="/variants/s7/k3r1k30r28db1r1w3~x2/sett.png" alt="Cunningham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k3r1k30r28k1r1w3~x2/">Cunningham</a></td><td>1.01</td><td><code>K/6 R2 K60 R56 K2 R2 W/6</code></td><td>256</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k3r1k30r28k1r1w3~x2/"><img src="/variants/s7/k3r1k30r28k1r1w3~x2/sett.png" alt="Cunningham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k3r2k30r28k2r2w3~x2/">#2</a></td><td>1.49</td><td><code>K/6 R4 K60 R56 K4 R4 W/6</code></td><td>268</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k3r2k30r28k2r2w3~x2/"><img src="/variants/s7/k3r2k30r28k2r2w3~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

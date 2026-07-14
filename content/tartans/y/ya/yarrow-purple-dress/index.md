@@ -18,10 +18,10 @@ Its design is pattern [KBKBKBKBWBWBK](/stripes/kbkbkbkbwbwbk/) — the page of e
 The **Yarrow Purple Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2dp4lb2dp24lb3dp3k9dp2k27dp2k2dp2k2~x2/">Yarrow Purple Dress</a></td><td><code>K/4 DP8 LB4 DP48 LB6 DP6 K18 DP4 K54 DP4 K4 DP4 K/4</code></td><td>328</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2dp4lb2dp24lb3dp3k9dp2k27dp2k2dp2k2~x2/"><img src="/variants/s13/k2dp4lb2dp24lb3dp3k9dp2k27dp2k2dp2k2~x2/sett.png" alt="Yarrow Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k2dp4lb2dp24lb3dp3k9dp2k27dp2k2dp2k2~x2/">Yarrow Purple Dress</a></td><td></td><td><code>K/4 DP8 LB4 DP48 LB6 DP6 K18 DP4 K54 DP4 K4 DP4 K/4</code></td><td>328</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2dp4lb2dp24lb3dp3k9dp2k27dp2k2dp2k2~x2/"><img src="/variants/s13/k2dp4lb2dp24lb3dp3k9dp2k27dp2k2dp2k2~x2/sett.png" alt="Yarrow Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BRBRBKGRGG](/stripes/brbrbkgrgg/) — the page of every t
 The **Logan, or MacLennan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db1r1db1r1db4k4g4r1g1y1~x4/">Logan, or MacLennan</a></td><td><code>DB/4 R4 DB4 R4 DB16 K16 G16 R4 G4 Y/4</code></td><td>144</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db1r1db1r1db4k4g4r1g1y1~x4/"><img src="/variants/s10/db1r1db1r1db4k4g4r1g1y1~x4/sett.png" alt="Logan, or MacLennan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db1r1db1r1db4k4g4r1g1y1~x4/">Logan, or MacLennan</a></td><td></td><td><code>DB/4 R4 DB4 R4 DB16 K16 G16 R4 G4 Y/4</code></td><td>144</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db1r1db1r1db4k4g4r1g1y1~x4/"><img src="/variants/s10/db1r1db1r1db4k4g4r1g1y1~x4/sett.png" alt="Logan, or MacLennan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,12 +15,12 @@ The **MacGregor-Ryan** tartan groups 2 setts — the same named design recorded 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb62k13ly17dy13w40db20~x2/">MacGregor-Ryan</a> ★</td><td><code>LB/124 K26 LY34 DY26 W80 DB/40</code></td><td>496</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb62k13ly17dy13w40db20~x2/"><img src="/variants/s6/lb62k13ly17dy13w40db20~x2/sett.png" alt="MacGregor-Ryan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/">(Personal)</a></td><td><code>LB/67 K13 DY17 DO13 W40 T/20</code></td><td>—</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/"><img src="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb62k13ly17dy13w40db20~x2/">MacGregor-Ryan</a> ★</td><td></td><td><code>LB/124 K26 LY34 DY26 W80 DB/40</code></td><td>496</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb62k13ly17dy13w40db20~x2/"><img src="/variants/s6/lb62k13ly17dy13w40db20~x2/sett.png" alt="MacGregor-Ryan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/">(Personal)</a></td><td>—</td><td><code>LB/67 K13 DY17 DO13 W40 T/20</code></td><td>—</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/"><img src="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

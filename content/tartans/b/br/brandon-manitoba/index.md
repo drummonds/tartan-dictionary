@@ -17,12 +17,12 @@ The **Brandon Manitoba** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dy83k35w3g35k3y10/">Brandon Manitoba</a> ★</td><td><code>DY/83 K35 W3 G35 K3 Y/10</code></td><td>245</td><td>~1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy83k35w3g35k3y10/"><img src="/variants/s6/dy83k35w3g35k3y10/sett.png" alt="Brandon Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/">Brandon, Manitoba</a></td><td><code>Y/83 K35 W3 G35 K3 LY/10</code></td><td>245</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/"><img src="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/sett.png" alt="Brandon, Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy83k35w3g35k3y10/">Brandon Manitoba</a> ★</td><td></td><td><code>DY/83 K35 W3 G35 K3 Y/10</code></td><td>245</td><td>~1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dy83k35w3g35k3y10/"><img src="/variants/s6/dy83k35w3g35k3y10/sett.png" alt="Brandon Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/">Brandon, Manitoba</a></td><td>0.20</td><td><code>Y/83 K35 W3 G35 K3 LY/10</code></td><td>245</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/"><img src="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/sett.png" alt="Brandon, Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GRBRKGKWKGRKRW](/stripes/grbrkgkwkgrkrw/) — the page of
 The **Stuart / Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/">Stuart / Stewart</a></td><td><code>G/4 R60 DB8 R8 K12 Y2 K2 W2 K2 G20 R8 K2 R2 W/2</code></td><td>262</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/"><img src="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/sett.png" alt="Stuart / Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/">Stuart / Stewart</a></td><td></td><td><code>G/4 R60 DB8 R8 K12 Y2 K2 W2 K2 G20 R8 K2 R2 W/2</code></td><td>262</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/"><img src="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/sett.png" alt="Stuart / Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

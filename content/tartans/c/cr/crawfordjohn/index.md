@@ -15,10 +15,10 @@ Designed by Baron Travis K Svensson for the Barony of Crawfordjohn.
 The **Crawfordjohn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/">Crawfordjohn</a></td><td><code>DBi/20 DB44 DG14 G20 DG44 DP6 DG44 G20 DG14 DB44 DBi20 DB/16</code></td><td>576</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/"><img src="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/sett.png" alt="Crawfordjohn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/">Crawfordjohn</a></td><td></td><td><code>DBi/20 DB44 DG14 G20 DG44 DP6 DG44 G20 DG14 DB44 DBi20 DB/16</code></td><td>576</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/"><img src="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/sett.png" alt="Crawfordjohn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

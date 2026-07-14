@@ -16,10 +16,10 @@ Its design is pattern [YKYBYBYBYY](/stripes/ykybybybyy/) — the page of every t
 The **Digital Equipment Corp.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lg8k5lg16n9lg3n3lg3n3lg10lr3~x2/">Digital Equipment Corp.</a></td><td><code>LG/16 K10 LG32 N18 LG6 N6 LG6 N6 LG20 LR/6</code></td><td>230</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lg8k5lg16n9lg3n3lg3n3lg10lr3~x2/"><img src="/variants/s10/lg8k5lg16n9lg3n3lg3n3lg10lr3~x2/sett.png" alt="Digital Equipment Corp. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lg8k5lg16n9lg3n3lg3n3lg10lr3~x2/">Digital Equipment Corp.</a></td><td></td><td><code>LG/16 K10 LG32 N18 LG6 N6 LG6 N6 LG20 LR/6</code></td><td>230</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lg8k5lg16n9lg3n3lg3n3lg10lr3~x2/"><img src="/variants/s10/lg8k5lg16n9lg3n3lg3n3lg10lr3~x2/sett.png" alt="Digital Equipment Corp. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

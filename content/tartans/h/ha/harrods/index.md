@@ -18,10 +18,10 @@ Its design is pattern [GBYBYWGWGWKWGWKWGWGWYBYBGR](/stripes/gbybywgwgwkwgwkwgwgw
 The **Harrods** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/dy3do9ly2do5ly4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/">Harrods</a></td><td><code>DY/6 DO18 LY4 DO10 LY8 W2 DY2 W2 DY2 W24 K4 W4 DY4 W4 K4 W24 DY2 W2 DY2 W2 LY8 DO10 LY4 DO18 DY6 R/4</code></td><td>350</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/dy3do9ly2do5ly4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/"><img src="/variants/s26/dy3do9ly2do5ly4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/sett.png" alt="Harrods sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/dy3do9ly2do5ly4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/">Harrods</a></td><td></td><td><code>DY/6 DO18 LY4 DO10 LY8 W2 DY2 W2 DY2 W24 K4 W4 DY4 W4 K4 W24 DY2 W2 DY2 W2 LY8 DO10 LY4 DO18 DY6 R/4</code></td><td>350</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/dy3do9ly2do5ly4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/"><img src="/variants/s26/dy3do9ly2do5ly4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/sett.png" alt="Harrods sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

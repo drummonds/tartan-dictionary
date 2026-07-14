@@ -13,10 +13,10 @@ Its design is pattern [BWBBGR](/stripes/bwbbgr/) — the page of every tartan sh
 The **Georgian Bay, Waters of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/">Georgian Bay, Waters of</a></td><td><code>DB/70 W6 DB16 T72 DG18 O/6</code></td><td>300</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><img src="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/sett.png" alt="Georgian Bay, Waters of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/">Georgian Bay, Waters of</a></td><td></td><td><code>DB/70 W6 DB16 T72 DG18 O/6</code></td><td>300</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><img src="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/sett.png" alt="Georgian Bay, Waters of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

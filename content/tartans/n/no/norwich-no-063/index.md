@@ -13,10 +13,10 @@ Its design is pattern [BKGKGKGKGKBK](/stripes/bkgkgkgkgkbk/) — the page of eve
 The **Norwich No.063** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db4k3g4k1g4k3g4k1g4k3db4k1~x2~db1406275/">Norwich No.063</a></td><td><code>DB/8 K6 G8 K2 G8 K6 G8 K2 G8 K6 DB8 K/2</code></td><td>134</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db4k3g4k1g4k3g4k1g4k3db4k1~x2~db1406275/"><img src="/variants/s12/db4k3g4k1g4k3g4k1g4k3db4k1~x2~db1406275/sett.png" alt="Norwich No.063 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db4k3g4k1g4k3g4k1g4k3db4k1~x2~db1406275/">Norwich No.063</a></td><td></td><td><code>DB/8 K6 G8 K2 G8 K6 G8 K2 G8 K6 DB8 K/2</code></td><td>134</td><td>1870</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db4k3g4k1g4k3g4k1g4k3db4k1~x2~db1406275/"><img src="/variants/s12/db4k3g4k1g4k3g4k1g4k3db4k1~x2~db1406275/sett.png" alt="Norwich No.063 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

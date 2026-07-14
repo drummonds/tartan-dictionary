@@ -13,10 +13,10 @@ Its design is pattern [KYGW](/stripes/kygw/) — the page of every tartan sharin
 The **Wilson's No.140** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/k2ly1g7lb1~x2~ly3307090/">Wilson's No.140</a></td><td><code>K/4 LY2 G14 LB/2</code></td><td>38</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k2ly1g7lb1~x2~ly3307090/"><img src="/variants/s4/k2ly1g7lb1~x2~ly3307090/sett.png" alt="Wilson's No.140 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k2ly1g7lb1~x2~ly3307090/">Wilson's No.140</a></td><td></td><td><code>K/4 LY2 G14 LB/2</code></td><td>38</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/k2ly1g7lb1~x2~ly3307090/"><img src="/variants/s4/k2ly1g7lb1~x2~ly3307090/sett.png" alt="Wilson's No.140 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Based on the Fife district tartan with an overcheck in Kinnear Arms colours, des
 The **Kinnear, Pilette of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/">Kinnear, Pilette of</a></td><td><code>K/4 Ri2 K12 G4 K12 G48 K8 G4 R6 Y2 R4 B2 R6 G4 K8 G48 K12 G4 K12 Ri2 K/4</code></td><td>408</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/"><img src="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/sett.png" alt="Kinnear, Pilette of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/">Kinnear, Pilette of</a></td><td></td><td><code>K/4 Ri2 K12 G4 K12 G48 K8 G4 R6 Y2 R4 B2 R6 G4 K8 G48 K12 G4 K12 Ri2 K/4</code></td><td>408</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/"><img src="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/sett.png" alt="Kinnear, Pilette of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

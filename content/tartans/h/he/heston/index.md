@@ -18,10 +18,10 @@ Its design is pattern [GBRBRBWBKYKBWBRBRBGY](/stripes/gbrbrbwbkykbwbrbrbgy/) —
 The **Heston** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/">Heston</a></td><td><code>DG/16 N24 R6 N18 R6 N24 LB18 DB96 K16 LO4 K16 DB96 LB18 N24 R6 N18 R6 N24 DG16 LO/4</code></td><td>892</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><img src="/variants/s20/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/sett.png" alt="Heston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/">Heston</a></td><td></td><td><code>DG/16 N24 R6 N18 R6 N24 LB18 DB96 K16 LO4 K16 DB96 LB18 N24 R6 N18 R6 N24 DG16 LO/4</code></td><td>892</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><img src="/variants/s20/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/sett.png" alt="Heston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

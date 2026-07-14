@@ -13,10 +13,10 @@ Its design is pattern [KGYGYGYGYGYGYGYGKRKYKYKYKYKYKYKYKRYR](/stripes/kgygygygyg
 The **Prince Edward Island** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/">Prince Edward Island</a></td><td><code>R/50 LY16 R8 K8 LY1 K1 LY1 K1 LY1 K1 LY1 K1 LY1 K1 LY1 K1 LY20 K40 R12 K24 DG8 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY28 DG6 K/4</code></td><td>442</td><td>1966</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/"><img src="/variants/s36/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/sett.png" alt="Prince Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/">Prince Edward Island</a></td><td></td><td><code>R/50 LY16 R8 K8 LY1 K1 LY1 K1 LY1 K1 LY1 K1 LY1 K1 LY1 K1 LY20 K40 R12 K24 DG8 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY28 DG6 K/4</code></td><td>442</td><td>1966</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/"><img src="/variants/s36/r50ly16r8k8ly1k1ly1k1ly1k1ly1k1ly1k1ly1k1ly20k40r12k24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6k4/sett.png" alt="Prince Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

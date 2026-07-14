@@ -13,10 +13,10 @@ Its design is pattern [BBWRKRWBWB](/stripes/bbwrkrwbwb/) — the page of every t
 The **Custer** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/">Custer</a></td><td><code>DB/40 W2 DP16 LB2 R4 K6 R4 LB2 DP40 DB/16</code></td><td>208</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/"><img src="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/sett.png" alt="Custer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/">Custer</a></td><td></td><td><code>DB/40 W2 DP16 LB2 R4 K6 R4 LB2 DP40 DB/16</code></td><td>208</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/"><img src="/variants/s10/db20w1dp8lb1r2k3r2lb1dp20db8~x2/sett.png" alt="Custer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

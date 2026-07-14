@@ -18,10 +18,10 @@ Its design is pattern [RKGWRKRWGBKRWGWRKBGWRKRWGKR](/stripes/rkgwrkrwgbkrwgwrkbg
 The **MacFarlane** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/">MacFarlane</a></td><td><code>R/168 K4 G48 W8 R12 K4 R12 W8 G8 DP48 K16 R12 W16 G12 W16 R12 K16 DP48 G8 W8 R12 K4 R12 W8 G48 K4 R/84</code></td><td>1060</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/"><img src="/variants/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/sett.png" alt="MacFarlane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/">MacFarlane</a></td><td></td><td><code>R/168 K4 G48 W8 R12 K4 R12 W8 G8 DP48 K16 R12 W16 G12 W16 R12 K16 DP48 G8 W8 R12 K4 R12 W8 G48 K4 R/84</code></td><td>1060</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/"><img src="/variants/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/sett.png" alt="MacFarlane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

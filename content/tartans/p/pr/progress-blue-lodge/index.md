@@ -13,10 +13,10 @@ Its design is pattern [WKWKWBWGWWWBWGWRWBWKWKW](/stripes/wkwkwbwgwwwbwgwrwbwkwkw
 The **Progress Blue Lodge** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/">Progress Blue Lodge</a></td><td><code>W/8 K8 W8 K4 LB24 DP4 LB24 R18 LB4 Y12 LB4 DB22 LB4 W12 LB4 G18 LB24 DP4 LB24 K4 W8 K8 W/8</code></td><td>500</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/"><img src="/variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/sett.png" alt="Progress Blue Lodge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/">Progress Blue Lodge</a></td><td></td><td><code>W/8 K8 W8 K4 LB24 DP4 LB24 R18 LB4 Y12 LB4 DB22 LB4 W12 LB4 G18 LB24 DP4 LB24 K4 W8 K8 W/8</code></td><td>500</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/"><img src="/variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/sett.png" alt="Progress Blue Lodge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

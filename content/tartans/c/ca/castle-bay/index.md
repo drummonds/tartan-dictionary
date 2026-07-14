@@ -13,10 +13,10 @@ Its design is pattern [GGGWG](/stripes/gggwg/) — the page of every tartan shar
 The **Castle Bay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/">Castle Bay</a></td><td><code>Gii/80 W4 G10 Gi10 G/30</code></td><td>158</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/"><img src="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/sett.png" alt="Castle Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/">Castle Bay</a></td><td></td><td><code>Gii/80 W4 G10 Gi10 G/30</code></td><td>158</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/"><img src="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/sett.png" alt="Castle Bay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

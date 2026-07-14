@@ -13,10 +13,10 @@ Its design is pattern [GBYBGYGY](/stripes/gbybgygy/) — the page of every tarta
 The **Unidentified** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/">Unidentified</a></td><td><code>DG/40 DR16 LR4 DR16 DG10 LY16 DG4 LY/16</code></td><td>188</td><td>1976</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><img src="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/">Unidentified</a></td><td></td><td><code>DG/40 DR16 LR4 DR16 DG10 LY16 DG4 LY/16</code></td><td>188</td><td>1976</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><img src="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

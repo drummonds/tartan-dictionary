@@ -15,12 +15,12 @@ The **St. Andrews New Golf Club** tartan groups 2 setts — the same named desig
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/">St. Andrews New Golf Club</a> ★</td><td><code>DP/8 DB36 R4 DB4 R4 DB18 G40 DB6 G/8</code></td><td>240</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/"><img src="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/sett.png" alt="St. Andrews New Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/">(Corp)</a></td><td><code>DP/8 DB36 DR4 DB4 DR4 DB18 G40 DB6 G/8</code></td><td>240</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/"><img src="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/sett.png" alt="(Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/">St. Andrews New Golf Club</a> ★</td><td></td><td><code>DP/8 DB36 R4 DB4 R4 DB18 G40 DB6 G/8</code></td><td>240</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/"><img src="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/sett.png" alt="St. Andrews New Golf Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/">(Corp)</a></td><td>0.03</td><td><code>DP/8 DB36 DR4 DB4 DR4 DB18 G40 DB6 G/8</code></td><td>240</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/"><img src="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/sett.png" alt="(Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBGBRBRBRR](/stripes/gbgbrbrbrr/) — the page of every t
 The **Yarns to Yearn For** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/">Yarns to Yearn For</a></td><td><code>Ri/6 R46 DB4 R4 DP4 R6 DB56 Y4 DB4 G/6</code></td><td>268</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/"><img src="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/sett.png" alt="Yarns to Yearn For sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/">Yarns to Yearn For</a></td><td></td><td><code>Ri/6 R46 DB4 R4 DP4 R6 DB56 Y4 DB4 G/6</code></td><td>268</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/"><img src="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/sett.png" alt="Yarns to Yearn For sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

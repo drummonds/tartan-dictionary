@@ -17,10 +17,10 @@ Its design is pattern [RWRWRWRW](/stripes/rwrwrwrw/) — the page of every tarta
 The **Masai Shuka 08** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r55w20r8w2r8w2r8w2~x2/">Masai Shuka 08</a></td><td><code>R/110 W40 R16 W4 R16 W4 R16 W/4</code></td><td>306</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r55w20r8w2r8w2r8w2~x2/"><img src="/variants/s8/r55w20r8w2r8w2r8w2~x2/sett.png" alt="Masai Shuka 08 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r55w20r8w2r8w2r8w2~x2/">Masai Shuka 08</a></td><td></td><td><code>R/110 W40 R16 W4 R16 W4 R16 W/4</code></td><td>306</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r55w20r8w2r8w2r8w2~x2/"><img src="/variants/s8/r55w20r8w2r8w2r8w2~x2/sett.png" alt="Masai Shuka 08 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

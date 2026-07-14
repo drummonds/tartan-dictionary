@@ -15,12 +15,12 @@ The **Isle of Skye** tartan groups 2 setts — the same named design recorded as
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2~x2~dgi1806142-g1903114/">Isle of Skye</a> ★</td><td><code>DY/40 DP4 DY4 DP4 DY6 DP16 DG18 DGi16 G16 DG2 LB/4</code></td><td>216</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2~x2~dgi1806142-g1903114/"><img src="/variants/s11/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2~x2~dgi1806142-g1903114/sett.png" alt="Isle of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9gi8g8dg1lr2~x2~gi2203152-g1903114/">District Tartan</a></td><td><code>DY/40 DP4 DY4 DP4 DY6 DP16 DG18 Gi16 G16 DG2 LR/4</code></td><td>216</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9gi8g8dg1lr2~x2~gi2203152-g1903114/"><img src="/variants/s11/dy20dp2dy2dp2dy3dp8dg9gi8g8dg1lr2~x2~gi2203152-g1903114/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2~x2~dgi1806142-g1903114/">Isle of Skye</a> ★</td><td></td><td><code>DY/40 DP4 DY4 DP4 DY6 DP16 DG18 DGi16 G16 DG2 LB/4</code></td><td>216</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2~x2~dgi1806142-g1903114/"><img src="/variants/s11/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2~x2~dgi1806142-g1903114/sett.png" alt="Isle of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9gi8g8dg1lr2~x2~gi2203152-g1903114/">District Tartan</a></td><td>0.33</td><td><code>DY/40 DP4 DY4 DP4 DY6 DP16 DG18 Gi16 G16 DG2 LR/4</code></td><td>216</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9gi8g8dg1lr2~x2~gi2203152-g1903114/"><img src="/variants/s11/dy20dp2dy2dp2dy3dp8dg9gi8g8dg1lr2~x2~gi2203152-g1903114/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

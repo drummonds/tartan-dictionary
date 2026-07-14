@@ -16,14 +16,14 @@ The **Border Bell** tartan is one sett, recorded at 3 scales — the same propor
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k1r1w1k1w1k1db1~x16/">Border Bell</a></td><td><code>K/1 R1 W1 K1 W1 K1 DB/1</code></td><td>12</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k1r1w1k1w1k1db1~x16/"><img src="/variants/s7/k1r1w1k1w1k1db1~x16/sett.png" alt="Border Bell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s7/k1r1w1k1w1k1db1~x8/">Bell, South.</a></td><td><code>K/8 R8 W8 K8 W8 K8 DB/8</code></td><td>96</td><td>1986</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×14 — <a href="/variants/s7/k1r1w1k1w1k1db1~x14/">Bell, Border (Name)</a></td><td><code>K/14 R14 W14 K14 W14 K14 DB/14</code></td><td>168</td><td>1987</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×16 — <a href="/variants/s7/k1r1w1k1w1k1db1~x16/">Border Bell</a></td><td><code>K/16 R16 W16 K16 W16 K16 DB/16</code></td><td>192</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s7/k1r1w1k1w1k1db1~x14/">Bell, Border (Name)</a> · <a href="/variants/s7/k1r1w1k1w1k1db1~x16/">Border Bell</a> · <a href="/variants/s7/k1r1w1k1w1k1db1~x8/">Bell, South.</a></td></tr>
+<tr><td><a href="/variants/s7/k1r1w1k1w1k1db1~x16/">Border Bell</a></td><td></td><td><code>K/1 R1 W1 K1 W1 K1 DB/1</code></td><td>12</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k1r1w1k1w1k1db1~x16/"><img src="/variants/s7/k1r1w1k1w1k1db1~x16/sett.png" alt="Border Bell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s7/k1r1w1k1w1k1db1~x8/">Bell, South.</a></td><td>0.00</td><td><code>K/8 R8 W8 K8 W8 K8 DB/8</code></td><td>96</td><td>1986</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×14 — <a href="/variants/s7/k1r1w1k1w1k1db1~x14/">Bell, Border (Name)</a></td><td>0.00</td><td><code>K/14 R14 W14 K14 W14 K14 DB/14</code></td><td>168</td><td>1987</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×16 — <a href="/variants/s7/k1r1w1k1w1k1db1~x16/">Border Bell</a></td><td>0.00</td><td><code>K/16 R16 W16 K16 W16 K16 DB/16</code></td><td>192</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s7/k1r1w1k1w1k1db1~x14/">Bell, Border (Name)</a> · <a href="/variants/s7/k1r1w1k1w1k1db1~x16/">Border Bell</a> · <a href="/variants/s7/k1r1w1k1w1k1db1~x8/">Bell, South.</a></td></tr>
 </tbody>
 </table>
 

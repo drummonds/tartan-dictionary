@@ -13,10 +13,10 @@ Its design is pattern [KYBKWKWBWBW](/stripes/kybkwkwbwbw/) — the page of every
 The **Immanuel Presbyterian Church** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/">Immanuel Presbyterian Church</a></td><td><code>K/6 LO4 B28 K28 LB4 K28 LB4 B12 LB4 B32 LB/6</code></td><td>300</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><img src="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/sett.png" alt="Immanuel Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/">Immanuel Presbyterian Church</a></td><td></td><td><code>K/6 LO4 B28 K28 LB4 K28 LB4 B12 LB4 B32 LB/6</code></td><td>300</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><img src="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/sett.png" alt="Immanuel Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

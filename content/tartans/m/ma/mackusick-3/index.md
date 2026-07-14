@@ -18,10 +18,10 @@ Its design is pattern [BKBKBRKRKWGRG](/stripes/bkbkbrkrkwgrg/) — the page of e
 The **MacKusick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/">MacKusick</a></td><td><code>DB/8 K2 DB4 K2 DB12 O4 K8 O4 K16 LB4 G24 O4 G/8</code></td><td>184</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/"><img src="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/sett.png" alt="MacKusick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/">MacKusick</a></td><td></td><td><code>DB/8 K2 DB4 K2 DB12 O4 K8 O4 K16 LB4 G24 O4 G/8</code></td><td>184</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/"><img src="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/sett.png" alt="MacKusick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

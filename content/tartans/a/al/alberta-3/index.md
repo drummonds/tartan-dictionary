@@ -18,10 +18,10 @@ Its design is pattern [GGYGYGYGYGYGYGYGGYGYGYGYGYGYGYGYGYYY](/stripes/ggygygygyg
 The **Alberta** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/lyi50ly16lyi8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40lyi12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~lyi3104101-ly2705081/">Alberta</a></td><td><code>LYi/50 LY16 LYi8 DY8 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY20 DY40 LYi12 DY24 DG8 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY28 DG6 DY/4</code></td><td>442</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/lyi50ly16lyi8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40lyi12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~lyi3104101-ly2705081/"><img src="/variants/s36/lyi50ly16lyi8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40lyi12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~lyi3104101-ly2705081/sett.png" alt="Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/lyi50ly16lyi8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40lyi12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~lyi3104101-ly2705081/">Alberta</a></td><td></td><td><code>LYi/50 LY16 LYi8 DY8 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY20 DY40 LYi12 DY24 DG8 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY1 DG1 LY28 DG6 DY/4</code></td><td>442</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/lyi50ly16lyi8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40lyi12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~lyi3104101-ly2705081/"><img src="/variants/s36/lyi50ly16lyi8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40lyi12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~lyi3104101-ly2705081/sett.png" alt="Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

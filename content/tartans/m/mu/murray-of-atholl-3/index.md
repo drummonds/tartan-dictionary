@@ -18,10 +18,10 @@ Its design is pattern [BGBGBGGRGGBGR](/stripes/bgbgbggrggbgr/) — the page of e
 The **Murray of Atholl** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/">Murray of Atholl</a></td><td><code>DB/36 DY8 DB6 DY6 DB6 DY36 G36 R20 G36 DY36 DB36 DY6 R/20</code></td><td>520</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><img src="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/sett.png" alt="Murray of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/">Murray of Atholl</a></td><td></td><td><code>DB/36 DY8 DB6 DY6 DB6 DY36 G36 R20 G36 DY36 DB36 DY6 R/20</code></td><td>520</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><img src="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/sett.png" alt="Murray of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBYBG](/stripes/bgbybg/) — the page of every tartan sh
 The **Oxford University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/">Oxford University</a></td><td><code>G/32 DB118 LY8 DB118 G32 DBi/18</code></td><td>602</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/"><img src="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/sett.png" alt="Oxford University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/">Oxford University</a></td><td></td><td><code>G/32 DB118 LY8 DB118 G32 DBi/18</code></td><td>602</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/"><img src="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/sett.png" alt="Oxford University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [WGWKWKGRGRW](/stripes/wgwkwkgrgrw/) — the page of every
 The **Stewart, variant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/">Stewart, variant</a></td><td><code>W/92 G10 W2 K6 W2 K10 G8 R12 G4 R8 W/4</code></td><td>220</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/"><img src="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/sett.png" alt="Stewart, variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/">Stewart, variant</a></td><td></td><td><code>W/92 G10 W2 K6 W2 K10 G8 R12 G4 R8 W/4</code></td><td>220</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/"><img src="/variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/sett.png" alt="Stewart, variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

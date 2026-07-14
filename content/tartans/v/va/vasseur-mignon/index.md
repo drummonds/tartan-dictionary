@@ -13,10 +13,10 @@ Its design is pattern [GWGBGWGGRGR](/stripes/gwgbgwggrgr/) — the page of every
 The **Vasseur Mignon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r2y2r2y2g5lb5g11n11g5lb11y2~x2/">Vasseur Mignon</a></td><td><code>R/4 Y4 R4 Y4 G10 LB10 G22 N22 G10 LB22 Y/4</code></td><td>224</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r2y2r2y2g5lb5g11n11g5lb11y2~x2/"><img src="/variants/s11/r2y2r2y2g5lb5g11n11g5lb11y2~x2/sett.png" alt="Vasseur Mignon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r2y2r2y2g5lb5g11n11g5lb11y2~x2/">Vasseur Mignon</a></td><td></td><td><code>R/4 Y4 R4 Y4 G10 LB10 G22 N22 G10 LB22 Y/4</code></td><td>224</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r2y2r2y2g5lb5g11n11g5lb11y2~x2/"><img src="/variants/s11/r2y2r2y2g5lb5g11n11g5lb11y2~x2/sett.png" alt="Vasseur Mignon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

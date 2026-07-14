@@ -13,10 +13,10 @@ Its design is pattern [RBRBYKW](/stripes/rbrbykw/) — the page of every tartan 
 The **Loch Ness** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/">Loch Ness</a></td><td><code>R/4 T4 R4 T42 LG22 K34 LB/4</code></td><td>220</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><img src="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/sett.png" alt="Loch Ness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/">Loch Ness</a></td><td></td><td><code>R/4 T4 R4 T42 LG22 K34 LB/4</code></td><td>220</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><img src="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/sett.png" alt="Loch Ness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

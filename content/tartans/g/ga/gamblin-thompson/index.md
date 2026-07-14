@@ -13,10 +13,10 @@ Its design is pattern [WBKRGW](/stripes/wbkrgw/) — the page of every tartan sh
 The **Gamblin Thompson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb2g13r2k6db23w1~x4/">Gamblin Thompson</a></td><td><code>LB/8 G52 R8 K24 DB92 W/4</code></td><td>364</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb2g13r2k6db23w1~x4/"><img src="/variants/s6/lb2g13r2k6db23w1~x4/sett.png" alt="Gamblin Thompson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb2g13r2k6db23w1~x4/">Gamblin Thompson</a></td><td></td><td><code>LB/8 G52 R8 K24 DB92 W/4</code></td><td>364</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb2g13r2k6db23w1~x4/"><img src="/variants/s6/lb2g13r2k6db23w1~x4/sett.png" alt="Gamblin Thompson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

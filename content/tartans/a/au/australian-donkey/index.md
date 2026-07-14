@@ -16,10 +16,10 @@ Its design is pattern [GYRYWWRBK](/stripes/gyrywwrbk/) — the page of every tar
 The **Australian Donkey** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/">Australian Donkey</a></td><td><code>K/8 N26 Ri6 LB14 W6 LY50 R4 LY6 DY/8</code></td><td>240</td><td>~2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/"><img src="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/sett.png" alt="Australian Donkey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/">Australian Donkey</a></td><td></td><td><code>K/8 N26 Ri6 LB14 W6 LY50 R4 LY6 DY/8</code></td><td>240</td><td>~2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/"><img src="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/sett.png" alt="Australian Donkey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

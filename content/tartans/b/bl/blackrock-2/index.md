@@ -18,10 +18,10 @@ Its design is pattern [GWBKGKGK](/stripes/gwbkgkgk/) — the page of every tarta
 The **BlackRock** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/">BlackRock</a></td><td><code>K/20 DG6 K12 DG40 Ki16 DR8 W8 DG/20</code></td><td>220</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/"><img src="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/sett.png" alt="BlackRock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/">BlackRock</a></td><td></td><td><code>K/20 DG6 K12 DG40 Ki16 DR8 W8 DG/20</code></td><td>220</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/"><img src="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/sett.png" alt="BlackRock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

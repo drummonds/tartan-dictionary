@@ -13,10 +13,10 @@ Its design is pattern [GWGBGY](/stripes/gwgbgy/) — the page of every tartan sh
 The **Meath County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/ly21g28db24g72w16g20/">Meath County Crest</a></td><td><code>LY/21 G28 DB24 G72 W16 G/20</code></td><td>321</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly21g28db24g72w16g20/"><img src="/variants/s6/ly21g28db24g72w16g20/sett.png" alt="Meath County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly21g28db24g72w16g20/">Meath County Crest</a></td><td></td><td><code>LY/21 G28 DB24 G72 W16 G/20</code></td><td>321</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ly21g28db24g72w16g20/"><img src="/variants/s6/ly21g28db24g72w16g20/sett.png" alt="Meath County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

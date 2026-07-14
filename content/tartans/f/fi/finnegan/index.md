@@ -13,10 +13,10 @@ Its design is pattern [GRGKRKRKGKR](/stripes/grgkrkrkgkr/) — the page of every
 The **Finnegan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/">Finnegan</a></td><td><code>O/12 K4 G4 K8 R6 K4 R6 K8 G4 O48 Y/4</code></td><td>200</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/"><img src="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/sett.png" alt="Finnegan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/">Finnegan</a></td><td></td><td><code>O/12 K4 G4 K8 R6 K4 R6 K8 G4 O48 Y/4</code></td><td>200</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/"><img src="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/sett.png" alt="Finnegan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

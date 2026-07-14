@@ -13,10 +13,10 @@ Its design is pattern [RBGRBGBRBGR](/stripes/rbgrbgbrbgr/) — the page of every
 The **Drumlithie, Rock and Wheel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/">Drumlithie, Rock and Wheel</a></td><td><code>R/4 DP6 DG4 R30 DP6 G38 DP40 R30 DP6 DG4 R/4</code></td><td>336</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/"><img src="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/sett.png" alt="Drumlithie, Rock and Wheel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/">Drumlithie, Rock and Wheel</a></td><td></td><td><code>R/4 DP6 DG4 R30 DP6 G38 DP40 R30 DP6 DG4 R/4</code></td><td>336</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/"><img src="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/sett.png" alt="Drumlithie, Rock and Wheel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

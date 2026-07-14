@@ -16,10 +16,10 @@ Its design is pattern [GRKRGRKGBGKRGRW](/stripes/grkrgrkgbgkrgrw/) — the page 
 The **Livingstone Official** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/">Livingstone Official</a></td><td><code>DG/20 R6 K4 R6 DG20 R16 K4 Y2 B2 Y2 K4 R40 DG8 R16 W/2</code></td><td>282</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/"><img src="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/sett.png" alt="Livingstone Official sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/">Livingstone Official</a></td><td></td><td><code>DG/20 R6 K4 R6 DG20 R16 K4 Y2 B2 Y2 K4 R40 DG8 R16 W/2</code></td><td>282</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/"><img src="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/sett.png" alt="Livingstone Official sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

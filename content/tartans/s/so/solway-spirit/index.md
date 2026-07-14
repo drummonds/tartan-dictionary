@@ -13,10 +13,10 @@ Its design is pattern [BGBGBGBGBRBGBGBGBGBW](/stripes/bgbgbgbgbrbgbgbgbgbw/) —
 The **Solway Spirit** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4~x2~dp1105325-g2203152/">Solway Spirit</a></td><td><code>DP/80 G4 DP4 G4 DP4 G4 DP6 G32 DB30 M6 DB30 G32 DP6 G4 DP4 G4 DP4 G4 DP80 W/8</code></td><td>612</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4~x2~dp1105325-g2203152/"><img src="/variants/s20/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4~x2~dp1105325-g2203152/sett.png" alt="Solway Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4~x2~dp1105325-g2203152/">Solway Spirit</a></td><td></td><td><code>DP/80 G4 DP4 G4 DP4 G4 DP6 G32 DB30 M6 DB30 G32 DP6 G4 DP4 G4 DP4 G4 DP80 W/8</code></td><td>612</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4~x2~dp1105325-g2203152/"><img src="/variants/s20/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4~x2~dp1105325-g2203152/sett.png" alt="Solway Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

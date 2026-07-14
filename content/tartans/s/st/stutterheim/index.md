@@ -20,12 +20,12 @@ The **Stutterheim** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k4y18db44k3y10k4/">Stutterheim</a> ★</td><td><code>K/4 Y18 DB44 K3 Y10 K/4</code></td><td>158</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4y18db44k3y10k4/"><img src="/variants/s6/k4y18db44k3y10k4/sett.png" alt="Stutterheim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k4ly18db44k3ly10k4/">(Corporate)</a></td><td><code>K/4 LY18 DB44 K3 LY10 K/4</code></td><td>158</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4ly18db44k3ly10k4/"><img src="/variants/s6/k4ly18db44k3ly10k4/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4y18db44k3y10k4/">Stutterheim</a> ★</td><td></td><td><code>K/4 Y18 DB44 K3 Y10 K/4</code></td><td>158</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4y18db44k3y10k4/"><img src="/variants/s6/k4y18db44k3y10k4/sett.png" alt="Stutterheim sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4ly18db44k3ly10k4/">(Corporate)</a></td><td>0.14</td><td><code>K/4 LY18 DB44 K3 LY10 K/4</code></td><td>158</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4ly18db44k3ly10k4/"><img src="/variants/s6/k4ly18db44k3ly10k4/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

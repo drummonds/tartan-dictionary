@@ -18,10 +18,10 @@ Its design is pattern [WGRBRBRGRBRGW](/stripes/wgrbrbrgrbrgw/) — the page of e
 The **Robertson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/">Robertson</a></td><td><code>W/2 G4 R36 DB4 R4 DB36 R4 G36 R4 DB4 R36 G4 W/2</code></td><td>348</td><td>1820</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/"><img src="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/sett.png" alt="Robertson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/">Robertson</a></td><td></td><td><code>W/2 G4 R36 DB4 R4 DB36 R4 G36 R4 DB4 R36 G4 W/2</code></td><td>348</td><td>1820</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/"><img src="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/sett.png" alt="Robertson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

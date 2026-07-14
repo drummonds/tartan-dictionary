@@ -13,10 +13,10 @@ Its design is pattern [WRKRGKWKYKBRBKYKWKGRKRW](/stripes/wrkrgkwkykbrbkykwkgrkrw
 The **Stuart-Forbes of Fettercairn and Pitsligo** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/">Stuart-Forbes of Fettercairn and Pitsligo</a></td><td><code>W/8 R12 K8 R32 DG64 K8 W8 K8 LY4 K40 T24 R128 T24 K40 LY4 K8 W8 K8 DG64 R32 K8 R12 W/2</code></td><td>1098</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/"><img src="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/sett.png" alt="Stuart-Forbes of Fettercairn and Pitsligo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/">Stuart-Forbes of Fettercairn and Pitsligo</a></td><td></td><td><code>W/8 R12 K8 R32 DG64 K8 W8 K8 LY4 K40 T24 R128 T24 K40 LY4 K8 W8 K8 DG64 R32 K8 R12 W/2</code></td><td>1098</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/"><img src="/variants/s23/w4r6k4r16dg32k4w4k4ly2k20t12r64t12k20ly2k4w4k4dg32r16k4r6w1~x2/sett.png" alt="Stuart-Forbes of Fettercairn and Pitsligo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

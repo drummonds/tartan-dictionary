@@ -13,10 +13,10 @@ Its design is pattern [GBGGGGG](/stripes/gbggggg/) — the page of every tartan 
 The **de Meuron Day, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dy40dp5dy6dg26dgi13dgii9dg3~x2~dgi1505139-dgii1704144/">de Meuron Day, The</a></td><td><code>DY/80 DP10 DY12 DG52 DGi26 DGii18 DG/6</code></td><td>322</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dy40dp5dy6dg26dgi13dgii9dg3~x2~dgi1505139-dgii1704144/"><img src="/variants/s7/dy40dp5dy6dg26dgi13dgii9dg3~x2~dgi1505139-dgii1704144/sett.png" alt="de Meuron Day, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dy40dp5dy6dg26dgi13dgii9dg3~x2~dgi1505139-dgii1704144/">de Meuron Day, The</a></td><td></td><td><code>DY/80 DP10 DY12 DG52 DGi26 DGii18 DG/6</code></td><td>322</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dy40dp5dy6dg26dgi13dgii9dg3~x2~dgi1505139-dgii1704144/"><img src="/variants/s7/dy40dp5dy6dg26dgi13dgii9dg3~x2~dgi1505139-dgii1704144/sett.png" alt="de Meuron Day, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BRBBBRWG](/stripes/brbbbrwg/) — the page of every tarta
 The **Boxing Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/">Boxing Scotland</a></td><td><code>DB/52 R4 T32 DB46 T32 R4 W4 Y/2</code></td><td>298</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/"><img src="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/sett.png" alt="Boxing Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/">Boxing Scotland</a></td><td></td><td><code>DB/52 R4 T32 DB46 T32 R4 W4 Y/2</code></td><td>298</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/"><img src="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/sett.png" alt="Boxing Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

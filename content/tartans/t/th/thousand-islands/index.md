@@ -15,10 +15,10 @@ Designed by Grindstone Island weaver Emily Post in the 1970s; light blue for ski
 The **Thousand Islands** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db20lb8lo5k6lb4r3lb3y30r2lb3~x2/">Thousand Islands</a></td><td><code>DB/40 LB16 LO10 K12 LB8 R6 LB6 Y60 R4 LB/6</code></td><td>290</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db20lb8lo5k6lb4r3lb3y30r2lb3~x2/"><img src="/variants/s10/db20lb8lo5k6lb4r3lb3y30r2lb3~x2/sett.png" alt="Thousand Islands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db20lb8lo5k6lb4r3lb3y30r2lb3~x2/">Thousand Islands</a></td><td></td><td><code>DB/40 LB16 LO10 K12 LB8 R6 LB6 Y60 R4 LB/6</code></td><td>290</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db20lb8lo5k6lb4r3lb3y30r2lb3~x2/"><img src="/variants/s10/db20lb8lo5k6lb4r3lb3y30r2lb3~x2/sett.png" alt="Thousand Islands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

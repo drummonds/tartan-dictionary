@@ -13,10 +13,10 @@ Its design is pattern [GRYGRRRGR](/stripes/grygrrrgr/) — the page of every tar
 The **Henry, W. A.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/">Henry, W. A.</a></td><td><code>DY/64 R64 LR12 DG64 O8 R4 O8 DY24 R/8</code></td><td>440</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><img src="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/sett.png" alt="Henry, W. A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/">Henry, W. A.</a></td><td></td><td><code>DY/64 R64 LR12 DG64 O8 R4 O8 DY24 R/8</code></td><td>440</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><img src="/variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/sett.png" alt="Henry, W. A. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **Newfoundland** tartan groups 2 setts — the same named design recorded as
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r4g3o8w3o4g18y3~x2/">Newfoundland</a> ★</td><td><code>R/8 G6 O16 W6 O8 G36 Y/6</code></td><td>158</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r4g3o8w3o4g18y3~x2/"><img src="/variants/s7/r4g3o8w3o4g18y3~x2/sett.png" alt="Newfoundland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/">(District)</a></td><td><code>R/12 G8 DO28 W8 DO14 G60 LO/8</code></td><td>256</td><td>1955</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/"><img src="/variants/s7/r6g4do14w4do7g30lo4~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r4g3o8w3o4g18y3~x2/">Newfoundland</a> ★</td><td></td><td><code>R/8 G6 O16 W6 O8 G36 Y/6</code></td><td>158</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r4g3o8w3o4g18y3~x2/"><img src="/variants/s7/r4g3o8w3o4g18y3~x2/sett.png" alt="Newfoundland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/">(District)</a></td><td>0.63</td><td><code>R/12 G8 DO28 W8 DO14 G60 LO/8</code></td><td>256</td><td>1955</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/"><img src="/variants/s7/r6g4do14w4do7g30lo4~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

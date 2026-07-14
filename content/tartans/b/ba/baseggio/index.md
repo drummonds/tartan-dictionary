@@ -15,10 +15,10 @@ Designed for the Golden Bones branch of Venice's Baseggio family; gold and blue 
 The **Baseggio** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3~x4/">Baseggio</a></td><td><code>DB/16 K24 G4 W4 R4 K24 DB16 K8 Y4 K4 Y4 K4 Y4 K8 Y12 K/12</code></td><td>276</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3~x4/"><img src="/variants/s16/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3~x4/sett.png" alt="Baseggio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3~x4/">Baseggio</a></td><td></td><td><code>DB/16 K24 G4 W4 R4 K24 DB16 K8 Y4 K4 Y4 K4 Y4 K8 Y12 K/12</code></td><td>276</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3~x4/"><img src="/variants/s16/db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3~x4/sett.png" alt="Baseggio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

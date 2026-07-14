@@ -18,10 +18,10 @@ Its design is pattern [YBRBRKGRGRGRGRGKRBRBY](/stripes/ybrbrkgrgrgrgrgkrbrby/) â
 The **Cameron** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/">Cameron</a></td><td><code>LY/8 DB32 R12 DB64 R4 K64 G64 R12 G4 R4 G32 R4 G4 R12 G64 K64 R4 DB64 R12 DB32 LY/4</code></td><td>1116</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/"><img src="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/sett.png" alt="Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/">Cameron</a></td><td></td><td><code>LY/8 DB32 R12 DB64 R4 K64 G64 R12 G4 R4 G32 R4 G4 R12 G64 K64 R4 DB64 R12 DB32 LY/4</code></td><td>1116</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/"><img src="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/sett.png" alt="Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

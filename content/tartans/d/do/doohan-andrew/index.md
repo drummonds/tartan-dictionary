@@ -13,10 +13,10 @@ Its design is pattern [BGRBW](/stripes/bgrbw/) — the page of every tartan shar
 The **Doohan , Andrew** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/db2y1r4db4w2~x10/">Doohan , Andrew</a></td><td><code>DB/20 Y10 R40 DB40 W/20</code></td><td>220</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db2y1r4db4w2~x10/"><img src="/variants/s5/db2y1r4db4w2~x10/sett.png" alt="Doohan , Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db2y1r4db4w2~x10/">Doohan , Andrew</a></td><td></td><td><code>DB/20 Y10 R40 DB40 W/20</code></td><td>220</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db2y1r4db4w2~x10/"><img src="/variants/s5/db2y1r4db4w2~x10/sett.png" alt="Doohan , Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RGKWKWKW](/stripes/rgkwkwkw/) — the page of every tarta
 The **Holden** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/">Holden</a></td><td><code>W/26 K6 W6 K6 W6 K30 DY36 R/6</code></td><td>212</td><td>~1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><img src="/variants/s8/w13k3w3k3w3k15dy18r3~x2/sett.png" alt="Holden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/">Holden</a></td><td></td><td><code>W/26 K6 W6 K6 W6 K30 DY36 R/6</code></td><td>212</td><td>~1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><img src="/variants/s8/w13k3w3k3w3k15dy18r3~x2/sett.png" alt="Holden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

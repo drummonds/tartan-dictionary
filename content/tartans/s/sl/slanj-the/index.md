@@ -16,10 +16,10 @@ Its design is pattern [KBKBKW](/stripes/kbkbkw/) — the page of every tartan sh
 The **Slanj, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb5k22db4k4db26k4~x2/">Slanj, The</a></td><td><code>LB/10 K44 DB8 K8 DB52 K/8</code></td><td>242</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><img src="/variants/s6/lb5k22db4k4db26k4~x2/sett.png" alt="Slanj, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb5k22db4k4db26k4~x2/">Slanj, The</a></td><td></td><td><code>LB/10 K44 DB8 K8 DB52 K/8</code></td><td>242</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><img src="/variants/s6/lb5k22db4k4db26k4~x2/sett.png" alt="Slanj, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

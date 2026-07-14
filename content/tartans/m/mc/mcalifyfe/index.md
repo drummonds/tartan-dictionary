@@ -18,10 +18,10 @@ Its design is pattern [GKRGRGKGYGK](/stripes/gkrgrgkgygk/) — the page of every
 The **McAlifyfe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/">McAlifyfe</a></td><td><code>K/6 Y6 LO4 Y60 K4 Y6 M24 Y12 Mi12 K6 Y/6</code></td><td>280</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><img src="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/sett.png" alt="McAlifyfe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/">McAlifyfe</a></td><td></td><td><code>K/6 Y6 LO4 Y60 K4 Y6 M24 Y12 Mi12 K6 Y/6</code></td><td>280</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><img src="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/sett.png" alt="McAlifyfe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

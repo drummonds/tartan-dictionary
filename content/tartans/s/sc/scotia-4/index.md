@@ -18,10 +18,10 @@ Its design is pattern [BBWRBBBG](/stripes/bbwrbbbg/) — the page of every tarta
 The **Scotia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g3dp7b11db3o8w2db3b3~x2/">Scotia</a></td><td><code>G/6 DP14 B22 DB6 O16 W4 DB6 B/6</code></td><td>148</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g3dp7b11db3o8w2db3b3~x2/"><img src="/variants/s8/g3dp7b11db3o8w2db3b3~x2/sett.png" alt="Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g3dp7b11db3o8w2db3b3~x2/">Scotia</a></td><td></td><td><code>G/6 DP14 B22 DB6 O16 W4 DB6 B/6</code></td><td>148</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g3dp7b11db3o8w2db3b3~x2/"><img src="/variants/s8/g3dp7b11db3o8w2db3b3~x2/sett.png" alt="Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

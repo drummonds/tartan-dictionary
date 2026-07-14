@@ -13,10 +13,10 @@ Its design is pattern [BGBGBGBGB](/stripes/bgbgbgbgb/) — the page of every tar
 The **Lawlis/Lawless** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/">Lawlis/Lawless</a></td><td><code>DB/40 DG4 DB4 DG4 DB4 DG8 DR48 DG4 DR/8</code></td><td>200</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><img src="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/sett.png" alt="Lawlis/Lawless sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/">Lawlis/Lawless</a></td><td></td><td><code>DB/40 DG4 DB4 DG4 DB4 DG8 DR48 DG4 DR/8</code></td><td>200</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><img src="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/sett.png" alt="Lawlis/Lawless sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

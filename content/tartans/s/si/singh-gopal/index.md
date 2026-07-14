@@ -16,10 +16,10 @@ Its design is pattern [GKBGYK](/stripes/gkbgyk/) — the page of every tartan sh
 The **Singh, Gopal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k10lo4dg34db34k1y3~x2/">Singh, Gopal</a></td><td><code>K/20 LO8 DG68 DB68 K2 Y/6</code></td><td>318</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><img src="/variants/s6/k10lo4dg34db34k1y3~x2/sett.png" alt="Singh, Gopal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k10lo4dg34db34k1y3~x2/">Singh, Gopal</a></td><td></td><td><code>K/20 LO8 DG68 DB68 K2 Y/6</code></td><td>318</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><img src="/variants/s6/k10lo4dg34db34k1y3~x2/sett.png" alt="Singh, Gopal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGGGGGBGGG](/stripes/bgggggbggg/) — the page of every t
 The **Tupper. Sir Charles..** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/">Tupper. Sir Charles..</a></td><td><code>DB/8 DY14 Y6 DY24 G30 DY10 DB40 DY10 G8 DY/4</code></td><td>296</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/"><img src="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/sett.png" alt="Tupper. Sir Charles.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/">Tupper. Sir Charles..</a></td><td></td><td><code>DB/8 DY14 Y6 DY24 G30 DY10 DB40 DY10 G8 DY/4</code></td><td>296</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/"><img src="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/sett.png" alt="Tupper. Sir Charles.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

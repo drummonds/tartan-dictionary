@@ -15,10 +15,10 @@ Irish family pattern originating at Waterford Mill, recorded from the 'Clan Orig
 The **Keirnan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/">Keirnan</a></td><td><code>W/4 G8 K12 R4 K4 R4 K6 R4 G40 W/2</code></td><td>170</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><img src="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/sett.png" alt="Keirnan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/">Keirnan</a></td><td></td><td><code>W/4 G8 K12 R4 K4 R4 K6 R4 G40 W/2</code></td><td>170</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><img src="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/sett.png" alt="Keirnan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

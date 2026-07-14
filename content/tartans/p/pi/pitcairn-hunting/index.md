@@ -15,10 +15,10 @@ Hunting version of the Pitcairn Heritage tartan, presumed designed by Diene Dunc
 The **Pitcairn Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/">Pitcairn Hunting</a></td><td><code>B/6 T6 B6 T6 B6 G46 T4 Y4 T46 R12 B16 Y4 T/4</code></td><td>322</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/"><img src="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/sett.png" alt="Pitcairn Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/">Pitcairn Hunting</a></td><td></td><td><code>B/6 T6 B6 T6 B6 G46 T4 Y4 T46 R12 B16 Y4 T/4</code></td><td>322</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/"><img src="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/sett.png" alt="Pitcairn Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

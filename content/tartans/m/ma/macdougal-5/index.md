@@ -18,10 +18,10 @@ Its design is pattern [KRGRGRBRWRWRGRGRKRW](/stripes/krgrgrbrwrwrgrgrkrw/) — t
 The **MacDougal 5** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/">MacDougal 5</a></td><td><code>K/2 R8 G16 R4 G2 R4 DB8 R4 W2 R2 W2 R4 G8 R6 G8 R2 K2 R16 W/2</code></td><td>200</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/"><img src="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/sett.png" alt="MacDougal 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/">MacDougal 5</a></td><td></td><td><code>K/2 R8 G16 R4 G2 R4 DB8 R4 W2 R2 W2 R4 G8 R6 G8 R2 K2 R16 W/2</code></td><td>200</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/"><img src="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/sett.png" alt="MacDougal 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

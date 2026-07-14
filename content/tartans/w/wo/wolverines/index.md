@@ -13,10 +13,10 @@ Its design is pattern [YWBKWY](/stripes/ywbkwy/) — the page of every tartan sh
 The **Wolverines** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lr8w3db40k12w3lr3~x2/">Wolverines</a></td><td><code>LR/16 W6 DB80 K24 W6 LR/6</code></td><td>254</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><img src="/variants/s6/lr8w3db40k12w3lr3~x2/sett.png" alt="Wolverines sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lr8w3db40k12w3lr3~x2/">Wolverines</a></td><td></td><td><code>LR/16 W6 DB80 K24 W6 LR/6</code></td><td>254</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><img src="/variants/s6/lr8w3db40k12w3lr3~x2/sett.png" alt="Wolverines sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BKBW](/stripes/bkbw/) — the page of every tartan sharin
 The **Coinean Dubh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/db50k12db21w5~x2/">Coinean Dubh</a></td><td><code>DB/100 K24 DB42 W/10</code></td><td>242</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/db50k12db21w5~x2/"><img src="/variants/s4/db50k12db21w5~x2/sett.png" alt="Coinean Dubh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db50k12db21w5~x2/">Coinean Dubh</a></td><td></td><td><code>DB/100 K24 DB42 W/10</code></td><td>242</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/db50k12db21w5~x2/"><img src="/variants/s4/db50k12db21w5~x2/sett.png" alt="Coinean Dubh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

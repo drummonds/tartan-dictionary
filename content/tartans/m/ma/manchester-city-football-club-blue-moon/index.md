@@ -13,10 +13,10 @@ Its design is pattern [BWBBBKBWBGBW](/stripes/bwbbbkbwbgbw/) — the page of eve
 The **Manchester City Football Club "Blue Moon"** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db4lb16db4dr2db2k2db2w5db3y2db2lb2~x2/">Manchester City Football Club &quot;Blue Moon&quot;</a></td><td><code>DB/8 LB32 DB8 DR4 DB4 K4 DB4 W10 DB6 Y4 DB4 LB/4</code></td><td>172</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db4lb16db4dr2db2k2db2w5db3y2db2lb2~x2/"><img src="/variants/s12/db4lb16db4dr2db2k2db2w5db3y2db2lb2~x2/sett.png" alt="Manchester City Football Club &quot;Blue Moon&quot; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db4lb16db4dr2db2k2db2w5db3y2db2lb2~x2/">Manchester City Football Club &quot;Blue Moon&quot;</a></td><td></td><td><code>DB/8 LB32 DB8 DR4 DB4 K4 DB4 W10 DB6 Y4 DB4 LB/4</code></td><td>172</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db4lb16db4dr2db2k2db2w5db3y2db2lb2~x2/"><img src="/variants/s12/db4lb16db4dr2db2k2db2w5db3y2db2lb2~x2/sett.png" alt="Manchester City Football Club &quot;Blue Moon&quot; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

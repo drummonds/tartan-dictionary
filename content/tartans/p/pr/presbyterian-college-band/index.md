@@ -13,10 +13,10 @@ Its design is pattern [BKWKBKR](/stripes/bkwkbkr/) — the page of every tartan 
 The **Presbyterian College Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r28k2p36k2w4k2p7~x2/">Presbyterian College Band</a></td><td><code>R/56 K4 P72 K4 W8 K4 P/14</code></td><td>254</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r28k2p36k2w4k2p7~x2/"><img src="/variants/s7/r28k2p36k2w4k2p7~x2/sett.png" alt="Presbyterian College Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r28k2p36k2w4k2p7~x2/">Presbyterian College Band</a></td><td></td><td><code>R/56 K4 P72 K4 W8 K4 P/14</code></td><td>254</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r28k2p36k2w4k2p7~x2/"><img src="/variants/s7/r28k2p36k2w4k2p7~x2/sett.png" alt="Presbyterian College Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GWGRGRGRGW](/stripes/gwgrgrgrgw/) — the page of every t
 The **Dundee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/">Dundee</a></td><td><code>G/6 W4 G6 R2 G12 R6 G6 R2 G4 W/6</code></td><td>96</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/"><img src="/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/sett.png" alt="Dundee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/">Dundee</a></td><td></td><td><code>G/6 W4 G6 R2 G12 R6 G6 R2 G4 W/6</code></td><td>96</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/"><img src="/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/sett.png" alt="Dundee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

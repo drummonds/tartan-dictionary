@@ -13,10 +13,10 @@ Its design is pattern [BKWGWKBK](/stripes/bkwgwkbk/) — the page of every tarta
 The **South African Air Force** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/">South African Air Force</a></td><td><code>DB/60 K56 LB4 Y8 LB4 K56 DB60 K/8</code></td><td>444</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><img src="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/sett.png" alt="South African Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/">South African Air Force</a></td><td></td><td><code>DB/60 K56 LB4 Y8 LB4 K56 DB60 K/8</code></td><td>444</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><img src="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/sett.png" alt="South African Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

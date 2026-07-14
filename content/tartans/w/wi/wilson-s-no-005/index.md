@@ -13,10 +13,10 @@ Its design is pattern [GRGWRWGRGW](/stripes/grgwrwgrgw/) — the page of every t
 The **Wilson's No.005** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/">Wilson's No.005</a></td><td><code>G/10 R8 G34 LT10 R64 LT10 G34 R8 G10 W/4</code></td><td>370</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/"><img src="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/sett.png" alt="Wilson's No.005 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/">Wilson's No.005</a></td><td></td><td><code>G/10 R8 G34 LT10 R64 LT10 G34 R8 G10 W/4</code></td><td>370</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/"><img src="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/sett.png" alt="Wilson's No.005 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ One of Polly Wittering's Irish county district tartans for House of Edgar, in so
 The **Carlow Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/">Carlow Irish County</a></td><td><code>DP/40 DG4 DP4 DG4 DP4 DG16 K48 DG4 K/6</code></td><td>214</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/"><img src="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/sett.png" alt="Carlow Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/">Carlow Irish County</a></td><td></td><td><code>DP/40 DG4 DP4 DG4 DP4 DG16 K48 DG4 K/6</code></td><td>214</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/"><img src="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/sett.png" alt="Carlow Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

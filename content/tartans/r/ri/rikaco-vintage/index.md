@@ -16,10 +16,10 @@ Its design is pattern [BBBBRBBB](/stripes/bbbbrbbb/) — the page of every tarta
 The **Rikaco Vintage** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/n74dp9n4r5n4dp9n37db9~x2/">Rikaco Vintage</a></td><td><code>N/148 DP18 N8 R10 N8 DP18 N74 DB/18</code></td><td>438</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n74dp9n4r5n4dp9n37db9~x2/"><img src="/variants/s8/n74dp9n4r5n4dp9n37db9~x2/sett.png" alt="Rikaco Vintage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n74dp9n4r5n4dp9n37db9~x2/">Rikaco Vintage</a></td><td></td><td><code>N/148 DP18 N8 R10 N8 DP18 N74 DB/18</code></td><td>438</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/n74dp9n4r5n4dp9n37db9~x2/"><img src="/variants/s8/n74dp9n4r5n4dp9n37db9~x2/sett.png" alt="Rikaco Vintage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

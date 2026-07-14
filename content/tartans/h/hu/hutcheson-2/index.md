@@ -20,10 +20,10 @@ Designed in 2000 by Colin Hutcheson to mark his family's Borders textile career;
 The **Hutcheson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/">Hutcheson</a></td><td><code>DG/60 LO6 DG8 LO6 DG60 R60 Y8 DB16 Y8 R/60</code></td><td>464</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/"><img src="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/sett.png" alt="Hutcheson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/">Hutcheson</a></td><td></td><td><code>DG/60 LO6 DG8 LO6 DG60 R60 Y8 DB16 Y8 R/60</code></td><td>464</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/"><img src="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/sett.png" alt="Hutcheson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

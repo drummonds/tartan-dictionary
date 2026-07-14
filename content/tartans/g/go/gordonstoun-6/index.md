@@ -18,10 +18,10 @@ Its design is pattern [RGRKRKWRKRGRWBRGGGRBW](/stripes/rgrkrkwrkrgrwbrgggrbw/) �
 The **Gordonstoun** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/">Gordonstoun</a></td><td><code>R/16 G16 R4 K28 R4 K4 LB4 R4 K28 R4 G16 R16 LB4 DB16 R4 G28 Y4 G28 R4 DB16 LB/4</code></td><td>484</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/"><img src="/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/sett.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/">Gordonstoun</a></td><td></td><td><code>R/16 G16 R4 K28 R4 K4 LB4 R4 K28 R4 G16 R16 LB4 DB16 R4 G28 Y4 G28 R4 DB16 LB/4</code></td><td>484</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/"><img src="/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/sett.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

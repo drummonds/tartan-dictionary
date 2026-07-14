@@ -15,10 +15,10 @@ Created 2010 for Alan Stone's family, its colours symbolise Stone origins in Cor
 The **Alan Stone** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r2w6k12db36n12y1~x2/">Alan Stone</a></td><td><code>R/4 W12 K24 DB72 N24 Y/2</code></td><td>270</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r2w6k12db36n12y1~x2/"><img src="/variants/s6/r2w6k12db36n12y1~x2/sett.png" alt="Alan Stone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r2w6k12db36n12y1~x2/">Alan Stone</a></td><td></td><td><code>R/4 W12 K24 DB72 N24 Y/2</code></td><td>270</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r2w6k12db36n12y1~x2/"><img src="/variants/s6/r2w6k12db36n12y1~x2/sett.png" alt="Alan Stone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

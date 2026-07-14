@@ -13,10 +13,10 @@ Its design is pattern [BGGRGRGRGRGRGRGRGGBGRGRGRGRGRGRGRGBR](/stripes/bggrgrgrgr
 The **Nova, Scotia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/">Nova, Scotia</a></td><td><code>DB/50 DG4 G6 O28 G1 O1 G1 O1 G1 O1 G1 O1 G1 O1 G1 O1 G8 DG24 DB12 DG4 O20 DG1 O1 DG1 O1 DG1 O1 DG1 O1 DG1 O1 DG1 O1 DG8 DB8 O/16</code></td><td>358</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/"><img src="/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/sett.png" alt="Nova, Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/">Nova, Scotia</a></td><td></td><td><code>DB/50 DG4 G6 O28 G1 O1 G1 O1 G1 O1 G1 O1 G1 O1 G1 O1 G8 DG24 DB12 DG4 O20 DG1 O1 DG1 O1 DG1 O1 DG1 O1 DG1 O1 DG1 O1 DG8 DB8 O/16</code></td><td>358</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/"><img src="/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/sett.png" alt="Nova, Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

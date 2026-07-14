@@ -16,10 +16,10 @@ Its design is pattern [BKBKBKBWBKBKB](/stripes/bkbkbkbwbkbkb/) — the page of e
 The **Poulter, Jet** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/">Poulter, Jet</a></td><td><code>N/25 K8 N8 K8 N8 K46 DB46 W8 DB46 K46 N46 K8 N/8</code></td><td>589</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/"><img src="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/sett.png" alt="Poulter, Jet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/">Poulter, Jet</a></td><td></td><td><code>N/25 K8 N8 K8 N8 K46 DB46 W8 DB46 K46 N46 K8 N/8</code></td><td>589</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/"><img src="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/sett.png" alt="Poulter, Jet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

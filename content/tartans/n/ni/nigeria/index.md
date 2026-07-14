@@ -13,10 +13,10 @@ Its design is pattern [WBKGWGKWGWGWGW](/stripes/wbkgwgkwgwgwgw/) — the page of
 The **Nigeria** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/">Nigeria</a></td><td><code>W/8 DB48 K2 DG16 W16 DG16 K2 W8 DG4 W2 DG4 W8 DG16 W/8</code></td><td>300</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><img src="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/sett.png" alt="Nigeria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/">Nigeria</a></td><td></td><td><code>W/8 DB48 K2 DG16 W16 DG16 K2 W8 DG4 W2 DG4 W8 DG16 W/8</code></td><td>300</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><img src="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/sett.png" alt="Nigeria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

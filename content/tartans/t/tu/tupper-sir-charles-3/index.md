@@ -13,10 +13,10 @@ Its design is pattern [BRGRGRBRGR](/stripes/brgrgrbrgr/) — the page of every t
 The **Tupper., Sir Charles..** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/">Tupper., Sir Charles..</a></td><td><code>DB/8 O14 Y6 O24 G30 O10 DB40 O10 G8 O/4</code></td><td>296</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><img src="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/sett.png" alt="Tupper., Sir Charles.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/">Tupper., Sir Charles..</a></td><td></td><td><code>DB/8 O14 Y6 O24 G30 O10 DB40 O10 G8 O/4</code></td><td>296</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><img src="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/sett.png" alt="Tupper., Sir Charles.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

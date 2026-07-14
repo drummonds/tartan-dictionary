@@ -15,10 +15,10 @@ Based on an abandoned 1940s clan weave; by 2005 worn solely by James MacAvoy.
 The **McAvoy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y3dg5k2dg5w1dg17db4r1db22w2~x2/">McAvoy</a></td><td><code>Y/6 DG10 K4 DG10 W2 DG34 DB8 R2 DB44 W/4</code></td><td>238</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y3dg5k2dg5w1dg17db4r1db22w2~x2/"><img src="/variants/s10/y3dg5k2dg5w1dg17db4r1db22w2~x2/sett.png" alt="McAvoy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y3dg5k2dg5w1dg17db4r1db22w2~x2/">McAvoy</a></td><td></td><td><code>Y/6 DG10 K4 DG10 W2 DG34 DB8 R2 DB44 W/4</code></td><td>238</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y3dg5k2dg5w1dg17db4r1db22w2~x2/"><img src="/variants/s10/y3dg5k2dg5w1dg17db4r1db22w2~x2/sett.png" alt="McAvoy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

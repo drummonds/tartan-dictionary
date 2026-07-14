@@ -18,10 +18,10 @@ Its design is pattern [RBRWRKRBKY](/stripes/rbrwrkrbky/) — the page of every t
 The **Keogh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/">Keogh</a></td><td><code>R/8 T36 R8 LB6 R8 K24 R6 T48 K4 LY/6</code></td><td>294</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/"><img src="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/sett.png" alt="Keogh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/">Keogh</a></td><td></td><td><code>R/8 T36 R8 LB6 R8 K24 R6 T48 K4 LY/6</code></td><td>294</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/"><img src="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/sett.png" alt="Keogh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

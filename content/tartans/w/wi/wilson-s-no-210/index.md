@@ -13,10 +13,10 @@ Its design is pattern [GW](/stripes/gw/) — the page of every tartan sharing th
 The **Wilson's No.210** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s2/g7lb6~x2/">Wilson's No.210</a></td><td><code>G/14 LB/12</code></td><td>26</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s2/g7lb6~x2/"><img src="/variants/s2/g7lb6~x2/sett.png" alt="Wilson's No.210 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s2/g7lb6~x2/">Wilson's No.210</a></td><td></td><td><code>G/14 LB/12</code></td><td>26</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s2/g7lb6~x2/"><img src="/variants/s2/g7lb6~x2/sett.png" alt="Wilson's No.210 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

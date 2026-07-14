@@ -18,10 +18,10 @@ Its design is pattern [BRKRKRKRKBRW](/stripes/brkrkrkrkbrw/) — the page of eve
 The **MacKinnon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/">MacKinnon</a></td><td><code>DP/6 R8 K10 R24 K48 R6 K20 R52 K24 DP6 R12 W/6</code></td><td>432</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><img src="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/">MacKinnon</a></td><td></td><td><code>DP/6 R8 K10 R24 K48 R6 K20 R52 K24 DP6 R12 W/6</code></td><td>432</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><img src="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

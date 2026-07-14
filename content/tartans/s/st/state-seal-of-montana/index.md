@@ -13,10 +13,10 @@ Its design is pattern [BGGGGYBBBBYB](/stripes/bggggybbbbyb/) — the page of eve
 The **State Seal of Montana** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/">State Seal of Montana</a></td><td><code>DB/8 LY8 DB52 T10 DB10 T16 LY20 G16 DG10 G10 DG44 N/6</code></td><td>406</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/"><img src="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/sett.png" alt="State Seal of Montana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/">State Seal of Montana</a></td><td></td><td><code>DB/8 LY8 DB52 T10 DB10 T16 LY20 G16 DG10 G10 DG44 N/6</code></td><td>406</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/"><img src="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/sett.png" alt="State Seal of Montana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

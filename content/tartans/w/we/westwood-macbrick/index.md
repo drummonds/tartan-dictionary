@@ -16,10 +16,10 @@ Its design is pattern [KRKRWRKRKRKRW](/stripes/krkrwrkrkrkrw/) — the page of e
 The **Westwood MacBrick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/">Westwood MacBrick</a></td><td><code>K/22 R4 K22 R40 W4 R40 K14 R2 K14 R2 K14 R22 W/2</code></td><td>380</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/"><img src="/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/sett.png" alt="Westwood MacBrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/">Westwood MacBrick</a></td><td></td><td><code>K/22 R4 K22 R40 W4 R40 K14 R2 K14 R2 K14 R22 W/2</code></td><td>380</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/"><img src="/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/sett.png" alt="Westwood MacBrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

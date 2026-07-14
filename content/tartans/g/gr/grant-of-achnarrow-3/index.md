@@ -20,10 +20,10 @@ A deliberate Lochcarron mis-weave of Grant of Achnarrow (1983, count misread by 
 The **Grant of Achnarrow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w9b4w40dg9db1w3k3w20b18dg4b6w3~x2/">Grant of Achnarrow</a></td><td><code>W/18 B8 W80 DG18 DB2 W6 K6 W40 B36 DG8 B12 W/6</code></td><td>456</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w9b4w40dg9db1w3k3w20b18dg4b6w3~x2/"><img src="/variants/s12/w9b4w40dg9db1w3k3w20b18dg4b6w3~x2/sett.png" alt="Grant of Achnarrow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w9b4w40dg9db1w3k3w20b18dg4b6w3~x2/">Grant of Achnarrow</a></td><td></td><td><code>W/18 B8 W80 DG18 DB2 W6 K6 W40 B36 DG8 B12 W/6</code></td><td>456</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w9b4w40dg9db1w3k3w20b18dg4b6w3~x2/"><img src="/variants/s12/w9b4w40dg9db1w3k3w20b18dg4b6w3~x2/sett.png" alt="Grant of Achnarrow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

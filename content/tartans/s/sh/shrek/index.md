@@ -13,11 +13,11 @@ Its design is pattern [GGGGGYGYYYYY](/stripes/gggggygyyyyy/) — the page of eve
 The **Shrek** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/">Shrek</a></td><td><code>DY/8 DG6 DY60 Y24 DG10 LG8 DG6 LG28 LGi4 LG4 LGi20 LY/6</code></td><td>354</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/"><img src="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/sett.png" alt="Shrek sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/">Shrek</a> · <a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~y2204115-lgi3205128/">(Fashion)</a></td></tr>
+<tr><td><a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/">Shrek</a></td><td></td><td><code>DY/8 DG6 DY60 Y24 DG10 LG8 DG6 LG28 LGi4 LG4 LGi20 LY/6</code></td><td>354</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/"><img src="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/sett.png" alt="Shrek sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/">Shrek</a> · <a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~y2204115-lgi3205128/">(Fashion)</a></td></tr>
 </tbody>
 </table>
 

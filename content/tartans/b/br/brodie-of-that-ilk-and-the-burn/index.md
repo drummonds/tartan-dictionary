@@ -18,10 +18,10 @@ Its design is pattern [RWBKRBRY](/stripes/rwbkrbry/) — the page of every tarta
 The **Brodie of that Ilk and The Burn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r48w4db4k4r12db4r1ly4~x2/">Brodie of that Ilk and The Burn</a></td><td><code>R/96 W8 DB8 K8 R24 DB8 R2 LY/8</code></td><td>220</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r48w4db4k4r12db4r1ly4~x2/"><img src="/variants/s8/r48w4db4k4r12db4r1ly4~x2/sett.png" alt="Brodie of that Ilk and The Burn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r48w4db4k4r12db4r1ly4~x2/">Brodie of that Ilk and The Burn</a></td><td></td><td><code>R/96 W8 DB8 K8 R24 DB8 R2 LY/8</code></td><td>220</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r48w4db4k4r12db4r1ly4~x2/"><img src="/variants/s8/r48w4db4k4r12db4r1ly4~x2/sett.png" alt="Brodie of that Ilk and The Burn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

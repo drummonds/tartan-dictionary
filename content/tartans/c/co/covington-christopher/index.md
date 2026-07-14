@@ -13,10 +13,10 @@ Its design is pattern [BYBKBKWKBBWK](/stripes/bybkbkwkbbwk/) — the page of eve
 The **Covington, Christopher** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/">Covington, Christopher</a></td><td><code>K/66 W6 B4 DB14 K4 W6 K10 B42 K30 B2 LG36 B/2</code></td><td>376</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/"><img src="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/sett.png" alt="Covington, Christopher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/">Covington, Christopher</a></td><td></td><td><code>K/66 W6 B4 DB14 K4 W6 K10 B42 K30 B2 LG36 B/2</code></td><td>376</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/"><img src="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/sett.png" alt="Covington, Christopher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

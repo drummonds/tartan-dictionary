@@ -34,8 +34,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/"><img src="/variants/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/sett.png" alt="Schneidersohne Centenary" width="140"><br>Schneidersohne Centenary</a></li>
 <li><a class="tartan" href="/variants/s14/k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/"><img src="/variants/s14/k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/sett.png" alt="Schneidersohne Centenary (Corporate)" width="140"><br>Schneidersohne Centenary (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s6/lo24k5lo4k2lo3k2~x2/"><img src="/variants/s6/lo24k5lo4k2lo3k2~x2/sett.png" alt="Schranz-Gritte (Corporate)" width="140"><br>Schranz-Gritte (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s12/g6k6r1w1k6g32k6r1w1k6g6y2~x4/"><img src="/variants/s12/g6k6r1w1k6g32k6r1w1k6g6y2~x4/sett.png" alt="Schwarzen Keiler, Die" width="140"><br>Schwarzen Keiler, Die</a></li>
 <li><a class="tartan" href="/variants/s12/dg6k6r1w1k6dg32k6r1w1k6dg6y2~x4/"><img src="/variants/s12/dg6k6r1w1k6dg32k6r1w1k6dg6y2~x4/sett.png" alt="Schwarzen Keiler, Die" width="140"><br>Schwarzen Keiler, Die</a></li>
+<li><a class="tartan" href="/variants/s12/g6k6r1w1k6g32k6r1w1k6g6y2~x4/"><img src="/variants/s12/g6k6r1w1k6g32k6r1w1k6g6y2~x4/sett.png" alt="Schwarzen Keiler, Die" width="140"><br>Schwarzen Keiler, Die</a></li>
 <li><a class="tartan" href="/variants/s14/lb16db2lb2db2lb3db6y52db6lb3db2lb2db2lb16dr3~x2/"><img src="/variants/s14/lb16db2lb2db2lb3db6y52db6lb3db2lb2db2lb16dr3~x2/sett.png" alt="Scotch House (Corporate)" width="140"><br>Scotch House (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s8/y52db6lb3db2lb2db2lb16dr3~x2/"><img src="/variants/s8/y52db6lb3db2lb2db2lb16dr3~x2/sett.png" alt="Scotch House (Corporate)" width="140"><br>Scotch House (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~dt1500000/"><img src="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~dt1500000/sett.png" alt="Scotch Mist" width="140"><br>Scotch Mist</a></li>
@@ -58,8 +58,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><img src="/variants/s9/db46y4db4y4db6k16n66w11r6/sett.png" alt="Scottish Association for N.S. (Corp)" width="140"><br>Scottish Association for N.S. (Corp)</a></li>
 <li><a class="tartan" href="/variants/s9/db46y4db4y4db6k16n66lb11r6/"><img src="/variants/s9/db46y4db4y4db6k16n66lb11r6/sett.png" alt="Scottish Association for Neurological Sciences" width="140"><br>Scottish Association for Neurological Sciences</a></li>
 <li><a class="tartan" href="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/"><img src="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/sett.png" alt="Scottish Bakers" width="140"><br>Scottish Bakers</a></li>
-<li><a class="tartan" href="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/"><img src="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/sett.png" alt="Scottish Ballet" width="140"><br>Scottish Ballet</a></li>
 <li><a class="tartan" href="/variants/s6/y5n22o15lp11o5n2~x2~o2404317-lp3004317/"><img src="/variants/s6/y5n22o15lp11o5n2~x2~o2404317-lp3004317/sett.png" alt="Scottish Ballet" width="140"><br>Scottish Ballet</a></li>
+<li><a class="tartan" href="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/"><img src="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/sett.png" alt="Scottish Ballet" width="140"><br>Scottish Ballet</a></li>
 <li><a class="tartan" href="/variants/s13/db80k34w4t8w4k8w4t8w4k34db80w1t8~x2/"><img src="/variants/s13/db80k34w4t8w4k8w4t8w4k34db80w1t8~x2/sett.png" alt="Scottish Bluebell" width="140"><br>Scottish Bluebell</a></li>
 <li><a class="tartan" href="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/"><img src="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/sett.png" alt="Scottish Borders Tourist Board" width="140"><br>Scottish Borders Tourist Board</a></li>
 <li><a class="tartan" href="/variants/s9/db3g4db24g6w3g4r3g8ly3~x2/"><img src="/variants/s9/db3g4db24g6w3g4r3g8ly3~x2/sett.png" alt="Scottish Borders Tourist Board (Corp" width="140"><br>Scottish Borders Tourist Board (Corp</a></li>
@@ -164,8 +164,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/"><img src="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/sett.png" alt="Silversea (Corporate)" width="140"><br>Silversea (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s4/y20k15y20w3~x2/"><img src="/variants/s4/y20k15y20w3~x2/sett.png" alt="Silvicola" width="140"><br>Silvicola</a></li>
 <li><a class="tartan" href="/variants/s3/k15y20w3~x2/"><img src="/variants/s3/k15y20w3~x2/sett.png" alt="Silvicola (Corporate)" width="140"><br>Silvicola (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s6/dp2g3lp21dp42w1g2~x2/"><img src="/variants/s6/dp2g3lp21dp42w1g2~x2/sett.png" alt="SiMBA" width="140"><br>SiMBA</a></li>
 <li><a class="tartan" href="/variants/s6/dp2g3o21dp42w1g2~x2/"><img src="/variants/s6/dp2g3o21dp42w1g2~x2/sett.png" alt="SiMBA" width="140"><br>SiMBA</a></li>
+<li><a class="tartan" href="/variants/s6/dp2g3lp21dp42w1g2~x2/"><img src="/variants/s6/dp2g3lp21dp42w1g2~x2/sett.png" alt="SiMBA" width="140"><br>SiMBA</a></li>
 <li><a class="tartan" href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><img src="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/sett.png" alt="Simple Technology" width="140"><br>Simple Technology</a></li>
 <li><a class="tartan" href="/variants/s5/r3g28db9dg18w3~x2/"><img src="/variants/s5/r3g28db9dg18w3~x2/sett.png" alt="Simple Technology (Corporate)" width="140"><br>Simple Technology (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><img src="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/sett.png" alt="Sin-Cos" width="140"><br>Sin-Cos</a></li>
@@ -313,7 +313,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/k4g21k10r2k10db21k4db4k4~x2/"><img src="/variants/s9/k4g21k10r2k10db21k4db4k4~x2/sett.png" alt="Swallow Hotels" width="140"><br>Swallow Hotels</a></li>
 <li><a class="tartan" href="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/"><img src="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/sett.png" alt="Swiss Highlander" width="140"><br>Swiss Highlander</a></li>
 <li><a class="tartan" href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/"><img src="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/sett.png" alt="Swiss Highlander (Corporate)" width="140"><br>Swiss Highlander (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><img src="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/sett.png" alt="Sydney Academy" width="140"><br>Sydney Academy</a></li>
 <li><a class="tartan" href="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/"><img src="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/sett.png" alt="Sydney Academy" width="140"><br>Sydney Academy</a></li>
+<li><a class="tartan" href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><img src="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/sett.png" alt="Sydney Academy" width="140"><br>Sydney Academy</a></li>
 <li><a class="tartan" href="/variants/s12/lb13dg16r5w5r5dg34lb21g13r3w2r1g9~x2/"><img src="/variants/s12/lb13dg16r5w5r5dg34lb21g13r3w2r1g9~x2/sett.png" alt="SYHA Hostelling Scotland" width="140"><br>SYHA Hostelling Scotland</a></li>
 </ul>

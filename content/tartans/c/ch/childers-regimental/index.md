@@ -16,10 +16,10 @@ Its design is pattern [KGKGKR](/stripes/kgkgkr/) — the page of every tartan sh
 The **Childers Regimental** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/">Childers Regimental</a></td><td><code>K/176 G34 K16 DG56 K16 R/12</code></td><td>432</td><td>1907</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><img src="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/sett.png" alt="Childers Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/">Childers Regimental</a></td><td></td><td><code>K/176 G34 K16 DG56 K16 R/12</code></td><td>432</td><td>1907</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/"><img src="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/sett.png" alt="Childers Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

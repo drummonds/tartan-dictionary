@@ -16,10 +16,10 @@ Its design is pattern [GWGGKBRBWWG](/stripes/gwggkbrbwwg/) — the page of every
 The **Jones, Alexander Michael** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg34w6g20yi20k2dr2r2dr2lb24w40y13~g1903114-yi2303114/">Jones, Alexander Michael</a></td><td><code>DG/34 W6 G20 Yi20 K2 DR2 R2 DR2 LB24 W40 Y/13</code></td><td>283</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg34w6g20yi20k2dr2r2dr2lb24w40y13~g1903114-yi2303114/"><img src="/variants/s11/dg34w6g20yi20k2dr2r2dr2lb24w40y13~g1903114-yi2303114/sett.png" alt="Jones, Alexander Michael sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg34w6g20yi20k2dr2r2dr2lb24w40y13~g1903114-yi2303114/">Jones, Alexander Michael</a></td><td></td><td><code>DG/34 W6 G20 Yi20 K2 DR2 R2 DR2 LB24 W40 Y/13</code></td><td>283</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg34w6g20yi20k2dr2r2dr2lb24w40y13~g1903114-yi2303114/"><img src="/variants/s11/dg34w6g20yi20k2dr2r2dr2lb24w40y13~g1903114-yi2303114/sett.png" alt="Jones, Alexander Michael sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

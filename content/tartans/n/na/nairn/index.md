@@ -20,10 +20,10 @@ Appeared c.1930 in Anderson of Edinburgh's collection; worn by the Spencer-Nairn
 The **Nairn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dr2g10db10k5b2k5g10k10b2k10lo2~x2/">Nairn</a></td><td><code>DR/4 G20 DB20 K10 B4 K10 G20 K20 B4 K20 LO/4</code></td><td>264</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dr2g10db10k5b2k5g10k10b2k10lo2~x2/"><img src="/variants/s11/dr2g10db10k5b2k5g10k10b2k10lo2~x2/sett.png" alt="Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dr2g10db10k5b2k5g10k10b2k10lo2~x2/">Nairn</a></td><td></td><td><code>DR/4 G20 DB20 K10 B4 K10 G20 K20 B4 K20 LO/4</code></td><td>264</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dr2g10db10k5b2k5g10k10b2k10lo2~x2/"><img src="/variants/s11/dr2g10db10k5b2k5g10k10b2k10lo2~x2/sett.png" alt="Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

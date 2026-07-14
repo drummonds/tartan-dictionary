@@ -13,10 +13,10 @@ Its design is pattern [BRBGBGBW](/stripes/brbgbgbw/) — the page of every tarta
 The **De Nardi Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/">De Nardi Hunting</a></td><td><code>DB/60 R6 DB6 Y6 DB6 G60 DB72 W/10</code></td><td>382</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><img src="/variants/s8/db30r3db3y3db3g30db36w5~x2/sett.png" alt="De Nardi Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/">De Nardi Hunting</a></td><td></td><td><code>DB/60 R6 DB6 Y6 DB6 G60 DB72 W/10</code></td><td>382</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><img src="/variants/s8/db30r3db3y3db3g30db36w5~x2/sett.png" alt="De Nardi Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

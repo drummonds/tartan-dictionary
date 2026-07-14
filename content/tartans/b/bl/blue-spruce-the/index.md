@@ -16,11 +16,11 @@ Its design is pattern [BWWWBBBWGW](/stripes/bwwwbbbwgw/) — the page of every t
 The **Blue Spruce, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2/">Blue Spruce, The</a></td><td><code>DB/2 W18 LB2 W2 DB3 T3 DB3 LB6 G24 W/2</code></td><td>—</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2/"><img src="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2/sett.png" alt="Blue Spruce, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2/">(Fashion)</a> · <a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2~t2105244/">Blue Spruce, The</a></td></tr>
+<tr><td><a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2/">Blue Spruce, The</a></td><td></td><td><code>DB/2 W18 LB2 W2 DB3 T3 DB3 LB6 G24 W/2</code></td><td>—</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2/"><img src="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2/sett.png" alt="Blue Spruce, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2/">(Fashion)</a> · <a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2~t2105244/">Blue Spruce, The</a></td></tr>
 </tbody>
 </table>
 

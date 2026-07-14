@@ -13,10 +13,10 @@ Its design is pattern [BKWKWKR](/stripes/bkwkwkr/) — the page of every tartan 
 The **Tyneside Blue, North Tyneside Pipe Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db62k22w3k2w2k3r1~x2/">Tyneside Blue, North Tyneside Pipe Band</a></td><td><code>DB/124 K44 W6 K4 W4 K6 R/2</code></td><td>254</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db62k22w3k2w2k3r1~x2/"><img src="/variants/s7/db62k22w3k2w2k3r1~x2/sett.png" alt="Tyneside Blue, North Tyneside Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db62k22w3k2w2k3r1~x2/">Tyneside Blue, North Tyneside Pipe Band</a></td><td></td><td><code>DB/124 K44 W6 K4 W4 K6 R/2</code></td><td>254</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db62k22w3k2w2k3r1~x2/"><img src="/variants/s7/db62k22w3k2w2k3r1~x2/sett.png" alt="Tyneside Blue, North Tyneside Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

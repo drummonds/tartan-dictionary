@@ -13,10 +13,10 @@ Its design is pattern [GBGBWY](/stripes/gbgbwy/) — the page of every tartan sh
 The **Ravetta, Phil** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/">Ravetta, Phil</a></td><td><code>G/20 DR10 Y2 DB100 W1 LG/10</code></td><td>256</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/"><img src="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/sett.png" alt="Ravetta, Phil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/">Ravetta, Phil</a></td><td></td><td><code>G/20 DR10 Y2 DB100 W1 LG/10</code></td><td>256</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/"><img src="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/sett.png" alt="Ravetta, Phil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

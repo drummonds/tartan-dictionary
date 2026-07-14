@@ -13,10 +13,10 @@ Its design is pattern [KKKKGBGBGKW](/stripes/kkkkgbgbgkw/) — the page of every
 The **Scottish Rugby Union** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/ki3k2ki22k9g2b2g2b2g8k2w3~x2~ki0604259/">Scottish Rugby Union</a></td><td><code>Ki/6 K4 Ki44 K18 G4 B4 G4 B4 G16 K4 W/6</code></td><td>216</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ki3k2ki22k9g2b2g2b2g8k2w3~x2~ki0604259/"><img src="/variants/s11/ki3k2ki22k9g2b2g2b2g8k2w3~x2~ki0604259/sett.png" alt="Scottish Rugby Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ki3k2ki22k9g2b2g2b2g8k2w3~x2~ki0604259/">Scottish Rugby Union</a></td><td></td><td><code>Ki/6 K4 Ki44 K18 G4 B4 G4 B4 G16 K4 W/6</code></td><td>216</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ki3k2ki22k9g2b2g2b2g8k2w3~x2~ki0604259/"><img src="/variants/s11/ki3k2ki22k9g2b2g2b2g8k2w3~x2~ki0604259/sett.png" alt="Scottish Rugby Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

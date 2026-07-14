@@ -15,15 +15,15 @@ The **Coronation** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db11w1r12db6r1db6w1~x4/">Coronation</a> ★</td><td><code>DB/11 W1 R12 DB6 R1 DB6 W/1</code></td><td>64</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db11w1r12db6r1db6w1~x4/"><img src="/variants/s7/db11w1r12db6r1db6w1~x4/sett.png" alt="Coronation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/db11w1r12db6r1db6w1~x2/">Coronation</a></td><td><code>DB/22 W2 R24 DB12 R2 DB12 W/2</code></td><td>128</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/db11w1r12db6r1db6w1~x4/">(1936) #2</a></td><td><code>DB/44 W4 R48 DB24 R4 DB24 W/4</code></td><td>256</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/db11w1r12db6r1db6w1~x2/">Coronation</a> · <a href="/variants/s7/db11w1r12db6r1db6w1~x4/">(1936) #2</a></td></tr>
-<tr><td><a href="/variants/s7/db7w1r7db4r2db4w2~x2/">Coronation</a></td><td><code>DB/14 W2 R14 DB8 R4 DB8 W/4</code></td><td>90</td><td>1936</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><img src="/variants/s7/db7w1r7db4r2db4w2~x2/sett.png" alt="Coronation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db11w1r12db6r1db6w1~x4/">Coronation</a> ★</td><td></td><td><code>DB/11 W1 R12 DB6 R1 DB6 W/1</code></td><td>64</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db11w1r12db6r1db6w1~x4/"><img src="/variants/s7/db11w1r12db6r1db6w1~x4/sett.png" alt="Coronation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/db11w1r12db6r1db6w1~x2/">Coronation</a></td><td>0.00</td><td><code>DB/22 W2 R24 DB12 R2 DB12 W/2</code></td><td>128</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/db11w1r12db6r1db6w1~x4/">(1936) #2</a></td><td>0.00</td><td><code>DB/44 W4 R48 DB24 R4 DB24 W/4</code></td><td>256</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/db11w1r12db6r1db6w1~x2/">Coronation</a> · <a href="/variants/s7/db11w1r12db6r1db6w1~x4/">(1936) #2</a></td></tr>
+<tr><td><a href="/variants/s7/db7w1r7db4r2db4w2~x2/">Coronation</a></td><td>0.45</td><td><code>DB/14 W2 R14 DB8 R4 DB8 W/4</code></td><td>90</td><td>1936</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><img src="/variants/s7/db7w1r7db4r2db4w2~x2/sett.png" alt="Coronation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GBBYGBG](/stripes/gbbygbg/) — the page of every tartan 
 The **Heather MacRae** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/">Heather MacRae</a></td><td><code>DG/4 DR24 DB22 LY12 DY12 DR24 DG/4</code></td><td>196</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><img src="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/sett.png" alt="Heather MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/">Heather MacRae</a></td><td></td><td><code>DG/4 DR24 DB22 LY12 DY12 DR24 DG/4</code></td><td>196</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><img src="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/sett.png" alt="Heather MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

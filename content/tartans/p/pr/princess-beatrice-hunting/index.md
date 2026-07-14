@@ -13,10 +13,10 @@ Its design is pattern [BRGRGBGBGKGKGG](/stripes/brgrgbgbgkgkgg/) — the page of
 The **Princess Beatrice Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2/">Princess Beatrice Hunting</a></td><td><code>DB/12 R6 G6 R6 G72 B12 G12 DB80 G6 K6 G6 K6 G16 Y/12</code></td><td>492</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2/"><img src="/variants/s14/db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2/sett.png" alt="Princess Beatrice Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2/">Princess Beatrice Hunting</a></td><td></td><td><code>DB/12 R6 G6 R6 G72 B12 G12 DB80 G6 K6 G6 K6 G16 Y/12</code></td><td>492</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2/"><img src="/variants/s14/db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2/sett.png" alt="Princess Beatrice Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

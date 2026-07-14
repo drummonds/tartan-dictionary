@@ -19,13 +19,13 @@ The **Paterson** tartan is one sett, recorded at 2 scales — the same proportio
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g3db12w1k12g13r2g2~x4/">Paterson</a></td><td><code>G/3 DB12 W1 K12 G13 R2 G/2</code></td><td>85</td><td>1945</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g3db12w1k12g13r2g2~x4/"><img src="/variants/s7/g3db12w1k12g13r2g2~x4/sett.png" alt="Paterson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/g3db12w1k12g13r2g2~x2/">(Personal)</a></td><td><code>G/6 DB24 W2 K24 G26 R4 G/4</code></td><td>170</td><td>1993</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/g3db12w1k12g13r2g2~x4/">MacFadzean/MacPhedran</a></td><td><code>G/12 DB48 W4 K48 G52 R8 G/8</code></td><td>340</td><td>1945</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/g3db12w1k12g13r2g2~x2/">(Personal)</a> · <a href="/variants/s7/g3db12w1k12g13r2g2~x4/">MacFadzean/MacPhedran</a></td></tr>
+<tr><td><a href="/variants/s7/g3db12w1k12g13r2g2~x4/">Paterson</a></td><td></td><td><code>G/3 DB12 W1 K12 G13 R2 G/2</code></td><td>85</td><td>1945</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g3db12w1k12g13r2g2~x4/"><img src="/variants/s7/g3db12w1k12g13r2g2~x4/sett.png" alt="Paterson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/g3db12w1k12g13r2g2~x2/">(Personal)</a></td><td>0.00</td><td><code>G/6 DB24 W2 K24 G26 R4 G/4</code></td><td>170</td><td>1993</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/g3db12w1k12g13r2g2~x4/">MacFadzean/MacPhedran</a></td><td>0.00</td><td><code>G/12 DB48 W4 K48 G52 R8 G/8</code></td><td>340</td><td>1945</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/g3db12w1k12g13r2g2~x2/">(Personal)</a> · <a href="/variants/s7/g3db12w1k12g13r2g2~x4/">MacFadzean/MacPhedran</a></td></tr>
 </tbody>
 </table>
 

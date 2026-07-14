@@ -13,10 +13,10 @@ Its design is pattern [RBBBGW](/stripes/rbbbgw/) — the page of every tartan sh
 The **Fox-Eves Wedding** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/">Fox-Eves Wedding</a></td><td><code>R/18 DB12 DBi26 DB42 Y36 W/8</code></td><td>258</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><img src="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/sett.png" alt="Fox-Eves Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/">Fox-Eves Wedding</a></td><td></td><td><code>R/18 DB12 DBi26 DB42 Y36 W/8</code></td><td>258</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><img src="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/sett.png" alt="Fox-Eves Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

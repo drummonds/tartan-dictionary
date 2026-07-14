@@ -18,10 +18,10 @@ Its design is pattern [WKRGKWRKW](/stripes/wkrgkwrkw/) — the page of every tar
 The **Graham** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/">Graham</a></td><td><code>LB/4 K4 R40 G40 K20 LB20 R40 K4 LB/4</code></td><td>344</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><img src="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/sett.png" alt="Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/">Graham</a></td><td></td><td><code>LB/4 K4 R40 G40 K20 LB20 R40 K4 LB/4</code></td><td>344</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><img src="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/sett.png" alt="Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

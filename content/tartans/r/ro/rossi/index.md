@@ -13,10 +13,10 @@ Its design is pattern [KGKGKRBRBRKGKW](/stripes/kgkgkrbrbrkgkw/) — the page of
 The **Rossi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k1y1k1g6k6r6db1r1db1r6k6g6k1lb1~x4/">Rossi</a></td><td><code>K/4 Y4 K4 G24 K24 R24 DB4 R4 DB4 R24 K24 G24 K4 LB/4</code></td><td>344</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k1y1k1g6k6r6db1r1db1r6k6g6k1lb1~x4/"><img src="/variants/s14/k1y1k1g6k6r6db1r1db1r6k6g6k1lb1~x4/sett.png" alt="Rossi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k1y1k1g6k6r6db1r1db1r6k6g6k1lb1~x4/">Rossi</a></td><td></td><td><code>K/4 Y4 K4 G24 K24 R24 DB4 R4 DB4 R24 K24 G24 K4 LB/4</code></td><td>344</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k1y1k1g6k6r6db1r1db1r6k6g6k1lb1~x4/"><img src="/variants/s14/k1y1k1g6k6r6db1r1db1r6k6g6k1lb1~x4/sett.png" alt="Rossi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

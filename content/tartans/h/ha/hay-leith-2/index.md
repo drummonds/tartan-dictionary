@@ -16,10 +16,10 @@ Its design is pattern [KRGKRBRGRBRKWGRGRGRGRK](/stripes/krgkrbrgrbrkwgrgrgrgrk/)
 The **Hay & Leith** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db1404245/">Hay &amp; Leith</a></td><td><code>K/7 R3 Y2 R60 G7 R2 Y2 R7 G50 W2 K50 R2 DB50 R7 Y2 R2 DB7 R60 K7 Y2 R3 K/7</code></td><td>668</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db1404245/"><img src="/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db1404245/sett.png" alt="Hay &amp; Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db1404245/">Hay &amp; Leith</a></td><td></td><td><code>K/7 R3 Y2 R60 G7 R2 Y2 R7 G50 W2 K50 R2 DB50 R7 Y2 R2 DB7 R60 K7 Y2 R3 K/7</code></td><td>668</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db1404245/"><img src="/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db1404245/sett.png" alt="Hay &amp; Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

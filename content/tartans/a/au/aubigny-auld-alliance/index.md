@@ -15,10 +15,10 @@ Based on Stewart of Atholl with colours from Aubigny-sur-Nère's crest, marking 
 The **Aubigny Auld Alliance** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r9k9dy4k2dy3k2dy20k2dy3k2dy4k9r18k2r5k2r9~x2/">Aubigny Auld Alliance</a></td><td><code>R/18 K18 DY8 K4 DY6 K4 DY40 K4 DY6 K4 DY8 K18 R36 K4 R10 K4 R/18</code></td><td>384</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r9k9dy4k2dy3k2dy20k2dy3k2dy4k9r18k2r5k2r9~x2/"><img src="/variants/s17/r9k9dy4k2dy3k2dy20k2dy3k2dy4k9r18k2r5k2r9~x2/sett.png" alt="Aubigny Auld Alliance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r9k9dy4k2dy3k2dy20k2dy3k2dy4k9r18k2r5k2r9~x2/">Aubigny Auld Alliance</a></td><td></td><td><code>R/18 K18 DY8 K4 DY6 K4 DY40 K4 DY6 K4 DY8 K18 R36 K4 R10 K4 R/18</code></td><td>384</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r9k9dy4k2dy3k2dy20k2dy3k2dy4k9r18k2r5k2r9~x2/"><img src="/variants/s17/r9k9dy4k2dy3k2dy20k2dy3k2dy4k9r18k2r5k2r9~x2/sett.png" alt="Aubigny Auld Alliance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

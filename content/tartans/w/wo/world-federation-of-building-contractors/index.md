@@ -13,10 +13,10 @@ Its design is pattern [RBBWW](/stripes/rbbww/) — the page of every tartan shar
 The **World Federation of Building Contractors** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/">World Federation of Building Contractors</a></td><td><code>W/8 LB88 DBi38 DB88 R/4</code></td><td>440</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/"><img src="/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/sett.png" alt="World Federation of Building Contractors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/">World Federation of Building Contractors</a></td><td></td><td><code>W/8 LB88 DBi38 DB88 R/4</code></td><td>440</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/"><img src="/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/sett.png" alt="World Federation of Building Contractors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

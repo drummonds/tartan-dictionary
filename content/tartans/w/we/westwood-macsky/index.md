@@ -16,10 +16,10 @@ Its design is pattern [GBBWBBGBBW](/stripes/gbbwbbgbbw/) — the page of every t
 The **Westwood MacSky** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/">Westwood MacSky</a></td><td><code>W/4 DB26 B26 Y4 B26 DB26 W4 DB12 B12 Y/2</code></td><td>278</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/"><img src="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/sett.png" alt="Westwood MacSky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/">Westwood MacSky</a></td><td></td><td><code>W/4 DB26 B26 Y4 B26 DB26 W4 DB12 B12 Y/2</code></td><td>278</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/"><img src="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/sett.png" alt="Westwood MacSky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

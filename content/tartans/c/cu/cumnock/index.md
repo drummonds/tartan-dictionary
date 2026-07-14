@@ -22,13 +22,13 @@ The **Cumnock** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/">Cumnock</a> ★</td><td><code>G/6 DB32 K6 DP4 K90 R2 K4 LO/6</code></td><td>288</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/"><img src="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png" alt="Cumnock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/">Cumnock</a> · <a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2~g2408144-db1607278-lo2907057/">District Tartan</a></td></tr>
-<tr><td><a href="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/">(District)</a></td><td><code>G/6 DB32 K6 DP4 K90 R2 K4 LR/6</code></td><td>288</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/"><img src="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/">Cumnock</a> ★</td><td></td><td><code>G/6 DB32 K6 DP4 K90 R2 K4 LO/6</code></td><td>288</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/"><img src="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png" alt="Cumnock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/">Cumnock</a> · <a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2~g2408144-db1607278-lo2907057/">District Tartan</a></td></tr>
+<tr><td><a href="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/">(District)</a></td><td>0.30</td><td><code>G/6 DB32 K6 DP4 K90 R2 K4 LR/6</code></td><td>288</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/"><img src="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

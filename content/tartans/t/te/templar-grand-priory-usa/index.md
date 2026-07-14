@@ -13,10 +13,10 @@ Its design is pattern [BKRW](/stripes/bkrw/) — the page of every tartan sharin
 The **Templar Grand Priory USA** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/db3k32r27w2~x2/">Templar Grand Priory USA</a></td><td><code>DB/6 K64 R54 W/4</code></td><td>246</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/db3k32r27w2~x2/"><img src="/variants/s4/db3k32r27w2~x2/sett.png" alt="Templar Grand Priory USA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db3k32r27w2~x2/">Templar Grand Priory USA</a></td><td></td><td><code>DB/6 K64 R54 W/4</code></td><td>246</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/db3k32r27w2~x2/"><img src="/variants/s4/db3k32r27w2~x2/sett.png" alt="Templar Grand Priory USA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

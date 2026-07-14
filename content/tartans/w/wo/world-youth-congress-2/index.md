@@ -13,10 +13,10 @@ Its design is pattern [BGBWGBWBWBWBGWBGBR](/stripes/bgbwgbwbwbwbgwbgbr/) — the
 The **World Youth Congress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/">World Youth Congress</a></td><td><code>DB/16 DY2 DB32 W2 G24 DB54 W2 DB2 W2 DB2 W2 DB54 G24 W2 DB32 DY2 DB16 R/4</code></td><td>528</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/"><img src="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/sett.png" alt="World Youth Congress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/">World Youth Congress</a></td><td></td><td><code>DB/16 DY2 DB32 W2 G24 DB54 W2 DB2 W2 DB2 W2 DB54 G24 W2 DB32 DY2 DB16 R/4</code></td><td>528</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/"><img src="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/sett.png" alt="World Youth Congress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

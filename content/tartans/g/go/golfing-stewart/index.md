@@ -13,10 +13,10 @@ Its design is pattern [GRKRKRKRBW](/stripes/grkrkrkrbw/) — the page of every t
 The **Golfing Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/">Golfing Stewart</a></td><td><code>DY/8 R4 K18 R50 K6 R4 K6 R8 DB30 W/6</code></td><td>266</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><img src="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="Golfing Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/">Golfing Stewart</a></td><td></td><td><code>DY/8 R4 K18 R50 K6 R4 K6 R8 DB30 W/6</code></td><td>266</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><img src="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="Golfing Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

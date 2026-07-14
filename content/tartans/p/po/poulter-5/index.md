@@ -20,10 +20,10 @@ One of four colourway corporate tartans for golfer Ian Poulter's fashion range; 
 The **Poulter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/">Poulter</a></td><td><code>W/50 K8 W8 K8 W8 K46 N46 W8 N46 K46 W46 K8 W/8</code></td><td>614</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/"><img src="/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/sett.png" alt="Poulter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/">Poulter</a></td><td></td><td><code>W/50 K8 W8 K8 W8 K46 N46 W8 N46 K46 W46 K8 W/8</code></td><td>614</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/"><img src="/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/sett.png" alt="Poulter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

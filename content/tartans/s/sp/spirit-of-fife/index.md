@@ -13,10 +13,10 @@ Its design is pattern [BGBRGBWG](/stripes/bgbrgbwg/) — the page of every tarta
 The **Spirit of Fife** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/">Spirit of Fife</a></td><td><code>DG/20 W4 DT6 G4 O28 DB52 DG4 DB/12</code></td><td>228</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/"><img src="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/sett.png" alt="Spirit of Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/">Spirit of Fife</a></td><td></td><td><code>DG/20 W4 DT6 G4 O28 DB52 DG4 DB/12</code></td><td>228</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/"><img src="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/sett.png" alt="Spirit of Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

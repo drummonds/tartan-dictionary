@@ -13,10 +13,10 @@ Its design is pattern [GRGKGKGKGKGRGW](/stripes/grgkgkgkgkgrgw/) — the page of
 The **Strath Hallidale** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/">Strath Hallidale</a></td><td><code>DG/26 R4 DG38 K30 DG10 K30 DG10 K30 DG10 K30 DG38 R4 DG26 LB/8</code></td><td>554</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/"><img src="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/sett.png" alt="Strath Hallidale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/">Strath Hallidale</a></td><td></td><td><code>DG/26 R4 DG38 K30 DG10 K30 DG10 K30 DG10 K30 DG38 R4 DG26 LB/8</code></td><td>554</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/"><img src="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/sett.png" alt="Strath Hallidale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

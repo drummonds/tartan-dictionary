@@ -15,10 +15,10 @@ Corporate tartan designed by Betty Davies of Scottish Fashion International, wit
 The **Bank of Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/b64db3dt4r5dt8dbi12b3dbi4b2lo1~x2~db1106275-r1606028-dbi1404245/">Bank of Scotland</a></td><td><code>B/128 DB6 DT8 R10 DT16 DBi24 B6 DBi8 B4 LO/2</code></td><td>294</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/b64db3dt4r5dt8dbi12b3dbi4b2lo1~x2~db1106275-r1606028-dbi1404245/"><img src="/variants/s10/b64db3dt4r5dt8dbi12b3dbi4b2lo1~x2~db1106275-r1606028-dbi1404245/sett.png" alt="Bank of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/b64db3dt4r5dt8dbi12b3dbi4b2lo1~x2~db1106275-r1606028-dbi1404245/">Bank of Scotland</a></td><td></td><td><code>B/128 DB6 DT8 R10 DT16 DBi24 B6 DBi8 B4 LO/2</code></td><td>294</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/b64db3dt4r5dt8dbi12b3dbi4b2lo1~x2~db1106275-r1606028-dbi1404245/"><img src="/variants/s10/b64db3dt4r5dt8dbi12b3dbi4b2lo1~x2~db1106275-r1606028-dbi1404245/sett.png" alt="Bank of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

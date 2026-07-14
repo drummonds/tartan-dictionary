@@ -13,10 +13,10 @@ Its design is pattern [KWRWKWKWKYGRWRWRGYKWKWKWRWKR](/stripes/kwrwkwkwkygrwrwrgy
 The **Wilson's No.043** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/">Wilson's No.043</a></td><td><code>K/10 W8 R38 LB24 K4 LB4 K4 LB24 K40 LY6 G52 R38 LB10 R40 LB10 R38 G52 LY6 K40 LB24 K4 LB4 K4 LB24 R38 W8 K10 R/10</code></td><td>1128</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/"><img src="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/sett.png" alt="Wilson's No.043 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/">Wilson's No.043</a></td><td></td><td><code>K/10 W8 R38 LB24 K4 LB4 K4 LB24 K40 LY6 G52 R38 LB10 R40 LB10 R38 G52 LY6 K40 LB24 K4 LB4 K4 LB24 R38 W8 K10 R/10</code></td><td>1128</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/"><img src="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/sett.png" alt="Wilson's No.043 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GBGBBBRWRBBBGBW](/stripes/gbgbbbrwrbbbgbw/) — the page 
 The **Wisconsin in Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dy1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1~x8/">Wisconsin in Scotland</a></td><td><code>DY/8 DB88 DY8 DR16 N8 DR16 R16 W8 R16 DR16 N8 DR16 DY8 DB88 W/8</code></td><td>640</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dy1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1~x8/"><img src="/variants/s15/dy1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1~x8/sett.png" alt="Wisconsin in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dy1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1~x8/">Wisconsin in Scotland</a></td><td></td><td><code>DY/8 DB88 DY8 DR16 N8 DR16 R16 W8 R16 DR16 N8 DR16 DY8 DB88 W/8</code></td><td>640</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dy1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1~x8/"><img src="/variants/s15/dy1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1~x8/sett.png" alt="Wisconsin in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

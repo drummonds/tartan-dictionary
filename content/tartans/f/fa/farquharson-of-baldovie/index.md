@@ -18,10 +18,10 @@ Its design is pattern [RBKBKBKGYGKBKR](/stripes/rbkbkbkgygkbkr/) — the page of
 The **Farquharson of Baldovie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r2k1db8k8dg8ly2dg8k8db1k1db1k1db4r1~x4/">Farquharson of Baldovie</a></td><td><code>R/8 K4 DB32 K32 DG32 LY8 DG32 K32 DB4 K4 DB4 K4 DB16 R/4</code></td><td>420</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r2k1db8k8dg8ly2dg8k8db1k1db1k1db4r1~x4/"><img src="/variants/s14/r2k1db8k8dg8ly2dg8k8db1k1db1k1db4r1~x4/sett.png" alt="Farquharson of Baldovie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r2k1db8k8dg8ly2dg8k8db1k1db1k1db4r1~x4/">Farquharson of Baldovie</a></td><td></td><td><code>R/8 K4 DB32 K32 DG32 LY8 DG32 K32 DB4 K4 DB4 K4 DB16 R/4</code></td><td>420</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r2k1db8k8dg8ly2dg8k8db1k1db1k1db4r1~x4/"><img src="/variants/s14/r2k1db8k8dg8ly2dg8k8db1k1db1k1db4r1~x4/sett.png" alt="Farquharson of Baldovie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

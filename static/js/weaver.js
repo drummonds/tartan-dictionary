@@ -576,6 +576,7 @@
     if (paper) paper.addEventListener('change', function () { paintSheet(info); });
     var scale = document.getElementById('weaver-print-scale');
     if (scale) scale.addEventListener('change', function () { paintSheet(info); });
+    paintTwills(info);
     var go = document.getElementById('weaver-print-go');
     if (go) go.addEventListener('click', function () { printSheet(info); });
     var pdf = document.getElementById('weaver-pdf');
@@ -588,6 +589,18 @@
   function paperSize() {
     var sel = document.getElementById('weaver-print-paper');
     return (sel && PAPER[sel.value]) ? sel.value : 'A4';
+  }
+
+  /* #182: fill the palette boxes' woven halves — each dye rendered as solid 2/2 twill at the
+   * cloth's own thread density and print resolution (20mm at 300dpi = 236px). */
+  function paintTwills(info) {
+    if (typeof window.weaver.solidTwill !== 'function') return;
+    var imgs = document.getElementsByClassName('weaver-print-twill');
+    var tpcm = (typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16;
+    for (var i = 0; i < imgs.length; i++) {
+      var png = window.weaver.solidTwill(imgs[i].getAttribute('data-hex'), 236, tpcm, 300);
+      if (png && !png.error) imgs[i].src = pngURL(png);
+    }
   }
 
   function printScale() {

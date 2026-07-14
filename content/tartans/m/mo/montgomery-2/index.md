@@ -20,12 +20,12 @@ The **Montgomery** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/g6db2g1~x4/">Montgomery</a> ★</td><td><code>G/24 DB8 G/4</code></td><td>44</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/g6db2g1~x4/"><img src="/variants/s3/g6db2g1~x4/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/dg6db2dg1~x8/">1842 (VS</a></td><td><code>DG/48 DB16 DG/8</code></td><td>88</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/dg6db2dg1~x8/"><img src="/variants/s3/dg6db2dg1~x8/sett.png" alt="1842 (VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/g6db2g1~x4/">Montgomery</a> ★</td><td></td><td><code>G/24 DB8 G/4</code></td><td>44</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/g6db2g1~x4/"><img src="/variants/s3/g6db2g1~x4/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/dg6db2dg1~x8/">1842 (VS</a></td><td>0.22</td><td><code>DG/48 DB16 DG/8</code></td><td>88</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/dg6db2dg1~x8/"><img src="/variants/s3/dg6db2dg1~x8/sett.png" alt="1842 (VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

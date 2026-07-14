@@ -15,10 +15,10 @@ Family tartan associated with Hopetoun House, collected by the Highland Society 
 The **Hope Vere** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1~x2~g2408144-dg1806142/">Hope Vere</a></td><td><code>G/38 K2 DG6 K2 G6 K18 DB40 K2 Y2 K14 Y2 K2 DB42 K24 G4 DG/2</code></td><td>372</td><td>~1815</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1~x2~g2408144-dg1806142/"><img src="/variants/s16/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1~x2~g2408144-dg1806142/sett.png" alt="Hope Vere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1~x2~g2408144-dg1806142/">Hope Vere</a></td><td></td><td><code>G/38 K2 DG6 K2 G6 K18 DB40 K2 Y2 K14 Y2 K2 DB42 K24 G4 DG/2</code></td><td>372</td><td>~1815</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1~x2~g2408144-dg1806142/"><img src="/variants/s16/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1~x2~g2408144-dg1806142/sett.png" alt="Hope Vere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

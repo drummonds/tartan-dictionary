@@ -13,10 +13,10 @@ Its design is pattern [BRGBRBGBGBGBGGR](/stripes/brgbrbgbgbgbggr/) — the page 
 The **Howells** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/">Howells</a></td><td><code>N/32 R2 G6 N10 R2 N10 G6 N8 G24 N28 Y2 N28 G24 Y4 R/12</code></td><td>352</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/"><img src="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/sett.png" alt="Howells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/">Howells</a></td><td></td><td><code>N/32 R2 G6 N10 R2 N10 G6 N8 G24 N28 Y2 N28 G24 Y4 R/12</code></td><td>352</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/"><img src="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/sett.png" alt="Howells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

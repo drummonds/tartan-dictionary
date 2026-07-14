@@ -15,12 +15,12 @@ The **Bell's Whisky** tartan groups 2 setts — the same named design recorded a
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/">Bell's Whisky</a> ★</td><td><code>R/12 W20 DY64 LY8 DY4 LY160 W24 O12 R/8</code></td><td>604</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/"><img src="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/sett.png" alt="Bell's Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/">(Corporate)</a></td><td><code>R/12 W20 DY64 LY8 DY4 LY160 W24 N12 R/8</code></td><td>604</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/"><img src="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/">Bell's Whisky</a> ★</td><td></td><td><code>R/12 W20 DY64 LY8 DY4 LY160 W24 O12 R/8</code></td><td>604</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/"><img src="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/sett.png" alt="Bell's Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/">(Corporate)</a></td><td>0.13</td><td><code>R/12 W20 DY64 LY8 DY4 LY160 W24 N12 R/8</code></td><td>604</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/"><img src="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

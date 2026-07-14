@@ -18,10 +18,10 @@ Its design is pattern [GWGRGGGRGRGRGRGRWRBRBRWRBRBRBR](/stripes/gwgrgggrgrgrgrgr
 The **Lumsden** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s30/r9db1r1db2r1db1r9w1r4db11r2db11r4w1r9g2r4g2r9g5r3g4r3g3y1g3r3g6w1g6~x2/">Lumsden</a></td><td><code>R/18 DB2 R2 DB4 R2 DB2 R18 W2 R8 DB22 R4 DB22 R8 W2 R18 G4 R8 G4 R18 G10 R6 G8 R6 G6 Y2 G6 R6 G12 W2 G/12</code></td><td>458</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s30/r9db1r1db2r1db1r9w1r4db11r2db11r4w1r9g2r4g2r9g5r3g4r3g3y1g3r3g6w1g6~x2/"><img src="/variants/s30/r9db1r1db2r1db1r9w1r4db11r2db11r4w1r9g2r4g2r9g5r3g4r3g3y1g3r3g6w1g6~x2/sett.png" alt="Lumsden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s30/r9db1r1db2r1db1r9w1r4db11r2db11r4w1r9g2r4g2r9g5r3g4r3g3y1g3r3g6w1g6~x2/">Lumsden</a></td><td></td><td><code>R/18 DB2 R2 DB4 R2 DB2 R18 W2 R8 DB22 R4 DB22 R8 W2 R18 G4 R8 G4 R18 G10 R6 G8 R6 G6 Y2 G6 R6 G12 W2 G/12</code></td><td>458</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s30/r9db1r1db2r1db1r9w1r4db11r2db11r4w1r9g2r4g2r9g5r3g4r3g3y1g3r3g6w1g6~x2/"><img src="/variants/s30/r9db1r1db2r1db1r9w1r4db11r2db11r4w1r9g2r4g2r9g5r3g4r3g3y1g3r3g6w1g6~x2/sett.png" alt="Lumsden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

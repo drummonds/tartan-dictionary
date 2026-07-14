@@ -13,10 +13,10 @@ Its design is pattern [BWBRRR](/stripes/bwbrrr/) — the page of every tartan sh
 The **Steffen, Morris** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/">Steffen, Morris</a></td><td><code>DB/140 W16 DB40 R12 Ri12 R/12</code></td><td>312</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><img src="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/sett.png" alt="Steffen, Morris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/">Steffen, Morris</a></td><td></td><td><code>DB/140 W16 DB40 R12 Ri12 R/12</code></td><td>312</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><img src="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/sett.png" alt="Steffen, Morris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

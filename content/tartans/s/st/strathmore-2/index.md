@@ -18,10 +18,10 @@ Its design is pattern [GBGBGBGBGBGBKBKK](/stripes/gbgbgbgbgbgbkbkk/) — the pag
 The **Strathmore** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3~x2/">Strathmore</a></td><td><code>K/16 DO4 K4 DO54 G4 DO4 G4 DO4 G36 DR4 G4 DR4 DG4 DR30 G/6</code></td><td>342</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3~x2/"><img src="/variants/s15/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3~x2/sett.png" alt="Strathmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3~x2/">Strathmore</a></td><td></td><td><code>K/16 DO4 K4 DO54 G4 DO4 G4 DO4 G36 DR4 G4 DR4 DG4 DR30 G/6</code></td><td>342</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3~x2/"><img src="/variants/s15/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3~x2/sett.png" alt="Strathmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

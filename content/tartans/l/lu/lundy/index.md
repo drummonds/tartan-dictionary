@@ -13,10 +13,10 @@ Its design is pattern [WGRGGKW](/stripes/wgrggkw/) — the page of every tartan 
 The **Lundy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/">Lundy</a></td><td><code>LB/8 K8 DG32 G32 R4 G4 W/4</code></td><td>172</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/"><img src="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/sett.png" alt="Lundy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/">Lundy</a></td><td></td><td><code>LB/8 K8 DG32 G32 R4 G4 W/4</code></td><td>172</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/"><img src="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/sett.png" alt="Lundy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,11 +13,11 @@ Its design is pattern [YBKBGKWKBKY](/stripes/ybkbgkwkbky/) — the page of every
 The **U.S. Customs & Border Protection (C** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4/">U.S. Customs &amp; Border Protection (C</a></td><td><code>LY/24 K7 DB1 K1 W1 K1 DY4 DR3 K1 DR2 LY/1</code></td><td>—</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4/"><img src="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4/sett.png" alt="U.S. Customs &amp; Border Protection (C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4/">U.S. Customs &amp; Border Protection (C</a> · <a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/">U.S. Customs &amp; Border Protection</a></td></tr>
+<tr><td><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4/">U.S. Customs &amp; Border Protection (C</a></td><td></td><td><code>LY/24 K7 DB1 K1 W1 K1 DY4 DR3 K1 DR2 LY/1</code></td><td>—</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4/"><img src="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4/sett.png" alt="U.S. Customs &amp; Border Protection (C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4/">U.S. Customs &amp; Border Protection (C</a> · <a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/">U.S. Customs &amp; Border Protection</a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GRGRBRGKGW](/stripes/grgrbrgkgw/) — the page of every t
 The **Hello Kitty** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/">Hello Kitty</a></td><td><code>Y/4 R6 DY6 R42 DB6 R4 DY12 K12 DY8 W/4</code></td><td>200</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/"><img src="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/sett.png" alt="Hello Kitty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/">Hello Kitty</a></td><td></td><td><code>Y/4 R6 DY6 R42 DB6 R4 DY12 K12 DY8 W/4</code></td><td>200</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/"><img src="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/sett.png" alt="Hello Kitty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

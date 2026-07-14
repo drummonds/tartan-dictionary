@@ -13,10 +13,10 @@ Its design is pattern [BGWGRGRGRGWGBG](/stripes/bgwgrgrgrgwgbg/) — the page of
 The **Welsh Assembly** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/">Welsh Assembly</a></td><td><code>N/18 G8 W10 G60 R4 G8 R4 G8 R4 G60 W10 G8 N18 G/10</code></td><td>432</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/"><img src="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/sett.png" alt="Welsh Assembly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/">Welsh Assembly</a></td><td></td><td><code>N/18 G8 W10 G60 R4 G8 R4 G8 R4 G60 W10 G8 N18 G/10</code></td><td>432</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/"><img src="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/sett.png" alt="Welsh Assembly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBBBKYKYKBBK](/stripes/bbbbkykykbbk/) — the page of eve
 The **Johnnie Walker** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/">Johnnie Walker</a></td><td><code>K/6 DB4 DR11 K36 LY5 K5 LY5 K8 DR30 DB10 DR8 DB/4</code></td><td>254</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/"><img src="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/sett.png" alt="Johnnie Walker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/">Johnnie Walker</a></td><td></td><td><code>K/6 DB4 DR11 K36 LY5 K5 LY5 K8 DR30 DB10 DR8 DB/4</code></td><td>254</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/"><img src="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/sett.png" alt="Johnnie Walker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

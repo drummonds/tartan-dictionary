@@ -18,10 +18,10 @@ Its design is pattern [WGWGWY](/stripes/wgwgwy/) — the page of every tartan sh
 The **Wallace Green Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w12g12w1g12w12ly1~x4/">Wallace Green Dress</a></td><td><code>W/48 G48 W4 G48 W48 LY/4</code></td><td>348</td><td>~2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w12g12w1g12w12ly1~x4/"><img src="/variants/s6/w12g12w1g12w12ly1~x4/sett.png" alt="Wallace Green Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w12g12w1g12w12ly1~x4/">Wallace Green Dress</a></td><td></td><td><code>W/48 G48 W4 G48 W48 LY/4</code></td><td>348</td><td>~2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w12g12w1g12w12ly1~x4/"><img src="/variants/s6/w12g12w1g12w12ly1~x4/sett.png" alt="Wallace Green Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

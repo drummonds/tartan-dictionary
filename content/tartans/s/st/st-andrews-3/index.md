@@ -15,10 +15,10 @@ Designed by Robin Elliot of Elliots of Selkirk for St Andrews Ltd of Edinburgh.
 The **St. Andrews** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/">St. Andrews</a></td><td><code>DY/22 DB2 DY22 W20 DB2 R22 DB2 R/22</code></td><td>184</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/"><img src="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/sett.png" alt="St. Andrews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/">St. Andrews</a></td><td></td><td><code>DY/22 DB2 DY22 W20 DB2 R22 DB2 R/22</code></td><td>184</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/"><img src="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/sett.png" alt="St. Andrews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

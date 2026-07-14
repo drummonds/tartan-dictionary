@@ -16,10 +16,10 @@ Its design is pattern [BWWWRWWWWWRWWW](/stripes/bwwwrwwwwwrwww/) — the page of
 The **Milne Dress Fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w5lb2w12r17w12lb2w12lb2w12r17w12lb2w5dp2~x4/">Milne Dress Fancy</a></td><td><code>W/20 LB8 W48 R68 W48 LB8 W48 LB8 W48 R68 W48 LB8 W20 DP/8</code></td><td>884</td><td>~2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w5lb2w12r17w12lb2w12lb2w12r17w12lb2w5dp2~x4/"><img src="/variants/s14/w5lb2w12r17w12lb2w12lb2w12r17w12lb2w5dp2~x4/sett.png" alt="Milne Dress Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w5lb2w12r17w12lb2w12lb2w12r17w12lb2w5dp2~x4/">Milne Dress Fancy</a></td><td></td><td><code>W/20 LB8 W48 R68 W48 LB8 W48 LB8 W48 R68 W48 LB8 W20 DP/8</code></td><td>884</td><td>~2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w5lb2w12r17w12lb2w12lb2w12r17w12lb2w5dp2~x4/"><img src="/variants/s14/w5lb2w12r17w12lb2w12lb2w12r17w12lb2w5dp2~x4/sett.png" alt="Milne Dress Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

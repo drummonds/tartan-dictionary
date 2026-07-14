@@ -13,10 +13,10 @@ Its design is pattern [BWYWBYBW](/stripes/bwywbybw/) — the page of every tarta
 The **Royal Conservatoire of Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dp11lb90ly3lb11dp7ly11dp13lb11/">Royal Conservatoire of Scotland</a></td><td><code>DP/11 LB90 LY3 LB11 DP7 LY11 DP13 LB/11</code></td><td>292</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dp11lb90ly3lb11dp7ly11dp13lb11/"><img src="/variants/s8/dp11lb90ly3lb11dp7ly11dp13lb11/sett.png" alt="Royal Conservatoire of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dp11lb90ly3lb11dp7ly11dp13lb11/">Royal Conservatoire of Scotland</a></td><td></td><td><code>DP/11 LB90 LY3 LB11 DP7 LY11 DP13 LB/11</code></td><td>292</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dp11lb90ly3lb11dp7ly11dp13lb11/"><img src="/variants/s8/dp11lb90ly3lb11dp7ly11dp13lb11/sett.png" alt="Royal Conservatoire of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,11 +13,11 @@ Its design is pattern [WKWKWKRY](/stripes/wkwkwkry/) — the page of every tarta
 The **Aberlour** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/">Aberlour</a></td><td><code>W/46 K8 W8 K8 W8 K44 O46 LY/10</code></td><td>300</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><img src="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/sett.png" alt="Aberlour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/">(Corporate)</a> · <a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/">Aberlour</a></td></tr>
+<tr><td><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/">Aberlour</a></td><td></td><td><code>W/46 K8 W8 K8 W8 K44 O46 LY/10</code></td><td>300</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><img src="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/sett.png" alt="Aberlour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/">(Corporate)</a> · <a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/">Aberlour</a></td></tr>
 </tbody>
 </table>
 

@@ -135,3 +135,12 @@
 #weaver-print-sheet.weaver-poster-a2 .weaver-poster-grid figcaption { font-size: 15pt; }
 #weaver-print-sheet.weaver-poster-a2 .weaver-poster-grid figcaption code { font-size: 12pt; }
 #weaver-print-sheet.weaver-poster-a2 .weaver-print-id { font-size: 14pt; }
+
+/* #182: the print palette's 20×40mm colour box — a uniform dye block beside the same dye woven
+ * (the twill PNG the weaver fills in). Millimetre-true so the printed sheet reads as cloth. */
+.weaver-print-box { width: 40mm; padding: 0; font-size: 0; white-space: nowrap; }
+.weaver-print-box .weaver-print-solid,
+.weaver-print-box .weaver-print-twill {
+  display: inline-block; width: 20mm; height: 20mm; vertical-align: top;
+  border: 0; margin: 0; padding: 0;
+}

@@ -18,10 +18,10 @@ Its design is pattern [GRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGWGW](/stripes/grkrkrkr
 The **Kinnoull** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s38/dg24r33k2r2k5r2k2r26k2r2k5r2k2r26w3r12db33r7db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~x2~dg1806142-g2408144/">Kinnoull</a></td><td><code>DG/48 R66 K4 R4 K10 R4 K4 R52 K4 R4 K10 R4 K4 R52 W6 R24 DB66 R14 DB66 R24 W6 R52 DG8 R24 DG8 R52 DG24 R16 DG24 R24 DG16 G14 DG16 R24 DG18 W6 DG32 W/4</code></td><td>1624</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s38/dg24r33k2r2k5r2k2r26k2r2k5r2k2r26w3r12db33r7db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~x2~dg1806142-g2408144/"><img src="/variants/s38/dg24r33k2r2k5r2k2r26k2r2k5r2k2r26w3r12db33r7db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~x2~dg1806142-g2408144/sett.png" alt="Kinnoull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s38/dg24r33k2r2k5r2k2r26k2r2k5r2k2r26w3r12db33r7db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~x2~dg1806142-g2408144/">Kinnoull</a></td><td></td><td><code>DG/48 R66 K4 R4 K10 R4 K4 R52 K4 R4 K10 R4 K4 R52 W6 R24 DB66 R14 DB66 R24 W6 R52 DG8 R24 DG8 R52 DG24 R16 DG24 R24 DG16 G14 DG16 R24 DG18 W6 DG32 W/4</code></td><td>1624</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s38/dg24r33k2r2k5r2k2r26k2r2k5r2k2r26w3r12db33r7db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~x2~dg1806142-g2408144/"><img src="/variants/s38/dg24r33k2r2k5r2k2r26k2r2k5r2k2r26w3r12db33r7db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~x2~dg1806142-g2408144/sett.png" alt="Kinnoull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

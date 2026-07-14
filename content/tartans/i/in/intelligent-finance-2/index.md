@@ -13,10 +13,10 @@ Its design is pattern [BBBWBWBWBW](/stripes/bbbwbwbwbw/) — the page of every t
 The **Intelligent Finance** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/">Intelligent Finance</a></td><td><code>N/5 DP40 N5 LB5 N32 LB5 N5 LB40 DP7 W/5</code></td><td>288</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/"><img src="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/sett.png" alt="Intelligent Finance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/">Intelligent Finance</a></td><td></td><td><code>N/5 DP40 N5 LB5 N32 LB5 N5 LB40 DP7 W/5</code></td><td>288</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/"><img src="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/sett.png" alt="Intelligent Finance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RRGRBRBRGRW](/stripes/rrgrbrbrgrw/) — the page of every
 The **Fraser hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/">Fraser hunting</a></td><td><code>R/6 O36 G20 O4 DB20 O4 DB20 O4 G20 O36 W/6</code></td><td>340</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/"><img src="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/sett.png" alt="Fraser hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/">Fraser hunting</a></td><td></td><td><code>R/6 O36 G20 O4 DB20 O4 DB20 O4 G20 O36 W/6</code></td><td>340</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/"><img src="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/sett.png" alt="Fraser hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

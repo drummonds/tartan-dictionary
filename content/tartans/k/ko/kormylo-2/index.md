@@ -18,10 +18,10 @@ Its design is pattern [GRBGRBRGBRBW](/stripes/grbgrbrgbrbw/) — the page of eve
 The **Kormylo** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/y2r9db3dg12r2db40r2dg20db2r18db2w2~x2/">Kormylo</a></td><td><code>Y/4 R18 DB6 DG24 R4 DB80 R4 DG40 DB4 R36 DB4 W/4</code></td><td>448</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y2r9db3dg12r2db40r2dg20db2r18db2w2~x2/"><img src="/variants/s12/y2r9db3dg12r2db40r2dg20db2r18db2w2~x2/sett.png" alt="Kormylo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/y2r9db3dg12r2db40r2dg20db2r18db2w2~x2/">Kormylo</a></td><td></td><td><code>Y/4 R18 DB6 DG24 R4 DB80 R4 DG40 DB4 R36 DB4 W/4</code></td><td>448</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y2r9db3dg12r2db40r2dg20db2r18db2w2~x2/"><img src="/variants/s12/y2r9db3dg12r2db40r2dg20db2r18db2w2~x2/sett.png" alt="Kormylo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

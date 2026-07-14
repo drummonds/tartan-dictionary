@@ -16,10 +16,10 @@ Its design is pattern [GRGKRGGGYGY](/stripes/grgkrgggygy/) — the page of every
 The **Glen Talloch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/">Glen Talloch</a></td><td><code>DY/64 R4 Y6 K6 R4 DY6 Y6 DY6 LY6 DY6 LY/64</code></td><td>228</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/"><img src="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/sett.png" alt="Glen Talloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/">Glen Talloch</a></td><td></td><td><code>DY/64 R4 Y6 K6 R4 DY6 Y6 DY6 LY6 DY6 LY/64</code></td><td>228</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/"><img src="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/sett.png" alt="Glen Talloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

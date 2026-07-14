@@ -16,10 +16,10 @@ Its design is pattern [GKGKGGKRGK](/stripes/gkgkggkrgk/) — the page of every t
 The **Manitoba Cue Sports** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/">Manitoba Cue Sports</a></td><td><code>K/32 G16 R4 K8 G64 DY4 K32 G8 K8 G/16</code></td><td>336</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><img src="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/sett.png" alt="Manitoba Cue Sports sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/">Manitoba Cue Sports</a></td><td></td><td><code>K/32 G16 R4 K8 G64 DY4 K32 G8 K8 G/16</code></td><td>336</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><img src="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/sett.png" alt="Manitoba Cue Sports sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GKGRGRGKW](/stripes/gkgrgrgkw/) — the page of every tar
 The **Ellis** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/">Ellis</a></td><td><code>Y/12 K6 DG30 R24 G12 R12 G24 K6 W/12</code></td><td>252</td><td>1964</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/"><img src="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/sett.png" alt="Ellis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/">Ellis</a></td><td></td><td><code>Y/12 K6 DG30 R24 G12 R12 G24 K6 W/12</code></td><td>252</td><td>1964</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/"><img src="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/sett.png" alt="Ellis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

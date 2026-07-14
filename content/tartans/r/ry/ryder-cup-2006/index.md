@@ -13,10 +13,10 @@ Its design is pattern [KYKBGGGBKY](/stripes/kykbgggbky/) — the page of every t
 The **Ryder Cup 2006** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k10ly1k3dt8dg8dgi1dg8dt8k15ly1~x2~dgi1605139/">Ryder Cup 2006</a></td><td><code>K/20 LY2 K6 DT16 DG16 DGi2 DG16 DT16 K30 LY/2</code></td><td>230</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k10ly1k3dt8dg8dgi1dg8dt8k15ly1~x2~dgi1605139/"><img src="/variants/s10/k10ly1k3dt8dg8dgi1dg8dt8k15ly1~x2~dgi1605139/sett.png" alt="Ryder Cup 2006 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k10ly1k3dt8dg8dgi1dg8dt8k15ly1~x2~dgi1605139/">Ryder Cup 2006</a></td><td></td><td><code>K/20 LY2 K6 DT16 DG16 DGi2 DG16 DT16 K30 LY/2</code></td><td>230</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k10ly1k3dt8dg8dgi1dg8dt8k15ly1~x2~dgi1605139/"><img src="/variants/s10/k10ly1k3dt8dg8dgi1dg8dt8k15ly1~x2~dgi1605139/sett.png" alt="Ryder Cup 2006 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

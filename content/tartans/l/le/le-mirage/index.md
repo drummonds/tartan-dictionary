@@ -13,10 +13,10 @@ Its design is pattern [BBRWKBBRWK](/stripes/bbrwkbbrwk/) — the page of every t
 The **Le Mirage** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/">Le Mirage</a></td><td><code>DB/36 DBi15 R25 W5 K6 DB35 DBi15 R7 W5 K/6</code></td><td>268</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/"><img src="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/sett.png" alt="Le Mirage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/">Le Mirage</a></td><td></td><td><code>DB/36 DBi15 R25 W5 K6 DB35 DBi15 R7 W5 K/6</code></td><td>268</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/"><img src="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/sett.png" alt="Le Mirage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

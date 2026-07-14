@@ -19,13 +19,13 @@ The **MacDougall 8** tartan is one sett, recorded at 2 scales — the same propo
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/">MacDougall 8</a></td><td><code>LB/1 R2 W1 Ri1 G6 Ri2 G1 Ri2 DB3 R2 W1 Ri1 W1 R2 G3 Ri3 G3 Ri1 DB1 Ri6 R2 W1 Ri2 LB/1</code></td><td>96</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/"><img src="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/sett.png" alt="MacDougall 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/">MacDougall 8</a></td><td><code>LB/2 R4 W2 Ri2 G12 Ri4 G2 Ri4 DB6 R4 W2 Ri2 W2 R4 G6 Ri6 G6 Ri2 DB2 Ri12 R4 W2 Ri4 LB/2</code></td><td>192</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x4~r1707016-ri2209032/">MacDougall #4</a></td><td><code>LB/4 R8 W4 Ri4 G24 Ri8 G4 Ri8 DB12 R8 W4 Ri4 W4 R8 G12 Ri12 G12 Ri4 DB4 Ri24 R8 W4 Ri8 LB/4</code></td><td>384</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/">MacDougall 8</a> · <a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x4~r1707016-ri2209032/">MacDougall #4</a></td></tr>
+<tr><td><a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/">MacDougall 8</a></td><td></td><td><code>LB/1 R2 W1 Ri1 G6 Ri2 G1 Ri2 DB3 R2 W1 Ri1 W1 R2 G3 Ri3 G3 Ri1 DB1 Ri6 R2 W1 Ri2 LB/1</code></td><td>96</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/"><img src="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/sett.png" alt="MacDougall 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/">MacDougall 8</a></td><td>0.00</td><td><code>LB/2 R4 W2 Ri2 G12 Ri4 G2 Ri4 DB6 R4 W2 Ri2 W2 R4 G6 Ri6 G6 Ri2 DB2 Ri12 R4 W2 Ri4 LB/2</code></td><td>192</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x4~r1707016-ri2209032/">MacDougall #4</a></td><td>0.05</td><td><code>LB/4 R8 W4 Ri4 G24 Ri8 G4 Ri8 DB12 R8 W4 Ri4 W4 R8 G12 Ri12 G12 Ri4 DB4 Ri24 R8 W4 Ri8 LB/4</code></td><td>384</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/">MacDougall 8</a> · <a href="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x4~r1707016-ri2209032/">MacDougall #4</a></td></tr>
 </tbody>
 </table>
 

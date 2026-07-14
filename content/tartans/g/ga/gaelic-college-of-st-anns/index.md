@@ -13,10 +13,10 @@ Its design is pattern [GRGBWWWWW](/stripes/grgbwwwww/) — the page of every tar
 The **Gaelic College of St.Anns** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/">Gaelic College of St.Anns</a></td><td><code>G/64 R8 G32 DO16 W32 LB24 W8 LB24 W/32</code></td><td>384</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/"><img src="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/sett.png" alt="Gaelic College of St.Anns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/">Gaelic College of St.Anns</a></td><td></td><td><code>G/64 R8 G32 DO16 W32 LB24 W8 LB24 W/32</code></td><td>384</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/"><img src="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/sett.png" alt="Gaelic College of St.Anns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

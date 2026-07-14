@@ -13,10 +13,10 @@ Its design is pattern [KBKBGBGBRW](/stripes/kbkbgbgbrw/) — the page of every t
 The **Dugan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/">Dugan</a></td><td><code>K/20 N8 K68 DB6 G6 DB6 G6 DB52 O4 LB/6</code></td><td>338</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/"><img src="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/sett.png" alt="Dugan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/">Dugan</a></td><td></td><td><code>K/20 N8 K68 DB6 G6 DB6 G6 DB52 O4 LB/6</code></td><td>338</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/"><img src="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/sett.png" alt="Dugan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

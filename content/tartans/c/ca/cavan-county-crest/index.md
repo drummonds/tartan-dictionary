@@ -13,10 +13,10 @@ Its design is pattern [YBKBWKBWKY](/stripes/ybkbwkbwky/) — the page of every t
 The **Cavan County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/">Cavan County Crest</a></td><td><code>LO/32 DB10 K52 DB10 W5 K24 DB16 W10 K11 LO/15</code></td><td>323</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><img src="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/sett.png" alt="Cavan County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/">Cavan County Crest</a></td><td></td><td><code>LO/32 DB10 K52 DB10 W5 K24 DB16 W10 K11 LO/15</code></td><td>323</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><img src="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/sett.png" alt="Cavan County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

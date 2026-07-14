@@ -18,10 +18,10 @@ Its design is pattern [BKGKBKGGGGKGKRK](/stripes/bkgkbkggggkgkrk/) — the page 
 The **Wells** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4~x2~dg1605139-dgi1806142/">Wells</a></td><td><code>DB/16 K8 Y6 K8 DB28 K8 DG8 DGi12 DG6 DGi20 K20 DGi18 K6 R6 K/8</code></td><td>332</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4~x2~dg1605139-dgi1806142/"><img src="/variants/s15/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4~x2~dg1605139-dgi1806142/sett.png" alt="Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4~x2~dg1605139-dgi1806142/">Wells</a></td><td></td><td><code>DB/16 K8 Y6 K8 DB28 K8 DG8 DGi12 DG6 DGi20 K20 DGi18 K6 R6 K/8</code></td><td>332</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4~x2~dg1605139-dgi1806142/"><img src="/variants/s15/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4~x2~dg1605139-dgi1806142/sett.png" alt="Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

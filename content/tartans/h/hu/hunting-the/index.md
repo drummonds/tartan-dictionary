@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKGGGGG](/stripes/bkbkbkggggg/) — the page of every
 The **Hunting, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/">Hunting, The</a></td><td><code>G/48 Y6 G8 Y2 G34 K50 DB4 K4 DB4 K4 DB/44</code></td><td>324</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><img src="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/sett.png" alt="Hunting, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/">Hunting, The</a></td><td></td><td><code>G/48 Y6 G8 Y2 G34 K50 DB4 K4 DB4 K4 DB/44</code></td><td>324</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><img src="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/sett.png" alt="Hunting, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

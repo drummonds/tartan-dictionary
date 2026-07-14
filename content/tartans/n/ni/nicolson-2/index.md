@@ -18,10 +18,10 @@ Its design is pattern [KRGRKRGRGRKW](/stripes/krgrkrgrgrkw/) — the page of eve
 The **Nicolson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/">Nicolson</a></td><td><code>K/10 R12 G3 R12 K2 R12 G3 R12 G20 R2 K8 LB/2</code></td><td>184</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/"><img src="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/sett.png" alt="Nicolson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/">Nicolson</a></td><td></td><td><code>K/10 R12 G3 R12 K2 R12 G3 R12 G20 R2 K8 LB/2</code></td><td>184</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/"><img src="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/sett.png" alt="Nicolson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

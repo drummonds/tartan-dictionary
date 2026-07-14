@@ -18,10 +18,10 @@ Its design is pattern [RGRGRGRGRKGKGKW](/stripes/rgrgrgrgrkgkgkw/) — the page 
 The **Moir** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2~x2/">Moir</a></td><td><code>R/62 G6 R4 G4 R6 G4 R4 G6 R30 K30 G4 K30 G6 K6 W/4</code></td><td>346</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2~x2/"><img src="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2~x2/sett.png" alt="Moir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2~x2/">Moir</a></td><td></td><td><code>R/62 G6 R4 G4 R6 G4 R4 G6 R30 K30 G4 K30 G6 K6 W/4</code></td><td>346</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2~x2/"><img src="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2~x2/sett.png" alt="Moir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

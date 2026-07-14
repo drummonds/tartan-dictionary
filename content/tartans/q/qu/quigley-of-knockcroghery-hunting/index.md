@@ -18,10 +18,10 @@ Its design is pattern [BWBYBYBKWGR](/stripes/bwbybybkwgr/) — the page of every
 The **Quigley of Knockcroghery Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/">Quigley of Knockcroghery Hunting</a></td><td><code>T/54 W4 T30 LY2 T2 LY2 T30 K4 W4 G32 R/2</code></td><td>276</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/"><img src="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/sett.png" alt="Quigley of Knockcroghery Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/">Quigley of Knockcroghery Hunting</a></td><td></td><td><code>T/54 W4 T30 LY2 T2 LY2 T30 K4 W4 G32 R/2</code></td><td>276</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/"><img src="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/sett.png" alt="Quigley of Knockcroghery Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

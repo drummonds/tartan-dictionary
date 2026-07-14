@@ -18,10 +18,10 @@ Its design is pattern [BGBYBYBGRGRB](/stripes/bgbybybgrgrb/) — the page of eve
 The **Harmony 1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/">Harmony 1</a></td><td><code>DO/22 G6 DO8 LY6 DO6 LY8 DO6 Y26 O68 G6 O8 B/6</code></td><td>324</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/"><img src="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/sett.png" alt="Harmony 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/">Harmony 1</a></td><td></td><td><code>DO/22 G6 DO8 LY6 DO6 LY8 DO6 Y26 O68 G6 O8 B/6</code></td><td>324</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/"><img src="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/sett.png" alt="Harmony 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

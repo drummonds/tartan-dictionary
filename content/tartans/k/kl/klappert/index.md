@@ -15,10 +15,10 @@ Designed in 2011 for the Klapperts, a Danish family celebrating their Scottish a
 The **Klappert** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/">Klappert</a></td><td><code>N/32 K26 N14 DY6 R4 DY6 N14 K26 N/32</code></td><td>256</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/"><img src="/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/sett.png" alt="Klappert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/">Klappert</a></td><td></td><td><code>N/32 K26 N14 DY6 R4 DY6 N14 K26 N/32</code></td><td>256</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/"><img src="/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/sett.png" alt="Klappert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BWBWKWGWKKWRGKGKGKGKGRWKKWGWKW](/stripes/bwbwkwgwkkwrgkgk
 The **Znaimer** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/">Znaimer</a></td><td><code>DB/16 W42 DB16 W14 K4 W6 Y6 W6 K24 W4 R16 Y6 K6 Y6 K6 Y6 K6 Y6 K6 Y6 R16 W4 K24 W6 Y6 W6 K4 W/14</code></td><td>546</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/"><img src="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/sett.png" alt="Znaimer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/">Znaimer</a></td><td></td><td><code>DB/16 W42 DB16 W14 K4 W6 Y6 W6 K24 W4 R16 Y6 K6 Y6 K6 Y6 K6 Y6 K6 Y6 R16 W4 K24 W6 Y6 W6 K4 W/14</code></td><td>546</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/"><img src="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/sett.png" alt="Znaimer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

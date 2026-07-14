@@ -16,10 +16,10 @@ Its design is pattern [WKYKYKGKRKY](/stripes/wkykykgkrky/) — the page of every
 The **Livingston Football Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lo11k4o2k3y2k4lo15k32lo2k5w2~x2/">Livingston Football Club</a></td><td><code>LO/22 K8 O4 K6 Y4 K8 LO30 K64 LO4 K10 W/4</code></td><td>302</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lo11k4o2k3y2k4lo15k32lo2k5w2~x2/"><img src="/variants/s11/lo11k4o2k3y2k4lo15k32lo2k5w2~x2/sett.png" alt="Livingston Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lo11k4o2k3y2k4lo15k32lo2k5w2~x2/">Livingston Football Club</a></td><td></td><td><code>LO/22 K8 O4 K6 Y4 K8 LO30 K64 LO4 K10 W/4</code></td><td>302</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lo11k4o2k3y2k4lo15k32lo2k5w2~x2/"><img src="/variants/s11/lo11k4o2k3y2k4lo15k32lo2k5w2~x2/sett.png" alt="Livingston Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

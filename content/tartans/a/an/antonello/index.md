@@ -14,13 +14,13 @@ The **Antonello** tartan is one sett, recorded at 2 scales — the same proporti
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k1lb1r1db1g1db1~x24/">Antonello</a></td><td><code>K/1 LB1 R1 DB1 G1 DB/1</code></td><td>10</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k1lb1r1db1g1db1~x24/"><img src="/variants/s6/k1lb1r1db1g1db1~x24/sett.png" alt="Antonello sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×24 — <a href="/variants/s6/k1lb1r1db1g1db1~x24/">(Personal)</a></td><td><code>K/24 LB24 R24 DB24 G24 DB/24</code></td><td>240</td><td>2011</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×25 — <a href="/variants/s6/k1lb1r1db1g1db1~x25/">Antonelli (Oklahoma), John (Personal)</a></td><td><code>K/25 LB25 R25 DB25 G25 DB/25</code></td><td>250</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/k1lb1r1db1g1db1~x24/">(Personal)</a> · <a href="/variants/s6/k1lb1r1db1g1db1~x25/">Antonelli (Oklahoma), John (Personal)</a></td></tr>
+<tr><td><a href="/variants/s6/k1lb1r1db1g1db1~x24/">Antonello</a></td><td></td><td><code>K/1 LB1 R1 DB1 G1 DB/1</code></td><td>10</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k1lb1r1db1g1db1~x24/"><img src="/variants/s6/k1lb1r1db1g1db1~x24/sett.png" alt="Antonello sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×24 — <a href="/variants/s6/k1lb1r1db1g1db1~x24/">(Personal)</a></td><td>0.00</td><td><code>K/24 LB24 R24 DB24 G24 DB/24</code></td><td>240</td><td>2011</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×25 — <a href="/variants/s6/k1lb1r1db1g1db1~x25/">Antonelli (Oklahoma), John (Personal)</a></td><td>0.00</td><td><code>K/25 LB25 R25 DB25 G25 DB/25</code></td><td>250</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/k1lb1r1db1g1db1~x24/">(Personal)</a> · <a href="/variants/s6/k1lb1r1db1g1db1~x25/">Antonelli (Oklahoma), John (Personal)</a></td></tr>
 </tbody>
 </table>
 

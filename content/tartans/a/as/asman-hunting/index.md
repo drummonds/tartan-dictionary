@@ -18,10 +18,10 @@ Its design is pattern [BGBRWRWBBRB](/stripes/bgbrwrwbbrb/) — the page of every
 The **Asman Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db4y3db17r7w2o7w2db7b17o3b4~x2/">Asman Hunting</a></td><td><code>DB/8 Y6 DB34 R14 W4 O14 W4 DB14 B34 O6 B/8</code></td><td>276</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db4y3db17r7w2o7w2db7b17o3b4~x2/"><img src="/variants/s11/db4y3db17r7w2o7w2db7b17o3b4~x2/sett.png" alt="Asman Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db4y3db17r7w2o7w2db7b17o3b4~x2/">Asman Hunting</a></td><td></td><td><code>DB/8 Y6 DB34 R14 W4 O14 W4 DB14 B34 O6 B/8</code></td><td>276</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db4y3db17r7w2o7w2db7b17o3b4~x2/"><img src="/variants/s11/db4y3db17r7w2o7w2db7b17o3b4~x2/sett.png" alt="Asman Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

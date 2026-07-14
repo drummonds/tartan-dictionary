@@ -13,10 +13,10 @@ Its design is pattern [KBBRGW](/stripes/kbbrgw/) — the page of every tartan sh
 The **MacHattie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k45db2dr2r2y1w1~x2/">MacHattie</a></td><td><code>K/90 DB4 DR4 R4 Y2 W/2</code></td><td>120</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k45db2dr2r2y1w1~x2/"><img src="/variants/s6/k45db2dr2r2y1w1~x2/sett.png" alt="MacHattie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k45db2dr2r2y1w1~x2/">MacHattie</a></td><td></td><td><code>K/90 DB4 DR4 R4 Y2 W/2</code></td><td>120</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k45db2dr2r2y1w1~x2/"><img src="/variants/s6/k45db2dr2r2y1w1~x2/sett.png" alt="MacHattie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

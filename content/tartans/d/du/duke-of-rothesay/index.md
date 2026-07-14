@@ -13,10 +13,10 @@ Its design is pattern [WRGRGRGRGRGRGRWRW](/stripes/wrgrgrgrgrgrgrwrw/) — the p
 The **Duke of Rothesay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/">Duke of Rothesay</a></td><td><code>W/8 R44 G6 R6 G6 R6 G26 R8 G26 R6 G6 R6 G6 R46 W4 R4 W/8</code></td><td>428</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/"><img src="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/sett.png" alt="Duke of Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/">Duke of Rothesay</a></td><td></td><td><code>W/8 R44 G6 R6 G6 R6 G26 R8 G26 R6 G6 R6 G6 R46 W4 R4 W/8</code></td><td>428</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/"><img src="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/sett.png" alt="Duke of Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

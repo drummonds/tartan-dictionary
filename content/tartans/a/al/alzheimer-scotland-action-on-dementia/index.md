@@ -13,10 +13,10 @@ Its design is pattern [BRBYBBBWRBG](/stripes/brbybbbwrbg/) — the page of every
 The **Alzheimer Scotland Action on Dementia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dp55r3dp6lo1dp2db2dp2lb12r1dp8g2~x2/">Alzheimer Scotland Action on Dementia</a></td><td><code>DP/110 R6 DP12 LO2 DP4 DB4 DP4 LB24 R2 DP16 G/4</code></td><td>262</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dp55r3dp6lo1dp2db2dp2lb12r1dp8g2~x2/"><img src="/variants/s11/dp55r3dp6lo1dp2db2dp2lb12r1dp8g2~x2/sett.png" alt="Alzheimer Scotland Action on Dementia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dp55r3dp6lo1dp2db2dp2lb12r1dp8g2~x2/">Alzheimer Scotland Action on Dementia</a></td><td></td><td><code>DP/110 R6 DP12 LO2 DP4 DB4 DP4 LB24 R2 DP16 G/4</code></td><td>262</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dp55r3dp6lo1dp2db2dp2lb12r1dp8g2~x2/"><img src="/variants/s11/dp55r3dp6lo1dp2db2dp2lb12r1dp8g2~x2/sett.png" alt="Alzheimer Scotland Action on Dementia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

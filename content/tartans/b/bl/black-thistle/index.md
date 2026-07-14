@@ -16,10 +16,10 @@ Its design is pattern [BKGKGKRKR](/stripes/bkgkgkrkr/) — the page of every tar
 The **Black Thistle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/b10k6g42k2g1k2r1k24r2~x2/">Black Thistle</a></td><td><code>B/20 K12 G84 K4 G2 K4 R2 K48 R/4</code></td><td>336</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/b10k6g42k2g1k2r1k24r2~x2/"><img src="/variants/s9/b10k6g42k2g1k2r1k24r2~x2/sett.png" alt="Black Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/b10k6g42k2g1k2r1k24r2~x2/">Black Thistle</a></td><td></td><td><code>B/20 K12 G84 K4 G2 K4 R2 K48 R/4</code></td><td>336</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/b10k6g42k2g1k2r1k24r2~x2/"><img src="/variants/s9/b10k6g42k2g1k2r1k24r2~x2/sett.png" alt="Black Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

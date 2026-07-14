@@ -13,10 +13,10 @@ Its design is pattern [RBRGRBRGRGRBR](/stripes/rbrgrbrgrgrbr/) — the page of e
 The **London Caledonian Games Association** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/">London Caledonian Games Association</a></td><td><code>R/18 DP4 R42 Y4 R4 DP16 R4 G4 R4 G34 R4 DP4 R/16</code></td><td>282</td><td>1933</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><img src="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/sett.png" alt="London Caledonian Games Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/">London Caledonian Games Association</a></td><td></td><td><code>R/18 DP4 R42 Y4 R4 DP16 R4 G4 R4 G34 R4 DP4 R/16</code></td><td>282</td><td>1933</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><img src="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/sett.png" alt="London Caledonian Games Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

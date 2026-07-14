@@ -13,10 +13,10 @@ Its design is pattern [BBGBBWBBBG](/stripes/bbgbbwbbbg/) — the page of every t
 The **Wicklow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/">Wicklow</a></td><td><code>DO/4 DB8 G24 DB6 DO12 LB4 DB48 DO4 DB4 G/4</code></td><td>228</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/"><img src="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/sett.png" alt="Wicklow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/">Wicklow</a></td><td></td><td><code>DO/4 DB8 G24 DB6 DO12 LB4 DB48 DO4 DB4 G/4</code></td><td>228</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/"><img src="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/sett.png" alt="Wicklow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

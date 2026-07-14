@@ -13,10 +13,10 @@ Its design is pattern [BKGKWBKBWBKBWKGKB](/stripes/bkgkwbkbwbkbwkgkb/) — the p
 The **Suffolk County Police** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/">Suffolk County Police</a></td><td><code>DB/160 K24 Y6 K6 W6 DB48 K6 DB8 W6 DB8 K6 DB48 W6 K6 Y6 K24 DB/12</code></td><td>600</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/"><img src="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/sett.png" alt="Suffolk County Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/">Suffolk County Police</a></td><td></td><td><code>DB/160 K24 Y6 K6 W6 DB48 K6 DB8 W6 DB8 K6 DB48 W6 K6 Y6 K24 DB/12</code></td><td>600</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/"><img src="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/sett.png" alt="Suffolk County Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

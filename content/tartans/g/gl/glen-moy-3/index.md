@@ -16,10 +16,10 @@ Its design is pattern [BGBWBWBGBBBW](/stripes/bgbwbwbgbbbw/) — the page of eve
 The **Glen Moy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/">Glen Moy</a></td><td><code>N/76 DY8 DO12 W4 DO4 W4 DO4 DY24 N12 DO4 N12 W/4</code></td><td>256</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/"><img src="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/sett.png" alt="Glen Moy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/">Glen Moy</a></td><td></td><td><code>N/76 DY8 DO12 W4 DO4 W4 DO4 DY24 N12 DO4 N12 W/4</code></td><td>256</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/"><img src="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/sett.png" alt="Glen Moy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -25,21 +25,21 @@ The **Colquhoun** tartan groups 5 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/">Colquhoun</a> ★</td><td><code>DP/12 K6 DP42 K46 W6 G48 R/6</code></td><td>314</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/"><img src="/variants/s7/dp6k3dp21k23w3g24r3~x2/sett.png" alt="Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db5k10db48k72w12dg48r5/">(Clan)</a></td><td><code>DB/5 K10 DB48 K72 W12 DG48 R/5</code></td><td>390</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db5k10db48k72w12dg48r5/"><img src="/variants/s7/db5k10db48k72w12dg48r5/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r2g8w1k8db8k1db1~x2/">Colquhoun</a></td><td><code>R/2 G8 W1 K8 DB8 K1 DB/1</code></td><td>55</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2g8w1k8db8k1db1~x2/"><img src="r2g8w1k8db8k1db1-rev.png" alt="Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r2g8w1k8db8k1db1~x2/">Colquhoun</a></td><td><code>R/4 G16 W2 K16 DB16 K2 DB/2</code></td><td>110</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/r2g8w1k8db8k1db1~x4/">Colquhoun</a></td><td><code>R/8 G32 W4 K32 DB32 K4 DB/4</code></td><td>220</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r2g8w1k8db8k1db1~x2/">Colquhoun</a> · <a href="/variants/s7/r2g8w1k8db8k1db1~x4/">Colquhoun</a></td></tr>
-<tr><td><a href="/variants/s7/r2g8w1k8t8k1t1~x6/">#2</a></td><td><code>R/12 G48 W6 K48 T48 K6 T/6</code></td><td>330</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2g8w1k8t8k1t1~x6/"><img src="r2g8w1k8t8k1t1-rev.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r3g16w2k16db16k2db2~x2/">Clan Tartan</a></td><td><code>R/6 G32 W4 K32 DB32 K4 DB/4</code></td><td>218</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3g16w2k16db16k2db2~x2/"><img src="r3g16w2k16db16k2db2-rev.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/">Colquhoun</a> ★</td><td></td><td><code>DP/12 K6 DP42 K46 W6 G48 R/6</code></td><td>314</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/"><img src="/variants/s7/dp6k3dp21k23w3g24r3~x2/sett.png" alt="Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db5k10db48k72w12dg48r5/">(Clan)</a></td><td>3.00</td><td><code>DB/5 K10 DB48 K72 W12 DG48 R/5</code></td><td>390</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db5k10db48k72w12dg48r5/"><img src="/variants/s7/db5k10db48k72w12dg48r5/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2g8w1k8db8k1db1~x2/">Colquhoun</a></td><td>2.36</td><td><code>R/2 G8 W1 K8 DB8 K1 DB/1</code></td><td>55</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2g8w1k8db8k1db1~x2/"><img src="r2g8w1k8db8k1db1-rev.png" alt="Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r2g8w1k8db8k1db1~x2/">Colquhoun</a></td><td>2.36</td><td><code>R/4 G16 W2 K16 DB16 K2 DB/2</code></td><td>110</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/r2g8w1k8db8k1db1~x4/">Colquhoun</a></td><td>2.36</td><td><code>R/8 G32 W4 K32 DB32 K4 DB/4</code></td><td>220</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/r2g8w1k8db8k1db1~x2/">Colquhoun</a> · <a href="/variants/s7/r2g8w1k8db8k1db1~x4/">Colquhoun</a></td></tr>
+<tr><td><a href="/variants/s7/r2g8w1k8t8k1t1~x6/">#2</a></td><td>2.52</td><td><code>R/12 G48 W6 K48 T48 K6 T/6</code></td><td>330</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2g8w1k8t8k1t1~x6/"><img src="r2g8w1k8t8k1t1-rev.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3g16w2k16db16k2db2~x2/">Clan Tartan</a></td><td>2.37</td><td><code>R/6 G32 W4 K32 DB32 K4 DB/4</code></td><td>218</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r3g16w2k16db16k2db2~x2/"><img src="r3g16w2k16db16k2db2-rev.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RBWRGBWRWBBRBWR](/stripes/rbwrgbwrwbbrbwr/) — the page 
 The **MacDougall 10** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r6dr3w3r4g33dr3w3r4w3dr3db9r33dr3w4r4~x2/">MacDougall 10</a></td><td><code>R/12 DR6 W6 R8 G66 DR6 W6 R8 W6 DR6 DB18 R66 DR6 W8 R/8</code></td><td>452</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r6dr3w3r4g33dr3w3r4w3dr3db9r33dr3w4r4~x2/"><img src="/variants/s15/r6dr3w3r4g33dr3w3r4w3dr3db9r33dr3w4r4~x2/sett.png" alt="MacDougall 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r6dr3w3r4g33dr3w3r4w3dr3db9r33dr3w4r4~x2/">MacDougall 10</a></td><td></td><td><code>R/12 DR6 W6 R8 G66 DR6 W6 R8 W6 DR6 DB18 R66 DR6 W8 R/8</code></td><td>452</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r6dr3w3r4g33dr3w3r4w3dr3db9r33dr3w4r4~x2/"><img src="/variants/s15/r6dr3w3r4g33dr3w3r4w3dr3db9r33dr3w4r4~x2/sett.png" alt="MacDougall 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

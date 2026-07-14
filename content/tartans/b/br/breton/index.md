@@ -15,10 +15,10 @@ Commissioned 2001 by Richard Duclos of France for the Breton district; produced 
 The **Breton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/">Breton</a></td><td><code>G/12 DB22 W16 K8 W16 K8 W16 K54 W/8</code></td><td>300</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><img src="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/sett.png" alt="Breton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/">Breton</a></td><td></td><td><code>G/12 DB22 W16 K8 W16 K8 W16 K54 W/8</code></td><td>300</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><img src="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/sett.png" alt="Breton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

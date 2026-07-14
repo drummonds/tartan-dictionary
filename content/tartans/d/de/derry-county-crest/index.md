@@ -16,10 +16,10 @@ Its design is pattern [KBKYKGKYRYK](/stripes/kbkykgkyryk/) — the page of every
 The **Derry County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/">Derry County Crest</a></td><td><code>K/14 DB22 K5 LY11 K5 Y24 K11 LY11 R54 LY8 K/10</code></td><td>326</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><img src="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/sett.png" alt="Derry County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/">Derry County Crest</a></td><td></td><td><code>K/14 DB22 K5 LY11 K5 Y24 K11 LY11 R54 LY8 K/10</code></td><td>326</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><img src="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/sett.png" alt="Derry County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

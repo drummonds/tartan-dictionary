@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBWBWBRGRBWBWBBBB](/stripes/bbbbbbwbwbrgrbwbwbbbb/) â
 The **Tartan Army** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/">Tartan Army</a></td><td><code>T/44 DB4 T8 DB4 T8 DB16 W4 DB4 W4 DB20 R10 Y4 R10 DB20 W4 DB4 W4 DB16 T36 DB4 T/8</code></td><td>420</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/"><img src="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/sett.png" alt="Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/">Tartan Army</a></td><td></td><td><code>T/44 DB4 T8 DB4 T8 DB16 W4 DB4 W4 DB20 R10 Y4 R10 DB20 W4 DB4 W4 DB16 T36 DB4 T/8</code></td><td>420</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/"><img src="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/sett.png" alt="Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

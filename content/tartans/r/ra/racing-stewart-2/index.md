@@ -15,10 +15,10 @@ Appears on Jackie Stewart's Formula One racing car.
 The **Racing Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/">Racing Stewart</a></td><td><code>DB/108 LB6 K10 LB2 K4 LB2 K4 G16 DR16 LB/4</code></td><td>232</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><img src="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/sett.png" alt="Racing Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/">Racing Stewart</a></td><td></td><td><code>DB/108 LB6 K10 LB2 K4 LB2 K4 G16 DR16 LB/4</code></td><td>232</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><img src="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/sett.png" alt="Racing Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

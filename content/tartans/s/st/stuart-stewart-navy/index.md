@@ -13,10 +13,10 @@ Its design is pattern [BBWBWYBWBG](/stripes/bbwbwybwbg/) — the page of every t
 The **Stuart/Stewart navy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/">Stuart/Stewart navy</a></td><td><code>DB/74 DR8 W18 DB4 W4 LY18 DB8 W4 DB4 DY/4</code></td><td>214</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/"><img src="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/sett.png" alt="Stuart/Stewart navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/">Stuart/Stewart navy</a></td><td></td><td><code>DB/74 DR8 W18 DB4 W4 LY18 DB8 W4 DB4 DY/4</code></td><td>214</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/"><img src="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/sett.png" alt="Stuart/Stewart navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

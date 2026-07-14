@@ -13,10 +13,10 @@ Its design is pattern [RWRRBWRRW](/stripes/rwrrbwrrw/) — the page of every tar
 The **Unidentified 34** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/">Unidentified 34</a></td><td><code>W/12 O2 R8 W2 DB8 O2 R16 W2 R/4</code></td><td>96</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/"><img src="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/sett.png" alt="Unidentified 34 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/">Unidentified 34</a></td><td></td><td><code>W/12 O2 R8 W2 DB8 O2 R16 W2 R/4</code></td><td>96</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/"><img src="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/sett.png" alt="Unidentified 34 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

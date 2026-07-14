@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKG](/stripes/bkbkbkg/) — the page of every tartan 
 The **Oceanic** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/y8k4n39k37db36k6db7/">Oceanic</a></td><td><code>Y/8 K4 N39 K37 DB36 K6 DB/7</code></td><td>259</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y8k4n39k37db36k6db7/"><img src="/variants/s7/y8k4n39k37db36k6db7/sett.png" alt="Oceanic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y8k4n39k37db36k6db7/">Oceanic</a></td><td></td><td><code>Y/8 K4 N39 K37 DB36 K6 DB/7</code></td><td>259</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/y8k4n39k37db36k6db7/"><img src="/variants/s7/y8k4n39k37db36k6db7/sett.png" alt="Oceanic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

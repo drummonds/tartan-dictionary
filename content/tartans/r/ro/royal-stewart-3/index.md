@@ -13,10 +13,10 @@ Its design is pattern [WBKGKWKGRKRW](/stripes/wbkgkwkgrkrw/) — the page of eve
 The **Royal Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/">Royal Stewart</a></td><td><code>LB/57 DB4 K8 Y4 K4 LB4 K4 G8 R6 K4 R4 LB/2</code></td><td>159</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><img src="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/sett.png" alt="Royal Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/">Royal Stewart</a></td><td></td><td><code>LB/57 DB4 K8 Y4 K4 LB4 K4 G8 R6 K4 R4 LB/2</code></td><td>159</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><img src="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/sett.png" alt="Royal Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

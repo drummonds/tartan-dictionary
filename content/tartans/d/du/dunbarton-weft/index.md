@@ -16,10 +16,10 @@ Its design is pattern [WKWGWGWKWRW](/stripes/wkwgwgwkwrw/) — the page of every
 The **Dunbarton Weft** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/">Dunbarton Weft</a></td><td><code>LB/60 R4 LB4 K10 LB6 DY4 LB6 DY44 LB6 K4 LB/6</code></td><td>242</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><img src="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/sett.png" alt="Dunbarton Weft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/">Dunbarton Weft</a></td><td></td><td><code>LB/60 R4 LB4 K10 LB6 DY4 LB6 DY44 LB6 K4 LB/6</code></td><td>242</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><img src="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/sett.png" alt="Dunbarton Weft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

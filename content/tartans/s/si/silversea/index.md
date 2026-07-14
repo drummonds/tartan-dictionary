@@ -18,10 +18,10 @@ Its design is pattern [RBBGYYW](/stripes/rbbgyyw/) — the page of every tartan 
 The **Silversea** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/">Silversea</a></td><td><code>R/6 DT40 DB40 G4 LR8 LRi34 W/6</code></td><td>264</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><img src="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/sett.png" alt="Silversea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/">Silversea</a></td><td></td><td><code>R/6 DT40 DB40 G4 LR8 LRi34 W/6</code></td><td>264</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><img src="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/sett.png" alt="Silversea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

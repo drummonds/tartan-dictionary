@@ -16,10 +16,10 @@ Its design is pattern [GGGWGBY](/stripes/gggwgby/) — the page of every tartan 
 The **Wcwm 9275-1410** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/">Wcwm 9275-1410</a></td><td><code>G/6 DY64 G8 LB6 G36 DP36 LO/6</code></td><td>312</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><img src="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/sett.png" alt="Wcwm 9275-1410 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/">Wcwm 9275-1410</a></td><td></td><td><code>G/6 DY64 G8 LB6 G36 DP36 LO/6</code></td><td>312</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><img src="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/sett.png" alt="Wcwm 9275-1410 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

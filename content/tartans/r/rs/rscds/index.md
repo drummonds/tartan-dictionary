@@ -13,10 +13,10 @@ Its design is pattern [RBKWKWKWKBKBKBGR](/stripes/rbkwkwkwkbkbkbgr/) — the pag
 The **RSCDS** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/">RSCDS</a></td><td><code>R/6 DB28 K24 LB48 K2 W6 K2 LB48 K24 DB4 K4 DB4 K4 DB16 Y2 R/6</code></td><td>444</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/"><img src="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/sett.png" alt="RSCDS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/">RSCDS</a></td><td></td><td><code>R/6 DB28 K24 LB48 K2 W6 K2 LB48 K24 DB4 K4 DB4 K4 DB16 Y2 R/6</code></td><td>444</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/"><img src="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/sett.png" alt="RSCDS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

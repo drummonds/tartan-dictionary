@@ -15,10 +15,10 @@ Corporate tartan in the Salvation Army's flag colours: red for Christ's Blood, b
 The **Salvation Army Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r16k2y4k2r15k2db74k2r15k2y4k2r16db10~x2~db1406275/">Salvation Army Dress</a></td><td><code>R/32 K4 Y8 K4 R30 K4 DB148 K4 R30 K4 Y8 K4 R32 DB/20</code></td><td>612</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r16k2y4k2r15k2db74k2r15k2y4k2r16db10~x2~db1406275/"><img src="/variants/s14/r16k2y4k2r15k2db74k2r15k2y4k2r16db10~x2~db1406275/sett.png" alt="Salvation Army Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r16k2y4k2r15k2db74k2r15k2y4k2r16db10~x2~db1406275/">Salvation Army Dress</a></td><td></td><td><code>R/32 K4 Y8 K4 R30 K4 DB148 K4 R30 K4 Y8 K4 R32 DB/20</code></td><td>612</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r16k2y4k2r15k2db74k2r15k2y4k2r16db10~x2~db1406275/"><img src="/variants/s14/r16k2y4k2r15k2db74k2r15k2y4k2r16db10~x2~db1406275/sett.png" alt="Salvation Army Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

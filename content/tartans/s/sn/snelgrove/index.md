@@ -18,10 +18,10 @@ Its design is pattern [KGBWRBY](/stripes/kgbwrby/) — the page of every tartan 
 The **Snelgrove** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/">Snelgrove</a></td><td><code>K/8 G24 DO16 LB4 R72 DO20 LY/4</code></td><td>284</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/"><img src="/variants/s7/k2g6do4lb1r18do5ly1~x4/sett.png" alt="Snelgrove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/">Snelgrove</a></td><td></td><td><code>K/8 G24 DO16 LB4 R72 DO20 LY/4</code></td><td>284</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/"><img src="/variants/s7/k2g6do4lb1r18do5ly1~x4/sett.png" alt="Snelgrove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

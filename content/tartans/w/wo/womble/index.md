@@ -18,10 +18,10 @@ Its design is pattern [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/) — the page 
 The **Womble** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/">Womble</a></td><td><code>W/24 DB8 W8 G40 W8 DB8 R16 W8 R16 DB8 W8 LO32 W8 DB8 W/24</code></td><td>400</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><img src="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/sett.png" alt="Womble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/">Womble</a></td><td></td><td><code>W/24 DB8 W8 G40 W8 DB8 R16 W8 R16 DB8 W8 LO32 W8 DB8 W/24</code></td><td>400</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><img src="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/sett.png" alt="Womble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

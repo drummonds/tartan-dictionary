@@ -15,10 +15,10 @@ Designed for the 50th anniversary of this Catholic school in Sunninghill, Berksh
 The **Marist** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/">Marist</a></td><td><code>DB/116 DBi8 DB4 DBi4 DB4 DBi4 LB32 LO/4</code></td><td>232</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/"><img src="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/sett.png" alt="Marist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/">Marist</a></td><td></td><td><code>DB/116 DBi8 DB4 DBi4 DB4 DBi4 LB32 LO/4</code></td><td>232</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/"><img src="/variants/s8/db29dbi2db1dbi1db1dbi1lb8lo1~x4~db1106275-dbi1406275/sett.png" alt="Marist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

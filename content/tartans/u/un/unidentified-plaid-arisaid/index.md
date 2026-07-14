@@ -13,10 +13,10 @@ Its design is pattern [RBRKWKRWRBRBKGKGKBRBRWRKWKRWBRWRBRWR](/stripes/rbrkwkrwrb
 The **Unidentified Plaid arisaid** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4y4k6y4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/">Unidentified Plaid arisaid</a></td><td><code>R/12 W32 R12 DB2 R12 W32 R12 DB18 W280 R110 K4 W8 K4 R32 W40 R32 DB12 R4 DB54 K8 Y8 K12 Y8 K8 DB54 R4 DB12 R32 W40 R32 K4 W8 K4 R110 DB2 R/12</code></td><td>2116</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4y4k6y4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/"><img src="/variants/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4y4k6y4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/sett.png" alt="Unidentified Plaid arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4y4k6y4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/">Unidentified Plaid arisaid</a></td><td></td><td><code>R/12 W32 R12 DB2 R12 W32 R12 DB18 W280 R110 K4 W8 K4 R32 W40 R32 DB12 R4 DB54 K8 Y8 K12 Y8 K8 DB54 R4 DB12 R32 W40 R32 K4 W8 K4 R110 DB2 R/12</code></td><td>2116</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4y4k6y4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/"><img src="/variants/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4y4k6y4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/sett.png" alt="Unidentified Plaid arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,18 +28,17 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/a/af/afternoon-tea-darjeeling/">Afternoon Tea / Darjeeling</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/af/afternoon-tea-darjeeling/"><img src="/variants/s6/y15db8r25db72dg98w15/sett.png" alt="Afternoon Tea / Darjeeling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/tartans/i/in/inglis/">Inglis</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/in/inglis/"><img src="/variants/s6/w4g28db18r4db18y3~x2/sett.png" alt="Inglis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/l/lo/london-regiment/">London Regiment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/lo/london-regiment/"><img src="/variants/s6/g34db27r3db27g34w3~x2/sett.png" alt="London Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macintyre/">MacIntyre</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macintyre/"><img src="/variants/s6/dg4db12r3db12dg32w4~x2/sett.png" alt="MacIntyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macintyre-l/">MacIntyre L</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macintyre-l/"><img src="/variants/s6/g4db12r3db12g32w4/sett.png" alt="MacIntyre L sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/tartans/l/lo/london-regiment/">London Regiment</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/lo/london-regiment/"><img src="/variants/s6/dy34db27r3db27dy34w3~x2/sett.png" alt="London Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/a/af/afternoon-tea-darjeeling/">Afternoon Tea / Darjeeling</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/af/afternoon-tea-darjeeling/"><img src="/variants/s6/y15db8r25db72dg98w15/sett.png" alt="Afternoon Tea / Darjeeling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/tartans/i/in/inglis/">Inglis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/inglis/"><img src="/variants/s6/w4g28db18r4db18y3~x2/sett.png" alt="Inglis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

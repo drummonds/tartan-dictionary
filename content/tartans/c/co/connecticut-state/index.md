@@ -15,10 +15,10 @@ Asymmetric Connecticut State tartan, designed 1994 by three Three Rivers Communi
 The **Connecticut State** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/t20o2w1o5g8y1g2r1g8o8~x4~o2500000-w4000000-r2109032/">Connecticut State</a></td><td><code>T/80 O8 W4 O20 G32 Y4 G8 R4 G32 O/32</code></td><td>336</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/t20o2w1o5g8y1g2r1g8o8~x4~o2500000-w4000000-r2109032/"><img src="/variants/s10/t20o2w1o5g8y1g2r1g8o8~x4~o2500000-w4000000-r2109032/sett.png" alt="Connecticut State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/t20o2w1o5g8y1g2r1g8o8~x4~o2500000-w4000000-r2109032/">Connecticut State</a></td><td></td><td><code>T/80 O8 W4 O20 G32 Y4 G8 R4 G32 O/32</code></td><td>336</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/t20o2w1o5g8y1g2r1g8o8~x4~o2500000-w4000000-r2109032/"><img src="/variants/s10/t20o2w1o5g8y1g2r1g8o8~x4~o2500000-w4000000-r2109032/sett.png" alt="Connecticut State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

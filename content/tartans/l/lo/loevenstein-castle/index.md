@@ -13,10 +13,10 @@ Its design is pattern [BKBWK](/stripes/bkbwk/) — the page of every tartan shar
 The **Loevenstein Castle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/dr20k3dr4w2k7~x2/">Loevenstein Castle</a></td><td><code>DR/40 K6 DR8 W4 K/14</code></td><td>90</td><td>1750</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr20k3dr4w2k7~x2/"><img src="/variants/s5/dr20k3dr4w2k7~x2/sett.png" alt="Loevenstein Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr20k3dr4w2k7~x2/">Loevenstein Castle</a></td><td></td><td><code>DR/40 K6 DR8 W4 K/14</code></td><td>90</td><td>1750</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dr20k3dr4w2k7~x2/"><img src="/variants/s5/dr20k3dr4w2k7~x2/sett.png" alt="Loevenstein Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -22,15 +22,15 @@ The **Clergy** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/">Clergy</a> ★</td><td><code>DB/1 G1 DB6 K6 G1 K6 G1 DB2 G1 DB3 G/1</code></td><td>56</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/"><img src="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/">Clergy</a></td><td><code>DB/2 G2 DB12 K12 G2 K12 G2 DB4 G2 DB6 G/2</code></td><td>112</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/">Cargill</a></td><td><code>DB/4 G4 DB24 K24 G4 K24 G4 DB8 G4 DB12 G/4</code></td><td>224</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/">Clergy</a> · <a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/">Cargill</a></td></tr>
-<tr><td><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/">(Clark)</a></td><td><code>K/4 G4 DB20 K20 G4 K20 G4 DB6 G4 DB10 G/4</code></td><td>192</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/"><img src="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/sett.png" alt="(Clark) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/">Clergy</a> ★</td><td></td><td><code>DB/1 G1 DB6 K6 G1 K6 G1 DB2 G1 DB3 G/1</code></td><td>56</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/"><img src="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/">Clergy</a></td><td>0.00</td><td><code>DB/2 G2 DB12 K12 G2 K12 G2 DB4 G2 DB6 G/2</code></td><td>112</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/">Cargill</a></td><td>0.00</td><td><code>DB/4 G4 DB24 K24 G4 K24 G4 DB8 G4 DB12 G/4</code></td><td>224</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/">Clergy</a> · <a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/">Cargill</a></td></tr>
+<tr><td><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/">(Clark)</a></td><td>1.29</td><td><code>K/4 G4 DB20 K20 G4 K20 G4 DB6 G4 DB10 G/4</code></td><td>192</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/"><img src="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/sett.png" alt="(Clark) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

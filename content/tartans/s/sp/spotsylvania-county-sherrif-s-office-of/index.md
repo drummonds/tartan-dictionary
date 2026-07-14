@@ -13,10 +13,10 @@ Its design is pattern [KGKGKGGYGR](/stripes/kgkgkggygr/) — the page of every t
 The **Spotsylvania County, Sherrif's Office of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/">Spotsylvania County, Sherrif's Office of</a></td><td><code>K/4 Y4 K48 Y4 K4 Y4 DY60 LR6 G4 R/4</code></td><td>276</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/"><img src="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/sett.png" alt="Spotsylvania County, Sherrif's Office of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/">Spotsylvania County, Sherrif's Office of</a></td><td></td><td><code>K/4 Y4 K48 Y4 K4 Y4 DY60 LR6 G4 R/4</code></td><td>276</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/"><img src="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/sett.png" alt="Spotsylvania County, Sherrif's Office of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

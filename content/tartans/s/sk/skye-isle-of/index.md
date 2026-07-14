@@ -16,10 +16,10 @@ Its design is pattern [BKBKYKBBKBY](/stripes/bkbkykbbkby/) — the page of every
 The **Skye, Isle of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/t45k10n2k2lo2k2n10t4k1t5lo1~x2/">Skye, Isle of</a></td><td><code>T/90 K20 N4 K4 LO4 K4 N20 T8 K2 T10 LO/2</code></td><td>244</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/t45k10n2k2lo2k2n10t4k1t5lo1~x2/"><img src="/variants/s11/t45k10n2k2lo2k2n10t4k1t5lo1~x2/sett.png" alt="Skye, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/t45k10n2k2lo2k2n10t4k1t5lo1~x2/">Skye, Isle of</a></td><td></td><td><code>T/90 K20 N4 K4 LO4 K4 N20 T8 K2 T10 LO/2</code></td><td>244</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/t45k10n2k2lo2k2n10t4k1t5lo1~x2/"><img src="/variants/s11/t45k10n2k2lo2k2n10t4k1t5lo1~x2/sett.png" alt="Skye, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

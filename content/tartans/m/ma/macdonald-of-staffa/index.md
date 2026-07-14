@@ -18,10 +18,10 @@ Its design is pattern [RGRGRGRGRGBGKRGRGRBRWRGWGRGRGRW](/stripes/rgrgrgrgrgbgkrg
 The **MacDonald of Staffa** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/">MacDonald of Staffa</a></td><td><code>R/32 G2 R2 G2 R2 G2 R2 G2 R12 G2 DB2 G12 K2 R2 G2 R8 G2 R2 DB8 R8 W2 R8 G8 W2 G8 R2 G2 R12 G2 R16 W/2</code></td><td>310</td><td>1822</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><img src="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/sett.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/">MacDonald of Staffa</a></td><td></td><td><code>R/32 G2 R2 G2 R2 G2 R2 G2 R12 G2 DB2 G12 K2 R2 G2 R8 G2 R2 DB8 R8 W2 R8 G8 W2 G8 R2 G2 R12 G2 R16 W/2</code></td><td>310</td><td>1822</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><img src="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/sett.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

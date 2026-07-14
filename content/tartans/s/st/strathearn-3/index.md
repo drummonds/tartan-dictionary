@@ -18,10 +18,10 @@ Its design is pattern [GRGGRGRGRGGGRGRG](/stripes/grggrgrgrgggrgrg/) — the pag
 The **Strathearn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1~x2/">Strathearn</a></td><td><code>Y/2 R2 G12 Y16 R2 G2 R2 Y16 R12 G2 Y2 G2 R12 G12 R2 Y/2</code></td><td>196</td><td>1812</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1~x2/"><img src="/variants/s16/y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1~x2/sett.png" alt="Strathearn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1~x2/">Strathearn</a></td><td></td><td><code>Y/2 R2 G12 Y16 R2 G2 R2 Y16 R12 G2 Y2 G2 R12 G12 R2 Y/2</code></td><td>196</td><td>1812</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1~x2/"><img src="/variants/s16/y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1~x2/sett.png" alt="Strathearn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KKWKGRKKWKW](/stripes/kkwkgrkkwkw/) — the page of every
 The **Scottish Tartans Authority** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/">Scottish Tartans Authority</a></td><td><code>Ki/32 K4 LB4 K8 DG32 R4 Ki30 K12 LB4 Ki6 LB/8</code></td><td>248</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/"><img src="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/sett.png" alt="Scottish Tartans Authority sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/">Scottish Tartans Authority</a></td><td></td><td><code>Ki/32 K4 LB4 K8 DG32 R4 Ki30 K12 LB4 Ki6 LB/8</code></td><td>248</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/"><img src="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/sett.png" alt="Scottish Tartans Authority sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

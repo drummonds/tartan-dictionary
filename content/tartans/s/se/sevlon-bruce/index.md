@@ -13,10 +13,10 @@ Its design is pattern [GBRGKGK](/stripes/gbrgkgk/) — the page of every tartan 
 The **Sevlon Bruce** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/">Sevlon Bruce</a></td><td><code>K/12 DG8 K12 DG72 R8 DB8 DY/4</code></td><td>232</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><img src="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/sett.png" alt="Sevlon Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/">Sevlon Bruce</a></td><td></td><td><code>K/12 DG8 K12 DG72 R8 DB8 DY/4</code></td><td>232</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><img src="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/sett.png" alt="Sevlon Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

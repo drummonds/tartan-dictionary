@@ -13,10 +13,10 @@ Its design is pattern [RWRGWRGRWBW](/stripes/rwrgwrgrwbw/) — the page of every
 The **Friends of Scotland Caucus** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/">Friends of Scotland Caucus</a></td><td><code>R/6 W4 R6 DG28 W6 R6 DG4 R6 W6 DB94 W/4</code></td><td>330</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/"><img src="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/sett.png" alt="Friends of Scotland Caucus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/">Friends of Scotland Caucus</a></td><td></td><td><code>R/6 W4 R6 DG28 W6 R6 DG4 R6 W6 DB94 W/4</code></td><td>330</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/"><img src="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/sett.png" alt="Friends of Scotland Caucus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

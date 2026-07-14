@@ -18,10 +18,10 @@ Designed by Kinloch Anderson in 2009, based on the Clan Napier sett with colours
 The **Edinburgh Napier University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db4w8db8w10k16g4r38lo1/">Edinburgh Napier University</a></td><td><code>DB/4 W8 DB8 W10 K16 G4 R38 LO/1</code></td><td>173</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db4w8db8w10k16g4r38lo1/"><img src="/variants/s8/db4w8db8w10k16g4r38lo1/sett.png" alt="Edinburgh Napier University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db4w8db8w10k16g4r38lo1/">Edinburgh Napier University</a></td><td></td><td><code>DB/4 W8 DB8 W10 K16 G4 R38 LO/1</code></td><td>173</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db4w8db8w10k16g4r38lo1/"><img src="/variants/s8/db4w8db8w10k16g4r38lo1/sett.png" alt="Edinburgh Napier University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

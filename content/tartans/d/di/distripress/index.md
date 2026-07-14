@@ -13,10 +13,10 @@ Its design is pattern [RKRBKWKR](/stripes/rkrbkwkr/) — the page of every tarta
 The **Distripress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/">Distripress</a></td><td><code>R/12 K2 W8 K8 N30 R2 K70 O/4</code></td><td>256</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><img src="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/sett.png" alt="Distripress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/">Distripress</a></td><td></td><td><code>R/12 K2 W8 K8 N30 R2 K70 O/4</code></td><td>256</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><img src="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/sett.png" alt="Distripress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

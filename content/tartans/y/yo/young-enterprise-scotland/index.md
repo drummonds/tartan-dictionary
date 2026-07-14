@@ -16,10 +16,10 @@ Its design is pattern [GBGGYKY](/stripes/gbggyky/) — the page of every tartan 
 The **Young Enterprise Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/ly3k8lo3gi4g4dt22y2~x2~ly2706114-gi2408144-g2304202-dt1102249/">Young Enterprise Scotland</a></td><td><code>LY/6 K16 LO6 Gi8 G8 DT44 Y/4</code></td><td>174</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/ly3k8lo3gi4g4dt22y2~x2~ly2706114-gi2408144-g2304202-dt1102249/"><img src="/variants/s7/ly3k8lo3gi4g4dt22y2~x2~ly2706114-gi2408144-g2304202-dt1102249/sett.png" alt="Young Enterprise Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/ly3k8lo3gi4g4dt22y2~x2~ly2706114-gi2408144-g2304202-dt1102249/">Young Enterprise Scotland</a></td><td></td><td><code>LY/6 K16 LO6 Gi8 G8 DT44 Y/4</code></td><td>174</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/ly3k8lo3gi4g4dt22y2~x2~ly2706114-gi2408144-g2304202-dt1102249/"><img src="/variants/s7/ly3k8lo3gi4g4dt22y2~x2~ly2706114-gi2408144-g2304202-dt1102249/sett.png" alt="Young Enterprise Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

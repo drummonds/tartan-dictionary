@@ -13,10 +13,10 @@ Its design is pattern [BWBGBWBGBWGRG](/stripes/bwbgbwbgbwgrg/) — the page of e
 The **Holiday Inn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g27r2g3w3db3dy2db14w2db3dy3db3w2db14~x2/">Holiday Inn</a></td><td><code>G/54 R4 G6 W6 DB6 DY4 DB28 W4 DB6 DY6 DB6 W4 DB/28</code></td><td>242</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g27r2g3w3db3dy2db14w2db3dy3db3w2db14~x2/"><img src="/variants/s13/g27r2g3w3db3dy2db14w2db3dy3db3w2db14~x2/sett.png" alt="Holiday Inn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g27r2g3w3db3dy2db14w2db3dy3db3w2db14~x2/">Holiday Inn</a></td><td></td><td><code>G/54 R4 G6 W6 DB6 DY4 DB28 W4 DB6 DY6 DB6 W4 DB/28</code></td><td>242</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g27r2g3w3db3dy2db14w2db3dy3db3w2db14~x2/"><img src="/variants/s13/g27r2g3w3db3dy2db14w2db3dy3db3w2db14~x2/sett.png" alt="Holiday Inn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

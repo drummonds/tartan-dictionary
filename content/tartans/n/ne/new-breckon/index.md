@@ -13,10 +13,10 @@ Its design is pattern [BRYRYRBYB](/stripes/bryryrbyb/) — the page of every tar
 The **New Breckon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/">New Breckon</a></td><td><code>DB/12 LY4 DB54 R54 LY4 R4 LY4 R4 DB/8</code></td><td>276</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/"><img src="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/sett.png" alt="New Breckon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/">New Breckon</a></td><td></td><td><code>DB/12 LY4 DB54 R54 LY4 R4 LY4 R4 DB/8</code></td><td>276</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/"><img src="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/sett.png" alt="New Breckon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

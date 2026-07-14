@@ -18,10 +18,10 @@ Its design is pattern [GKGGGKBKBKGGKBKGGK](/stripes/gkgggkbkbkggkbkggk/) — the
 The **Raznotravie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/">Raznotravie</a></td><td><code>K/20 Y2 G4 K2 N4 K2 G4 Y2 K2 N4 K6 N2 K34 G36 Y2 G4 K2 DG/4</code></td><td>248</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/"><img src="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/sett.png" alt="Raznotravie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/">Raznotravie</a></td><td></td><td><code>K/20 Y2 G4 K2 N4 K2 G4 Y2 K2 N4 K6 N2 K34 G36 Y2 G4 K2 DG/4</code></td><td>248</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/"><img src="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/sett.png" alt="Raznotravie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

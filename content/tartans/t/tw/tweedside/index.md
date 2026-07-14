@@ -21,13 +21,13 @@ The **Tweedside** tartan is one sett, recorded at 2 scales — the same proporti
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/">Tweedside</a></td><td><code>K/18 R2 K2 R5 W2 R2 W2 R2 K/2</code></td><td>54</td><td>1840</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/"><img src="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/sett.png" alt="Tweedside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/">Tweedside</a></td><td><code>K/36 R4 K4 R10 W4 R4 W4 R4 K/4</code></td><td>108</td><td>1840</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x4/">Red</a></td><td><code>K/72 R8 K8 R20 W8 R8 W8 R8 K/8</code></td><td>216</td><td>1840</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/">Tweedside</a> · <a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x4/">Red</a></td></tr>
+<tr><td><a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/">Tweedside</a></td><td></td><td><code>K/18 R2 K2 R5 W2 R2 W2 R2 K/2</code></td><td>54</td><td>1840</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/"><img src="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/sett.png" alt="Tweedside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/">Tweedside</a></td><td>0.00</td><td><code>K/36 R4 K4 R10 W4 R4 W4 R4 K/4</code></td><td>108</td><td>1840</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x4/">Red</a></td><td>0.00</td><td><code>K/72 R8 K8 R20 W8 R8 W8 R8 K/8</code></td><td>216</td><td>1840</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x2/">Tweedside</a> · <a href="/variants/s9/k18r2k2r5w2r2w2r2k2~x4/">Red</a></td></tr>
 </tbody>
 </table>
 

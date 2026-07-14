@@ -14,13 +14,13 @@ The **Robinson Dress Dress** tartan is one sett, recorded at 2 scales — the sa
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k1r7k1r7db16g1~x4/">Robinson Dress Dress</a></td><td><code>K/1 R7 K1 R7 DB16 G/1</code></td><td>64</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k1r7k1r7db16g1~x4/"><img src="/variants/s6/k1r7k1r7db16g1~x4/sett.png" alt="Robinson Dress Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/k1r7k1r7db16g1~x2/">Robinson, dress</a></td><td><code>K/2 R14 K2 R14 DB32 G/2</code></td><td>128</td><td>~2003</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/k1r7k1r7db16g1~x4/">Robinson Dress (Pendleton) #1</a></td><td><code>K/4 R28 K4 R28 DB64 G/4</code></td><td>256</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/k1r7k1r7db16g1~x2/">Robinson, dress</a> · <a href="/variants/s6/k1r7k1r7db16g1~x4/">Robinson Dress (Pendleton) #1</a></td></tr>
+<tr><td><a href="/variants/s6/k1r7k1r7db16g1~x4/">Robinson Dress Dress</a></td><td></td><td><code>K/1 R7 K1 R7 DB16 G/1</code></td><td>64</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k1r7k1r7db16g1~x4/"><img src="/variants/s6/k1r7k1r7db16g1~x4/sett.png" alt="Robinson Dress Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/k1r7k1r7db16g1~x2/">Robinson, dress</a></td><td>0.00</td><td><code>K/2 R14 K2 R14 DB32 G/2</code></td><td>128</td><td>~2003</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/k1r7k1r7db16g1~x4/">Robinson Dress (Pendleton) #1</a></td><td>0.00</td><td><code>K/4 R28 K4 R28 DB64 G/4</code></td><td>256</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/k1r7k1r7db16g1~x2/">Robinson, dress</a> · <a href="/variants/s6/k1r7k1r7db16g1~x4/">Robinson Dress (Pendleton) #1</a></td></tr>
 </tbody>
 </table>
 

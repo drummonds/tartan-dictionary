@@ -13,10 +13,10 @@ Its design is pattern [GYWKGKGY](/stripes/gywkgkgy/) — the page of every tarta
 The **Celtic Pride** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g10ly3w2k2g8k22g43lo4~x2/">Celtic Pride</a></td><td><code>G/20 LY6 W4 K4 G16 K44 G86 LO/8</code></td><td>348</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g10ly3w2k2g8k22g43lo4~x2/"><img src="/variants/s8/g10ly3w2k2g8k22g43lo4~x2/sett.png" alt="Celtic Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g10ly3w2k2g8k22g43lo4~x2/">Celtic Pride</a></td><td></td><td><code>G/20 LY6 W4 K4 G16 K44 G86 LO/8</code></td><td>348</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g10ly3w2k2g8k22g43lo4~x2/"><img src="/variants/s8/g10ly3w2k2g8k22g43lo4~x2/sett.png" alt="Celtic Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

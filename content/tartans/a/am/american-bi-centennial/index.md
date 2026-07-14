@@ -15,10 +15,10 @@ Designed 1975 from J.C. Thomson's idea for American St Andrews and Caledonian So
 The **American Bi-Centennial** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/">American Bi-Centennial</a></td><td><code>DB/28 LB4 W4 LB4 DB40 K40 R34 W8 R6 W6 R6 W6 R/10</code></td><td>354</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/"><img src="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/sett.png" alt="American Bi-Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/">American Bi-Centennial</a></td><td></td><td><code>DB/28 LB4 W4 LB4 DB40 K40 R34 W8 R6 W6 R6 W6 R/10</code></td><td>354</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/"><img src="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/sett.png" alt="American Bi-Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

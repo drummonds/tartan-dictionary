@@ -17,13 +17,13 @@ The **Kincaid** tartan is one sett, recorded at 2 scales — the same proportion
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/k11g17r3/">Kincaid</a></td><td><code>K/11 G17 R/3</code></td><td>48</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/k11g17r3/"><img src="/variants/s3/k11g17r3/sett.png" alt="Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s3/k11g17r3/">Kincaid</a></td><td><code>K/11 G17 R/3</code></td><td>48</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s3/k11g17r3~x2/">Kincaid</a></td><td><code>K/22 G34 R/6</code></td><td>96</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s3/k11g17r3/">Kincaid</a> · <a href="/variants/s3/k11g17r3~x2/">Kincaid</a></td></tr>
+<tr><td><a href="/variants/s3/k11g17r3/">Kincaid</a></td><td></td><td><code>K/11 G17 R/3</code></td><td>48</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/k11g17r3/"><img src="/variants/s3/k11g17r3/sett.png" alt="Kincaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s3/k11g17r3/">Kincaid</a></td><td>0.00</td><td><code>K/11 G17 R/3</code></td><td>48</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s3/k11g17r3~x2/">Kincaid</a></td><td>0.00</td><td><code>K/22 G34 R/6</code></td><td>96</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s3/k11g17r3/">Kincaid</a> · <a href="/variants/s3/k11g17r3~x2/">Kincaid</a></td></tr>
 </tbody>
 </table>
 

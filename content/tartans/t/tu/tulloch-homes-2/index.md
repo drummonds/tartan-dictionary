@@ -13,10 +13,10 @@ Its design is pattern [GGRBRGG](/stripes/ggrbrgg/) — the page of every tartan 
 The **Tulloch Homes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/">Tulloch Homes</a></td><td><code>Y/6 DG54 R9 DT7 R9 DG14 G/6</code></td><td>198</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/"><img src="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/sett.png" alt="Tulloch Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/">Tulloch Homes</a></td><td></td><td><code>Y/6 DG54 R9 DT7 R9 DG14 G/6</code></td><td>198</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/"><img src="/variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/sett.png" alt="Tulloch Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

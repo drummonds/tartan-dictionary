@@ -13,10 +13,10 @@ Its design is pattern [KRWRKRYBWRWBWR](/stripes/krwrkrybwrwbwr/) — the page of
 The **El Dorado Hills P & D** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/">El Dorado Hills P &amp; D</a></td><td><code>K/10 R2 W4 R2 K52 R6 LY2 N20 W2 R6 W2 N20 W2 R/6</code></td><td>256</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><img src="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/sett.png" alt="El Dorado Hills P &amp; D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/">El Dorado Hills P &amp; D</a></td><td></td><td><code>K/10 R2 W4 R2 K52 R6 LY2 N20 W2 R6 W2 N20 W2 R/6</code></td><td>256</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><img src="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/sett.png" alt="El Dorado Hills P &amp; D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

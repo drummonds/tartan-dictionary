@@ -13,10 +13,10 @@ Its design is pattern [BRGRBG](/stripes/brgrbg/) — the page of every tartan sh
 The **Wilson's No.199** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/">Wilson's No.199</a></td><td><code>DP/22 R6 DG30 R6 DP22 Y/4</code></td><td>154</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/"><img src="/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/sett.png" alt="Wilson's No.199 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/">Wilson's No.199</a></td><td></td><td><code>DP/22 R6 DG30 R6 DP22 Y/4</code></td><td>154</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/"><img src="/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/sett.png" alt="Wilson's No.199 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

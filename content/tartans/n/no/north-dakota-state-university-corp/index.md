@@ -16,10 +16,10 @@ Its design is pattern [YGGYGY](/stripes/yggygy/) — the page of every tartan sh
 The **North Dakota State University (Corp.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/">North Dakota State University (Corp.</a></td><td><code>LY/22 DG10 LY20 G8 DG52 LY/8</code></td><td>210</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/"><img src="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/sett.png" alt="North Dakota State University (Corp. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/">North Dakota State University (Corp.</a></td><td></td><td><code>LY/22 DG10 LY20 G8 DG52 LY/8</code></td><td>210</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/"><img src="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/sett.png" alt="North Dakota State University (Corp. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

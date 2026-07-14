@@ -13,10 +13,10 @@ Its design is pattern [BWBBBBG](/stripes/bwbbbbg/) — the page of every tartan 
 The **JetBlue** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db4w3t6db40t8db12g3~x2/">JetBlue</a></td><td><code>DB/8 W6 T12 DB80 T16 DB24 G/6</code></td><td>290</td><td>~2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><img src="/variants/s7/db4w3t6db40t8db12g3~x2/sett.png" alt="JetBlue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db4w3t6db40t8db12g3~x2/">JetBlue</a></td><td></td><td><code>DB/8 W6 T12 DB80 T16 DB24 G/6</code></td><td>290</td><td>~2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><img src="/variants/s7/db4w3t6db40t8db12g3~x2/sett.png" alt="JetBlue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

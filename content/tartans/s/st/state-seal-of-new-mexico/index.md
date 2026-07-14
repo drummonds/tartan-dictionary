@@ -13,10 +13,10 @@ Its design is pattern [WBWGBYGW](/stripes/wbwgbygw/) — the page of every tarta
 The **State Seal of New Mexico** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w5n49w3dg24dr5ly4dy30w4~x2/">State Seal of New Mexico</a></td><td><code>W/10 N98 W6 DG48 DR10 LY8 DY60 W/8</code></td><td>478</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w5n49w3dg24dr5ly4dy30w4~x2/"><img src="/variants/s8/w5n49w3dg24dr5ly4dy30w4~x2/sett.png" alt="State Seal of New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w5n49w3dg24dr5ly4dy30w4~x2/">State Seal of New Mexico</a></td><td></td><td><code>W/10 N98 W6 DG48 DR10 LY8 DY60 W/8</code></td><td>478</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w5n49w3dg24dr5ly4dy30w4~x2/"><img src="/variants/s8/w5n49w3dg24dr5ly4dy30w4~x2/sett.png" alt="State Seal of New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

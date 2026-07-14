@@ -18,10 +18,10 @@ Its design is pattern [GRGKRKRGRKR](/stripes/grgkrkrgrkr/) — the page of every
 The **MacPherson of Cluny** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/">MacPherson of Cluny</a></td><td><code>R/5 K2 R2 G42 R5 K36 R70 K2 Y2 R7 G/2</code></td><td>343</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><img src="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/sett.png" alt="MacPherson of Cluny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/">MacPherson of Cluny</a></td><td></td><td><code>R/5 K2 R2 G42 R5 K36 R70 K2 Y2 R7 G/2</code></td><td>343</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><img src="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/sett.png" alt="MacPherson of Cluny sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

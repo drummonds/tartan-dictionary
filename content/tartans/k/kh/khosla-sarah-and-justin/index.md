@@ -13,11 +13,11 @@ Its design is pattern [BBRYRYRBW](/stripes/bbryryrbw/) — the page of every tar
 The **Khosla, Sarah and Justin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2109013/">Khosla, Sarah and Justin</a></td><td><code>DP/8 N20 R36 LY6 R6 LY10 Ri16 N18 W/8</code></td><td>240</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2109013/"><img src="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2109013/sett.png" alt="Khosla, Sarah and Justin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2109013/">(Personal)</a> · <a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2806019/">Khosla, Sarah and Jatin (Personal)</a></td></tr>
+<tr><td><a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2109013/">Khosla, Sarah and Justin</a></td><td></td><td><code>DP/8 N20 R36 LY6 R6 LY10 Ri16 N18 W/8</code></td><td>240</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2109013/"><img src="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2109013/sett.png" alt="Khosla, Sarah and Justin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2109013/">(Personal)</a> · <a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2806019/">Khosla, Sarah and Jatin (Personal)</a></td></tr>
 </tbody>
 </table>
 

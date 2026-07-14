@@ -18,10 +18,10 @@ Its design is pattern [GRBKRKWRBRWKRGRBKW](/stripes/grbkrkwrbrwkrgrbkw/) — the
 The **Dundas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/">Dundas</a></td><td><code>G/8 R8 B2 K2 R38 K2 LB2 R4 DB10 R4 LB2 K2 R4 G48 R10 B2 K2 LB/6</code></td><td>298</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/"><img src="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/sett.png" alt="Dundas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/">Dundas</a></td><td></td><td><code>G/8 R8 B2 K2 R38 K2 LB2 R4 DB10 R4 LB2 K2 R4 G48 R10 B2 K2 LB/6</code></td><td>298</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/"><img src="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/sett.png" alt="Dundas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

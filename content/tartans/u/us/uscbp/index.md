@@ -13,10 +13,10 @@ Its design is pattern [KBKBKBKBR](/stripes/kbkbkbkbr/) — the page of every tar
 The **USCBP** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db1003265-b1813263/">USCBP</a></td><td><code>K/12 DB6 K6 DB66 K32 B42 K6 B6 R/8</code></td><td>348</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db1003265-b1813263/"><img src="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db1003265-b1813263/sett.png" alt="USCBP sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db1003265-b1813263/">USCBP</a></td><td></td><td><code>K/12 DB6 K6 DB66 K32 B42 K6 B6 R/8</code></td><td>348</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db1003265-b1813263/"><img src="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db1003265-b1813263/sett.png" alt="USCBP sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

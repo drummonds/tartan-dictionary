@@ -16,10 +16,10 @@ Its design is pattern [WRBRBKBRBRBKBRBRW](/stripes/wrbrbkbrbrbkbrbrw/) — the p
 The **Australian, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/w2o15b10o4b2k2b2o4b50o4b2k2b2o4b10o15lb2~x2/">Australian, The</a></td><td><code>W/4 O30 B20 O8 B4 K4 B4 O8 B100 O8 B4 K4 B4 O8 B20 O30 LB/4</code></td><td>520</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/w2o15b10o4b2k2b2o4b50o4b2k2b2o4b10o15lb2~x2/"><img src="/variants/s17/w2o15b10o4b2k2b2o4b50o4b2k2b2o4b10o15lb2~x2/sett.png" alt="Australian, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/w2o15b10o4b2k2b2o4b50o4b2k2b2o4b10o15lb2~x2/">Australian, The</a></td><td></td><td><code>W/4 O30 B20 O8 B4 K4 B4 O8 B100 O8 B4 K4 B4 O8 B20 O30 LB/4</code></td><td>520</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w2o15b10o4b2k2b2o4b50o4b2k2b2o4b10o15lb2~x2/"><img src="/variants/s17/w2o15b10o4b2k2b2o4b50o4b2k2b2o4b10o15lb2~x2/sett.png" alt="Australian, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

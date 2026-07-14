@@ -13,10 +13,10 @@ Its design is pattern [BKYKYKBKBKBKW](/stripes/bkykykbkbkbkw/) — the page of e
 The **Bredillet** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/">Bredillet</a></td><td><code>DB/32 K4 LY4 K4 LY4 K30 DB28 K4 DB28 K30 DB32 K8 W/2</code></td><td>386</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/"><img src="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/sett.png" alt="Bredillet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/">Bredillet</a></td><td></td><td><code>DB/32 K4 LY4 K4 LY4 K30 DB28 K4 DB28 K30 DB32 K8 W/2</code></td><td>386</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/"><img src="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/sett.png" alt="Bredillet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

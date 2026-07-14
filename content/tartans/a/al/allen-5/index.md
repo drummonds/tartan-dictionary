@@ -18,11 +18,11 @@ Its design is pattern [BRBRBGGWGGBGRG](/stripes/brbrbggwggbgrg/) — the page of
 The **Allen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/">Allen</a></td><td><code>DT/32 R4 DT6 R8 DT4 DY24 G36 W4 G36 DY24 DT24 Y4 R4 Y/4</code></td><td>392</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/"><img src="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/sett.png" alt="Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/">2001 (Personal)</a> · <a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/">Northumbrian (Personal)</a></td></tr>
+<tr><td><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/">Allen</a></td><td></td><td><code>DT/32 R4 DT6 R8 DT4 DY24 G36 W4 G36 DY24 DT24 Y4 R4 Y/4</code></td><td>392</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/"><img src="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/sett.png" alt="Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/">2001 (Personal)</a> · <a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/">Northumbrian (Personal)</a></td></tr>
 </tbody>
 </table>
 

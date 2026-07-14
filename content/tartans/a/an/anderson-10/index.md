@@ -18,10 +18,10 @@ Its design is pattern [KRKRRRKGKGKGKR](/stripes/krkrrrkgkgkgkr/) — the page of
 The **Anderson 10** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k3r7k4o7ri3o7k4g3k3g19k2g2k2ri3~x2~r1506028-ri2008029/">Anderson 10</a></td><td><code>K/6 R14 K8 O14 Ri6 O14 K8 G6 K6 G38 K4 G4 K4 Ri/6</code></td><td>264</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k3r7k4o7ri3o7k4g3k3g19k2g2k2ri3~x2~r1506028-ri2008029/"><img src="/variants/s14/k3r7k4o7ri3o7k4g3k3g19k2g2k2ri3~x2~r1506028-ri2008029/sett.png" alt="Anderson 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k3r7k4o7ri3o7k4g3k3g19k2g2k2ri3~x2~r1506028-ri2008029/">Anderson 10</a></td><td></td><td><code>K/6 R14 K8 O14 Ri6 O14 K8 G6 K6 G38 K4 G4 K4 Ri/6</code></td><td>264</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k3r7k4o7ri3o7k4g3k3g19k2g2k2ri3~x2~r1506028-ri2008029/"><img src="/variants/s14/k3r7k4o7ri3o7k4g3k3g19k2g2k2ri3~x2~r1506028-ri2008029/sett.png" alt="Anderson 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

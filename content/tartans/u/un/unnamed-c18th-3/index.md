@@ -13,10 +13,10 @@ Its design is pattern [RBKRBBBRKRKRKRYGWY](/stripes/rbkrbbbrkrkrkrygwy/) — the
 The **Unnamed C18th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/">Unnamed C18th</a></td><td><code>R/40 B5 K26 R4 B10 DB14 B10 R5 K2 R5 K2 R5 K2 R5 LR2 DG26 LB6 LR/2</code></td><td>300</td><td>1744</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/"><img src="/variants/s18/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/sett.png" alt="Unnamed C18th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/">Unnamed C18th</a></td><td></td><td><code>R/40 B5 K26 R4 B10 DB14 B10 R5 K2 R5 K2 R5 K2 R5 LR2 DG26 LB6 LR/2</code></td><td>300</td><td>1744</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/"><img src="/variants/s18/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/sett.png" alt="Unnamed C18th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

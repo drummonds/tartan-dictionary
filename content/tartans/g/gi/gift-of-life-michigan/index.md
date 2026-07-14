@@ -13,10 +13,10 @@ Its design is pattern [RWRWGGW](/stripes/rwrwggw/) — the page of every tartan 
 The **Gift of Life Michigan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/">Gift of Life Michigan</a></td><td><code>R/4 LB2 R2 LB22 G32 DG2 W/2</code></td><td>126</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/"><img src="/variants/s7/r2lb1r1lb11g16dg1w1~x2/sett.png" alt="Gift of Life Michigan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/">Gift of Life Michigan</a></td><td></td><td><code>R/4 LB2 R2 LB22 G32 DG2 W/2</code></td><td>126</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/"><img src="/variants/s7/r2lb1r1lb11g16dg1w1~x2/sett.png" alt="Gift of Life Michigan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

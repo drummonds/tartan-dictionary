@@ -20,10 +20,10 @@ Worn by the Drummonds to meet George IV in Edinburgh, 1822; resembles a Grant pa
 The **Drummond** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/">Drummond</a></td><td><code>DB/48 R14 G14 R78 DB8 R4 DB4 R10 G84 R14 DB12 R/14</code></td><td>546</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/"><img src="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/">Drummond</a></td><td></td><td><code>DB/48 R14 G14 R78 DB8 R4 DB4 R10 G84 R14 DB12 R/14</code></td><td>546</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/"><img src="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

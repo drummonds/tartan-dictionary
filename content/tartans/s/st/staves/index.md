@@ -14,13 +14,13 @@ The **Staves** tartan is one sett, recorded at 2 scales — the same proportion 
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/r10dg4dr1w1lb1~x2/">Staves</a></td><td><code>R/10 DG4 DR1 W1 LB/1</code></td><td>23</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r10dg4dr1w1lb1~x2/"><img src="/variants/s5/r10dg4dr1w1lb1~x2/sett.png" alt="Staves sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s5/r10dg4dr1w1lb1~x2/">(Personal)</a></td><td><code>R/20 DG8 DR2 W2 LB/2</code></td><td>46</td><td>2005</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s5/r10dg4dr1w1lb1~x6/">(Personal)</a></td><td><code>R/60 DG24 DR6 W6 LB/6</code></td><td>138</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s5/r10dg4dr1w1lb1~x2/">(Personal)</a> · <a href="/variants/s5/r10dg4dr1w1lb1~x6/">(Personal)</a></td></tr>
+<tr><td><a href="/variants/s5/r10dg4dr1w1lb1~x2/">Staves</a></td><td></td><td><code>R/10 DG4 DR1 W1 LB/1</code></td><td>23</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r10dg4dr1w1lb1~x2/"><img src="/variants/s5/r10dg4dr1w1lb1~x2/sett.png" alt="Staves sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s5/r10dg4dr1w1lb1~x2/">(Personal)</a></td><td>0.00</td><td><code>R/20 DG8 DR2 W2 LB/2</code></td><td>46</td><td>2005</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s5/r10dg4dr1w1lb1~x6/">(Personal)</a></td><td>0.00</td><td><code>R/60 DG24 DR6 W6 LB/6</code></td><td>138</td><td>~2005</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s5/r10dg4dr1w1lb1~x2/">(Personal)</a> · <a href="/variants/s5/r10dg4dr1w1lb1~x6/">(Personal)</a></td></tr>
 </tbody>
 </table>
 

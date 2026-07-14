@@ -16,10 +16,10 @@ Its design is pattern [RGRGRGRKR](/stripes/rgrgrgrkr/) — the page of every tar
 The **Maxwell Variant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r40k15r6g32r6g32r40g2r20/">Maxwell Variant</a></td><td><code>R/40 K15 R6 G32 R6 G32 R40 G2 R/20</code></td><td>326</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r40k15r6g32r6g32r40g2r20/"><img src="/variants/s9/r40k15r6g32r6g32r40g2r20/sett.png" alt="Maxwell Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r40k15r6g32r6g32r40g2r20/">Maxwell Variant</a></td><td></td><td><code>R/40 K15 R6 G32 R6 G32 R40 G2 R/20</code></td><td>326</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r40k15r6g32r6g32r40g2r20/"><img src="/variants/s9/r40k15r6g32r6g32r40g2r20/sett.png" alt="Maxwell Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

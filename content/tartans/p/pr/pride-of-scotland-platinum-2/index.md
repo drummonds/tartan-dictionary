@@ -13,10 +13,10 @@ Its design is pattern [KBWBKBKWBKW](/stripes/kbwbkbkwbkw/) — the page of every
 The **Pride of Scotland Platinum** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/">Pride of Scotland Platinum</a></td><td><code>K/14 N4 LB4 N4 K26 N4 K4 LB4 N26 K52 LP/4</code></td><td>274</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/"><img src="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/sett.png" alt="Pride of Scotland Platinum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/">Pride of Scotland Platinum</a></td><td></td><td><code>K/14 N4 LB4 N4 K26 N4 K4 LB4 N26 K52 LP/4</code></td><td>274</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/"><img src="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/sett.png" alt="Pride of Scotland Platinum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

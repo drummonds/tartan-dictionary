@@ -13,10 +13,10 @@ Its design is pattern [BWBGBRRKRRG](/stripes/bwbgbrrkrrg/) — the page of every
 The **Pride of Scotland Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g9r2m2k3m18r1db2g2db19w33db2~x2/">Pride of Scotland Dress</a></td><td><code>G/18 R4 M4 K6 M36 R2 DB4 G4 DB38 W66 DB/4</code></td><td>350</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g9r2m2k3m18r1db2g2db19w33db2~x2/"><img src="/variants/s11/g9r2m2k3m18r1db2g2db19w33db2~x2/sett.png" alt="Pride of Scotland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g9r2m2k3m18r1db2g2db19w33db2~x2/">Pride of Scotland Dress</a></td><td></td><td><code>G/18 R4 M4 K6 M36 R2 DB4 G4 DB38 W66 DB/4</code></td><td>350</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g9r2m2k3m18r1db2g2db19w33db2~x2/"><img src="/variants/s11/g9r2m2k3m18r1db2g2db19w33db2~x2/sett.png" alt="Pride of Scotland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

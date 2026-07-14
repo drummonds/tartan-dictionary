@@ -13,10 +13,10 @@ Its design is pattern [BBBGBGBGBBY](/stripes/bbbgbgbgbby/) — the page of every
 The **Jamie Telfer of the Fair Dodhead Commemorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/">Jamie Telfer of the Fair Dodhead Commemorative</a></td><td><code>B/4 DB20 DP24 DG8 DP4 DG48 DR4 DG8 DP4 DR20 LY/4</code></td><td>288</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/"><img src="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/sett.png" alt="Jamie Telfer of the Fair Dodhead Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/">Jamie Telfer of the Fair Dodhead Commemorative</a></td><td></td><td><code>B/4 DB20 DP24 DG8 DP4 DG48 DR4 DG8 DP4 DR20 LY/4</code></td><td>288</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/"><img src="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/sett.png" alt="Jamie Telfer of the Fair Dodhead Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

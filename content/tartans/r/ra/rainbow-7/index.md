@@ -18,10 +18,10 @@ Its design is pattern [BGGBRYRYGYGY](/stripes/bggbryrygygy/) — the page of eve
 The **Rainbow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/">Rainbow</a></td><td><code>DB/12 G4 DG8 DB24 R6 LR4 R16 LR6 DG12 LR6 DG12 LR/6</code></td><td>214</td><td>1974</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/"><img src="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/">Rainbow</a></td><td></td><td><code>DB/12 G4 DG8 DB24 R6 LR4 R16 LR6 DG12 LR6 DG12 LR/6</code></td><td>214</td><td>1974</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/"><img src="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

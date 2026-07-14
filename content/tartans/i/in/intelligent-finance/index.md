@@ -13,10 +13,10 @@ Its design is pattern [WBWWWWWWBW](/stripes/wbwwwwwwbw/) — the page of every t
 The **Intelligent Finance** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/">Intelligent Finance</a></td><td><code>W/5 DP7 LB40 LP5 LB5 LP32 LB5 LP5 DP40 LP/5</code></td><td>288</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/"><img src="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/sett.png" alt="Intelligent Finance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/">Intelligent Finance</a></td><td></td><td><code>W/5 DP7 LB40 LP5 LB5 LP32 LB5 LP5 DP40 LP/5</code></td><td>288</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/"><img src="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/sett.png" alt="Intelligent Finance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,11 +13,11 @@ Its design is pattern [BRKWKWKWKBRW](/stripes/brkwkwkwkbrw/) — the page of eve
 The **Scottish Knights Templar St. A (Corp** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/">Scottish Knights Templar St. A (Corp</a></td><td><code>LB/8 R2 DB40 K12 LB10 K8 LB8 K8 LB6 K4 R2 DB/4</code></td><td>212</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><img src="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/sett.png" alt="Scottish Knights Templar St. A (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/">Scottish Knights Templar St. A (Corp</a> · <a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2~db1406275/">Scottish Knights Templar St. Andrews</a></td></tr>
+<tr><td><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/">Scottish Knights Templar St. A (Corp</a></td><td></td><td><code>LB/8 R2 DB40 K12 LB10 K8 LB8 K8 LB6 K4 R2 DB/4</code></td><td>212</td><td>1978</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><img src="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/sett.png" alt="Scottish Knights Templar St. A (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/">Scottish Knights Templar St. A (Corp</a> · <a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2~db1406275/">Scottish Knights Templar St. Andrews</a></td></tr>
 </tbody>
 </table>
 

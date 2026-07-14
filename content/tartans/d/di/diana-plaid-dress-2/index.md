@@ -18,10 +18,10 @@ Its design is pattern [WRBRBWBGBWRW](/stripes/wrbrbwbgbwrw/) — the page of eve
 The **Diana, Plaid dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/">Diana, Plaid dress</a></td><td><code>W/92 R6 W14 DO4 Y4 DO4 W4 DO22 O12 B4 O6 W/4</code></td><td>256</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/"><img src="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/sett.png" alt="Diana, Plaid dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/">Diana, Plaid dress</a></td><td></td><td><code>W/92 R6 W14 DO4 Y4 DO4 W4 DO22 O12 B4 O6 W/4</code></td><td>256</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/"><img src="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/sett.png" alt="Diana, Plaid dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

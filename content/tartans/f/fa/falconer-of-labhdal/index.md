@@ -20,10 +20,10 @@ Update of conventional Falconer tartan with extra blue line in green centre and 
 The **Falconer of Labhdal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k7lb7g20lb2g2lb2g20lb7k7lb7~x4~g2405163/">Falconer of Labhdal</a></td><td><code>K/28 LB28 G80 LB8 G8 LB8 G80 LB28 K28 LB/28</code></td><td>592</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k7lb7g20lb2g2lb2g20lb7k7lb7~x4~g2405163/"><img src="/variants/s10/k7lb7g20lb2g2lb2g20lb7k7lb7~x4~g2405163/sett.png" alt="Falconer of Labhdal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k7lb7g20lb2g2lb2g20lb7k7lb7~x4~g2405163/">Falconer of Labhdal</a></td><td></td><td><code>K/28 LB28 G80 LB8 G8 LB8 G80 LB28 K28 LB/28</code></td><td>592</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k7lb7g20lb2g2lb2g20lb7k7lb7~x4~g2405163/"><img src="/variants/s10/k7lb7g20lb2g2lb2g20lb7k7lb7~x4~g2405163/sett.png" alt="Falconer of Labhdal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

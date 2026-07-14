@@ -13,10 +13,10 @@ Its design is pattern [GGBBBBBBBGBR](/stripes/ggbbbbbbbgbr/) — the page of eve
 The **Los Angeles Police Bagpipe Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/">Los Angeles Police Bagpipe Band</a></td><td><code>R/4 DT12 G30 DB12 DT8 DB8 DT56 DB8 DT8 DB12 G12 Y/4</code></td><td>340</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/"><img src="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/sett.png" alt="Los Angeles Police Bagpipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/">Los Angeles Police Bagpipe Band</a></td><td></td><td><code>R/4 DT12 G30 DB12 DT8 DB8 DT56 DB8 DT8 DB12 G12 Y/4</code></td><td>340</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/"><img src="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/sett.png" alt="Los Angeles Police Bagpipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

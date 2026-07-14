@@ -13,10 +13,10 @@ Its design is pattern [BWKBBWBBW](/stripes/bwkbbwbbw/) — the page of every tar
 The **Midnight Balmoral** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/">Midnight Balmoral</a></td><td><code>N/8 W2 K72 DB4 DR8 W2 DB28 DR16 W/2</code></td><td>274</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/"><img src="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/sett.png" alt="Midnight Balmoral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/">Midnight Balmoral</a></td><td></td><td><code>N/8 W2 K72 DB4 DR8 W2 DB28 DR16 W/2</code></td><td>274</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/"><img src="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/sett.png" alt="Midnight Balmoral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

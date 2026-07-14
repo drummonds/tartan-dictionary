@@ -15,10 +15,10 @@ Designed by Edinburgh Woollen Mills for the 1988 Korea Olympics, raising funds f
 The **Equorian Olympic Commemorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/">Equorian Olympic Commemorative</a></td><td><code>DB/2 N1 LY1 DG6 LR3 LY3 DY6 LY1 N1 DB2 N1 LY1 DG6 LR3 LY3 DY6 LY1 N1 DB2 N1 LY1 DG6 LR3 LY3 DY6 LY3 LR3 DG6 LR3 LY3 DY6 LY1 N/1</code></td><td>189</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/"><img src="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/sett.png" alt="Equorian Olympic Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/">Equorian Olympic Commemorative</a></td><td></td><td><code>DB/2 N1 LY1 DG6 LR3 LY3 DY6 LY1 N1 DB2 N1 LY1 DG6 LR3 LY3 DY6 LY1 N1 DB2 N1 LY1 DG6 LR3 LY3 DY6 LY3 LR3 DG6 LR3 LY3 DY6 LY1 N/1</code></td><td>189</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/"><img src="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/sett.png" alt="Equorian Olympic Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

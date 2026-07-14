@@ -18,15 +18,15 @@ The **Bruce County** tartan groups 2 setts — the same named design recorded as
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/">Bruce County</a> ★</td><td><code>Y/1 R8 G2 R2 G6 R1 G6 R2 G2 R7 DB1 W/1</code></td><td>76</td><td>1964</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/"><img src="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/sett.png" alt="Bruce County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/">Bruce County</a></td><td><code>Y/2 R16 G4 R4 G12 R2 G12 R4 G4 R14 DB2 W/2</code></td><td>152</td><td>1964</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x4/">Bruce County</a></td><td><code>Y/4 R32 G8 R8 G24 R4 G24 R8 G8 R28 DB4 W/4</code></td><td>304</td><td>1964</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/">Bruce County</a> · <a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x4/">Bruce County</a></td></tr>
-<tr><td><a href="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/">(District)</a></td><td><code>W/4 DB4 R28 G8 R8 G24 R4 G24 R8 G8 R32 LO/4</code></td><td>304</td><td>1964</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/"><img src="w1db1r7g2r2g6r1g6r2g2r8lo1-rev.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/">Bruce County</a> ★</td><td></td><td><code>Y/1 R8 G2 R2 G6 R1 G6 R2 G2 R7 DB1 W/1</code></td><td>76</td><td>1964</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/"><img src="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/sett.png" alt="Bruce County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/">Bruce County</a></td><td>0.00</td><td><code>Y/2 R16 G4 R4 G12 R2 G12 R4 G4 R14 DB2 W/2</code></td><td>152</td><td>1964</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x4/">Bruce County</a></td><td>0.00</td><td><code>Y/4 R32 G8 R8 G24 R4 G24 R8 G8 R28 DB4 W/4</code></td><td>304</td><td>1964</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/">Bruce County</a> · <a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x4/">Bruce County</a></td></tr>
+<tr><td><a href="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/">(District)</a></td><td>0.30</td><td><code>W/4 DB4 R28 G8 R8 G24 R4 G24 R8 G8 R32 LO/4</code></td><td>304</td><td>1964</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/"><img src="w1db1r7g2r2g6r1g6r2g2r8lo1-rev.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

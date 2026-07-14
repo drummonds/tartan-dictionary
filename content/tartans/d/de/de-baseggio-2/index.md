@@ -13,10 +13,10 @@ Its design is pattern [BBGWRBBBGBGBGBGB](/stripes/bbgwrbbbgbgbgbgb/) — the pag
 The **de Baseggio** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/n4db6g1w1r1db6n4db2y1db1y1db1y1db2y3db3~x4~n2203265-db1105267/">de Baseggio</a></td><td><code>N/16 DB24 G4 W4 R4 DB24 N16 DB8 Y4 DB4 Y4 DB4 Y4 DB8 Y12 DB/12</code></td><td>276</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/n4db6g1w1r1db6n4db2y1db1y1db1y1db2y3db3~x4~n2203265-db1105267/"><img src="/variants/s16/n4db6g1w1r1db6n4db2y1db1y1db1y1db2y3db3~x4~n2203265-db1105267/sett.png" alt="de Baseggio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/n4db6g1w1r1db6n4db2y1db1y1db1y1db2y3db3~x4~n2203265-db1105267/">de Baseggio</a></td><td></td><td><code>N/16 DB24 G4 W4 R4 DB24 N16 DB8 Y4 DB4 Y4 DB4 Y4 DB8 Y12 DB/12</code></td><td>276</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/n4db6g1w1r1db6n4db2y1db1y1db1y1db2y3db3~x4~n2203265-db1105267/"><img src="/variants/s16/n4db6g1w1r1db6n4db2y1db1y1db1y1db2y3db3~x4~n2203265-db1105267/sett.png" alt="de Baseggio sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

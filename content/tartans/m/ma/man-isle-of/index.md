@@ -13,10 +13,10 @@ Its design is pattern [RBGYGYGYGBYBY](/stripes/rbgygygygbyby/) — the page of e
 The **Man, Isle of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/">Man, Isle of</a></td><td><code>R/4 B44 DY8 LR6 DG14 LY4 DG8 LR4 DG18 DP12 LY4 DP8 LR/4</code></td><td>268</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/"><img src="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/sett.png" alt="Man, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/">Man, Isle of</a></td><td></td><td><code>R/4 B44 DY8 LR6 DG14 LY4 DG8 LR4 DG18 DP12 LY4 DP8 LR/4</code></td><td>268</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/"><img src="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/sett.png" alt="Man, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

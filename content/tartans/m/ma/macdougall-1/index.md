@@ -18,10 +18,10 @@ Its design is pattern [RBRKWKRKWKRKWKR](/stripes/rbrkwkrkwkrkwkr/) — the page 
 The **MacDougall 1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r20b36r4k2lb7k4r2k2w3k2r3k4lb7k13r20~x2/">MacDougall 1</a></td><td><code>R/40 B72 R8 K4 LB14 K8 R4 K4 W6 K4 R6 K8 LB14 K26 R/40</code></td><td>436</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r20b36r4k2lb7k4r2k2w3k2r3k4lb7k13r20~x2/"><img src="/variants/s15/r20b36r4k2lb7k4r2k2w3k2r3k4lb7k13r20~x2/sett.png" alt="MacDougall 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r20b36r4k2lb7k4r2k2w3k2r3k4lb7k13r20~x2/">MacDougall 1</a></td><td></td><td><code>R/40 B72 R8 K4 LB14 K8 R4 K4 W6 K4 R6 K8 LB14 K26 R/40</code></td><td>436</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r20b36r4k2lb7k4r2k2w3k2r3k4lb7k13r20~x2/"><img src="/variants/s15/r20b36r4k2lb7k4r2k2w3k2r3k4lb7k13r20~x2/sett.png" alt="MacDougall 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

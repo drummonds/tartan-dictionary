@@ -15,10 +15,10 @@ Personal tartan whose blue and green honour Calvert County, Maryland's waters an
 The **Greg Wells** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg12k1r2k1dg12n2k12y1k12n2dp12k3dp12~x2/">Greg Wells</a></td><td><code>DG/24 K2 R4 K2 DG24 N4 K24 Y2 K24 N4 DP24 K6 DP/24</code></td><td>288</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg12k1r2k1dg12n2k12y1k12n2dp12k3dp12~x2/"><img src="/variants/s13/dg12k1r2k1dg12n2k12y1k12n2dp12k3dp12~x2/sett.png" alt="Greg Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg12k1r2k1dg12n2k12y1k12n2dp12k3dp12~x2/">Greg Wells</a></td><td></td><td><code>DG/24 K2 R4 K2 DG24 N4 K24 Y2 K24 N4 DP24 K6 DP/24</code></td><td>288</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg12k1r2k1dg12n2k12y1k12n2dp12k3dp12~x2/"><img src="/variants/s13/dg12k1r2k1dg12n2k12y1k12n2dp12k3dp12~x2/sett.png" alt="Greg Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

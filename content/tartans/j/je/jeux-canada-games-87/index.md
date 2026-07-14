@@ -13,10 +13,10 @@ Its design is pattern [WBRBWBWBW](/stripes/wbrbwbwbw/) — the page of every tar
 The **Jeux Canada Games '87** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/">Jeux Canada Games '87</a></td><td><code>W/64 DB12 W8 DB12 W8 DB12 R20 DB24 W/8</code></td><td>264</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/"><img src="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/sett.png" alt="Jeux Canada Games '87 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/">Jeux Canada Games '87</a></td><td></td><td><code>W/64 DB12 W8 DB12 W8 DB12 R20 DB24 W/8</code></td><td>264</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/"><img src="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/sett.png" alt="Jeux Canada Games '87 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

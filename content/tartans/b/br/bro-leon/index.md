@@ -13,10 +13,10 @@ Its design is pattern [BKYKGYKYK](/stripes/bkykgykyk/) — the page of every tar
 The **Bro-Leon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/">Bro-Leon</a></td><td><code>K/8 LY34 K4 LY4 G14 K4 LY4 K44 DB/8</code></td><td>232</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/"><img src="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/sett.png" alt="Bro-Leon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/">Bro-Leon</a></td><td></td><td><code>K/8 LY34 K4 LY4 G14 K4 LY4 K44 DB/8</code></td><td>232</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/"><img src="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/sett.png" alt="Bro-Leon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

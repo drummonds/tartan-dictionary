@@ -15,10 +15,10 @@ Corporate tartan for bodogbrand.com, with a near-invisible red stripe; supersede
 The **Bodog** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/k80dr1k60~x2/">Bodog</a></td><td><code>K/160 DR2 K/120</code></td><td>284</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/k80dr1k60~x2/"><img src="/variants/s3/k80dr1k60~x2/sett.png" alt="Bodog sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/k80dr1k60~x2/">Bodog</a></td><td></td><td><code>K/160 DR2 K/120</code></td><td>284</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/k80dr1k60~x2/"><img src="/variants/s3/k80dr1k60~x2/sett.png" alt="Bodog sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

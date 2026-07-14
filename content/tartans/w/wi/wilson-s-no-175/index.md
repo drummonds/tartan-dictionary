@@ -13,10 +13,10 @@ Its design is pattern [BKGWKWGKBK](/stripes/bkgwkwgkbk/) — the page of every t
 The **Wilson's No.175** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/">Wilson's No.175</a></td><td><code>DP/32 K34 G36 W4 K10 W4 G36 K34 DP32 K/6</code></td><td>418</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/"><img src="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/sett.png" alt="Wilson's No.175 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/">Wilson's No.175</a></td><td></td><td><code>DP/32 K34 G36 W4 K10 W4 G36 K34 DP32 K/6</code></td><td>418</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/"><img src="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/sett.png" alt="Wilson's No.175 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

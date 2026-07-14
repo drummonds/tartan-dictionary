@@ -18,10 +18,10 @@ Its design is pattern [BBBBBBKGBGBGW](/stripes/bbbbbbkgbgbgw/) — the page of e
 The **MacDonell of Glengarry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db8dr1db2dr3db12dr1k12g12dr3g2dr1g4lb1~x2/">MacDonell of Glengarry</a></td><td><code>DB/16 DR2 DB4 DR6 DB24 DR2 K24 G24 DR6 G4 DR2 G8 LB/2</code></td><td>230</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db8dr1db2dr3db12dr1k12g12dr3g2dr1g4lb1~x2/"><img src="/variants/s13/db8dr1db2dr3db12dr1k12g12dr3g2dr1g4lb1~x2/sett.png" alt="MacDonell of Glengarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db8dr1db2dr3db12dr1k12g12dr3g2dr1g4lb1~x2/">MacDonell of Glengarry</a></td><td></td><td><code>DB/16 DR2 DB4 DR6 DB24 DR2 K24 G24 DR6 G4 DR2 G8 LB/2</code></td><td>230</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db8dr1db2dr3db12dr1k12g12dr3g2dr1g4lb1~x2/"><img src="/variants/s13/db8dr1db2dr3db12dr1k12g12dr3g2dr1g4lb1~x2/sett.png" alt="MacDonell of Glengarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

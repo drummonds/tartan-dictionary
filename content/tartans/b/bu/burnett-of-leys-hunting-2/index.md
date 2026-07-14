@@ -21,14 +21,14 @@ The **Burnett of Leys Hunting** tartan groups 3 setts — the same named design 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/">Burnett of Leys Hunting</a> ★</td><td><code>R/184 DB20 R16 W6 R16 G8 R16 Ri/8</code></td><td>356</td><td>1838</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/"><img src="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/sett.png" alt="Burnett of Leys Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/o96db8o8w3o8g3o8r3~x2/">Burnett, of Leys hunting</a></td><td><code>O/192 DB16 O16 W6 O16 G6 O16 R/6</code></td><td>350</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/o96db8o8w3o8g3o8r3~x2/"><img src="/variants/s8/o96db8o8w3o8g3o8r3~x2/sett.png" alt="Burnett, of Leys hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/">Burnett of Leys Htg (Clan)</a></td><td><code>R/150 DB12 R12 W4 R12 G4 R12 Ri/4</code></td><td>266</td><td>~1838</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/"><img src="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/sett.png" alt="Burnett of Leys Htg (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/">Burnett of Leys Hunting</a> ★</td><td></td><td><code>R/184 DB20 R16 W6 R16 G8 R16 Ri/8</code></td><td>356</td><td>1838</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/"><img src="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/sett.png" alt="Burnett of Leys Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/o96db8o8w3o8g3o8r3~x2/">Burnett, of Leys hunting</a></td><td>4.58</td><td><code>O/192 DB16 O16 W6 O16 G6 O16 R/6</code></td><td>350</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/o96db8o8w3o8g3o8r3~x2/"><img src="/variants/s8/o96db8o8w3o8g3o8r3~x2/sett.png" alt="Burnett, of Leys hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/">Burnett of Leys Htg (Clan)</a></td><td>0.22</td><td><code>R/150 DB12 R12 W4 R12 G4 R12 Ri/4</code></td><td>266</td><td>~1838</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/"><img src="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/sett.png" alt="Burnett of Leys Htg (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

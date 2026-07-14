@@ -13,10 +13,10 @@ Its design is pattern [WBKYBYBYBYBYBY](/stripes/wbkybybybybyby/) — the page of
 The **New Jersey** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/">New Jersey</a></td><td><code>W/8 DB32 K2 LY16 DB4 LY2 DB4 LY8 DB4 LY2 DB4 LY48 DR4 LY/8</code></td><td>276</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/"><img src="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/sett.png" alt="New Jersey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/">New Jersey</a></td><td></td><td><code>W/8 DB32 K2 LY16 DB4 LY2 DB4 LY8 DB4 LY2 DB4 LY48 DR4 LY/8</code></td><td>276</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/"><img src="/variants/s14/w4db16k1ly8db2ly1db2ly4db2ly1db2ly24dr2ly4~x2/sett.png" alt="New Jersey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

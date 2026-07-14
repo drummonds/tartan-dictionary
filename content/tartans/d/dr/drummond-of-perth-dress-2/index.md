@@ -18,10 +18,10 @@ Its design is pattern [RGKBWRKBW](/stripes/rgkbwrkbw/) — the page of every tar
 The **Drummond of Perth Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/">Drummond of Perth Dress</a></td><td><code>R/80 Y2 K4 N2 W30 R10 K10 N10 W/2</code></td><td>218</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/"><img src="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/sett.png" alt="Drummond of Perth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/">Drummond of Perth Dress</a></td><td></td><td><code>R/80 Y2 K4 N2 W30 R10 K10 N10 W/2</code></td><td>218</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/"><img src="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/sett.png" alt="Drummond of Perth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

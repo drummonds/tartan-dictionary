@@ -21,13 +21,13 @@ The **Fife** tartan is one sett, recorded at 2 scales — the same proportion wo
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g32k6g4k8r1k2~x4/">Fife</a></td><td><code>G/32 K6 G4 K8 R1 K/2</code></td><td>72</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g32k6g4k8r1k2~x4/"><img src="/variants/s6/g32k6g4k8r1k2~x4/sett.png" alt="Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/g32k6g4k8r1k2~x2/">Duke of..</a></td><td><code>G/64 K12 G8 K16 R2 K/4</code></td><td>144</td><td>1889</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/g32k6g4k8r1k2~x4/">Duke Of</a></td><td><code>G/128 K24 G16 K32 R4 K/8</code></td><td>288</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/g32k6g4k8r1k2~x2/">Duke of..</a> · <a href="/variants/s6/g32k6g4k8r1k2~x4/">Duke Of</a></td></tr>
+<tr><td><a href="/variants/s6/g32k6g4k8r1k2~x4/">Fife</a></td><td></td><td><code>G/32 K6 G4 K8 R1 K/2</code></td><td>72</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g32k6g4k8r1k2~x4/"><img src="/variants/s6/g32k6g4k8r1k2~x4/sett.png" alt="Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/g32k6g4k8r1k2~x2/">Duke of..</a></td><td>0.00</td><td><code>G/64 K12 G8 K16 R2 K/4</code></td><td>144</td><td>1889</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/g32k6g4k8r1k2~x4/">Duke Of</a></td><td>0.00</td><td><code>G/128 K24 G16 K32 R4 K/8</code></td><td>288</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/g32k6g4k8r1k2~x2/">Duke of..</a> · <a href="/variants/s6/g32k6g4k8r1k2~x4/">Duke Of</a></td></tr>
 </tbody>
 </table>
 

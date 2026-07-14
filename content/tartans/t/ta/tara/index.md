@@ -13,10 +13,10 @@ Its design is pattern [KGRGGKWKYKRK](/stripes/kgrggkwkykrk/) — the page of eve
 The **Tara** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/">Tara</a></td><td><code>K/16 R4 K12 LY4 K4 LB4 K4 DY32 DG48 R4 DG8 K/6</code></td><td>270</td><td>~1967</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/"><img src="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/sett.png" alt="Tara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/">Tara</a></td><td></td><td><code>K/16 R4 K12 LY4 K4 LB4 K4 DY32 DG48 R4 DG8 K/6</code></td><td>270</td><td>~1967</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/"><img src="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/sett.png" alt="Tara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

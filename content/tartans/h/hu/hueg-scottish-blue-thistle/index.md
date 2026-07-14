@@ -16,10 +16,10 @@ Its design is pattern [RGKBGBYBWBGRKRW](/stripes/rgkbgbybwbgrkrw/) — the page 
 The **Hueg Scottish Blue Thistle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r2g4k2dp25g4dp4ly2dp2w2dp5g3r7k2r3w2~x2/">Hueg Scottish Blue Thistle</a></td><td><code>R/4 G8 K4 DP50 G8 DP8 LY4 DP4 W4 DP10 G6 R14 K4 R6 W/4</code></td><td>268</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r2g4k2dp25g4dp4ly2dp2w2dp5g3r7k2r3w2~x2/"><img src="/variants/s15/r2g4k2dp25g4dp4ly2dp2w2dp5g3r7k2r3w2~x2/sett.png" alt="Hueg Scottish Blue Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r2g4k2dp25g4dp4ly2dp2w2dp5g3r7k2r3w2~x2/">Hueg Scottish Blue Thistle</a></td><td></td><td><code>R/4 G8 K4 DP50 G8 DP8 LY4 DP4 W4 DP10 G6 R14 K4 R6 W/4</code></td><td>268</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r2g4k2dp25g4dp4ly2dp2w2dp5g3r7k2r3w2~x2/"><img src="/variants/s15/r2g4k2dp25g4dp4ly2dp2w2dp5g3r7k2r3w2~x2/sett.png" alt="Hueg Scottish Blue Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Green-based hunting sett of Clan Scott, also called Green Scott; recorded from 1
 The **Scott Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/">Scott Hunting</a></td><td><code>DY/32 G20 R6 G6 LB4 G6 R6 G6 LB4 G6 R6 G20 DY32 R/6</code></td><td>282</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/"><img src="/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/sett.png" alt="Scott Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/">Scott Hunting</a></td><td></td><td><code>DY/32 G20 R6 G6 LB4 G6 R6 G6 LB4 G6 R6 G20 DY32 R/6</code></td><td>282</td><td>1906</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/"><img src="/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/sett.png" alt="Scott Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,11 +13,11 @@ Its design is pattern [GBGBKBKBKGW](/stripes/gbgbkbkbkgw/) — the page of every
 The **Selby** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/">Selby</a></td><td><code>G/6 DB2 G2 DB24 K4 DB4 K4 DB6 K24 DG48 W/6</code></td><td>248</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/"><img src="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/sett.png" alt="Selby sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/">(Name)</a> · <a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1806142/">Selby</a></td></tr>
+<tr><td><a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/">Selby</a></td><td></td><td><code>G/6 DB2 G2 DB24 K4 DB4 K4 DB6 K24 DG48 W/6</code></td><td>248</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/"><img src="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/sett.png" alt="Selby sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/">(Name)</a> · <a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1806142/">Selby</a></td></tr>
 </tbody>
 </table>
 

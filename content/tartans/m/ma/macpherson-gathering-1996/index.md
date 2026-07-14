@@ -16,10 +16,10 @@ Its design is pattern [BRBRBRGRB](/stripes/brbrbrgrb/) — the page of every tar
 The **MacPherson Gathering 1996** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/">MacPherson Gathering 1996</a></td><td><code>T/12 R8 DG64 R8 T12 R8 N64 R8 T/12</code></td><td>368</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/"><img src="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/sett.png" alt="MacPherson Gathering 1996 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/">MacPherson Gathering 1996</a></td><td></td><td><code>T/12 R8 DG64 R8 T12 R8 N64 R8 T/12</code></td><td>368</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/"><img src="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/sett.png" alt="MacPherson Gathering 1996 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ One of Polly Wittering's Irish District series for House of Edgar, with soft war
 The **Kildare Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/">Kildare Irish County</a></td><td><code>LG/8 DO2 LG13 R4 LG12 T22 LG5 LO/3</code></td><td>—</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/"><img src="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/sett.png" alt="Kildare Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/">Kildare Irish County</a></td><td></td><td><code>LG/8 DO2 LG13 R4 LG12 T22 LG5 LO/3</code></td><td>—</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/"><img src="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/sett.png" alt="Kildare Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

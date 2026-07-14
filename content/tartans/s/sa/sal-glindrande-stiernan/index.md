@@ -13,10 +13,10 @@ Its design is pattern [RGKW](/stripes/rgkw/) — the page of every tartan sharin
 The **SAL Glindrande Stiernan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/r3g1k3w1~x20/">SAL Glindrande Stiernan</a></td><td><code>R/60 G20 K60 W/20</code></td><td>240</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r3g1k3w1~x20/"><img src="/variants/s4/r3g1k3w1~x20/sett.png" alt="SAL Glindrande Stiernan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r3g1k3w1~x20/">SAL Glindrande Stiernan</a></td><td></td><td><code>R/60 G20 K60 W/20</code></td><td>240</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/r3g1k3w1~x20/"><img src="/variants/s4/r3g1k3w1~x20/sett.png" alt="SAL Glindrande Stiernan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RWGWBGGWGBWBBRW](/stripes/rwgwbggwgbwbbrw/) — the page 
 The **Unnamed C18th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/">Unnamed C18th</a></td><td><code>R/16 W4 DY100 W4 DB34 G30 Y10 W3 G16 DP12 W4 DB16 DO64 R26 W/4</code></td><td>666</td><td>1745</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/"><img src="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/sett.png" alt="Unnamed C18th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/">Unnamed C18th</a></td><td></td><td><code>R/16 W4 DY100 W4 DB34 G30 Y10 W3 G16 DP12 W4 DB16 DO64 R26 W/4</code></td><td>666</td><td>1745</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/"><img src="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/sett.png" alt="Unnamed C18th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,11 +13,11 @@ Its design is pattern [GBGGBGGGG](/stripes/gbggbgggg/) — the page of every tar
 The **Connemara** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/">Connemara</a></td><td><code>Y/6 DG2 G6 DG32 DR64 DG2 DY2 DB8 G/4</code></td><td>242</td><td>~1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/"><img src="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/sett.png" alt="Connemara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/">(District)</a> · <a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2~dg1605139/">Connemara</a></td></tr>
+<tr><td><a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/">Connemara</a></td><td></td><td><code>Y/6 DG2 G6 DG32 DR64 DG2 DY2 DB8 G/4</code></td><td>242</td><td>~1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/"><img src="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/sett.png" alt="Connemara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2/">(District)</a> · <a href="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2~dg1605139/">Connemara</a></td></tr>
 </tbody>
 </table>
 

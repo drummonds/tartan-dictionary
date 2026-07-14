@@ -13,10 +13,10 @@ Its design is pattern [GWBWBWBWBW](/stripes/gwbwbwbwbw/) — the page of every t
 The **Traynor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y2lb2db3lb30db4lb3db4lb3db18lb2~x2/">Traynor</a></td><td><code>Y/4 LB4 DB6 LB60 DB8 LB6 DB8 LB6 DB36 LB/4</code></td><td>276</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y2lb2db3lb30db4lb3db4lb3db18lb2~x2/"><img src="/variants/s10/y2lb2db3lb30db4lb3db4lb3db18lb2~x2/sett.png" alt="Traynor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y2lb2db3lb30db4lb3db4lb3db18lb2~x2/">Traynor</a></td><td></td><td><code>Y/4 LB4 DB6 LB60 DB8 LB6 DB8 LB6 DB36 LB/4</code></td><td>276</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y2lb2db3lb30db4lb3db4lb3db18lb2~x2/"><img src="/variants/s10/y2lb2db3lb30db4lb3db4lb3db18lb2~x2/sett.png" alt="Traynor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

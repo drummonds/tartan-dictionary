@@ -13,10 +13,10 @@ Its design is pattern [GRGKRYRK](/stripes/grgkryrk/) — the page of every tarta
 The **Green Ridge** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/">Green Ridge</a></td><td><code>DG/96 O8 DG12 K24 O4 LY8 O4 K/16</code></td><td>232</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/"><img src="/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/sett.png" alt="Green Ridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/">Green Ridge</a></td><td></td><td><code>DG/96 O8 DG12 K24 O4 LY8 O4 K/16</code></td><td>232</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/"><img src="/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/sett.png" alt="Green Ridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

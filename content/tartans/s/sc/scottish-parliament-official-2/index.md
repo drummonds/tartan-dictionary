@@ -13,10 +13,10 @@ Its design is pattern [BBWBWBGBRBGB](/stripes/bbwbwbgbrbgb/) — the page of eve
 The **Scottish Parliament Official** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/">Scottish Parliament Official</a></td><td><code>N/120 G4 DB8 R2 DB8 G4 N6 W2 DP40 W2 N10 DB/4</code></td><td>296</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/"><img src="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/sett.png" alt="Scottish Parliament Official sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/">Scottish Parliament Official</a></td><td></td><td><code>N/120 G4 DB8 R2 DB8 G4 N6 W2 DP40 W2 N10 DB/4</code></td><td>296</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/"><img src="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/sett.png" alt="Scottish Parliament Official sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

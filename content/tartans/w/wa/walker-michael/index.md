@@ -16,10 +16,10 @@ Its design is pattern [WBGBWBWRWWBW](/stripes/wbgbwbwrwwbw/) — the page of eve
 The **Walker, Michael** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lb14db14lb14w2o3w2db14lb14db6y2db6lb14~x2/">Walker, Michael</a></td><td><code>LB/28 DB28 LB28 W4 O6 W4 DB28 LB28 DB12 Y4 DB12 LB/28</code></td><td>364</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lb14db14lb14w2o3w2db14lb14db6y2db6lb14~x2/"><img src="/variants/s12/lb14db14lb14w2o3w2db14lb14db6y2db6lb14~x2/sett.png" alt="Walker, Michael sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lb14db14lb14w2o3w2db14lb14db6y2db6lb14~x2/">Walker, Michael</a></td><td></td><td><code>LB/28 DB28 LB28 W4 O6 W4 DB28 LB28 DB12 Y4 DB12 LB/28</code></td><td>364</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lb14db14lb14w2o3w2db14lb14db6y2db6lb14~x2/"><img src="/variants/s12/lb14db14lb14w2o3w2db14lb14db6y2db6lb14~x2/sett.png" alt="Walker, Michael sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGRGGGRWRGGGRGBGBG](/stripes/bgrgggrwrgggrgbgbg/) — the
 The **Béguinot, Stéphane** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/">Béguinot, Stéphane</a></td><td><code>DB/24 DG8 R4 Y6 G8 DG8 R40 W8 R28 DG8 G8 Y6 R4 DG8 DB24 Y4 DB16 Y/4</code></td><td>404</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><img src="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/sett.png" alt="Béguinot, Stéphane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/">Béguinot, Stéphane</a></td><td></td><td><code>DB/24 DG8 R4 Y6 G8 DG8 R40 W8 R28 DG8 G8 Y6 R4 DG8 DB24 Y4 DB16 Y/4</code></td><td>404</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><img src="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/sett.png" alt="Béguinot, Stéphane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

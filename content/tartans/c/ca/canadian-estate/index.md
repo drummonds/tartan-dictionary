@@ -13,10 +13,10 @@ Its design is pattern [GBGBGBKBKBBBW](/stripes/gbgbgbkbkbbbw/) — the page of e
 The **Canadian Estate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2~x4/">Canadian Estate</a></td><td><code>G/72 DR4 G8 DR8 G64 DR4 K64 N4 K8 DR8 B80 DR4 W/8</code></td><td>592</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2~x4/"><img src="/variants/s13/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2~x4/sett.png" alt="Canadian Estate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2~x4/">Canadian Estate</a></td><td></td><td><code>G/72 DR4 G8 DR8 G64 DR4 K64 N4 K8 DR8 B80 DR4 W/8</code></td><td>592</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2~x4/"><img src="/variants/s13/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2~x4/sett.png" alt="Canadian Estate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

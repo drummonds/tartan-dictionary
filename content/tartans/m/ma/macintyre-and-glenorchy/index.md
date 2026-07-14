@@ -16,10 +16,10 @@ Its design is pattern [GKRGRBGRGRBRGK](/stripes/gkrgrbgrgrbrgk/) — the page of
 The **MacIntyre and Glenorchy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/">MacIntyre and Glenorchy</a></td><td><code>K/4 G4 R6 DP36 R4 G12 R8 Y4 DP12 R6 G36 R6 K4 G/4</code></td><td>284</td><td>1893</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/"><img src="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/sett.png" alt="MacIntyre and Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/">MacIntyre and Glenorchy</a></td><td></td><td><code>K/4 G4 R6 DP36 R4 G12 R8 Y4 DP12 R6 G36 R6 K4 G/4</code></td><td>284</td><td>1893</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/"><img src="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/sett.png" alt="MacIntyre and Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

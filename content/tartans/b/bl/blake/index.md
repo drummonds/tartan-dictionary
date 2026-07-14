@@ -13,10 +13,10 @@ Its design is pattern [BBBGGKYRKRK](/stripes/bbbggkyrkrk/) — the page of every
 The **Blake** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k4r1k3r2ly3k12dg10dgi18db3n3db3~x2~dgi1605139/">Blake</a></td><td><code>K/8 R2 K6 R4 LY6 K24 DG20 DGi36 DB6 N6 DB/6</code></td><td>234</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k4r1k3r2ly3k12dg10dgi18db3n3db3~x2~dgi1605139/"><img src="/variants/s11/k4r1k3r2ly3k12dg10dgi18db3n3db3~x2~dgi1605139/sett.png" alt="Blake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k4r1k3r2ly3k12dg10dgi18db3n3db3~x2~dgi1605139/">Blake</a></td><td></td><td><code>K/8 R2 K6 R4 LY6 K24 DG20 DGi36 DB6 N6 DB/6</code></td><td>234</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k4r1k3r2ly3k12dg10dgi18db3n3db3~x2~dgi1605139/"><img src="/variants/s11/k4r1k3r2ly3k12dg10dgi18db3n3db3~x2~dgi1605139/sett.png" alt="Blake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

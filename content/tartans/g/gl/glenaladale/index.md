@@ -15,10 +15,10 @@ Brought from Glenaladale to Prince Edward Island in 1772, associated with MacDon
 The **Glenaladale** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/">Glenaladale</a></td><td><code>DB/56 R52 W4 DB10 W4 R52 G56 R10 W4 R/10</code></td><td>450</td><td>1772</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><img src="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/sett.png" alt="Glenaladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/">Glenaladale</a></td><td></td><td><code>DB/56 R52 W4 DB10 W4 R52 G56 R10 W4 R/10</code></td><td>450</td><td>1772</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><img src="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/sett.png" alt="Glenaladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

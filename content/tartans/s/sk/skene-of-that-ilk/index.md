@@ -18,10 +18,10 @@ Its design is pattern [KBKRKGKYKGRK](/stripes/kbkrkgkykgrk/) — the page of eve
 The **Skene of that Ilk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/">Skene of that Ilk</a></td><td><code>K/16 DB96 K16 R12 K16 DG96 K16 LO12 K16 DG96 R12 K/8</code></td><td>800</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/"><img src="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/sett.png" alt="Skene of that Ilk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/">Skene of that Ilk</a></td><td></td><td><code>K/16 DB96 K16 R12 K16 DG96 K16 LO12 K16 DG96 R12 K/8</code></td><td>800</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/"><img src="/variants/s12/k4db24k4r3k4dg24k4lo3k4dg24r3k2~x4/sett.png" alt="Skene of that Ilk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

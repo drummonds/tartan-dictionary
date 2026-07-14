@@ -13,10 +13,10 @@ Its design is pattern [KWBRGKWBRGW](/stripes/kwbrgkwbrgw/) — the page of every
 The **Coopers & Lybrand** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/">Coopers &amp; Lybrand</a></td><td><code>LB/8 G8 R2 DB36 LB8 K4 G32 R2 DB12 LB8 K/4</code></td><td>236</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/"><img src="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/sett.png" alt="Coopers &amp; Lybrand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/">Coopers &amp; Lybrand</a></td><td></td><td><code>LB/8 G8 R2 DB36 LB8 K4 G32 R2 DB12 LB8 K/4</code></td><td>236</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/"><img src="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/sett.png" alt="Coopers &amp; Lybrand sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

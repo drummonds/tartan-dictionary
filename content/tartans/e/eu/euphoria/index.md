@@ -15,12 +15,12 @@ The **Euphoria** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/">Euphoria</a> ★</td><td><code>W/6 R6 LB48 K6 W6 DB48 W6 LB48 K6 LB6 W48 K6 LB/6</code></td><td>480</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/"><img src="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/sett.png" alt="Euphoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/">(Universal)</a></td><td><code>W/6 R6 LB48 K6 W6 B48 W6 LB48 K6 LB6 W48 K6 LB/6</code></td><td>480</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/"><img src="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/sett.png" alt="(Universal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/">Euphoria</a> ★</td><td></td><td><code>W/6 R6 LB48 K6 W6 DB48 W6 LB48 K6 LB6 W48 K6 LB/6</code></td><td>480</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/"><img src="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/sett.png" alt="Euphoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/">(Universal)</a></td><td>0.10</td><td><code>W/6 R6 LB48 K6 W6 B48 W6 LB48 K6 LB6 W48 K6 LB/6</code></td><td>480</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/"><img src="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/sett.png" alt="(Universal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

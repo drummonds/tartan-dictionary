@@ -19,13 +19,13 @@ The **Innes** tartan is one sett, recorded at 2 scales — the same proportion w
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g7k1g7lb1k6lb1~x4/">Innes</a></td><td><code>G/7 K1 G7 LB1 K6 LB/1</code></td><td>38</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g7k1g7lb1k6lb1~x4/"><img src="/variants/s6/g7k1g7lb1k6lb1~x4/sett.png" alt="Innes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/g7k1g7lb1k6lb1~x2/">Innes</a></td><td><code>G/14 K2 G14 LB2 K12 LB/2</code></td><td>76</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/g7k1g7lb1k6lb1~x4/">Georgina (Portrait)</a></td><td><code>G/28 K4 G28 LB4 K24 LB/4</code></td><td>152</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/g7k1g7lb1k6lb1~x2/">Innes</a> · <a href="/variants/s6/g7k1g7lb1k6lb1~x4/">Georgina (Portrait)</a></td></tr>
+<tr><td><a href="/variants/s6/g7k1g7lb1k6lb1~x4/">Innes</a></td><td></td><td><code>G/7 K1 G7 LB1 K6 LB/1</code></td><td>38</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g7k1g7lb1k6lb1~x4/"><img src="/variants/s6/g7k1g7lb1k6lb1~x4/sett.png" alt="Innes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/g7k1g7lb1k6lb1~x2/">Innes</a></td><td>0.00</td><td><code>G/14 K2 G14 LB2 K12 LB/2</code></td><td>76</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/g7k1g7lb1k6lb1~x4/">Georgina (Portrait)</a></td><td>0.00</td><td><code>G/28 K4 G28 LB4 K24 LB/4</code></td><td>152</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/g7k1g7lb1k6lb1~x2/">Innes</a> · <a href="/variants/s6/g7k1g7lb1k6lb1~x4/">Georgina (Portrait)</a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Regimental tartan of the 7th Cavalry, revived in 1992 for their re-formed pipe b
 The **Cavalry, 7th..** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/">Cavalry, 7th..</a></td><td><code>DB/48 W4 G3 Y2 W2 Y2 G3 W2 R8 W4 DB5 B3 G2 B3 DB5 W4 R/4</code></td><td>156</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/"><img src="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/sett.png" alt="Cavalry, 7th.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/">Cavalry, 7th..</a></td><td></td><td><code>DB/48 W4 G3 Y2 W2 Y2 G3 W2 R8 W4 DB5 B3 G2 B3 DB5 W4 R/4</code></td><td>156</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/"><img src="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/sett.png" alt="Cavalry, 7th.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

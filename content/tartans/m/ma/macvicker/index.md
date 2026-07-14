@@ -13,10 +13,10 @@ Its design is pattern [BGGGBGGGGGBRG](/stripes/bgggbgggggbrg/) — the page of e
 The **MacVicker** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/">MacVicker</a></td><td><code>DB/24 DY4 Y4 DY4 DB4 DY20 G20 DY6 G24 DY20 DB22 R4 Y/4</code></td><td>292</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/"><img src="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/sett.png" alt="MacVicker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/">MacVicker</a></td><td></td><td><code>DB/24 DY4 Y4 DY4 DB4 DY20 G20 DY6 G24 DY20 DB22 R4 Y/4</code></td><td>292</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/"><img src="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/sett.png" alt="MacVicker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Official Arkansas state tartan, approved 1998; green for the "Natural State," re
 The **Arkansas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/">Arkansas</a></td><td><code>DG/10 DB4 DG4 DB5 DG6 Y10 R6 DG18 Y/4</code></td><td>120</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/"><img src="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/sett.png" alt="Arkansas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/">Arkansas</a></td><td></td><td><code>DG/10 DB4 DG4 DB5 DG6 Y10 R6 DG18 Y/4</code></td><td>120</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/"><img src="/variants/s9/dg10db4dg4db5dg6y10r6dg18y4/sett.png" alt="Arkansas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

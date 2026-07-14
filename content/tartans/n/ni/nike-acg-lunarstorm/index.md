@@ -13,10 +13,10 @@ Its design is pattern [BRBRBWB](/stripes/brbrbwb/) — the page of every tartan 
 The **Nike ACG Lunarstorm** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db8r2db18r1db2w10db4~x2/">Nike ACG Lunarstorm</a></td><td><code>DB/16 R4 DB36 R2 DB4 W20 DB/8</code></td><td>156</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><img src="/variants/s7/db8r2db18r1db2w10db4~x2/sett.png" alt="Nike ACG Lunarstorm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db8r2db18r1db2w10db4~x2/">Nike ACG Lunarstorm</a></td><td></td><td><code>DB/16 R4 DB36 R2 DB4 W20 DB/8</code></td><td>156</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><img src="/variants/s7/db8r2db18r1db2w10db4~x2/sett.png" alt="Nike ACG Lunarstorm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

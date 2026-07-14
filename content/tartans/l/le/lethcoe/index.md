@@ -18,10 +18,10 @@ Its design is pattern [BBGGWK](/stripes/bbggwk/) — the page of every tartan sh
 The **Lethcoe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/">Lethcoe</a></td><td><code>K/64 W16 Y8 G124 N16 DP/16</code></td><td>408</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/"><img src="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/sett.png" alt="Lethcoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/">Lethcoe</a></td><td></td><td><code>K/64 W16 Y8 G124 N16 DP/16</code></td><td>408</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/"><img src="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/sett.png" alt="Lethcoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

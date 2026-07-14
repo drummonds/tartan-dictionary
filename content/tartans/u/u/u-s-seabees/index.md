@@ -13,11 +13,11 @@ Its design is pattern [GYGBGBGGGBGYG](/stripes/gygbgbgggbgyg/) — the page of e
 The **U.S. Seabees** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/">U.S. Seabees</a></td><td><code>G/144 LO4 G20 DR18 G4 DY18 G4 DB18 G4 T18 G18 LO4 G/144</code></td><td>548</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/"><img src="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/sett.png" alt="U.S. Seabees sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/">(Military)</a> · <a href="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2~db1406275/">U.S. Seabees</a></td></tr>
+<tr><td><a href="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/">U.S. Seabees</a></td><td></td><td><code>G/144 LO4 G20 DR18 G4 DY18 G4 DB18 G4 T18 G18 LO4 G/144</code></td><td>548</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/"><img src="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/sett.png" alt="U.S. Seabees sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/">(Military)</a> · <a href="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2~db1406275/">U.S. Seabees</a></td></tr>
 </tbody>
 </table>
 

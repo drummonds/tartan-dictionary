@@ -13,10 +13,10 @@ Its design is pattern [BGBBBBBGBKB](/stripes/bgbbbbbgbkb/) — the page of every
 The **Rabbie Burns** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/">Rabbie Burns</a></td><td><code>DB/8 Y4 DB10 DR22 DB8 DR4 DB4 G20 DB56 K2 DR/4</code></td><td>272</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/"><img src="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/sett.png" alt="Rabbie Burns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/">Rabbie Burns</a></td><td></td><td><code>DB/8 Y4 DB10 DR22 DB8 DR4 DB4 G20 DB56 K2 DR/4</code></td><td>272</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/"><img src="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/sett.png" alt="Rabbie Burns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

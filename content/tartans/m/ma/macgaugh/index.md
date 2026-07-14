@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBGKGY](/stripes/bbbbbbgkgy/) — the page of every t
 The **MacGaugh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/">MacGaugh</a></td><td><code>DR/20 DB4 DR12 DB4 DR20 DB16 G12 K12 G12 LO/8</code></td><td>212</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><img src="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/sett.png" alt="MacGaugh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/">MacGaugh</a></td><td></td><td><code>DR/20 DB4 DR12 DB4 DR20 DB16 G12 K12 G12 LO/8</code></td><td>212</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><img src="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/sett.png" alt="MacGaugh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

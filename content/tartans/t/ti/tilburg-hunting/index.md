@@ -18,10 +18,10 @@ Its design is pattern [BKBGWGW](/stripes/bkbgwgw/) — the page of every tartan 
 The **Tilburg Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/t6k3t37y41w3y6w3~x2/">Tilburg Hunting</a></td><td><code>T/12 K6 T74 Y82 W6 Y12 W/6</code></td><td>378</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/t6k3t37y41w3y6w3~x2/"><img src="/variants/s7/t6k3t37y41w3y6w3~x2/sett.png" alt="Tilburg Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/t6k3t37y41w3y6w3~x2/">Tilburg Hunting</a></td><td></td><td><code>T/12 K6 T74 Y82 W6 Y12 W/6</code></td><td>378</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/t6k3t37y41w3y6w3~x2/"><img src="/variants/s7/t6k3t37y41w3y6w3~x2/sett.png" alt="Tilburg Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

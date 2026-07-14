@@ -18,10 +18,10 @@ Designed by Donald Fraser in 1990 for North Berwick Pipe Band dancers' visit to 
 The **North Berwick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/">North Berwick</a></td><td><code>DB/40 R8 DB40 R40 DG8 R8 DG8 R8 DG40 R4 W/8</code></td><td>376</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/"><img src="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/sett.png" alt="North Berwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/">North Berwick</a></td><td></td><td><code>DB/40 R8 DB40 R40 DG8 R8 DG8 R8 DG40 R4 W/8</code></td><td>376</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/"><img src="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/sett.png" alt="North Berwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

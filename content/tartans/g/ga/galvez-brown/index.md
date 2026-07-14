@@ -17,12 +17,12 @@ The **Galvez-Brown** tartan groups 2 setts — the same named design recorded as
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/">Galvez-Brown</a> ★</td><td><code>DB/72 DY10 DR24 R18 DP10 W24 DY/14</code></td><td>258</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><img src="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/sett.png" alt="Galvez-Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/">(Personal)</a></td><td><code>DB/72 LY10 DR24 R18 DP10 W24 LY/14</code></td><td>258</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/"><img src="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/">Galvez-Brown</a> ★</td><td></td><td><code>DB/72 DY10 DR24 R18 DP10 W24 DY/14</code></td><td>258</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><img src="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/sett.png" alt="Galvez-Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/">(Personal)</a></td><td>0.13</td><td><code>DB/72 LY10 DR24 R18 DP10 W24 LY/14</code></td><td>258</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/"><img src="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

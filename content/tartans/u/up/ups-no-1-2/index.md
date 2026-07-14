@@ -13,10 +13,10 @@ Its design is pattern [GGGGGGYGYYGYGYG](/stripes/ggggggygyygygyg/) — the page 
 The **UPS No.1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2/">UPS No.1</a></td><td><code>DY/8 LY120 DY4 LY30 DY4 LY4 LO4 DY4 LY16 DY8 Y2 DY4 Y4 DY4 Y/2</code></td><td>426</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2/"><img src="/variants/s15/dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2/sett.png" alt="UPS No.1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2/">UPS No.1</a></td><td></td><td><code>DY/8 LY120 DY4 LY30 DY4 LY4 LO4 DY4 LY16 DY8 Y2 DY4 Y4 DY4 Y/2</code></td><td>426</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2/"><img src="/variants/s15/dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2/sett.png" alt="UPS No.1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

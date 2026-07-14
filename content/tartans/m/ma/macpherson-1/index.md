@@ -18,10 +18,10 @@ Its design is pattern [RBRGBRBRBRBRBRR](/stripes/rbrgbrbrbrbrbrr/) — the page 
 The **MacPherson 1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4~x2/">MacPherson 1</a></td><td><code>R/26 B8 R26 G56 B6 O52 B20 O4 DO4 O4 B20 R28 B8 O8 R/8</code></td><td>522</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4~x2/"><img src="/variants/s15/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4~x2/sett.png" alt="MacPherson 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4~x2/">MacPherson 1</a></td><td></td><td><code>R/26 B8 R26 G56 B6 O52 B20 O4 DO4 O4 B20 R28 B8 O8 R/8</code></td><td>522</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4~x2/"><img src="/variants/s15/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4~x2/sett.png" alt="MacPherson 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

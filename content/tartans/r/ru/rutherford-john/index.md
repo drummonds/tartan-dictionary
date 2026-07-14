@@ -13,10 +13,10 @@ Its design is pattern [BGBRKRB](/stripes/bgbrkrb/) — the page of every tartan 
 The **Rutherford, John** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db64r3k3r3dp61dg5dp6~x2/">Rutherford, John</a></td><td><code>DB/128 R6 K6 R6 DP122 DG10 DP/12</code></td><td>440</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db64r3k3r3dp61dg5dp6~x2/"><img src="/variants/s7/db64r3k3r3dp61dg5dp6~x2/sett.png" alt="Rutherford, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db64r3k3r3dp61dg5dp6~x2/">Rutherford, John</a></td><td></td><td><code>DB/128 R6 K6 R6 DP122 DG10 DP/12</code></td><td>440</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db64r3k3r3dp61dg5dp6~x2/"><img src="/variants/s7/db64r3k3r3dp61dg5dp6~x2/sett.png" alt="Rutherford, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GBKRKY](/stripes/gbkrky/) — the page of every tartan sh
 The **Ferguson, Jerrfey S** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g27db12k12r9k1ly2~x2/">Ferguson, Jerrfey S</a></td><td><code>G/54 DB24 K24 R18 K2 LY/4</code></td><td>194</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><img src="/variants/s6/g27db12k12r9k1ly2~x2/sett.png" alt="Ferguson, Jerrfey S sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g27db12k12r9k1ly2~x2/">Ferguson, Jerrfey S</a></td><td></td><td><code>G/54 DB24 K24 R18 K2 LY/4</code></td><td>194</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><img src="/variants/s6/g27db12k12r9k1ly2~x2/sett.png" alt="Ferguson, Jerrfey S sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

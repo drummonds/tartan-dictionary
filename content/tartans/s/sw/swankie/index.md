@@ -18,10 +18,10 @@ Its design is pattern [BRGRBBG](/stripes/brgrbbg/) — the page of every tartan 
 The **Swankie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/">Swankie</a></td><td><code>DG/6 B44 DO20 O10 DG42 R12 B/6</code></td><td>268</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><img src="/variants/s7/dg3b22do10o5dg21r6b3~x2/sett.png" alt="Swankie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/">Swankie</a></td><td></td><td><code>DG/6 B44 DO20 O10 DG42 R12 B/6</code></td><td>268</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><img src="/variants/s7/dg3b22do10o5dg21r6b3~x2/sett.png" alt="Swankie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

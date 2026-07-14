@@ -18,10 +18,10 @@ Its design is pattern [BGRGRGRB](/stripes/bgrgrgrb/) — the page of every tarta
 The **Glassary** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db4r1y12r2y2r12y1db4~x4/">Glassary</a></td><td><code>DB/16 R4 Y48 R8 Y8 R48 Y4 DB/16</code></td><td>272</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db4r1y12r2y2r12y1db4~x4/"><img src="/variants/s8/db4r1y12r2y2r12y1db4~x4/sett.png" alt="Glassary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db4r1y12r2y2r12y1db4~x4/">Glassary</a></td><td></td><td><code>DB/16 R4 Y48 R8 Y8 R48 Y4 DB/16</code></td><td>272</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db4r1y12r2y2r12y1db4~x4/"><img src="/variants/s8/db4r1y12r2y2r12y1db4~x4/sett.png" alt="Glassary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

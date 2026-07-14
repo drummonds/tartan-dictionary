@@ -16,10 +16,10 @@ Its design is pattern [WBWBWBBKBKY](/stripes/wbwbwbbkbky/) — the page of every
 The **Wcwm 1873-4** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/">Wcwm 1873-4</a></td><td><code>LB/24 DO4 LB8 DO8 LB4 DO16 DP56 K16 DB4 K12 LY/4</code></td><td>284</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/"><img src="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/sett.png" alt="Wcwm 1873-4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/">Wcwm 1873-4</a></td><td></td><td><code>LB/24 DO4 LB8 DO8 LB4 DO16 DP56 K16 DB4 K12 LY/4</code></td><td>284</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/"><img src="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/sett.png" alt="Wcwm 1873-4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

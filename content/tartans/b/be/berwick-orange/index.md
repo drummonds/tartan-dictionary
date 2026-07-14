@@ -16,10 +16,10 @@ Its design is pattern [BRBKGKRKBBKBRBKBBKRKGKBRB](/stripes/brbkgkrkbbkbrbkbbkrkg
 The **Berwick, Orange** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48~x2/">Berwick, Orange</a></td><td><code>DO/96 R10 DR4 K28 G4 K6 R6 K6 DR28 DO12 K8 DO6 R4 DO6 K8 DO12 DR28 K6 R6 K6 G4 K28 DR4 R10 DO/96</code></td><td>672</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48~x2/"><img src="/variants/s25/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48~x2/sett.png" alt="Berwick, Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48~x2/">Berwick, Orange</a></td><td></td><td><code>DO/96 R10 DR4 K28 G4 K6 R6 K6 DR28 DO12 K8 DO6 R4 DO6 K8 DO12 DR28 K6 R6 K6 G4 K28 DR4 R10 DO/96</code></td><td>672</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48~x2/"><img src="/variants/s25/do48r5dr2k14g2k3r3k3dr14do6k4do3r2do3k4do6dr14k3r3k3g2k14dr2r5do48~x2/sett.png" alt="Berwick, Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GKGBGBGKGYGKGKG](/stripes/gkgbgbgkgygkgkg/) — the page 
 The **Glen Grant Distillery** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/">Glen Grant Distillery</a></td><td><code>G/4 K4 G4 DB40 G4 DB4 G4 K16 G4 LY4 G40 K4 G4 K4 G/4</code></td><td>280</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/"><img src="/variants/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/sett.png" alt="Glen Grant Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/">Glen Grant Distillery</a></td><td></td><td><code>G/4 K4 G4 DB40 G4 DB4 G4 K16 G4 LY4 G40 K4 G4 K4 G/4</code></td><td>280</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/"><img src="/variants/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/sett.png" alt="Glen Grant Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

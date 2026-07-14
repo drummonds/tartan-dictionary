@@ -18,10 +18,10 @@ Its design is pattern [BKBBKBKWKBBKBKBKBKBKBKBKBKBKBBKWKBKBBKBW](/stripes/bkbbkb
 The **Hood** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s40/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/">Hood</a></td><td><code>N/4 K4 N16 DB16 K4 N4 K4 W4 K22 DB16 N92 K16 N4 K16 N4 K16 N4 K16 N4 K16 N4 K16 N4 K16 N4 K16 N4 K16 N92 DB16 K22 W4 K4 N4 K4 DB16 N16 K4 N4 W/4</code></td><td>1096</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s40/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/"><img src="/variants/s40/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/sett.png" alt="Hood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s40/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/">Hood</a></td><td></td><td><code>N/4 K4 N16 DB16 K4 N4 K4 W4 K22 DB16 N92 K16 N4 K16 N4 K16 N4 K16 N4 K16 N4 K16 N4 K16 N4 K16 N4 K16 N92 DB16 K22 W4 K4 N4 K4 DB16 N16 K4 N4 W/4</code></td><td>1096</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s40/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/"><img src="/variants/s40/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/sett.png" alt="Hood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

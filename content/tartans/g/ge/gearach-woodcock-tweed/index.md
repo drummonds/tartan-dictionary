@@ -13,10 +13,10 @@ Its design is pattern [GWY](/stripes/gwy/) — the page of every tartan sharing 
 The **Gearach Woodcock Tweed** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/dy2lb1lo1~x2/">Gearach Woodcock Tweed</a></td><td><code>DY/4 LB2 LO/2</code></td><td>10</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/dy2lb1lo1~x2/"><img src="/variants/s3/dy2lb1lo1~x2/sett.png" alt="Gearach Woodcock Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/dy2lb1lo1~x2/">Gearach Woodcock Tweed</a></td><td></td><td><code>DY/4 LB2 LO/2</code></td><td>10</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/dy2lb1lo1~x2/"><img src="/variants/s3/dy2lb1lo1~x2/sett.png" alt="Gearach Woodcock Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

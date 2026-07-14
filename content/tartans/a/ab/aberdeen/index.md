@@ -18,10 +18,10 @@ Its design is pattern [WBKWBWWWBWBRGWGRBWKBKWBRGWGRBWWWRGWGRWBKWRGW](/stripes/wb
 The **Aberdeen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s44/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2~x2/">Aberdeen</a></td><td><code>W/4 B8 K32 W4 DP12 LB8 W4 LB8 DP12 W4 DP6 R16 DG6 W4 DG6 R16 DP6 W4 K24 B8 K24 W4 DP6 R16 DG6 W4 DG6 R16 DP6 W4 LB20 W4 R12 DG6 W2 DG6 R12 W4 B8 K32 W4 R46 DG6 W/4</code></td><td>892</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s44/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2~x2/"><img src="/variants/s44/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2~x2/sett.png" alt="Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s44/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2~x2/">Aberdeen</a></td><td></td><td><code>W/4 B8 K32 W4 DP12 LB8 W4 LB8 DP12 W4 DP6 R16 DG6 W4 DG6 R16 DP6 W4 K24 B8 K24 W4 DP6 R16 DG6 W4 DG6 R16 DP6 W4 LB20 W4 R12 DG6 W2 DG6 R12 W4 B8 K32 W4 R46 DG6 W/4</code></td><td>892</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s44/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2~x2/"><img src="/variants/s44/w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2~x2/sett.png" alt="Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

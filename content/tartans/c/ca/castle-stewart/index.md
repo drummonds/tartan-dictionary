@@ -13,10 +13,10 @@ Its design is pattern [WKBKBKBKY](/stripes/wkbkbkbky/) — the page of every tar
 The **Castle Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/">Castle Stewart</a></td><td><code>LO/14 K6 DB8 K6 DR42 K4 DR8 K4 W/8</code></td><td>178</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/"><img src="/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/sett.png" alt="Castle Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/">Castle Stewart</a></td><td></td><td><code>LO/14 K6 DB8 K6 DR42 K4 DR8 K4 W/8</code></td><td>178</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/"><img src="/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/sett.png" alt="Castle Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

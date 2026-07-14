@@ -18,10 +18,10 @@ Grant or Drummond clan tartan recorded from 1831; clan lacks a single definitive
 The **Grant or Drummond** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r6db2r2g24r2g2r2db8r2lb2r32db2r2db1r6~x2/">Grant or Drummond</a></td><td><code>R/12 DB4 R4 G48 R4 G4 R4 DB16 R4 LB4 R64 DB4 R4 DB2 R/12</code></td><td>356</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r6db2r2g24r2g2r2db8r2lb2r32db2r2db1r6~x2/"><img src="/variants/s15/r6db2r2g24r2g2r2db8r2lb2r32db2r2db1r6~x2/sett.png" alt="Grant or Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r6db2r2g24r2g2r2db8r2lb2r32db2r2db1r6~x2/">Grant or Drummond</a></td><td></td><td><code>R/12 DB4 R4 G48 R4 G4 R4 DB16 R4 LB4 R64 DB4 R4 DB2 R/12</code></td><td>356</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r6db2r2g24r2g2r2db8r2lb2r32db2r2db1r6~x2/"><img src="/variants/s15/r6db2r2g24r2g2r2db8r2lb2r32db2r2db1r6~x2/sett.png" alt="Grant or Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [KYKYKYWYKYKYKY](/stripes/kykykywykykyky/) — the page of
 The **Johnston Orange/Black** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/">Johnston Orange/Black</a></td><td><code>K/4 LO4 K48 LO48 K4 LO4 W4 LO4 K4 LO48 K48 LO4 K4 LO/4</code></td><td>456</td><td>1945</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/"><img src="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/sett.png" alt="Johnston Orange/Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/">Johnston Orange/Black</a></td><td></td><td><code>K/4 LO4 K48 LO48 K4 LO4 W4 LO4 K4 LO48 K48 LO4 K4 LO/4</code></td><td>456</td><td>1945</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/"><img src="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/sett.png" alt="Johnston Orange/Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

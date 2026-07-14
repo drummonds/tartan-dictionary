@@ -13,10 +13,10 @@ Its design is pattern [WKWRKRW](/stripes/wkwrkrw/) — the page of every tartan 
 The **Russell, Ralph T.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w2k1w2r10k4r2w1~x8/">Russell, Ralph T.</a></td><td><code>W/16 K8 W16 R80 K32 R16 W/8</code></td><td>328</td><td>1966</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w2k1w2r10k4r2w1~x8/"><img src="/variants/s7/w2k1w2r10k4r2w1~x8/sett.png" alt="Russell, Ralph T. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w2k1w2r10k4r2w1~x8/">Russell, Ralph T.</a></td><td></td><td><code>W/16 K8 W16 R80 K32 R16 W/8</code></td><td>328</td><td>1966</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w2k1w2r10k4r2w1~x8/"><img src="/variants/s7/w2k1w2r10k4r2w1~x8/sett.png" alt="Russell, Ralph T. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

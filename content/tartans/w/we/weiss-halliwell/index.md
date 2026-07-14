@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBKBKBKBKBBKBGKBKBKBKGKBKBKGKBK](/stripes/bkbkbkbkbk
 The **Weiss-Halliwell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/">Weiss-Halliwell</a></td><td><code>DP/12 K2 N2 K4 N2 K2 DP12 K2 N44 K6 N2 K6 N20 K2 DP6 N2 K12 N2 DG6 K2 N20 K6 N2 K6 N44 K2 DG12 K2 N2 K4 N2 K2 DG12 K2 N24 K/2</code></td><td>570</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/"><img src="/variants/s36/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/sett.png" alt="Weiss-Halliwell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/">Weiss-Halliwell</a></td><td></td><td><code>DP/12 K2 N2 K4 N2 K2 DP12 K2 N44 K6 N2 K6 N20 K2 DP6 N2 K12 N2 DG6 K2 N20 K6 N2 K6 N44 K2 DG12 K2 N2 K4 N2 K2 DG12 K2 N24 K/2</code></td><td>570</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/"><img src="/variants/s36/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/sett.png" alt="Weiss-Halliwell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

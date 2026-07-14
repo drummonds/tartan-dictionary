@@ -13,10 +13,10 @@ Its design is pattern [BBBKB](/stripes/bbbkb/) — the page of every tartan shar
 The **Passion of Scotland Pewter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/n8dr3dt34k34dp3~x2~n1900000-dt1600000/">Passion of Scotland Pewter</a></td><td><code>N/16 DR6 DT68 K68 DP/6</code></td><td>306</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/n8dr3dt34k34dp3~x2~n1900000-dt1600000/"><img src="/variants/s5/n8dr3dt34k34dp3~x2~n1900000-dt1600000/sett.png" alt="Passion of Scotland Pewter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/n8dr3dt34k34dp3~x2~n1900000-dt1600000/">Passion of Scotland Pewter</a></td><td></td><td><code>N/16 DR6 DT68 K68 DP/6</code></td><td>306</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/n8dr3dt34k34dp3~x2~n1900000-dt1600000/"><img src="/variants/s5/n8dr3dt34k34dp3~x2~n1900000-dt1600000/sett.png" alt="Passion of Scotland Pewter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

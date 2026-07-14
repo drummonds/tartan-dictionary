@@ -18,10 +18,10 @@ Its design is pattern [RYBRBRRRRGWGW](/stripes/rybrbrrrrgwgw/) — the page of e
 The **Strathtay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/">Strathtay</a></td><td><code>LB/12 DG4 LB4 DG10 R40 Ri4 R4 Ri50 DR4 Ri4 DR8 LY20 R/4</code></td><td>320</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/"><img src="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/sett.png" alt="Strathtay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/">Strathtay</a></td><td></td><td><code>LB/12 DG4 LB4 DG10 R40 Ri4 R4 Ri50 DR4 Ri4 DR8 LY20 R/4</code></td><td>320</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/"><img src="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/sett.png" alt="Strathtay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

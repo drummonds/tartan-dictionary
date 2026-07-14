@@ -18,10 +18,10 @@ Its design is pattern [BWKWBWBW](/stripes/bwkwbwbw/) — the page of every tarta
 The **Clayton Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dr14w35k4w35dr14w8dr14w8~x2/">Clayton Dress</a></td><td><code>DR/28 W70 K8 W70 DR28 W16 DR28 W/16</code></td><td>484</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dr14w35k4w35dr14w8dr14w8~x2/"><img src="/variants/s8/dr14w35k4w35dr14w8dr14w8~x2/sett.png" alt="Clayton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr14w35k4w35dr14w8dr14w8~x2/">Clayton Dress</a></td><td></td><td><code>DR/28 W70 K8 W70 DR28 W16 DR28 W/16</code></td><td>484</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dr14w35k4w35dr14w8dr14w8~x2/"><img src="/variants/s8/dr14w35k4w35dr14w8dr14w8~x2/sett.png" alt="Clayton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

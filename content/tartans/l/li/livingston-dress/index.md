@@ -18,10 +18,10 @@ Its design is pattern [BWKWKGKWKWKWKWKG](/stripes/bwkwkgkwkwkwkwkg/) — the pag
 The **Livingston, dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/">Livingston, dress</a></td><td><code>DB/133 W16 K8 W8 K2 Y4 K2 W54 K8 W8 K16 W8 K16 W16 K2 Y/12</code></td><td>481</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/"><img src="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/sett.png" alt="Livingston, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/">Livingston, dress</a></td><td></td><td><code>DB/133 W16 K8 W8 K2 Y4 K2 W54 K8 W8 K16 W8 K16 W16 K2 Y/12</code></td><td>481</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/"><img src="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/sett.png" alt="Livingston, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BRKGRWRKRGRKRW](/stripes/brkgrwrkrgrkrw/) — the page of
 The **Unidentified Specimen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/">Unidentified Specimen</a></td><td><code>DB/144 R22 K24 Y4 R4 W6 R4 K4 R20 G36 R20 K6 R6 W/4</code></td><td>460</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/"><img src="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/sett.png" alt="Unidentified Specimen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/">Unidentified Specimen</a></td><td></td><td><code>DB/144 R22 K24 Y4 R4 W6 R4 K4 R20 G36 R20 K6 R6 W/4</code></td><td>460</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/"><img src="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/sett.png" alt="Unidentified Specimen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

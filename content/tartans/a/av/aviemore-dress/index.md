@@ -13,10 +13,10 @@ Its design is pattern [GRBRBRW](/stripes/grbrbrw/) — the page of every tartan 
 The **Aviemore Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/">Aviemore Dress</a></td><td><code>W/120 R2 DB20 R44 DB6 Ri6 G/2</code></td><td>278</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/"><img src="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/sett.png" alt="Aviemore Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/">Aviemore Dress</a></td><td></td><td><code>W/120 R2 DB20 R44 DB6 Ri6 G/2</code></td><td>278</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/"><img src="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/sett.png" alt="Aviemore Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

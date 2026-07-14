@@ -18,10 +18,10 @@ Its design is pattern [GBGBGKBBBKGBG](/stripes/gbgbgkbbbkgbg/) — the page of e
 The **Lemania** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/">Lemania</a></td><td><code>DG/12 DB3 DG3 DB3 DG3 K15 T20 DBi3 T20 K15 DG12 DB3 DG/3</code></td><td>—</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/"><img src="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/sett.png" alt="Lemania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/">Lemania</a></td><td></td><td><code>DG/12 DB3 DG3 DB3 DG3 K15 T20 DBi3 T20 K15 DG12 DB3 DG/3</code></td><td>—</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/"><img src="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/sett.png" alt="Lemania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

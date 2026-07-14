@@ -18,10 +18,10 @@ Its design is pattern [GRRGRBRGRBRR](/stripes/grrgrbrgrbrr/) — the page of eve
 The **MacDougall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/">MacDougall</a></td><td><code>R/14 Ri4 DB4 R4 G64 R12 DB24 R82 G4 R10 Ri4 G/10</code></td><td>448</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><img src="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/">MacDougall</a></td><td></td><td><code>R/14 Ri4 DB4 R4 G64 R12 DB24 R82 G4 R10 Ri4 G/10</code></td><td>448</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><img src="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

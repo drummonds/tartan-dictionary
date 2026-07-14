@@ -18,10 +18,10 @@ Its design is pattern [GWBGBGBGBWGWGWBWG](/stripes/gwbgbgbgbwgwgwbwg/) — the p
 The **Fermanagh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/">Fermanagh</a></td><td><code>Y/6 LB40 DB6 G6 DB6 G6 DB6 G6 DB8 LB26 DG4 LB4 DG4 LB6 B4 LB6 G/6</code></td><td>288</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/"><img src="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/sett.png" alt="Fermanagh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/">Fermanagh</a></td><td></td><td><code>Y/6 LB40 DB6 G6 DB6 G6 DB6 G6 DB8 LB26 DG4 LB4 DG4 LB6 B4 LB6 G/6</code></td><td>288</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/"><img src="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/sett.png" alt="Fermanagh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

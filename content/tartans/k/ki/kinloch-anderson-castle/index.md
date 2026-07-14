@@ -16,10 +16,10 @@ Its design is pattern [BGBGKBKBBBBW](/stripes/bgbgkbkbbbbw/) — the page of eve
 The **Kinloch Anderson Castle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/">Kinloch Anderson Castle</a></td><td><code>DT/8 Y8 DT4 Y28 K12 DTi6 K12 DR4 DTi8 DR4 DTi29 LB/6</code></td><td>244</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/"><img src="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/sett.png" alt="Kinloch Anderson Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/">Kinloch Anderson Castle</a></td><td></td><td><code>DT/8 Y8 DT4 Y28 K12 DTi6 K12 DR4 DTi8 DR4 DTi29 LB/6</code></td><td>244</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/"><img src="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/sett.png" alt="Kinloch Anderson Castle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

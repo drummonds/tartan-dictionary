@@ -15,10 +15,10 @@ Designed in 1996 to commemorate the 25th anniversary of Thunder Bay, Ontario, wh
 The **Head of The Lakes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g7lb2db28dg14dp5lb2dp5lb2db27t2~x2/">Head of The Lakes</a></td><td><code>G/14 LB4 DB56 DG28 DP10 LB4 DP10 LB4 DB54 T/4</code></td><td>358</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g7lb2db28dg14dp5lb2dp5lb2db27t2~x2/"><img src="/variants/s10/g7lb2db28dg14dp5lb2dp5lb2db27t2~x2/sett.png" alt="Head of The Lakes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g7lb2db28dg14dp5lb2dp5lb2db27t2~x2/">Head of The Lakes</a></td><td></td><td><code>G/14 LB4 DB56 DG28 DP10 LB4 DP10 LB4 DB54 T/4</code></td><td>358</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g7lb2db28dg14dp5lb2dp5lb2db27t2~x2/"><img src="/variants/s10/g7lb2db28dg14dp5lb2dp5lb2db27t2~x2/sett.png" alt="Head of The Lakes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

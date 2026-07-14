@@ -13,10 +13,10 @@ Its design is pattern [KBGKGWGWGKGBKW](/stripes/kbgkgwgwgkgbkw/) — the page of
 The **Hibernian Football Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/">Hibernian Football Club</a></td><td><code>K/4 DP12 DG24 K34 G42 W4 G42 W4 G42 K34 DG24 DP12 K4 W/2</code></td><td>562</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/"><img src="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/sett.png" alt="Hibernian Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/">Hibernian Football Club</a></td><td></td><td><code>K/4 DP12 DG24 K34 G42 W4 G42 W4 G42 K34 DG24 DP12 K4 W/2</code></td><td>562</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/"><img src="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/sett.png" alt="Hibernian Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

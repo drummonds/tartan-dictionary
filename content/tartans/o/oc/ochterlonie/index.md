@@ -13,10 +13,10 @@ Its design is pattern [BWBWBG](/stripes/bwbwbg/) — the page of every tartan sh
 The **Ochterlonie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/b30w7b18w11b6y3~x2/">Ochterlonie</a></td><td><code>B/60 W14 B36 W22 B12 Y/6</code></td><td>234</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/b30w7b18w11b6y3~x2/"><img src="/variants/s6/b30w7b18w11b6y3~x2/sett.png" alt="Ochterlonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/b30w7b18w11b6y3~x2/">Ochterlonie</a></td><td></td><td><code>B/60 W14 B36 W22 B12 Y/6</code></td><td>234</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/b30w7b18w11b6y3~x2/"><img src="/variants/s6/b30w7b18w11b6y3~x2/sett.png" alt="Ochterlonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BKBGBBGBBGBKBR](/stripes/bkbgbbgbbgbkbr/) — the page of
 The **Los Angeles** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2~x2~ti2603227/">Los Angeles</a></td><td><code>Ti/66 K10 T6 G4 Ti10 T48 Y8 T48 Ti10 G4 T6 K10 Ti66 R/4</code></td><td>530</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2~x2~ti2603227/"><img src="/variants/s14/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2~x2~ti2603227/sett.png" alt="Los Angeles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2~x2~ti2603227/">Los Angeles</a></td><td></td><td><code>Ti/66 K10 T6 G4 Ti10 T48 Y8 T48 Ti10 G4 T6 K10 Ti66 R/4</code></td><td>530</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2~x2~ti2603227/"><img src="/variants/s14/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2~x2~ti2603227/sett.png" alt="Los Angeles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

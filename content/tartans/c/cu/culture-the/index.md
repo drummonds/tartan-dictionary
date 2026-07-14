@@ -15,10 +15,10 @@ Corporate tartan with colours reflecting a European essence enduring beyond Glas
 The **Culture The...** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/">Culture The...</a></td><td><code>R/12 G4 R4 G42 K4 W8 K4 DB46 Y4 DB4 Y/12</code></td><td>264</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><img src="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/sett.png" alt="Culture The... sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/">Culture The...</a></td><td></td><td><code>R/12 G4 R4 G42 K4 W8 K4 DB46 Y4 DB4 Y/12</code></td><td>264</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><img src="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/sett.png" alt="Culture The... sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

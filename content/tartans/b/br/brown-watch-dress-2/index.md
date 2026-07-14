@@ -16,10 +16,10 @@ Its design is pattern [RBRBRBWBWBRBR](/stripes/rbrbrbwbwbrbr/) — the page of e
 The **Brown, Watch dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/o20do3o3do3o3do9w10do3w1do9o10do3o3~x2/">Brown, Watch dress</a></td><td><code>O/40 DO6 O6 DO6 O6 DO18 W20 DO6 W2 DO18 O20 DO6 O/6</code></td><td>274</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/o20do3o3do3o3do9w10do3w1do9o10do3o3~x2/"><img src="/variants/s13/o20do3o3do3o3do9w10do3w1do9o10do3o3~x2/sett.png" alt="Brown, Watch dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/o20do3o3do3o3do9w10do3w1do9o10do3o3~x2/">Brown, Watch dress</a></td><td></td><td><code>O/40 DO6 O6 DO6 O6 DO18 W20 DO6 W2 DO18 O20 DO6 O/6</code></td><td>274</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/o20do3o3do3o3do9w10do3w1do9o10do3o3~x2/"><img src="/variants/s13/o20do3o3do3o3do9w10do3w1do9o10do3o3~x2/sett.png" alt="Brown, Watch dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,11 +18,11 @@ Its design is pattern [GRGRGRKGRKRG](/stripes/grgrgrkgrkrg/) — the page of eve
 The **MacNeish** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/">MacNeish</a></td><td><code>G/12 R6 K6 R48 G8 K20 R4 G8 R4 G48 R12 G/4</code></td><td>344</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/"><img src="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/sett.png" alt="MacNeish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/">MacNeish</a> · <a href="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2~g2408144/">MacNeish</a></td></tr>
+<tr><td><a href="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/">MacNeish</a></td><td></td><td><code>G/12 R6 K6 R48 G8 K20 R4 G8 R4 G48 R12 G/4</code></td><td>344</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/"><img src="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/sett.png" alt="MacNeish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/">MacNeish</a> · <a href="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2~g2408144/">MacNeish</a></td></tr>
 </tbody>
 </table>
 

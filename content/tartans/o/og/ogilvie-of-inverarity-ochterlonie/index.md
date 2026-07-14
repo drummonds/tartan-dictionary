@@ -18,10 +18,10 @@ Its design is pattern [BYKGKGKGR](/stripes/bykgkgkgr/) — the page of every tar
 The **Ogilvie of Inverarity / Ochterlonie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/">Ogilvie of Inverarity / Ochterlonie</a></td><td><code>DB/40 LY6 K14 G22 K4 G6 K4 G6 R/8</code></td><td>172</td><td>1840</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><img src="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/sett.png" alt="Ogilvie of Inverarity / Ochterlonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/">Ogilvie of Inverarity / Ochterlonie</a></td><td></td><td><code>DB/40 LY6 K14 G22 K4 G6 K4 G6 R/8</code></td><td>172</td><td>1840</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><img src="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/sett.png" alt="Ogilvie of Inverarity / Ochterlonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

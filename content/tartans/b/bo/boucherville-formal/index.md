@@ -18,10 +18,10 @@ Designed in 1990 by three La Navette d'Art weavers for Boucherville, Quebec, usi
 The **Boucherville Formal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/">Boucherville Formal</a></td><td><code>W/80 Y8 N20 W16 DB8 N8 DB8 N8 G/2</code></td><td>234</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/"><img src="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/sett.png" alt="Boucherville Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/">Boucherville Formal</a></td><td></td><td><code>W/80 Y8 N20 W16 DB8 N8 DB8 N8 G/2</code></td><td>234</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/"><img src="/variants/s9/w40y4n10w8db4n4db4n4g1~x2/sett.png" alt="Boucherville Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGGW](/stripes/gggw/) — the page of every tartan sharin
 The **O'Neill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/g9dy20g40w5~x2/">O'Neill</a></td><td><code>G/18 DY40 G80 W/10</code></td><td>268</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/g9dy20g40w5~x2/"><img src="/variants/s4/g9dy20g40w5~x2/sett.png" alt="O'Neill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/g9dy20g40w5~x2/">O'Neill</a></td><td></td><td><code>G/18 DY40 G80 W/10</code></td><td>268</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/g9dy20g40w5~x2/"><img src="/variants/s4/g9dy20g40w5~x2/sett.png" alt="O'Neill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KWGR](/stripes/kwgr/) — the page of every tartan sharin
 The **Harazeen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/r2g1w1k1~x20/">Harazeen</a></td><td><code>R/40 G20 W20 K/20</code></td><td>140</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r2g1w1k1~x20/"><img src="/variants/s4/r2g1w1k1~x20/sett.png" alt="Harazeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r2g1w1k1~x20/">Harazeen</a></td><td></td><td><code>R/40 G20 W20 K/20</code></td><td>140</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/r2g1w1k1~x20/"><img src="/variants/s4/r2g1w1k1~x20/sett.png" alt="Harazeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

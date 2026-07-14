@@ -18,10 +18,10 @@ Its design is pattern [RWRWKBRWRWR](/stripes/rwrwkbrwrwr/) — the page of every
 The **Dabney** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/">Dabney</a></td><td><code>R/4 LB4 R2 LB48 O2 N6 K6 LB6 O24 LB8 R/2</code></td><td>218</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/"><img src="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/sett.png" alt="Dabney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/">Dabney</a></td><td></td><td><code>R/4 LB4 R2 LB48 O2 N6 K6 LB6 O24 LB8 R/2</code></td><td>218</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/"><img src="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/sett.png" alt="Dabney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

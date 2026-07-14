@@ -15,12 +15,12 @@ The **Belfast Tattoo** tartan groups 2 setts — the same named design recorded 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g10w1db10r1db1g1db1g1r10y1r1~x4/">Belfast Tattoo</a> ★</td><td><code>G/40 W4 DB40 R4 DB4 G4 DB4 G4 R40 Y4 R/4</code></td><td>260</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g10w1db10r1db1g1db1g1r10y1r1~x4/"><img src="/variants/s11/g10w1db10r1db1g1db1g1r10y1r1~x4/sett.png" alt="Belfast Tattoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/">Belfast Tattoo</a></td><td><code>G/40 W4 DB40 R4 DB4 G4 DB4 G4 R40 LY4 R/4</code></td><td>260</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/"><img src="/variants/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/sett.png" alt="Belfast Tattoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g10w1db10r1db1g1db1g1r10y1r1~x4/">Belfast Tattoo</a> ★</td><td></td><td><code>G/40 W4 DB40 R4 DB4 G4 DB4 G4 R40 Y4 R/4</code></td><td>260</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g10w1db10r1db1g1db1g1r10y1r1~x4/"><img src="/variants/s11/g10w1db10r1db1g1db1g1r10y1r1~x4/sett.png" alt="Belfast Tattoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/">Belfast Tattoo</a></td><td>0.02</td><td><code>G/40 W4 DB40 R4 DB4 G4 DB4 G4 R40 LY4 R/4</code></td><td>260</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/"><img src="/variants/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/sett.png" alt="Belfast Tattoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -17,12 +17,12 @@ The **Leaf Peeper** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k2w1g25dy11r12w1y12k1w2~x2/">Leaf Peeper</a> ★</td><td><code>K/4 W2 G50 DY22 R24 W2 Y24 K2 W/4</code></td><td>260</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k2w1g25dy11r12w1y12k1w2~x2/"><img src="/variants/s9/k2w1g25dy11r12w1y12k1w2~x2/sett.png" alt="Leaf Peeper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/">Leaf Peeper</a></td><td><code>K/4 W2 DG50 DY22 R24 W2 LY24 K2 W/4</code></td><td>260</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/"><img src="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/sett.png" alt="Leaf Peeper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k2w1g25dy11r12w1y12k1w2~x2/">Leaf Peeper</a> ★</td><td></td><td><code>K/4 W2 G50 DY22 R24 W2 Y24 K2 W/4</code></td><td>260</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k2w1g25dy11r12w1y12k1w2~x2/"><img src="/variants/s9/k2w1g25dy11r12w1y12k1w2~x2/sett.png" alt="Leaf Peeper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/">Leaf Peeper</a></td><td>2.00</td><td><code>K/4 W2 DG50 DY22 R24 W2 LY24 K2 W/4</code></td><td>260</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/"><img src="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/sett.png" alt="Leaf Peeper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

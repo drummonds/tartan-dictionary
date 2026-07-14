@@ -13,10 +13,10 @@ Its design is pattern [BKBKGBRB](/stripes/bkbkgbrb/) — the page of every tarta
 The **By Storm** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/">By Storm</a></td><td><code>DP/10 R6 DP36 G16 K16 DPi62 K4 DPi/8</code></td><td>298</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><img src="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/sett.png" alt="By Storm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/">By Storm</a></td><td></td><td><code>DP/10 R6 DP36 G16 K16 DPi62 K4 DPi/8</code></td><td>298</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><img src="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/sett.png" alt="By Storm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

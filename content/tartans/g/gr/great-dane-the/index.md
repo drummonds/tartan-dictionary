@@ -15,11 +15,11 @@ Corporate tartan for The Great Dane, a Danish shop promoting Irish and Scottish 
 The **Great Dane, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/">Great Dane, The</a></td><td><code>DB/6 DR30 DB6 DR30 DB6 G6 DB6 DR6 DB15 R2 G10 DB15 R/2</code></td><td>272</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/"><img src="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/sett.png" alt="Great Dane, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/">(Corporate)</a> · <a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2~db1104274/">Great Dane, The</a></td></tr>
+<tr><td><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/">Great Dane, The</a></td><td></td><td><code>DB/6 DR30 DB6 DR30 DB6 G6 DB6 DR6 DB15 R2 G10 DB15 R/2</code></td><td>272</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/"><img src="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/sett.png" alt="Great Dane, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/">(Corporate)</a> · <a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2~db1104274/">Great Dane, The</a></td></tr>
 </tbody>
 </table>
 

@@ -19,13 +19,13 @@ The **Cumming** tartan is one sett, recorded at 2 scales — the same proportion
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/">Cumming</a></td><td><code>K/1 DB1 R1 K8 R1 G6 R6 DB1 K6 R1 G8 R1 K/1</code></td><td>82</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/"><img src="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/">Cumming</a></td><td><code>K/1 DB1 R1 K8 R1 G6 R6 DB1 K6 R1 G8 R1 K/1</code></td><td>82</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/">(d)</a></td><td><code>K/2 DB2 R2 K16 R2 G12 R12 DB2 K12 R2 G16 R2 K/2</code></td><td>164</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/">Cumming</a> · <a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/">(d)</a></td></tr>
+<tr><td><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/">Cumming</a></td><td></td><td><code>K/1 DB1 R1 K8 R1 G6 R6 DB1 K6 R1 G8 R1 K/1</code></td><td>82</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/"><img src="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/">Cumming</a></td><td>0.00</td><td><code>K/1 DB1 R1 K8 R1 G6 R6 DB1 K6 R1 G8 R1 K/1</code></td><td>82</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/">(d)</a></td><td>0.00</td><td><code>K/2 DB2 R2 K16 R2 G12 R12 DB2 K12 R2 G16 R2 K/2</code></td><td>164</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/">Cumming</a> · <a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/">(d)</a></td></tr>
 </tbody>
 </table>
 

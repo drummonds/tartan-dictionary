@@ -13,10 +13,10 @@ Its design is pattern [RGKBWWR](/stripes/rgkbwwr/) — the page of every tartan 
 The **Ascension Island Heritage Trust** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/">Ascension Island Heritage Trust</a></td><td><code>R/16 LB90 W2 N8 K22 G12 R/8</code></td><td>292</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/"><img src="/variants/s7/r8lb45w1n4k11g6r4~x2/sett.png" alt="Ascension Island Heritage Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/">Ascension Island Heritage Trust</a></td><td></td><td><code>R/16 LB90 W2 N8 K22 G12 R/8</code></td><td>292</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/"><img src="/variants/s7/r8lb45w1n4k11g6r4~x2/sett.png" alt="Ascension Island Heritage Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

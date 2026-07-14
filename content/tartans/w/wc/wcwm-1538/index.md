@@ -18,10 +18,10 @@ Its design is pattern [YBGKBKBKGYGYGKBKBGBKY](/stripes/ybgkbkbkgygygkbkbgbky/) â
 The **Wcwm 1538** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/ly3k2db2dg24db1k4db2k6dg6ly2dg10ly2dg6k6db2k4db1k24dg2db4ly1~x4/">Wcwm 1538</a></td><td><code>LY/12 K8 DB8 DG96 DB4 K16 DB8 K24 DG24 LY8 DG40 LY8 DG24 K24 DB8 K16 DB4 K96 DG8 DB16 LY/4</code></td><td>896</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/ly3k2db2dg24db1k4db2k6dg6ly2dg10ly2dg6k6db2k4db1k24dg2db4ly1~x4/"><img src="/variants/s21/ly3k2db2dg24db1k4db2k6dg6ly2dg10ly2dg6k6db2k4db1k24dg2db4ly1~x4/sett.png" alt="Wcwm 1538 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/ly3k2db2dg24db1k4db2k6dg6ly2dg10ly2dg6k6db2k4db1k24dg2db4ly1~x4/">Wcwm 1538</a></td><td></td><td><code>LY/12 K8 DB8 DG96 DB4 K16 DB8 K24 DG24 LY8 DG40 LY8 DG24 K24 DB8 K16 DB4 K96 DG8 DB16 LY/4</code></td><td>896</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/ly3k2db2dg24db1k4db2k6dg6ly2dg10ly2dg6k6db2k4db1k24dg2db4ly1~x4/"><img src="/variants/s21/ly3k2db2dg24db1k4db2k6dg6ly2dg10ly2dg6k6db2k4db1k24dg2db4ly1~x4/sett.png" alt="Wcwm 1538 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BWBBRWRGRWR](/stripes/bwbbrwrgrwr/) — the page of every
 The **MacKellar, dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/">MacKellar, dress</a></td><td><code>O/70 W8 O6 Y14 O6 W8 O14 DO30 N8 W72 N/10</code></td><td>412</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><img src="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/sett.png" alt="MacKellar, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/">MacKellar, dress</a></td><td></td><td><code>O/70 W8 O6 Y14 O6 W8 O14 DO30 N8 W72 N/10</code></td><td>412</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><img src="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/sett.png" alt="MacKellar, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

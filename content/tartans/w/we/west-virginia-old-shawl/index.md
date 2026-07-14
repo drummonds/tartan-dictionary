@@ -16,10 +16,10 @@ Its design is pattern [YGBRGRWGRGY](/stripes/ygbrgrwgrgy/) — the page of every
 The **West Virginia Old Shawl** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/">West Virginia Old Shawl</a></td><td><code>LY/4 G4 DB8 R8 G8 R48 LB8 G4 R8 G4 LY/4</code></td><td>208</td><td>1820</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><img src="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/sett.png" alt="West Virginia Old Shawl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/">West Virginia Old Shawl</a></td><td></td><td><code>LY/4 G4 DB8 R8 G8 R48 LB8 G4 R8 G4 LY/4</code></td><td>208</td><td>1820</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><img src="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/sett.png" alt="West Virginia Old Shawl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

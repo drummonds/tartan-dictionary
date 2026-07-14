@@ -13,10 +13,10 @@ Its design is pattern [RBGBGBKBGY](/stripes/rbgbgbkbgy/) — the page of every t
 The **Ofally, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/">Ofally, County</a></td><td><code>R/12 DB4 G10 DB36 G20 DB4 K56 DB4 G20 LO/6</code></td><td>326</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><img src="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/sett.png" alt="Ofally, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/">Ofally, County</a></td><td></td><td><code>R/12 DB4 G10 DB36 G20 DB4 K56 DB4 G20 LO/6</code></td><td>326</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><img src="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/sett.png" alt="Ofally, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

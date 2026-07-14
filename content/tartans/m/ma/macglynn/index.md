@@ -13,10 +13,10 @@ Its design is pattern [KGWGBGBGBKBKBKBGR](/stripes/kgwgbgbgbkbkbkbgr/) — the p
 The **MacGlynn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2~dpi1607327-dp1105325/">MacGlynn</a></td><td><code>K/6 DG6 W6 DG6 DPi6 DG6 DPi6 DG30 DP6 K6 DP6 K6 DP6 K6 DP6 DG38 R/6</code></td><td>304</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2~dpi1607327-dp1105325/"><img src="/variants/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2~dpi1607327-dp1105325/sett.png" alt="MacGlynn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2~dpi1607327-dp1105325/">MacGlynn</a></td><td></td><td><code>K/6 DG6 W6 DG6 DPi6 DG6 DPi6 DG30 DP6 K6 DP6 K6 DP6 K6 DP6 DG38 R/6</code></td><td>304</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2~dpi1607327-dp1105325/"><img src="/variants/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2~dpi1607327-dp1105325/sett.png" alt="MacGlynn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

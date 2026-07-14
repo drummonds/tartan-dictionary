@@ -13,10 +13,10 @@ Its design is pattern [KYKYYKRRWR](/stripes/kykyykrrwr/) — the page of every t
 The **Walls, Steve C** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/">Walls, Steve C</a></td><td><code>K/6 LY4 K4 LY28 LR6 K12 R16 Ri28 W4 Ri/6</code></td><td>216</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/"><img src="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/sett.png" alt="Walls, Steve C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/">Walls, Steve C</a></td><td></td><td><code>K/6 LY4 K4 LY28 LR6 K12 R16 Ri28 W4 Ri/6</code></td><td>216</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/"><img src="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/sett.png" alt="Walls, Steve C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

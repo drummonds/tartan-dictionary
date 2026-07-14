@@ -20,10 +20,10 @@ Blue-based dress variant of Stewart, possibly originated at Peter MacArthur's in
 The **Stewart Blue Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w72yi20y2db3w2yi3n16dy6yi2dy5w2~x2~yi2402194-db1204274/">Stewart Blue Dress</a></td><td><code>W/72 Yi20 Y2 DB3 W2 Yi3 N16 DY6 Yi2 DY5 W/2</code></td><td>—</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w72yi20y2db3w2yi3n16dy6yi2dy5w2~x2~yi2402194-db1204274/"><img src="/variants/s11/w72yi20y2db3w2yi3n16dy6yi2dy5w2~x2~yi2402194-db1204274/sett.png" alt="Stewart Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w72yi20y2db3w2yi3n16dy6yi2dy5w2~x2~yi2402194-db1204274/">Stewart Blue Dress</a></td><td></td><td><code>W/72 Yi20 Y2 DB3 W2 Yi3 N16 DY6 Yi2 DY5 W/2</code></td><td>—</td><td>1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w72yi20y2db3w2yi3n16dy6yi2dy5w2~x2~yi2402194-db1204274/"><img src="/variants/s11/w72yi20y2db3w2yi3n16dy6yi2dy5w2~x2~yi2402194-db1204274/sett.png" alt="Stewart Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

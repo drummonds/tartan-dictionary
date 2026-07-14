@@ -16,10 +16,10 @@ Its design is pattern [GKBKGKG](/stripes/gkbkgkg/) — the page of every tartan 
 The **Caledonian Canals** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/">Caledonian Canals</a></td><td><code>DY/4 K54 G18 K4 DB58 K2 G/4</code></td><td>280</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/"><img src="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/sett.png" alt="Caledonian Canals sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/">Caledonian Canals</a></td><td></td><td><code>DY/4 K54 G18 K4 DB58 K2 G/4</code></td><td>280</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/"><img src="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/sett.png" alt="Caledonian Canals sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

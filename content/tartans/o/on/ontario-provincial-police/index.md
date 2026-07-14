@@ -18,10 +18,10 @@ Designed 2009 by David Brown and Fiona Hall (Lochcarron) for the Ontario Provinc
 The **Ontario Provincial Police** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10y1lb2~x4/">Ontario Provincial Police</a></td><td><code>DB/36 R4 DB4 W4 DB8 K40 DB32 DG8 DB32 K40 DB40 Y4 LB/8</code></td><td>476</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10y1lb2~x4/"><img src="/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10y1lb2~x4/sett.png" alt="Ontario Provincial Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10y1lb2~x4/">Ontario Provincial Police</a></td><td></td><td><code>DB/36 R4 DB4 W4 DB8 K40 DB32 DG8 DB32 K40 DB40 Y4 LB/8</code></td><td>476</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10y1lb2~x4/"><img src="/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10y1lb2~x4/sett.png" alt="Ontario Provincial Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

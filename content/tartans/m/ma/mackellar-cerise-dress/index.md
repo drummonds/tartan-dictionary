@@ -16,10 +16,10 @@ Its design is pattern [KWBKRWRWRWR](/stripes/kwbkrwrwrwr/) — the page of every
 The **MacKellar Cerise Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r20w3r3lb4r3w3r5k10dp3w35k3~x2/">MacKellar Cerise Dress</a></td><td><code>R/40 W6 R6 LB8 R6 W6 R10 K20 DP6 W70 K/6</code></td><td>322</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r20w3r3lb4r3w3r5k10dp3w35k3~x2/"><img src="/variants/s11/r20w3r3lb4r3w3r5k10dp3w35k3~x2/sett.png" alt="MacKellar Cerise Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r20w3r3lb4r3w3r5k10dp3w35k3~x2/">MacKellar Cerise Dress</a></td><td></td><td><code>R/40 W6 R6 LB8 R6 W6 R10 K20 DP6 W70 K/6</code></td><td>322</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r20w3r3lb4r3w3r5k10dp3w35k3~x2/"><img src="/variants/s11/r20w3r3lb4r3w3r5k10dp3w35k3~x2/sett.png" alt="MacKellar Cerise Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BWBWKWGWGWGWB](/stripes/bwbwkwgwgwgwb/) — the page of e
 The **Robert Wiseman Dairies, Golden Jubilee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/">Robert Wiseman Dairies, Golden Jubilee</a></td><td><code>B/10 W4 B4 W8 K54 W4 DG4 W4 DG12 W4 DG4 W44 DR/4</code></td><td>306</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/"><img src="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/sett.png" alt="Robert Wiseman Dairies, Golden Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/">Robert Wiseman Dairies, Golden Jubilee</a></td><td></td><td><code>B/10 W4 B4 W8 K54 W4 DG4 W4 DG12 W4 DG4 W44 DR/4</code></td><td>306</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/"><img src="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/sett.png" alt="Robert Wiseman Dairies, Golden Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

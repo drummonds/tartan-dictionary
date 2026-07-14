@@ -15,10 +15,10 @@ Worn by the Canadian Irish Regiment, the world's only kilted Irish regiment from
 The **Canadian Irish Regiment Regimental** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/ly100dy26dg3dr2~x2~dy1603076/">Canadian Irish Regiment Regimental</a></td><td><code>LY/200 DY52 DG6 DR/4</code></td><td>320</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/ly100dy26dg3dr2~x2~dy1603076/"><img src="/variants/s4/ly100dy26dg3dr2~x2~dy1603076/sett.png" alt="Canadian Irish Regiment Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/ly100dy26dg3dr2~x2~dy1603076/">Canadian Irish Regiment Regimental</a></td><td></td><td><code>LY/200 DY52 DG6 DR/4</code></td><td>320</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/ly100dy26dg3dr2~x2~dy1603076/"><img src="/variants/s4/ly100dy26dg3dr2~x2~dy1603076/sett.png" alt="Canadian Irish Regiment Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

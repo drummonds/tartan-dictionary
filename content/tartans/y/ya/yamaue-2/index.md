@@ -18,10 +18,10 @@ Its design is pattern [WBGBRWRBGBRW](/stripes/wbgbrwrbgbrw/) — the page of eve
 The **Yamaue** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/">Yamaue</a></td><td><code>W/4 R10 B8 G16 B8 R10 W4 R10 B80 G16 B8 W/4</code></td><td>348</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/"><img src="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/sett.png" alt="Yamaue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/">Yamaue</a></td><td></td><td><code>W/4 R10 B8 G16 B8 R10 W4 R10 B80 G16 B8 W/4</code></td><td>348</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/"><img src="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/sett.png" alt="Yamaue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

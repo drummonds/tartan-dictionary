@@ -18,10 +18,10 @@ Its design is pattern [GRGKBGBKRGRG](/stripes/grgkbgbkrgrg/) — the page of eve
 The **Akins Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/">Akins Hunting</a></td><td><code>G/24 R4 G4 R4 K24 DB24 Y4 DB24 K4 G22 R4 G/4</code></td><td>264</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><img src="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/sett.png" alt="Akins Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/">Akins Hunting</a></td><td></td><td><code>G/24 R4 G4 R4 K24 DB24 Y4 DB24 K4 G22 R4 G/4</code></td><td>264</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><img src="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/sett.png" alt="Akins Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

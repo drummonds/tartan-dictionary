@@ -20,10 +20,10 @@ Clan tartan dated to 1831, also listed under Logan, possibly an alternative name
 The **Logan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/">Logan</a></td><td><code>R/12 DB6 R4 DB4 R4 DB32 K24 G32 R2 K2 Y/4</code></td><td>236</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><img src="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/">Logan</a></td><td></td><td><code>R/12 DB6 R4 DB4 R4 DB32 K24 G32 R2 K2 Y/4</code></td><td>236</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><img src="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

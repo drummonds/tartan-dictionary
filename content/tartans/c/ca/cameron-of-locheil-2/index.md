@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRGRGRWRB](/stripes/brbrbrgrgrwrb/) — the page of e
 The **Cameron of Locheil** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/">Cameron of Locheil</a></td><td><code>DB/8 R2 DB2 R36 DB20 R2 G2 R12 G20 R12 W2 R8 DB/2</code></td><td>246</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><img src="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/">Cameron of Locheil</a></td><td></td><td><code>DB/8 R2 DB2 R36 DB20 R2 G2 R12 G20 R12 W2 R8 DB/2</code></td><td>246</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><img src="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

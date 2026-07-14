@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKGRGRGRGKBKBKBKGGGGGGGKBKBK](/stripes/bkbkbkgrgrgrgk
 The **Gordon 6** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/">Gordon 6</a></td><td><code>DB/30 K6 DB6 K6 DB6 K30 G30 R2 G2 R8 G2 R2 G30 K30 DB30 K6 DB8 K6 DB30 K30 G30 Y2 G2 Y8 G2 Y2 G30 K30 DB6 K6 DB6 K/6</code></td><td>824</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/"><img src="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/sett.png" alt="Gordon 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/">Gordon 6</a></td><td></td><td><code>DB/30 K6 DB6 K6 DB6 K30 G30 R2 G2 R8 G2 R2 G30 K30 DB30 K6 DB8 K6 DB30 K30 G30 Y2 G2 Y8 G2 Y2 G30 K30 DB6 K6 DB6 K/6</code></td><td>824</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/"><img src="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/sett.png" alt="Gordon 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

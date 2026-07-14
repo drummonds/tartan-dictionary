@@ -13,10 +13,10 @@ Its design is pattern [BKYKBKYKBK](/stripes/bkykbkykbk/) — the page of every t
 The **Burke** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k62dr23k1ly5k1dr3k1ly2k1dr8~x2/">Burke</a></td><td><code>K/124 DR46 K2 LY10 K2 DR6 K2 LY4 K2 DR/16</code></td><td>288</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k62dr23k1ly5k1dr3k1ly2k1dr8~x2/"><img src="/variants/s10/k62dr23k1ly5k1dr3k1ly2k1dr8~x2/sett.png" alt="Burke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k62dr23k1ly5k1dr3k1ly2k1dr8~x2/">Burke</a></td><td></td><td><code>K/124 DR46 K2 LY10 K2 DR6 K2 LY4 K2 DR/16</code></td><td>288</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k62dr23k1ly5k1dr3k1ly2k1dr8~x2/"><img src="/variants/s10/k62dr23k1ly5k1dr3k1ly2k1dr8~x2/sett.png" alt="Burke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

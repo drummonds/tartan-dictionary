@@ -13,10 +13,10 @@ Its design is pattern [GBBGBGBGBBG](/stripes/gbbgbgbgbbg/) — the page of every
 The **Pride of Scotland Autumn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/">Pride of Scotland Autumn</a></td><td><code>G/18 DB4 DP4 G4 DP36 G4 DB4 G2 DB38 DR66 G/4</code></td><td>346</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/"><img src="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/sett.png" alt="Pride of Scotland Autumn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/">Pride of Scotland Autumn</a></td><td></td><td><code>G/18 DB4 DP4 G4 DP36 G4 DB4 G2 DB38 DR66 G/4</code></td><td>346</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/"><img src="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/sett.png" alt="Pride of Scotland Autumn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBRWRBRRBGBGBGG](/stripes/gbrwrbrrbgbgbgg/) — the page 
 The **Jewel Look JTB** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/">Jewel Look JTB</a></td><td><code>Y/4 G2 N4 G20 N2 G2 N4 O21 R6 N4 R4 W3 R4 N2 G/4</code></td><td>164</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/"><img src="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/sett.png" alt="Jewel Look JTB sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/">Jewel Look JTB</a></td><td></td><td><code>Y/4 G2 N4 G20 N2 G2 N4 O21 R6 N4 R4 W3 R4 N2 G/4</code></td><td>164</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/"><img src="/variants/s15/y4g2n4g20n2g2n4o21r6n4r4w3r4n2g4/sett.png" alt="Jewel Look JTB sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

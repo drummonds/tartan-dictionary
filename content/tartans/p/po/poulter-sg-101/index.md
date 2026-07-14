@@ -16,10 +16,10 @@ Its design is pattern [YBYBGRGBYBYBY](/stripes/ybybgrgbybyby/) — the page of e
 The **Poulter SG 101** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/">Poulter SG 101</a></td><td><code>LY/25 DR8 LY8 DR8 LY8 DR46 DY46 R8 DY46 DR46 LY46 DR8 LY/8</code></td><td>589</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/"><img src="/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/sett.png" alt="Poulter SG 101 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/">Poulter SG 101</a></td><td></td><td><code>LY/25 DR8 LY8 DR8 LY8 DR46 DY46 R8 DY46 DR46 LY46 DR8 LY/8</code></td><td>589</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/"><img src="/variants/s13/ly25dr8ly8dr8ly8dr46dy46r8dy46dr46ly46dr8ly8/sett.png" alt="Poulter SG 101 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

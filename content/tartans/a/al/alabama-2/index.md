@@ -18,10 +18,10 @@ Its design is pattern [RWKGRBY](/stripes/rwkgrby/) — the page of every tartan 
 The **Alabama** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r3lb8k9g16r12n12lo3~x2/">Alabama</a></td><td><code>R/6 LB16 K18 G32 R24 N24 LO/6</code></td><td>240</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3lb8k9g16r12n12lo3~x2/"><img src="/variants/s7/r3lb8k9g16r12n12lo3~x2/sett.png" alt="Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3lb8k9g16r12n12lo3~x2/">Alabama</a></td><td></td><td><code>R/6 LB16 K18 G32 R24 N24 LO/6</code></td><td>240</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r3lb8k9g16r12n12lo3~x2/"><img src="/variants/s7/r3lb8k9g16r12n12lo3~x2/sett.png" alt="Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

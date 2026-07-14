@@ -18,10 +18,10 @@ Its design is pattern [BKGKGKGGGKGKGKBR](/stripes/bkgkgkgggkgkgkbr/) — the pag
 The **Sarafilovic** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4~x2/">Sarafilovic</a></td><td><code>DB/30 K36 G6 K4 G4 K4 G88 Y8 G88 K4 G4 K4 G6 K36 DB30 R/8</code></td><td>682</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4~x2/"><img src="/variants/s16/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4~x2/sett.png" alt="Sarafilovic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4~x2/">Sarafilovic</a></td><td></td><td><code>DB/30 K36 G6 K4 G4 K4 G88 Y8 G88 K4 G4 K4 G6 K36 DB30 R/8</code></td><td>682</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4~x2/"><img src="/variants/s16/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4~x2/sett.png" alt="Sarafilovic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

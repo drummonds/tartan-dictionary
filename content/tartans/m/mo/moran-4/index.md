@@ -20,10 +20,10 @@ Designed 2001 by Mark Moran as a copyright-free blue alternative to the restrict
 The **Moran** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/t26db13k13w2g8k8t3k8g8w2k13db13t26w3~x2/">Moran</a></td><td><code>T/52 DB26 K26 W4 G16 K16 T6 K16 G16 W4 K26 DB26 T52 W/6</code></td><td>526</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/t26db13k13w2g8k8t3k8g8w2k13db13t26w3~x2/"><img src="/variants/s14/t26db13k13w2g8k8t3k8g8w2k13db13t26w3~x2/sett.png" alt="Moran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/t26db13k13w2g8k8t3k8g8w2k13db13t26w3~x2/">Moran</a></td><td></td><td><code>T/52 DB26 K26 W4 G16 K16 T6 K16 G16 W4 K26 DB26 T52 W/6</code></td><td>526</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/t26db13k13w2g8k8t3k8g8w2k13db13t26w3~x2/"><img src="/variants/s14/t26db13k13w2g8k8t3k8g8w2k13db13t26w3~x2/sett.png" alt="Moran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

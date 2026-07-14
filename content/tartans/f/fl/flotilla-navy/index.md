@@ -13,10 +13,10 @@ Its design is pattern [KBYBWBGRBRW](/stripes/kbybwbgrbrw/) — the page of every
 The **Flotilla Navy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/">Flotilla Navy</a></td><td><code>K/144 B24 LY4 B4 W4 B4 DY32 O16 B4 O8 W/4</code></td><td>348</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/"><img src="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/sett.png" alt="Flotilla Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/">Flotilla Navy</a></td><td></td><td><code>K/144 B24 LY4 B4 W4 B4 DY32 O16 B4 O8 W/4</code></td><td>348</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/"><img src="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/sett.png" alt="Flotilla Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

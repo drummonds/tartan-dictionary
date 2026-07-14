@@ -13,11 +13,11 @@ Its design is pattern [BBBBBBGRBBBBBBBW](/stripes/bbbbbbgrbbbbbbbw/) — the pag
 The **Spirit of Romania** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/">Spirit of Romania</a></td><td><code>DP/8 DB2 DP4 DB2 T32 DB2 Y32 R32 DB2 T8 DB4 T8 DB4 T24 DB2 W/8</code></td><td>332</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/"><img src="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/sett.png" alt="Spirit of Romania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/">Spirit of Romania</a> · <a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2~db1108266-t2205244/">Spirit of Romania</a></td></tr>
+<tr><td><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/">Spirit of Romania</a></td><td></td><td><code>DP/8 DB2 DP4 DB2 T32 DB2 Y32 R32 DB2 T8 DB4 T8 DB4 T24 DB2 W/8</code></td><td>332</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/"><img src="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/sett.png" alt="Spirit of Romania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/">Spirit of Romania</a> · <a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2~db1108266-t2205244/">Spirit of Romania</a></td></tr>
 </tbody>
 </table>
 

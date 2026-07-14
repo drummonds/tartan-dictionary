@@ -18,10 +18,10 @@ Its design is pattern [GRBRGR](/stripes/grbrgr/) — the page of every tartan sh
 The **Robertson 6** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r1g10r1db4r18g1~x4/">Robertson 6</a></td><td><code>R/4 G40 R4 DB16 R72 G/4</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r1g10r1db4r18g1~x4/"><img src="/variants/s6/r1g10r1db4r18g1~x4/sett.png" alt="Robertson 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r1g10r1db4r18g1~x4/">Robertson 6</a></td><td></td><td><code>R/4 G40 R4 DB16 R72 G/4</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r1g10r1db4r18g1~x4/"><img src="/variants/s6/r1g10r1db4r18g1~x4/sett.png" alt="Robertson 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

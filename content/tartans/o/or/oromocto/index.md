@@ -13,11 +13,11 @@ Its design is pattern [GKRKWBWBWBWKGKR](/stripes/gkrkwbwbwbwkgkr/) — the page 
 The **Oromocto** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/">Oromocto</a></td><td><code>R/12 K10 Y2 K2 W6 T10 W2 T40 W2 T10 W6 K2 R2 K10 Y/12</code></td><td>232</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/"><img src="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/sett.png" alt="Oromocto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/">(District)</a> · <a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000/">Oromocto</a></td></tr>
+<tr><td><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/">Oromocto</a></td><td></td><td><code>R/12 K10 Y2 K2 W6 T10 W2 T40 W2 T10 W6 K2 R2 K10 Y/12</code></td><td>232</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/"><img src="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/sett.png" alt="Oromocto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/">(District)</a> · <a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000/">Oromocto</a></td></tr>
 </tbody>
 </table>
 

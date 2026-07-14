@@ -13,10 +13,10 @@ Its design is pattern [BKBKBWBWBW](/stripes/bkbkbwbwbw/) — the page of every t
 The **Law Society of Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/">Law Society of Scotland</a></td><td><code>LB/6 DR3 LB24 T7 W4 T7 K18 DR4 K7 DR/3</code></td><td>157</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><img src="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/sett.png" alt="Law Society of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/">Law Society of Scotland</a></td><td></td><td><code>LB/6 DR3 LB24 T7 W4 T7 K18 DR4 K7 DR/3</code></td><td>157</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><img src="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/sett.png" alt="Law Society of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

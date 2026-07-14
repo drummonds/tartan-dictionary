@@ -16,10 +16,10 @@ Its design is pattern [BKBBBWB](/stripes/bkbbbwb/) — the page of every tartan 
 The **Caledonian Mist** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/">Caledonian Mist</a></td><td><code>DT/108 K20 DP8 N4 DP4 W4 DP/20</code></td><td>208</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/"><img src="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/sett.png" alt="Caledonian Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/">Caledonian Mist</a></td><td></td><td><code>DT/108 K20 DP8 N4 DP4 W4 DP/20</code></td><td>208</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/"><img src="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/sett.png" alt="Caledonian Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

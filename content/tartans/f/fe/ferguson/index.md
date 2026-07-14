@@ -20,12 +20,12 @@ The **Ferguson** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/db6g5r1~x4/">Ferguson</a> ★</td><td><code>DB/24 G20 R/4</code></td><td>68</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/db6g5r1~x4/"><img src="/variants/s3/db6g5r1~x4/sett.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/g17r2db15~x2/">(Old)</a></td><td><code>G/34 R4 DB/30</code></td><td>72</td><td>1830</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/g17r2db15~x2/"><img src="/variants/s3/g17r2db15~x2/sett.png" alt="(Old) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/db6g5r1~x4/">Ferguson</a> ★</td><td></td><td><code>DB/24 G20 R/4</code></td><td>68</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/db6g5r1~x4/"><img src="/variants/s3/db6g5r1~x4/sett.png" alt="Ferguson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/g17r2db15~x2/">(Old)</a></td><td>0.50</td><td><code>G/34 R4 DB/30</code></td><td>72</td><td>1830</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/g17r2db15~x2/"><img src="/variants/s3/g17r2db15~x2/sett.png" alt="(Old) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

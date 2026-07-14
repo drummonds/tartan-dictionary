@@ -13,10 +13,10 @@ Its design is pattern [BGBKBG](/stripes/bgbkbg/) — the page of every tartan sh
 The **Waverley Care Aids Trust** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/">Waverley Care Aids Trust</a></td><td><code>DR/80 G20 DR20 K10 DR10 G/20</code></td><td>220</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/"><img src="/variants/s6/dr8g2dr2k1dr1g2~x10/sett.png" alt="Waverley Care Aids Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/">Waverley Care Aids Trust</a></td><td></td><td><code>DR/80 G20 DR20 K10 DR10 G/20</code></td><td>220</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/"><img src="/variants/s6/dr8g2dr2k1dr1g2~x10/sett.png" alt="Waverley Care Aids Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

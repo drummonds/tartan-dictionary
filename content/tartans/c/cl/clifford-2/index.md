@@ -18,10 +18,10 @@ Its design is pattern [GKGKBGBBBGKWK](/stripes/gkgkbgbbbgkwk/) — the page of e
 The **Clifford** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/">Clifford</a></td><td><code>DG/20 K6 G6 K16 DR18 G6 DR20 B6 DR56 G6 K6 W6 K/6</code></td><td>330</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/"><img src="/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/sett.png" alt="Clifford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/">Clifford</a></td><td></td><td><code>DG/20 K6 G6 K16 DR18 G6 DR20 B6 DR56 G6 K6 W6 K/6</code></td><td>330</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/"><img src="/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/sett.png" alt="Clifford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

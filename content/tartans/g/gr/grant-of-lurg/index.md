@@ -20,10 +20,10 @@ Pre-1859 family plaid owned by the Dunbars, originally unidentified, now attribu
 The **Grant of Lurg** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db2r25g10r2db10r2~x2/">Grant of Lurg</a></td><td><code>DB/4 R50 G20 R4 DB20 R/4</code></td><td>196</td><td>~1859</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db2r25g10r2db10r2~x2/"><img src="/variants/s6/db2r25g10r2db10r2~x2/sett.png" alt="Grant of Lurg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db2r25g10r2db10r2~x2/">Grant of Lurg</a></td><td></td><td><code>DB/4 R50 G20 R4 DB20 R/4</code></td><td>196</td><td>~1859</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db2r25g10r2db10r2~x2/"><img src="/variants/s6/db2r25g10r2db10r2~x2/sett.png" alt="Grant of Lurg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

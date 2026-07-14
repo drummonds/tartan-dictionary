@@ -13,10 +13,10 @@ Its design is pattern [BWBBBWBWBBGWG](/stripes/bwbbbwbwbbgwg/) — the page of e
 The **Clan Iain Mhor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/">Clan Iain Mhor</a></td><td><code>DG/44 W4 DG4 DR6 DT4 W4 DT38 W4 DT4 DR6 DT4 W4 DT/38</code></td><td>246</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/"><img src="/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/sett.png" alt="Clan Iain Mhor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/">Clan Iain Mhor</a></td><td></td><td><code>DG/44 W4 DG4 DR6 DT4 W4 DT38 W4 DT4 DR6 DT4 W4 DT/38</code></td><td>246</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/"><img src="/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/sett.png" alt="Clan Iain Mhor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

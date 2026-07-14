@@ -13,10 +13,10 @@ Its design is pattern [BGBRBRBRGRRRGRGRWRGRBWRBWBRW](/stripes/bgbrbrbrgrrrgrgrwr
 The **Unidentified Plaid 15** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s28/w70o7db7w7db7o7w7db5o9y4o3w4o3g13o70g30o4r10o4g30o15db4o4db4o4db27g6db27~x2/">Unidentified Plaid 15</a></td><td><code>W/140 O14 DB14 W14 DB14 O14 W14 DB10 O18 Y8 O6 W8 O6 G26 O140 G60 O8 R20 O8 G60 O30 DB8 O8 DB8 O8 DB54 G12 DB/54</code></td><td>1374</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s28/w70o7db7w7db7o7w7db5o9y4o3w4o3g13o70g30o4r10o4g30o15db4o4db4o4db27g6db27~x2/"><img src="/variants/s28/w70o7db7w7db7o7w7db5o9y4o3w4o3g13o70g30o4r10o4g30o15db4o4db4o4db27g6db27~x2/sett.png" alt="Unidentified Plaid 15 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s28/w70o7db7w7db7o7w7db5o9y4o3w4o3g13o70g30o4r10o4g30o15db4o4db4o4db27g6db27~x2/">Unidentified Plaid 15</a></td><td></td><td><code>W/140 O14 DB14 W14 DB14 O14 W14 DB10 O18 Y8 O6 W8 O6 G26 O140 G60 O8 R20 O8 G60 O30 DB8 O8 DB8 O8 DB54 G12 DB/54</code></td><td>1374</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s28/w70o7db7w7db7o7w7db5o9y4o3w4o3g13o70g30o4r10o4g30o15db4o4db4o4db27g6db27~x2/"><img src="/variants/s28/w70o7db7w7db7o7w7db5o9y4o3w4o3g13o70g30o4r10o4g30o15db4o4db4o4db27g6db27~x2/sett.png" alt="Unidentified Plaid 15 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

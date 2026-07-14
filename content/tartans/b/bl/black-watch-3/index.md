@@ -18,12 +18,12 @@ The **Black Watch** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/">Black Watch</a> ★</td><td><code>R/8 K8 DT48 K48 G48 K4 R/6</code></td><td>326</td><td>1788</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/"><img src="/variants/s7/r4k4dt24k24g24k2r3~x2/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r4k4db24k24g24k2r3~x2/">Black Watch</a></td><td><code>R/8 K8 DB48 K48 G48 K4 R/6</code></td><td>326</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><img src="/variants/s7/r4k4db24k24g24k2r3~x2/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/">Black Watch</a> ★</td><td></td><td><code>R/8 K8 DT48 K48 G48 K4 R/6</code></td><td>326</td><td>1788</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/"><img src="/variants/s7/r4k4dt24k24g24k2r3~x2/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r4k4db24k24g24k2r3~x2/">Black Watch</a></td><td>1.33</td><td><code>R/8 K8 DB48 K48 G48 K4 R/6</code></td><td>326</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><img src="/variants/s7/r4k4db24k24g24k2r3~x2/sett.png" alt="Black Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

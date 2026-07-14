@@ -16,10 +16,10 @@ Its design is pattern [GGRGRGGGR](/stripes/ggrgrgggr/) — the page of every tar
 The **McCall, F W** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/">McCall, F W</a></td><td><code>DG/12 DY4 O2 DG30 O6 DY2 DG30 G12 O/2</code></td><td>186</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/"><img src="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/sett.png" alt="McCall, F W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/">McCall, F W</a></td><td></td><td><code>DG/12 DY4 O2 DG30 O6 DY2 DG30 G12 O/2</code></td><td>186</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/"><img src="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/sett.png" alt="McCall, F W sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

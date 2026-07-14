@@ -13,10 +13,10 @@ Its design is pattern [BGBRWGWGWRBRG](/stripes/bgbrwgwgwrbrg/) — the page of e
 The **Saint John New Brunswick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/">Saint John New Brunswick</a></td><td><code>G/2 R4 T24 R30 W30 G6 W2 G6 W30 R30 T6 DY24 T/2</code></td><td>388</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/"><img src="/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/sett.png" alt="Saint John New Brunswick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/">Saint John New Brunswick</a></td><td></td><td><code>G/2 R4 T24 R30 W30 G6 W2 G6 W30 R30 T6 DY24 T/2</code></td><td>388</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/"><img src="/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/sett.png" alt="Saint John New Brunswick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

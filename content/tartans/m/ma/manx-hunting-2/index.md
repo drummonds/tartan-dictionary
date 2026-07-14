@@ -18,10 +18,10 @@ Its design is pattern [BGBGWGGGGGW](/stripes/bgbgwgggggw/) — the page of every
 The **Manx, hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db38dg1n11dg1w4dg1y4dg1g20dg1lb6~x2/">Manx, hunting</a></td><td><code>DB/76 DG2 N22 DG2 W8 DG2 Y8 DG2 G40 DG2 LB/12</code></td><td>264</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db38dg1n11dg1w4dg1y4dg1g20dg1lb6~x2/"><img src="/variants/s11/db38dg1n11dg1w4dg1y4dg1g20dg1lb6~x2/sett.png" alt="Manx, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db38dg1n11dg1w4dg1y4dg1g20dg1lb6~x2/">Manx, hunting</a></td><td></td><td><code>DB/76 DG2 N22 DG2 W8 DG2 Y8 DG2 G40 DG2 LB/12</code></td><td>264</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db38dg1n11dg1w4dg1y4dg1g20dg1lb6~x2/"><img src="/variants/s11/db38dg1n11dg1w4dg1y4dg1g20dg1lb6~x2/sett.png" alt="Manx, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

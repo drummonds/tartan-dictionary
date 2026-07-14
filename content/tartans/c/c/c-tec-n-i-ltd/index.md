@@ -13,10 +13,10 @@ Its design is pattern [GWBK](/stripes/gwbk/) — the page of every tartan sharin
 The **C-Tec N.I. Ltd** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/k62db15w6y4~x2/">C-Tec N.I. Ltd</a></td><td><code>K/124 DB30 W12 Y/8</code></td><td>216</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k62db15w6y4~x2/"><img src="/variants/s4/k62db15w6y4~x2/sett.png" alt="C-Tec N.I. Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k62db15w6y4~x2/">C-Tec N.I. Ltd</a></td><td></td><td><code>K/124 DB30 W12 Y/8</code></td><td>216</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/k62db15w6y4~x2/"><img src="/variants/s4/k62db15w6y4~x2/sett.png" alt="C-Tec N.I. Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

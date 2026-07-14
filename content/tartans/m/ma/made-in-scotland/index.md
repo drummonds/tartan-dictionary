@@ -13,10 +13,10 @@ Its design is pattern [BKWKWKWKWKWYWKWKWKWKWKW](/stripes/bkwkwkwkwkwywkwkwkwkwkw
 The **Made in Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/w3k9lb2k1lb2k1lb2k1lb2k1lb20lo2lb20k1lb2k1lb2k1lb2k1lb2k2b2~x2/">Made in Scotland</a></td><td><code>W/6 K18 LB4 K2 LB4 K2 LB4 K2 LB4 K2 LB40 LO4 LB40 K2 LB4 K2 LB4 K2 LB4 K2 LB4 K4 B/4</code></td><td>318</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/w3k9lb2k1lb2k1lb2k1lb2k1lb20lo2lb20k1lb2k1lb2k1lb2k1lb2k2b2~x2/"><img src="/variants/s23/w3k9lb2k1lb2k1lb2k1lb2k1lb20lo2lb20k1lb2k1lb2k1lb2k1lb2k2b2~x2/sett.png" alt="Made in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/w3k9lb2k1lb2k1lb2k1lb2k1lb20lo2lb20k1lb2k1lb2k1lb2k1lb2k2b2~x2/">Made in Scotland</a></td><td></td><td><code>W/6 K18 LB4 K2 LB4 K2 LB4 K2 LB4 K2 LB40 LO4 LB40 K2 LB4 K2 LB4 K2 LB4 K2 LB4 K4 B/4</code></td><td>318</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/w3k9lb2k1lb2k1lb2k1lb2k1lb20lo2lb20k1lb2k1lb2k1lb2k1lb2k2b2~x2/"><img src="/variants/s23/w3k9lb2k1lb2k1lb2k1lb2k1lb20lo2lb20k1lb2k1lb2k1lb2k1lb2k2b2~x2/sett.png" alt="Made in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

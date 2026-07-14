@@ -13,10 +13,10 @@ Its design is pattern [BWBGBGRYBR](/stripes/bwbgbgrybr/) — the page of every t
 The **Clarks No. 1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db5lb2db11g2db2g6r17ly9db1r1~x2/">Clarks No. 1</a></td><td><code>DB/10 LB4 DB22 G4 DB4 G12 R34 LY18 DB2 R/2</code></td><td>212</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db5lb2db11g2db2g6r17ly9db1r1~x2/"><img src="/variants/s10/db5lb2db11g2db2g6r17ly9db1r1~x2/sett.png" alt="Clarks No. 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db5lb2db11g2db2g6r17ly9db1r1~x2/">Clarks No. 1</a></td><td></td><td><code>DB/10 LB4 DB22 G4 DB4 G12 R34 LY18 DB2 R/2</code></td><td>212</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db5lb2db11g2db2g6r17ly9db1r1~x2/"><img src="/variants/s10/db5lb2db11g2db2g6r17ly9db1r1~x2/sett.png" alt="Clarks No. 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

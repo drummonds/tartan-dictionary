@@ -13,10 +13,10 @@ Its design is pattern [GKRGRWRWKGGKWR](/stripes/gkrgrwrwkggkwr/) — the page of
 The **Wilson's, No 226** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r25w4k4g25y3k15lb13r5lb5r15g4r5k2g3~x2/">Wilson's, No 226</a></td><td><code>R/50 W8 K8 G50 Y6 K30 LB26 R10 LB10 R30 G8 R10 K4 G/6</code></td><td>456</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r25w4k4g25y3k15lb13r5lb5r15g4r5k2g3~x2/"><img src="/variants/s14/r25w4k4g25y3k15lb13r5lb5r15g4r5k2g3~x2/sett.png" alt="Wilson's, No 226 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r25w4k4g25y3k15lb13r5lb5r15g4r5k2g3~x2/">Wilson's, No 226</a></td><td></td><td><code>R/50 W8 K8 G50 Y6 K30 LB26 R10 LB10 R30 G8 R10 K4 G/6</code></td><td>456</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r25w4k4g25y3k15lb13r5lb5r15g4r5k2g3~x2/"><img src="/variants/s14/r25w4k4g25y3k15lb13r5lb5r15g4r5k2g3~x2/sett.png" alt="Wilson's, No 226 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RKRBWR](/stripes/rkrbwr/) — the page of every tartan sh
 The **Grelloch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r2lb1dr12ri12k1ri2~x4~r1807008-ri2109032/">Grelloch</a></td><td><code>R/8 LB4 DR48 Ri48 K4 Ri/8</code></td><td>224</td><td>1951</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r2lb1dr12ri12k1ri2~x4~r1807008-ri2109032/"><img src="/variants/s6/r2lb1dr12ri12k1ri2~x4~r1807008-ri2109032/sett.png" alt="Grelloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r2lb1dr12ri12k1ri2~x4~r1807008-ri2109032/">Grelloch</a></td><td></td><td><code>R/8 LB4 DR48 Ri48 K4 Ri/8</code></td><td>224</td><td>1951</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r2lb1dr12ri12k1ri2~x4~r1807008-ri2109032/"><img src="/variants/s6/r2lb1dr12ri12k1ri2~x4~r1807008-ri2109032/sett.png" alt="Grelloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

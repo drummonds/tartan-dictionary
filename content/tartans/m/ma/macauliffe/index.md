@@ -15,10 +15,10 @@ Irish name tartan for the MacAuliffes, a branch of the MacCarthys descended from
 The **MacAuliffe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g37w2g6db23y6db2y3db2~x2/">MacAuliffe</a></td><td><code>G/74 W4 G12 DB46 Y12 DB4 Y6 DB/4</code></td><td>246</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g37w2g6db23y6db2y3db2~x2/"><img src="/variants/s8/g37w2g6db23y6db2y3db2~x2/sett.png" alt="MacAuliffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g37w2g6db23y6db2y3db2~x2/">MacAuliffe</a></td><td></td><td><code>G/74 W4 G12 DB46 Y12 DB4 Y6 DB/4</code></td><td>246</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g37w2g6db23y6db2y3db2~x2/"><img src="/variants/s8/g37w2g6db23y6db2y3db2~x2/sett.png" alt="MacAuliffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RBRBRBRGRGRGRGRGRBRBRBRGR](/stripes/rbrbrbrgrgrgrgrgrbrbr
 The **Ross 2** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/r14db1r1db2r1db1r10g10r2g10r2g10r10g2r6g2r10db10r2db10r2db10r10g2r6~x2/">Ross 2</a></td><td><code>R/28 DB2 R2 DB4 R2 DB2 R20 G20 R4 G20 R4 G20 R20 G4 R12 G4 R20 DB20 R4 DB20 R4 DB20 R20 G4 R/12</code></td><td>544</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/r14db1r1db2r1db1r10g10r2g10r2g10r10g2r6g2r10db10r2db10r2db10r10g2r6~x2/"><img src="/variants/s25/r14db1r1db2r1db1r10g10r2g10r2g10r10g2r6g2r10db10r2db10r2db10r10g2r6~x2/sett.png" alt="Ross 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/r14db1r1db2r1db1r10g10r2g10r2g10r10g2r6g2r10db10r2db10r2db10r10g2r6~x2/">Ross 2</a></td><td></td><td><code>R/28 DB2 R2 DB4 R2 DB2 R20 G20 R4 G20 R4 G20 R20 G4 R12 G4 R20 DB20 R4 DB20 R4 DB20 R20 G4 R/12</code></td><td>544</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/r14db1r1db2r1db1r10g10r2g10r2g10r10g2r6g2r10db10r2db10r2db10r10g2r6~x2/"><img src="/variants/s25/r14db1r1db2r1db1r10g10r2g10r2g10r10g2r6g2r10db10r2db10r2db10r10g2r6~x2/sett.png" alt="Ross 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

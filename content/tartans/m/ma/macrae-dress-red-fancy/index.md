@@ -18,10 +18,10 @@ Dance variant of MacRae Dress, in a red fancy colourway.
 The **MacRae Dress Red Fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r3k2w1r8w1k2w9k1w3t1w3k1w9k2w1r8w1k2r3t1~x6~t2405244/">MacRae Dress Red Fancy</a></td><td><code>R/18 K12 W6 R48 W6 K12 W54 K6 W18 T6 W18 K6 W54 K12 W6 R48 W6 K12 R18 T/6</code></td><td>720</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r3k2w1r8w1k2w9k1w3t1w3k1w9k2w1r8w1k2r3t1~x6~t2405244/"><img src="/variants/s20/r3k2w1r8w1k2w9k1w3t1w3k1w9k2w1r8w1k2r3t1~x6~t2405244/sett.png" alt="MacRae Dress Red Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r3k2w1r8w1k2w9k1w3t1w3k1w9k2w1r8w1k2r3t1~x6~t2405244/">MacRae Dress Red Fancy</a></td><td></td><td><code>R/18 K12 W6 R48 W6 K12 W54 K6 W18 T6 W18 K6 W54 K12 W6 R48 W6 K12 R18 T/6</code></td><td>720</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r3k2w1r8w1k2w9k1w3t1w3k1w9k2w1r8w1k2r3t1~x6~t2405244/"><img src="/variants/s20/r3k2w1r8w1k2w9k1w3t1w3k1w9k2w1r8w1k2r3t1~x6~t2405244/sett.png" alt="MacRae Dress Red Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

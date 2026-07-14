@@ -18,10 +18,10 @@ Its design is pattern [BGGWBRBKBRBWGGBW](/stripes/bggwbrbkbrbwggbw/) — the pag
 The **Scotia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/">Scotia</a></td><td><code>DB/58 G28 DY4 W18 DB14 R3 DB8 K4 DB8 R3 DB14 W18 DY4 G28 DB58 W/4</code></td><td>486</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/"><img src="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/sett.png" alt="Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/">Scotia</a></td><td></td><td><code>DB/58 G28 DY4 W18 DB14 R3 DB8 K4 DB8 R3 DB14 W18 DY4 G28 DB58 W/4</code></td><td>486</td><td>1982</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/"><img src="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/sett.png" alt="Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

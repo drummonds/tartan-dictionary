@@ -13,10 +13,10 @@ Its design is pattern [KBKBKRWR](/stripes/kbkbkrwr/) — the page of every tarta
 The **Ostermeier** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/">Ostermeier</a></td><td><code>R/22 W2 R64 K16 DB12 K2 DB32 K/2</code></td><td>280</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><img src="/variants/s8/r11w1r32k8db6k1db16k1~x2/sett.png" alt="Ostermeier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/">Ostermeier</a></td><td></td><td><code>R/22 W2 R64 K16 DB12 K2 DB32 K/2</code></td><td>280</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><img src="/variants/s8/r11w1r32k8db6k1db16k1~x2/sett.png" alt="Ostermeier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

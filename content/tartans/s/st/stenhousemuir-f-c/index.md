@@ -13,10 +13,10 @@ Its design is pattern [BKBGBBBBW](/stripes/bkbgbbbbw/) — the page of every tar
 The **Stenhousemuir F.C.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/">Stenhousemuir F.C.</a></td><td><code>DR/12 K4 DR8 Y6 DR120 DB28 DR6 DB6 W/2</code></td><td>370</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/"><img src="/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/sett.png" alt="Stenhousemuir F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/">Stenhousemuir F.C.</a></td><td></td><td><code>DR/12 K4 DR8 Y6 DR120 DB28 DR6 DB6 W/2</code></td><td>370</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/"><img src="/variants/s9/dr6k2dr4y3dr60db14dr3db3w1~x2/sett.png" alt="Stenhousemuir F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

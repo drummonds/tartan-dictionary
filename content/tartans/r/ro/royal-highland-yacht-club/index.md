@@ -13,10 +13,10 @@ Its design is pattern [KBKRKBKBGKW](/stripes/kbkrkbkbgkw/) — the page of every
 The **Royal Highland Yacht Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k26db3k1o2k1db3k3db12dg14k2w2~x2~k0503265-db1003265/">Royal Highland Yacht Club</a></td><td><code>K/52 DB6 K2 O4 K2 DB6 K6 DB24 DG28 K4 W/4</code></td><td>220</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k26db3k1o2k1db3k3db12dg14k2w2~x2~k0503265-db1003265/"><img src="/variants/s11/k26db3k1o2k1db3k3db12dg14k2w2~x2~k0503265-db1003265/sett.png" alt="Royal Highland Yacht Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k26db3k1o2k1db3k3db12dg14k2w2~x2~k0503265-db1003265/">Royal Highland Yacht Club</a></td><td></td><td><code>K/52 DB6 K2 O4 K2 DB6 K6 DB24 DG28 K4 W/4</code></td><td>220</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k26db3k1o2k1db3k3db12dg14k2w2~x2~k0503265-db1003265/"><img src="/variants/s11/k26db3k1o2k1db3k3db12dg14k2w2~x2~k0503265-db1003265/sett.png" alt="Royal Highland Yacht Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Regimental tartan resembling the 92nd Regiment's piper plaids, but with a yellow
 The **MacLeod's Highlanders** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/">MacLeod's Highlanders</a></td><td><code>DB/24 R4 W4 R4 W4 K24 G22 K4 W4 K4 G22 K24 DB22 K4 R/4</code></td><td>320</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/"><img src="/variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/sett.png" alt="MacLeod's Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/">MacLeod's Highlanders</a></td><td></td><td><code>DB/24 R4 W4 R4 W4 K24 G22 K4 W4 K4 G22 K24 DB22 K4 R/4</code></td><td>320</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/"><img src="/variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/sett.png" alt="MacLeod's Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGWBBG](/stripes/bgwbbg/) — the page of every tartan sh
 The **Unnamed, No 29** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db3g11lb2db11b6g3~x2/">Unnamed, No 29</a></td><td><code>DB/6 G22 LB4 DB22 B12 G/6</code></td><td>132</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><img src="/variants/s6/db3g11lb2db11b6g3~x2/sett.png" alt="Unnamed, No 29 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db3g11lb2db11b6g3~x2/">Unnamed, No 29</a></td><td></td><td><code>DB/6 G22 LB4 DB22 B12 G/6</code></td><td>132</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><img src="/variants/s6/db3g11lb2db11b6g3~x2/sett.png" alt="Unnamed, No 29 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

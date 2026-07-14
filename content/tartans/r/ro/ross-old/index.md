@@ -16,10 +16,10 @@ Its design is pattern [BRBRBRBRGRGRGR](/stripes/brbrbrbrgrgrgr/) — the page of
 The **Ross, Old** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/">Ross, Old</a></td><td><code>DP/4 R2 DP2 R62 DP16 R4 DP16 R6 G2 R4 G2 R6 G10 R/4</code></td><td>272</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/"><img src="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/sett.png" alt="Ross, Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/">Ross, Old</a></td><td></td><td><code>DP/4 R2 DP2 R62 DP16 R4 DP16 R6 G2 R4 G2 R6 G10 R/4</code></td><td>272</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/"><img src="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/sett.png" alt="Ross, Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

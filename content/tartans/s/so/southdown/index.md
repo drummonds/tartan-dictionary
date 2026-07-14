@@ -18,10 +18,10 @@ Its design is pattern [BRBBBBBBRB](/stripes/brbbbbbbrb/) — the page of every t
 The **Southdown** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dr3o22do6n4do6n6do2dr1o2do3~x4~o2500000-n1900000/">Southdown</a></td><td><code>DR/12 O88 DO24 N16 DO24 N24 DO8 DR4 O8 DO/12</code></td><td>416</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr3o22do6n4do6n6do2dr1o2do3~x4~o2500000-n1900000/"><img src="/variants/s10/dr3o22do6n4do6n6do2dr1o2do3~x4~o2500000-n1900000/sett.png" alt="Southdown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr3o22do6n4do6n6do2dr1o2do3~x4~o2500000-n1900000/">Southdown</a></td><td></td><td><code>DR/12 O88 DO24 N16 DO24 N24 DO8 DR4 O8 DO/12</code></td><td>416</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dr3o22do6n4do6n6do2dr1o2do3~x4~o2500000-n1900000/"><img src="/variants/s10/dr3o22do6n4do6n6do2dr1o2do3~x4~o2500000-n1900000/sett.png" alt="Southdown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

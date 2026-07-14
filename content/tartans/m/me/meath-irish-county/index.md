@@ -15,10 +15,10 @@ One of Polly Wittering's Irish district series for House of Edgar, featuring sof
 The **Meath Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/">Meath Irish County</a></td><td><code>LO/10 T4 O28 DO18 DG16 T6 O6 T6 O6 T6 DG38 LR/6</code></td><td>284</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/"><img src="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/sett.png" alt="Meath Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/">Meath Irish County</a></td><td></td><td><code>LO/10 T4 O28 DO18 DG16 T6 O6 T6 O6 T6 DG38 LR/6</code></td><td>284</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/"><img src="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/sett.png" alt="Meath Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

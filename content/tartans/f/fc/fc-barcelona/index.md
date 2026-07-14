@@ -13,10 +13,10 @@ Its design is pattern [BBBRBRBRBG](/stripes/bbbrbrbrbg/) — the page of every t
 The **FC Barcelona** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/">FC Barcelona</a></td><td><code>DR/6 B6 DR36 R4 DR4 R6 DR4 R8 B36 Y/4</code></td><td>218</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/"><img src="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/sett.png" alt="FC Barcelona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/">FC Barcelona</a></td><td></td><td><code>DR/6 B6 DR36 R4 DR4 R6 DR4 R8 B36 Y/4</code></td><td>218</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/"><img src="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/sett.png" alt="FC Barcelona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

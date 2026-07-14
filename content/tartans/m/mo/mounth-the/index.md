@@ -15,10 +15,10 @@ Designed in 1988 for the Kincardine & Deeside branch of the National Trust for S
 The **Mounth The..** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/">Mounth The..</a></td><td><code>DG/4 N26 DG24 W6 LB20 W6 LB24 G26 R/4</code></td><td>272</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/"><img src="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/sett.png" alt="Mounth The.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/">Mounth The..</a></td><td></td><td><code>DG/4 N26 DG24 W6 LB20 W6 LB24 G26 R/4</code></td><td>272</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/"><img src="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/sett.png" alt="Mounth The.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

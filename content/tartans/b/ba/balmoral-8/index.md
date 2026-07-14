@@ -18,10 +18,10 @@ Its design is pattern [RWKWGWGWKGWRW](/stripes/rwkwgwgwkgwrw/) — the page of e
 The **Balmoral** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/">Balmoral</a></td><td><code>W/8 R4 W22 Y4 K4 W2 Y2 W2 Y8 W4 K2 W2 R/2</code></td><td>122</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/"><img src="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/sett.png" alt="Balmoral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/">Balmoral</a></td><td></td><td><code>W/8 R4 W22 Y4 K4 W2 Y2 W2 Y8 W4 K2 W2 R/2</code></td><td>122</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/"><img src="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/sett.png" alt="Balmoral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

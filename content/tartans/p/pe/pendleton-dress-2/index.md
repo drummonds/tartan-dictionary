@@ -18,10 +18,10 @@ Its design is pattern [BKGGGKGRGKB](/stripes/bkgggkgrgkb/) — the page of every
 The **Pendleton dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db6ki40dg34r5dg34k6dg34y5dg34ki40db6~ki0604259/">Pendleton dress</a></td><td><code>DB/6 Ki40 DG34 R5 DG34 K6 DG34 Y5 DG34 Ki40 DB/6</code></td><td>476</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db6ki40dg34r5dg34k6dg34y5dg34ki40db6~ki0604259/"><img src="/variants/s11/db6ki40dg34r5dg34k6dg34y5dg34ki40db6~ki0604259/sett.png" alt="Pendleton dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db6ki40dg34r5dg34k6dg34y5dg34ki40db6~ki0604259/">Pendleton dress</a></td><td></td><td><code>DB/6 Ki40 DG34 R5 DG34 K6 DG34 Y5 DG34 Ki40 DB/6</code></td><td>476</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db6ki40dg34r5dg34k6dg34y5dg34ki40db6~ki0604259/"><img src="/variants/s11/db6ki40dg34r5dg34k6dg34y5dg34ki40db6~ki0604259/sett.png" alt="Pendleton dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

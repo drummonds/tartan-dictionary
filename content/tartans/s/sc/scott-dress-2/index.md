@@ -20,12 +20,12 @@ The **Scott Dress** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg4r2k1w30r10dg14r4dg5w2dg5r4~x2/">Scott Dress</a> ★</td><td><code>DG/8 R4 K2 W60 R20 DG28 R8 DG10 W4 DG10 R/8</code></td><td>308</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg4r2k1w30r10dg14r4dg5w2dg5r4~x2/"><img src="/variants/s11/dg4r2k1w30r10dg14r4dg5w2dg5r4~x2/sett.png" alt="Scott Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/">Scott, dress</a></td><td><code>R/8 G10 W4 G10 R8 G28 R20 W60 K2 R4 G/8</code></td><td>308</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/"><img src="r4g5w2g5r4g14r10w30k1r2g4-rev.png" alt="Scott, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg4r2k1w30r10dg14r4dg5w2dg5r4~x2/">Scott Dress</a> ★</td><td></td><td><code>DG/8 R4 K2 W60 R20 DG28 R8 DG10 W4 DG10 R/8</code></td><td>308</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg4r2k1w30r10dg14r4dg5w2dg5r4~x2/"><img src="/variants/s11/dg4r2k1w30r10dg14r4dg5w2dg5r4~x2/sett.png" alt="Scott Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/">Scott, dress</a></td><td>0.15</td><td><code>R/8 G10 W4 G10 R8 G28 R20 W60 K2 R4 G/8</code></td><td>308</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/"><img src="r4g5w2g5r4g14r10w30k1r2g4-rev.png" alt="Scott, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

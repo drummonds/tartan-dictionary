@@ -13,10 +13,10 @@ Its design is pattern [BGGKRG](/stripes/bggkrg/) — the page of every tartan sh
 The **Zimmermann, Martin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db3g19dg29k11r4y2~x2/">Zimmermann, Martin</a></td><td><code>DB/6 G38 DG58 K22 R8 Y/4</code></td><td>262</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db3g19dg29k11r4y2~x2/"><img src="/variants/s6/db3g19dg29k11r4y2~x2/sett.png" alt="Zimmermann, Martin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db3g19dg29k11r4y2~x2/">Zimmermann, Martin</a></td><td></td><td><code>DB/6 G38 DG58 K22 R8 Y/4</code></td><td>262</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db3g19dg29k11r4y2~x2/"><img src="/variants/s6/db3g19dg29k11r4y2~x2/sett.png" alt="Zimmermann, Martin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

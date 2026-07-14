@@ -18,10 +18,10 @@ Its design is pattern [BRBRBWRWGRGGG](/stripes/brbrbwrwgrggg/) — the page of e
 The **Bowie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/">Bowie</a></td><td><code>DB/16 R4 DB6 R8 DB26 W4 O26 W4 G26 R8 G8 Y4 G/16</code></td><td>280</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/"><img src="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/sett.png" alt="Bowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/">Bowie</a></td><td></td><td><code>DB/16 R4 DB6 R8 DB26 W4 O26 W4 G26 R8 G8 Y4 G/16</code></td><td>280</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/"><img src="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/sett.png" alt="Bowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

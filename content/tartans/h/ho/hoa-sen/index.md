@@ -13,10 +13,10 @@ Its design is pattern [GKRKRKGW](/stripes/gkrkrkgw/) — the page of every tarta
 The **Hoa Sen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/">Hoa Sen</a></td><td><code>Y/16 K4 R46 K2 R34 K2 G8 W/6</code></td><td>214</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><img src="/variants/s8/y8k2r23k1r17k1g4w3~x2/sett.png" alt="Hoa Sen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/">Hoa Sen</a></td><td></td><td><code>Y/16 K4 R46 K2 R34 K2 G8 W/6</code></td><td>214</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><img src="/variants/s8/y8k2r23k1r17k1g4w3~x2/sett.png" alt="Hoa Sen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

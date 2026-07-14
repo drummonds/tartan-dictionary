@@ -13,10 +13,10 @@ Its design is pattern [GBGBGKGBGY](/stripes/gbgbgkgbgy/) — the page of every t
 The **Sardar Chadha** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/">Sardar Chadha</a></td><td><code>LR/6 G34 DB4 G4 K32 G4 DB34 G4 DB2 G/5</code></td><td>247</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><img src="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/sett.png" alt="Sardar Chadha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/">Sardar Chadha</a></td><td></td><td><code>LR/6 G34 DB4 G4 K32 G4 DB34 G4 DB2 G/5</code></td><td>247</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><img src="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/sett.png" alt="Sardar Chadha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

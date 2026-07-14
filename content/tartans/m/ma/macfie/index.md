@@ -22,16 +22,16 @@ The **MacFie** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/">MacFie</a> ★</td><td><code>Y/1 R12 G2 R1 G16 R1 G2 R12 W/1</code></td><td>94</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/"><img src="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/sett.png" alt="MacFie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/y1r12g2r1g16r1g2r12w1/">MacFie</a></td><td><code>Y/1 R12 G2 R1 G16 R1 G2 R12 W/1</code></td><td>94</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/">MacPhee, MacFie</a></td><td><code>Y/2 R24 G4 R2 G32 R2 G4 R24 W/2</code></td><td>188</td><td>1906</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/">MacPhie/Macfie</a></td><td><code>Y/4 R48 G8 R4 G64 R4 G8 R48 W/4</code></td><td>376</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s9/y1r12g2r1g16r1g2r12w1/">MacFie</a> · <a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/">MacPhee, MacFie</a> · <a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/">MacPhie/Macfie</a></td></tr>
-<tr><td><a href="/variants/s9/y2r12g2r1g32r1g2r12w2/">MacFie</a></td><td><code>Y/2 R12 G2 R1 G32 R1 G2 R12 W/2</code></td><td>128</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y2r12g2r1g32r1g2r12w2/"><img src="/variants/s9/y2r12g2r1g32r1g2r12w2/sett.png" alt="MacFie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/">MacFie</a> ★</td><td></td><td><code>Y/1 R12 G2 R1 G16 R1 G2 R12 W/1</code></td><td>94</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/"><img src="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/sett.png" alt="MacFie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/y1r12g2r1g16r1g2r12w1/">MacFie</a></td><td>0.00</td><td><code>Y/1 R12 G2 R1 G16 R1 G2 R12 W/1</code></td><td>94</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/">MacPhee, MacFie</a></td><td>0.00</td><td><code>Y/2 R24 G4 R2 G32 R2 G4 R24 W/2</code></td><td>188</td><td>1906</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/">MacPhie/Macfie</a></td><td>0.00</td><td><code>Y/4 R48 G8 R4 G64 R4 G8 R48 W/4</code></td><td>376</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s9/y1r12g2r1g16r1g2r12w1/">MacFie</a> · <a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/">MacPhee, MacFie</a> · <a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/">MacPhie/Macfie</a></td></tr>
+<tr><td><a href="/variants/s9/y2r12g2r1g32r1g2r12w2/">MacFie</a></td><td>0.62</td><td><code>Y/2 R12 G2 R1 G32 R1 G2 R12 W/2</code></td><td>128</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y2r12g2r1g32r1g2r12w2/"><img src="/variants/s9/y2r12g2r1g32r1g2r12w2/sett.png" alt="MacFie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

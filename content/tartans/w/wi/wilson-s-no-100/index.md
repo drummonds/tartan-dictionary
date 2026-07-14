@@ -13,10 +13,10 @@ Its design is pattern [GBKGGK](/stripes/gbkggk/) — the page of every tartan sh
 The **Wilson's No.100** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k3g17y2k18dp17g3~x2/">Wilson's No.100</a></td><td><code>K/6 G34 Y4 K36 DP34 G/6</code></td><td>228</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3g17y2k18dp17g3~x2/"><img src="/variants/s6/k3g17y2k18dp17g3~x2/sett.png" alt="Wilson's No.100 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3g17y2k18dp17g3~x2/">Wilson's No.100</a></td><td></td><td><code>K/6 G34 Y4 K36 DP34 G/6</code></td><td>228</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k3g17y2k18dp17g3~x2/"><img src="/variants/s6/k3g17y2k18dp17g3~x2/sett.png" alt="Wilson's No.100 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

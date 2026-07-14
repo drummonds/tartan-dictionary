@@ -15,10 +15,10 @@ One of Polly Wittering's Irish district series for House of Edgar, with soft war
 The **Galway Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/">Galway Irish County</a></td><td><code>O/8 G26 O6 DB8 O6 DB6 O80 DB6 O4 LO/8</code></td><td>300</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/"><img src="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/sett.png" alt="Galway Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/">Galway Irish County</a></td><td></td><td><code>O/8 G26 O6 DB8 O6 DB6 O80 DB6 O4 LO/8</code></td><td>300</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/"><img src="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/sett.png" alt="Galway Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGWWRK](/stripes/ggwwrk/) — the page of every tartan sh
 The **Tainsh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k62r9w7lb6y3g6~x2/">Tainsh</a></td><td><code>K/124 R18 W14 LB12 Y6 G/12</code></td><td>236</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><img src="/variants/s6/k62r9w7lb6y3g6~x2/sett.png" alt="Tainsh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k62r9w7lb6y3g6~x2/">Tainsh</a></td><td></td><td><code>K/124 R18 W14 LB12 Y6 G/12</code></td><td>236</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><img src="/variants/s6/k62r9w7lb6y3g6~x2/sett.png" alt="Tainsh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

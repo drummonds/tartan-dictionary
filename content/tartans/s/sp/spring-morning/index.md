@@ -13,10 +13,10 @@ Its design is pattern [GGGYGG](/stripes/gggygg/) — the page of every tartan sh
 The **Spring Morning** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/y9g9lo1g9y9g1~x4/">Spring Morning</a></td><td><code>Y/36 G36 LO4 G36 Y36 G/4</code></td><td>264</td><td>1973</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y9g9lo1g9y9g1~x4/"><img src="/variants/s6/y9g9lo1g9y9g1~x4/sett.png" alt="Spring Morning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y9g9lo1g9y9g1~x4/">Spring Morning</a></td><td></td><td><code>Y/36 G36 LO4 G36 Y36 G/4</code></td><td>264</td><td>1973</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y9g9lo1g9y9g1~x4/"><img src="/variants/s6/y9g9lo1g9y9g1~x4/sett.png" alt="Spring Morning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

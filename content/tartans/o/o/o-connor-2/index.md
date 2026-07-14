@@ -13,10 +13,10 @@ Its design is pattern [GBKBKBKGWGWGKGKG](/stripes/gbkbkbkgwgwgkgkg/) — the pag
 The **O'Connor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/">O'Connor</a></td><td><code>DG/10 K24 DG12 K16 DG26 W4 DG24 W4 DG26 K16 T4 K4 T4 K4 T28 DG/6</code></td><td>408</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/"><img src="/variants/s16/dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/sett.png" alt="O'Connor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/">O'Connor</a></td><td></td><td><code>DG/10 K24 DG12 K16 DG26 W4 DG24 W4 DG26 K16 T4 K4 T4 K4 T28 DG/6</code></td><td>408</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/"><img src="/variants/s16/dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/sett.png" alt="O'Connor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

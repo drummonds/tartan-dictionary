@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBRBR](/stripes/bbbbbbrbr/) — the page of every tar
 The **POF** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/">POF</a></td><td><code>T/27 DB8 T14 DB8 T14 DB26 R84 DB6 R/12</code></td><td>359</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/"><img src="/variants/s9/t27db8t14db8t14db26r84db6r12/sett.png" alt="POF sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/">POF</a></td><td></td><td><code>T/27 DB8 T14 DB8 T14 DB26 R84 DB6 R/12</code></td><td>359</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/"><img src="/variants/s9/t27db8t14db8t14db26r84db6r12/sett.png" alt="POF sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,13 +16,13 @@ The **Argyll** tartan is one sett, recorded at 2 scales — the same proportion 
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/">Argyll</a></td><td><code>R/2 K1 DB8 K8 G8 K1 LB/2</code></td><td>56</td><td>1798</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/"><img src="/variants/s7/r2k1db8k8g8k1lb2~x2/sett.png" alt="Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r2k1db8k8g8k1lb2~x2/">Argyll</a></td><td><code>R/4 K2 DB16 K16 G16 K2 LB/4</code></td><td>112</td><td>1798</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/r2k1db8k8g8k1lb2~x4/">Campbell of Cawdor</a></td><td><code>R/8 K4 DB32 K32 G32 K4 LB/8</code></td><td>224</td><td>1798</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r2k1db8k8g8k1lb2~x2/">Argyll</a> · <a href="/variants/s7/r2k1db8k8g8k1lb2~x4/">Campbell of Cawdor</a></td></tr>
+<tr><td><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/">Argyll</a></td><td></td><td><code>R/2 K1 DB8 K8 G8 K1 LB/2</code></td><td>56</td><td>1798</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/"><img src="/variants/s7/r2k1db8k8g8k1lb2~x2/sett.png" alt="Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r2k1db8k8g8k1lb2~x2/">Argyll</a></td><td>0.00</td><td><code>R/4 K2 DB16 K16 G16 K2 LB/4</code></td><td>112</td><td>1798</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/r2k1db8k8g8k1lb2~x4/">Campbell of Cawdor</a></td><td>0.00</td><td><code>R/8 K4 DB32 K32 G32 K4 LB/8</code></td><td>224</td><td>1798</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/r2k1db8k8g8k1lb2~x2/">Argyll</a> · <a href="/variants/s7/r2k1db8k8g8k1lb2~x4/">Campbell of Cawdor</a></td></tr>
 </tbody>
 </table>
 

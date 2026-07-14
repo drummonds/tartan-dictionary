@@ -16,10 +16,10 @@ Its design is pattern [BKRGRGR](/stripes/bkrgrgr/) — the page of every tartan 
 The **Williams, Jodi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/n2k20r2g3r4g35r1~x2/">Williams, Jodi</a></td><td><code>N/4 K40 R4 G6 R8 G70 R/2</code></td><td>262</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n2k20r2g3r4g35r1~x2/"><img src="/variants/s7/n2k20r2g3r4g35r1~x2/sett.png" alt="Williams, Jodi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n2k20r2g3r4g35r1~x2/">Williams, Jodi</a></td><td></td><td><code>N/4 K40 R4 G6 R8 G70 R/2</code></td><td>262</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/n2k20r2g3r4g35r1~x2/"><img src="/variants/s7/n2k20r2g3r4g35r1~x2/sett.png" alt="Williams, Jodi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

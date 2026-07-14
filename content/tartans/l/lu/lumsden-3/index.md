@@ -18,10 +18,10 @@ Its design is pattern [GBKBGRBRBRKBGBK](/stripes/gbkbgrbrbrkbgbk/) — the page 
 The **Lumsden** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/">Lumsden</a></td><td><code>K/28 DB4 G4 DB4 K28 R4 DB24 R4 DB24 R4 G26 DB4 K4 DB4 G/28</code></td><td>332</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/"><img src="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/sett.png" alt="Lumsden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/">Lumsden</a></td><td></td><td><code>K/28 DB4 G4 DB4 K28 R4 DB24 R4 DB24 R4 G26 DB4 K4 DB4 G/28</code></td><td>332</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/"><img src="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/sett.png" alt="Lumsden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

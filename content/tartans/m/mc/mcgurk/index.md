@@ -13,10 +13,10 @@ Its design is pattern [BKBYRKGYK](/stripes/bkbyrkgyk/) — the page of every tar
 The **McGurk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/">McGurk</a></td><td><code>DB/8 K4 DB31 LO5 R26 K5 Y10 LO5 K/2</code></td><td>182</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><img src="/variants/s9/db8k4db31lo5r26k5y10lo5k2/sett.png" alt="McGurk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/">McGurk</a></td><td></td><td><code>DB/8 K4 DB31 LO5 R26 K5 Y10 LO5 K/2</code></td><td>182</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><img src="/variants/s9/db8k4db31lo5r26k5y10lo5k2/sett.png" alt="McGurk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

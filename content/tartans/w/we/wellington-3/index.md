@@ -18,10 +18,10 @@ Its design is pattern [GBWKWBGG](/stripes/gbwkwbgg/) — the page of every tarta
 The **Wellington** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/">Wellington</a></td><td><code>G/28 DP22 LB6 K4 LB6 DP22 G28 DY/2</code></td><td>206</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/"><img src="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/sett.png" alt="Wellington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/">Wellington</a></td><td></td><td><code>G/28 DP22 LB6 K4 LB6 DP22 G28 DY/2</code></td><td>206</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/"><img src="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/sett.png" alt="Wellington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

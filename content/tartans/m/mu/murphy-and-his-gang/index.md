@@ -13,10 +13,10 @@ Its design is pattern [GBGBGBGBRKRBGBGBGBGG](/stripes/gbgbgbgbrkrbgbgbgbgg/) —
 The **Murphy and his Gang** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/">Murphy and his Gang</a></td><td><code>G/58 DB2 G4 DB4 G4 DB6 G4 DB10 R2 K2 R2 DB10 G4 DB6 G4 DB4 G4 DB2 G28 Y/6</code></td><td>268</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/"><img src="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/sett.png" alt="Murphy and his Gang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/">Murphy and his Gang</a></td><td></td><td><code>G/58 DB2 G4 DB4 G4 DB6 G4 DB10 R2 K2 R2 DB10 G4 DB6 G4 DB4 G4 DB2 G28 Y/6</code></td><td>268</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/"><img src="/variants/s20/g29db1g2db2g2db3g2db5r1k1r1db5g2db3g2db2g2db1g14y3~x2/sett.png" alt="Murphy and his Gang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

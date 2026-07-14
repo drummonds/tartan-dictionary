@@ -13,10 +13,10 @@ Its design is pattern [BWBGBYBGKBY](/stripes/bwbgbybgkby/) — the page of every
 The **Canfield** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2~x2/">Canfield</a></td><td><code>DR/10 W2 DR36 DG8 DR12 LY8 DR2 G12 K26 DB10 LY/4</code></td><td>246</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2~x2/"><img src="/variants/s11/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2~x2/sett.png" alt="Canfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2~x2/">Canfield</a></td><td></td><td><code>DR/10 W2 DR36 DG8 DR12 LY8 DR2 G12 K26 DB10 LY/4</code></td><td>246</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2~x2/"><img src="/variants/s11/dr5w1dr18dg4dr6ly4dr1g6k13db5ly2~x2/sett.png" alt="Canfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

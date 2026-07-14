@@ -13,10 +13,10 @@ Its design is pattern [BKGKGKRBRKB](/stripes/bkgkgkrbrkb/) — the page of every
 The **Porsche Bank Austria** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/">Porsche Bank Austria</a></td><td><code>DB/98 K4 G4 K4 G4 K20 R76 DB10 R8 K8 N/20</code></td><td>394</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/"><img src="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/sett.png" alt="Porsche Bank Austria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/">Porsche Bank Austria</a></td><td></td><td><code>DB/98 K4 G4 K4 G4 K20 R76 DB10 R8 K8 N/20</code></td><td>394</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/"><img src="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/sett.png" alt="Porsche Bank Austria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

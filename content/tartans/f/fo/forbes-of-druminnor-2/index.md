@@ -20,10 +20,10 @@ Based on an old rug owned by Hon. Peggy Forbes Semphill; sample woven by A. Stew
 The **Forbes of Druminnor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/">Forbes of Druminnor</a></td><td><code>DB/12 LY4 DB4 LY4 DB4 DO12 G16 DO2 W4 DO2 G16 DY4 DO8 DB16 LY4 DB/4</code></td><td>216</td><td>1968</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/"><img src="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/sett.png" alt="Forbes of Druminnor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/">Forbes of Druminnor</a></td><td></td><td><code>DB/12 LY4 DB4 LY4 DB4 DO12 G16 DO2 W4 DO2 G16 DY4 DO8 DB16 LY4 DB/4</code></td><td>216</td><td>1968</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/"><img src="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/sett.png" alt="Forbes of Druminnor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

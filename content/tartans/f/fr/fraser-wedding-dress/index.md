@@ -16,10 +16,10 @@ Its design is pattern [GRBRBRGRGRBRG](/stripes/grbrbrgrgrbrg/) — the page of e
 The **Fraser, Wedding dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/">Fraser, Wedding dress</a></td><td><code>G/4 R6 DB4 R96 DB120 R42 G4 R42 G120 R96 DB4 R6 G/4</code></td><td>1088</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/"><img src="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/sett.png" alt="Fraser, Wedding dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/">Fraser, Wedding dress</a></td><td></td><td><code>G/4 R6 DB4 R96 DB120 R42 G4 R42 G120 R96 DB4 R6 G/4</code></td><td>1088</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/"><img src="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/sett.png" alt="Fraser, Wedding dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

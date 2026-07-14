@@ -13,10 +13,10 @@ Its design is pattern [KBWGGGK](/stripes/kbwgggk/) — the page of every tartan 
 The **Chesters, Eric** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k12g8y1dg13lb1db31k8~x2/">Chesters, Eric</a></td><td><code>K/24 G16 Y2 DG26 LB2 DB62 K/16</code></td><td>256</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k12g8y1dg13lb1db31k8~x2/"><img src="/variants/s7/k12g8y1dg13lb1db31k8~x2/sett.png" alt="Chesters, Eric sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k12g8y1dg13lb1db31k8~x2/">Chesters, Eric</a></td><td></td><td><code>K/24 G16 Y2 DG26 LB2 DB62 K/16</code></td><td>256</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k12g8y1dg13lb1db31k8~x2/"><img src="/variants/s7/k12g8y1dg13lb1db31k8~x2/sett.png" alt="Chesters, Eric sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GRBRBGW](/stripes/grbrbgw/) — the page of every tartan 
 The **MacCord / McCord** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/">MacCord / McCord</a></td><td><code>DG/12 R4 DB2 R6 DB32 G40 W/4</code></td><td>184</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/"><img src="/variants/s7/dg6r2db1r3db16g20w2~x2/sett.png" alt="MacCord / McCord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/">MacCord / McCord</a></td><td></td><td><code>DG/12 R4 DB2 R6 DB32 G40 W/4</code></td><td>184</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/"><img src="/variants/s7/dg6r2db1r3db16g20w2~x2/sett.png" alt="MacCord / McCord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

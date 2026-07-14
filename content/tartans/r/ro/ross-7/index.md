@@ -18,10 +18,10 @@ Its design is pattern [GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/grgrbrbrbrbrbrb
 The **Ross 7** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/">Ross 7</a></td><td><code>G/46 R12 G46 R52 G8 R18 G8 R52 W6 R16 DP62 R12 DP62 R16 W6 R52 DP4 R4 DP8 R4 DP4 R52 DP4 R4 DP8 R4 DP4 R52 G46 R12 G/46</code></td><td>1368</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/"><img src="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/sett.png" alt="Ross 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/">Ross 7</a></td><td></td><td><code>G/46 R12 G46 R52 G8 R18 G8 R52 W6 R16 DP62 R12 DP62 R16 W6 R52 DP4 R4 DP8 R4 DP4 R52 DP4 R4 DP8 R4 DP4 R52 G46 R12 G/46</code></td><td>1368</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/"><img src="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/sett.png" alt="Ross 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

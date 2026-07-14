@@ -13,10 +13,10 @@ Its design is pattern [BGBGBBBGBGBK](/stripes/bgbgbbbgbgbk/) — the page of eve
 The **Capricornica / Capricornia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2/">Capricornica / Capricornia</a></td><td><code>DR/20 DG10 DR20 DG10 DR20 DB20 DR20 DG10 DR20 DG10 DR20 K/6</code></td><td>346</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2/"><img src="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2/sett.png" alt="Capricornica / Capricornia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2/">Capricornica / Capricornia</a></td><td></td><td><code>DR/20 DG10 DR20 DG10 DR20 DB20 DR20 DG10 DR20 DG10 DR20 K/6</code></td><td>346</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2/"><img src="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2/sett.png" alt="Capricornica / Capricornia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

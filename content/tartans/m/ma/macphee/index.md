@@ -15,10 +15,10 @@ Black-and-white sett mirroring the clan pattern, registered 1992 for the MacPhee
 The **MacPhee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/k22w3k3w22~x2/">MacPhee</a></td><td><code>K/44 W6 K6 W/44</code></td><td>112</td><td>~1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k22w3k3w22~x2/"><img src="/variants/s4/k22w3k3w22~x2/sett.png" alt="MacPhee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k22w3k3w22~x2/">MacPhee</a></td><td></td><td><code>K/44 W6 K6 W/44</code></td><td>112</td><td>~1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/k22w3k3w22~x2/"><img src="/variants/s4/k22w3k3w22~x2/sett.png" alt="MacPhee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBGBYBRYR](/stripes/bgbgbybryr/) — the page of every t
 The **Roscommon, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/">Roscommon, County</a></td><td><code>O/10 LY6 O38 DO12 LY10 DO12 DG24 DB10 DG24 DB/6</code></td><td>288</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/"><img src="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/sett.png" alt="Roscommon, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/">Roscommon, County</a></td><td></td><td><code>O/10 LY6 O38 DO12 LY10 DO12 DG24 DB10 DG24 DB/6</code></td><td>288</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/"><img src="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/sett.png" alt="Roscommon, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

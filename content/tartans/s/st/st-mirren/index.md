@@ -13,10 +13,10 @@ Its design is pattern [BBBBKBKBKBKB](/stripes/bbbbkbkbkbkb/) — the page of eve
 The **St. Mirren** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/">St. Mirren</a></td><td><code>DTi/10 K4 DT16 K4 DT10 K16 DT8 K24 DT28 DR3 DTi4 DR/3</code></td><td>247</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/"><img src="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/sett.png" alt="St. Mirren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/">St. Mirren</a></td><td></td><td><code>DTi/10 K4 DT16 K4 DT10 K16 DT8 K24 DT28 DR3 DTi4 DR/3</code></td><td>247</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/"><img src="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/sett.png" alt="St. Mirren sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

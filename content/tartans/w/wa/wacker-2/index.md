@@ -18,10 +18,10 @@ Its design is pattern [BKBKGKGKWBK](/stripes/bkbkgkgkwbk/) — the page of every
 The **Wacker** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6~ki0604259/">Wacker</a></td><td><code>DB/12 K6 DB6 Ki25 DG25 K2 DG25 Ki25 W2 DB6 K/6</code></td><td>262</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6~ki0604259/"><img src="/variants/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6~ki0604259/sett.png" alt="Wacker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6~ki0604259/">Wacker</a></td><td></td><td><code>DB/12 K6 DB6 Ki25 DG25 K2 DG25 Ki25 W2 DB6 K/6</code></td><td>262</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6~ki0604259/"><img src="/variants/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6~ki0604259/sett.png" alt="Wacker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

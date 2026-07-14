@@ -17,12 +17,12 @@ The **Scottish Register of Tartans** tartan groups 2 setts — the same named de
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dr11w4dr8dy1dr1dy28ly2dy28k2dy2k23dr3ly6dr3k5~x2/">Scottish Register of Tartans</a> ★</td><td><code>DR/22 W8 DR16 DY2 DR2 DY56 LY4 DY56 K4 DY4 K46 DR6 LY12 DR6 K/10</code></td><td>476</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dr11w4dr8dy1dr1dy28ly2dy28k2dy2k23dr3ly6dr3k5~x2/"><img src="/variants/s15/dr11w4dr8dy1dr1dy28ly2dy28k2dy2k23dr3ly6dr3k5~x2/sett.png" alt="Scottish Register of Tartans sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5~x2~ly2503076-lyi2705081/">(Corp)</a></td><td><code>R/11 W4 R8 DY1 R1 DY28 LY2 DY28 K2 DY2 K23 R3 LYi6 R3 K/5</code></td><td>—</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5~x2~ly2503076-lyi2705081/"><img src="/variants/s15/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5~x2~ly2503076-lyi2705081/sett.png" alt="(Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dr11w4dr8dy1dr1dy28ly2dy28k2dy2k23dr3ly6dr3k5~x2/">Scottish Register of Tartans</a> ★</td><td></td><td><code>DR/22 W8 DR16 DY2 DR2 DY56 LY4 DY56 K4 DY4 K46 DR6 LY12 DR6 K/10</code></td><td>476</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dr11w4dr8dy1dr1dy28ly2dy28k2dy2k23dr3ly6dr3k5~x2/"><img src="/variants/s15/dr11w4dr8dy1dr1dy28ly2dy28k2dy2k23dr3ly6dr3k5~x2/sett.png" alt="Scottish Register of Tartans sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5~x2~ly2503076-lyi2705081/">(Corp)</a></td><td>—</td><td><code>R/11 W4 R8 DY1 R1 DY28 LY2 DY28 K2 DY2 K23 R3 LYi6 R3 K/5</code></td><td>—</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5~x2~ly2503076-lyi2705081/"><img src="/variants/s15/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5~x2~ly2503076-lyi2705081/sett.png" alt="(Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

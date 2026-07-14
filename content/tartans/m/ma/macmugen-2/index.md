@@ -18,10 +18,10 @@ Its design is pattern [KBKBKW](/stripes/kbkbkw/) — the page of every tartan sh
 The **MacMugen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k3b16k4b3k12w2~x3/">MacMugen</a></td><td><code>K/9 B48 K12 B9 K36 W/6</code></td><td>225</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3b16k4b3k12w2~x3/"><img src="/variants/s6/k3b16k4b3k12w2~x3/sett.png" alt="MacMugen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3b16k4b3k12w2~x3/">MacMugen</a></td><td></td><td><code>K/9 B48 K12 B9 K36 W/6</code></td><td>225</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k3b16k4b3k12w2~x3/"><img src="/variants/s6/k3b16k4b3k12w2~x3/sett.png" alt="MacMugen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

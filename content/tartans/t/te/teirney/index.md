@@ -13,10 +13,10 @@ Its design is pattern [GWGBRKRKRBWGWG](/stripes/gwgbrkrkrbwgwg/) — the page of
 The **Teirney** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/">Teirney</a></td><td><code>G/20 W4 G4 W4 T16 R16 K2 R14 K2 R16 T16 G16 W4 G/4</code></td><td>252</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/"><img src="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/sett.png" alt="Teirney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/">Teirney</a></td><td></td><td><code>G/20 W4 G4 W4 T16 R16 K2 R14 K2 R16 T16 G16 W4 G/4</code></td><td>252</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/"><img src="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/sett.png" alt="Teirney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

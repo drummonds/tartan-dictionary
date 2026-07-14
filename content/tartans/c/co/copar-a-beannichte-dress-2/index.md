@@ -13,10 +13,10 @@ Its design is pattern [GGGWBWBBBRBBBWBW](/stripes/gggwbwbbbrbbbwbw/) — the pag
 The **Copar a'Beannichte Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/">Copar a'Beannichte Dress</a></td><td><code>W/30 DB10 W4 DB30 N8 DB20 R4 DB20 N8 DB30 W4 DB10 W30 G12 DG40 G/12</code></td><td>502</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/"><img src="/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/sett.png" alt="Copar a'Beannichte Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/">Copar a'Beannichte Dress</a></td><td></td><td><code>W/30 DB10 W4 DB30 N8 DB20 R4 DB20 N8 DB30 W4 DB10 W30 G12 DG40 G/12</code></td><td>502</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/"><img src="/variants/s16/w15db5w2db15n4db10r2db10n4db15w2db5w15g6dg20g6~x2~g2504202-dg1806142/sett.png" alt="Copar a'Beannichte Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GBBRBBGR](/stripes/gbbrbbgr/) — the page of every tarta
 The **Skibo** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/">Skibo</a></td><td><code>DG/46 DB22 T44 R4 T44 DB22 DG46 R/4</code></td><td>414</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/"><img src="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/sett.png" alt="Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/">Skibo</a></td><td></td><td><code>DG/46 DB22 T44 R4 T44 DB22 DG46 R/4</code></td><td>414</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/"><img src="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/sett.png" alt="Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

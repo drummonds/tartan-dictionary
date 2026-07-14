@@ -15,12 +15,12 @@ The **Unidentified Gordon variant** tartan groups 2 setts — the same named des
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274/">Unidentified Gordon variant</a> ★</td><td><code>DO/8 DBi4 DY16 DBi16 DB18 LO4 DB18 DBi16 W8 LY8 W24 LY4 W/8</code></td><td>288</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274/"><img src="/variants/s13/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274/sett.png" alt="Unidentified Gordon variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi1604274-o2102055-db0805267-oi2104058/">Unidentified, Gordon variant</a></td><td><code>DO/4 DBi2 O8 DBi8 DB9 B2 DB9 DBi8 W4 Oi4 W12 Oi2 W/4</code></td><td>—</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi1604274-o2102055-db0805267-oi2104058/"><img src="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi1604274-o2102055-db0805267-oi2104058/sett.png" alt="Unidentified, Gordon variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274/">Unidentified Gordon variant</a> ★</td><td></td><td><code>DO/8 DBi4 DY16 DBi16 DB18 LO4 DB18 DBi16 W8 LY8 W24 LY4 W/8</code></td><td>288</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274/"><img src="/variants/s13/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274/sett.png" alt="Unidentified Gordon variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi1604274-o2102055-db0805267-oi2104058/">Unidentified, Gordon variant</a></td><td>—</td><td><code>DO/4 DBi2 O8 DBi8 DB9 B2 DB9 DBi8 W4 Oi4 W12 Oi2 W/4</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi1604274-o2102055-db0805267-oi2104058/"><img src="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi1604274-o2102055-db0805267-oi2104058/sett.png" alt="Unidentified, Gordon variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

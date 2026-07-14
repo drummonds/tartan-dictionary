@@ -13,10 +13,10 @@ Its design is pattern [KRRGRRGRRGRR](/stripes/krrgrrgrrgrr/) — the page of eve
 The **Unidentified Scarlett** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r12ri2dg4ri2r2dg6r2ri2dg4ri2r12k1~x2~r1807033-ri2109032-dg1806142/">Unidentified Scarlett</a></td><td><code>R/24 Ri4 DG8 Ri4 R4 DG12 R4 Ri4 DG8 Ri4 R24 K/2</code></td><td>178</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r12ri2dg4ri2r2dg6r2ri2dg4ri2r12k1~x2~r1807033-ri2109032-dg1806142/"><img src="/variants/s12/r12ri2dg4ri2r2dg6r2ri2dg4ri2r12k1~x2~r1807033-ri2109032-dg1806142/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r12ri2dg4ri2r2dg6r2ri2dg4ri2r12k1~x2~r1807033-ri2109032-dg1806142/">Unidentified Scarlett</a></td><td></td><td><code>R/24 Ri4 DG8 Ri4 R4 DG12 R4 Ri4 DG8 Ri4 R24 K/2</code></td><td>178</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r12ri2dg4ri2r2dg6r2ri2dg4ri2r12k1~x2~r1807033-ri2109032-dg1806142/"><img src="/variants/s12/r12ri2dg4ri2r2dg6r2ri2dg4ri2r12k1~x2~r1807033-ri2109032-dg1806142/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

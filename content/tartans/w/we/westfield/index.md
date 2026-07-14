@@ -13,10 +13,10 @@ Its design is pattern [BRBW](/stripes/brbw/) — the page of every tartan sharin
 The **Westfield** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/db102r11db14w11/">Westfield</a></td><td><code>DB/102 R11 DB14 W/11</code></td><td>163</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/db102r11db14w11/"><img src="/variants/s4/db102r11db14w11/sett.png" alt="Westfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db102r11db14w11/">Westfield</a></td><td></td><td><code>DB/102 R11 DB14 W/11</code></td><td>163</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/db102r11db14w11/"><img src="/variants/s4/db102r11db14w11/sett.png" alt="Westfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

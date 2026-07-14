@@ -18,10 +18,10 @@ Its design is pattern [BWRBRWGRRRRG](/stripes/bwrbrwgrrrrg/) — the page of eve
 The **Rainbow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/">Rainbow</a></td><td><code>B/42 LB42 O42 B4 R4 LB4 Y42 Ri42 R42 O4 Ri4 Y/4</code></td><td>506</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/"><img src="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/">Rainbow</a></td><td></td><td><code>B/42 LB42 O42 B4 R4 LB4 Y42 Ri42 R42 O4 Ri4 Y/4</code></td><td>506</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/"><img src="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

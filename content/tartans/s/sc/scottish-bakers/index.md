@@ -13,10 +13,10 @@ Its design is pattern [WBBGBBBBBBRBBW](/stripes/wbbgbbbbbbrbbw/) — the page of
 The **Scottish Bakers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/">Scottish Bakers</a></td><td><code>W/4 DP4 N6 G10 N26 DP4 N4 DP4 N4 DP66 O4 DP2 N8 W/2</code></td><td>290</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/"><img src="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/sett.png" alt="Scottish Bakers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/">Scottish Bakers</a></td><td></td><td><code>W/4 DP4 N6 G10 N26 DP4 N4 DP4 N4 DP66 O4 DP2 N8 W/2</code></td><td>290</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/"><img src="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/sett.png" alt="Scottish Bakers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

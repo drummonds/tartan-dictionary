@@ -16,13 +16,13 @@ The **Elphinstone Check** tartan is one sett, recorded at 2 scales — the same 
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/g6dp2g1~x20/">Elphinstone Check</a></td><td><code>G/6 DP2 G/1</code></td><td>11</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/g6dp2g1~x20/"><img src="/variants/s3/g6dp2g1~x20/sett.png" alt="Elphinstone Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s3/g6dp2g1~x4/">Elphinstone</a></td><td><code>G/24 DP8 G/4</code></td><td>44</td><td>1842</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×20 — <a href="/variants/s3/g6dp2g1~x20/">(Clan)</a></td><td><code>G/120 DP40 G/20</code></td><td>220</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s3/g6dp2g1~x20/">(Clan)</a> · <a href="/variants/s3/g6dp2g1~x4/">Elphinstone</a></td></tr>
+<tr><td><a href="/variants/s3/g6dp2g1~x20/">Elphinstone Check</a></td><td></td><td><code>G/6 DP2 G/1</code></td><td>11</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/g6dp2g1~x20/"><img src="/variants/s3/g6dp2g1~x20/sett.png" alt="Elphinstone Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s3/g6dp2g1~x4/">Elphinstone</a></td><td>0.00</td><td><code>G/24 DP8 G/4</code></td><td>44</td><td>1842</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×20 — <a href="/variants/s3/g6dp2g1~x20/">(Clan)</a></td><td>0.00</td><td><code>G/120 DP40 G/20</code></td><td>220</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s3/g6dp2g1~x20/">(Clan)</a> · <a href="/variants/s3/g6dp2g1~x4/">Elphinstone</a></td></tr>
 </tbody>
 </table>
 

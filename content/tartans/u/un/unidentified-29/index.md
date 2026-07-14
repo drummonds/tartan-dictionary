@@ -13,10 +13,10 @@ Its design is pattern [RWKWBKRKGKWRKRKRKRKW](/stripes/rwkwbkrkgkwrkrkrkrkw/) —
 The **Unidentified 29** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/lb3k3o1k1o1k1o1k1o3lb2k1y1k1o1k2db2w7k1w2o1~x2/">Unidentified 29</a></td><td><code>LB/6 K6 O2 K2 O2 K2 O2 K2 O6 LB4 K2 Y2 K2 O2 K4 DB4 W14 K2 W4 O/2</code></td><td>136</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/lb3k3o1k1o1k1o1k1o3lb2k1y1k1o1k2db2w7k1w2o1~x2/"><img src="/variants/s20/lb3k3o1k1o1k1o1k1o3lb2k1y1k1o1k2db2w7k1w2o1~x2/sett.png" alt="Unidentified 29 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/lb3k3o1k1o1k1o1k1o3lb2k1y1k1o1k2db2w7k1w2o1~x2/">Unidentified 29</a></td><td></td><td><code>LB/6 K6 O2 K2 O2 K2 O2 K2 O6 LB4 K2 Y2 K2 O2 K4 DB4 W14 K2 W4 O/2</code></td><td>136</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/lb3k3o1k1o1k1o1k1o3lb2k1y1k1o1k2db2w7k1w2o1~x2/"><img src="/variants/s20/lb3k3o1k1o1k1o1k1o3lb2k1y1k1o1k2db2w7k1w2o1~x2/sett.png" alt="Unidentified 29 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

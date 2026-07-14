@@ -15,10 +15,10 @@ Combines Clan Wilson's set with Clan Blyth colours; designed for the 2014 marria
 The **Wilson-Blyth** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/">Wilson-Blyth</a></td><td><code>DB/44 W4 DB6 DG6 DB6 DG6 DB6 DG42 K6 DG6 K6 DG6 K6 DG6 K6 DG42 K30 DG6 DB6 K12 W4 K/30</code></td><td>510</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/"><img src="/variants/s22/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/sett.png" alt="Wilson-Blyth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/">Wilson-Blyth</a></td><td></td><td><code>DB/44 W4 DB6 DG6 DB6 DG6 DB6 DG42 K6 DG6 K6 DG6 K6 DG6 K6 DG42 K30 DG6 DB6 K12 W4 K/30</code></td><td>510</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/"><img src="/variants/s22/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/sett.png" alt="Wilson-Blyth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

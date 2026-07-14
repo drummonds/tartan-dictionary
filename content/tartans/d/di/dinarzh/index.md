@@ -13,10 +13,10 @@ Its design is pattern [BWKYKWBYWKBYW](/stripes/bwkykwbywkbyw/) — the page of e
 The **Dinarzh:** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/">Dinarzh:</a></td><td><code>W/8 LY20 DB40 K2 W24 LY2 DB8 W4 K8 LY10 K20 W10 DB/4</code></td><td>308</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/"><img src="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/sett.png" alt="Dinarzh: sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/">Dinarzh:</a></td><td></td><td><code>W/8 LY20 DB40 K2 W24 LY2 DB8 W4 K8 LY10 K20 W10 DB/4</code></td><td>308</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/"><img src="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/sett.png" alt="Dinarzh: sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

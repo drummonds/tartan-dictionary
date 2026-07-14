@@ -22,18 +22,18 @@ The **Chisholm** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/">Chisholm</a> ★</td><td><code>R/12 DB2 W1 DB2 R3 G8 R3 DB/1</code></td><td>51</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/"><img src="/variants/s8/r12db2w1db2r3g8r3db1~x2/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/r12db2w1db2r3g8r3db1/">Chisholm</a></td><td><code>R/12 DB2 W1 DB2 R3 G8 R3 DB/1</code></td><td>51</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/">The</a></td><td><code>R/24 DB4 W2 DB4 R6 G16 R6 DB/2</code></td><td>102</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/r12db2w1db2r3g8r3db1/">Chisholm</a> · <a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/">The</a></td></tr>
-<tr><td><a href="/variants/s8/r12dr2w1dr2r3g8r3dr1/">Chisholm</a></td><td><code>R/12 DR2 W1 DR2 R3 G8 R3 DR/1</code></td><td>51</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r12dr2w1dr2r3g8r3dr1/"><img src="/variants/s8/r12dr2w1dr2r3g8r3dr1/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/r12dr2w1dr2r3g8r3dr1/">Chisholm</a></td><td><code>R/12 DR2 W1 DR2 R3 G8 R3 DR/1</code></td><td>51</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/r12dr2w1dr2r3g8r3dr1~x2/">Chisholm</a></td><td><code>R/24 DR4 W2 DR4 R6 G16 R6 DR/2</code></td><td>102</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/r12dr2w1dr2r3g8r3dr1/">Chisholm</a> · <a href="/variants/s8/r12dr2w1dr2r3g8r3dr1~x2/">Chisholm</a></td></tr>
+<tr><td><a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/">Chisholm</a> ★</td><td></td><td><code>R/12 DB2 W1 DB2 R3 G8 R3 DB/1</code></td><td>51</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/"><img src="/variants/s8/r12db2w1db2r3g8r3db1~x2/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/r12db2w1db2r3g8r3db1/">Chisholm</a></td><td>0.00</td><td><code>R/12 DB2 W1 DB2 R3 G8 R3 DB/1</code></td><td>51</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/">The</a></td><td>0.00</td><td><code>R/24 DB4 W2 DB4 R6 G16 R6 DB/2</code></td><td>102</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/r12db2w1db2r3g8r3db1/">Chisholm</a> · <a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/">The</a></td></tr>
+<tr><td><a href="/variants/s8/r12dr2w1dr2r3g8r3dr1/">Chisholm</a></td><td>1.86</td><td><code>R/12 DR2 W1 DR2 R3 G8 R3 DR/1</code></td><td>51</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r12dr2w1dr2r3g8r3dr1/"><img src="/variants/s8/r12dr2w1dr2r3g8r3dr1/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/r12dr2w1dr2r3g8r3dr1/">Chisholm</a></td><td>1.86</td><td><code>R/12 DR2 W1 DR2 R3 G8 R3 DR/1</code></td><td>51</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/r12dr2w1dr2r3g8r3dr1~x2/">Chisholm</a></td><td>1.86</td><td><code>R/24 DR4 W2 DR4 R6 G16 R6 DR/2</code></td><td>102</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/r12dr2w1dr2r3g8r3dr1/">Chisholm</a> · <a href="/variants/s8/r12dr2w1dr2r3g8r3dr1~x2/">Chisholm</a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RWRWRWWWBWBWWWGBWBGGRWRGGWGGGWWWWWGGGWGWRWRWBWWGWBWGWWBWR
 The **Ritch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2g10b4w2b4g10dg2r14w2r14dg2g3w2g2y2g2w2lb4w2lb4w2g2y2g2w2g3w2r14w2r14w2dp10lb2w2y4w2b4w2y4w2lb2dp10w2r20w2lb6w2r14w1~x2/">Ritch</a></td><td><code>R/12 W4 R6 W4 R40 W4 LB12 W4 DP20 W4 DP20 W4 LB12 W4 G20 B8 W4 B8 G20 DG4 R28 W4 R28 DG4 G6 W4 G4 Y4 G4 W4 LB8 W4 LB8 W4 G4 Y4 G4 W4 G6 W4 R28 W4 R28 W4 DP20 LB4 W4 Y8 W4 B8 W4 Y8 W4 LB4 DP20 W4 R40 W4 LB12 W4 R28 W/2</code></td><td>1186</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2g10b4w2b4g10dg2r14w2r14dg2g3w2g2y2g2w2lb4w2lb4w2g2y2g2w2g3w2r14w2r14w2dp10lb2w2y4w2b4w2y4w2lb2dp10w2r20w2lb6w2r14w1~x2/"><img src="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2g10b4w2b4g10dg2r14w2r14dg2g3w2g2y2g2w2lb4w2lb4w2g2y2g2w2g3w2r14w2r14w2dp10lb2w2y4w2b4w2y4w2lb2dp10w2r20w2lb6w2r14w1~x2/sett.png" alt="Ritch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2g10b4w2b4g10dg2r14w2r14dg2g3w2g2y2g2w2lb4w2lb4w2g2y2g2w2g3w2r14w2r14w2dp10lb2w2y4w2b4w2y4w2lb2dp10w2r20w2lb6w2r14w1~x2/">Ritch</a></td><td></td><td><code>R/12 W4 R6 W4 R40 W4 LB12 W4 DP20 W4 DP20 W4 LB12 W4 G20 B8 W4 B8 G20 DG4 R28 W4 R28 DG4 G6 W4 G4 Y4 G4 W4 LB8 W4 LB8 W4 G4 Y4 G4 W4 G6 W4 R28 W4 R28 W4 DP20 LB4 W4 Y8 W4 B8 W4 Y8 W4 LB4 DP20 W4 R40 W4 LB12 W4 R28 W/2</code></td><td>1186</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2g10b4w2b4g10dg2r14w2r14dg2g3w2g2y2g2w2lb4w2lb4w2g2y2g2w2g3w2r14w2r14w2dp10lb2w2y4w2b4w2y4w2lb2dp10w2r20w2lb6w2r14w1~x2/"><img src="/variants/s62/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2g10b4w2b4g10dg2r14w2r14dg2g3w2g2y2g2w2lb4w2lb4w2g2y2g2w2g3w2r14w2r14w2dp10lb2w2y4w2b4w2y4w2lb2dp10w2r20w2lb6w2r14w1~x2/sett.png" alt="Ritch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

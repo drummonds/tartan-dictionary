@@ -13,10 +13,10 @@ Its design is pattern [WBGKWKWKGRKRW](/stripes/wbgkwkwkgrkrw/) — the page of e
 The **Clodagh, Cork** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/">Clodagh, Cork</a></td><td><code>W/6 DB40 Y8 K18 W6 K6 W6 K6 G28 O18 K6 O8 W/6</code></td><td>312</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/"><img src="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/sett.png" alt="Clodagh, Cork sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/">Clodagh, Cork</a></td><td></td><td><code>W/6 DB40 Y8 K18 W6 K6 W6 K6 G28 O18 K6 O8 W/6</code></td><td>312</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/"><img src="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/sett.png" alt="Clodagh, Cork sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

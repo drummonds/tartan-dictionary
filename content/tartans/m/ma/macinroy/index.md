@@ -18,10 +18,10 @@ Its design is pattern [BGBGBGKRGRGR](/stripes/bgbgbgkrgrgr/) — the page of eve
 The **MacInroy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db10g1db2g3db16g1k16r16g3r2g1r10~x2/">MacInroy</a></td><td><code>DB/20 G2 DB4 G6 DB32 G2 K32 R32 G6 R4 G2 R/20</code></td><td>284</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db10g1db2g3db16g1k16r16g3r2g1r10~x2/"><img src="/variants/s12/db10g1db2g3db16g1k16r16g3r2g1r10~x2/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db10g1db2g3db16g1k16r16g3r2g1r10~x2/">MacInroy</a></td><td></td><td><code>DB/20 G2 DB4 G6 DB32 G2 K32 R32 G6 R4 G2 R/20</code></td><td>284</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db10g1db2g3db16g1k16r16g3r2g1r10~x2/"><img src="/variants/s12/db10g1db2g3db16g1k16r16g3r2g1r10~x2/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

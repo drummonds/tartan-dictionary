@@ -13,10 +13,10 @@ Its design is pattern [BGRGBGRGBGBGRG](/stripes/bgrgbgrgbgbgrg/) — the page of
 The **ASDA Wal-Mart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/">ASDA Wal-Mart</a></td><td><code>G/136 R8 G12 DB8 DG68 DB8 G12 R8 G136 DB8 DG32 R8 DG38 DB/8</code></td><td>836</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/"><img src="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/sett.png" alt="ASDA Wal-Mart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/">ASDA Wal-Mart</a></td><td></td><td><code>G/136 R8 G12 DB8 DG68 DB8 G12 R8 G136 DB8 DG32 R8 DG38 DB/8</code></td><td>836</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/"><img src="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/sett.png" alt="ASDA Wal-Mart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

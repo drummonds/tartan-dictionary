@@ -18,10 +18,10 @@ Its design is pattern [BGKBKGKGKBKRWRKBKGB](/stripes/bgkbkgkgkbkrwrkbkgb/) — t
 The **Buchanan (1850** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/db9g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/">Buchanan (1850</a></td><td><code>DB/18 G46 K6 DB18 K6 R40 W6 R40 K6 DB18 K6 Y40 K6 Y40 K6 DB18 K6 G46 DB/18</code></td><td>744</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/db9g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><img src="/variants/s19/db9g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/sett.png" alt="Buchanan (1850 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/db9g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/">Buchanan (1850</a></td><td></td><td><code>DB/18 G46 K6 DB18 K6 R40 W6 R40 K6 DB18 K6 Y40 K6 Y40 K6 DB18 K6 G46 DB/18</code></td><td>744</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/db9g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><img src="/variants/s19/db9g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/sett.png" alt="Buchanan (1850 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

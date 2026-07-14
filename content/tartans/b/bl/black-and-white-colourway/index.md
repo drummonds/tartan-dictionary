@@ -16,10 +16,10 @@ Its design is pattern [BRBWBGBGWGWGWGW](/stripes/brbwbgbgwgwgwgw/) — the page 
 The **Black and White Colourway** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/">Black and White Colourway</a></td><td><code>W/40 DY6 W40 DY6 W18 DY24 W6 DY30 DB6 DY12 DB38 W6 DB10 R8 DB/38</code></td><td>498</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/"><img src="/variants/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/sett.png" alt="Black and White Colourway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/">Black and White Colourway</a></td><td></td><td><code>W/40 DY6 W40 DY6 W18 DY24 W6 DY30 DB6 DY12 DB38 W6 DB10 R8 DB/38</code></td><td>498</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/"><img src="/variants/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/sett.png" alt="Black and White Colourway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

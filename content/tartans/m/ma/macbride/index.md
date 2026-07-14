@@ -23,14 +23,14 @@ The **MacBride** tartan groups 3 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/">MacBride</a> ★</td><td><code>LO/6 G30 K30 DB30 K4 DB30 K30 G30 DP6 G30 K30 G30 LO/6</code></td><td>572</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/"><img src="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/sett.png" alt="MacBride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/y3g15k15db15k2db15k15g15b3g15k15g15y3~x2/">MacBride</a></td><td><code>Y/6 G30 K30 DB30 K4 DB30 K30 G30 B6 G30 K30 G30 Y/6</code></td><td>572</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y3g15k15db15k2db15k15g15b3g15k15g15y3~x2/"><img src="/variants/s13/y3g15k15db15k2db15k15g15b3g15k15g15y3~x2/sett.png" alt="MacBride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/y3g15k15db15k2db15k15g15o3g15k15g15y3~x2/">Family Tartan</a></td><td><code>Y/6 G30 K30 DB30 K4 DB30 K30 G30 O6 G30 K30 G30 Y/6</code></td><td>572</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y3g15k15db15k2db15k15g15o3g15k15g15y3~x2/"><img src="/variants/s13/y3g15k15db15k2db15k15g15o3g15k15g15y3~x2/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/">MacBride</a> ★</td><td></td><td><code>LO/6 G30 K30 DB30 K4 DB30 K30 G30 DP6 G30 K30 G30 LO/6</code></td><td>572</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/"><img src="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/sett.png" alt="MacBride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y3g15k15db15k2db15k15g15b3g15k15g15y3~x2/">MacBride</a></td><td>0.90</td><td><code>Y/6 G30 K30 DB30 K4 DB30 K30 G30 B6 G30 K30 G30 Y/6</code></td><td>572</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y3g15k15db15k2db15k15g15b3g15k15g15y3~x2/"><img src="/variants/s13/y3g15k15db15k2db15k15g15b3g15k15g15y3~x2/sett.png" alt="MacBride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y3g15k15db15k2db15k15g15o3g15k15g15y3~x2/">Family Tartan</a></td><td>0.90</td><td><code>Y/6 G30 K30 DB30 K4 DB30 K30 G30 O6 G30 K30 G30 Y/6</code></td><td>572</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y3g15k15db15k2db15k15g15o3g15k15g15y3~x2/"><img src="/variants/s13/y3g15k15db15k2db15k15g15o3g15k15g15y3~x2/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

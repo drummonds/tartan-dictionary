@@ -15,10 +15,10 @@ Designed in 2000 for a McCall family wedding in Aberdeen; open to all of the nam
 The **MacCall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/">MacCall</a></td><td><code>DR/12 K8 DR16 G32 DR12 LB4 DR4 G4 DR4 LB4 DR12 G36 DP12 G4 DP/2</code></td><td>318</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/"><img src="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/sett.png" alt="MacCall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/">MacCall</a></td><td></td><td><code>DR/12 K8 DR16 G32 DR12 LB4 DR4 G4 DR4 LB4 DR12 G36 DP12 G4 DP/2</code></td><td>318</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/"><img src="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/sett.png" alt="MacCall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

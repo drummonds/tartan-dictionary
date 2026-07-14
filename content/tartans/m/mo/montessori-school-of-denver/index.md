@@ -14,13 +14,13 @@ The **Montessori School of Denver** tartan is one sett, recorded at 2 scales —
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g25r9lb3y7w3dp11/">Montessori School of Denver</a></td><td><code>G/25 R9 LB3 Y7 W3 DP/11</code></td><td>80</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g25r9lb3y7w3dp11/"><img src="/variants/s6/g25r9lb3y7w3dp11/sett.png" alt="Montessori School of Denver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/g25r9lb3y7w3dp11/">Montessori School of Denver</a></td><td><code>G/25 R9 LB3 Y7 W3 DP/11</code></td><td>80</td><td>1990</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×3 — <a href="/variants/s6/g25r9lb3y7w3dp11~x3/">(School)</a></td><td><code>G/75 R27 LB9 Y21 W9 DP/33</code></td><td>240</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/g25r9lb3y7w3dp11/">Montessori School of Denver</a> · <a href="/variants/s6/g25r9lb3y7w3dp11~x3/">(School)</a></td></tr>
+<tr><td><a href="/variants/s6/g25r9lb3y7w3dp11/">Montessori School of Denver</a></td><td></td><td><code>G/25 R9 LB3 Y7 W3 DP/11</code></td><td>80</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g25r9lb3y7w3dp11/"><img src="/variants/s6/g25r9lb3y7w3dp11/sett.png" alt="Montessori School of Denver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/g25r9lb3y7w3dp11/">Montessori School of Denver</a></td><td>0.00</td><td><code>G/25 R9 LB3 Y7 W3 DP/11</code></td><td>80</td><td>1990</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×3 — <a href="/variants/s6/g25r9lb3y7w3dp11~x3/">(School)</a></td><td>0.00</td><td><code>G/75 R27 LB9 Y21 W9 DP/33</code></td><td>240</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/g25r9lb3y7w3dp11/">Montessori School of Denver</a> · <a href="/variants/s6/g25r9lb3y7w3dp11~x3/">(School)</a></td></tr>
 </tbody>
 </table>
 

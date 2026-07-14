@@ -18,10 +18,10 @@ Its design is pattern [GRGRKWKRG](/stripes/grgrkwkrg/) — the page of every tar
 The **Akins Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/">Akins Dress</a></td><td><code>Y/12 R26 K26 W10 K26 R26 G10 R8 G/12</code></td><td>288</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/"><img src="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/sett.png" alt="Akins Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/">Akins Dress</a></td><td></td><td><code>Y/12 R26 K26 W10 K26 R26 G10 R8 G/12</code></td><td>288</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/"><img src="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/sett.png" alt="Akins Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

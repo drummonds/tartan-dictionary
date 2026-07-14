@@ -16,10 +16,10 @@ Its design is pattern [GRBRBRG](/stripes/grbrbrg/) — the page of every tartan 
 The **Fraser, Isabella** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg2r21db60r48db2r3dg2~x2/">Fraser, Isabella</a></td><td><code>DG/4 R42 DB120 R96 DB4 R6 DG/4</code></td><td>544</td><td>1785</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg2r21db60r48db2r3dg2~x2/"><img src="/variants/s7/dg2r21db60r48db2r3dg2~x2/sett.png" alt="Fraser, Isabella sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg2r21db60r48db2r3dg2~x2/">Fraser, Isabella</a></td><td></td><td><code>DG/4 R42 DB120 R96 DB4 R6 DG/4</code></td><td>544</td><td>1785</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg2r21db60r48db2r3dg2~x2/"><img src="/variants/s7/dg2r21db60r48db2r3dg2~x2/sett.png" alt="Fraser, Isabella sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

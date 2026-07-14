@@ -16,10 +16,10 @@ Its design is pattern [GBKBGKBKBKRK](/stripes/gbkbgkbkbkrk/) — the page of eve
 The **Braveheart -Warrior** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/">Braveheart -Warrior</a></td><td><code>K/86 O14 K18 B6 K6 B6 K6 G36 DO18 K6 DO8 DG/8</code></td><td>342</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/"><img src="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/sett.png" alt="Braveheart -Warrior sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/">Braveheart -Warrior</a></td><td></td><td><code>K/86 O14 K18 B6 K6 B6 K6 G36 DO18 K6 DO8 DG/8</code></td><td>342</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/"><img src="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/sett.png" alt="Braveheart -Warrior sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

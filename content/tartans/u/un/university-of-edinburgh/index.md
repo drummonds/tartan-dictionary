@@ -15,10 +15,10 @@ Corporate tartan for the University of Edinburgh, woven by Lochcarron.
 The **University of Edinburgh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k8dr26k22db110w4k5w4/">University of Edinburgh</a></td><td><code>K/8 DR26 K22 DB110 W4 K5 W/4</code></td><td>346</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k8dr26k22db110w4k5w4/"><img src="/variants/s7/k8dr26k22db110w4k5w4/sett.png" alt="University of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k8dr26k22db110w4k5w4/">University of Edinburgh</a></td><td></td><td><code>K/8 DR26 K22 DB110 W4 K5 W/4</code></td><td>346</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k8dr26k22db110w4k5w4/"><img src="/variants/s7/k8dr26k22db110w4k5w4/sett.png" alt="University of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

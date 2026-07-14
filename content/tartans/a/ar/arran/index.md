@@ -18,10 +18,10 @@ Its design is pattern [BGBGBKRKRKRKRW](/stripes/bgbgbkrkrkrkrw/) — the page of
 The **Arran** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/">Arran</a></td><td><code>DP/120 G8 DP8 G8 DP8 K28 R4 K10 R6 K6 R8 K4 R10 W/6</code></td><td>342</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/"><img src="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/sett.png" alt="Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/">Arran</a></td><td></td><td><code>DP/120 G8 DP8 G8 DP8 K28 R4 K10 R6 K6 R8 K4 R10 W/6</code></td><td>342</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/"><img src="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/sett.png" alt="Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

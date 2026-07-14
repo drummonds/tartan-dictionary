@@ -13,10 +13,10 @@ Its design is pattern [GRBW](/stripes/grbw/) — the page of every tartan sharin
 The **Unidentified 10** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/g14r3db9lb2~x2/">Unidentified 10</a></td><td><code>G/28 R6 DB18 LB/4</code></td><td>80</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/g14r3db9lb2~x2/"><img src="/variants/s4/g14r3db9lb2~x2/sett.png" alt="Unidentified 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/g14r3db9lb2~x2/">Unidentified 10</a></td><td></td><td><code>G/28 R6 DB18 LB/4</code></td><td>80</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/g14r3db9lb2~x2/"><img src="/variants/s4/g14r3db9lb2~x2/sett.png" alt="Unidentified 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

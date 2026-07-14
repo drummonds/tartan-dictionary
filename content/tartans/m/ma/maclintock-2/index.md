@@ -22,12 +22,12 @@ The **MacLintock** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g38r3g3r3db9r3lb2r40db3r3db2r6~x2/">MacLintock</a> ★</td><td><code>G/76 R6 G6 R6 DB18 R6 LB4 R80 DB6 R6 DB4 R/12</code></td><td>372</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g38r3g3r3db9r3lb2r40db3r3db2r6~x2/"><img src="/variants/s12/g38r3g3r3db9r3lb2r40db3r3db2r6~x2/sett.png" alt="MacLintock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/g36r3g3r3db9r3lb2r40db3r3db2r6~x2/">1880 (Clan)</a></td><td><code>G/72 R6 G6 R6 DB18 R6 LB4 R80 DB6 R6 DB4 R/12</code></td><td>368</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g36r3g3r3db9r3lb2r40db3r3db2r6~x2/"><img src="/variants/s12/g36r3g3r3db9r3lb2r40db3r3db2r6~x2/sett.png" alt="1880 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g38r3g3r3db9r3lb2r40db3r3db2r6~x2/">MacLintock</a> ★</td><td></td><td><code>G/76 R6 G6 R6 DB18 R6 LB4 R80 DB6 R6 DB4 R/12</code></td><td>372</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g38r3g3r3db9r3lb2r40db3r3db2r6~x2/"><img src="/variants/s12/g38r3g3r3db9r3lb2r40db3r3db2r6~x2/sett.png" alt="MacLintock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g36r3g3r3db9r3lb2r40db3r3db2r6~x2/">1880 (Clan)</a></td><td>0.05</td><td><code>G/72 R6 G6 R6 DB18 R6 LB4 R80 DB6 R6 DB4 R/12</code></td><td>368</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g36r3g3r3db9r3lb2r40db3r3db2r6~x2/"><img src="/variants/s12/g36r3g3r3db9r3lb2r40db3r3db2r6~x2/sett.png" alt="1880 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

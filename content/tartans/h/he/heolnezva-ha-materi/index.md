@@ -13,10 +13,10 @@ Its design is pattern [KWKWKWKWKWKWK](/stripes/kwkwkwkwkwkwk/) — the page of e
 The **Heolnezva ha Materi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/">Heolnezva ha Materi</a></td><td><code>K/160 W2 K12 W4 K10 W6 K8 W8 K6 W10 K4 W12 K/2</code></td><td>326</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/"><img src="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/sett.png" alt="Heolnezva ha Materi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/">Heolnezva ha Materi</a></td><td></td><td><code>K/160 W2 K12 W4 K10 W6 K8 W8 K6 W10 K4 W12 K/2</code></td><td>326</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/"><img src="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/sett.png" alt="Heolnezva ha Materi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

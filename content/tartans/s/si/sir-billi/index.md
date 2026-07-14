@@ -13,10 +13,10 @@ Its design is pattern [GYKGKGKYGR](/stripes/gykgkgkygr/) — the page of every t
 The **Sir Billi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dg12lr5k11dg42k3dg42k11lr5dg12r8~x2/">Sir Billi</a></td><td><code>DG/24 LR10 K22 DG84 K6 DG84 K22 LR10 DG24 R/16</code></td><td>564</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg12lr5k11dg42k3dg42k11lr5dg12r8~x2/"><img src="/variants/s10/dg12lr5k11dg42k3dg42k11lr5dg12r8~x2/sett.png" alt="Sir Billi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg12lr5k11dg42k3dg42k11lr5dg12r8~x2/">Sir Billi</a></td><td></td><td><code>DG/24 LR10 K22 DG84 K6 DG84 K22 LR10 DG24 R/16</code></td><td>564</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dg12lr5k11dg42k3dg42k11lr5dg12r8~x2/"><img src="/variants/s10/dg12lr5k11dg42k3dg42k11lr5dg12r8~x2/sett.png" alt="Sir Billi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

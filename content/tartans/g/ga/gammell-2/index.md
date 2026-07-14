@@ -22,12 +22,12 @@ The **Gammell** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/">Gammell</a> ★</td><td><code>LB/64 O6 LB6 O6 LB6 O20 G48 DR/6</code></td><td>254</td><td>1965</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><img src="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/sett.png" alt="Gammell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db32do3db3do3db3do10g24dr3~x2/">Gammell</a></td><td><code>DB/64 DO6 DB6 DO6 DB6 DO20 G48 DR/6</code></td><td>254</td><td>1965</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db32do3db3do3db3do10g24dr3~x2/"><img src="/variants/s8/db32do3db3do3db3do10g24dr3~x2/sett.png" alt="Gammell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/">Gammell</a> ★</td><td></td><td><code>LB/64 O6 LB6 O6 LB6 O20 G48 DR/6</code></td><td>254</td><td>1965</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><img src="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/sett.png" alt="Gammell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db32do3db3do3db3do10g24dr3~x2/">Gammell</a></td><td>0.24</td><td><code>DB/64 DO6 DB6 DO6 DB6 DO20 G48 DR/6</code></td><td>254</td><td>1965</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db32do3db3do3db3do10g24dr3~x2/"><img src="/variants/s8/db32do3db3do3db3do10g24dr3~x2/sett.png" alt="Gammell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

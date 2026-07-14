@@ -18,10 +18,10 @@ Its design is pattern [BYBRBYBYBR](/stripes/bybrbybybr/) — the page of every t
 The **Miyuki** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/">Miyuki</a></td><td><code>DB/80 LY2 DB2 R18 DB2 LY2 DB12 LY2 DB2 R/18</code></td><td>182</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/"><img src="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/sett.png" alt="Miyuki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/">Miyuki</a></td><td></td><td><code>DB/80 LY2 DB2 R18 DB2 LY2 DB12 LY2 DB2 R/18</code></td><td>182</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/"><img src="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/sett.png" alt="Miyuki sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GBKBKBKBWBGBWGWKWGWBGBWBKBKBKBGR](/stripes/gbkbkbkbwbgbwg
 The **Kennedy Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s32/dg12t3k2t3k2t3k2t3w12dp2dg2dp2w4g2w4k2w4g2w4dp2dg2dp2w12t3k2t3k2t3k2t3dg12r3~x2~dg1806142-g2408144/">Kennedy Dress</a></td><td><code>DG/24 T6 K4 T6 K4 T6 K4 T6 W24 DP4 DG4 DP4 W8 G4 W8 K4 W8 G4 W8 DP4 DG4 DP4 W24 T6 K4 T6 K4 T6 K4 T6 DG24 R/6</code></td><td>454</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s32/dg12t3k2t3k2t3k2t3w12dp2dg2dp2w4g2w4k2w4g2w4dp2dg2dp2w12t3k2t3k2t3k2t3dg12r3~x2~dg1806142-g2408144/"><img src="/variants/s32/dg12t3k2t3k2t3k2t3w12dp2dg2dp2w4g2w4k2w4g2w4dp2dg2dp2w12t3k2t3k2t3k2t3dg12r3~x2~dg1806142-g2408144/sett.png" alt="Kennedy Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s32/dg12t3k2t3k2t3k2t3w12dp2dg2dp2w4g2w4k2w4g2w4dp2dg2dp2w12t3k2t3k2t3k2t3dg12r3~x2~dg1806142-g2408144/">Kennedy Dress</a></td><td></td><td><code>DG/24 T6 K4 T6 K4 T6 K4 T6 W24 DP4 DG4 DP4 W8 G4 W8 K4 W8 G4 W8 DP4 DG4 DP4 W24 T6 K4 T6 K4 T6 K4 T6 DG24 R/6</code></td><td>454</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s32/dg12t3k2t3k2t3k2t3w12dp2dg2dp2w4g2w4k2w4g2w4dp2dg2dp2w12t3k2t3k2t3k2t3dg12r3~x2~dg1806142-g2408144/"><img src="/variants/s32/dg12t3k2t3k2t3k2t3w12dp2dg2dp2w4g2w4k2w4g2w4dp2dg2dp2w12t3k2t3k2t3k2t3dg12r3~x2~dg1806142-g2408144/sett.png" alt="Kennedy Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

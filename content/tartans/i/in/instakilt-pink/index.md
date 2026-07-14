@@ -16,10 +16,10 @@ Its design is pattern [RKRKRWR](/stripes/rkrkrwr/) — the page of every tartan 
 The **Instakilt, Pink** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r8w4r50k12r4k15o5~x2/">Instakilt, Pink</a></td><td><code>R/16 W8 R100 K24 R8 K30 O/10</code></td><td>366</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r8w4r50k12r4k15o5~x2/"><img src="/variants/s7/r8w4r50k12r4k15o5~x2/sett.png" alt="Instakilt, Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r8w4r50k12r4k15o5~x2/">Instakilt, Pink</a></td><td></td><td><code>R/16 W8 R100 K24 R8 K30 O/10</code></td><td>366</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r8w4r50k12r4k15o5~x2/"><img src="/variants/s7/r8w4r50k12r4k15o5~x2/sett.png" alt="Instakilt, Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

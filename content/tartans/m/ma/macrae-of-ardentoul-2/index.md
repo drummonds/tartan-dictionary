@@ -18,10 +18,10 @@ Its design is pattern [KRKRKRKRKRGKWBGBWR](/stripes/krkrkrkrkrgkwbgbwr/) — the
 The **MacRae of Ardentoul** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/">MacRae of Ardentoul</a></td><td><code>R/22 LB6 DB36 Y2 DB4 W2 K2 G36 R6 K2 R4 K6 R4 K2 R80 K2 R4 K/6</code></td><td>424</td><td>1830</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/"><img src="/variants/s18/r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/sett.png" alt="MacRae of Ardentoul sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/">MacRae of Ardentoul</a></td><td></td><td><code>R/22 LB6 DB36 Y2 DB4 W2 K2 G36 R6 K2 R4 K6 R4 K2 R80 K2 R4 K/6</code></td><td>424</td><td>1830</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/"><img src="/variants/s18/r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/sett.png" alt="MacRae of Ardentoul sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

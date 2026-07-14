@@ -15,10 +15,10 @@ Designed 1997/98 by William Chalmers of Kilsyth, using EU flag colours; red line
 The **European Union** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/">European Union</a></td><td><code>W/8 DB64 K2 Y4 K2 DB20 Y36 DB20 K2 DR/4</code></td><td>312</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><img src="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/sett.png" alt="European Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/">European Union</a></td><td></td><td><code>W/8 DB64 K2 Y4 K2 DB20 Y36 DB20 K2 DR/4</code></td><td>312</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><img src="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/sett.png" alt="European Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

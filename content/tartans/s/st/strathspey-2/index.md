@@ -20,10 +20,10 @@ Black Watch variation from a 1794-5 Strathspey Fencible waistcoat, attributed to
 The **Strathspey** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/">Strathspey</a></td><td><code>DO/6 LB6 K6 LB6 DO6 LB6 K6 LB6 DB/6</code></td><td>96</td><td>~1968</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/"><img src="/variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/sett.png" alt="Strathspey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/">Strathspey</a></td><td></td><td><code>DO/6 LB6 K6 LB6 DO6 LB6 K6 LB6 DB/6</code></td><td>96</td><td>~1968</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/"><img src="/variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/sett.png" alt="Strathspey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/) — the page of every t
 The **Twisted Kilt Society** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/">Twisted Kilt Society</a></td><td><code>DG/56 N24 DG8 N16 DG8 N24 DG48 N8 DY8 N/16</code></td><td>360</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/"><img src="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/sett.png" alt="Twisted Kilt Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/">Twisted Kilt Society</a></td><td></td><td><code>DG/56 N24 DG8 N16 DG8 N24 DG48 N8 DY8 N/16</code></td><td>360</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/"><img src="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/sett.png" alt="Twisted Kilt Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

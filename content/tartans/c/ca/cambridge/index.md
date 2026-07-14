@@ -18,10 +18,10 @@ Its design is pattern [GGBKWKBGR](/stripes/ggbkwkbgr/) — the page of every tar
 The **Cambridge** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r4g73db73k4lb4k4db73g73y4/">Cambridge</a></td><td><code>R/4 G73 DB73 K4 LB4 K4 DB73 G73 Y/4</code></td><td>616</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r4g73db73k4lb4k4db73g73y4/"><img src="/variants/s9/r4g73db73k4lb4k4db73g73y4/sett.png" alt="Cambridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r4g73db73k4lb4k4db73g73y4/">Cambridge</a></td><td></td><td><code>R/4 G73 DB73 K4 LB4 K4 DB73 G73 Y/4</code></td><td>616</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r4g73db73k4lb4k4db73g73y4/"><img src="/variants/s9/r4g73db73k4lb4k4db73g73y4/sett.png" alt="Cambridge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

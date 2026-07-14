@@ -13,10 +13,10 @@ Its design is pattern [BKGRWRBG](/stripes/bkgrwrbg/) — the page of every tarta
 The **Sustainability** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/">Sustainability</a></td><td><code>DB/40 K6 G36 R24 LB8 R24 DB30 Y/8</code></td><td>304</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/"><img src="/variants/s8/db20k3g18r12lb4r12db15y4~x2/sett.png" alt="Sustainability sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/">Sustainability</a></td><td></td><td><code>DB/40 K6 G36 R24 LB8 R24 DB30 Y/8</code></td><td>304</td><td>~2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db20k3g18r12lb4r12db15y4~x2/"><img src="/variants/s8/db20k3g18r12lb4r12db15y4~x2/sett.png" alt="Sustainability sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

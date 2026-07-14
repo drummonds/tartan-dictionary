@@ -13,10 +13,10 @@ Its design is pattern [BBBYBBBRBRR](/stripes/bbbybbbrbrr/) — the page of every
 The **Louth** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/n38dr4n8ly2n4b3n18r7n2r4o2~x2~n2002277-dr1404346-ly3608101-r2008029/">Louth</a></td><td><code>N/76 DR8 N16 LY4 N8 B6 N36 R14 N4 R8 O/4</code></td><td>288</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/n38dr4n8ly2n4b3n18r7n2r4o2~x2~n2002277-dr1404346-ly3608101-r2008029/"><img src="/variants/s11/n38dr4n8ly2n4b3n18r7n2r4o2~x2~n2002277-dr1404346-ly3608101-r2008029/sett.png" alt="Louth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/n38dr4n8ly2n4b3n18r7n2r4o2~x2~n2002277-dr1404346-ly3608101-r2008029/">Louth</a></td><td></td><td><code>N/76 DR8 N16 LY4 N8 B6 N36 R14 N4 R8 O/4</code></td><td>288</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/n38dr4n8ly2n4b3n18r7n2r4o2~x2~n2002277-dr1404346-ly3608101-r2008029/"><img src="/variants/s11/n38dr4n8ly2n4b3n18r7n2r4o2~x2~n2002277-dr1404346-ly3608101-r2008029/sett.png" alt="Louth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

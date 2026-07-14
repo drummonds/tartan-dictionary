@@ -13,10 +13,10 @@ Its design is pattern [BWKGRWKYKWRGKWBW](/stripes/bwkgrwkykwrgkwbw/) — the pag
 The **Wilson's No.110** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dp10w3k3g19r14lb3k2ly3k2lb3r14g19k3w3dp10lb3~x2/">Wilson's No.110</a></td><td><code>DP/20 W6 K6 G38 R28 LB6 K4 LY6 K4 LB6 R28 G38 K6 W6 DP20 LB/6</code></td><td>430</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dp10w3k3g19r14lb3k2ly3k2lb3r14g19k3w3dp10lb3~x2/"><img src="/variants/s16/dp10w3k3g19r14lb3k2ly3k2lb3r14g19k3w3dp10lb3~x2/sett.png" alt="Wilson's No.110 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dp10w3k3g19r14lb3k2ly3k2lb3r14g19k3w3dp10lb3~x2/">Wilson's No.110</a></td><td></td><td><code>DP/20 W6 K6 G38 R28 LB6 K4 LY6 K4 LB6 R28 G38 K6 W6 DP20 LB/6</code></td><td>430</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dp10w3k3g19r14lb3k2ly3k2lb3r14g19k3w3dp10lb3~x2/"><img src="/variants/s16/dp10w3k3g19r14lb3k2ly3k2lb3r14g19k3w3dp10lb3~x2/sett.png" alt="Wilson's No.110 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

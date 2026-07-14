@@ -16,10 +16,10 @@ Its design is pattern [KRGRGRBRBRGRW](/stripes/krgrgrbrbrgrw/) — the page of e
 The **Bruce, William** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k3r8y1r8g5r4db8r4db8r4g5r17w3~x2/">Bruce, William</a></td><td><code>K/6 R16 Y2 R16 G10 R8 DB16 R8 DB16 R8 G10 R34 W/6</code></td><td>300</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k3r8y1r8g5r4db8r4db8r4g5r17w3~x2/"><img src="/variants/s13/k3r8y1r8g5r4db8r4db8r4g5r17w3~x2/sett.png" alt="Bruce, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k3r8y1r8g5r4db8r4db8r4g5r17w3~x2/">Bruce, William</a></td><td></td><td><code>K/6 R16 Y2 R16 G10 R8 DB16 R8 DB16 R8 G10 R34 W/6</code></td><td>300</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k3r8y1r8g5r4db8r4db8r4g5r17w3~x2/"><img src="/variants/s13/k3r8y1r8g5r4db8r4db8r4g5r17w3~x2/sett.png" alt="Bruce, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

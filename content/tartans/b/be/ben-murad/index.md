@@ -13,10 +13,10 @@ Its design is pattern [GRGRGRGRGGGGGRGBGW](/stripes/grgrgrgrgggggrgbgw/) — the
 The **Ben Murad** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/">Ben Murad</a></td><td><code>G/36 R6 G6 R30 DG26 R28 G6 R6 G36 DG10 G4 Y10 G6 R4 G6 DB10 G4 LB/10</code></td><td>442</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/"><img src="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/sett.png" alt="Ben Murad sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/">Ben Murad</a></td><td></td><td><code>G/36 R6 G6 R30 DG26 R28 G6 R6 G36 DG10 G4 Y10 G6 R4 G6 DB10 G4 LB/10</code></td><td>442</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/"><img src="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/sett.png" alt="Ben Murad sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

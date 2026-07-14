@@ -20,10 +20,10 @@ Recent design, notable as one of the very few asymmetrical setts.
 The **Colquhoun Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/">Colquhoun Dress</a></td><td><code>K/30 LR4 G28 DR4 G28 LR4 K30 LR6 DB6 LR38 DB4 DR4 DB4 LR36 DB6 LR6 K30 DB20 K4 DB4 K4 DB/20</code></td><td>590</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/"><img src="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/sett.png" alt="Colquhoun Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/">Colquhoun Dress</a></td><td></td><td><code>K/30 LR4 G28 DR4 G28 LR4 K30 LR6 DB6 LR38 DB4 DR4 DB4 LR36 DB6 LR6 K30 DB20 K4 DB4 K4 DB/20</code></td><td>590</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/"><img src="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/sett.png" alt="Colquhoun Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

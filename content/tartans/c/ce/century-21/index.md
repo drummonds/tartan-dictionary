@@ -13,10 +13,10 @@ Its design is pattern [BKBBBBBBGYR](/stripes/bkbbbbbbgyr/) — the page of every
 The **Century 21** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db2k2db21b1db1b2db1b8dg23ly2r2~x2/">Century 21</a></td><td><code>DB/4 K4 DB42 B2 DB2 B4 DB2 B16 DG46 LY4 R/4</code></td><td>252</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db2k2db21b1db1b2db1b8dg23ly2r2~x2/"><img src="/variants/s11/db2k2db21b1db1b2db1b8dg23ly2r2~x2/sett.png" alt="Century 21 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db2k2db21b1db1b2db1b8dg23ly2r2~x2/">Century 21</a></td><td></td><td><code>DB/4 K4 DB42 B2 DB2 B4 DB2 B16 DG46 LY4 R/4</code></td><td>252</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db2k2db21b1db1b2db1b8dg23ly2r2~x2/"><img src="/variants/s11/db2k2db21b1db1b2db1b8dg23ly2r2~x2/sett.png" alt="Century 21 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

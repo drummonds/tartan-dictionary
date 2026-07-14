@@ -18,10 +18,10 @@ Devon district tartan, created early 1980s following success of Cornish St Piran
 The **Devon Original** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/n5g4w1g4o4dg4y1~x4/">Devon Original</a></td><td><code>N/20 G16 W4 G16 O16 DG16 Y/4</code></td><td>160</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n5g4w1g4o4dg4y1~x4/"><img src="/variants/s7/n5g4w1g4o4dg4y1~x4/sett.png" alt="Devon Original sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n5g4w1g4o4dg4y1~x4/">Devon Original</a></td><td></td><td><code>N/20 G16 W4 G16 O16 DG16 Y/4</code></td><td>160</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/n5g4w1g4o4dg4y1~x4/"><img src="/variants/s7/n5g4w1g4o4dg4y1~x4/sett.png" alt="Devon Original sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

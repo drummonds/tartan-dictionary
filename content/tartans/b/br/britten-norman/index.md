@@ -13,10 +13,10 @@ Its design is pattern [BWBWBWBWBWBKWKWKRKYKRKWKWK](/stripes/bwbwbwbwbwbkwkwkrkyk
 The **Britten-Norman** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/">Britten-Norman</a></td><td><code>DB/56 W2 DB4 W2 DB6 W2 DB4 W4 DB4 W4 DB50 K20 W2 K4 LB4 K40 R2 K4 LR6 K4 R2 K40 LB4 K2 W2 K/20</code></td><td>512</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/"><img src="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/sett.png" alt="Britten-Norman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/">Britten-Norman</a></td><td></td><td><code>DB/56 W2 DB4 W2 DB6 W2 DB4 W4 DB4 W4 DB50 K20 W2 K4 LB4 K40 R2 K4 LR6 K4 R2 K40 LB4 K2 W2 K/20</code></td><td>512</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/"><img src="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/sett.png" alt="Britten-Norman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

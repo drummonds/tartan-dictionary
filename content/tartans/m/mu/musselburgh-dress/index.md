@@ -18,10 +18,10 @@ Its design is pattern [RWBBBGBBW](/stripes/rwbbbgbbw/) — the page of every tar
 The **Musselburgh Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/">Musselburgh Dress</a></td><td><code>LB/56 DB4 N12 G4 N12 DB4 N16 W96 R/4</code></td><td>356</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/"><img src="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/sett.png" alt="Musselburgh Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/">Musselburgh Dress</a></td><td></td><td><code>LB/56 DB4 N12 G4 N12 DB4 N16 W96 R/4</code></td><td>356</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/"><img src="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/sett.png" alt="Musselburgh Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

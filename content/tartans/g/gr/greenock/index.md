@@ -13,10 +13,10 @@ Its design is pattern [GBRKGKG](/stripes/gbrkgkg/) — the page of every tartan 
 The **Greenock** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/y2db17r2k16g17k2g2~x2/">Greenock</a></td><td><code>Y/4 DB34 R4 K32 G34 K4 G/4</code></td><td>224</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y2db17r2k16g17k2g2~x2/"><img src="/variants/s7/y2db17r2k16g17k2g2~x2/sett.png" alt="Greenock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y2db17r2k16g17k2g2~x2/">Greenock</a></td><td></td><td><code>Y/4 DB34 R4 K32 G34 K4 G/4</code></td><td>224</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/y2db17r2k16g17k2g2~x2/"><img src="/variants/s7/y2db17r2k16g17k2g2~x2/sett.png" alt="Greenock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

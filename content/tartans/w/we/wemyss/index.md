@@ -16,13 +16,13 @@ The **Wemyss** tartan is one sett, recorded at 2 scales — the same proportion 
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/">Wemyss</a></td><td><code>R/4 K12 W1 K12 R4 K4 R24 G1 R/4</code></td><td>124</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/"><img src="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/sett.png" alt="Wemyss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/">Wemyss</a></td><td><code>R/8 K24 W2 K24 R8 K8 R48 G2 R/8</code></td><td>248</td><td>1842</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x4/">Wemyss</a></td><td><code>R/16 K48 W4 K48 R16 K16 R96 G4 R/16</code></td><td>496</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/">Wemyss</a> · <a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x4/">Wemyss</a></td></tr>
+<tr><td><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/">Wemyss</a></td><td></td><td><code>R/4 K12 W1 K12 R4 K4 R24 G1 R/4</code></td><td>124</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/"><img src="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/sett.png" alt="Wemyss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/">Wemyss</a></td><td>0.00</td><td><code>R/8 K24 W2 K24 R8 K8 R48 G2 R/8</code></td><td>248</td><td>1842</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x4/">Wemyss</a></td><td>0.00</td><td><code>R/16 K48 W4 K48 R16 K16 R96 G4 R/16</code></td><td>496</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/">Wemyss</a> · <a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x4/">Wemyss</a></td></tr>
 </tbody>
 </table>
 

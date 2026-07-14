@@ -16,10 +16,10 @@ Its design is pattern [RKGGBGBKW](/stripes/rkggbgbkw/) — the page of every tar
 The **Hughes Interconnection Int.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/">Hughes Interconnection Int.</a></td><td><code>W/8 K4 T36 Y8 T36 DY52 DG36 K2 O/4</code></td><td>360</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/"><img src="/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/sett.png" alt="Hughes Interconnection Int. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/">Hughes Interconnection Int.</a></td><td></td><td><code>W/8 K4 T36 Y8 T36 DY52 DG36 K2 O/4</code></td><td>360</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/"><img src="/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/sett.png" alt="Hughes Interconnection Int. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

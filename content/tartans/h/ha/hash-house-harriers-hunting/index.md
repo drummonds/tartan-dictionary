@@ -13,11 +13,11 @@ Its design is pattern [GGWGYGBGBGGGR](/stripes/ggwgygbgbgggr/) — the page of e
 The **Hash House Harriers Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/">Hash House Harriers Hunting</a></td><td><code>G/28 DY4 W4 DY4 LY4 DY28 DB28 DY4 DB28 DY28 G28 DY4 R/4</code></td><td>360</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/"><img src="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/sett.png" alt="Hash House Harriers Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/">(Corp)</a> · <a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/">Hash House Harriers Hunting</a></td></tr>
+<tr><td><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/">Hash House Harriers Hunting</a></td><td></td><td><code>G/28 DY4 W4 DY4 LY4 DY28 DB28 DY4 DB28 DY28 G28 DY4 R/4</code></td><td>360</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/"><img src="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/sett.png" alt="Hash House Harriers Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/">(Corp)</a> · <a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/">Hash House Harriers Hunting</a></td></tr>
 </tbody>
 </table>
 

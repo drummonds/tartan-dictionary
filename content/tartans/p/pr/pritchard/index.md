@@ -13,10 +13,10 @@ Its design is pattern [WBGBGWKYKBW](/stripes/wbgbgwkykbw/) — the page of every
 The **Pritchard** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/">Pritchard</a></td><td><code>W/96 DB8 K8 LY4 K4 W4 DG24 N16 DG4 N4 W/4</code></td><td>252</td><td>1923</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/"><img src="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/sett.png" alt="Pritchard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/">Pritchard</a></td><td></td><td><code>W/96 DB8 K8 LY4 K4 W4 DG24 N16 DG4 N4 W/4</code></td><td>252</td><td>1923</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/"><img src="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/sett.png" alt="Pritchard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

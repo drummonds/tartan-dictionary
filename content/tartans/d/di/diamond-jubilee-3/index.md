@@ -13,10 +13,10 @@ Its design is pattern [BBBBBWBWBWWWW](/stripes/bbbbbwbwbwwww/) — the page of e
 The **Diamond Jubilee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4~x2~dp1105325-dpi1607327/">Diamond Jubilee</a></td><td><code>DP/72 DPi16 DP4 DPi16 DP2 LB4 DP8 LB4 DP8 LB36 W4 LB2 W/8</code></td><td>288</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4~x2~dp1105325-dpi1607327/"><img src="/variants/s13/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4~x2~dp1105325-dpi1607327/sett.png" alt="Diamond Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4~x2~dp1105325-dpi1607327/">Diamond Jubilee</a></td><td></td><td><code>DP/72 DPi16 DP4 DPi16 DP2 LB4 DP8 LB4 DP8 LB36 W4 LB2 W/8</code></td><td>288</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4~x2~dp1105325-dpi1607327/"><img src="/variants/s13/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4~x2~dp1105325-dpi1607327/sett.png" alt="Diamond Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Simplified 2004 sett based on Robertson tartan, adopted by the Donachie of Brock
 The **Donachie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/">Donachie</a></td><td><code>R/48 G4 R4 G80 R50 G4 R4 G4 R4 G/40</code></td><td>396</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><img src="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/sett.png" alt="Donachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/">Donachie</a></td><td></td><td><code>R/48 G4 R4 G80 R50 G4 R4 G4 R4 G/40</code></td><td>396</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><img src="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/sett.png" alt="Donachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

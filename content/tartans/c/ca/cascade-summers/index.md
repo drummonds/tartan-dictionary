@@ -13,10 +13,10 @@ Its design is pattern [BYRGBKWKBRWK](/stripes/byrgbkwkbrwk/) — the page of eve
 The **Cascade Summers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g2007139-lg2909145/">Cascade Summers</a></td><td><code>K/6 LB26 M22 T6 K20 W4 K20 T6 G12 M6 LG26 T/6</code></td><td>308</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g2007139-lg2909145/"><img src="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g2007139-lg2909145/sett.png" alt="Cascade Summers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g2007139-lg2909145/">Cascade Summers</a></td><td></td><td><code>K/6 LB26 M22 T6 K20 W4 K20 T6 G12 M6 LG26 T/6</code></td><td>308</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g2007139-lg2909145/"><img src="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g2007139-lg2909145/sett.png" alt="Cascade Summers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

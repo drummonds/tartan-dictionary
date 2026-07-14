@@ -18,10 +18,10 @@ Its design is pattern [KBWBKBWBKWKRBWBRKRWBR](/stripes/kbwbkbwbkwkrbwbrkrwbr/) â
 The **Aberdeen Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/">Aberdeen Dress</a></td><td><code>K/2 DP8 W26 DP2 K10 B8 W2 B8 K10 W2 K6 R10 N6 W2 N6 R10 K26 R2 W40 N6 R/2</code></td><td>384</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/"><img src="/variants/s21/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/sett.png" alt="Aberdeen Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/">Aberdeen Dress</a></td><td></td><td><code>K/2 DP8 W26 DP2 K10 B8 W2 B8 K10 W2 K6 R10 N6 W2 N6 R10 K26 R2 W40 N6 R/2</code></td><td>384</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/"><img src="/variants/s21/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/sett.png" alt="Aberdeen Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

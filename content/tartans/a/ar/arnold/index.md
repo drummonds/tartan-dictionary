@@ -18,10 +18,10 @@ Its design is pattern [BKGKBKBKBKBKBKBRBKBKBKBKW](/stripes/bkgkbkbkbkbkbkbrbkbkb
 The **Arnold** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/">Arnold</a></td><td><code>DB/8 K2 DY4 K2 DB6 K2 DB4 K4 DB4 K8 DB4 K4 DB4 K2 DB6 R2 DB8 K38 DP2 K4 DP6 K8 DB8 K2 W/4</code></td><td>280</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/"><img src="/variants/s25/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/sett.png" alt="Arnold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/">Arnold</a></td><td></td><td><code>DB/8 K2 DY4 K2 DB6 K2 DB4 K4 DB4 K8 DB4 K4 DB4 K2 DB6 R2 DB8 K38 DP2 K4 DP6 K8 DB8 K2 W/4</code></td><td>280</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/"><img src="/variants/s25/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/sett.png" alt="Arnold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

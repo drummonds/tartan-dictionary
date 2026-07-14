@@ -13,10 +13,10 @@ Its design is pattern [GRGKGKGYK](/stripes/grgkgkgyk/) — the page of every tar
 The **MacKillen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/">MacKillen</a></td><td><code>K/8 LY30 DG10 K6 DG14 K6 DG60 R40 DG/6</code></td><td>346</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/"><img src="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/sett.png" alt="MacKillen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/">MacKillen</a></td><td></td><td><code>K/8 LY30 DG10 K6 DG14 K6 DG60 R40 DG/6</code></td><td>346</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/"><img src="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/sett.png" alt="MacKillen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

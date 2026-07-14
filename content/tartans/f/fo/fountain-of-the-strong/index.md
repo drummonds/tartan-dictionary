@@ -13,10 +13,10 @@ Its design is pattern [GRGKBKBKGKR](/stripes/grgkbkbkgkr/) — the page of every
 The **Fountain of the Strong** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/">Fountain of the Strong</a></td><td><code>O/12 K6 DG6 K12 DR4 K4 DR4 K12 DG6 O28 DY/4</code></td><td>180</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/"><img src="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/sett.png" alt="Fountain of the Strong sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/">Fountain of the Strong</a></td><td></td><td><code>O/12 K6 DG6 K12 DR4 K4 DR4 K12 DG6 O28 DY/4</code></td><td>180</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/"><img src="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/sett.png" alt="Fountain of the Strong sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

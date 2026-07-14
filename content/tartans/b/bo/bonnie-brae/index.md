@@ -13,10 +13,10 @@ Its design is pattern [RBGRBGRGRGR](/stripes/rbgrbgrgrgr/) — the page of every
 The **Bonnie Brae** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/ri6db3y3r26db20dg26o3dg4o3dg4o6~ri1707016-r1506028/">Bonnie Brae</a></td><td><code>Ri/6 DB3 Y3 R26 DB20 DG26 O3 DG4 O3 DG4 O/6</code></td><td>196</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ri6db3y3r26db20dg26o3dg4o3dg4o6~ri1707016-r1506028/"><img src="/variants/s11/ri6db3y3r26db20dg26o3dg4o3dg4o6~ri1707016-r1506028/sett.png" alt="Bonnie Brae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ri6db3y3r26db20dg26o3dg4o3dg4o6~ri1707016-r1506028/">Bonnie Brae</a></td><td></td><td><code>Ri/6 DB3 Y3 R26 DB20 DG26 O3 DG4 O3 DG4 O/6</code></td><td>196</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ri6db3y3r26db20dg26o3dg4o3dg4o6~ri1707016-r1506028/"><img src="/variants/s11/ri6db3y3r26db20dg26o3dg4o3dg4o6~ri1707016-r1506028/sett.png" alt="Bonnie Brae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

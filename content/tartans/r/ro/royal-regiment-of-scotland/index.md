@@ -13,10 +13,10 @@ Its design is pattern [KKKKGKGKKKKKK](/stripes/kkkkgkgkkkkkk/) — the page of e
 The **Royal Regiment of Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/">Royal Regiment of Scotland</a></td><td><code>K/44 Ki4 K4 Ki4 K4 Ki32 G32 Ki4 G32 Ki32 K32 Ki4 K/4</code></td><td>416</td><td>1725</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/"><img src="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/sett.png" alt="Royal Regiment of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/">Royal Regiment of Scotland</a></td><td></td><td><code>K/44 Ki4 K4 Ki4 K4 Ki32 G32 Ki4 G32 Ki32 K32 Ki4 K/4</code></td><td>416</td><td>1725</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/"><img src="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/sett.png" alt="Royal Regiment of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

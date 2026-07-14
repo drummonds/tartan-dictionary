@@ -13,10 +13,10 @@ Its design is pattern [WBRBRGRW](/stripes/wbrbrgrw/) — the page of every tarta
 The **Utah Centennial** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/">Utah Centennial</a></td><td><code>W/12 Ri16 G48 Ri16 DB12 R16 DB16 W/6</code></td><td>266</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/"><img src="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/sett.png" alt="Utah Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/">Utah Centennial</a></td><td></td><td><code>W/12 Ri16 G48 Ri16 DB12 R16 DB16 W/6</code></td><td>266</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/"><img src="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/sett.png" alt="Utah Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

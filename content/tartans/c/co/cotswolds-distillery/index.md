@@ -13,10 +13,10 @@ Its design is pattern [GWYWBWBWK](/stripes/gwywbwbwk/) — the page of every tar
 The **Cotswolds Distillery** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/">Cotswolds Distillery</a></td><td><code>K/8 LB24 N6 LB6 N6 LB8 LY34 LB30 DY/8</code></td><td>244</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/"><img src="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/sett.png" alt="Cotswolds Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/">Cotswolds Distillery</a></td><td></td><td><code>K/8 LB24 N6 LB6 N6 LB8 LY34 LB30 DY/8</code></td><td>244</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/"><img src="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/sett.png" alt="Cotswolds Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

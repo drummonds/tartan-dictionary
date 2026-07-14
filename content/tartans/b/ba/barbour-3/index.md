@@ -22,12 +22,12 @@ The **Barbour** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/">Barbour</a> ★</td><td><code>R/6 K40 W4 DO22 O42 LY4 O/4</code></td><td>234</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/"><img src="/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/sett.png" alt="Barbour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/o4y2o21do11w2k20r3~x2/">Barbour</a></td><td><code>O/8 Y4 O42 DO22 W4 K40 R/6</code></td><td>238</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/o4y2o21do11w2k20r3~x2/"><img src="o4y2o21do11w2k20r3-rev.png" alt="Barbour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/">Barbour</a> ★</td><td></td><td><code>R/6 K40 W4 DO22 O42 LY4 O/4</code></td><td>234</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/"><img src="/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/sett.png" alt="Barbour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/o4y2o21do11w2k20r3~x2/">Barbour</a></td><td>0.13</td><td><code>O/8 Y4 O42 DO22 W4 K40 R/6</code></td><td>238</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/o4y2o21do11w2k20r3~x2/"><img src="o4y2o21do11w2k20r3-rev.png" alt="Barbour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

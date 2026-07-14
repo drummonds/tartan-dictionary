@@ -13,10 +13,10 @@ Its design is pattern [RWRKRBRKBKRBRKRW](/stripes/rwrkrbrkbkrbrkrw/) — the pag
 The **Hampden-Sydney College** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/">Hampden-Sydney College</a></td><td><code>R/80 W2 R5 K10 R6 N4 R4 K2 N6 K2 R10 N4 R8 K10 R5 W/2</code></td><td>238</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/"><img src="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/sett.png" alt="Hampden-Sydney College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/">Hampden-Sydney College</a></td><td></td><td><code>R/80 W2 R5 K10 R6 N4 R4 K2 N6 K2 R10 N4 R8 K10 R5 W/2</code></td><td>238</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/"><img src="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/sett.png" alt="Hampden-Sydney College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

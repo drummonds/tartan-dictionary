@@ -13,10 +13,10 @@ Its design is pattern [BBYBRBBBY](/stripes/bbybrbbby/) — the page of every tar
 The **United States** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/">United States</a></td><td><code>T/7 DB5 LR6 DB5 R7 DB2 T2 DB70 LR/2</code></td><td>203</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><img src="/variants/s9/t7db5lr6db5r7db2t2db70lr2/sett.png" alt="United States sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/">United States</a></td><td></td><td><code>T/7 DB5 LR6 DB5 R7 DB2 T2 DB70 LR/2</code></td><td>203</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><img src="/variants/s9/t7db5lr6db5r7db2t2db70lr2/sett.png" alt="United States sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BYBGBGBG](/stripes/bybgbgbg/) — the page of every tarta
 The **Kinross** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/">Kinross</a></td><td><code>DG/40 DB4 G12 DB4 DG8 DB54 LO4 DB/16</code></td><td>228</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/"><img src="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/sett.png" alt="Kinross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/">Kinross</a></td><td></td><td><code>DG/40 DB4 G12 DB4 DG8 DB54 LO4 DB/16</code></td><td>228</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/"><img src="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/sett.png" alt="Kinross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

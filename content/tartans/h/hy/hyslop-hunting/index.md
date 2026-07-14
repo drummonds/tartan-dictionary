@@ -13,10 +13,10 @@ Its design is pattern [GBGKGKGKGKGYBKBKBG](/stripes/gbgkgkgkgkgybkbkbg/) — the
 The **Hyslop Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/">Hyslop Hunting</a></td><td><code>G/8 DR4 G48 K4 G4 K12 G4 K12 G4 K4 G6 LO2 DB6 K4 DB2 K4 DB6 G/4</code></td><td>264</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/"><img src="/variants/s18/g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/sett.png" alt="Hyslop Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/">Hyslop Hunting</a></td><td></td><td><code>G/8 DR4 G48 K4 G4 K12 G4 K12 G4 K4 G6 LO2 DB6 K4 DB2 K4 DB6 G/4</code></td><td>264</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/"><img src="/variants/s18/g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/sett.png" alt="Hyslop Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

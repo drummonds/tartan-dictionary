@@ -18,10 +18,10 @@ Its design is pattern [BGWGKBKBKGKGKGBGKGKGKBYBKGWG](/stripes/bgwgkbkbkgkgkgbgkg
 The **Shearer** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s28/g4lb2g11k9do12lo2do12k9g2k2g2k2g6dr2g6k2g2k2g2k9do12k2do12k9g11lb2g4dr2~x2/">Shearer</a></td><td><code>G/8 LB4 G22 K18 DO24 LO4 DO24 K18 G4 K4 G4 K4 G12 DR4 G12 K4 G4 K4 G4 K18 DO24 K4 DO24 K18 G22 LB4 G8 DR/4</code></td><td>604</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s28/g4lb2g11k9do12lo2do12k9g2k2g2k2g6dr2g6k2g2k2g2k9do12k2do12k9g11lb2g4dr2~x2/"><img src="/variants/s28/g4lb2g11k9do12lo2do12k9g2k2g2k2g6dr2g6k2g2k2g2k9do12k2do12k9g11lb2g4dr2~x2/sett.png" alt="Shearer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s28/g4lb2g11k9do12lo2do12k9g2k2g2k2g6dr2g6k2g2k2g2k9do12k2do12k9g11lb2g4dr2~x2/">Shearer</a></td><td></td><td><code>G/8 LB4 G22 K18 DO24 LO4 DO24 K18 G4 K4 G4 K4 G12 DR4 G12 K4 G4 K4 G4 K18 DO24 K4 DO24 K18 G22 LB4 G8 DR/4</code></td><td>604</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s28/g4lb2g11k9do12lo2do12k9g2k2g2k2g6dr2g6k2g2k2g2k9do12k2do12k9g11lb2g4dr2~x2/"><img src="/variants/s28/g4lb2g11k9do12lo2do12k9g2k2g2k2g6dr2g6k2g2k2g2k9do12k2do12k9g11lb2g4dr2~x2/sett.png" alt="Shearer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

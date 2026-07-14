@@ -13,10 +13,10 @@ Its design is pattern [GRGRGRBRWR](/stripes/grgrgrbrwr/) — the page of every t
 The **Unidentified Plaid 6** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/">Unidentified Plaid 6</a></td><td><code>R/8 LB6 R64 DB60 R8 G64 R6 G64 R6 G/6</code></td><td>570</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/"><img src="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/sett.png" alt="Unidentified Plaid 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/">Unidentified Plaid 6</a></td><td></td><td><code>R/8 LB6 R64 DB60 R8 G64 R6 G64 R6 G/6</code></td><td>570</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/"><img src="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/sett.png" alt="Unidentified Plaid 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

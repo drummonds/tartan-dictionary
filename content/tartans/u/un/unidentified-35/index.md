@@ -13,10 +13,10 @@ Its design is pattern [BBBWBRR](/stripes/bbbwbrr/) — the page of every tartan 
 The **Unidentified 35** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db4do2db2w2do9o27r4~x3/">Unidentified 35</a></td><td><code>DB/12 DO6 DB6 W6 DO27 O81 R/12</code></td><td>276</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db4do2db2w2do9o27r4~x3/"><img src="/variants/s7/db4do2db2w2do9o27r4~x3/sett.png" alt="Unidentified 35 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db4do2db2w2do9o27r4~x3/">Unidentified 35</a></td><td></td><td><code>DB/12 DO6 DB6 W6 DO27 O81 R/12</code></td><td>276</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db4do2db2w2do9o27r4~x3/"><img src="/variants/s7/db4do2db2w2do9o27r4~x3/sett.png" alt="Unidentified 35 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

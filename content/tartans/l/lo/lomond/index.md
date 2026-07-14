@@ -18,10 +18,10 @@ Its design is pattern [GKGKGWKWKWGYK](/stripes/gkgkgwkwkwgyk/) — the page of e
 The **Lomond** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/">Lomond</a></td><td><code>Y/120 K8 G8 K8 G8 LB12 K4 LB8 K4 LB4 G48 LO8 K/24</code></td><td>384</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/"><img src="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/sett.png" alt="Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/">Lomond</a></td><td></td><td><code>Y/120 K8 G8 K8 G8 LB12 K4 LB8 K4 LB4 G48 LO8 K/24</code></td><td>384</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/"><img src="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/sett.png" alt="Lomond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

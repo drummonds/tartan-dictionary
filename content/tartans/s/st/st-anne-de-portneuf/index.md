@@ -15,10 +15,10 @@ Unconventional 10-colour non-repeating district tartan for a Quebec St Lawrence 
 The **St Anne de Portneuf** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2~x2/">St Anne de Portneuf</a></td><td><code>LO/4 W6 LY14 DB2 DY8 R4 Y12 DG4 W2 LY4 DB12 DO4 R8 Y2 DG14 W6 LB/4</code></td><td>212</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2~x2/"><img src="/variants/s17/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2~x2/sett.png" alt="St Anne de Portneuf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2~x2/">St Anne de Portneuf</a></td><td></td><td><code>LO/4 W6 LY14 DB2 DY8 R4 Y12 DG4 W2 LY4 DB12 DO4 R8 Y2 DG14 W6 LB/4</code></td><td>212</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2~x2/"><img src="/variants/s17/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2~x2/sett.png" alt="St Anne de Portneuf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

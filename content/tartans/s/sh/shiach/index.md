@@ -13,10 +13,10 @@ Its design is pattern [GKRGRKBR](/stripes/gkrgrkbr/) — the page of every tarta
 The **Shiach** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/">Shiach</a></td><td><code>G/90 K8 Ri4 G8 Ri4 K8 DB42 R/10</code></td><td>248</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/"><img src="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/sett.png" alt="Shiach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/">Shiach</a></td><td></td><td><code>G/90 K8 Ri4 G8 Ri4 K8 DB42 R/10</code></td><td>248</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/"><img src="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/sett.png" alt="Shiach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

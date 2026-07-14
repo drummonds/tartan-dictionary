@@ -18,10 +18,10 @@ Its design is pattern [BKBGKRGGKWKRGKBYKR](/stripes/bkbgkrggkwkrgkbykr/) — the
 The **Kukri** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2~x2~r2109032-m2610337/">Kukri</a></td><td><code>DB/16 K4 DB6 DG6 K6 R6 DG20 G6 K6 W6 K6 M32 DG12 K6 DB16 LY26 K4 M/4</code></td><td>356</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2~x2~r2109032-m2610337/"><img src="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2~x2~r2109032-m2610337/sett.png" alt="Kukri sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2~x2~r2109032-m2610337/">Kukri</a></td><td></td><td><code>DB/16 K4 DB6 DG6 K6 R6 DG20 G6 K6 W6 K6 M32 DG12 K6 DB16 LY26 K4 M/4</code></td><td>356</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2~x2~r2109032-m2610337/"><img src="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2~x2~r2109032-m2610337/sett.png" alt="Kukri sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

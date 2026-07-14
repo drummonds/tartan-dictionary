@@ -18,10 +18,10 @@ Its design is pattern [BRGRGKGRGR](/stripes/brgrgkgrgr/) — the page of every t
 The **Harding** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r50y7o6g4k4g4o6y7r50db13~x2/">Harding</a></td><td><code>R/100 Y14 O12 G8 K8 G8 O12 Y14 R100 DB/26</code></td><td>478</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r50y7o6g4k4g4o6y7r50db13~x2/"><img src="/variants/s10/r50y7o6g4k4g4o6y7r50db13~x2/sett.png" alt="Harding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r50y7o6g4k4g4o6y7r50db13~x2/">Harding</a></td><td></td><td><code>R/100 Y14 O12 G8 K8 G8 O12 Y14 R100 DB/26</code></td><td>478</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r50y7o6g4k4g4o6y7r50db13~x2/"><img src="/variants/s10/r50y7o6g4k4g4o6y7r50db13~x2/sett.png" alt="Harding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

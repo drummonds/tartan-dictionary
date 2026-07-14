@@ -18,10 +18,10 @@ Its design is pattern [BKBKWGRGWKBKB](/stripes/bkbkwgrgwkbkb/) — the page of e
 The **Colquhoun** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/">Colquhoun</a></td><td><code>DB/8 K8 DB48 K72 W4 G56 R8 G56 W12 K72 DB48 K8 DB/4</code></td><td>796</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><img src="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/sett.png" alt="Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/">Colquhoun</a></td><td></td><td><code>DB/8 K8 DB48 K72 W4 G56 R8 G56 W12 K72 DB48 K8 DB/4</code></td><td>796</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><img src="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/sett.png" alt="Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

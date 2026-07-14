@@ -13,10 +13,10 @@ Its design is pattern [WGGYWGRGW](/stripes/wggywgrgw/) — the page of every tar
 The **Elystan Glodrydd** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/">Elystan Glodrydd</a></td><td><code>W/4 DG54 DY2 LY14 LB10 DY10 R34 DY12 LB/2</code></td><td>278</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/"><img src="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/sett.png" alt="Elystan Glodrydd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/">Elystan Glodrydd</a></td><td></td><td><code>W/4 DG54 DY2 LY14 LB10 DY10 R34 DY12 LB/2</code></td><td>278</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/"><img src="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/sett.png" alt="Elystan Glodrydd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

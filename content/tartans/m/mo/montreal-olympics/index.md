@@ -13,11 +13,11 @@ Its design is pattern [GBRKYBGBRKWBR](/stripes/gbrkybgbrkwbr/) — the page of e
 The **Montreal Olympics** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/">Montreal Olympics</a></td><td><code>R/48 DB4 W4 K4 R4 DB54 DG12 DB4 LY4 K4 R4 DB4 DG/46</code></td><td>298</td><td>1976</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/"><img src="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/sett.png" alt="Montreal Olympics sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/">(1976) (Corporate)</a> · <a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2~dg1605139/">Olympic</a></td></tr>
+<tr><td><a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/">Montreal Olympics</a></td><td></td><td><code>R/48 DB4 W4 K4 R4 DB54 DG12 DB4 LY4 K4 R4 DB4 DG/46</code></td><td>298</td><td>1976</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/"><img src="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/sett.png" alt="Montreal Olympics sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/">(1976) (Corporate)</a> · <a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2~dg1605139/">Olympic</a></td></tr>
 </tbody>
 </table>
 

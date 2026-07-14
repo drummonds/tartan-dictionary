@@ -13,10 +13,10 @@ Its design is pattern [GKWRKGKRKR](/stripes/gkwrkgkrkr/) — the page of every t
 The **Unnamed C20th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/">Unnamed C20th</a></td><td><code>O/116 K24 O8 K4 Y4 K4 O20 W10 K4 Y/8</code></td><td>280</td><td>~2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/"><img src="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/">Unnamed C20th</a></td><td></td><td><code>O/116 K24 O8 K4 Y4 K4 O20 W10 K4 Y/8</code></td><td>280</td><td>~2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/"><img src="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

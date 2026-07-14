@@ -13,10 +13,10 @@ Its design is pattern [BWBKBKBW](/stripes/bwbkbkbw/) — the page of every tarta
 The **Scotch Mist** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~dt1500000/">Scotch Mist</a></td><td><code>N/8 LB8 N8 K8 N36 K6 DT76 W/6</code></td><td>298</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~dt1500000/"><img src="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~dt1500000/sett.png" alt="Scotch Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~dt1500000/">Scotch Mist</a></td><td></td><td><code>N/8 LB8 N8 K8 N36 K6 DT76 W/6</code></td><td>298</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~dt1500000/"><img src="/variants/s8/n4lb4n4k4n18k3dt38w3~x2~dt1500000/sett.png" alt="Scotch Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

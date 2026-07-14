@@ -13,10 +13,10 @@ Its design is pattern [KGKGKGK](/stripes/kgkgkgk/) — the page of every tartan 
 The **Grass of Rasunda** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/">Grass of Rasunda</a></td><td><code>K/56 DG28 K8 G32 K16 Y8 K/4</code></td><td>244</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/"><img src="/variants/s7/k14dg7k2g8k4y2k1~x4/sett.png" alt="Grass of Rasunda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/">Grass of Rasunda</a></td><td></td><td><code>K/56 DG28 K8 G32 K16 Y8 K/4</code></td><td>244</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/"><img src="/variants/s7/k14dg7k2g8k4y2k1~x4/sett.png" alt="Grass of Rasunda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

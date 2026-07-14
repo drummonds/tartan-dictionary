@@ -13,10 +13,10 @@ Its design is pattern [GGGRGKRKGKW](/stripes/gggrgkrkgkw/) — the page of every
 The **Unidentified Cant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg9y5dg57r1dg8k40o7k4dg4k2w4~x2/">Unidentified Cant</a></td><td><code>DG/18 Y10 DG114 R2 DG16 K80 O14 K8 DG8 K4 W/8</code></td><td>538</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg9y5dg57r1dg8k40o7k4dg4k2w4~x2/"><img src="/variants/s11/dg9y5dg57r1dg8k40o7k4dg4k2w4~x2/sett.png" alt="Unidentified Cant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg9y5dg57r1dg8k40o7k4dg4k2w4~x2/">Unidentified Cant</a></td><td></td><td><code>DG/18 Y10 DG114 R2 DG16 K80 O14 K8 DG8 K4 W/8</code></td><td>538</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg9y5dg57r1dg8k40o7k4dg4k2w4~x2/"><img src="/variants/s11/dg9y5dg57r1dg8k40o7k4dg4k2w4~x2/sett.png" alt="Unidentified Cant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

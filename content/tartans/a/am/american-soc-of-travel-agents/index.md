@@ -15,10 +15,10 @@ Designed by Kinloch Anderson for Scottish-trained US travel agents, based on Dav
 The **American Soc of Travel Agents** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/">American Soc of Travel Agents</a></td><td><code>G/20 DB20 R2 DB20 N2 DB2 N20 DB4 N20 DB2 N2 DB20 R2 DB20 G20 W/4</code></td><td>336</td><td>~1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/"><img src="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/sett.png" alt="American Soc of Travel Agents sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/">American Soc of Travel Agents</a></td><td></td><td><code>G/20 DB20 R2 DB20 N2 DB2 N20 DB4 N20 DB2 N2 DB20 R2 DB20 G20 W/4</code></td><td>336</td><td>~1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/"><img src="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/sett.png" alt="American Soc of Travel Agents sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [KKGKYKGKGKKW](/stripes/kkgkykgkgkkw/) — the page of eve
 The **Blue Castlefield** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/">Blue Castlefield</a></td><td><code>LB/6 Ki30 K20 DY20 Ki2 DG10 Ki2 LO20 Ki20 DG16 Ki2 K/4</code></td><td>294</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/"><img src="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/sett.png" alt="Blue Castlefield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/">Blue Castlefield</a></td><td></td><td><code>LB/6 Ki30 K20 DY20 Ki2 DG10 Ki2 LO20 Ki20 DG16 Ki2 K/4</code></td><td>294</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/"><img src="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/sett.png" alt="Blue Castlefield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

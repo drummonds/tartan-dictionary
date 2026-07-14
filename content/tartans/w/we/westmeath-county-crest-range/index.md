@@ -16,10 +16,10 @@ Its design is pattern [BKBKGKBGBWKBKBKG](/stripes/bkbkgkbgbwkbkbkg/) — the pag
 The **Westmeath County, Crest Range** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/">Westmeath County, Crest Range</a></td><td><code>DR/8 K2 DB16 K2 DY6 K4 DB8 DY12 DB8 W6 K4 DB40 K8 DR42 K2 DY/6</code></td><td>334</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/"><img src="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/sett.png" alt="Westmeath County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/">Westmeath County, Crest Range</a></td><td></td><td><code>DR/8 K2 DB16 K2 DY6 K4 DB8 DY12 DB8 W6 K4 DB40 K8 DR42 K2 DY/6</code></td><td>334</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/"><img src="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/sett.png" alt="Westmeath County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

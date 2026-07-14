@@ -18,10 +18,10 @@ Its design is pattern [KGRKGKWY](/stripes/kgrkgkwy/) — the page of every tarta
 The **Mission** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/">Mission</a></td><td><code>LO/8 LB56 K4 G44 K8 R8 Gi8 K/4</code></td><td>268</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><img src="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/sett.png" alt="Mission sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/">Mission</a></td><td></td><td><code>LO/8 LB56 K4 G44 K8 R8 Gi8 K/4</code></td><td>268</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><img src="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/sett.png" alt="Mission sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GRWBRGRGRBR](/stripes/grwbrgrgrbr/) — the page of every
 The **Hebridean 3** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g10r25lb2db25r2g2r25g2r2db25r4~x2/">Hebridean 3</a></td><td><code>G/20 R50 LB4 DB50 R4 G4 R50 G4 R4 DB50 R/8</code></td><td>468</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g10r25lb2db25r2g2r25g2r2db25r4~x2/"><img src="/variants/s11/g10r25lb2db25r2g2r25g2r2db25r4~x2/sett.png" alt="Hebridean 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g10r25lb2db25r2g2r25g2r2db25r4~x2/">Hebridean 3</a></td><td></td><td><code>G/20 R50 LB4 DB50 R4 G4 R50 G4 R4 DB50 R/8</code></td><td>468</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g10r25lb2db25r2g2r25g2r2db25r4~x2/"><img src="/variants/s11/g10r25lb2db25r2g2r25g2r2db25r4~x2/sett.png" alt="Hebridean 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

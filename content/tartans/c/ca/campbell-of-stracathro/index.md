@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKGKWKGKBKBKBKGKYKGKBKB](/stripes/bkbkbkgkwkgkbkbkbkg
 The **Campbell of Stracathro** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s27/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4~x8/">Campbell of Stracathro</a></td><td><code>DB/32 K8 DB8 K72 DG64 K8 LY16 K8 DG64 K64 DB64 K8 DB8 K8 DB64 K64 DG64 K8 W16 K8 DG64 K64 DB8 K8 DB8 K8 DB/32</code></td><td>1632</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s27/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4~x8/"><img src="/variants/s27/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4~x8/sett.png" alt="Campbell of Stracathro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s27/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4~x8/">Campbell of Stracathro</a></td><td></td><td><code>DB/32 K8 DB8 K72 DG64 K8 LY16 K8 DG64 K64 DB64 K8 DB8 K8 DB64 K64 DG64 K8 W16 K8 DG64 K64 DB8 K8 DB8 K8 DB/32</code></td><td>1632</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s27/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4~x8/"><img src="/variants/s27/db4k1db1k9dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db4~x8/sett.png" alt="Campbell of Stracathro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

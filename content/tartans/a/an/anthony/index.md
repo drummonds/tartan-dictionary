@@ -18,10 +18,10 @@ Its design is pattern [BGGGYBBGBY](/stripes/bgggybbgby/) — the page of every t
 The **Anthony** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/">Anthony</a></td><td><code>DB/72 G4 DY12 G4 LR4 DB4 DR8 G8 DR8 LR/8</code></td><td>184</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/"><img src="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/sett.png" alt="Anthony sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/">Anthony</a></td><td></td><td><code>DB/72 G4 DY12 G4 LR4 DB4 DR8 G8 DR8 LR/8</code></td><td>184</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/"><img src="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/sett.png" alt="Anthony sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

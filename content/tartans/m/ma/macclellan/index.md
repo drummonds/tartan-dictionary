@@ -15,10 +15,10 @@ Produced by Wilson's of Bannockburn as their pattern No. 64 or 'Abercrombie'.
 The **MacClellan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/">MacClellan</a></td><td><code>DB/18 K5 G3 R3 G6 K2 Y2 K2 G6 R3 G3 K10 DB5 K/10</code></td><td>128</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><img src="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/sett.png" alt="MacClellan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/">MacClellan</a></td><td></td><td><code>DB/18 K5 G3 R3 G6 K2 Y2 K2 G6 R3 G3 K10 DB5 K/10</code></td><td>128</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><img src="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/sett.png" alt="MacClellan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

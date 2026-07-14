@@ -18,10 +18,10 @@ Its design is pattern [BRGGGGGGGGGYRYGGGR](/stripes/brgggggggggyrygggr/) — the
 The **Cuillins of Skye** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/">Cuillins of Skye</a></td><td><code>R/43 DY5 G27 DY5 LY40 R5 LY40 DY5 G27 DY5 DG40 G27 DG40 DY5 G27 DY5 R43 DO/8</code></td><td>743</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/"><img src="/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/sett.png" alt="Cuillins of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/">Cuillins of Skye</a></td><td></td><td><code>R/43 DY5 G27 DY5 LY40 R5 LY40 DY5 G27 DY5 DG40 G27 DG40 DY5 G27 DY5 R43 DO/8</code></td><td>743</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/"><img src="/variants/s18/r43dy5g27dy5ly40r5ly40dy5g27dy5dg40g27dg40dy5g27dy5r43do8/sett.png" alt="Cuillins of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

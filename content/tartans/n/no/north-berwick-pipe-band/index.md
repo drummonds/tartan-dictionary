@@ -16,10 +16,10 @@ Its design is pattern [KRKRGRGRGRW](/stripes/krkrgrgrgrw/) — the page of every
 The **North Berwick Pipe Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/">North Berwick Pipe Band</a></td><td><code>K/20 R4 K20 R20 DG4 R4 DG4 R4 DG20 R2 W/4</code></td><td>188</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><img src="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/sett.png" alt="North Berwick Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/">North Berwick Pipe Band</a></td><td></td><td><code>K/20 R4 K20 R20 DG4 R4 DG4 R4 DG20 R2 W/4</code></td><td>188</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><img src="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/sett.png" alt="North Berwick Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

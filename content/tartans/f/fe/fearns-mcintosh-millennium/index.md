@@ -13,10 +13,10 @@ Its design is pattern [GRRWBRRWBR](/stripes/grrwbrrwbr/) — the page of every t
 The **Fearns McIntosh Millennium** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/">Fearns McIntosh Millennium</a></td><td><code>R/48 DT12 LB6 O6 R48 DT12 LB6 O6 R48 G/12</code></td><td>348</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/"><img src="/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/sett.png" alt="Fearns McIntosh Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/">Fearns McIntosh Millennium</a></td><td></td><td><code>R/48 DT12 LB6 O6 R48 DT12 LB6 O6 R48 G/12</code></td><td>348</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/"><img src="/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/sett.png" alt="Fearns McIntosh Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

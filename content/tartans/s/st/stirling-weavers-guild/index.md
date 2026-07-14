@@ -16,10 +16,10 @@ Its design is pattern [GWGRBGRBRGBRGRBGR](/stripes/gwgrbgrbrgbrgrbgr/) — the p
 The **Stirling Weavers Guild** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/">Stirling Weavers Guild</a></td><td><code>R/92 Y4 DB4 R10 G92 R10 DB4 Y4 R10 DB20 R10 Y4 DB4 R98 G10 W10 G/10</code></td><td>690</td><td>1820</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/"><img src="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/sett.png" alt="Stirling Weavers Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/">Stirling Weavers Guild</a></td><td></td><td><code>R/92 Y4 DB4 R10 G92 R10 DB4 Y4 R10 DB20 R10 Y4 DB4 R98 G10 W10 G/10</code></td><td>690</td><td>1820</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/"><img src="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/sett.png" alt="Stirling Weavers Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

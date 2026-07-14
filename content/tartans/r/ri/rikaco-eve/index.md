@@ -16,10 +16,10 @@ Its design is pattern [RBRWBWWRRW](/stripes/rbrwbwwrrw/) — the page of every t
 The **Rikaco Eve** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/">Rikaco Eve</a></td><td><code>O/8 N8 O4 W72 N28 W4 LB8 O14 M10 W/6</code></td><td>310</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><img src="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/sett.png" alt="Rikaco Eve sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/">Rikaco Eve</a></td><td></td><td><code>O/8 N8 O4 W72 N28 W4 LB8 O14 M10 W/6</code></td><td>310</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><img src="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/sett.png" alt="Rikaco Eve sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

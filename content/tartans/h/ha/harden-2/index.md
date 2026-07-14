@@ -18,10 +18,10 @@ Its design is pattern [KRWKGKWKGRKRW](/stripes/krwkgkwkgrkrw/) — the page of e
 The **Harden** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/">Harden</a></td><td><code>K/4 R28 LB16 K18 Y2 K4 W4 K4 G20 R30 K8 R24 W/4</code></td><td>324</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/"><img src="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/sett.png" alt="Harden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/">Harden</a></td><td></td><td><code>K/4 R28 LB16 K18 Y2 K4 W4 K4 G20 R30 K8 R24 W/4</code></td><td>324</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/"><img src="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/sett.png" alt="Harden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

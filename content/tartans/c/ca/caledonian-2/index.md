@@ -18,10 +18,10 @@ Its design is pattern [BKBKYBBKBWB](/stripes/bkbkybbkbwb/) — the page of every
 The **Caledonian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/">Caledonian</a></td><td><code>DR/8 LB4 DR12 K4 DR12 DO32 LY4 K24 N20 K4 N/2</code></td><td>242</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/"><img src="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/">Caledonian</a></td><td></td><td><code>DR/8 LB4 DR12 K4 DR12 DO32 LY4 K24 N20 K4 N/2</code></td><td>242</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/"><img src="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BRBGBGBRBGWG](/stripes/brbgbgbrbgwg/) — the page of eve
 The **Love Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/">Love Hunting</a></td><td><code>DG/64 W6 DG64 DB64 R6 DB64 DG64 DP6 DG64 DB64 R6 DB/64</code></td><td>944</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/"><img src="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/sett.png" alt="Love Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/">Love Hunting</a></td><td></td><td><code>DG/64 W6 DG64 DB64 R6 DB64 DG64 DP6 DG64 DB64 R6 DB/64</code></td><td>944</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/"><img src="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/sett.png" alt="Love Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

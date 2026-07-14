@@ -16,10 +16,10 @@ Its design is pattern [BWBWWWWWBBRWR](/stripes/bwbwwwwwbbrwr/) — the page of e
 The **Diana Memorial Rose** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2~x2/">Diana Memorial Rose</a></td><td><code>R/8 W4 R46 DB24 N12 W4 LB4 W4 LB16 W8 N4 W4 DR/4</code></td><td>272</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2~x2/"><img src="/variants/s13/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2~x2/sett.png" alt="Diana Memorial Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2~x2/">Diana Memorial Rose</a></td><td></td><td><code>R/8 W4 R46 DB24 N12 W4 LB4 W4 LB16 W8 N4 W4 DR/4</code></td><td>272</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2~x2/"><img src="/variants/s13/r4w2r23db12n6w2lb2w2lb8w4n2w2dr2~x2/sett.png" alt="Diana Memorial Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

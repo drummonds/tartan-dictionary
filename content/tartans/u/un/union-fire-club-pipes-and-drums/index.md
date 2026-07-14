@@ -13,10 +13,10 @@ Its design is pattern [KRGKW](/stripes/krgkw/) — the page of every tartan shar
 The **Union Fire Club Pipes and Drums** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k30r10y1k8w3~x4/">Union Fire Club Pipes and Drums</a></td><td><code>K/120 R40 Y4 K32 W/12</code></td><td>284</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k30r10y1k8w3~x4/"><img src="/variants/s5/k30r10y1k8w3~x4/sett.png" alt="Union Fire Club Pipes and Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k30r10y1k8w3~x4/">Union Fire Club Pipes and Drums</a></td><td></td><td><code>K/120 R40 Y4 K32 W/12</code></td><td>284</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k30r10y1k8w3~x4/"><img src="/variants/s5/k30r10y1k8w3~x4/sett.png" alt="Union Fire Club Pipes and Drums sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KBKRWRWRWRWRWRWBWBWBWKW](/stripes/kbkrwrwrwrwrwrwbwbwbwkw
 The **Gullane** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4~n1900000-o2500000/">Gullane</a></td><td><code>K/40 N8 K12 R8 W4 R12 W4 R16 W4 O8 W4 O12 W4 O16 W4 N8 W4 N12 W4 N16 W4 K16 W/8</code></td><td>408</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4~n1900000-o2500000/"><img src="/variants/s23/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4~n1900000-o2500000/sett.png" alt="Gullane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4~n1900000-o2500000/">Gullane</a></td><td></td><td><code>K/40 N8 K12 R8 W4 R12 W4 R16 W4 O8 W4 O12 W4 O16 W4 N8 W4 N12 W4 N16 W4 K16 W/8</code></td><td>408</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4~n1900000-o2500000/"><img src="/variants/s23/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4~n1900000-o2500000/sett.png" alt="Gullane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

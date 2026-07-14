@@ -13,10 +13,10 @@ Its design is pattern [WGGGBGWWY](/stripes/wgggbgwwy/) — the page of every tar
 The **City of Edmonton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/">City of Edmonton</a></td><td><code>LB/32 Y8 G16 Y8 DP16 Y8 LB32 W60 LY/8</code></td><td>336</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/"><img src="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/sett.png" alt="City of Edmonton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/">City of Edmonton</a></td><td></td><td><code>LB/32 Y8 G16 Y8 DP16 Y8 LB32 W60 LY/8</code></td><td>336</td><td>1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/"><img src="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/sett.png" alt="City of Edmonton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

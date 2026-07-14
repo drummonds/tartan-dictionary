@@ -21,14 +21,14 @@ The **Harmon of Plenderleith** tartan groups 3 setts — the same named design r
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/">Harmon of Plenderleith</a> ★</td><td><code>K/4 T12 DY4 T4 DY4 T38 DR4 G4 DR4 T4 DB8 K4 DB22 G4 DB4 G4 DB12 DY/4</code></td><td>280</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/"><img src="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/sett.png" alt="Harmon of Plenderleith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/">Personal Tartan</a></td><td><code>K/2 B6 LY2 B2 LY2 B19 R2 G2 R2 B2 DB4 K2 DB11 G2 DB2 G2 DB6 LY/2</code></td><td>—</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/"><img src="/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/sett.png" alt="Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/">(Personal)</a></td><td><code>K/4 DBi12 LY4 DBi4 LY4 DBi38 R4 G4 R4 DBi4 DB8 K4 DB22 G4 DB4 G4 DB12 LY/4</code></td><td>280</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/"><img src="/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/">Harmon of Plenderleith</a> ★</td><td></td><td><code>K/4 T12 DY4 T4 DY4 T38 DR4 G4 DR4 T4 DB8 K4 DB22 G4 DB4 G4 DB12 DY/4</code></td><td>280</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/"><img src="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/sett.png" alt="Harmon of Plenderleith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/">Personal Tartan</a></td><td>—</td><td><code>K/2 B6 LY2 B2 LY2 B19 R2 G2 R2 B2 DB4 K2 DB11 G2 DB2 G2 DB6 LY/2</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/"><img src="/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/sett.png" alt="Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/">(Personal)</a></td><td>1.76</td><td><code>K/4 DBi12 LY4 DBi4 LY4 DBi38 R4 G4 R4 DBi4 DB8 K4 DB22 G4 DB4 G4 DB12 LY/4</code></td><td>280</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/"><img src="/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

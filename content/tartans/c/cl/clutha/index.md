@@ -13,10 +13,10 @@ Its design is pattern [KWKWBKBGKBGKBGBKWKWKW](/stripes/kwkwbkbgkbgkbgbkwkwkw/) â
 The **Clutha** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/">Clutha</a></td><td><code>W/12 K8 W6 K6 W4 K36 N2 Y10 N2 K6 Y4 N2 K6 Y4 N2 K64 N4 W12 K6 W12 K/6</code></td><td>410</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/"><img src="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/sett.png" alt="Clutha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/">Clutha</a></td><td></td><td><code>W/12 K8 W6 K6 W4 K36 N2 Y10 N2 K6 Y4 N2 K6 Y4 N2 K64 N4 W12 K6 W12 K/6</code></td><td>410</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/"><img src="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/sett.png" alt="Clutha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

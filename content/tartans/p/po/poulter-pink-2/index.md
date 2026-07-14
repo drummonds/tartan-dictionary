@@ -16,10 +16,10 @@ Its design is pattern [WBWBWBWWWBWBW](/stripes/wbwbwbwwwbwbw/) — the page of e
 The **Poulter, Pink** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lp25dp4lp4dp4lp4dp23lb23w4lb23dp23lp23dp4lp4~x2/">Poulter, Pink</a></td><td><code>LP/50 DP8 LP8 DP8 LP8 DP46 LB46 W8 LB46 DP46 LP46 DP8 LP/8</code></td><td>614</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lp25dp4lp4dp4lp4dp23lb23w4lb23dp23lp23dp4lp4~x2/"><img src="/variants/s13/lp25dp4lp4dp4lp4dp23lb23w4lb23dp23lp23dp4lp4~x2/sett.png" alt="Poulter, Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lp25dp4lp4dp4lp4dp23lb23w4lb23dp23lp23dp4lp4~x2/">Poulter, Pink</a></td><td></td><td><code>LP/50 DP8 LP8 DP8 LP8 DP46 LB46 W8 LB46 DP46 LP46 DP8 LP/8</code></td><td>614</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lp25dp4lp4dp4lp4dp23lb23w4lb23dp23lp23dp4lp4~x2/"><img src="/variants/s13/lp25dp4lp4dp4lp4dp23lb23w4lb23dp23lp23dp4lp4~x2/sett.png" alt="Poulter, Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

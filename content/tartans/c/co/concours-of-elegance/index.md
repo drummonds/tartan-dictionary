@@ -13,10 +13,10 @@ Its design is pattern [BKRKRKBBBBG](/stripes/bkrkrkbbbbg/) — the page of every
 The **Concours of Elegance** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/">Concours of Elegance</a></td><td><code>DB/130 K18 R6 K6 R6 K6 B18 DB14 B5 DB18 Y/4</code></td><td>328</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/"><img src="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/sett.png" alt="Concours of Elegance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/">Concours of Elegance</a></td><td></td><td><code>DB/130 K18 R6 K6 R6 K6 B18 DB14 B5 DB18 Y/4</code></td><td>328</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/"><img src="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/sett.png" alt="Concours of Elegance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

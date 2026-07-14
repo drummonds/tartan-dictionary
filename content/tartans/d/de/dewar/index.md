@@ -19,13 +19,13 @@ The **Dewar** tartan is one sett, recorded at 2 scales — the same proportion w
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/">Dewar</a></td><td><code>DG/1 R1 DG7 R4 Ri7 R/1</code></td><td>40</td><td>~1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/"><img src="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/sett.png" alt="Dewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/">MacNab #2</a></td><td><code>DG/4 R4 DG28 R16 Ri28 R/4</code></td><td>160</td><td>2002</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/">(Name)</a></td><td><code>DG/6 R6 DG42 R24 Ri42 R/6</code></td><td>240</td><td>~1990</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/">MacNab #2</a> · <a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/">(Name)</a></td></tr>
+<tr><td><a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/">Dewar</a></td><td></td><td><code>DG/1 R1 DG7 R4 Ri7 R/1</code></td><td>40</td><td>~1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/"><img src="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/sett.png" alt="Dewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/">MacNab #2</a></td><td>0.14</td><td><code>DG/4 R4 DG28 R16 Ri28 R/4</code></td><td>160</td><td>2002</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/">(Name)</a></td><td>0.00</td><td><code>DG/6 R6 DG42 R24 Ri42 R/6</code></td><td>240</td><td>~1990</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/">MacNab #2</a> · <a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/">(Name)</a></td></tr>
 </tbody>
 </table>
 

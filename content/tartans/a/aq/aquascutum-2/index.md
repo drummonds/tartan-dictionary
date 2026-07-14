@@ -19,13 +19,13 @@ The **Aquascutum** tartan is one sett, recorded at 2 scales — the same proport
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/db1w1r1~x22/">Aquascutum</a></td><td><code>DB/1 W1 R/1</code></td><td>4</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/db1w1r1~x22/"><img src="/variants/s3/db1w1r1~x22/sett.png" alt="Aquascutum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s3/db1w1r1~x4/">Usa</a></td><td><code>DB/4 W4 R/4</code></td><td>16</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×22 — <a href="/variants/s3/db1w1r1~x22/">Aquascutum</a></td><td><code>DB/22 W22 R/22</code></td><td>88</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s3/db1w1r1~x22/">Aquascutum</a> · <a href="/variants/s3/db1w1r1~x4/">Usa</a></td></tr>
+<tr><td><a href="/variants/s3/db1w1r1~x22/">Aquascutum</a></td><td></td><td><code>DB/1 W1 R/1</code></td><td>4</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/db1w1r1~x22/"><img src="/variants/s3/db1w1r1~x22/sett.png" alt="Aquascutum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s3/db1w1r1~x4/">Usa</a></td><td>0.00</td><td><code>DB/4 W4 R/4</code></td><td>16</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×22 — <a href="/variants/s3/db1w1r1~x22/">Aquascutum</a></td><td>0.00</td><td><code>DB/22 W22 R/22</code></td><td>88</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s3/db1w1r1~x22/">Aquascutum</a> · <a href="/variants/s3/db1w1r1~x4/">Usa</a></td></tr>
 </tbody>
 </table>
 

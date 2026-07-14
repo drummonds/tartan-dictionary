@@ -20,10 +20,10 @@ Designed by William D. Park in 1996 for himself and family; wearable by others o
 The **Park** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/">Park</a></td><td><code>R/6 DB32 K32 G8 K4 G4 K4 G68 R8 G6 R4 G/6</code></td><td>352</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/"><img src="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/sett.png" alt="Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/">Park</a></td><td></td><td><code>R/6 DB32 K32 G8 K4 G4 K4 G68 R8 G6 R4 G/6</code></td><td>352</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/"><img src="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/sett.png" alt="Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KBGBKRGBK](/stripes/kbgbkrgbk/) — the page of every tar
 The **MacNett** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/">MacNett</a></td><td><code>K/2 DB2 DG32 R32 K24 DB16 DG32 DB2 K/2</code></td><td>284</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><img src="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/sett.png" alt="MacNett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/">MacNett</a></td><td></td><td><code>K/2 DB2 DG32 R32 K24 DB16 DG32 DB2 K/2</code></td><td>284</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><img src="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/sett.png" alt="MacNett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

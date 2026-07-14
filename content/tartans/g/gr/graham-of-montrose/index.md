@@ -20,10 +20,10 @@ Wilson's No. 64 'Abercrombie' pattern (c.1819); yellow variant becomes Breadalba
 The **Graham of Montrose** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k4g19k16w2db15g4~x2/">Graham of Montrose</a></td><td><code>K/8 G38 K32 W4 DB30 G/8</code></td><td>224</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4g19k16w2db15g4~x2/"><img src="/variants/s6/k4g19k16w2db15g4~x2/sett.png" alt="Graham of Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4g19k16w2db15g4~x2/">Graham of Montrose</a></td><td></td><td><code>K/8 G38 K32 W4 DB30 G/8</code></td><td>224</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4g19k16w2db15g4~x2/"><img src="/variants/s6/k4g19k16w2db15g4~x2/sett.png" alt="Graham of Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBBRBWW](/stripes/bbbrbww/) — the page of every tartan 
 The **Un-named Dutch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/">Un-named Dutch</a></td><td><code>N/4 DR20 N20 O6 DR4 LB48 W/4</code></td><td>204</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/"><img src="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/sett.png" alt="Un-named Dutch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/">Un-named Dutch</a></td><td></td><td><code>N/4 DR20 N20 O6 DR4 LB48 W/4</code></td><td>204</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/"><img src="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/sett.png" alt="Un-named Dutch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

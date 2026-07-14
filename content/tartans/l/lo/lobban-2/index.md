@@ -18,10 +18,10 @@ Its design is pattern [GGRGKWRWRW](/stripes/ggrgkwrwrw/) — the page of every t
 The **Lobban** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/">Lobban</a></td><td><code>Y/10 G4 R4 G24 K18 LB24 R4 LB4 R4 LB/4</code></td><td>186</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/"><img src="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/sett.png" alt="Lobban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/">Lobban</a></td><td></td><td><code>Y/10 G4 R4 G24 K18 LB24 R4 LB4 R4 LB/4</code></td><td>186</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/"><img src="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/sett.png" alt="Lobban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

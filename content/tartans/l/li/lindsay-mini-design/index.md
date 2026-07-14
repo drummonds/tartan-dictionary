@@ -19,13 +19,13 @@ The **Lindsay MINI Design** tartan is one sett, recorded at 2 scales — the sam
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/">Lindsay MINI Design</a></td><td><code>DG/20 DB2 DG2 DB2 DG2 DB8 R24 DB2 R/3</code></td><td>107</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><img src="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/sett.png" alt="Lindsay MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3/">Tartan</a></td><td><code>DG/20 DB2 DG2 DB2 DG2 DB8 R24 DB2 R/3</code></td><td>107</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/">Lindsay</a></td><td><code>DG/40 DB4 DG4 DB4 DG4 DB16 R48 DB4 R/6</code></td><td>214</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3/">Tartan</a> · <a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/">Lindsay</a></td></tr>
+<tr><td><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/">Lindsay MINI Design</a></td><td></td><td><code>DG/20 DB2 DG2 DB2 DG2 DB8 R24 DB2 R/3</code></td><td>107</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><img src="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/sett.png" alt="Lindsay MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3/">Tartan</a></td><td>0.00</td><td><code>DG/20 DB2 DG2 DB2 DG2 DB8 R24 DB2 R/3</code></td><td>107</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/">Lindsay</a></td><td>0.00</td><td><code>DG/40 DB4 DG4 DB4 DG4 DB16 R48 DB4 R/6</code></td><td>214</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3/">Tartan</a> · <a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/">Lindsay</a></td></tr>
 </tbody>
 </table>
 

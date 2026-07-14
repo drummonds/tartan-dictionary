@@ -13,10 +13,10 @@ Its design is pattern [KRKWKRKR](/stripes/krkwkrkr/) — the page of every tarta
 The **bodog.com** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/">bodog.com</a></td><td><code>K/50 R50 K20 LB6 K20 R50 K50 R/6</code></td><td>448</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/"><img src="/variants/s8/k25r25k10lb3k10r25k25r3~x2/sett.png" alt="bodog.com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/">bodog.com</a></td><td></td><td><code>K/50 R50 K20 LB6 K20 R50 K50 R/6</code></td><td>448</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/"><img src="/variants/s8/k25r25k10lb3k10r25k25r3~x2/sett.png" alt="bodog.com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

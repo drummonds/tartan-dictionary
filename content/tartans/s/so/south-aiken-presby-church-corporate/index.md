@@ -13,10 +13,10 @@ Its design is pattern [YBWBGY](/stripes/ybwbgy/) — the page of every tartan sh
 The **South Aiken Presby Church (Corporate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/">South Aiken Presby Church (Corporate</a></td><td><code>LY/60 G6 T4 LB4 T60 LO/8</code></td><td>216</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/"><img src="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/sett.png" alt="South Aiken Presby Church (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/">South Aiken Presby Church (Corporate</a></td><td></td><td><code>LY/60 G6 T4 LB4 T60 LO/8</code></td><td>216</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/"><img src="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/sett.png" alt="South Aiken Presby Church (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

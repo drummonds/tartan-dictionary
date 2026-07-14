@@ -13,10 +13,10 @@ Its design is pattern [WYKWKWYKY](/stripes/wykwkwyky/) — the page of every tar
 The **Moonlight Glen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/">Moonlight Glen</a></td><td><code>W/6 LY2 K6 W20 K20 W12 LY8 K80 LY/6</code></td><td>308</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><img src="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/sett.png" alt="Moonlight Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/">Moonlight Glen</a></td><td></td><td><code>W/6 LY2 K6 W20 K20 W12 LY8 K80 LY/6</code></td><td>308</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><img src="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/sett.png" alt="Moonlight Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

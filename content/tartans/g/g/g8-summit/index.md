@@ -15,10 +15,10 @@ Designed for the 2005 G8 Summit at Gleneagles; colours symbolise the host nation
 The **G8 Summit** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/">G8 Summit</a></td><td><code>DP/8 G18 DB4 R4 DB100 LR2 DB2 LR2 DB2 LR2 DB2 LR2 DB/2</code></td><td>290</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/"><img src="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/sett.png" alt="G8 Summit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/">G8 Summit</a></td><td></td><td><code>DP/8 G18 DB4 R4 DB100 LR2 DB2 LR2 DB2 LR2 DB2 LR2 DB/2</code></td><td>290</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/"><img src="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/sett.png" alt="G8 Summit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

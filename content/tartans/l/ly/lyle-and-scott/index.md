@@ -15,12 +15,12 @@ The **Lyle and Scott** tartan groups 2 setts — the same named design recorded 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/">Lyle and Scott</a> ★</td><td><code>DG/5 DBi2 DG9 DB19 R9 Y/2</code></td><td>—</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/"><img src="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/sett.png" alt="Lyle and Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/dg5t2dg9db19r9ly2~x2/">Lyle and Scott</a></td><td><code>DG/10 T4 DG18 DB38 R18 LY/4</code></td><td>170</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg5t2dg9db19r9ly2~x2/"><img src="/variants/s6/dg5t2dg9db19r9ly2~x2/sett.png" alt="Lyle and Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/">Lyle and Scott</a> ★</td><td></td><td><code>DG/5 DBi2 DG9 DB19 R9 Y/2</code></td><td>—</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/"><img src="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/sett.png" alt="Lyle and Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg5t2dg9db19r9ly2~x2/">Lyle and Scott</a></td><td>0.13</td><td><code>DG/10 T4 DG18 DB38 R18 LY/4</code></td><td>170</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dg5t2dg9db19r9ly2~x2/"><img src="/variants/s6/dg5t2dg9db19r9ly2~x2/sett.png" alt="Lyle and Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

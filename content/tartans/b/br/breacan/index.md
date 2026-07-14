@@ -13,10 +13,10 @@ Its design is pattern [BGGGGGWGWRWR](/stripes/bgggggwgwrwr/) — the page of eve
 The **Breacan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/o3w1o1w3dg1w1dg10g2dg1g10y2dr2~x2~dg1806142-g2408144/">Breacan</a></td><td><code>O/6 W2 O2 W6 DG2 W2 DG20 G4 DG2 G20 Y4 DR/4</code></td><td>138</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/o3w1o1w3dg1w1dg10g2dg1g10y2dr2~x2~dg1806142-g2408144/"><img src="/variants/s12/o3w1o1w3dg1w1dg10g2dg1g10y2dr2~x2~dg1806142-g2408144/sett.png" alt="Breacan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/o3w1o1w3dg1w1dg10g2dg1g10y2dr2~x2~dg1806142-g2408144/">Breacan</a></td><td></td><td><code>O/6 W2 O2 W6 DG2 W2 DG20 G4 DG2 G20 Y4 DR/4</code></td><td>138</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/o3w1o1w3dg1w1dg10g2dg1g10y2dr2~x2~dg1806142-g2408144/"><img src="/variants/s12/o3w1o1w3dg1w1dg10g2dg1g10y2dr2~x2~dg1806142-g2408144/sett.png" alt="Breacan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

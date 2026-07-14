@@ -15,10 +15,10 @@ Border family tartan, recorded 1983 from a pattern book at Jardines Outfitters, 
 The **Crozier** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/">Crozier</a></td><td><code>W/8 DB10 R6 DB44 LY8 K6 G34 R14 K4 R14 LY/4</code></td><td>292</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><img src="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/sett.png" alt="Crozier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/">Crozier</a></td><td></td><td><code>W/8 DB10 R6 DB44 LY8 K6 G34 R14 K4 R14 LY/4</code></td><td>292</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><img src="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/sett.png" alt="Crozier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

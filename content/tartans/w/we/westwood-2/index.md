@@ -18,10 +18,10 @@ Its design is pattern [RWGYKWKYRYKWKYGWRW](/stripes/rwgykwkyrykwkygwrw/) — the
 The **Westwood** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1~x2/">Westwood</a></td><td><code>R/12 LB8 DG32 LY4 K2 W12 K2 LY60 R30 LY60 K2 W12 K2 LY4 DG32 LB8 R12 W/2</code></td><td>578</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1~x2/"><img src="/variants/s18/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1~x2/sett.png" alt="Westwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1~x2/">Westwood</a></td><td></td><td><code>R/12 LB8 DG32 LY4 K2 W12 K2 LY60 R30 LY60 K2 W12 K2 LY4 DG32 LB8 R12 W/2</code></td><td>578</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1~x2/"><img src="/variants/s18/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1~x2/sett.png" alt="Westwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BWWKWKWWKGKWBRGRBGW](/stripes/bwwkwkwwkgkwbrgrbgw/) — t
 The **McBain** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5g10w2~x2/">McBain</a></td><td><code>DR/120 W4 LB10 K4 W4 K4 LB10 W4 K4 G24 K4 W4 DR10 R10 G4 R10 DR10 G20 W/4</code></td><td>404</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5g10w2~x2/"><img src="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5g10w2~x2/sett.png" alt="McBain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5g10w2~x2/">McBain</a></td><td></td><td><code>DR/120 W4 LB10 K4 W4 K4 LB10 W4 K4 G24 K4 W4 DR10 R10 G4 R10 DR10 G20 W/4</code></td><td>404</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5g10w2~x2/"><img src="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5g10w2~x2/sett.png" alt="McBain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

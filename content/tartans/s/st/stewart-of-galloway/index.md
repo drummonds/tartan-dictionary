@@ -20,12 +20,12 @@ The **Stewart of Galloway** tartan groups 2 setts — the same named design reco
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/">Stewart of Galloway</a> ★</td><td><code>K/12 R96 K16 LY4 K8 W4 DB16 DG24 R12 K4 R8 W/4</code></td><td>400</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><img src="/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/sett.png" alt="Stewart of Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/">Stewart of Galloway</a></td><td><code>K/6 R48 K8 Y2 K4 W2 DB8 G12 R6 K2 R4 W/2</code></td><td>200</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/"><img src="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/sett.png" alt="Stewart of Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/">Stewart of Galloway</a> ★</td><td></td><td><code>K/12 R96 K16 LY4 K8 W4 DB16 DG24 R12 K4 R8 W/4</code></td><td>400</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><img src="/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/sett.png" alt="Stewart of Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/">Stewart of Galloway</a></td><td>0.08</td><td><code>K/6 R48 K8 Y2 K4 W2 DB8 G12 R6 K2 R4 W/2</code></td><td>200</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/"><img src="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/sett.png" alt="Stewart of Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

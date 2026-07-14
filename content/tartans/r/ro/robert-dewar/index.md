@@ -15,10 +15,10 @@ Designed by Neil Dewar for his July 2009 wedding, based on Dewar Highlander corp
 The **Robert Dewar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/">Robert Dewar</a></td><td><code>DG/30 DB16 K10 DB16 DG30 Y6 DG30 DB16 K/10</code></td><td>288</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/"><img src="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/sett.png" alt="Robert Dewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/">Robert Dewar</a></td><td></td><td><code>DG/30 DB16 K10 DB16 DG30 Y6 DG30 DB16 K/10</code></td><td>288</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/"><img src="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/sett.png" alt="Robert Dewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

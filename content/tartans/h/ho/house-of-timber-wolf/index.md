@@ -13,10 +13,10 @@ Its design is pattern [WBWBWBGBGBWBRBGGGBRBGGBWGWBGW](/stripes/wbwbwbgbgbwbrbggg
 The **House of Timber Wolf** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/">House of Timber Wolf</a></td><td><code>W/46 DT4 W4 DT4 W4 DT44 DG24 DT4 DG24 DT20 W6 DT2 R4 DT20 Y16 DG8 Y16 DT20 R4 DT2 DG10 Y46 DT44 W4 DG4 W4 DT4 Y4 W/4</code></td><td>750</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/"><img src="/variants/s29/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/sett.png" alt="House of Timber Wolf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/">House of Timber Wolf</a></td><td></td><td><code>W/46 DT4 W4 DT4 W4 DT44 DG24 DT4 DG24 DT20 W6 DT2 R4 DT20 Y16 DG8 Y16 DT20 R4 DT2 DG10 Y46 DT44 W4 DG4 W4 DT4 Y4 W/4</code></td><td>750</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/"><img src="/variants/s29/w23dt2w2dt2w2dt22dg12dt2dg12dt10w3dt1r2dt10y8dg4y8dt10r2dt1dg5y23dt22w2dg2w2dt2y2w2~x2/sett.png" alt="House of Timber Wolf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

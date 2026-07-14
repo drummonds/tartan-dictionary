@@ -15,10 +15,10 @@ Created 2009 for the Irish-origin Hanly family, with colours from their coat of 
 The **Hanly** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/">Hanly</a></td><td><code>Y/4 K4 G14 K10 DG52 K18 LB4 G4 DG6 G4 DG4 G4 DG4 G6 DG4 G/4</code></td><td>284</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/"><img src="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/sett.png" alt="Hanly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/">Hanly</a></td><td></td><td><code>Y/4 K4 G14 K10 DG52 K18 LB4 G4 DG6 G4 DG4 G4 DG4 G6 DG4 G/4</code></td><td>284</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/"><img src="/variants/s16/y2k2g7k5dg26k9lb2g2dg3g2dg2g2dg2g3dg2g2~x2/sett.png" alt="Hanly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

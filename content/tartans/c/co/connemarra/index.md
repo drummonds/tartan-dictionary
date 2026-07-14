@@ -15,10 +15,10 @@ Irish district tartan representing the wild, picturesque Connemara area of north
 The **Connemarra** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/">Connemarra</a></td><td><code>LB/8 DY2 G2 DR60 G44 K6 G44 DR60 G2 DY2 LB8 G/4</code></td><td>472</td><td>~1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/"><img src="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/sett.png" alt="Connemarra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/">Connemarra</a></td><td></td><td><code>LB/8 DY2 G2 DR60 G44 K6 G44 DR60 G2 DY2 LB8 G/4</code></td><td>472</td><td>~1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/"><img src="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/sett.png" alt="Connemarra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

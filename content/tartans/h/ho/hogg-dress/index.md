@@ -18,10 +18,10 @@ Its design is pattern [WKGKWBWRW](/stripes/wkgkwbwrw/) — the page of every tar
 The **Hogg Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/">Hogg Dress</a></td><td><code>LB/34 R3 LB8 DB4 LB8 K24 G34 K2 W/6</code></td><td>206</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><img src="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/sett.png" alt="Hogg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/">Hogg Dress</a></td><td></td><td><code>LB/34 R3 LB8 DB4 LB8 K24 G34 K2 W/6</code></td><td>206</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><img src="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/sett.png" alt="Hogg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [WKWYRYWW](/stripes/wkwyryww/) — the page of every tarta
 The **Lalage** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/">Lalage</a></td><td><code>LB/8 K26 LB34 LY4 R4 LY48 LB4 W/4</code></td><td>252</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/"><img src="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/sett.png" alt="Lalage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/">Lalage</a></td><td></td><td><code>LB/8 K26 LB34 LY4 R4 LY48 LB4 W/4</code></td><td>252</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/"><img src="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/sett.png" alt="Lalage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BRWBWBWBWBWBWR](/stripes/brwbwbwbwbwbwr/) — the page of
 The **Jubilation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/">Jubilation</a></td><td><code>R/22 W26 DB60 W26 DB22 W4 DB16 W4 DB22 W26 DB60 W26 R22 DB/4</code></td><td>654</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/"><img src="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/sett.png" alt="Jubilation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/">Jubilation</a></td><td></td><td><code>R/22 W26 DB60 W26 DB22 W4 DB16 W4 DB22 W26 DB60 W26 R22 DB/4</code></td><td>654</td><td>1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/"><img src="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/sett.png" alt="Jubilation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

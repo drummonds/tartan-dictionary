@@ -13,10 +13,10 @@ Its design is pattern [GBBBGG](/stripes/gbbbgg/) — the page of every tartan sh
 The **Scottish Ballet** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/">Scottish Ballet</a></td><td><code>DY/10 G44 DP30 DPi22 DP10 G/4</code></td><td>226</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/"><img src="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/sett.png" alt="Scottish Ballet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/">Scottish Ballet</a></td><td></td><td><code>DY/10 G44 DP30 DPi22 DP10 G/4</code></td><td>226</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/"><img src="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/sett.png" alt="Scottish Ballet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

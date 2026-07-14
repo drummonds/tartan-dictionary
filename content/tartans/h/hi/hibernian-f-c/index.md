@@ -13,10 +13,10 @@ Its design is pattern [GWGKGBKW](/stripes/gwgkgbkw/) — the page of every tarta
 The **Hibernian F. C.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/">Hibernian F. C.</a></td><td><code>G/42 W4 G42 K34 DG24 DP12 K4 W/2</code></td><td>284</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/"><img src="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/sett.png" alt="Hibernian F. C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/">Hibernian F. C.</a></td><td></td><td><code>G/42 W4 G42 K34 DG24 DP12 K4 W/2</code></td><td>284</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/"><img src="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/sett.png" alt="Hibernian F. C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

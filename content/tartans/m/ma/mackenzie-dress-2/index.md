@@ -18,10 +18,10 @@ Its design is pattern [RKBKGKWKGKWBWBW](/stripes/rkbkgkwkgkwbwbw/) — the page 
 The **MacKenzie Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/">MacKenzie Dress</a></td><td><code>W/32 DB6 W6 DB6 W6 K32 G26 K2 W6 K2 G26 K32 DB32 K2 R/6</code></td><td>406</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/"><img src="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/sett.png" alt="MacKenzie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/">MacKenzie Dress</a></td><td></td><td><code>W/32 DB6 W6 DB6 W6 K32 G26 K2 W6 K2 G26 K32 DB32 K2 R/6</code></td><td>406</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/"><img src="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/sett.png" alt="MacKenzie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

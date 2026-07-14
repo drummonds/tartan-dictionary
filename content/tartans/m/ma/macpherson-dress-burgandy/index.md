@@ -16,10 +16,10 @@ Its design is pattern [GRWRWKW](/stripes/grwrwkw/) — the page of every tartan 
 The **MacPherson Dress Burgandy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w4k2w25r21w3r8y3~x2/">MacPherson Dress Burgandy</a></td><td><code>W/8 K4 W50 R42 W6 R16 Y/6</code></td><td>250</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><img src="/variants/s7/w4k2w25r21w3r8y3~x2/sett.png" alt="MacPherson Dress Burgandy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w4k2w25r21w3r8y3~x2/">MacPherson Dress Burgandy</a></td><td></td><td><code>W/8 K4 W50 R42 W6 R16 Y/6</code></td><td>250</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><img src="/variants/s7/w4k2w25r21w3r8y3~x2/sett.png" alt="MacPherson Dress Burgandy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

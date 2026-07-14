@@ -13,10 +13,10 @@ Its design is pattern [GBGBBYWYW](/stripes/gbgbbywyw/) — the page of every tar
 The **Sean F Forrester** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y3dt4y1dt15dp24lr15w1lr4w3~x4~dt1300000-lr2700000/">Sean F Forrester</a></td><td><code>Y/12 DT16 Y4 DT60 DP96 LR60 W4 LR16 W/12</code></td><td>536</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y3dt4y1dt15dp24lr15w1lr4w3~x4~dt1300000-lr2700000/"><img src="/variants/s9/y3dt4y1dt15dp24lr15w1lr4w3~x4~dt1300000-lr2700000/sett.png" alt="Sean F Forrester sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y3dt4y1dt15dp24lr15w1lr4w3~x4~dt1300000-lr2700000/">Sean F Forrester</a></td><td></td><td><code>Y/12 DT16 Y4 DT60 DP96 LR60 W4 LR16 W/12</code></td><td>536</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y3dt4y1dt15dp24lr15w1lr4w3~x4~dt1300000-lr2700000/"><img src="/variants/s9/y3dt4y1dt15dp24lr15w1lr4w3~x4~dt1300000-lr2700000/sett.png" alt="Sean F Forrester sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

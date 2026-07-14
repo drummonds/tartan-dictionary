@@ -13,10 +13,10 @@ Its design is pattern [WKGRKGRW](/stripes/wkgrkgrw/) — the page of every tarta
 The **Al Suwaidi of Abu Dhabi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/">Al Suwaidi of Abu Dhabi</a></td><td><code>W/10 R35 G35 K35 R10 G10 K10 W/5</code></td><td>285</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><img src="/variants/s8/w2r7g7k7r2g2k2w1~x5/sett.png" alt="Al Suwaidi of Abu Dhabi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/">Al Suwaidi of Abu Dhabi</a></td><td></td><td><code>W/10 R35 G35 K35 R10 G10 K10 W/5</code></td><td>285</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><img src="/variants/s8/w2r7g7k7r2g2k2w1~x5/sett.png" alt="Al Suwaidi of Abu Dhabi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

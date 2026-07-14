@@ -20,12 +20,12 @@ The **Avalon** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/">Avalon</a> ★</td><td><code>R/10 DG6 Y12 W6 Y10 K110 W/10</code></td><td>308</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><img src="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/sett.png" alt="Avalon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r5g3y6w3y5k55w5~x2/">(Corporate)</a></td><td><code>R/10 G6 Y12 W6 Y10 K110 W/10</code></td><td>308</td><td>~2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r5g3y6w3y5k55w5~x2/"><img src="/variants/s7/r5g3y6w3y5k55w5~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/">Avalon</a> ★</td><td></td><td><code>R/10 DG6 Y12 W6 Y10 K110 W/10</code></td><td>308</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><img src="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/sett.png" alt="Avalon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r5g3y6w3y5k55w5~x2/">(Corporate)</a></td><td>0.01</td><td><code>R/10 G6 Y12 W6 Y10 K110 W/10</code></td><td>308</td><td>~2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r5g3y6w3y5k55w5~x2/"><img src="/variants/s7/r5g3y6w3y5k55w5~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

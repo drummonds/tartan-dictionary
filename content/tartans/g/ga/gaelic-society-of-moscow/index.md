@@ -13,10 +13,10 @@ Its design is pattern [KGKGRGRGK](/stripes/kgkgrgrgk/) — the page of every tar
 The **Gaelic Society of Moscow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/">Gaelic Society of Moscow</a></td><td><code>K/30 G4 K4 G8 R4 G4 R4 G4 K/4</code></td><td>98</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/"><img src="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/sett.png" alt="Gaelic Society of Moscow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/">Gaelic Society of Moscow</a></td><td></td><td><code>K/30 G4 K4 G8 R4 G4 R4 G4 K/4</code></td><td>98</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/"><img src="/variants/s9/k15g2k2g4r2g2r2g2k2~x2/sett.png" alt="Gaelic Society of Moscow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

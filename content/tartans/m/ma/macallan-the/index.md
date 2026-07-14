@@ -16,10 +16,10 @@ Its design is pattern [GYBYBRBRBRGRBRBYBY](/stripes/gybybrbrbrgrbrbyby/) — the
 The **Macallan The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/lo74do6lo6do8r6do6r71dg6r6db6r71do6r6do8lo6do6lo74dy8/">Macallan The</a></td><td><code>LO/74 DO6 LO6 DO8 R6 DO6 R71 DG6 R6 DB6 R71 DO6 R6 DO8 LO6 DO6 LO74 DY/8</code></td><td>678</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/lo74do6lo6do8r6do6r71dg6r6db6r71do6r6do8lo6do6lo74dy8/"><img src="/variants/s18/lo74do6lo6do8r6do6r71dg6r6db6r71do6r6do8lo6do6lo74dy8/sett.png" alt="Macallan The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/lo74do6lo6do8r6do6r71dg6r6db6r71do6r6do8lo6do6lo74dy8/">Macallan The</a></td><td></td><td><code>LO/74 DO6 LO6 DO8 R6 DO6 R71 DG6 R6 DB6 R71 DO6 R6 DO8 LO6 DO6 LO74 DY/8</code></td><td>678</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/lo74do6lo6do8r6do6r71dg6r6db6r71do6r6do8lo6do6lo74dy8/"><img src="/variants/s18/lo74do6lo6do8r6do6r71dg6r6db6r71do6r6do8lo6do6lo74dy8/sett.png" alt="Macallan The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

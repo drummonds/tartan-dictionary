@@ -18,10 +18,10 @@ Texas school tartan in old gold and true navy, derived from its pipe band tartan
 The **Highland Park High School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/">Highland Park High School</a></td><td><code>DB/76 W4 DB24 W4 DB8 W8 Y8 W4 Y/72</code></td><td>268</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/"><img src="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/sett.png" alt="Highland Park High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/">Highland Park High School</a></td><td></td><td><code>DB/76 W4 DB24 W4 DB8 W8 Y8 W4 Y/72</code></td><td>268</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/"><img src="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/sett.png" alt="Highland Park High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

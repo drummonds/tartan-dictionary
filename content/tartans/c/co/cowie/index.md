@@ -13,10 +13,10 @@ Its design is pattern [GGBKBR](/stripes/ggbkbr/) — the page of every tartan sh
 The **Cowie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/">Cowie</a></td><td><code>R/6 DB48 K14 DBi22 G22 Y/4</code></td><td>222</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><img src="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/sett.png" alt="Cowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/">Cowie</a></td><td></td><td><code>R/6 DB48 K14 DBi22 G22 Y/4</code></td><td>222</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><img src="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/sett.png" alt="Cowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

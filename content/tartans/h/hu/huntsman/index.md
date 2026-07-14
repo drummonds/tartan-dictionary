@@ -13,10 +13,10 @@ Its design is pattern [GGGKGKGG](/stripes/gggkgkgg/) — the page of every tarta
 The **Huntsman** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/">Huntsman</a></td><td><code>G/6 DYi6 G8 K8 DY28 K6 G82 Gi/4</code></td><td>286</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/"><img src="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/sett.png" alt="Huntsman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/">Huntsman</a></td><td></td><td><code>G/6 DYi6 G8 K8 DY28 K6 G82 Gi/4</code></td><td>286</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/"><img src="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/sett.png" alt="Huntsman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

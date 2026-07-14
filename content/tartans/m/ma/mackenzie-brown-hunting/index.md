@@ -18,10 +18,10 @@ Its design is pattern [RKYKRKWKRKYKYKY](/stripes/rkykrkwkrkykyky/) — the page 
 The **MacKenzie Brown Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2~x2/">MacKenzie Brown Hunting</a></td><td><code>LY/24 K4 LY4 K4 LY4 K24 O24 K2 W4 K2 O24 K24 LY24 K2 R/4</code></td><td>320</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2~x2/"><img src="/variants/s15/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2~x2/sett.png" alt="MacKenzie Brown Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2~x2/">MacKenzie Brown Hunting</a></td><td></td><td><code>LY/24 K4 LY4 K4 LY4 K24 O24 K2 W4 K2 O24 K24 LY24 K2 R/4</code></td><td>320</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2~x2/"><img src="/variants/s15/ly12k2ly2k2ly2k12o12k1w2k1o12k12ly12k1r2~x2/sett.png" alt="MacKenzie Brown Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GWGWGGKGWR](/stripes/gwgwggkgwr/) — the page of every t
 The **Glendale** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dy5w1dy5w1g6y1k1y1lb8r1~x4/">Glendale</a></td><td><code>DY/20 W4 DY20 W4 G24 Y4 K4 Y4 LB32 R/4</code></td><td>216</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dy5w1dy5w1g6y1k1y1lb8r1~x4/"><img src="/variants/s10/dy5w1dy5w1g6y1k1y1lb8r1~x4/sett.png" alt="Glendale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dy5w1dy5w1g6y1k1y1lb8r1~x4/">Glendale</a></td><td></td><td><code>DY/20 W4 DY20 W4 G24 Y4 K4 Y4 LB32 R/4</code></td><td>216</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dy5w1dy5w1g6y1k1y1lb8r1~x4/"><img src="/variants/s10/dy5w1dy5w1g6y1k1y1lb8r1~x4/sett.png" alt="Glendale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

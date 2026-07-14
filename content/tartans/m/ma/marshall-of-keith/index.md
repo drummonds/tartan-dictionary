@@ -18,10 +18,10 @@ Its design is pattern [BKBGG](/stripes/bkbgg/) — the page of every tartan shar
 The **Marshall of Keith** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/b10k10b10dg26y5~x2/">Marshall of Keith</a></td><td><code>B/20 K20 B20 DG52 Y/10</code></td><td>214</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/b10k10b10dg26y5~x2/"><img src="/variants/s5/b10k10b10dg26y5~x2/sett.png" alt="Marshall of Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/b10k10b10dg26y5~x2/">Marshall of Keith</a></td><td></td><td><code>B/20 K20 B20 DG52 Y/10</code></td><td>214</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/b10k10b10dg26y5~x2/"><img src="/variants/s5/b10k10b10dg26y5~x2/sett.png" alt="Marshall of Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

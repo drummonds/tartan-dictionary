@@ -18,10 +18,10 @@ Its design is pattern [BKGKGKBBKBGKYKWKG](/stripes/bkgkgkbbkbgkykwkg/) — the p
 The **Nicolson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/">Nicolson</a></td><td><code>DB/24 K2 G2 K2 G2 K2 DB18 DR4 K36 DR4 G18 K2 LO2 K2 LB2 K2 G/24</code></td><td>248</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/"><img src="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/sett.png" alt="Nicolson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/">Nicolson</a></td><td></td><td><code>DB/24 K2 G2 K2 G2 K2 DB18 DR4 K36 DR4 G18 K2 LO2 K2 LB2 K2 G/24</code></td><td>248</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/"><img src="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/sett.png" alt="Nicolson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

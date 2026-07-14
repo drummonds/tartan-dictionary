@@ -18,10 +18,10 @@ Its design is pattern [BRGBRGRBGRGBRW](/stripes/brgbrgrbgrgbrw/) — the page of
 The **MacKinnon 10** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/">MacKinnon 10</a></td><td><code>DP/6 R8 G6 DB6 R14 G34 R6 DB10 G8 R42 G14 DP6 R12 W/6</code></td><td>344</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/"><img src="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/sett.png" alt="MacKinnon 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/">MacKinnon 10</a></td><td></td><td><code>DP/6 R8 G6 DB6 R14 G34 R6 DB10 G8 R42 G14 DP6 R12 W/6</code></td><td>344</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/"><img src="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/sett.png" alt="MacKinnon 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **Scott** tartan groups 2 setts — the same named design recorded as differ
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/">Scott</a> ★</td><td><code>R/8 G8 W6 G8 R8 G28 R56 K2 R6 G/8</code></td><td>260</td><td>1829</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><img src="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/">Red Clan Tartan</a></td><td><code>R/8 G8 W6 G8 R8 G28 R56 K4 R4 G/6</code></td><td>258</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/"><img src="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/sett.png" alt="Red Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/">Scott</a> ★</td><td></td><td><code>R/8 G8 W6 G8 R8 G28 R56 K2 R6 G/8</code></td><td>260</td><td>1829</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><img src="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/">Red Clan Tartan</a></td><td>0.50</td><td><code>R/8 G8 W6 G8 R8 G28 R56 K4 R4 G/6</code></td><td>258</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/"><img src="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/sett.png" alt="Red Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

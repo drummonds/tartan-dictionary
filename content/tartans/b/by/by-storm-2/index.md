@@ -13,10 +13,10 @@ Its design is pattern [GRGBRKBKBKBK](/stripes/grgbrkbkbkbk/) — the page of eve
 The **By Storm** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g19ri3g19db7r26k3db7k3dp42k3db7k3~x2~ri2806019-r1807008/">By Storm</a></td><td><code>G/38 Ri6 G38 DB14 R52 K6 DB14 K6 DP84 K6 DB14 K/6</code></td><td>524</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g19ri3g19db7r26k3db7k3dp42k3db7k3~x2~ri2806019-r1807008/"><img src="/variants/s12/g19ri3g19db7r26k3db7k3dp42k3db7k3~x2~ri2806019-r1807008/sett.png" alt="By Storm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g19ri3g19db7r26k3db7k3dp42k3db7k3~x2~ri2806019-r1807008/">By Storm</a></td><td></td><td><code>G/38 Ri6 G38 DB14 R52 K6 DB14 K6 DP84 K6 DB14 K/6</code></td><td>524</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g19ri3g19db7r26k3db7k3dp42k3db7k3~x2~ri2806019-r1807008/"><img src="/variants/s12/g19ri3g19db7r26k3db7k3dp42k3db7k3~x2~ri2806019-r1807008/sett.png" alt="By Storm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

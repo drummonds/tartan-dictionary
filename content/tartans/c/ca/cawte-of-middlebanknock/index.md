@@ -18,10 +18,10 @@ Its design is pattern [GGWGRGKGR](/stripes/ggwgrgkgr/) — the page of every tar
 The **Cawte of Middlebanknock** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/">Cawte of Middlebanknock</a></td><td><code>G/26 Y32 W8 Y8 R8 Y8 K40 Y16 R/16</code></td><td>282</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><img src="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/sett.png" alt="Cawte of Middlebanknock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/">Cawte of Middlebanknock</a></td><td></td><td><code>G/26 Y32 W8 Y8 R8 Y8 K40 Y16 R/16</code></td><td>282</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><img src="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/sett.png" alt="Cawte of Middlebanknock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

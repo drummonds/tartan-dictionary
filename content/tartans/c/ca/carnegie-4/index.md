@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRKWRWRWRG](/stripes/brbrbrkwrwrwrg/) — the page of
 The **Carnegie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/">Carnegie</a></td><td><code>DB/20 R4 DB4 R8 DB24 R4 K28 W26 R8 W4 R4 W8 R2 Y/6</code></td><td>274</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/"><img src="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/sett.png" alt="Carnegie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/">Carnegie</a></td><td></td><td><code>DB/20 R4 DB4 R8 DB24 R4 K28 W26 R8 W4 R4 W8 R2 Y/6</code></td><td>274</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/"><img src="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/sett.png" alt="Carnegie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

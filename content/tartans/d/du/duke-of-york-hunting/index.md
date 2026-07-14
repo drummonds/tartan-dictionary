@@ -13,10 +13,10 @@ Its design is pattern [GBWBGBGG](/stripes/gbwbgbgg/) — the page of every tarta
 The **Duke of York Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g99db20w8db30y8db10y8g46/">Duke of York Hunting</a></td><td><code>G/99 DB20 W8 DB30 Y8 DB10 Y8 G/46</code></td><td>313</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g99db20w8db30y8db10y8g46/"><img src="/variants/s8/g99db20w8db30y8db10y8g46/sett.png" alt="Duke of York Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g99db20w8db30y8db10y8g46/">Duke of York Hunting</a></td><td></td><td><code>G/99 DB20 W8 DB30 Y8 DB10 Y8 G/46</code></td><td>313</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g99db20w8db30y8db10y8g46/"><img src="/variants/s8/g99db20w8db30y8db10y8g46/sett.png" alt="Duke of York Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BBBGRGRBRWR](/stripes/bbbgrgrbrwr/) — the page of every
 The **Hueg Formal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/">Hueg Formal</a></td><td><code>N/8 DP6 N26 DG16 R24 G8 R24 N8 R10 W8 R/8</code></td><td>276</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/"><img src="/variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/sett.png" alt="Hueg Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/">Hueg Formal</a></td><td></td><td><code>N/8 DP6 N26 DG16 R24 G8 R24 N8 R10 W8 R/8</code></td><td>276</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/"><img src="/variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/sett.png" alt="Hueg Formal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

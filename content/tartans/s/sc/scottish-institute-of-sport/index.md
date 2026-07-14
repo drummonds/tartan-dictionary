@@ -13,10 +13,10 @@ Its design is pattern [BGBRBRWWWRBRBG](/stripes/bgbrbrwwwrbrbg/) — the page of
 The **Scottish Institute of Sport** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/">Scottish Institute of Sport</a></td><td><code>Y/8 DR46 R8 DR4 R8 LB38 W8 LB38 R8 DR4 R8 DR46 Y8 DR/4</code></td><td>460</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/"><img src="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/sett.png" alt="Scottish Institute of Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/">Scottish Institute of Sport</a></td><td></td><td><code>Y/8 DR46 R8 DR4 R8 LB38 W8 LB38 R8 DR4 R8 DR46 Y8 DR/4</code></td><td>460</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/"><img src="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/sett.png" alt="Scottish Institute of Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

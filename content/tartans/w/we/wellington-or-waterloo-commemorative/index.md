@@ -16,10 +16,10 @@ Its design is pattern [WGKWRW](/stripes/wgkwrw/) — the page of every tartan sh
 The **Wellington or Waterloo Commemorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/">Wellington or Waterloo Commemorative</a></td><td><code>LB/6 G12 K12 LB8 R2 LB/2</code></td><td>76</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/"><img src="/variants/s6/lb3g6k6lb4r1lb1~x2/sett.png" alt="Wellington or Waterloo Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/">Wellington or Waterloo Commemorative</a></td><td></td><td><code>LB/6 G12 K12 LB8 R2 LB/2</code></td><td>76</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/"><img src="/variants/s6/lb3g6k6lb4r1lb1~x2/sett.png" alt="Wellington or Waterloo Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

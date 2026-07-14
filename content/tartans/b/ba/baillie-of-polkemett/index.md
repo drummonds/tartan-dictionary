@@ -21,13 +21,13 @@ The **Baillie of Polkemett** tartan is one sett, recorded at 2 scales — the sa
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/">Baillie of Polkemett</a></td><td><code>DB/11 K1 DB1 K1 DB1 K9 G9 W1 G1 W1 G1 W1 G9 K9 DB8 K1 DB/1</code></td><td>120</td><td>1937</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/"><img src="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/sett.png" alt="Baillie of Polkemett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/">Family Tartan</a></td><td><code>DB/22 K2 DB2 K2 DB2 K18 G18 W2 G2 W2 G2 W2 G18 K18 DB16 K2 DB/2</code></td><td>240</td><td>1937</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x4/">Baillie of Polkemmet</a></td><td><code>DB/44 K4 DB4 K4 DB4 K36 G36 W4 G4 W4 G4 W4 G36 K36 DB32 K4 DB/4</code></td><td>480</td><td>1937</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/">Family Tartan</a> · <a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x4/">Baillie of Polkemmet</a></td></tr>
+<tr><td><a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/">Baillie of Polkemett</a></td><td></td><td><code>DB/11 K1 DB1 K1 DB1 K9 G9 W1 G1 W1 G1 W1 G9 K9 DB8 K1 DB/1</code></td><td>120</td><td>1937</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/"><img src="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/sett.png" alt="Baillie of Polkemett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/">Family Tartan</a></td><td>0.00</td><td><code>DB/22 K2 DB2 K2 DB2 K18 G18 W2 G2 W2 G2 W2 G18 K18 DB16 K2 DB/2</code></td><td>240</td><td>1937</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x4/">Baillie of Polkemmet</a></td><td>0.00</td><td><code>DB/44 K4 DB4 K4 DB4 K36 G36 W4 G4 W4 G4 W4 G36 K36 DB32 K4 DB/4</code></td><td>480</td><td>1937</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/">Family Tartan</a> · <a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x4/">Baillie of Polkemmet</a></td></tr>
 </tbody>
 </table>
 

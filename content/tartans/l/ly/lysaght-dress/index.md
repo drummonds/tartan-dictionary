@@ -18,10 +18,10 @@ Its design is pattern [BWBWBWBWBYBY](/stripes/bwbwbwbwbyby/) — the page of eve
 The **Lysaght Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/">Lysaght Dress</a></td><td><code>DR/24 W16 DR24 W44 DB4 W12 DB12 W4 DB44 LY24 DB16 LY/24</code></td><td>448</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/"><img src="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/sett.png" alt="Lysaght Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/">Lysaght Dress</a></td><td></td><td><code>DR/24 W16 DR24 W44 DB4 W12 DB12 W4 DB44 LY24 DB16 LY/24</code></td><td>448</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/"><img src="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/sett.png" alt="Lysaght Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

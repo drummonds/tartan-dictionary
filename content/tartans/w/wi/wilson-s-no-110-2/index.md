@@ -13,10 +13,10 @@ Its design is pattern [GKWRGKWBW](/stripes/gkwrgkwbw/) — the page of every tar
 The **Wilson's, No 110** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/">Wilson's, No 110</a></td><td><code>Y/6 K4 LB6 R28 G38 K6 W6 DP20 LB/6</code></td><td>228</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/"><img src="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/sett.png" alt="Wilson's, No 110 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/">Wilson's, No 110</a></td><td></td><td><code>Y/6 K4 LB6 R28 G38 K6 W6 DP20 LB/6</code></td><td>228</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/"><img src="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/sett.png" alt="Wilson's, No 110 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

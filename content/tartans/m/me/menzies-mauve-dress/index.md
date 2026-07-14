@@ -16,10 +16,10 @@ Its design is pattern [BWKWKWKW](/stripes/bwkwkwkw/) — the page of every tarta
 The **Menzies Mauve Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dp120w10k4w11k3w5k3w19/">Menzies Mauve Dress</a></td><td><code>DP/120 W10 K4 W11 K3 W5 K3 W/19</code></td><td>211</td><td>~1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dp120w10k4w11k3w5k3w19/"><img src="/variants/s8/dp120w10k4w11k3w5k3w19/sett.png" alt="Menzies Mauve Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dp120w10k4w11k3w5k3w19/">Menzies Mauve Dress</a></td><td></td><td><code>DP/120 W10 K4 W11 K3 W5 K3 W/19</code></td><td>211</td><td>~1870</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dp120w10k4w11k3w5k3w19/"><img src="/variants/s8/dp120w10k4w11k3w5k3w19/sett.png" alt="Menzies Mauve Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KBKBKBKGKWGKWBWBWBWBWKGKWKGKBKRKBKGKWKGKWBWBWBWBWKGWKGKBK
 The **Kilbarchan Unidentified No. 14** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/">Kilbarchan Unidentified No. 14</a></td><td><code>W/6 T4 W28 T6 W6 K10 DG24 K2 W6 K2 DG24 K24 T4 K4 T4 K4 T24 K4 T4 K4 T4 K24 DG24 K2 W6 DG24 K10 W6 T6 W28 T4 W6 T4 W28 T6 W6 K10 DG24 K2 W6 K2 DG24 K24 T24 K2 R6 K2 T24 K24 DG24 K2 W6 K2 DG24 K10 W6 T6 W28 T4 W6 T4 W28 T6 W6 K10 DG24 W6 K2 DG24 K28 T4 K4 T24 K4 T4 K/4</code></td><td>1702</td><td>1950</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/"><img src="/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/sett.png" alt="Kilbarchan Unidentified No. 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/">Kilbarchan Unidentified No. 14</a></td><td></td><td><code>W/6 T4 W28 T6 W6 K10 DG24 K2 W6 K2 DG24 K24 T4 K4 T4 K4 T24 K4 T4 K4 T4 K24 DG24 K2 W6 DG24 K10 W6 T6 W28 T4 W6 T4 W28 T6 W6 K10 DG24 K2 W6 K2 DG24 K24 T24 K2 R6 K2 T24 K24 DG24 K2 W6 K2 DG24 K10 W6 T6 W28 T4 W6 T4 W28 T6 W6 K10 DG24 W6 K2 DG24 K28 T4 K4 T24 K4 T4 K/4</code></td><td>1702</td><td>1950</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/"><img src="/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/sett.png" alt="Kilbarchan Unidentified No. 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

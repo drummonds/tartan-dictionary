@@ -20,12 +20,12 @@ The **Ogg of Tarragann** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/">Ogg of Tarragann</a> ★</td><td><code>K/4 LB12 W2 R28 K2 R28 W2 K12 DG20 LY2 DG4 LY/4</code></td><td>232</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><img src="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/sett.png" alt="Ogg of Tarragann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/">(Personal)</a></td><td><code>K/4 LB12 W2 R28 K2 R28 W2 K12 G20 LY2 G4 LY/4</code></td><td>232</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/"><img src="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/">Ogg of Tarragann</a> ★</td><td></td><td><code>K/4 LB12 W2 R28 K2 R28 W2 K12 DG20 LY2 DG4 LY/4</code></td><td>232</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><img src="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/sett.png" alt="Ogg of Tarragann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/">(Personal)</a></td><td>0.10</td><td><code>K/4 LB12 W2 R28 K2 R28 W2 K12 G20 LY2 G4 LY/4</code></td><td>232</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/"><img src="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

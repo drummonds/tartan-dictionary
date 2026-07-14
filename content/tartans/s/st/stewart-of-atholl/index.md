@@ -20,10 +20,10 @@ Prepared for the Vestiarium Scoticum but unpublished; later claimed as a '45 rel
 The **Stewart of Atholl** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/">Stewart of Atholl</a></td><td><code>G/88 K4 G8 K4 G12 K32 R80 K4 R/12</code></td><td>388</td><td>1829</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/sett.png" alt="Stewart of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/">Stewart of Atholl</a></td><td></td><td><code>G/88 K4 G8 K4 G12 K32 R80 K4 R/12</code></td><td>388</td><td>1829</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/sett.png" alt="Stewart of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

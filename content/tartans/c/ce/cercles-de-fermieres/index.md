@@ -13,10 +13,10 @@ Its design is pattern [BGWBGGGWKBGWGGGKG](/stripes/bgwbgggwkbgwgggkg/) — the p
 The **Cercles de Fermieres** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16~x2/">Cercles de Fermieres</a></td><td><code>DY/32 K8 DY16 G4 DG38 W4 G44 DB30 K8 W6 DG6 Y8 G60 DB50 W10 DG80 DB/32</code></td><td>808</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16~x2/"><img src="/variants/s17/dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16~x2/sett.png" alt="Cercles de Fermieres sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16~x2/">Cercles de Fermieres</a></td><td></td><td><code>DY/32 K8 DY16 G4 DG38 W4 G44 DB30 K8 W6 DG6 Y8 G60 DB50 W10 DG80 DB/32</code></td><td>808</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16~x2/"><img src="/variants/s17/dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16~x2/sett.png" alt="Cercles de Fermieres sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

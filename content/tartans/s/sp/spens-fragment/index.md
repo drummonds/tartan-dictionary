@@ -16,10 +16,10 @@ Its design is pattern [RWBYGGBYWYBGGYBWR](/stripes/rwbyggbywybggybwr/) — the p
 The **Spens Fragment** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r50w2db7ly2dg33g12db7ly3w2ly3db7g12dg33ly2db7w2r17~x2~dg1806142-g2408144/">Spens Fragment</a></td><td><code>R/100 W4 DB14 LY4 DG66 G24 DB14 LY6 W4 LY6 DB14 G24 DG66 LY4 DB14 W4 R/34</code></td><td>670</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r50w2db7ly2dg33g12db7ly3w2ly3db7g12dg33ly2db7w2r17~x2~dg1806142-g2408144/"><img src="/variants/s17/r50w2db7ly2dg33g12db7ly3w2ly3db7g12dg33ly2db7w2r17~x2~dg1806142-g2408144/sett.png" alt="Spens Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r50w2db7ly2dg33g12db7ly3w2ly3db7g12dg33ly2db7w2r17~x2~dg1806142-g2408144/">Spens Fragment</a></td><td></td><td><code>R/100 W4 DB14 LY4 DG66 G24 DB14 LY6 W4 LY6 DB14 G24 DG66 LY4 DB14 W4 R/34</code></td><td>670</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r50w2db7ly2dg33g12db7ly3w2ly3db7g12dg33ly2db7w2r17~x2~dg1806142-g2408144/"><img src="/variants/s17/r50w2db7ly2dg33g12db7ly3w2ly3db7g12dg33ly2db7w2r17~x2~dg1806142-g2408144/sett.png" alt="Spens Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BGBGBGBKGKBKGBGKBKGK](/stripes/bgbgbgbkgkbkgbgkbkgk/) —
 The **Blackwater** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/">Blackwater</a></td><td><code>K/8 DG4 K14 T4 K8 DG34 T4 DG34 K8 T4 K14 DG4 K8 T8 DG4 T32 DG4 T32 DG4 T/8</code></td><td>464</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/"><img src="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/sett.png" alt="Blackwater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/">Blackwater</a></td><td></td><td><code>K/8 DG4 K14 T4 K8 DG34 T4 DG34 K8 T4 K14 DG4 K8 T8 DG4 T32 DG4 T32 DG4 T/8</code></td><td>464</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/"><img src="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/sett.png" alt="Blackwater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

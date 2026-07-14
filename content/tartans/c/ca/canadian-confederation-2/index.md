@@ -15,10 +15,10 @@ Canadian tartan commemorating Canadian Confederation.
 The **Canadian Confederation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s38/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16~x2/">Canadian Confederation</a></td><td><code>R/48 W8 R48 K8 G12 DB52 G2 DB2 G2 DB2 G2 DB2 G2 DB2 G2 DB2 G2 DB2 G16 K48 R24 K8 DB40 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K16 R16 DB/32</code></td><td>768</td><td>1965</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s38/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16~x2/"><img src="/variants/s38/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16~x2/sett.png" alt="Canadian Confederation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s38/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16~x2/">Canadian Confederation</a></td><td></td><td><code>R/48 W8 R48 K8 G12 DB52 G2 DB2 G2 DB2 G2 DB2 G2 DB2 G2 DB2 G2 DB2 G16 K48 R24 K8 DB40 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K16 R16 DB/32</code></td><td>768</td><td>1965</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s38/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16~x2/"><img src="/variants/s38/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16~x2/sett.png" alt="Canadian Confederation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

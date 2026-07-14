@@ -16,10 +16,10 @@ Its design is pattern [BKGBGBWKR](/stripes/bkgbgbwkr/) — the page of every tar
 The **Morgan in Maryland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/">Morgan in Maryland</a></td><td><code>DB/8 K2 G36 DO4 G22 DO22 LB36 K2 R/8</code></td><td>264</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/"><img src="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/sett.png" alt="Morgan in Maryland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/">Morgan in Maryland</a></td><td></td><td><code>DB/8 K2 G36 DO4 G22 DO22 LB36 K2 R/8</code></td><td>264</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/"><img src="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/sett.png" alt="Morgan in Maryland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BRBBRBRBRBRBBR](/stripes/brbbrbrbrbrbbr/) — the page of
 The **Orkney Heather** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/">Orkney Heather</a></td><td><code>DP/4 O2 DP2 DPi4 O2 DP8 O2 N2 Oi43 N2 Oi43 DPi2 DP8 Oi/2</code></td><td>246</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/"><img src="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/sett.png" alt="Orkney Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/">Orkney Heather</a></td><td></td><td><code>DP/4 O2 DP2 DPi4 O2 DP8 O2 N2 Oi43 N2 Oi43 DPi2 DP8 Oi/2</code></td><td>246</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/"><img src="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/sett.png" alt="Orkney Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

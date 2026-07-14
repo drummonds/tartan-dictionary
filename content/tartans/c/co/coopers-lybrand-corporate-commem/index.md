@@ -15,10 +15,10 @@ Corporate commemorative tartan designed by Deirdre Nicholls of Celtic Silks in 1
 The **Coopers & Lybrand Corporate Commem.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4~x2~db1406275-t2405244/">Coopers &amp; Lybrand Corporate Commem.</a></td><td><code>G/8 R2 DB48 T8 K4 G48 R2 DB20 T8 DB4 T8 DB20 R2 G48 K4 T8 DB48 R2 G8 T/8</code></td><td>600</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4~x2~db1406275-t2405244/"><img src="/variants/s20/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4~x2~db1406275-t2405244/sett.png" alt="Coopers &amp; Lybrand Corporate Commem. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4~x2~db1406275-t2405244/">Coopers &amp; Lybrand Corporate Commem.</a></td><td></td><td><code>G/8 R2 DB48 T8 K4 G48 R2 DB20 T8 DB4 T8 DB20 R2 G48 K4 T8 DB48 R2 G8 T/8</code></td><td>600</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4~x2~db1406275-t2405244/"><img src="/variants/s20/g4r1db24t4k2g24r1db10t4db2t4db10r1g24k2t4db24r1g4t4~x2~db1406275-t2405244/sett.png" alt="Coopers &amp; Lybrand Corporate Commem. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GRKRGRGRGRYRK](/stripes/grkrgrgrgryrk/) — the page of e
 The **Bonnie Prince Charlie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k5r7ly23r23dg3r11dg3r23dg18r2k18r5y5/">Bonnie Prince Charlie</a></td><td><code>K/5 R7 LY23 R23 DG3 R11 DG3 R23 DG18 R2 K18 R5 Y/5</code></td><td>282</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k5r7ly23r23dg3r11dg3r23dg18r2k18r5y5/"><img src="/variants/s13/k5r7ly23r23dg3r11dg3r23dg18r2k18r5y5/sett.png" alt="Bonnie Prince Charlie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k5r7ly23r23dg3r11dg3r23dg18r2k18r5y5/">Bonnie Prince Charlie</a></td><td></td><td><code>K/5 R7 LY23 R23 DG3 R11 DG3 R23 DG18 R2 K18 R5 Y/5</code></td><td>282</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k5r7ly23r23dg3r11dg3r23dg18r2k18r5y5/"><img src="/variants/s13/k5r7ly23r23dg3r11dg3r23dg18r2k18r5y5/sett.png" alt="Bonnie Prince Charlie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BGRGRBRGGGRGRGWGRBGRGRGB](/stripes/bgrgrbrgggrgrgwgrbgrgr
 The **Ettrick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2~x2/">Ettrick</a></td><td><code>DB/4 DG4 R2 DG10 R2 DB12 R4 DG2 Y2 DG2 R2 DG2 R2 DG2 LB2 DG2 R4 DB12 DG40 R2 DG2 R2 DG2 DB/4</code></td><td>240</td><td>1971</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2~x2/"><img src="/variants/s24/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2~x2/sett.png" alt="Ettrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2~x2/">Ettrick</a></td><td></td><td><code>DB/4 DG4 R2 DG10 R2 DB12 R4 DG2 Y2 DG2 R2 DG2 R2 DG2 LB2 DG2 R4 DB12 DG40 R2 DG2 R2 DG2 DB/4</code></td><td>240</td><td>1971</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2~x2/"><img src="/variants/s24/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2~x2/sett.png" alt="Ettrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

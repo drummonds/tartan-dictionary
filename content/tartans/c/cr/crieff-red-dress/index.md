@@ -18,10 +18,10 @@ Its design is pattern [KGWGWRBRGRGRR](/stripes/kgwgwrbrgrgrr/) — the page of e
 The **Crieff Red Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/">Crieff Red Dress</a></td><td><code>K/4 G4 W4 G6 W66 R4 DP20 R6 G6 R52 G4 R8 M/4</code></td><td>368</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/"><img src="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/sett.png" alt="Crieff Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/">Crieff Red Dress</a></td><td></td><td><code>K/4 G4 W4 G6 W66 R4 DP20 R6 G6 R52 G4 R8 M/4</code></td><td>368</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/"><img src="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/sett.png" alt="Crieff Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

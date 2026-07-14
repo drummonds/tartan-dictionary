@@ -15,10 +15,10 @@ Designed in memory of the Melrose ancestors of Newbigging and Dunsyre; woven in 
 The **Daniel Melrose** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/">Daniel Melrose</a></td><td><code>W/2 K4 G20 DB2 G4 DB2 G4 K4 DB30 O2 DB4 O2 DB4 O2 DB4 O30 K2 LY/2</code></td><td>244</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/"><img src="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/sett.png" alt="Daniel Melrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/">Daniel Melrose</a></td><td></td><td><code>W/2 K4 G20 DB2 G4 DB2 G4 K4 DB30 O2 DB4 O2 DB4 O2 DB4 O30 K2 LY/2</code></td><td>244</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/"><img src="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/sett.png" alt="Daniel Melrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

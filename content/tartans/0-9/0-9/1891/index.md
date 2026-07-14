@@ -13,10 +13,10 @@ Its design is pattern [KBYKBYBY](/stripes/kbykbyby/) — the page of every tarta
 The **1891** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k40dt10ly1k40dt10ly2dt10ly4~x2/">1891</a></td><td><code>K/80 DT20 LY2 K80 DT20 LY4 DT20 LY/8</code></td><td>380</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k40dt10ly1k40dt10ly2dt10ly4~x2/"><img src="/variants/s8/k40dt10ly1k40dt10ly2dt10ly4~x2/sett.png" alt="1891 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k40dt10ly1k40dt10ly2dt10ly4~x2/">1891</a></td><td></td><td><code>K/80 DT20 LY2 K80 DT20 LY4 DT20 LY/8</code></td><td>380</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k40dt10ly1k40dt10ly2dt10ly4~x2/"><img src="/variants/s8/k40dt10ly1k40dt10ly2dt10ly4~x2/sett.png" alt="1891 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

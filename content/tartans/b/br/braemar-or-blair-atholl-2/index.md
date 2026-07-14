@@ -13,10 +13,10 @@ Its design is pattern [RKRKRKRKWR](/stripes/rkrkrkrkwr/) — the page of every t
 The **Braemar, or Blair Atholl** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/">Braemar, or Blair Atholl</a></td><td><code>O/4 W8 K20 O12 K4 Oi20 K4 Oi44 K4 Oi/4</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/"><img src="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/sett.png" alt="Braemar, or Blair Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/">Braemar, or Blair Atholl</a></td><td></td><td><code>O/4 W8 K20 O12 K4 Oi20 K4 Oi44 K4 Oi/4</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/"><img src="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/sett.png" alt="Braemar, or Blair Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

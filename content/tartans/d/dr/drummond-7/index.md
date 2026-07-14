@@ -22,12 +22,12 @@ The **Drummond** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/">Drummond</a> ★</td><td><code>R/44 DB6 Y2 G24 R12 DB6 LB6 W/2</code></td><td>158</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><img src="/variants/s8/r22db3y1g12r6db3lb3w1~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r38y1db3w1g13r6db3lb3w1~x2/">Ancient</a></td><td><code>R/76 Y2 DB6 W2 G26 R12 DB6 LB6 W/2</code></td><td>198</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r38y1db3w1g13r6db3lb3w1~x2/"><img src="/variants/s9/r38y1db3w1g13r6db3lb3w1~x2/sett.png" alt="Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/">Drummond</a> ★</td><td></td><td><code>R/44 DB6 Y2 G24 R12 DB6 LB6 W/2</code></td><td>158</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><img src="/variants/s8/r22db3y1g12r6db3lb3w1~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r38y1db3w1g13r6db3lb3w1~x2/">Ancient</a></td><td>1.10</td><td><code>R/76 Y2 DB6 W2 G26 R12 DB6 LB6 W/2</code></td><td>198</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r38y1db3w1g13r6db3lb3w1~x2/"><img src="/variants/s9/r38y1db3w1g13r6db3lb3w1~x2/sett.png" alt="Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

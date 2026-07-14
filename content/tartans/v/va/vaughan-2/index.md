@@ -18,10 +18,10 @@ Its design is pattern [KWKWKYKYKYKGKWYWKGKYKYKYKWKWK](/stripes/kwkwkykykykgkwywk
 The **Vaughan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/">Vaughan</a></td><td><code>K/4 W6 K23 W2 K3 LY17 K2 LY4 K2 LY17 K3 DG17 K20 W6 LY4 W6 K20 DG17 K3 LY17 K2 LY4 K2 LY17 K3 W2 K23 W6 K/4</code></td><td>504</td><td>~2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/"><img src="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/sett.png" alt="Vaughan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/">Vaughan</a></td><td></td><td><code>K/4 W6 K23 W2 K3 LY17 K2 LY4 K2 LY17 K3 DG17 K20 W6 LY4 W6 K20 DG17 K3 LY17 K2 LY4 K2 LY17 K3 W2 K23 W6 K/4</code></td><td>504</td><td>~2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/"><img src="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/sett.png" alt="Vaughan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBGBGBGKGKGG](/stripes/bgbgbgbgkgkgg/) — the page of e
 The **Beatrice, Princess..** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/">Beatrice, Princess..</a></td><td><code>B/15 G5 B5 G60 B13 G10 DB67 G5 K5 G5 K5 G13 Y/10</code></td><td>411</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/"><img src="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/sett.png" alt="Beatrice, Princess.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/">Beatrice, Princess..</a></td><td></td><td><code>B/15 G5 B5 G60 B13 G10 DB67 G5 K5 G5 K5 G13 Y/10</code></td><td>411</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/"><img src="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/sett.png" alt="Beatrice, Princess.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

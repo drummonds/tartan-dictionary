@@ -13,11 +13,11 @@ Its design is pattern [GBGKYKYKG](/stripes/gbgkykykg/) — the page of every tar
 The **Cork, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/">Cork, County</a></td><td><code>DG/56 DR24 DG8 K40 LY4 K6 LY4 K6 DG/14</code></td><td>254</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/"><img src="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/sett.png" alt="Cork, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2/">(District)</a> · <a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/">Cork, County</a></td></tr>
+<tr><td><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/">Cork, County</a></td><td></td><td><code>DG/56 DR24 DG8 K40 LY4 K6 LY4 K6 DG/14</code></td><td>254</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/"><img src="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/sett.png" alt="Cork, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2/">(District)</a> · <a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/">Cork, County</a></td></tr>
 </tbody>
 </table>
 

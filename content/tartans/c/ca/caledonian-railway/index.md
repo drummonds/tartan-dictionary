@@ -16,10 +16,10 @@ Its design is pattern [BKYKBWKWBWR](/stripes/bkykbwkwbwr/) — the page of every
 The **Caledonian Railway** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/">Caledonian Railway</a></td><td><code>T/12 K2 LY12 K2 T56 W2 K4 W2 T32 W2 R/10</code></td><td>250</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/"><img src="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/sett.png" alt="Caledonian Railway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/">Caledonian Railway</a></td><td></td><td><code>T/12 K2 LY12 K2 T56 W2 K4 W2 T32 W2 R/10</code></td><td>250</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/"><img src="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/sett.png" alt="Caledonian Railway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

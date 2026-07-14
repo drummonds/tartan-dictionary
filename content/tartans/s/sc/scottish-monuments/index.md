@@ -13,10 +13,10 @@ Its design is pattern [BRBRBBKBK](/stripes/brbrbbkbk/) — the page of every tar
 The **Scottish Monuments** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k3n6k2n8dt20o3dt2o2dt3~x2~n1900000-o2500000/">Scottish Monuments</a></td><td><code>K/6 N12 K4 N16 DT40 O6 DT4 O4 DT/6</code></td><td>184</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k3n6k2n8dt20o3dt2o2dt3~x2~n1900000-o2500000/"><img src="/variants/s9/k3n6k2n8dt20o3dt2o2dt3~x2~n1900000-o2500000/sett.png" alt="Scottish Monuments sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k3n6k2n8dt20o3dt2o2dt3~x2~n1900000-o2500000/">Scottish Monuments</a></td><td></td><td><code>K/6 N12 K4 N16 DT40 O6 DT4 O4 DT/6</code></td><td>184</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k3n6k2n8dt20o3dt2o2dt3~x2~n1900000-o2500000/"><img src="/variants/s9/k3n6k2n8dt20o3dt2o2dt3~x2~n1900000-o2500000/sett.png" alt="Scottish Monuments sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

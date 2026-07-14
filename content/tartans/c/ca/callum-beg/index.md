@@ -16,10 +16,10 @@ Its design is pattern [GBKGRG](/stripes/gbkgrg/) — the page of every tartan sh
 The **Callum Beg** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g1db6k6g6r1g1~x6/">Callum Beg</a></td><td><code>G/6 DB36 K36 G36 R6 G/6</code></td><td>240</td><td>1882</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g1db6k6g6r1g1~x6/"><img src="/variants/s6/g1db6k6g6r1g1~x6/sett.png" alt="Callum Beg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g1db6k6g6r1g1~x6/">Callum Beg</a></td><td></td><td><code>G/6 DB36 K36 G36 R6 G/6</code></td><td>240</td><td>1882</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g1db6k6g6r1g1~x6/"><img src="/variants/s6/g1db6k6g6r1g1~x6/sett.png" alt="Callum Beg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

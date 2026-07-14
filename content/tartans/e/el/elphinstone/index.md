@@ -15,12 +15,12 @@ The **Elphinstone** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/g12dp3g1~x2/">Elphinstone</a> ★</td><td><code>G/24 DP6 G/2</code></td><td>38</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/g12dp3g1~x2/"><img src="/variants/s3/g12dp3g1~x2/sett.png" alt="Elphinstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/g28dp10g3~x2/">Clan Tartan</a></td><td><code>G/56 DP20 G/6</code></td><td>102</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/g28dp10g3~x2/"><img src="/variants/s3/g28dp10g3~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/g12dp3g1~x2/">Elphinstone</a> ★</td><td></td><td><code>G/24 DP6 G/2</code></td><td>38</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/g12dp3g1~x2/"><img src="/variants/s3/g12dp3g1~x2/sett.png" alt="Elphinstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/g28dp10g3~x2/">Clan Tartan</a></td><td>0.41</td><td><code>G/56 DP20 G/6</code></td><td>102</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/g28dp10g3~x2/"><img src="/variants/s3/g28dp10g3~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

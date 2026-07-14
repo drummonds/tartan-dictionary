@@ -13,10 +13,10 @@ Its design is pattern [BKGKGKBBKKKBGKBKBKG](/stripes/bkgkgkbbkkkbgkbkbkg/) — t
 The **O'Connor / Ochiltree** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/">O'Connor / Ochiltree</a></td><td><code>DB/48 K4 G8 K4 G8 K4 DB48 DR8 K100 DR8 G48 K4 DB8 K4 DB8 K4 G/48</code></td><td>632</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/"><img src="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/sett.png" alt="O'Connor / Ochiltree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/">O'Connor / Ochiltree</a></td><td></td><td><code>DB/48 K4 G8 K4 G8 K4 DB48 DR8 K100 DR8 G48 K4 DB8 K4 DB8 K4 G/48</code></td><td>632</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/"><img src="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/sett.png" alt="O'Connor / Ochiltree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

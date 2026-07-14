@@ -15,10 +15,10 @@ Designed for those proud of Scots connections; influenced by the Douglas tartan,
 The **Patriot Weavers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/">Patriot Weavers</a></td><td><code>K/20 DB8 K68 DT4 K4 DT60 W/6</code></td><td>314</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><img src="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/sett.png" alt="Patriot Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/">Patriot Weavers</a></td><td></td><td><code>K/20 DB8 K68 DT4 K4 DT60 W/6</code></td><td>314</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><img src="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/sett.png" alt="Patriot Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

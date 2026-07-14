@@ -13,10 +13,10 @@ Its design is pattern [BGBGBG](/stripes/bgbgbg/) — the page of every tartan sh
 The **Carnet** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/do6g3do3g11do1g2~x4/">Carnet</a></td><td><code>DO/24 G12 DO12 G44 DO4 G/8</code></td><td>176</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/do6g3do3g11do1g2~x4/"><img src="/variants/s6/do6g3do3g11do1g2~x4/sett.png" alt="Carnet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/do6g3do3g11do1g2~x4/">Carnet</a></td><td></td><td><code>DO/24 G12 DO12 G44 DO4 G/8</code></td><td>176</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/do6g3do3g11do1g2~x4/"><img src="/variants/s6/do6g3do3g11do1g2~x4/sett.png" alt="Carnet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

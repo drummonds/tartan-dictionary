@@ -13,10 +13,10 @@ Its design is pattern [WKBKGGWYWYW](/stripes/wkbkggwywyw/) — the page of every
 The **Rwanda** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/">Rwanda</a></td><td><code>W/8 K2 DB32 K2 G24 Y24 LB48 LO4 LB2 LO8 LB/4</code></td><td>304</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/"><img src="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/sett.png" alt="Rwanda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/">Rwanda</a></td><td></td><td><code>W/8 K2 DB32 K2 G24 Y24 LB48 LO4 LB2 LO8 LB/4</code></td><td>304</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/"><img src="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/sett.png" alt="Rwanda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

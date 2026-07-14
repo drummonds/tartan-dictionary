@@ -21,17 +21,17 @@ The **MacLaine of Lochbuie** tartan groups 3 setts — the same named design rec
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/r32dg8lb4y1~x2/">MacLaine of Lochbuie</a> ★</td><td><code>R/64 DG16 LB8 Y/2</code></td><td>114</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r32dg8lb4y1~x2/"><img src="/variants/s4/r32dg8lb4y1~x2/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/r32g8lb4y1~x2/">MacLaine of Lochbuie</a></td><td><code>R/32 G8 LB4 Y/1</code></td><td>57</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r32g8lb4y1~x2/"><img src="/variants/s4/r32g8lb4y1~x2/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s4/r32g8lb4y1/">MacLaine of Lochbuie</a></td><td><code>R/32 G8 LB4 Y/1</code></td><td>57</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s4/r32g8lb4y1~x2/">MacLaine of Lochbuie</a></td><td><code>R/64 G16 LB8 Y/2</code></td><td>114</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s4/r32g8lb4y1/">MacLaine of Lochbuie</a> · <a href="/variants/s4/r32g8lb4y1~x2/">MacLaine of Lochbuie</a></td></tr>
-<tr><td><a href="/variants/s4/r32g8w4y1/">MacLaine of Lochbuie</a></td><td><code>R/32 G8 W4 Y/1</code></td><td>57</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r32g8w4y1/"><img src="/variants/s4/r32g8w4y1/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r32dg8lb4y1~x2/">MacLaine of Lochbuie</a> ★</td><td></td><td><code>R/64 DG16 LB8 Y/2</code></td><td>114</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/r32dg8lb4y1~x2/"><img src="/variants/s4/r32dg8lb4y1~x2/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r32g8lb4y1~x2/">MacLaine of Lochbuie</a></td><td>0.10</td><td><code>R/32 G8 LB4 Y/1</code></td><td>57</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/r32g8lb4y1~x2/"><img src="/variants/s4/r32g8lb4y1~x2/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s4/r32g8lb4y1/">MacLaine of Lochbuie</a></td><td>0.10</td><td><code>R/32 G8 LB4 Y/1</code></td><td>57</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s4/r32g8lb4y1~x2/">MacLaine of Lochbuie</a></td><td>0.10</td><td><code>R/64 G16 LB8 Y/2</code></td><td>114</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s4/r32g8lb4y1/">MacLaine of Lochbuie</a> · <a href="/variants/s4/r32g8lb4y1~x2/">MacLaine of Lochbuie</a></td></tr>
+<tr><td><a href="/variants/s4/r32g8w4y1/">MacLaine of Lochbuie</a></td><td>0.37</td><td><code>R/32 G8 W4 Y/1</code></td><td>57</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/r32g8w4y1/"><img src="/variants/s4/r32g8w4y1/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

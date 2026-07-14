@@ -18,10 +18,10 @@ Its design is pattern [BWKWBKBG](/stripes/bwkwbkbg/) — the page of every tarta
 The **Culloden** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/b2w4k2w1b4k1b1g1~x4/">Culloden</a></td><td><code>B/8 W16 K8 W4 B16 K4 B4 G/4</code></td><td>116</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/b2w4k2w1b4k1b1g1~x4/"><img src="/variants/s8/b2w4k2w1b4k1b1g1~x4/sett.png" alt="Culloden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/b2w4k2w1b4k1b1g1~x4/">Culloden</a></td><td></td><td><code>B/8 W16 K8 W4 B16 K4 B4 G/4</code></td><td>116</td><td>1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/b2w4k2w1b4k1b1g1~x4/"><img src="/variants/s8/b2w4k2w1b4k1b1g1~x4/sett.png" alt="Culloden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

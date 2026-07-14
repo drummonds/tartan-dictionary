@@ -13,10 +13,10 @@ Its design is pattern [BYBBBBBBBBKBK](/stripes/bybbbbbbbbkbk/) — the page of e
 The **Institute of Directors** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/">Institute of Directors</a></td><td><code>DP/50 LR4 DP12 B4 DP10 B8 DP4 B6 DP4 B10 K12 B5 K/42</code></td><td>250</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/"><img src="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/sett.png" alt="Institute of Directors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/">Institute of Directors</a></td><td></td><td><code>DP/50 LR4 DP12 B4 DP10 B8 DP4 B6 DP4 B10 K12 B5 K/42</code></td><td>250</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/"><img src="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/sett.png" alt="Institute of Directors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

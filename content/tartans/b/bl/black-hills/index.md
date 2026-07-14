@@ -18,10 +18,10 @@ Commissioned by the Campbells for the Black Hills Highland Games in Sturgis, Sou
 The **Black Hills** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/">Black Hills</a></td><td><code>DB/6 W4 G28 R28 K4 DB14 K18 DY4 K/4</code></td><td>210</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/"><img src="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/sett.png" alt="Black Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/">Black Hills</a></td><td></td><td><code>DB/6 W4 G28 R28 K4 DB14 K18 DY4 K/4</code></td><td>210</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/"><img src="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/sett.png" alt="Black Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

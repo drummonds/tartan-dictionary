@@ -18,10 +18,10 @@ Its design is pattern [WKBKBKBKYKY](/stripes/wkbkbkbkyky/) — the page of every
 The **McCandlish Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/">McCandlish Dress</a></td><td><code>LB/12 K4 N48 K4 N4 K8 N4 K24 LR48 K4 LO/4</code></td><td>312</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/"><img src="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/sett.png" alt="McCandlish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/">McCandlish Dress</a></td><td></td><td><code>LB/12 K4 N48 K4 N4 K8 N4 K24 LR48 K4 LO/4</code></td><td>312</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/"><img src="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/sett.png" alt="McCandlish Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

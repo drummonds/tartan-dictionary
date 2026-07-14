@@ -18,10 +18,10 @@ Its design is pattern [GKGBRBGKGKG](/stripes/gkgbrbgkgkg/) — the page of every
 The **MacLachlan, Green Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/">MacLachlan, Green Dress</a></td><td><code>G/32 K4 G4 K4 G4 DB64 R6 DB64 G32 K4 G/4</code></td><td>408</td><td>~2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/"><img src="/variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/sett.png" alt="MacLachlan, Green Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/">MacLachlan, Green Dress</a></td><td></td><td><code>G/32 K4 G4 K4 G4 DB64 R6 DB64 G32 K4 G/4</code></td><td>408</td><td>~2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/"><img src="/variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/sett.png" alt="MacLachlan, Green Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

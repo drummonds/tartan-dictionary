@@ -13,10 +13,10 @@ Its design is pattern [GYGYGYGWGWGWYWGW](/stripes/gygygygwgwgwywgw/) — the pag
 The **UPS No. 2** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/">UPS No. 2</a></td><td><code>W/16 DY4 W4 LO4 W4 DY4 W30 DY4 W120 DY8 LY2 DY4 LY4 DY4 LY2 DY/8</code></td><td>420</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/"><img src="/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/sett.png" alt="UPS No. 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/">UPS No. 2</a></td><td></td><td><code>W/16 DY4 W4 LO4 W4 DY4 W30 DY4 W120 DY8 LY2 DY4 LY4 DY4 LY2 DY/8</code></td><td>420</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/"><img src="/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/sett.png" alt="UPS No. 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

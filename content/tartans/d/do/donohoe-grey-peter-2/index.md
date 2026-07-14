@@ -13,10 +13,10 @@ Its design is pattern [BKBBGKBWRWB](/stripes/bkbbgkbwrwb/) — the page of every
 The **Donohoe Grey, Peter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/">Donohoe Grey, Peter</a></td><td><code>DO/18 LB4 R2 LB4 DO6 K18 DG6 DO2 N70 K6 N/4</code></td><td>258</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><img src="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/sett.png" alt="Donohoe Grey, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/">Donohoe Grey, Peter</a></td><td></td><td><code>DO/18 LB4 R2 LB4 DO6 K18 DG6 DO2 N70 K6 N/4</code></td><td>258</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><img src="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/sett.png" alt="Donohoe Grey, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Designed by Claire Donaldson of House of Edgar in 2005, updating Celtic Football
 The **Celtic 2005 Sports** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/">Celtic 2005 Sports</a></td><td><code>DG/12 DGi6 DG44 K4 DG8 K28 DGi10 K6 LYi10 K6 DGi40 K8 LY/8</code></td><td>360</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/"><img src="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/sett.png" alt="Celtic 2005 Sports sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/">Celtic 2005 Sports</a></td><td></td><td><code>DG/12 DGi6 DG44 K4 DG8 K28 DGi10 K6 LYi10 K6 DGi40 K8 LY/8</code></td><td>360</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/"><img src="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/sett.png" alt="Celtic 2005 Sports sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

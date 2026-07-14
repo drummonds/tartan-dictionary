@@ -18,10 +18,10 @@ Its design is pattern [BBBBBBRBB](/stripes/bbbbbbrbb/) — the page of every tar
 The **Trotter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/">Trotter</a></td><td><code>B/46 DT4 B4 DT4 B4 DT56 R4 DT8 T/4</code></td><td>218</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/"><img src="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/sett.png" alt="Trotter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/">Trotter</a></td><td></td><td><code>B/46 DT4 B4 DT4 B4 DT56 R4 DT8 T/4</code></td><td>218</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/"><img src="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/sett.png" alt="Trotter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

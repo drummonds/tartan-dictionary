@@ -13,10 +13,10 @@ Its design is pattern [BKBRWKWKWKRK](/stripes/bkbrwkwkwkrk/) — the page of eve
 The **Bishop** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/">Bishop</a></td><td><code>K/4 R24 K42 W2 K8 W2 K42 W6 R6 DB36 K4 DB/2</code></td><td>350</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/"><img src="/variants/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/sett.png" alt="Bishop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/">Bishop</a></td><td></td><td><code>K/4 R24 K42 W2 K8 W2 K42 W6 R6 DB36 K4 DB/2</code></td><td>350</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/"><img src="/variants/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/sett.png" alt="Bishop sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

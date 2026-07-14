@@ -16,10 +16,10 @@ Its design is pattern [BKBRB](/stripes/bkbrb/) — the page of every tartan shar
 The **Calgary Firefighters** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/n4k48n16r12db3~x2/">Calgary Firefighters</a></td><td><code>N/8 K96 N32 R24 DB/6</code></td><td>318</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/n4k48n16r12db3~x2/"><img src="/variants/s5/n4k48n16r12db3~x2/sett.png" alt="Calgary Firefighters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/n4k48n16r12db3~x2/">Calgary Firefighters</a></td><td></td><td><code>N/8 K96 N32 R24 DB/6</code></td><td>318</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/n4k48n16r12db3~x2/"><img src="/variants/s5/n4k48n16r12db3~x2/sett.png" alt="Calgary Firefighters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

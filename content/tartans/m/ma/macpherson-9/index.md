@@ -20,10 +20,10 @@ Clan tartan from Grant's 1886 collection; reduced red ground reflects Victorian 
 The **MacPherson 9** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/">MacPherson 9</a></td><td><code>R/12 DB2 R12 G16 Y2 K12 DB8 K2 DB4 K2 DB8 R8 W2 K2 R/2</code></td><td>174</td><td>1886</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><img src="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/sett.png" alt="MacPherson 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/">MacPherson 9</a></td><td></td><td><code>R/12 DB2 R12 G16 Y2 K12 DB8 K2 DB4 K2 DB8 R8 W2 K2 R/2</code></td><td>174</td><td>1886</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><img src="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/sett.png" alt="MacPherson 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

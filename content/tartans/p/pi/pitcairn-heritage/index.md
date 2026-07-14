@@ -13,10 +13,10 @@ Its design is pattern [BGRBRBGRGBGBG](/stripes/bgrbrbgrgbgbg/) — the page of e
 The **Pitcairn Heritage** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/">Pitcairn Heritage</a></td><td><code>G/6 T8 G6 T8 G6 R56 DY4 T4 Ri56 T12 Ri18 DY4 T/4</code></td><td>374</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/"><img src="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/sett.png" alt="Pitcairn Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/">Pitcairn Heritage</a></td><td></td><td><code>G/6 T8 G6 T8 G6 R56 DY4 T4 Ri56 T12 Ri18 DY4 T/4</code></td><td>374</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/"><img src="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/sett.png" alt="Pitcairn Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

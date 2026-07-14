@@ -13,10 +13,10 @@ Its design is pattern [RGKBKR](/stripes/rgkbkr/) — the page of every tartan sh
 The **Atholl Highlanders** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r8dg20k20db20k3r8~x2/">Atholl Highlanders</a></td><td><code>R/16 DG40 K40 DB40 K6 R/16</code></td><td>284</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><img src="/variants/s6/r8dg20k20db20k3r8~x2/sett.png" alt="Atholl Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r8dg20k20db20k3r8~x2/">Atholl Highlanders</a></td><td></td><td><code>R/16 DG40 K40 DB40 K6 R/16</code></td><td>284</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><img src="/variants/s6/r8dg20k20db20k3r8~x2/sett.png" alt="Atholl Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

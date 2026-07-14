@@ -13,10 +13,10 @@ Its design is pattern [WBBWBWBY](/stripes/wbbwbwby/) — the page of every tarta
 The **Monaghan County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/">Monaghan County Crest</a></td><td><code>LY/30 DBi4 LB16 DB42 W4 DBi42 DB12 W/14</code></td><td>284</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><img src="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/sett.png" alt="Monaghan County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/">Monaghan County Crest</a></td><td></td><td><code>LY/30 DBi4 LB16 DB42 W4 DBi42 DB12 W/14</code></td><td>284</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><img src="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/sett.png" alt="Monaghan County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

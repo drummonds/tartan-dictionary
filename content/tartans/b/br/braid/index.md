@@ -13,10 +13,10 @@ Its design is pattern [BKBKGKBKBKBKR](/stripes/bkbkgkbkbkbkr/) — the page of e
 The **Braid** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/">Braid</a></td><td><code>DB/26 K6 DB10 K12 G36 K4 DP18 K4 DB6 K4 DP22 K8 R/8</code></td><td>294</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/"><img src="/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/sett.png" alt="Braid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/">Braid</a></td><td></td><td><code>DB/26 K6 DB10 K12 G36 K4 DP18 K4 DB6 K4 DP22 K8 R/8</code></td><td>294</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/"><img src="/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/sett.png" alt="Braid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

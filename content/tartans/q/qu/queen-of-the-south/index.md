@@ -13,10 +13,10 @@ Its design is pattern [BGBBBGW](/stripes/bgbbbgw/) — the page of every tartan 
 The **Queen of the South** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/">Queen of the South</a></td><td><code>W/6 DG44 B22 DB6 B22 G8 B/4</code></td><td>214</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><img src="/variants/s7/w3dg22b11db3b11g4b2~x2/sett.png" alt="Queen of the South sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/">Queen of the South</a></td><td></td><td><code>W/6 DG44 B22 DB6 B22 G8 B/4</code></td><td>214</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><img src="/variants/s7/w3dg22b11db3b11g4b2~x2/sett.png" alt="Queen of the South sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

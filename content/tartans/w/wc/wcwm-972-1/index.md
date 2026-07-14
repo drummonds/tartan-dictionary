@@ -16,10 +16,10 @@ Its design is pattern [WBKWKYKWGBBKW](/stripes/wbkwkykwgbbkw/) — the page of e
 The **Wcwm 972-1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/">Wcwm 972-1</a></td><td><code>LB/28 K4 DO4 N8 G72 LB8 K4 LO8 K4 LB24 K4 DO4 LB/4</code></td><td>320</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/"><img src="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/sett.png" alt="Wcwm 972-1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/">Wcwm 972-1</a></td><td></td><td><code>LB/28 K4 DO4 N8 G72 LB8 K4 LO8 K4 LB24 K4 DO4 LB/4</code></td><td>320</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/"><img src="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/sett.png" alt="Wcwm 972-1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

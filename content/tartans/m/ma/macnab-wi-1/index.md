@@ -16,10 +16,10 @@ Its design is pattern [BGWGR](/stripes/bgwgr/) — the page of every tartan shar
 The **MacNab WI 1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/">MacNab WI 1</a></td><td><code>DR/48 G2 LB2 G4 R/48</code></td><td>112</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/"><img src="/variants/s5/dr24g1lb1g2r24~x2~r1908029/sett.png" alt="MacNab WI 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/">MacNab WI 1</a></td><td></td><td><code>DR/48 G2 LB2 G4 R/48</code></td><td>112</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/"><img src="/variants/s5/dr24g1lb1g2r24~x2~r1908029/sett.png" alt="MacNab WI 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

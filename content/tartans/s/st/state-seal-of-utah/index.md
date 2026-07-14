@@ -13,10 +13,10 @@ Its design is pattern [BYGBWBKW](/stripes/bygbwbkw/) — the page of every tarta
 The **State Seal of Utah** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/">State Seal of Utah</a></td><td><code>DB/96 LY50 DY30 DR14 W10 DB14 K20 W/20</code></td><td>392</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/"><img src="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/sett.png" alt="State Seal of Utah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/">State Seal of Utah</a></td><td></td><td><code>DB/96 LY50 DY30 DR14 W10 DB14 K20 W/20</code></td><td>392</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/"><img src="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/sett.png" alt="State Seal of Utah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

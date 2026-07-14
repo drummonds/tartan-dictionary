@@ -18,10 +18,10 @@ Its design is pattern [BKGKBKGKBKGKB](/stripes/bkgkbkgkbkgkb/) — the page of e
 The **Murray of Elibank** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/">Murray of Elibank</a></td><td><code>DB/56 K6 G24 K6 DB8 K21 Y6 K21 DB8 K6 G24 K6 DB/56</code></td><td>384</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/"><img src="/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/sett.png" alt="Murray of Elibank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/">Murray of Elibank</a></td><td></td><td><code>DB/56 K6 G24 K6 DB8 K21 Y6 K21 DB8 K6 G24 K6 DB/56</code></td><td>384</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/"><img src="/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/sett.png" alt="Murray of Elibank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

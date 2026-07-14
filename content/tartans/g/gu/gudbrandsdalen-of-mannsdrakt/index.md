@@ -18,10 +18,10 @@ Its design is pattern [BYBBGBBGBGBBGBBG](/stripes/bybbgbbgbgbbgbbg/) — the pag
 The **Gudbrandsdalen of Mannsdrakt** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42~x4/">Gudbrandsdalen of Mannsdrakt</a></td><td><code>G/176 DR12 DO24 G24 DR8 DO4 G8 DR40 G8 DO4 DR8 G24 DO24 DR12 LR4 DR/168</code></td><td>752</td><td>1830</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42~x4/"><img src="/variants/s16/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42~x4/sett.png" alt="Gudbrandsdalen of Mannsdrakt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42~x4/">Gudbrandsdalen of Mannsdrakt</a></td><td></td><td><code>G/176 DR12 DO24 G24 DR8 DO4 G8 DR40 G8 DO4 DR8 G24 DO24 DR12 LR4 DR/168</code></td><td>752</td><td>1830</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42~x4/"><img src="/variants/s16/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42~x4/sett.png" alt="Gudbrandsdalen of Mannsdrakt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

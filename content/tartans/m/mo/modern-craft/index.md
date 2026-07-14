@@ -13,10 +13,10 @@ Its design is pattern [KKWWWKBW](/stripes/kkwwwkbw/) — the page of every tarta
 The **Modern Craft** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/">Modern Craft</a></td><td><code>K/216 Ki8 LB8 W4 LB8 Ki2 DB4 W/4</code></td><td>288</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/"><img src="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/sett.png" alt="Modern Craft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/">Modern Craft</a></td><td></td><td><code>K/216 Ki8 LB8 W4 LB8 Ki2 DB4 W/4</code></td><td>288</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/"><img src="/variants/s8/k108ki4lb4w2lb4ki1db2w2~x2~ki0800000/sett.png" alt="Modern Craft sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

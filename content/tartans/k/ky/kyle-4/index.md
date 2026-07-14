@@ -18,10 +18,10 @@ Its design is pattern [BKBKWKR](/stripes/bkbkwkr/) — the page of every tartan 
 The **Kyle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/o19k2w4k2n5k2n5~x2~o2500000-n1900000/">Kyle</a></td><td><code>O/38 K4 W8 K4 N10 K4 N/10</code></td><td>108</td><td>~1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/o19k2w4k2n5k2n5~x2~o2500000-n1900000/"><img src="/variants/s7/o19k2w4k2n5k2n5~x2~o2500000-n1900000/sett.png" alt="Kyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/o19k2w4k2n5k2n5~x2~o2500000-n1900000/">Kyle</a></td><td></td><td><code>O/38 K4 W8 K4 N10 K4 N/10</code></td><td>108</td><td>~1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/o19k2w4k2n5k2n5~x2~o2500000-n1900000/"><img src="/variants/s7/o19k2w4k2n5k2n5~x2~o2500000-n1900000/sett.png" alt="Kyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

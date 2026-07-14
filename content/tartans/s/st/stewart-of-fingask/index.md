@@ -20,10 +20,10 @@ Said to derive from a cloak Prince Charles Edward left at Fingask in 1745; nearl
 The **Stewart of Fingask** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r72g3y2g26r14db6lb6w2/">Stewart of Fingask</a></td><td><code>R/72 G3 Y2 G26 R14 DB6 LB6 W/2</code></td><td>188</td><td>1745</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><img src="/variants/s8/r72g3y2g26r14db6lb6w2/sett.png" alt="Stewart of Fingask sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r72g3y2g26r14db6lb6w2/">Stewart of Fingask</a></td><td></td><td><code>R/72 G3 Y2 G26 R14 DB6 LB6 W/2</code></td><td>188</td><td>1745</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><img src="/variants/s8/r72g3y2g26r14db6lb6w2/sett.png" alt="Stewart of Fingask sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

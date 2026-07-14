@@ -16,10 +16,10 @@ Its design is pattern [BRBRBRGRBRBRBRBRBRBRGRBRGRBRBRBRBRGRBRGRBRB](/stripes/brb
 The **Culloden Unidentified** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s43/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5~x2/">Culloden Unidentified</a></td><td><code>DB/10 R14 DB2 R2 Y10 R10 DB10 R10 Y4 R2 DB2 R2 DB2 R10 DB2 R2 DB2 R2 Y4 R10 DB10 R10 Y10 R2 DB2 R12 DB2 R2 DB2 R4 DB2 R2 DB2 R12 DB2 R2 Y10 R8 DB2 R2 DB2 R2 DB/10</code></td><td>432</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s43/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5~x2/"><img src="/variants/s43/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5~x2/sett.png" alt="Culloden Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s43/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5~x2/">Culloden Unidentified</a></td><td></td><td><code>DB/10 R14 DB2 R2 Y10 R10 DB10 R10 Y4 R2 DB2 R2 DB2 R10 DB2 R2 DB2 R2 Y4 R10 DB10 R10 Y10 R2 DB2 R12 DB2 R2 DB2 R4 DB2 R2 DB2 R12 DB2 R2 Y10 R8 DB2 R2 DB2 R2 DB/10</code></td><td>432</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s43/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5~x2/"><img src="/variants/s43/db5r7db1r1y5r5db5r5y2r1db1r1db1r5db1r1db1r1y2r5db5r5y5r1db1r6db1r1db1r2db1r1db1r6db1r1y5r4db1r1db1r1db5~x2/sett.png" alt="Culloden Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

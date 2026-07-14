@@ -20,11 +20,11 @@ Unmarked sample from the MacGregor-Hastie collection, likely dating 1930–1950.
 The **Allison** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/">Allison</a></td><td><code>DB/64 Y3 G12 K3 G12 W3 DB15 DBi4 R21 DB3 Y/2</code></td><td>218</td><td>1882</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/"><img src="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/sett.png" alt="Allison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/">(1882)</a> · <a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0805267-dbi1604274/">Allison</a> · <a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db1204274-dbi1406275/">Family Tartan</a></td></tr>
+<tr><td><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/">Allison</a></td><td></td><td><code>DB/64 Y3 G12 K3 G12 W3 DB15 DBi4 R21 DB3 Y/2</code></td><td>218</td><td>1882</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/"><img src="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/sett.png" alt="Allison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/">(1882)</a> · <a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0805267-dbi1604274/">Allison</a> · <a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db1204274-dbi1406275/">Family Tartan</a></td></tr>
 </tbody>
 </table>
 

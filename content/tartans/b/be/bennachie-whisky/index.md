@@ -13,11 +13,11 @@ Its design is pattern [BGBKBKB](/stripes/bgbkbkb/) — the page of every tartan 
 The **Bennachie Whisky** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/">Bennachie Whisky</a></td><td><code>DB/28 K10 DP10 K10 DB28 DG64 DR/8</code></td><td>280</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/"><img src="/variants/s7/db14k5dp5k5db14dg32dr4~x2/sett.png" alt="Bennachie Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/">(Corporate)</a> · <a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db1404245-dp1507327/">Bennachie (Whisky)</a></td></tr>
+<tr><td><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/">Bennachie Whisky</a></td><td></td><td><code>DB/28 K10 DP10 K10 DB28 DG64 DR/8</code></td><td>280</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/"><img src="/variants/s7/db14k5dp5k5db14dg32dr4~x2/sett.png" alt="Bennachie Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/">(Corporate)</a> · <a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db1404245-dp1507327/">Bennachie (Whisky)</a></td></tr>
 </tbody>
 </table>
 

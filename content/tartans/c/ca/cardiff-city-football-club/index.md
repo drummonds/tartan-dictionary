@@ -13,10 +13,10 @@ Its design is pattern [RYKYKYKYW](/stripes/rykykykyw/) — the page of every tar
 The **Cardiff City Football Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/">Cardiff City Football Club</a></td><td><code>R/8 LY48 K26 LY4 K8 LY6 K2 LY6 LB/4</code></td><td>212</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/"><img src="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/sett.png" alt="Cardiff City Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/">Cardiff City Football Club</a></td><td></td><td><code>R/8 LY48 K26 LY4 K8 LY6 K2 LY6 LB/4</code></td><td>212</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/"><img src="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/sett.png" alt="Cardiff City Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

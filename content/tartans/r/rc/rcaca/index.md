@@ -13,10 +13,10 @@ Its design is pattern [KRWRKBWBGR](/stripes/krwrkbwbgr/) — the page of every t
 The **RCACA** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/">RCACA</a></td><td><code>K/8 R2 W2 R4 K96 DR8 W2 DB60 Y4 R/4</code></td><td>368</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/"><img src="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/sett.png" alt="RCACA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/">RCACA</a></td><td></td><td><code>K/8 R2 W2 R4 K96 DR8 W2 DB60 Y4 R/4</code></td><td>368</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/"><img src="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/sett.png" alt="RCACA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

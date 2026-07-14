@@ -18,10 +18,10 @@ Designed by Chris Aitken in 1994 as the dress version of Rangers F.C.'s corporat
 The **Rangers F. C. Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2~dbi1406275-db1106275/">Rangers F. C. Dress</a></td><td><code>DBi/60 K18 DB10 W8 DB4 R4 DB4 W8 DB10 K18 DBi60 K18 DB6 W4 DB12 R4 DB12 W4 DB6 K/18</code></td><td>498</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2~dbi1406275-db1106275/"><img src="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2~dbi1406275-db1106275/sett.png" alt="Rangers F. C. Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2~dbi1406275-db1106275/">Rangers F. C. Dress</a></td><td></td><td><code>DBi/60 K18 DB10 W8 DB4 R4 DB4 W8 DB10 K18 DBi60 K18 DB6 W4 DB12 R4 DB12 W4 DB6 K/18</code></td><td>498</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2~dbi1406275-db1106275/"><img src="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2~dbi1406275-db1106275/sett.png" alt="Rangers F. C. Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

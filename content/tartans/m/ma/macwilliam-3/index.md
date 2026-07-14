@@ -20,10 +20,10 @@ Sutherland clan tartan recorded pre-1880 in Paris's "Clans Originaux"; similar i
 The **MacWilliam** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/">MacWilliam</a></td><td><code>DY/8 G48 K40 R4 T64 R8 T64 R/4</code></td><td>468</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><img src="/variants/s8/dy2g12k10r1t16r2t16r1~x4/sett.png" alt="MacWilliam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/">MacWilliam</a></td><td></td><td><code>DY/8 G48 K40 R4 T64 R8 T64 R/4</code></td><td>468</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><img src="/variants/s8/dy2g12k10r1t16r2t16r1~x4/sett.png" alt="MacWilliam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

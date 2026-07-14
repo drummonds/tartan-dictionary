@@ -16,10 +16,10 @@ Its design is pattern [RGBBGGRW](/stripes/rgbbggrw/) — the page of every tarta
 The **Young Presidents Organisation Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/">Young Presidents Organisation Dress</a></td><td><code>R/12 Y30 DO8 DB24 G24 DY8 R50 W/10</code></td><td>310</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/"><img src="/variants/s8/r6y15do4db12g12dy4r25w5~x2/sett.png" alt="Young Presidents Organisation Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/">Young Presidents Organisation Dress</a></td><td></td><td><code>R/12 Y30 DO8 DB24 G24 DY8 R50 W/10</code></td><td>310</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/"><img src="/variants/s8/r6y15do4db12g12dy4r25w5~x2/sett.png" alt="Young Presidents Organisation Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

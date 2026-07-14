@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKKKKWB](/stripes/bkbkbkkkkwb/) — the page of every
 The **Dunn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2~ki0700000-k0504259/">Dunn</a></td><td><code>DB/12 Ki4 DP28 Ki10 DP28 Ki6 K8 Ki12 K48 W4 DP/12</code></td><td>320</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2~ki0700000-k0504259/"><img src="/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2~ki0700000-k0504259/sett.png" alt="Dunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2~ki0700000-k0504259/">Dunn</a></td><td></td><td><code>DB/12 Ki4 DP28 Ki10 DP28 Ki6 K8 Ki12 K48 W4 DP/12</code></td><td>320</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2~ki0700000-k0504259/"><img src="/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2~ki0700000-k0504259/sett.png" alt="Dunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

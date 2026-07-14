@@ -13,10 +13,10 @@ Its design is pattern [GKBWBKBKBKBRBKBKBKBWBK](/stripes/gkbwbkbkbkbrbkbkbkbwbk/)
 The **Pride** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/">Pride</a></td><td><code>K/40 DB4 LB4 DB4 K28 DB7 K8 DB7 K8 DB10 R4 DB10 K8 DB7 K8 DB7 K28 DB4 LB4 DB4 K40 G/12</code></td><td>460</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/"><img src="/variants/s22/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/sett.png" alt="Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/">Pride</a></td><td></td><td><code>K/40 DB4 LB4 DB4 K28 DB7 K8 DB7 K8 DB10 R4 DB10 K8 DB7 K8 DB7 K28 DB4 LB4 DB4 K40 G/12</code></td><td>460</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/"><img src="/variants/s22/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/sett.png" alt="Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

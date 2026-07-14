@@ -16,10 +16,10 @@ Its design is pattern [RWKWKWKGGRBRWR](/stripes/rwkwkwkggrbrwr/) — the page of
 The **Caledonia Variant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r7lb3k2lb2k2lb3k6y2g7r4db2r4w2r5~x2/">Caledonia Variant</a></td><td><code>R/14 LB6 K4 LB4 K4 LB6 K12 Y4 G14 R8 DB4 R8 W4 R/10</code></td><td>180</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r7lb3k2lb2k2lb3k6y2g7r4db2r4w2r5~x2/"><img src="/variants/s14/r7lb3k2lb2k2lb3k6y2g7r4db2r4w2r5~x2/sett.png" alt="Caledonia Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r7lb3k2lb2k2lb3k6y2g7r4db2r4w2r5~x2/">Caledonia Variant</a></td><td></td><td><code>R/14 LB6 K4 LB4 K4 LB6 K12 Y4 G14 R8 DB4 R8 W4 R/10</code></td><td>180</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r7lb3k2lb2k2lb3k6y2g7r4db2r4w2r5~x2/"><img src="/variants/s14/r7lb3k2lb2k2lb3k6y2g7r4db2r4w2r5~x2/sett.png" alt="Caledonia Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

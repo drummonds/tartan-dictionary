@@ -13,10 +13,10 @@ Its design is pattern [RWGYBWBYGWR](/stripes/rwgybwbygwr/) — the page of every
 The **MacKessog Wedding** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r1w8g2ly2db6w1db6ly2g2w8o1~x4/">MacKessog Wedding</a></td><td><code>R/4 W32 G8 LY8 DB24 W4 DB24 LY8 G8 W32 O/4</code></td><td>304</td><td>~2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r1w8g2ly2db6w1db6ly2g2w8o1~x4/"><img src="/variants/s11/r1w8g2ly2db6w1db6ly2g2w8o1~x4/sett.png" alt="MacKessog Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r1w8g2ly2db6w1db6ly2g2w8o1~x4/">MacKessog Wedding</a></td><td></td><td><code>R/4 W32 G8 LY8 DB24 W4 DB24 LY8 G8 W32 O/4</code></td><td>304</td><td>~2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r1w8g2ly2db6w1db6ly2g2w8o1~x4/"><img src="/variants/s11/r1w8g2ly2db6w1db6ly2g2w8o1~x4/sett.png" alt="MacKessog Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

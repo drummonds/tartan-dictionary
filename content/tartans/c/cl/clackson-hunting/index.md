@@ -18,10 +18,10 @@ Its design is pattern [RBRBGGGWGBRBR](/stripes/rbrbgggwgbrbr/) — the page of e
 The **Clackson Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/">Clackson Hunting</a></td><td><code>R/8 DB10 R8 DB10 G16 Y4 G48 W4 G16 DB10 R8 DB10 R/8</code></td><td>304</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/"><img src="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/sett.png" alt="Clackson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/">Clackson Hunting</a></td><td></td><td><code>R/8 DB10 R8 DB10 G16 Y4 G48 W4 G16 DB10 R8 DB10 R/8</code></td><td>304</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/"><img src="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/sett.png" alt="Clackson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

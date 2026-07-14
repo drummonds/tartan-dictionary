@@ -13,10 +13,10 @@ Its design is pattern [RKWGYRKRYWKRYRW](/stripes/rkwgyrkrywkryrw/) — the page 
 The **Crubin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/">Crubin</a></td><td><code>R/320 K4 W2 G72 LY18 R8 K2 R8 LY18 LB72 K18 R3 LY18 R8 LB/14</code></td><td>836</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/"><img src="/variants/s15/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/sett.png" alt="Crubin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/">Crubin</a></td><td></td><td><code>R/320 K4 W2 G72 LY18 R8 K2 R8 LY18 LB72 K18 R3 LY18 R8 LB/14</code></td><td>836</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/"><img src="/variants/s15/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/sett.png" alt="Crubin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

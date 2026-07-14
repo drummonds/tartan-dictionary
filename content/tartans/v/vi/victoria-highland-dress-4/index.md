@@ -16,10 +16,10 @@ Its design is pattern [GWBWBKGKBWGRGRGWGRGRGWBKGKBWBWGRWBWKGKWKGRGRWRGRGKWKGKWBW
 The **Victoria, Highland dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s58/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1~x2/">Victoria, Highland dress</a></td><td><code>R/10 W46 B10 W10 K14 Y6 K6 W4 K6 G32 R16 G6 R12 W6 R12 G6 R16 G32 K6 W4 K6 Y6 K14 W10 B10 W46 R8 G2 W38 B8 W8 B2 K10 Y6 K4 B2 W8 G30 R12 G6 R10 G2 W6 G2 R10 G6 R12 G30 W8 B2 K4 Y6 K10 B2 W8 B8 W38 G/2</code></td><td>1312</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s58/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1~x2/"><img src="/variants/s58/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1~x2/sett.png" alt="Victoria, Highland dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s58/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1~x2/">Victoria, Highland dress</a></td><td></td><td><code>R/10 W46 B10 W10 K14 Y6 K6 W4 K6 G32 R16 G6 R12 W6 R12 G6 R16 G32 K6 W4 K6 Y6 K14 W10 B10 W46 R8 G2 W38 B8 W8 B2 K10 Y6 K4 B2 W8 G30 R12 G6 R10 G2 W6 G2 R10 G6 R12 G30 W8 B2 K4 Y6 K10 B2 W8 B8 W38 G/2</code></td><td>1312</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s58/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1~x2/"><img src="/variants/s58/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1~x2/sett.png" alt="Victoria, Highland dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

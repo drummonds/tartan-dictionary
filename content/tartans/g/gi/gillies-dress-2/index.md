@@ -18,10 +18,10 @@ Its design is pattern [GWGWKGRGKY](/stripes/gwgwkgrgky/) — the page of every t
 The **Gillies Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/">Gillies Dress</a></td><td><code>LO/12 K3 G24 R12 G24 K32 W44 G4 W8 G/4</code></td><td>318</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/"><img src="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/sett.png" alt="Gillies Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/">Gillies Dress</a></td><td></td><td><code>LO/12 K3 G24 R12 G24 K32 W44 G4 W8 G/4</code></td><td>318</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/"><img src="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/sett.png" alt="Gillies Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

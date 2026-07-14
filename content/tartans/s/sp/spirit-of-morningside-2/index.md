@@ -13,10 +13,10 @@ Its design is pattern [BBBBKGKGWG](/stripes/bbbbkgkgwg/) — the page of every t
 The **Spirit of Morningside** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/">Spirit of Morningside</a></td><td><code>DP/4 DB5 DP3 DB50 K15 G3 K5 G32 W2 G/3</code></td><td>237</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><img src="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/sett.png" alt="Spirit of Morningside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/">Spirit of Morningside</a></td><td></td><td><code>DP/4 DB5 DP3 DB50 K15 G3 K5 G32 W2 G/3</code></td><td>237</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><img src="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/sett.png" alt="Spirit of Morningside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

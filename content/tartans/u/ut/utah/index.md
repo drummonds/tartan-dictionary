@@ -15,11 +15,11 @@ Utah state tartan, combining Logan and Skene to honour the first two fur trapper
 The **Utah** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/">Utah</a></td><td><code>W/12 DR18 DG54 DR18 DB12 DR18 DB18 W/6</code></td><td>294</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><img src="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/sett.png" alt="Utah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/">(US State)</a> · <a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/">Utah</a></td></tr>
+<tr><td><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/">Utah</a></td><td></td><td><code>W/12 DR18 DG54 DR18 DB12 DR18 DB18 W/6</code></td><td>294</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><img src="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/sett.png" alt="Utah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/">(US State)</a> · <a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/">Utah</a></td></tr>
 </tbody>
 </table>
 

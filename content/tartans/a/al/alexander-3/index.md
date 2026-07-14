@@ -18,10 +18,10 @@ Its design is pattern [BBYKBYKBBYBBYKYB](/stripes/bbykbykbbybbykyb/) — the pag
 The **Alexander** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10~x2/">Alexander</a></td><td><code>DR/30 N40 LR12 K8 N20 LR44 K56 N12 DR12 LR44 N12 DR4 LR24 K4 LR6 N/20</code></td><td>646</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10~x2/"><img src="/variants/s16/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10~x2/sett.png" alt="Alexander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10~x2/">Alexander</a></td><td></td><td><code>DR/30 N40 LR12 K8 N20 LR44 K56 N12 DR12 LR44 N12 DR4 LR24 K4 LR6 N/20</code></td><td>646</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10~x2/"><img src="/variants/s16/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10~x2/sett.png" alt="Alexander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

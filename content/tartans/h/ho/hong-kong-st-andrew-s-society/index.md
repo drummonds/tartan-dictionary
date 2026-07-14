@@ -13,10 +13,10 @@ Its design is pattern [BKRBKW](/stripes/bkrbkw/) — the page of every tartan sh
 The **Hong Kong St Andrew's Society** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db75k4r25db6k6w2~x2/">Hong Kong St Andrew's Society</a></td><td><code>DB/150 K8 R50 DB12 K12 W/4</code></td><td>318</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db75k4r25db6k6w2~x2/"><img src="/variants/s6/db75k4r25db6k6w2~x2/sett.png" alt="Hong Kong St Andrew's Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db75k4r25db6k6w2~x2/">Hong Kong St Andrew's Society</a></td><td></td><td><code>DB/150 K8 R50 DB12 K12 W/4</code></td><td>318</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db75k4r25db6k6w2~x2/"><img src="/variants/s6/db75k4r25db6k6w2~x2/sett.png" alt="Hong Kong St Andrew's Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RRGKWRGRW](/stripes/rrgkwrgrw/) — the page of every tar
 The **Etive Burgundy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/">Etive Burgundy</a></td><td><code>R/60 Ri4 G12 K4 W44 R12 G12 Ri12 W/4</code></td><td>264</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/"><img src="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/sett.png" alt="Etive Burgundy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/">Etive Burgundy</a></td><td></td><td><code>R/60 Ri4 G12 K4 W44 R12 G12 Ri12 W/4</code></td><td>264</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/"><img src="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/sett.png" alt="Etive Burgundy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

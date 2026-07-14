@@ -13,10 +13,10 @@ Its design is pattern [BKRB](/stripes/bkrb/) — the page of every tartan sharin
 The **Nebar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/n24r11k6db4~x4/">Nebar</a></td><td><code>N/96 R44 K24 DB/16</code></td><td>248</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/n24r11k6db4~x4/"><img src="/variants/s4/n24r11k6db4~x4/sett.png" alt="Nebar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/n24r11k6db4~x4/">Nebar</a></td><td></td><td><code>N/96 R44 K24 DB/16</code></td><td>248</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/n24r11k6db4~x4/"><img src="/variants/s4/n24r11k6db4~x4/sett.png" alt="Nebar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

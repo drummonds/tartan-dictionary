@@ -13,10 +13,10 @@ Its design is pattern [GWKBGBKW](/stripes/gwkbgbkw/) — the page of every tarta
 The **New York Jets** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g60w3k12n5g9n6k4w10/">New York Jets</a></td><td><code>G/60 W3 K12 N5 G9 N6 K4 W/10</code></td><td>148</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><img src="/variants/s8/g60w3k12n5g9n6k4w10/sett.png" alt="New York Jets sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g60w3k12n5g9n6k4w10/">New York Jets</a></td><td></td><td><code>G/60 W3 K12 N5 G9 N6 K4 W/10</code></td><td>148</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><img src="/variants/s8/g60w3k12n5g9n6k4w10/sett.png" alt="New York Jets sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

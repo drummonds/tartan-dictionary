@@ -20,12 +20,12 @@ The **Glenmorangie Check** tartan groups 2 setts — the same named design recor
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/">Glenmorangie Check</a> ★</td><td><code>DY/10 DYi20 R/10</code></td><td>60</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/"><img src="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/sett.png" alt="Glenmorangie Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s3/dy1ly2r1~x10/">(Corporate)</a></td><td><code>DY/10 LY20 R/10</code></td><td>60</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/dy1ly2r1~x10/"><img src="/variants/s3/dy1ly2r1~x10/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/">Glenmorangie Check</a> ★</td><td></td><td><code>DY/10 DYi20 R/10</code></td><td>60</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/"><img src="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/sett.png" alt="Glenmorangie Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/dy1ly2r1~x10/">(Corporate)</a></td><td>3.32</td><td><code>DY/10 LY20 R/10</code></td><td>60</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/dy1ly2r1~x10/"><img src="/variants/s3/dy1ly2r1~x10/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

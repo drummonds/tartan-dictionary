@@ -18,10 +18,10 @@ Designed for T J Matthews of Blantyre; purple mountains, dark night and silver e
 The **Highland Spirit Weavers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/">Highland Spirit Weavers</a></td><td><code>K/42 DP30 K10 DP30 K10 DP30 K42 W/4</code></td><td>350</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/"><img src="/variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/sett.png" alt="Highland Spirit Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/">Highland Spirit Weavers</a></td><td></td><td><code>K/42 DP30 K10 DP30 K10 DP30 K42 W/4</code></td><td>350</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/"><img src="/variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/sett.png" alt="Highland Spirit Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BWBBGBYGYGYGYWBY](/stripes/bwbbgbygygygywby/) — the pag
 The **All Irish** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/n6lb2db2n30g2n2ly2gi4ly2g2ly1g18ly1lb2db2ly4~x2~lb3203246-db1406275-g2203152-gi2408144/">All Irish</a></td><td><code>N/12 LB4 DB4 N60 G4 N4 LY4 Gi8 LY4 G4 LY2 G36 LY2 LB4 DB4 LY/8</code></td><td>308</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/n6lb2db2n30g2n2ly2gi4ly2g2ly1g18ly1lb2db2ly4~x2~lb3203246-db1406275-g2203152-gi2408144/"><img src="/variants/s16/n6lb2db2n30g2n2ly2gi4ly2g2ly1g18ly1lb2db2ly4~x2~lb3203246-db1406275-g2203152-gi2408144/sett.png" alt="All Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/n6lb2db2n30g2n2ly2gi4ly2g2ly1g18ly1lb2db2ly4~x2~lb3203246-db1406275-g2203152-gi2408144/">All Irish</a></td><td></td><td><code>N/12 LB4 DB4 N60 G4 N4 LY4 Gi8 LY4 G4 LY2 G36 LY2 LB4 DB4 LY/8</code></td><td>308</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/n6lb2db2n30g2n2ly2gi4ly2g2ly1g18ly1lb2db2ly4~x2~lb3203246-db1406275-g2203152-gi2408144/"><img src="/variants/s16/n6lb2db2n30g2n2ly2gi4ly2g2ly1g18ly1lb2db2ly4~x2~lb3203246-db1406275-g2203152-gi2408144/sett.png" alt="All Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

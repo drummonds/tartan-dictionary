@@ -16,10 +16,10 @@ Its design is pattern [GRGKWKWKWKGWG](/stripes/grgkwkwkwkgwg/) — the page of e
 The **Mack** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/">Mack</a></td><td><code>G/4 R4 G42 K16 LB16 K4 LB56 K4 LB16 K16 G42 W4 G/4</code></td><td>448</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/"><img src="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/sett.png" alt="Mack sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/">Mack</a></td><td></td><td><code>G/4 R4 G42 K16 LB16 K4 LB56 K4 LB16 K16 G42 W4 G/4</code></td><td>448</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/"><img src="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/sett.png" alt="Mack sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

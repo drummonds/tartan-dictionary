@@ -13,10 +13,10 @@ Its design is pattern [RBRBRBRBKBKGKGRKW](/stripes/rbrbrbrbkbkgkgrkw/) — the p
 The **Caledonian Society of P.E.I.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/">Caledonian Society of P.E.I.</a></td><td><code>R/28 DB8 R4 DB4 R8 DB4 R4 DB28 K8 DB8 K30 G40 K4 Y8 R4 K2 W/8</code></td><td>364</td><td>1835</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/"><img src="/variants/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/sett.png" alt="Caledonian Society of P.E.I. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/">Caledonian Society of P.E.I.</a></td><td></td><td><code>R/28 DB8 R4 DB4 R8 DB4 R4 DB28 K8 DB8 K30 G40 K4 Y8 R4 K2 W/8</code></td><td>364</td><td>1835</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/"><img src="/variants/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/sett.png" alt="Caledonian Society of P.E.I. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

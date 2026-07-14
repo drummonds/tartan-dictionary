@@ -16,10 +16,10 @@ Its design is pattern [BKBBBBBBBKY](/stripes/bkbbbbbbbky/) — the page of every
 The **Muir Homes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/">Muir Homes</a></td><td><code>DB/66 K20 DBi7 N4 DBi5 N4 DBi5 N4 DBi7 K2 LR/6</code></td><td>188</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/"><img src="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/sett.png" alt="Muir Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/">Muir Homes</a></td><td></td><td><code>DB/66 K20 DBi7 N4 DBi5 N4 DBi5 N4 DBi7 K2 LR/6</code></td><td>188</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/"><img src="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/sett.png" alt="Muir Homes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

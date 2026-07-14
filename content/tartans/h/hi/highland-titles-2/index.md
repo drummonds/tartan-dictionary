@@ -16,10 +16,10 @@ Its design is pattern [GBKKRKKBW](/stripes/gbkkrkkbw/) — the page of every tar
 The **Highland Titles** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y6db15k20ki25r40ki25k20db15w4~db1807262-ki0703265/">Highland Titles</a></td><td><code>Y/6 DB15 K20 Ki25 R40 Ki25 K20 DB15 W/4</code></td><td>330</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y6db15k20ki25r40ki25k20db15w4~db1807262-ki0703265/"><img src="/variants/s9/y6db15k20ki25r40ki25k20db15w4~db1807262-ki0703265/sett.png" alt="Highland Titles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y6db15k20ki25r40ki25k20db15w4~db1807262-ki0703265/">Highland Titles</a></td><td></td><td><code>Y/6 DB15 K20 Ki25 R40 Ki25 K20 DB15 W/4</code></td><td>330</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y6db15k20ki25r40ki25k20db15w4~db1807262-ki0703265/"><img src="/variants/s9/y6db15k20ki25r40ki25k20db15w4~db1807262-ki0703265/sett.png" alt="Highland Titles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

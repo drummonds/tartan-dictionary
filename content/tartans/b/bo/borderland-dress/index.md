@@ -13,10 +13,10 @@ Its design is pattern [GBWBGBGBGWGWBWG](/stripes/gbwbgbgbgwgwbwg/) — the page 
 The **Borderland Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/g2w2db1w30g1w1g5t8g4db1g1db8w1db2y1~x2/">Borderland Dress</a></td><td><code>G/4 W4 DB2 W60 G2 W2 G10 T16 G8 DB2 G2 DB16 W2 DB4 Y/2</code></td><td>266</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/g2w2db1w30g1w1g5t8g4db1g1db8w1db2y1~x2/"><img src="/variants/s15/g2w2db1w30g1w1g5t8g4db1g1db8w1db2y1~x2/sett.png" alt="Borderland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g2w2db1w30g1w1g5t8g4db1g1db8w1db2y1~x2/">Borderland Dress</a></td><td></td><td><code>G/4 W4 DB2 W60 G2 W2 G10 T16 G8 DB2 G2 DB16 W2 DB4 Y/2</code></td><td>266</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g2w2db1w30g1w1g5t8g4db1g1db8w1db2y1~x2/"><img src="/variants/s15/g2w2db1w30g1w1g5t8g4db1g1db8w1db2y1~x2/sett.png" alt="Borderland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

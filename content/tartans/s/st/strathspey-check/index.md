@@ -16,10 +16,10 @@ Its design is pattern [GKGWRG](/stripes/gkgwrg/) — the page of every tartan sh
 The **Strathspey, Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g3r22lb5g10k10g2~x2/">Strathspey, Check</a></td><td><code>G/6 R44 LB10 G20 K20 G/4</code></td><td>198</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><img src="/variants/s6/g3r22lb5g10k10g2~x2/sett.png" alt="Strathspey, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g3r22lb5g10k10g2~x2/">Strathspey, Check</a></td><td></td><td><code>G/6 R44 LB10 G20 K20 G/4</code></td><td>198</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><img src="/variants/s6/g3r22lb5g10k10g2~x2/sett.png" alt="Strathspey, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

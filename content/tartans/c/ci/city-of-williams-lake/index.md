@@ -15,10 +15,10 @@ Designed by the Spinners & Weavers Guild for Williams Lake's 75th anniversary, M
 The **City of Williams Lake** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y6k1y3g3w3dr3k2dr3db3w3~x2/">City of Williams Lake</a></td><td><code>Y/12 K2 Y6 G6 W6 DR6 K4 DR6 DB6 W/6</code></td><td>102</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y6k1y3g3w3dr3k2dr3db3w3~x2/"><img src="/variants/s10/y6k1y3g3w3dr3k2dr3db3w3~x2/sett.png" alt="City of Williams Lake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y6k1y3g3w3dr3k2dr3db3w3~x2/">City of Williams Lake</a></td><td></td><td><code>Y/12 K2 Y6 G6 W6 DR6 K4 DR6 DB6 W/6</code></td><td>102</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y6k1y3g3w3dr3k2dr3db3w3~x2/"><img src="/variants/s10/y6k1y3g3w3dr3k2dr3db3w3~x2/sett.png" alt="City of Williams Lake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

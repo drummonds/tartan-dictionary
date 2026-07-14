@@ -16,10 +16,10 @@ Its design is pattern [RWRWKBKWRW](/stripes/rwrwkbkwrw/) — the page of every t
 The **Vemma XXXXXXXXX** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/">Vemma XXXXXXXXX</a></td><td><code>O/48 LB4 O14 LB6 K4 N8 K4 LB2 O8 LB/2</code></td><td>150</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><img src="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/sett.png" alt="Vemma XXXXXXXXX sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/">Vemma XXXXXXXXX</a></td><td></td><td><code>O/48 LB4 O14 LB6 K4 N8 K4 LB2 O8 LB/2</code></td><td>150</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><img src="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/sett.png" alt="Vemma XXXXXXXXX sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

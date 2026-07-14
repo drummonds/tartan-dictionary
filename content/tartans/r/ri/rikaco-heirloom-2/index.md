@@ -16,10 +16,10 @@ Its design is pattern [BBBGBBBBBY](/stripes/bbbgbbbbby/) — the page of every t
 The **Rikaco Heirloom** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/">Rikaco Heirloom</a></td><td><code>DB/6 DBi6 DB2 G52 DB20 DT2 DB6 DP10 DBi8 LY/4</code></td><td>222</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/"><img src="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/sett.png" alt="Rikaco Heirloom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/">Rikaco Heirloom</a></td><td></td><td><code>DB/6 DBi6 DB2 G52 DB20 DT2 DB6 DP10 DBi8 LY/4</code></td><td>222</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/"><img src="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/sett.png" alt="Rikaco Heirloom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

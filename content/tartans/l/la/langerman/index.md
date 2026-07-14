@@ -13,10 +13,10 @@ Its design is pattern [BGBGGBGBRBGRGRGR](/stripes/bgbggbgbrbgrgrgr/) — the pag
 The **Langerman** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/">Langerman</a></td><td><code>DB/2 DGi4 DB2 DGi6 DG12 DB2 DGi12 DB4 R10 DR26 DY46 R2 DY2 R2 DY4 R/2</code></td><td>272</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/"><img src="/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/sett.png" alt="Langerman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/">Langerman</a></td><td></td><td><code>DB/2 DGi4 DB2 DGi6 DG12 DB2 DGi12 DB4 R10 DR26 DY46 R2 DY2 R2 DY4 R/2</code></td><td>272</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/"><img src="/variants/s16/db1dgi2db1dgi3dg6db1dgi6db2r5dr13dy23r1dy1r1dy2r1~x2~dgi1802138-dg1502138/sett.png" alt="Langerman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

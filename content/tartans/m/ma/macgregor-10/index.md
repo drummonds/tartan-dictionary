@@ -22,12 +22,12 @@ The **MacGregor** tartan groups 2 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w52r22w6r8k1db3~x2/">MacGregor</a> ★</td><td><code>W/104 R44 W12 R16 K2 DB/6</code></td><td>258</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w52r22w6r8k1db3~x2/"><img src="/variants/s6/w52r22w6r8k1db3~x2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w52r22w6r8k1ri3~x2~r1506019-ri2806019/">Dress Burgundy (Dance)</a></td><td><code>W/104 R44 W12 R16 K2 Ri/6</code></td><td>258</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w52r22w6r8k1ri3~x2~r1506019-ri2806019/"><img src="/variants/s6/w52r22w6r8k1ri3~x2~r1506019-ri2806019/sett.png" alt="Dress Burgundy (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w52r22w6r8k1db3~x2/">MacGregor</a> ★</td><td></td><td><code>W/104 R44 W12 R16 K2 DB/6</code></td><td>258</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w52r22w6r8k1db3~x2/"><img src="/variants/s6/w52r22w6r8k1db3~x2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w52r22w6r8k1ri3~x2~r1506019-ri2806019/">Dress Burgundy (Dance)</a></td><td>0.38</td><td><code>W/104 R44 W12 R16 K2 Ri/6</code></td><td>258</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w52r22w6r8k1ri3~x2~r1506019-ri2806019/"><img src="/variants/s6/w52r22w6r8k1ri3~x2~r1506019-ri2806019/sett.png" alt="Dress Burgundy (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

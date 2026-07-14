@@ -13,11 +13,11 @@ Its design is pattern [KBKRKRBR](/stripes/kbkrkrbr/) — the page of every tarta
 The **Virgin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/">Virgin</a></td><td><code>R/102 N4 R12 K20 R4 K8 N6 K/6</code></td><td>216</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><img src="/variants/s8/r51n2r6k10r2k4n3k3~x2/sett.png" alt="Virgin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/">(Corporate)</a> · <a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/">Virgin</a></td></tr>
+<tr><td><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/">Virgin</a></td><td></td><td><code>R/102 N4 R12 K20 R4 K8 N6 K/6</code></td><td>216</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><img src="/variants/s8/r51n2r6k10r2k4n3k3~x2/sett.png" alt="Virgin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/">(Corporate)</a> · <a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/">Virgin</a></td></tr>
 </tbody>
 </table>
 

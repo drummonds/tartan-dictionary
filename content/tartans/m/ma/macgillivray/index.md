@@ -18,10 +18,10 @@ Its design is pattern [BRBRGRBRBRBBRBRBBRBRBRGRBRB](/stripes/brbrgrbrbrbbrbrbbrb
 The **MacGillivray** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/">MacGillivray</a></td><td><code>DB/4 R16 T2 R16 G72 R8 DB56 R4 T4 R144 DB4 T2 R16 T2 R16 T2 DB2 R144 T2 R4 DB56 R8 G72 R16 T2 R16 DB/4</code></td><td>1380</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/"><img src="/variants/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/sett.png" alt="MacGillivray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/">MacGillivray</a></td><td></td><td><code>DB/4 R16 T2 R16 G72 R8 DB56 R4 T4 R144 DB4 T2 R16 T2 R16 T2 DB2 R144 T2 R4 DB56 R8 G72 R16 T2 R16 DB/4</code></td><td>1380</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/"><img src="/variants/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/sett.png" alt="MacGillivray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

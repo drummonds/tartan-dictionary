@@ -20,10 +20,10 @@ Dress variant of the Anderson clan tartan; unmarked sample from the MacGregor-Ha
 The **Anderson Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/">Anderson Dress</a></td><td><code>R/6 W10 R4 W24 Y2 K4 Y2 W4 Y2 K4 Y4 K4 R2 G8 R4 G8 R/4</code></td><td>182</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/"><img src="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/sett.png" alt="Anderson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/">Anderson Dress</a></td><td></td><td><code>R/6 W10 R4 W24 Y2 K4 Y2 W4 Y2 K4 Y4 K4 R2 G8 R4 G8 R/4</code></td><td>182</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/"><img src="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/sett.png" alt="Anderson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

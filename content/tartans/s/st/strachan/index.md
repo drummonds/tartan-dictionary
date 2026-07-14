@@ -18,11 +18,11 @@ Its design is pattern [RKBKGKGKR](/stripes/rkbkgkgkr/) — the page of every tar
 The **Strachan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/">Strachan</a></td><td><code>R/4 K6 DB84 K6 Y4 K6 G44 K6 R/4</code></td><td>320</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><img src="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/sett.png" alt="Strachan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/">(Name)</a> · <a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2~db1406275/">Family Tartan</a></td></tr>
+<tr><td><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/">Strachan</a></td><td></td><td><code>R/4 K6 DB84 K6 Y4 K6 G44 K6 R/4</code></td><td>320</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><img src="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/sett.png" alt="Strachan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/">(Name)</a> · <a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2~db1406275/">Family Tartan</a></td></tr>
 </tbody>
 </table>
 

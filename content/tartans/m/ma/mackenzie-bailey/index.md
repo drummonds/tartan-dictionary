@@ -16,10 +16,10 @@ Its design is pattern [BKBKBKBKBKGRGKBKBKBKGWGK](/stripes/bkbkbkbkbkgrgkbkbkbkgw
 The **MacKenzie, Bailey** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/">MacKenzie, Bailey</a></td><td><code>K/12 G36 W4 G36 K12 DB36 K2 DB8 K2 DB36 K12 G36 R4 G36 K12 DB4 K4 DB4 K4 DB36 K4 DB4 K4 DB/4</code></td><td>688</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/"><img src="/variants/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/sett.png" alt="MacKenzie, Bailey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/">MacKenzie, Bailey</a></td><td></td><td><code>K/12 G36 W4 G36 K12 DB36 K2 DB8 K2 DB36 K12 G36 R4 G36 K12 DB4 K4 DB4 K4 DB36 K4 DB4 K4 DB/4</code></td><td>688</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/"><img src="/variants/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/sett.png" alt="MacKenzie, Bailey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

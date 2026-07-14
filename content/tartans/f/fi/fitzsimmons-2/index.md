@@ -18,10 +18,10 @@ Its design is pattern [GGYKBKGKYG](/stripes/ggykbkgkyg/) — the page of every t
 The **Fitzsimmons** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/">Fitzsimmons</a></td><td><code>DY/6 G4 LY36 K8 DR30 K8 DY12 K8 LY4 G/6</code></td><td>232</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/"><img src="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/sett.png" alt="Fitzsimmons sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/">Fitzsimmons</a></td><td></td><td><code>DY/6 G4 LY36 K8 DR30 K8 DY12 K8 LY4 G/6</code></td><td>232</td><td>~2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/"><img src="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/sett.png" alt="Fitzsimmons sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

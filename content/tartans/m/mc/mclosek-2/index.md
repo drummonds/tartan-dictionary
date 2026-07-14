@@ -18,10 +18,10 @@ Its design is pattern [KRKWKBWBKBWBKWKRKWKBWRKBWBKWKRKW](/stripes/krkwkbwbkbwbkw
 The **McLosek** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s32/w8k1m2k1w2k8dp8lb2dp1k2r1lb2dp8k8w8k2m1k2w8k8dp8lb1dp2k1dp2lb1dp8k8w2k2m1k2~m2209000-r1807008/">McLosek</a></td><td><code>W/8 K1 M2 K1 W2 K8 DP8 LB2 DP1 K2 R1 LB2 DP8 K8 W8 K2 M1 K2 W8 K8 DP8 LB1 DP2 K1 DP2 LB1 DP8 K8 W2 K2 M1 K/2</code></td><td>232</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s32/w8k1m2k1w2k8dp8lb2dp1k2r1lb2dp8k8w8k2m1k2w8k8dp8lb1dp2k1dp2lb1dp8k8w2k2m1k2~m2209000-r1807008/"><img src="/variants/s32/w8k1m2k1w2k8dp8lb2dp1k2r1lb2dp8k8w8k2m1k2w8k8dp8lb1dp2k1dp2lb1dp8k8w2k2m1k2~m2209000-r1807008/sett.png" alt="McLosek sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s32/w8k1m2k1w2k8dp8lb2dp1k2r1lb2dp8k8w8k2m1k2w8k8dp8lb1dp2k1dp2lb1dp8k8w2k2m1k2~m2209000-r1807008/">McLosek</a></td><td></td><td><code>W/8 K1 M2 K1 W2 K8 DP8 LB2 DP1 K2 R1 LB2 DP8 K8 W8 K2 M1 K2 W8 K8 DP8 LB1 DP2 K1 DP2 LB1 DP8 K8 W2 K2 M1 K/2</code></td><td>232</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s32/w8k1m2k1w2k8dp8lb2dp1k2r1lb2dp8k8w8k2m1k2w8k8dp8lb1dp2k1dp2lb1dp8k8w2k2m1k2~m2209000-r1807008/"><img src="/variants/s32/w8k1m2k1w2k8dp8lb2dp1k2r1lb2dp8k8w8k2m1k2w8k8dp8lb1dp2k1dp2lb1dp8k8w2k2m1k2~m2209000-r1807008/sett.png" alt="McLosek sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

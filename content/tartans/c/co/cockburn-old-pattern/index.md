@@ -16,10 +16,10 @@ Its design is pattern [RKGKGKBKWKBKGKGKGKGKGKBKW](/stripes/rkgkgkbkwkbkgkgkgkgkg
 The **Cockburn, Old pattern** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/r6k1g34k2y4k5db5k1w5k1db34k5g2k2g2k2g86k2g2k2g2k5db34k1w5~x2/">Cockburn, Old pattern</a></td><td><code>R/12 K2 G68 K4 Y8 K10 DB10 K2 W10 K2 DB68 K10 G4 K4 G4 K4 G172 K4 G4 K4 G4 K10 DB68 K2 W/10</code></td><td>978</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/r6k1g34k2y4k5db5k1w5k1db34k5g2k2g2k2g86k2g2k2g2k5db34k1w5~x2/"><img src="/variants/s25/r6k1g34k2y4k5db5k1w5k1db34k5g2k2g2k2g86k2g2k2g2k5db34k1w5~x2/sett.png" alt="Cockburn, Old pattern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/r6k1g34k2y4k5db5k1w5k1db34k5g2k2g2k2g86k2g2k2g2k5db34k1w5~x2/">Cockburn, Old pattern</a></td><td></td><td><code>R/12 K2 G68 K4 Y8 K10 DB10 K2 W10 K2 DB68 K10 G4 K4 G4 K4 G172 K4 G4 K4 G4 K10 DB68 K2 W/10</code></td><td>978</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/r6k1g34k2y4k5db5k1w5k1db34k5g2k2g2k2g86k2g2k2g2k5db34k1w5~x2/"><img src="/variants/s25/r6k1g34k2y4k5db5k1w5k1db34k5g2k2g2k2g86k2g2k2g2k5db34k1w5~x2/sett.png" alt="Cockburn, Old pattern sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

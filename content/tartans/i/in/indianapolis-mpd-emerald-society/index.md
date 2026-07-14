@@ -13,10 +13,10 @@ Its design is pattern [BGGRBRGGBGGRGRGGB](/stripes/bggrbrggbggrgrggb/) — the p
 The **Indianapolis MPD Emerald Society** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/">Indianapolis MPD Emerald Society</a></td><td><code>DB/67 DY5 G10 R5 Y2 R5 G10 DY5 DB4 DY5 G10 R5 N2 R5 DY5 G10 DB/24</code></td><td>267</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/"><img src="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/sett.png" alt="Indianapolis MPD Emerald Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/">Indianapolis MPD Emerald Society</a></td><td></td><td><code>DB/67 DY5 G10 R5 Y2 R5 G10 DY5 DB4 DY5 G10 R5 N2 R5 DY5 G10 DB/24</code></td><td>267</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/"><img src="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/sett.png" alt="Indianapolis MPD Emerald Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

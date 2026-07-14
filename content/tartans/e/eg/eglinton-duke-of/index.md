@@ -16,10 +16,10 @@ Its design is pattern [GGBWR](/stripes/ggbwr/) — the page of every tartan shar
 The **Eglinton, Duke of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/r15w1db4y1g15~x4/">Eglinton, Duke of</a></td><td><code>R/60 W4 DB16 Y4 G/60</code></td><td>168</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r15w1db4y1g15~x4/"><img src="/variants/s5/r15w1db4y1g15~x4/sett.png" alt="Eglinton, Duke of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r15w1db4y1g15~x4/">Eglinton, Duke of</a></td><td></td><td><code>R/60 W4 DB16 Y4 G/60</code></td><td>168</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r15w1db4y1g15~x4/"><img src="/variants/s5/r15w1db4y1g15~x4/sett.png" alt="Eglinton, Duke of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

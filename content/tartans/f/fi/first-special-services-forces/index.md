@@ -16,10 +16,10 @@ Its design is pattern [RBRKRWRKRGRKR](/stripes/rbrkrwrkrgrkr/) — the page of e
 The **First Special Services Forces** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/">First Special Services Forces</a></td><td><code>R/8 K18 R6 Y6 R36 K8 R4 W4 R4 K72 R48 DB8 R/6</code></td><td>442</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/"><img src="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/sett.png" alt="First Special Services Forces sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/">First Special Services Forces</a></td><td></td><td><code>R/8 K18 R6 Y6 R36 K8 R4 W4 R4 K72 R48 DB8 R/6</code></td><td>442</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/"><img src="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/sett.png" alt="First Special Services Forces sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

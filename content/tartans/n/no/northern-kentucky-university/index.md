@@ -13,10 +13,10 @@ Its design is pattern [GKWKGKW](/stripes/gkwkgkw/) — the page of every tartan 
 The **Northern Kentucky University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w5k3y6k5w3k30y2~x2/">Northern Kentucky University</a></td><td><code>W/10 K6 Y12 K10 W6 K60 Y/4</code></td><td>202</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><img src="/variants/s7/w5k3y6k5w3k30y2~x2/sett.png" alt="Northern Kentucky University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w5k3y6k5w3k30y2~x2/">Northern Kentucky University</a></td><td></td><td><code>W/10 K6 Y12 K10 W6 K60 Y/4</code></td><td>202</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><img src="/variants/s7/w5k3y6k5w3k30y2~x2/sett.png" alt="Northern Kentucky University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

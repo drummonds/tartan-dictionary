@@ -13,10 +13,10 @@ Its design is pattern [GRGKWGGKWKGRW](/stripes/grgkwggkwkgrw/) — the page of e
 The **Campagna Center** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/">Campagna Center</a></td><td><code>DG/4 R72 DG22 K10 W2 DG2 Y2 K2 W2 K2 DG32 R10 W/2</code></td><td>322</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/"><img src="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/sett.png" alt="Campagna Center sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/">Campagna Center</a></td><td></td><td><code>DG/4 R72 DG22 K10 W2 DG2 Y2 K2 W2 K2 DG32 R10 W/2</code></td><td>322</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/"><img src="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/sett.png" alt="Campagna Center sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

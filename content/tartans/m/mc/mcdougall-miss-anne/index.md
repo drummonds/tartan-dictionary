@@ -13,10 +13,10 @@ Its design is pattern [WBRWBWGWRBRWBWGWBRW](/stripes/wbrwbwgwrbrwbwgwbrw/) — t
 The **McDougall, Miss Anne** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/">McDougall, Miss Anne</a></td><td><code>LB/2 DR6 R6 W52 DB6 W6 G28 W72 R6 DR2 R6 W72 DB28 W4 G6 W52 DR6 R6 LB/2</code></td><td>732</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><img src="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/sett.png" alt="McDougall, Miss Anne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/">McDougall, Miss Anne</a></td><td></td><td><code>LB/2 DR6 R6 W52 DB6 W6 G28 W72 R6 DR2 R6 W72 DB28 W4 G6 W52 DR6 R6 LB/2</code></td><td>732</td><td>1978</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><img src="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/sett.png" alt="McDougall, Miss Anne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

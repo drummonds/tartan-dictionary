@@ -18,10 +18,10 @@ Its design is pattern [GWKBKBR](/stripes/gwkbkbr/) — the page of every tartan 
 The **MacLeay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/">MacLeay</a></td><td><code>R/108 DB16 K16 DB16 K16 LB24 Y/4</code></td><td>288</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><img src="/variants/s7/r27db4k4db4k4lb6y1~x4/sett.png" alt="MacLeay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/">MacLeay</a></td><td></td><td><code>R/108 DB16 K16 DB16 K16 LB24 Y/4</code></td><td>288</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><img src="/variants/s7/r27db4k4db4k4lb6y1~x4/sett.png" alt="MacLeay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

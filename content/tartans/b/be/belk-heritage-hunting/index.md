@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKGBYGGKBKYK](/stripes/gkgkgkgbyggkbkyk/) — the pag
 The **Belk Heritage Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4~x2/">Belk Heritage Hunting</a></td><td><code>K/32 LY2 K8 N4 K8 DY2 DG82 LY4 DB2 DY72 K2 DG6 K2 DY6 K2 DG/8</code></td><td>444</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4~x2/"><img src="/variants/s16/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4~x2/sett.png" alt="Belk Heritage Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4~x2/">Belk Heritage Hunting</a></td><td></td><td><code>K/32 LY2 K8 N4 K8 DY2 DG82 LY4 DB2 DY72 K2 DG6 K2 DY6 K2 DG/8</code></td><td>444</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4~x2/"><img src="/variants/s16/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4~x2/sett.png" alt="Belk Heritage Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

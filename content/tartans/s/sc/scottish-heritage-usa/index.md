@@ -13,10 +13,10 @@ Its design is pattern [GRGKGWWR](/stripes/grgkgwwr/) — the page of every tarta
 The **Scottish Heritage USA** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3~x2/">Scottish Heritage USA</a></td><td><code>G/6 R4 G28 K12 G8 W4 LB28 R4 LB28 W4 G8 K12 G28 M4 G/6</code></td><td>356</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3~x2/"><img src="/variants/s15/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3~x2/sett.png" alt="Scottish Heritage USA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3~x2/">Scottish Heritage USA</a></td><td></td><td><code>G/6 R4 G28 K12 G8 W4 LB28 R4 LB28 W4 G8 K12 G28 M4 G/6</code></td><td>356</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3~x2/"><img src="/variants/s15/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3~x2/sett.png" alt="Scottish Heritage USA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

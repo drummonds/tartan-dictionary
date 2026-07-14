@@ -13,10 +13,10 @@ Its design is pattern [KGWBGGKGBKWBGYKWK](/stripes/kgwbggkgbkwbgykwk/) — the p
 The **Le Cercle des Femmes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/">Le Cercle des Femmes</a></td><td><code>K/24 G32 LB4 DO24 G4 Y20 K8 Y16 N54 K60 LB12 N54 G40 LO8 K4 LB8 K/8</code></td><td>728</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/"><img src="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/sett.png" alt="Le Cercle des Femmes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/">Le Cercle des Femmes</a></td><td></td><td><code>K/24 G32 LB4 DO24 G4 Y20 K8 Y16 N54 K60 LB12 N54 G40 LO8 K4 LB8 K/8</code></td><td>728</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/"><img src="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/sett.png" alt="Le Cercle des Femmes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

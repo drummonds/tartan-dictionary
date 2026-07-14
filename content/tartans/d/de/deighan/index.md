@@ -20,12 +20,12 @@ The **Deighan** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/">Deighan</a> ★</td><td><code>DT/8 DB86 K40 DT14 Y/4</code></td><td>292</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/"><img src="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/sett.png" alt="Deighan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/">(Burham Kent) (Name)</a></td><td><code>N/8 DB86 K40 N14 O/4</code></td><td>292</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/"><img src="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/sett.png" alt="(Burham Kent) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/">Deighan</a> ★</td><td></td><td><code>DT/8 DB86 K40 DT14 Y/4</code></td><td>292</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/"><img src="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/sett.png" alt="Deighan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/">(Burham Kent) (Name)</a></td><td>0.18</td><td><code>N/8 DB86 K40 N14 O/4</code></td><td>292</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/"><img src="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/sett.png" alt="(Burham Kent) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

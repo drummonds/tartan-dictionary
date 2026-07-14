@@ -15,10 +15,10 @@ Designed by pupil Beth Murdoch, winner of a school competition reflecting Allowa
 The **Alloway Primary** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/lb30db1w4n10y18~x2/">Alloway Primary</a></td><td><code>LB/60 DB2 W8 N20 Y/36</code></td><td>156</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/lb30db1w4n10y18~x2/"><img src="/variants/s5/lb30db1w4n10y18~x2/sett.png" alt="Alloway Primary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/lb30db1w4n10y18~x2/">Alloway Primary</a></td><td></td><td><code>LB/60 DB2 W8 N20 Y/36</code></td><td>156</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/lb30db1w4n10y18~x2/"><img src="/variants/s5/lb30db1w4n10y18~x2/sett.png" alt="Alloway Primary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Clan tartan with a very large 14-inch sett in weathered blue and green.
 The **MacIsaac** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/">MacIsaac</a></td><td><code>N/40 K4 N4 K4 N4 K40 DY40 LY8 DY40 K40 N40 K2 LY/8</code></td><td>500</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/"><img src="/variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/sett.png" alt="MacIsaac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/">MacIsaac</a></td><td></td><td><code>N/40 K4 N4 K4 N4 K40 DY40 LY8 DY40 K40 N40 K2 LY/8</code></td><td>500</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/"><img src="/variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/sett.png" alt="MacIsaac sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

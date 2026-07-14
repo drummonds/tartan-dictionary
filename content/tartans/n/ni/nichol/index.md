@@ -13,10 +13,10 @@ Its design is pattern [KBKBGBGBGR](/stripes/kbkbgbgbgr/) — the page of every t
 The **Nichol** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/">Nichol</a></td><td><code>K/6 DB30 K24 DB6 DG6 DB6 DG24 DB30 DG6 R/6</code></td><td>276</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/"><img src="/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/sett.png" alt="Nichol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/">Nichol</a></td><td></td><td><code>K/6 DB30 K24 DB6 DG6 DB6 DG24 DB30 DG6 R/6</code></td><td>276</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/"><img src="/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/sett.png" alt="Nichol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

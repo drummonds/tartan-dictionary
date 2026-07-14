@@ -18,10 +18,10 @@ Its design is pattern [WBWBBBBBBBY](/stripes/wbwbbbbbbby/) — the page of every
 The **Jewish** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/">Jewish</a></td><td><code>W/6 DBi6 W2 DB88 N2 DB4 N2 DR8 N2 DB10 LY/4</code></td><td>258</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/"><img src="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/sett.png" alt="Jewish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/">Jewish</a></td><td></td><td><code>W/6 DBi6 W2 DB88 N2 DB4 N2 DR8 N2 DB10 LY/4</code></td><td>258</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/"><img src="/variants/s11/w3dbi3w1db44n1db2n1dr4n1db5ly2~x2~dbi1409278-db1404245/sett.png" alt="Jewish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

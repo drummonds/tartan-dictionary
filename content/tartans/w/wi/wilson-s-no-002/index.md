@@ -13,10 +13,10 @@ Its design is pattern [RGYBWRBRWBYGRW](/stripes/rgybwrbrwbygrw/) — the page of
 The **Wilson's No.002** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r21g13ly2dp11lb9r11dp2r11lb9dp11ly2g13r21w1~x2~ly3307090-w4000000/">Wilson's No.002</a></td><td><code>R/42 G26 LY4 DP22 LB18 R22 DP4 R22 LB18 DP22 LY4 G26 R42 W/2</code></td><td>504</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r21g13ly2dp11lb9r11dp2r11lb9dp11ly2g13r21w1~x2~ly3307090-w4000000/"><img src="/variants/s14/r21g13ly2dp11lb9r11dp2r11lb9dp11ly2g13r21w1~x2~ly3307090-w4000000/sett.png" alt="Wilson's No.002 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r21g13ly2dp11lb9r11dp2r11lb9dp11ly2g13r21w1~x2~ly3307090-w4000000/">Wilson's No.002</a></td><td></td><td><code>R/42 G26 LY4 DP22 LB18 R22 DP4 R22 LB18 DP22 LY4 G26 R42 W/2</code></td><td>504</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r21g13ly2dp11lb9r11dp2r11lb9dp11ly2g13r21w1~x2~ly3307090-w4000000/"><img src="/variants/s14/r21g13ly2dp11lb9r11dp2r11lb9dp11ly2g13r21w1~x2~ly3307090-w4000000/sett.png" alt="Wilson's No.002 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

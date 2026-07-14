@@ -15,11 +15,11 @@ Created for the Heslop family descended from William Douglas Heslop (b.1857); we
 The **Heslop Lurdenlaw by Kelso** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/n44dg12db1r6~x2/">Heslop Lurdenlaw by Kelso</a></td><td><code>N/88 DG24 DB2 R/12</code></td><td>152</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/n44dg12db1r6~x2/"><img src="/variants/s4/n44dg12db1r6~x2/sett.png" alt="Heslop Lurdenlaw by Kelso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s4/n44dg12db1r6~x2/">Heslop Lurdenlaw by Kelso</a> · <a href="/variants/s4/n44dg12db1r6~x2~r1406028/">Heslop, William D Name Tartan</a></td></tr>
+<tr><td><a href="/variants/s4/n44dg12db1r6~x2/">Heslop Lurdenlaw by Kelso</a></td><td></td><td><code>N/88 DG24 DB2 R/12</code></td><td>152</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/n44dg12db1r6~x2/"><img src="/variants/s4/n44dg12db1r6~x2/sett.png" alt="Heslop Lurdenlaw by Kelso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s4/n44dg12db1r6~x2/">Heslop Lurdenlaw by Kelso</a> · <a href="/variants/s4/n44dg12db1r6~x2~r1406028/">Heslop, William D Name Tartan</a></td></tr>
 </tbody>
 </table>
 

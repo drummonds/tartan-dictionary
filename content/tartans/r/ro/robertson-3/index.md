@@ -18,10 +18,10 @@ Its design is pattern [RBRBRGR](/stripes/rbrbrgr/) — the page of every tartan 
 The **Robertson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r2db1r16db4r1g10r1~x4/">Robertson</a></td><td><code>R/8 DB4 R64 DB16 R4 G40 R/4</code></td><td>268</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><img src="/variants/s7/r2db1r16db4r1g10r1~x4/sett.png" alt="Robertson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2db1r16db4r1g10r1~x4/">Robertson</a></td><td></td><td><code>R/8 DB4 R64 DB16 R4 G40 R/4</code></td><td>268</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><img src="/variants/s7/r2db1r16db4r1g10r1~x4/sett.png" alt="Robertson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

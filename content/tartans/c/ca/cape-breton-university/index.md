@@ -13,10 +13,10 @@ Its design is pattern [BRBGBGBGBY](/stripes/brbgbgbgby/) — the page of every t
 The **Cape Breton University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/">Cape Breton University</a></td><td><code>DB/8 R34 DB8 G8 DB4 G8 DB8 G54 DB8 LY/8</code></td><td>280</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><img src="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/sett.png" alt="Cape Breton University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/">Cape Breton University</a></td><td></td><td><code>DB/8 R34 DB8 G8 DB4 G8 DB8 G54 DB8 LY/8</code></td><td>280</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><img src="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/sett.png" alt="Cape Breton University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

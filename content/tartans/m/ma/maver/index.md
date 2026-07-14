@@ -13,10 +13,10 @@ Its design is pattern [GGGWGRG](/stripes/gggwgrg/) — the page of every tartan 
 The **Maver** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/">Maver</a></td><td><code>DG/4 Y4 DG4 W4 DG40 R80 Y/4</code></td><td>272</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/"><img src="/variants/s7/dg1y1dg1w1dg10r20y1~x4/sett.png" alt="Maver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/">Maver</a></td><td></td><td><code>DG/4 Y4 DG4 W4 DG40 R80 Y/4</code></td><td>272</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/"><img src="/variants/s7/dg1y1dg1w1dg10r20y1~x4/sett.png" alt="Maver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

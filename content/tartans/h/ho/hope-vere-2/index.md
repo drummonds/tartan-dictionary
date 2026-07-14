@@ -13,10 +13,10 @@ Its design is pattern [GKWKGKBKGK](/stripes/gkwkgkbkgk/) — the page of every t
 The **Hope-Vere** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/">Hope-Vere</a></td><td><code>G/64 K4 LB8 K4 G12 K20 DB48 K4 Y4 K/12</code></td><td>284</td><td>~1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><img src="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/sett.png" alt="Hope-Vere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/">Hope-Vere</a></td><td></td><td><code>G/64 K4 LB8 K4 G12 K20 DB48 K4 Y4 K/12</code></td><td>284</td><td>~1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><img src="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/sett.png" alt="Hope-Vere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

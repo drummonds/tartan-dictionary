@@ -13,10 +13,10 @@ Its design is pattern [BBBKRKRKBRKR](/stripes/bbbkrkrkbrkr/) — the page of eve
 The **Sweetheart, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/">Sweetheart, The</a></td><td><code>DR/6 N5 DR23 K20 M6 K3 O4 K10 DR14 R45 K7 R/6</code></td><td>286</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/"><img src="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/sett.png" alt="Sweetheart, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/">Sweetheart, The</a></td><td></td><td><code>DR/6 N5 DR23 K20 M6 K3 O4 K10 DR14 R45 K7 R/6</code></td><td>286</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/"><img src="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/sett.png" alt="Sweetheart, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

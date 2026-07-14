@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/) — the page of e
 The **Yamaguchi Tsutomu** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/">Yamaguchi Tsutomu</a></td><td><code>Y/40 K6 Y20 K12 Y16 K16 Y12 K20 Y6 K24 Y4 K28 Y/2</code></td><td>370</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/"><img src="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/sett.png" alt="Yamaguchi Tsutomu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/">Yamaguchi Tsutomu</a></td><td></td><td><code>Y/40 K6 Y20 K12 Y16 K16 Y12 K20 Y6 K24 Y4 K28 Y/2</code></td><td>370</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/"><img src="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/sett.png" alt="Yamaguchi Tsutomu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

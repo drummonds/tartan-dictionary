@@ -13,10 +13,10 @@ Its design is pattern [GBGRBWGG](/stripes/gbgrbwgg/) — the page of every tarta
 The **National Trust** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/">National Trust</a></td><td><code>DG/4 DO16 DG16 R6 DO2 W24 DG4 G/2</code></td><td>142</td><td>~1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/"><img src="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/sett.png" alt="National Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/">National Trust</a></td><td></td><td><code>DG/4 DO16 DG16 R6 DO2 W24 DG4 G/2</code></td><td>142</td><td>~1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/"><img src="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/sett.png" alt="National Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

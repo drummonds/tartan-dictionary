@@ -16,10 +16,10 @@ Its design is pattern [KRWRKWKRWRKWKYKYKW](/stripes/krwrkwkrwrkwkykykw/) — the
 The **Buchanan Variant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly3607098-o2505058/">Buchanan Variant</a></td><td><code>LB/16 K6 LY44 K6 LY44 K6 LB16 K6 O44 LB16 O44 K6 LB16 K6 R28 W6 R28 K/12</code></td><td>672</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly3607098-o2505058/"><img src="/variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly3607098-o2505058/sett.png" alt="Buchanan Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly3607098-o2505058/">Buchanan Variant</a></td><td></td><td><code>LB/16 K6 LY44 K6 LY44 K6 LB16 K6 O44 LB16 O44 K6 LB16 K6 R28 W6 R28 K/12</code></td><td>672</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly3607098-o2505058/"><img src="/variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly3607098-o2505058/sett.png" alt="Buchanan Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

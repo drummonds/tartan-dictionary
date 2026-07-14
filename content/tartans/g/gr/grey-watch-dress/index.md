@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBWBWBBBB](/stripes/bbbbbbwbwbbbb/) — the page of e
 The **Grey Watch Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/">Grey Watch Dress</a></td><td><code>N/24 DT4 N4 DT4 N4 DT20 W24 DT6 W24 DT20 N24 DT4 N/4</code></td><td>304</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/"><img src="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/sett.png" alt="Grey Watch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/">Grey Watch Dress</a></td><td></td><td><code>N/24 DT4 N4 DT4 N4 DT20 W24 DT6 W24 DT20 N24 DT4 N/4</code></td><td>304</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/"><img src="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/sett.png" alt="Grey Watch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

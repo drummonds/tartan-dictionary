@@ -13,10 +13,10 @@ Its design is pattern [BWBKBKBKGRGWR](/stripes/bwbkbkbkgrgwr/) — the page of e
 The **Salich-Plaja of St. Genis** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/">Salich-Plaja of St. Genis</a></td><td><code>DB/26 W6 DB26 K6 DB6 K16 DB6 K30 Y6 R6 G6 W6 R/6</code></td><td>272</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/"><img src="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/sett.png" alt="Salich-Plaja of St. Genis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/">Salich-Plaja of St. Genis</a></td><td></td><td><code>DB/26 W6 DB26 K6 DB6 K16 DB6 K30 Y6 R6 G6 W6 R/6</code></td><td>272</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/"><img src="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/sett.png" alt="Salich-Plaja of St. Genis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

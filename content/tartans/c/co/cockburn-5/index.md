@@ -20,15 +20,15 @@ The **Cockburn** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/">Cockburn</a> ★</td><td><code>G/40 K4 G4 K4 G4 K4 DB16 K4 W4 K4 DB4 Y4 K4 G16 K4 R/4</code></td><td>204</td><td>1830</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/"><img src="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/sett.png" alt="Cockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/">Cockburn</a></td><td><code>G/36 K1 G1 K1 G1 K1 DB12 K1 W1 K1 DB12 K1 Y1 K1 G12 K2 R/2</code></td><td>136</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/"><img src="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/sett.png" alt="Cockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2/">Cockburn</a></td><td><code>G/36 K1 G1 K1 G1 K1 DB12 K1 W1 K1 DB12 K1 Y1 K1 G12 K2 R/2</code></td><td>136</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/">Cockburn</a></td><td><code>G/72 K2 G2 K2 G2 K2 DB24 K2 W2 K2 DB24 K2 Y2 K2 G24 K4 R/4</code></td><td>272</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2/">Cockburn</a> · <a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/">Cockburn</a></td></tr>
+<tr><td><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/">Cockburn</a> ★</td><td></td><td><code>G/40 K4 G4 K4 G4 K4 DB16 K4 W4 K4 DB4 Y4 K4 G16 K4 R/4</code></td><td>204</td><td>1830</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/"><img src="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/sett.png" alt="Cockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/">Cockburn</a></td><td>1.15</td><td><code>G/36 K1 G1 K1 G1 K1 DB12 K1 W1 K1 DB12 K1 Y1 K1 G12 K2 R/2</code></td><td>136</td><td>1906</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/"><img src="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/sett.png" alt="Cockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2/">Cockburn</a></td><td>1.15</td><td><code>G/36 K1 G1 K1 G1 K1 DB12 K1 W1 K1 DB12 K1 Y1 K1 G12 K2 R/2</code></td><td>136</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/">Cockburn</a></td><td>1.15</td><td><code>G/72 K2 G2 K2 G2 K2 DB24 K2 W2 K2 DB24 K2 Y2 K2 G24 K4 R/4</code></td><td>272</td><td>1906</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2/">Cockburn</a> · <a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/">Cockburn</a></td></tr>
 </tbody>
 </table>
 

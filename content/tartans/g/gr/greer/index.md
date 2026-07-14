@@ -18,10 +18,10 @@ Its design is pattern [BBWRWBWBWRWBBW](/stripes/bbwrwbwbwrwbbw/) — the page of
 The **Greer** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/">Greer</a></td><td><code>DR/24 DB20 LB6 O6 LB6 DB6 LB32 DB6 LB6 O6 LB6 DB20 DR24 W/8</code></td><td>320</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/"><img src="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/sett.png" alt="Greer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/">Greer</a></td><td></td><td><code>DR/24 DB20 LB6 O6 LB6 DB6 LB32 DB6 LB6 O6 LB6 DB20 DR24 W/8</code></td><td>320</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/"><img src="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/sett.png" alt="Greer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

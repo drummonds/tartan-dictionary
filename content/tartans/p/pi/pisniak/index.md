@@ -13,10 +13,10 @@ Its design is pattern [BGBBYYB](/stripes/bgbbyyb/) — the page of every tartan 
 The **Pisniak** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/">Pisniak</a></td><td><code>DT/80 DG6 DP8 DT56 LY4 LR4 DT/14</code></td><td>250</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/"><img src="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/sett.png" alt="Pisniak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/">Pisniak</a></td><td></td><td><code>DT/80 DG6 DP8 DT56 LY4 LR4 DT/14</code></td><td>250</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/"><img src="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/sett.png" alt="Pisniak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

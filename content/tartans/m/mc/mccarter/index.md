@@ -13,10 +13,10 @@ Its design is pattern [RKBGKGKY](/stripes/rkbgkgky/) — the page of every tarta
 The **McCarter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/">McCarter</a></td><td><code>LO/8 K4 DY30 K4 G30 DB30 K4 R/2</code></td><td>214</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/"><img src="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/sett.png" alt="McCarter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/">McCarter</a></td><td></td><td><code>LO/8 K4 DY30 K4 G30 DB30 K4 R/2</code></td><td>214</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/"><img src="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/sett.png" alt="McCarter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

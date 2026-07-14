@@ -18,10 +18,10 @@ Its design is pattern [BGBGGGBGBGBKRKG](/stripes/bgbgggbgbgbkrkg/) — the page 
 The **Ontario** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/">Ontario</a></td><td><code>G/48 K2 R10 K2 DO40 G8 DO8 G8 DO42 G8 Y10 G48 DO8 G8 DO/8</code></td><td>460</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/"><img src="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/sett.png" alt="Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/">Ontario</a></td><td></td><td><code>G/48 K2 R10 K2 DO40 G8 DO8 G8 DO42 G8 Y10 G48 DO8 G8 DO/8</code></td><td>460</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/"><img src="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/sett.png" alt="Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

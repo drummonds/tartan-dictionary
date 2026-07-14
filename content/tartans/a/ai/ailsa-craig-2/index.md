@@ -16,10 +16,10 @@ Its design is pattern [RWRGKWKW](/stripes/rwrgkwkw/) — the page of every tarta
 The **Ailsa Craig** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/">Ailsa Craig</a></td><td><code>R/10 W4 O40 DY4 K32 W36 K4 W/10</code></td><td>260</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><img src="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/sett.png" alt="Ailsa Craig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/">Ailsa Craig</a></td><td></td><td><code>R/10 W4 O40 DY4 K32 W36 K4 W/10</code></td><td>260</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><img src="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/sett.png" alt="Ailsa Craig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

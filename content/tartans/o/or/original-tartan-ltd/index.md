@@ -13,10 +13,10 @@ Its design is pattern [GGGWGWGWGGR](/stripes/gggwgwgwggr/) — the page of every
 The **Original Tartan Ltd** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/">Original Tartan Ltd</a></td><td><code>R/4 Y4 DG48 LT20 DY12 LT4 DY12 LT2 DY142 DG4 G/4</code></td><td>504</td><td>1962</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/"><img src="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/sett.png" alt="Original Tartan Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/">Original Tartan Ltd</a></td><td></td><td><code>R/4 Y4 DG48 LT20 DY12 LT4 DY12 LT2 DY142 DG4 G/4</code></td><td>504</td><td>1962</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/"><img src="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/sett.png" alt="Original Tartan Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

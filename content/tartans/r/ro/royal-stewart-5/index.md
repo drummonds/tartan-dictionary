@@ -13,10 +13,10 @@ Its design is pattern [RBKGKRKW](/stripes/rbkgkrkw/) — the page of every tarta
 The **Royal Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/">Royal Stewart</a></td><td><code>R/14 DB4 K4 Y2 K4 R4 K2 W/2</code></td><td>56</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/"><img src="/variants/s8/r7db2k2y1k2r2k1w1~x2/sett.png" alt="Royal Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/">Royal Stewart</a></td><td></td><td><code>R/14 DB4 K4 Y2 K4 R4 K2 W/2</code></td><td>56</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/"><img src="/variants/s8/r7db2k2y1k2r2k1w1~x2/sett.png" alt="Royal Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

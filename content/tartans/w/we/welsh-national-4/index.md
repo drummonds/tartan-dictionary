@@ -13,10 +13,10 @@ Its design is pattern [GRKRRRK](/stripes/grkrrrk/) — the page of every tartan 
 The **Welsh, National** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k4o2r2o2k2o15y2~x4/">Welsh, National</a></td><td><code>K/16 O8 R8 O8 K8 O60 Y/8</code></td><td>208</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k4o2r2o2k2o15y2~x4/"><img src="/variants/s7/k4o2r2o2k2o15y2~x4/sett.png" alt="Welsh, National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k4o2r2o2k2o15y2~x4/">Welsh, National</a></td><td></td><td><code>K/16 O8 R8 O8 K8 O60 Y/8</code></td><td>208</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k4o2r2o2k2o15y2~x4/"><img src="/variants/s7/k4o2r2o2k2o15y2~x4/sett.png" alt="Welsh, National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

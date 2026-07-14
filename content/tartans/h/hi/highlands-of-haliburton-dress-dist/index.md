@@ -13,10 +13,10 @@ Its design is pattern [YWBGYYWGYBRWYWY](/stripes/ywbgyywgybrwywy/) — the page 
 The **Highlands of Haliburton Dress (Dist.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/lg4w2lg1w14r2do4lg8g4w2lg3ly2g2do2w2ly2~x2/">Highlands of Haliburton Dress (Dist.</a></td><td><code>LG/8 W4 LG2 W28 R4 DO8 LG16 G8 W4 LG6 LY4 G4 DO4 W4 LY/4</code></td><td>204</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/lg4w2lg1w14r2do4lg8g4w2lg3ly2g2do2w2ly2~x2/"><img src="/variants/s15/lg4w2lg1w14r2do4lg8g4w2lg3ly2g2do2w2ly2~x2/sett.png" alt="Highlands of Haliburton Dress (Dist. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/lg4w2lg1w14r2do4lg8g4w2lg3ly2g2do2w2ly2~x2/">Highlands of Haliburton Dress (Dist.</a></td><td></td><td><code>LG/8 W4 LG2 W28 R4 DO8 LG16 G8 W4 LG6 LY4 G4 DO4 W4 LY/4</code></td><td>204</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/lg4w2lg1w14r2do4lg8g4w2lg3ly2g2do2w2ly2~x2/"><img src="/variants/s15/lg4w2lg1w14r2do4lg8g4w2lg3ly2g2do2w2ly2~x2/sett.png" alt="Highlands of Haliburton Dress (Dist. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBGBWBKB](/stripes/bgbgbwbkb/) — the page of every tar
 The **Canmore** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/">Canmore</a></td><td><code>DB/8 K6 DB56 W4 DP12 DG56 N4 DG8 DP/8</code></td><td>308</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/"><img src="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/sett.png" alt="Canmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/">Canmore</a></td><td></td><td><code>DB/8 K6 DB56 W4 DP12 DG56 N4 DG8 DP/8</code></td><td>308</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/"><img src="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/sett.png" alt="Canmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

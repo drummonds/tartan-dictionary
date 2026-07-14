@@ -13,10 +13,10 @@ Its design is pattern [GRGRGKBKBKBKGWGWGKBKBKBKGWKWGRKRWR](/stripes/grgrgkbkbkbk
 The **Duke of Edinburgh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/">Duke of Edinburgh</a></td><td><code>DG/84 R6 DG8 R16 DG14 K8 DB6 K2 DB6 K2 DB6 K2 DG4 LB3 DG16 LB3 DG4 K6 DB8 K3 DB6 K3 DB8 K10 Y3 W3 K3 W6 DG16 R8 K3 R4 W4 R/4</code></td><td>488</td><td>~1955</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/"><img src="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/sett.png" alt="Duke of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/">Duke of Edinburgh</a></td><td></td><td><code>DG/84 R6 DG8 R16 DG14 K8 DB6 K2 DB6 K2 DB6 K2 DG4 LB3 DG16 LB3 DG4 K6 DB8 K3 DB6 K3 DB8 K10 Y3 W3 K3 W6 DG16 R8 K3 R4 W4 R/4</code></td><td>488</td><td>~1955</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/"><img src="/variants/s34/dg84r6dg8r16dg14k8db6k2db6k2db6k2dg4lb3dg16lb3dg4k6db8k3db6k3db8k10y3w3k3w6dg16r8k3r4w4r4/sett.png" alt="Duke of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

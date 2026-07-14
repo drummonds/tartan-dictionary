@@ -13,10 +13,10 @@ Its design is pattern [BKBKGKRKGKBKW](/stripes/bkbkgkrkgkbkw/) — the page of e
 The **Craigclowan School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/">Craigclowan School</a></td><td><code>DB/48 K8 DB4 K24 G32 K2 R6 K2 G32 K24 DB24 K2 W/6</code></td><td>374</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><img src="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Craigclowan School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/">Craigclowan School</a></td><td></td><td><code>DB/48 K8 DB4 K24 G32 K2 R6 K2 G32 K24 DB24 K2 W/6</code></td><td>374</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><img src="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Craigclowan School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

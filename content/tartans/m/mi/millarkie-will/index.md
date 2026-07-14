@@ -13,10 +13,10 @@ Its design is pattern [BKWKBKBK](/stripes/bkwkbkbk/) — the page of every tarta
 The **Millarkie, Will** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k15db10k15dr7k15w5k15db10/">Millarkie, Will</a></td><td><code>K/15 DB10 K15 DR7 K15 W5 K15 DB/10</code></td><td>159</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k15db10k15dr7k15w5k15db10/"><img src="/variants/s8/k15db10k15dr7k15w5k15db10/sett.png" alt="Millarkie, Will sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k15db10k15dr7k15w5k15db10/">Millarkie, Will</a></td><td></td><td><code>K/15 DB10 K15 DR7 K15 W5 K15 DB/10</code></td><td>159</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k15db10k15dr7k15w5k15db10/"><img src="/variants/s8/k15db10k15dr7k15w5k15db10/sett.png" alt="Millarkie, Will sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

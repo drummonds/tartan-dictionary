@@ -20,12 +20,12 @@ The **Brown Watch** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dy7k2dy12k10g12k3~x2/">Brown Watch</a> ★</td><td><code>DY/14 K4 DY24 K20 G24 K/6</code></td><td>164</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy7k2dy12k10g12k3~x2/"><img src="/variants/s6/dy7k2dy12k10g12k3~x2/sett.png" alt="Brown Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/dy7k2dy12k10dg12k3~x2/">(single) (Fashion)</a></td><td><code>DY/14 K4 DY24 K20 DG24 K/6</code></td><td>164</td><td>~1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy7k2dy12k10dg12k3~x2/"><img src="/variants/s6/dy7k2dy12k10dg12k3~x2/sett.png" alt="(single) (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy7k2dy12k10g12k3~x2/">Brown Watch</a> ★</td><td></td><td><code>DY/14 K4 DY24 K20 G24 K/6</code></td><td>164</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dy7k2dy12k10g12k3~x2/"><img src="/variants/s6/dy7k2dy12k10g12k3~x2/sett.png" alt="Brown Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy7k2dy12k10dg12k3~x2/">(single) (Fashion)</a></td><td>0.13</td><td><code>DY/14 K4 DY24 K20 DG24 K/6</code></td><td>164</td><td>~1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dy7k2dy12k10dg12k3~x2/"><img src="/variants/s6/dy7k2dy12k10dg12k3~x2/sett.png" alt="(single) (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

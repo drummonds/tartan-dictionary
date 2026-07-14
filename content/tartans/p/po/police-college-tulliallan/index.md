@@ -13,10 +13,10 @@ Its design is pattern [BKKGKBW](/stripes/bkkgkbw/) — the page of every tartan 
 The **Police College Tulliallan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db2k4kii36g1ki34db4w2~x2~kii0803152-ki0604259/">Police College Tulliallan</a></td><td><code>DB/4 K8 Kii72 G2 Ki68 DB8 W/4</code></td><td>324</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db2k4kii36g1ki34db4w2~x2~kii0803152-ki0604259/"><img src="/variants/s7/db2k4kii36g1ki34db4w2~x2~kii0803152-ki0604259/sett.png" alt="Police College Tulliallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db2k4kii36g1ki34db4w2~x2~kii0803152-ki0604259/">Police College Tulliallan</a></td><td></td><td><code>DB/4 K8 Kii72 G2 Ki68 DB8 W/4</code></td><td>324</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db2k4kii36g1ki34db4w2~x2~kii0803152-ki0604259/"><img src="/variants/s7/db2k4kii36g1ki34db4w2~x2~kii0803152-ki0604259/sett.png" alt="Police College Tulliallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

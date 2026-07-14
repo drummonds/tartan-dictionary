@@ -18,10 +18,10 @@ Its design is pattern [RGRGRBWBRKRY](/stripes/rgrgrbwbrkry/) — the page of eve
 The **Ikelman** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/">Ikelman</a></td><td><code>R/32 DG4 R6 DG4 R26 DP24 W4 DP24 R26 K26 R4 LY/4</code></td><td>332</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/"><img src="/variants/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/sett.png" alt="Ikelman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/">Ikelman</a></td><td></td><td><code>R/32 DG4 R6 DG4 R26 DP24 W4 DP24 R26 K26 R4 LY/4</code></td><td>332</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/"><img src="/variants/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/sett.png" alt="Ikelman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

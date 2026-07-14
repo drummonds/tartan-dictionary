@@ -22,12 +22,12 @@ The **Pennsylvania** tartan groups 2 setts — the same named design recorded as
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/t30y2t2y2t5g5k15t5g20dr2k3dr2g20t5k15g5t20y2t2~x2/">Pennsylvania</a> ★</td><td><code>T/60 Y4 T4 Y4 T10 G10 K30 T10 G40 DR4 K6 DR4 G40 T10 K30 G10 T40 Y4 T/4</code></td><td>584</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/t30y2t2y2t5g5k15t5g20dr2k3dr2g20t5k15g5t20y2t2~x2/"><img src="/variants/s19/t30y2t2y2t5g5k15t5g20dr2k3dr2g20t5k15g5t20y2t2~x2/sett.png" alt="Pennsylvania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s19/db30lo2db2lo2db5g5k15db5g20dr2k3dr2g20db5k15g5db20lo2db2~x2~db1403246/">American District Tartan</a></td><td><code>DB/60 LO4 DB4 LO4 DB10 G10 K30 DB10 G40 DR4 K6 DR4 G40 DB10 K30 G10 DB40 LO4 DB/4</code></td><td>584</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/db30lo2db2lo2db5g5k15db5g20dr2k3dr2g20db5k15g5db20lo2db2~x2~db1403246/"><img src="/variants/s19/db30lo2db2lo2db5g5k15db5g20dr2k3dr2g20db5k15g5db20lo2db2~x2~db1403246/sett.png" alt="American District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/t30y2t2y2t5g5k15t5g20dr2k3dr2g20t5k15g5t20y2t2~x2/">Pennsylvania</a> ★</td><td></td><td><code>T/60 Y4 T4 Y4 T10 G10 K30 T10 G40 DR4 K6 DR4 G40 T10 K30 G10 T40 Y4 T/4</code></td><td>584</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/t30y2t2y2t5g5k15t5g20dr2k3dr2g20t5k15g5t20y2t2~x2/"><img src="/variants/s19/t30y2t2y2t5g5k15t5g20dr2k3dr2g20t5k15g5t20y2t2~x2/sett.png" alt="Pennsylvania sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/db30lo2db2lo2db5g5k15db5g20dr2k3dr2g20db5k15g5db20lo2db2~x2~db1403246/">American District Tartan</a></td><td>0.92</td><td><code>DB/60 LO4 DB4 LO4 DB10 G10 K30 DB10 G40 DR4 K6 DR4 G40 DB10 K30 G10 DB40 LO4 DB/4</code></td><td>584</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/db30lo2db2lo2db5g5k15db5g20dr2k3dr2g20db5k15g5db20lo2db2~x2~db1403246/"><img src="/variants/s19/db30lo2db2lo2db5g5k15db5g20dr2k3dr2g20db5k15g5db20lo2db2~x2~db1403246/sett.png" alt="American District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BBBWBWBWBW](/stripes/bbbwbwbwbw/) — the page of every t
 The **Stewart of Appin Htg Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/">Stewart of Appin Htg Dress</a></td><td><code>DB/16 DR6 DB72 LB6 DO20 W68 DR8 W6 DR6 W/16</code></td><td>416</td><td>~1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/"><img src="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/sett.png" alt="Stewart of Appin Htg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/">Stewart of Appin Htg Dress</a></td><td></td><td><code>DB/16 DR6 DB72 LB6 DO20 W68 DR8 W6 DR6 W/16</code></td><td>416</td><td>~1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/"><img src="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/sett.png" alt="Stewart of Appin Htg Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

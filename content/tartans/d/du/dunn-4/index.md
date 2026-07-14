@@ -18,10 +18,10 @@ Its design is pattern [BGBGBWBWBWBW](/stripes/bgbgbwbwbwbw/) — the page of eve
 The **Dunn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/t45y6t3y6t3w3db5w3db5w20t2w3~x2/">Dunn</a></td><td><code>T/90 Y12 T6 Y12 T6 W6 DB10 W6 DB10 W40 T4 W/6</code></td><td>320</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/t45y6t3y6t3w3db5w3db5w20t2w3~x2/"><img src="/variants/s12/t45y6t3y6t3w3db5w3db5w20t2w3~x2/sett.png" alt="Dunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/t45y6t3y6t3w3db5w3db5w20t2w3~x2/">Dunn</a></td><td></td><td><code>T/90 Y12 T6 Y12 T6 W6 DB10 W6 DB10 W40 T4 W/6</code></td><td>320</td><td>~2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/t45y6t3y6t3w3db5w3db5w20t2w3~x2/"><img src="/variants/s12/t45y6t3y6t3w3db5w3db5w20t2w3~x2/sett.png" alt="Dunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

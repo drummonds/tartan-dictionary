@@ -13,10 +13,10 @@ Its design is pattern [WKBKRKRKGKRW](/stripes/wkbkrkrkgkrw/) — the page of eve
 The **Auld Lang Syne** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w4k2t9k3o3k3o3k23g10k2o6w2~x2/">Auld Lang Syne</a></td><td><code>W/8 K4 T18 K6 O6 K6 O6 K46 G20 K4 O12 W/4</code></td><td>268</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w4k2t9k3o3k3o3k23g10k2o6w2~x2/"><img src="/variants/s12/w4k2t9k3o3k3o3k23g10k2o6w2~x2/sett.png" alt="Auld Lang Syne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w4k2t9k3o3k3o3k23g10k2o6w2~x2/">Auld Lang Syne</a></td><td></td><td><code>W/8 K4 T18 K6 O6 K6 O6 K46 G20 K4 O12 W/4</code></td><td>268</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w4k2t9k3o3k3o3k23g10k2o6w2~x2/"><img src="/variants/s12/w4k2t9k3o3k3o3k23g10k2o6w2~x2/sett.png" alt="Auld Lang Syne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

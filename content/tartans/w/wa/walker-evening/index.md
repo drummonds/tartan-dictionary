@@ -16,10 +16,10 @@ Its design is pattern [GBGBKBKBKBKY](/stripes/gbgbkbkbkbky/) — the page of eve
 The **Walker, Evening** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/">Walker, Evening</a></td><td><code>LY/8 K4 DR14 K30 DR6 K6 DR6 K14 DR56 G14 DR12 G/4</code></td><td>336</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/"><img src="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/sett.png" alt="Walker, Evening sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/">Walker, Evening</a></td><td></td><td><code>LY/8 K4 DR14 K30 DR6 K6 DR6 K14 DR56 G14 DR12 G/4</code></td><td>336</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/"><img src="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/sett.png" alt="Walker, Evening sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

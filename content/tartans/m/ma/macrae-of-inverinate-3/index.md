@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRGRGRGRWRGRGRGRGRGRGRGRGRGRGRGRGRGR](/stripes/brbrbr
 The **MacRae of Inverinate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s40/r23g2r3g2r3g2r5y5r5g2r3g2r3g2r23g23r5g15r5g23r23g2r3g2r3g2r5w5r5g2r3g2r3g2r23db15r5db15r5db15~x2/">MacRae of Inverinate</a></td><td><code>R/46 G4 R6 G4 R6 G4 R10 Y10 R10 G4 R6 G4 R6 G4 R46 G46 R10 G30 R10 G46 R46 G4 R6 G4 R6 G4 R10 W10 R10 G4 R6 G4 R6 G4 R46 DB30 R10 DB30 R10 DB/30</code></td><td>1108</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s40/r23g2r3g2r3g2r5y5r5g2r3g2r3g2r23g23r5g15r5g23r23g2r3g2r3g2r5w5r5g2r3g2r3g2r23db15r5db15r5db15~x2/"><img src="/variants/s40/r23g2r3g2r3g2r5y5r5g2r3g2r3g2r23g23r5g15r5g23r23g2r3g2r3g2r5w5r5g2r3g2r3g2r23db15r5db15r5db15~x2/sett.png" alt="MacRae of Inverinate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s40/r23g2r3g2r3g2r5y5r5g2r3g2r3g2r23g23r5g15r5g23r23g2r3g2r3g2r5w5r5g2r3g2r3g2r23db15r5db15r5db15~x2/">MacRae of Inverinate</a></td><td></td><td><code>R/46 G4 R6 G4 R6 G4 R10 Y10 R10 G4 R6 G4 R6 G4 R46 G46 R10 G30 R10 G46 R46 G4 R6 G4 R6 G4 R10 W10 R10 G4 R6 G4 R6 G4 R46 DB30 R10 DB30 R10 DB/30</code></td><td>1108</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s40/r23g2r3g2r3g2r5y5r5g2r3g2r3g2r23g23r5g15r5g23r23g2r3g2r3g2r5w5r5g2r3g2r3g2r23db15r5db15r5db15~x2/"><img src="/variants/s40/r23g2r3g2r3g2r5y5r5g2r3g2r3g2r23g23r5g15r5g23r23g2r3g2r3g2r5w5r5g2r3g2r3g2r23db15r5db15r5db15~x2/sett.png" alt="MacRae of Inverinate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

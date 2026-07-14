@@ -16,10 +16,10 @@ Its design is pattern [BRWRBBWB](/stripes/brwrbbwb/) — the page of every tarta
 The **Longniddry Lavender** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db42r2lb2r2db5b12lb32db4~x2/">Longniddry Lavender</a></td><td><code>DB/84 R4 LB4 R4 DB10 B24 LB64 DB/8</code></td><td>312</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db42r2lb2r2db5b12lb32db4~x2/"><img src="/variants/s8/db42r2lb2r2db5b12lb32db4~x2/sett.png" alt="Longniddry Lavender sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db42r2lb2r2db5b12lb32db4~x2/">Longniddry Lavender</a></td><td></td><td><code>DB/84 R4 LB4 R4 DB10 B24 LB64 DB/8</code></td><td>312</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db42r2lb2r2db5b12lb32db4~x2/"><img src="/variants/s8/db42r2lb2r2db5b12lb32db4~x2/sett.png" alt="Longniddry Lavender sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

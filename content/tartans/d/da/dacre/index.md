@@ -13,10 +13,10 @@ Its design is pattern [KWR](/stripes/kwr/) — the page of every tartan sharing 
 The **Dacre** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/k1w1r1~x14/">Dacre</a></td><td><code>K/14 W14 R/14</code></td><td>56</td><td>1868</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/k1w1r1~x14/"><img src="/variants/s3/k1w1r1~x14/sett.png" alt="Dacre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/k1w1r1~x14/">Dacre</a></td><td></td><td><code>K/14 W14 R/14</code></td><td>56</td><td>1868</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/k1w1r1~x14/"><img src="/variants/s3/k1w1r1~x14/sett.png" alt="Dacre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

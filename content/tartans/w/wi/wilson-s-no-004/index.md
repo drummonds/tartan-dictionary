@@ -13,10 +13,10 @@ Its design is pattern [RWRGBWBYBWRWBYBWBGRWRW](/stripes/rwrgbwbybwrwbybwbgrwrw/)
 The **Wilson's No.004** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/r14lb4r14g32dp18w4dp4ly4dp18lb16r64lb16dp18ly4dp4w4dp18g32r14lb4r14w3~r2109032-w4000000-ly3307090/">Wilson's No.004</a></td><td><code>R/14 LB4 R14 G32 DP18 W4 DP4 LY4 DP18 LB16 R64 LB16 DP18 LY4 DP4 W4 DP18 G32 R14 LB4 R14 W/3</code></td><td>629</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/r14lb4r14g32dp18w4dp4ly4dp18lb16r64lb16dp18ly4dp4w4dp18g32r14lb4r14w3~r2109032-w4000000-ly3307090/"><img src="/variants/s22/r14lb4r14g32dp18w4dp4ly4dp18lb16r64lb16dp18ly4dp4w4dp18g32r14lb4r14w3~r2109032-w4000000-ly3307090/sett.png" alt="Wilson's No.004 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/r14lb4r14g32dp18w4dp4ly4dp18lb16r64lb16dp18ly4dp4w4dp18g32r14lb4r14w3~r2109032-w4000000-ly3307090/">Wilson's No.004</a></td><td></td><td><code>R/14 LB4 R14 G32 DP18 W4 DP4 LY4 DP18 LB16 R64 LB16 DP18 LY4 DP4 W4 DP18 G32 R14 LB4 R14 W/3</code></td><td>629</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/r14lb4r14g32dp18w4dp4ly4dp18lb16r64lb16dp18ly4dp4w4dp18g32r14lb4r14w3~r2109032-w4000000-ly3307090/"><img src="/variants/s22/r14lb4r14g32dp18w4dp4ly4dp18lb16r64lb16dp18ly4dp4w4dp18g32r14lb4r14w3~r2109032-w4000000-ly3307090/sett.png" alt="Wilson's No.004 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

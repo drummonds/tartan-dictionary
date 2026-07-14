@@ -18,10 +18,10 @@ Its design is pattern [WBWBWKBKRKBKGKWKGKWBWBW](/stripes/wbwbwkbkrkbkgkwkgkwbwbw
 The **MacKenzie Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/w2db2w53db2w2k15g15k2w3k2g15k15db14k2r3k2db14k15w2db2w53db2w2~x2/">MacKenzie Dress</a></td><td><code>W/4 DB4 W106 DB4 W4 K30 G30 K4 W6 K4 G30 K30 DB28 K4 R6 K4 DB28 K30 W4 DB4 W106 DB4 W/4</code></td><td>948</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/w2db2w53db2w2k15g15k2w3k2g15k15db14k2r3k2db14k15w2db2w53db2w2~x2/"><img src="/variants/s23/w2db2w53db2w2k15g15k2w3k2g15k15db14k2r3k2db14k15w2db2w53db2w2~x2/sett.png" alt="MacKenzie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/w2db2w53db2w2k15g15k2w3k2g15k15db14k2r3k2db14k15w2db2w53db2w2~x2/">MacKenzie Dress</a></td><td></td><td><code>W/4 DB4 W106 DB4 W4 K30 G30 K4 W6 K4 G30 K30 DB28 K4 R6 K4 DB28 K30 W4 DB4 W106 DB4 W/4</code></td><td>948</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/w2db2w53db2w2k15g15k2w3k2g15k15db14k2r3k2db14k15w2db2w53db2w2~x2/"><img src="/variants/s23/w2db2w53db2w2k15g15k2w3k2g15k15db14k2r3k2db14k15w2db2w53db2w2~x2/sett.png" alt="MacKenzie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

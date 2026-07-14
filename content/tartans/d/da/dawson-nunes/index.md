@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBKWKB](/stripes/bkbkbkbkwkb/) — the page of every
 The **Dawson-Nunes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/">Dawson-Nunes</a></td><td><code>DB/64 K6 DB8 K6 DB8 K22 DT8 K4 W6 K4 DT/22</code></td><td>230</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/"><img src="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/sett.png" alt="Dawson-Nunes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/">Dawson-Nunes</a></td><td></td><td><code>DB/64 K6 DB8 K6 DB8 K22 DT8 K4 W6 K4 DT/22</code></td><td>230</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/"><img src="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2~db1406275-dt1202249/sett.png" alt="Dawson-Nunes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

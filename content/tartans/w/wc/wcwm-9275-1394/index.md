@@ -16,10 +16,10 @@ Its design is pattern [BYK](/stripes/byk/) — the page of every tartan sharing 
 The **Wcwm 9275-1394** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/k19lo1n19~x8/">Wcwm 9275-1394</a></td><td><code>K/152 LO8 N/152</code></td><td>320</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/k19lo1n19~x8/"><img src="/variants/s3/k19lo1n19~x8/sett.png" alt="Wcwm 9275-1394 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/k19lo1n19~x8/">Wcwm 9275-1394</a></td><td></td><td><code>K/152 LO8 N/152</code></td><td>320</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/k19lo1n19~x8/"><img src="/variants/s3/k19lo1n19~x8/sett.png" alt="Wcwm 9275-1394 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

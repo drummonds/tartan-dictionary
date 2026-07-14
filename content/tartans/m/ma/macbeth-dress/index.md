@@ -18,10 +18,10 @@ Its design is pattern [BGKWBWGBKW](/stripes/bgkwbwgbkw/) — the page of every t
 The **MacBeth Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w50k1dp14g14w2dp2w2k4y2db30~x2/">MacBeth Dress</a></td><td><code>W/100 K2 DP28 G28 W4 DP4 W4 K8 Y4 DB/60</code></td><td>324</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w50k1dp14g14w2dp2w2k4y2db30~x2/"><img src="/variants/s10/w50k1dp14g14w2dp2w2k4y2db30~x2/sett.png" alt="MacBeth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w50k1dp14g14w2dp2w2k4y2db30~x2/">MacBeth Dress</a></td><td></td><td><code>W/100 K2 DP28 G28 W4 DP4 W4 K8 Y4 DB/60</code></td><td>324</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w50k1dp14g14w2dp2w2k4y2db30~x2/"><img src="/variants/s10/w50k1dp14g14w2dp2w2k4y2db30~x2/sett.png" alt="MacBeth Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Possibly created for or commemorating Princess Beatrice's 1885 wedding to Prince
 The **Princess Beatrice Dress Royal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8y2~x2/">Princess Beatrice Dress Royal</a></td><td><code>K/8 R2 K2 R4 W48 DB4 W6 R16 G4 R4 G4 R4 K16 G4 K4 G4 K4 G16 Y/4</code></td><td>304</td><td>~1885</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8y2~x2/"><img src="/variants/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8y2~x2/sett.png" alt="Princess Beatrice Dress Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8y2~x2/">Princess Beatrice Dress Royal</a></td><td></td><td><code>K/8 R2 K2 R4 W48 DB4 W6 R16 G4 R4 G4 R4 K16 G4 K4 G4 K4 G16 Y/4</code></td><td>304</td><td>~1885</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8y2~x2/"><img src="/variants/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8y2~x2/sett.png" alt="Princess Beatrice Dress Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

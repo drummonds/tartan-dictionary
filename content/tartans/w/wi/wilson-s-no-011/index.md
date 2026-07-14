@@ -13,10 +13,10 @@ Its design is pattern [RWKYKWKGRW](/stripes/rwkykwkgrw/) — the page of every t
 The **Wilson's No.011** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/">Wilson's No.011</a></td><td><code>R/36 LB20 K30 LY8 K8 W12 K8 G46 R52 W/8</code></td><td>412</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/"><img src="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/sett.png" alt="Wilson's No.011 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/">Wilson's No.011</a></td><td></td><td><code>R/36 LB20 K30 LY8 K8 W12 K8 G46 R52 W/8</code></td><td>412</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/"><img src="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/sett.png" alt="Wilson's No.011 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

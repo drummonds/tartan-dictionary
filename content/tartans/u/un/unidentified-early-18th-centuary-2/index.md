@@ -13,10 +13,10 @@ Its design is pattern [BRBRBRBRGR](/stripes/brbrbrbrgr/) — the page of every t
 The **Unidentified Early 18th Centuary** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/">Unidentified Early 18th Centuary</a></td><td><code>DB/6 R46 DB6 R52 DB6 R6 DB50 R6 G48 R/6</code></td><td>452</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/"><img src="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/sett.png" alt="Unidentified Early 18th Centuary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/">Unidentified Early 18th Centuary</a></td><td></td><td><code>DB/6 R46 DB6 R52 DB6 R6 DB50 R6 G48 R/6</code></td><td>452</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/"><img src="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/sett.png" alt="Unidentified Early 18th Centuary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

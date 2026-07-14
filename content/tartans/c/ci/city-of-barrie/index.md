@@ -13,10 +13,10 @@ Its design is pattern [BRBKBKGKRWRB](/stripes/brbkbkgkrwrb/) — the page of eve
 The **City of Barrie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/">City of Barrie</a></td><td><code>T/100 R6 T8 K16 N8 K4 Y6 K4 R24 W4 R8 T/8</code></td><td>284</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/"><img src="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/sett.png" alt="City of Barrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/">City of Barrie</a></td><td></td><td><code>T/100 R6 T8 K16 N8 K4 Y6 K4 R24 W4 R8 T/8</code></td><td>284</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/"><img src="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/sett.png" alt="City of Barrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

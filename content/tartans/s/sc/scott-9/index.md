@@ -20,11 +20,11 @@ Clan tartan, also called Green Scott; chief is the Duke of Buccleuch and Queensb
 The **Scott** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2/">Scott</a></td><td><code>K/16 G6 W6 G6 R6 G24 K16 G12 DB24 Y8 K12 W6 K6 G/16</code></td><td>296</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2/"><img src="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2/">Green (Clan)</a> · <a href="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2~w4000000-db1406275/">(Green)</a></td></tr>
+<tr><td><a href="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2/">Scott</a></td><td></td><td><code>K/16 G6 W6 G6 R6 G24 K16 G12 DB24 Y8 K12 W6 K6 G/16</code></td><td>296</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2/"><img src="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2/">Green (Clan)</a> · <a href="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2~w4000000-db1406275/">(Green)</a></td></tr>
 </tbody>
 </table>
 

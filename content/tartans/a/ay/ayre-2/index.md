@@ -20,10 +20,10 @@ Wilsons' No. 038 (1819), adopted by David Ayre of Kilmarnock as a private family
 The **Ayre** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/g82k2g2k2g2k8db28k2w6k2db28k2y6k2g32k2r5k2g15w6/">Ayre</a></td><td><code>G/82 K2 G2 K2 G2 K8 DB28 K2 W6 K2 DB28 K2 Y6 K2 G32 K2 R5 K2 G15 W/6</code></td><td>384</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/g82k2g2k2g2k8db28k2w6k2db28k2y6k2g32k2r5k2g15w6/"><img src="/variants/s20/g82k2g2k2g2k8db28k2w6k2db28k2y6k2g32k2r5k2g15w6/sett.png" alt="Ayre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/g82k2g2k2g2k8db28k2w6k2db28k2y6k2g32k2r5k2g15w6/">Ayre</a></td><td></td><td><code>G/82 K2 G2 K2 G2 K8 DB28 K2 W6 K2 DB28 K2 Y6 K2 G32 K2 R5 K2 G15 W/6</code></td><td>384</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/g82k2g2k2g2k8db28k2w6k2db28k2y6k2g32k2r5k2g15w6/"><img src="/variants/s20/g82k2g2k2g2k8db28k2w6k2db28k2y6k2g32k2r5k2g15w6/sett.png" alt="Ayre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

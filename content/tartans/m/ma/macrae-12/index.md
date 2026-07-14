@@ -18,10 +18,10 @@ Its design is pattern [BGBGBGBGBGBGBGBGWGBGBGWGBGBGBGB](/stripes/bgbgbgbgbgbgbgb
 The **MacRae** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/">MacRae</a></td><td><code>DP/50 G12 DP50 G52 DP10 G14 DP10 G52 W6 G14 DP58 G12 DP58 G14 W6 G52 DP4 G4 DP8 G4 DP4 G52 DP4 G4 DP8 G4 DP4 G52 DP50 G12 DP/50</code></td><td>1368</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/"><img src="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/">MacRae</a></td><td></td><td><code>DP/50 G12 DP50 G52 DP10 G14 DP10 G52 W6 G14 DP58 G12 DP58 G14 W6 G52 DP4 G4 DP8 G4 DP4 G52 DP4 G4 DP8 G4 DP4 G52 DP50 G12 DP/50</code></td><td>1368</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/"><img src="/variants/s31/dp25g6dp25g26dp5g7dp5g26w3g7dp29g6dp29g7w3g26dp2g2dp4g2dp2g26dp2g2dp4g2dp2g26dp25g6dp25~x2/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

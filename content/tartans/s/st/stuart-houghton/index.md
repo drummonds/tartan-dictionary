@@ -15,10 +15,10 @@ Personal tartan designed by Andrew Stuart-Houghton for a heavyweight kilt; restr
 The **Stuart-Houghton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/">Stuart-Houghton</a></td><td><code>DT/22 K8 DT8 W4 DT8 K8 DT22 R52 K8 W6 K8 W4 K28 G20 DT32 G/12</code></td><td>466</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/"><img src="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/sett.png" alt="Stuart-Houghton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/">Stuart-Houghton</a></td><td></td><td><code>DT/22 K8 DT8 W4 DT8 K8 DT22 R52 K8 W6 K8 W4 K28 G20 DT32 G/12</code></td><td>466</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/"><img src="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/sett.png" alt="Stuart-Houghton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

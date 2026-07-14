@@ -18,10 +18,10 @@ Its design is pattern [BYBKWKYKBKYKWKRYB](/stripes/bybkwkykbkykwkryb/) — the p
 The **Total** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db24lo2r12k3w2k3lo2k4db4k4lo2k3w2k3dbi14lo2dbi24~x2~db1106275-dbi1406275/">Total</a></td><td><code>DB/48 LO4 R24 K6 W4 K6 LO4 K8 DB8 K8 LO4 K6 W4 K6 DBi28 LO4 DBi/48</code></td><td>344</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db24lo2r12k3w2k3lo2k4db4k4lo2k3w2k3dbi14lo2dbi24~x2~db1106275-dbi1406275/"><img src="/variants/s17/db24lo2r12k3w2k3lo2k4db4k4lo2k3w2k3dbi14lo2dbi24~x2~db1106275-dbi1406275/sett.png" alt="Total sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db24lo2r12k3w2k3lo2k4db4k4lo2k3w2k3dbi14lo2dbi24~x2~db1106275-dbi1406275/">Total</a></td><td></td><td><code>DB/48 LO4 R24 K6 W4 K6 LO4 K8 DB8 K8 LO4 K6 W4 K6 DBi28 LO4 DBi/48</code></td><td>344</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db24lo2r12k3w2k3lo2k4db4k4lo2k3w2k3dbi14lo2dbi24~x2~db1106275-dbi1406275/"><img src="/variants/s17/db24lo2r12k3w2k3lo2k4db4k4lo2k3w2k3dbi14lo2dbi24~x2~db1106275-dbi1406275/sett.png" alt="Total sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

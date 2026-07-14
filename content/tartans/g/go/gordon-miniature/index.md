@@ -16,10 +16,10 @@ Its design is pattern [BKBKGGGKBK](/stripes/bkbkgggkbk/) — the page of every t
 The **Gordon Miniature** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db10k2db4k4g7y2g7k4db10k2/">Gordon Miniature</a></td><td><code>DB/10 K2 DB4 K4 G7 Y2 G7 K4 DB10 K/2</code></td><td>92</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db10k2db4k4g7y2g7k4db10k2/"><img src="/variants/s10/db10k2db4k4g7y2g7k4db10k2/sett.png" alt="Gordon Miniature sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db10k2db4k4g7y2g7k4db10k2/">Gordon Miniature</a></td><td></td><td><code>DB/10 K2 DB4 K4 G7 Y2 G7 K4 DB10 K/2</code></td><td>92</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db10k2db4k4g7y2g7k4db10k2/"><img src="/variants/s10/db10k2db4k4g7y2g7k4db10k2/sett.png" alt="Gordon Miniature sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

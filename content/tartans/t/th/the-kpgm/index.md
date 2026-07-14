@@ -13,10 +13,10 @@ Its design is pattern [BRKBKBKBRR](/stripes/brkbkbkbrr/) — the page of every t
 The **The KpgM** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r24o4db6k6db60k40b12k20o3b8/">The KpgM</a></td><td><code>R/24 O4 DB6 K6 DB60 K40 B12 K20 O3 B/8</code></td><td>334</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r24o4db6k6db60k40b12k20o3b8/"><img src="/variants/s10/r24o4db6k6db60k40b12k20o3b8/sett.png" alt="The KpgM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r24o4db6k6db60k40b12k20o3b8/">The KpgM</a></td><td></td><td><code>R/24 O4 DB6 K6 DB60 K40 B12 K20 O3 B/8</code></td><td>334</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r24o4db6k6db60k40b12k20o3b8/"><img src="/variants/s10/r24o4db6k6db60k40b12k20o3b8/sett.png" alt="The KpgM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

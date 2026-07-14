@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/hackston-or-halkerston-2/">Hackston or Halkerston</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hackston-or-halkerston-2/"><img src="/variants/s8/r56w2k12y3r12y3r12g3~x2/sett.png" alt="Hackston or Halkerston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hackston-or-halkerston-2/"><img src="/variants/s8/r28w2k12y3r12y3r12g3~x2/sett.png" alt="Hackston or Halkerston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

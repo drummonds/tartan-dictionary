@@ -20,10 +20,10 @@ Hunting Fraser variant with brown replacing the clan sett's red; designed by the
 The **Fraser Hunting Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/">Fraser Hunting Dress</a></td><td><code>R/8 DO30 G22 DO6 LB22 DO6 LB22 DO6 G22 DO30 T/8</code></td><td>348</td><td>1976</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/"><img src="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/sett.png" alt="Fraser Hunting Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/">Fraser Hunting Dress</a></td><td></td><td><code>R/8 DO30 G22 DO6 LB22 DO6 LB22 DO6 G22 DO30 T/8</code></td><td>348</td><td>1976</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/"><img src="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/sett.png" alt="Fraser Hunting Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

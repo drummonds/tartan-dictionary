@@ -13,11 +13,11 @@ Its design is pattern [RGRBKWR](/stripes/rgrbkwr/) — the page of every tartan 
 The **Solberg-Wormald** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r155lb16k34db48r18y6r9/">Solberg-Wormald</a></td><td><code>R/155 LB16 K34 DB48 R18 Y6 R/9</code></td><td>408</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r155lb16k34db48r18y6r9/"><img src="/variants/s7/r155lb16k34db48r18y6r9/sett.png" alt="Solberg-Wormald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r155lb16k34db48r18y6r9/">(Personal)</a> · <a href="/variants/s7/r155lb16k34db48r18y6r9~lb3203246-db1106275/">(Personal)</a></td></tr>
+<tr><td><a href="/variants/s7/r155lb16k34db48r18y6r9/">Solberg-Wormald</a></td><td></td><td><code>R/155 LB16 K34 DB48 R18 Y6 R/9</code></td><td>408</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r155lb16k34db48r18y6r9/"><img src="/variants/s7/r155lb16k34db48r18y6r9/sett.png" alt="Solberg-Wormald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/r155lb16k34db48r18y6r9/">(Personal)</a> · <a href="/variants/s7/r155lb16k34db48r18y6r9~lb3203246-db1106275/">(Personal)</a></td></tr>
 </tbody>
 </table>
 

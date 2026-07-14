@@ -13,10 +13,10 @@ Its design is pattern [BWBGKGKRBKBG](/stripes/bwbgkgkrbkbg/) — the page of eve
 The **Me to You** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/">Me to You</a></td><td><code>DB/64 W6 DB6 Y6 K6 G6 K6 R20 DB12 K6 DB6 G/6</code></td><td>230</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/"><img src="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/sett.png" alt="Me to You sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/">Me to You</a></td><td></td><td><code>DB/64 W6 DB6 Y6 K6 G6 K6 R20 DB12 K6 DB6 G/6</code></td><td>230</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/"><img src="/variants/s12/db32w3db3y3k3g3k3r10db6k3db3g3~x2/sett.png" alt="Me to You sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

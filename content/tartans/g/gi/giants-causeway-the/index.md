@@ -13,10 +13,10 @@ Its design is pattern [BGBBGKGKGWBGK](/stripes/bgbbgkgkgwbgk/) — the page of e
 The **Giants Causeway, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/n38y8db3n20y44k2g6k2y5w2db10y2k6~n1800000-y2101120/">Giants Causeway, The</a></td><td><code>N/38 Y8 DB3 N20 Y44 K2 G6 K2 Y5 W2 DB10 Y2 K/6</code></td><td>252</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/n38y8db3n20y44k2g6k2y5w2db10y2k6~n1800000-y2101120/"><img src="/variants/s13/n38y8db3n20y44k2g6k2y5w2db10y2k6~n1800000-y2101120/sett.png" alt="Giants Causeway, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/n38y8db3n20y44k2g6k2y5w2db10y2k6~n1800000-y2101120/">Giants Causeway, The</a></td><td></td><td><code>N/38 Y8 DB3 N20 Y44 K2 G6 K2 Y5 W2 DB10 Y2 K/6</code></td><td>252</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/n38y8db3n20y44k2g6k2y5w2db10y2k6~n1800000-y2101120/"><img src="/variants/s13/n38y8db3n20y44k2g6k2y5w2db10y2k6~n1800000-y2101120/sett.png" alt="Giants Causeway, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

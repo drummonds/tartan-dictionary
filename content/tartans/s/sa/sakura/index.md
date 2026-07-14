@@ -13,10 +13,10 @@ Its design is pattern [GYGYYWYYYWGRWR](/stripes/gygyywyyywgrwr/) — the page of
 The **Sakura** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/">Sakura</a></td><td><code>R/12 W4 R50 DY4 W18 LG4 LGi8 LG4 W18 LG4 LGi30 DY4 LGi4 DY/8</code></td><td>324</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/"><img src="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/sett.png" alt="Sakura sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/">Sakura</a></td><td></td><td><code>R/12 W4 R50 DY4 W18 LG4 LGi8 LG4 W18 LG4 LGi30 DY4 LGi4 DY/8</code></td><td>324</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/"><img src="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/sett.png" alt="Sakura sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

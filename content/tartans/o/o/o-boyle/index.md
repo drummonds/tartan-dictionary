@@ -13,10 +13,10 @@ Its design is pattern [GKRKRKG](/stripes/gkrkrkg/) — the page of every tartan 
 The **O'Boyle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g12k1r1k12o9k45g9~x2/">O'Boyle</a></td><td><code>G/24 K2 R2 K24 O18 K90 G/18</code></td><td>314</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g12k1r1k12o9k45g9~x2/"><img src="/variants/s7/g12k1r1k12o9k45g9~x2/sett.png" alt="O'Boyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g12k1r1k12o9k45g9~x2/">O'Boyle</a></td><td></td><td><code>G/24 K2 R2 K24 O18 K90 G/18</code></td><td>314</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g12k1r1k12o9k45g9~x2/"><img src="/variants/s7/g12k1r1k12o9k45g9~x2/sett.png" alt="O'Boyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

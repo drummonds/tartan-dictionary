@@ -18,10 +18,10 @@ Its design is pattern [GGGGGG](/stripes/gggggg/) — the page of every tartan sh
 The **Harmony 11** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/">Harmony 11</a></td><td><code>DY/12 G4 DY58 G58 DY4 G/12</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/"><img src="/variants/s6/dy6g2dy29g29dy2g6~x2/sett.png" alt="Harmony 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/">Harmony 11</a></td><td></td><td><code>DY/12 G4 DY58 G58 DY4 G/12</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/"><img src="/variants/s6/dy6g2dy29g29dy2g6~x2/sett.png" alt="Harmony 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

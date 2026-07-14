@@ -13,10 +13,10 @@ Its design is pattern [BBBRBRBBRBWRWRBRBW](/stripes/bbbrbrbbrbwrwrbrbw/) — the
 The **Ensemble Pour L'Avenir** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db3n1db2r14n2r1n2db10r10db10w2r2w2r14n6r10db10w2~x2/">Ensemble Pour L'Avenir</a></td><td><code>DB/6 N2 DB4 R28 N4 R2 N4 DB20 R20 DB20 W4 R4 W4 R28 N12 R20 DB20 W/4</code></td><td>402</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db3n1db2r14n2r1n2db10r10db10w2r2w2r14n6r10db10w2~x2/"><img src="/variants/s18/db3n1db2r14n2r1n2db10r10db10w2r2w2r14n6r10db10w2~x2/sett.png" alt="Ensemble Pour L'Avenir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db3n1db2r14n2r1n2db10r10db10w2r2w2r14n6r10db10w2~x2/">Ensemble Pour L'Avenir</a></td><td></td><td><code>DB/6 N2 DB4 R28 N4 R2 N4 DB20 R20 DB20 W4 R4 W4 R28 N12 R20 DB20 W/4</code></td><td>402</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db3n1db2r14n2r1n2db10r10db10w2r2w2r14n6r10db10w2~x2/"><img src="/variants/s18/db3n1db2r14n2r1n2db10r10db10w2r2w2r14n6r10db10w2~x2/sett.png" alt="Ensemble Pour L'Avenir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Clan MacLachlan tartan, the version woven today, first published in Smibert's 18
 The **MacLachlan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/">MacLachlan</a></td><td><code>K/12 LY4 K42 LY4 K12 LY48 K4 LY/12</code></td><td>252</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/"><img src="/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/sett.png" alt="MacLachlan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/">MacLachlan</a></td><td></td><td><code>K/12 LY4 K42 LY4 K12 LY48 K4 LY/12</code></td><td>252</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/"><img src="/variants/s8/k6ly2k21ly2k6ly24k2ly6~x2/sett.png" alt="MacLachlan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

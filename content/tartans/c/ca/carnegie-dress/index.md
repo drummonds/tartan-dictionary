@@ -22,12 +22,12 @@ The **Carnegie Dress** tartan groups 2 setts — the same named design recorded 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/">Carnegie Dress</a> ★</td><td><code>W/16 R4 W4 R12 W26 R4 K26 G26 R12 G4 R4 G8 Y/6</code></td><td>282</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/"><img src="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/sett.png" alt="Carnegie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/">#2 (Fashion)</a></td><td><code>W/18 DR3 W3 DR10 W26 DR3 K26 G28 DR10 G3 DR3 G8 LO/6</code></td><td>270</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><img src="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/sett.png" alt="#2 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/">Carnegie Dress</a> ★</td><td></td><td><code>W/16 R4 W4 R12 W26 R4 K26 G26 R12 G4 R4 G8 Y/6</code></td><td>282</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/"><img src="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/sett.png" alt="Carnegie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/">#2 (Fashion)</a></td><td>0.63</td><td><code>W/18 DR3 W3 DR10 W26 DR3 K26 G28 DR10 G3 DR3 G8 LO/6</code></td><td>270</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><img src="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/sett.png" alt="#2 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

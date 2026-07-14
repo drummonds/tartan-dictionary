@@ -20,10 +20,10 @@ Commemorates the 60th birthday of Michael R. Ralstin of Ohio; serves the Ralston
 The **Ralston** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/">Ralston</a></td><td><code>DG/24 N8 DR8 DB8 DR8 N8 DG36 G10 DG10 G10 DB/8</code></td><td>244</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/"><img src="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/sett.png" alt="Ralston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/">Ralston</a></td><td></td><td><code>DG/24 N8 DR8 DB8 DR8 N8 DG36 G10 DG10 G10 DB/8</code></td><td>244</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/"><img src="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/sett.png" alt="Ralston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

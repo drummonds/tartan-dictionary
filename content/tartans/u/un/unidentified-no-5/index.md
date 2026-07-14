@@ -15,10 +15,10 @@ From 1870 records of Norwich weavers Bolingbroke and Jones; design now in the pu
 The **Unidentified No 5** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k10y2g11r11w1r1w1k9~x2/">Unidentified No 5</a></td><td><code>K/20 Y4 G22 R22 W2 R2 W2 K/18</code></td><td>146</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k10y2g11r11w1r1w1k9~x2/"><img src="/variants/s8/k10y2g11r11w1r1w1k9~x2/sett.png" alt="Unidentified No 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k10y2g11r11w1r1w1k9~x2/">Unidentified No 5</a></td><td></td><td><code>K/20 Y4 G22 R22 W2 R2 W2 K/18</code></td><td>146</td><td>1870</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k10y2g11r11w1r1w1k9~x2/"><img src="/variants/s8/k10y2g11r11w1r1w1k9~x2/sett.png" alt="Unidentified No 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

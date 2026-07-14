@@ -13,10 +13,10 @@ Its design is pattern [GR](/stripes/gr/) — the page of every tartan sharing th
 The **Wilson's, No 134** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s2/r3g1~x14/">Wilson's, No 134</a></td><td><code>R/42 G/14</code></td><td>56</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s2/r3g1~x14/"><img src="/variants/s2/r3g1~x14/sett.png" alt="Wilson's, No 134 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s2/r3g1~x14/">Wilson's, No 134</a></td><td></td><td><code>R/42 G/14</code></td><td>56</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s2/r3g1~x14/"><img src="/variants/s2/r3g1~x14/sett.png" alt="Wilson's, No 134 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

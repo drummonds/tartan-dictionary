@@ -15,10 +15,10 @@ One of Polly Wittering's Irish District series for House of Edgar, with soft war
 The **Louth Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/">Louth Irish County</a></td><td><code>T/76 DP8 T16 W4 T8 W6 T8 DG28 R14 T4 R8 W/4</code></td><td>288</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/"><img src="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/sett.png" alt="Louth Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/">Louth Irish County</a></td><td></td><td><code>T/76 DP8 T16 W4 T8 W6 T8 DG28 R14 T4 R8 W/4</code></td><td>288</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/"><img src="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/sett.png" alt="Louth Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

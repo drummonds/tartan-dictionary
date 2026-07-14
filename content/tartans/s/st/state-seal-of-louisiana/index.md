@@ -13,10 +13,10 @@ Its design is pattern [BKWBWKYWB](/stripes/bkwbwkywb/) — the page of every tar
 The **State Seal of Louisiana** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/t49lb11ly7k16w5t20lb10k6ti5~x2~lb3200000-ti2405244/">State Seal of Louisiana</a></td><td><code>T/49 LB11 LY7 K16 W5 T20 LB10 K6 Ti/5</code></td><td>—</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/t49lb11ly7k16w5t20lb10k6ti5~x2~lb3200000-ti2405244/"><img src="/variants/s9/t49lb11ly7k16w5t20lb10k6ti5~x2~lb3200000-ti2405244/sett.png" alt="State Seal of Louisiana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/t49lb11ly7k16w5t20lb10k6ti5~x2~lb3200000-ti2405244/">State Seal of Louisiana</a></td><td></td><td><code>T/49 LB11 LY7 K16 W5 T20 LB10 K6 Ti/5</code></td><td>—</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/t49lb11ly7k16w5t20lb10k6ti5~x2~lb3200000-ti2405244/"><img src="/variants/s9/t49lb11ly7k16w5t20lb10k6ti5~x2~lb3200000-ti2405244/sett.png" alt="State Seal of Louisiana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

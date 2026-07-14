@@ -18,10 +18,10 @@ Its design is pattern [BBKYKWKGBKBW](/stripes/bbkykwkgbkbw/) — the page of eve
 The **Wcwm 1105** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/">Wcwm 1105</a></td><td><code>B/84 DR3 K16 LY4 K4 W4 K4 DG20 B8 K4 B8 W/4</code></td><td>238</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/"><img src="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/sett.png" alt="Wcwm 1105 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/">Wcwm 1105</a></td><td></td><td><code>B/84 DR3 K16 LY4 K4 W4 K4 DG20 B8 K4 B8 W/4</code></td><td>238</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/"><img src="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/sett.png" alt="Wcwm 1105 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

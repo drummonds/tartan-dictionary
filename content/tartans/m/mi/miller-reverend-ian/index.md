@@ -13,10 +13,10 @@ Its design is pattern [BGBBKY](/stripes/bgbbky/) — the page of every tartan sh
 The **Miller, Reverend Ian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dp2g18dp15dr24k1ly2~x2/">Miller, Reverend Ian</a></td><td><code>DP/4 G36 DP30 DR48 K2 LY/4</code></td><td>240</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp2g18dp15dr24k1ly2~x2/"><img src="/variants/s6/dp2g18dp15dr24k1ly2~x2/sett.png" alt="Miller, Reverend Ian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp2g18dp15dr24k1ly2~x2/">Miller, Reverend Ian</a></td><td></td><td><code>DP/4 G36 DP30 DR48 K2 LY/4</code></td><td>240</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp2g18dp15dr24k1ly2~x2/"><img src="/variants/s6/dp2g18dp15dr24k1ly2~x2/sett.png" alt="Miller, Reverend Ian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

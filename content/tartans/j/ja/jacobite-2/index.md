@@ -18,10 +18,10 @@ Its design is pattern [RBWGWBRW](/stripes/rbwgwbrw/) — the page of every tarta
 The **Jacobite** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r2109032/">Jacobite</a></td><td><code>R/8 DB8 W4 Y32 W4 DB8 R8 W4 R8 DB8 W4 G32 W4 DB8 R8 W4 R8 DB8 W4 G32 W4 DB8 R8 W4 R8 DB8 W4 Y32 W4 DB8 R8 W/4</code></td><td>596</td><td>1712</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r2109032/"><img src="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r2109032/sett.png" alt="Jacobite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r2109032/">Jacobite</a></td><td></td><td><code>R/8 DB8 W4 Y32 W4 DB8 R8 W4 R8 DB8 W4 G32 W4 DB8 R8 W4 R8 DB8 W4 G32 W4 DB8 R8 W4 R8 DB8 W4 Y32 W4 DB8 R8 W/4</code></td><td>596</td><td>1712</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r2109032/"><img src="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r2109032/sett.png" alt="Jacobite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

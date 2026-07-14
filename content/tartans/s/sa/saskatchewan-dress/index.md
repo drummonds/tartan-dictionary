@@ -18,10 +18,10 @@ Its design is pattern [GWRWGGKW](/stripes/gwrwggkw/) — the page of every tarta
 The **Saskatchewan Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/y2w1r2w26dy11g6k1w2~x2/">Saskatchewan Dress</a></td><td><code>Y/4 W2 R4 W52 DY22 G12 K2 W/4</code></td><td>196</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y2w1r2w26dy11g6k1w2~x2/"><img src="/variants/s8/y2w1r2w26dy11g6k1w2~x2/sett.png" alt="Saskatchewan Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/y2w1r2w26dy11g6k1w2~x2/">Saskatchewan Dress</a></td><td></td><td><code>Y/4 W2 R4 W52 DY22 G12 K2 W/4</code></td><td>196</td><td>1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/y2w1r2w26dy11g6k1w2~x2/"><img src="/variants/s8/y2w1r2w26dy11g6k1w2~x2/sett.png" alt="Saskatchewan Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

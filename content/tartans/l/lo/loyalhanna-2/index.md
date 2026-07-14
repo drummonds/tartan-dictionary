@@ -18,10 +18,10 @@ Its design is pattern [BWGYRBRG](/stripes/bwgyrbrg/) — the page of every tarta
 The **Loyalhanna** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/">Loyalhanna</a></td><td><code>DB/30 W4 G4 LY30 R6 DB42 R6 G/30</code></td><td>244</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><img src="/variants/s8/db15w2g2ly15r3db21r3g15~x2/sett.png" alt="Loyalhanna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/">Loyalhanna</a></td><td></td><td><code>DB/30 W4 G4 LY30 R6 DB42 R6 G/30</code></td><td>244</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><img src="/variants/s8/db15w2g2ly15r3db21r3g15~x2/sett.png" alt="Loyalhanna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

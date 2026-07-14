@@ -13,10 +13,10 @@ Its design is pattern [BYBYBWG](/stripes/bybybwg/) — the page of every tartan 
 The **F.I.A.T.A. Congress 1990** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/">F.I.A.T.A. Congress 1990</a></td><td><code>DG/48 LB32 DB16 LY8 DR4 LY4 DB/24</code></td><td>200</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><img src="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/sett.png" alt="F.I.A.T.A. Congress 1990 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/">F.I.A.T.A. Congress 1990</a></td><td></td><td><code>DG/48 LB32 DB16 LY8 DR4 LY4 DB/24</code></td><td>200</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><img src="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/sett.png" alt="F.I.A.T.A. Congress 1990 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

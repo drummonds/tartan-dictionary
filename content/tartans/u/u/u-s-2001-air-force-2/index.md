@@ -13,10 +13,10 @@ Its design is pattern [BBBBBRKGBGKR](/stripes/bbbbbrkgbgkr/) — the page of eve
 The **U.S. 2001 Air Force** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/">U.S. 2001 Air Force</a></td><td><code>T/66 DB6 T14 DB6 T66 R4 K44 G6 DBi98 G6 K44 R/4</code></td><td>658</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/"><img src="/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/sett.png" alt="U.S. 2001 Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/">U.S. 2001 Air Force</a></td><td></td><td><code>T/66 DB6 T14 DB6 T66 R4 K44 G6 DBi98 G6 K44 R/4</code></td><td>658</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/"><img src="/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/sett.png" alt="U.S. 2001 Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

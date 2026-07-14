@@ -13,11 +13,11 @@ Its design is pattern [GRGBGBGR](/stripes/grgbgbgr/) — the page of every tarta
 The **New Mexico, State of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/">New Mexico, State of</a></td><td><code>DY/4 R4 DY8 DB44 G20 DB4 G32 R/4</code></td><td>232</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><img src="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/sett.png" alt="New Mexico, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/">(Fashion)</a> · <a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/">New Mexico, State of</a></td></tr>
+<tr><td><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/">New Mexico, State of</a></td><td></td><td><code>DY/4 R4 DY8 DB44 G20 DB4 G32 R/4</code></td><td>232</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><img src="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/sett.png" alt="New Mexico, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/">(Fashion)</a> · <a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/">New Mexico, State of</a></td></tr>
 </tbody>
 </table>
 

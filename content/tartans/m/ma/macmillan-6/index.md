@@ -22,15 +22,15 @@ The **MacMillan** tartan groups 2 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/">MacMillan</a> ★</td><td><code>G/2 K1 G18 K1 G2 K1 R12 G4 Y6 K1 Y6 K/1</code></td><td>107</td><td>1847</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/"><img src="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/sett.png" alt="MacMillan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/">Ancient</a></td><td><code>G/2 K1 G18 K1 G2 K1 R12 G4 Y6 K1 Y6 K/1</code></td><td>107</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/">Ancient</a></td><td><code>G/4 K2 G36 K2 G4 K2 R24 G8 Y12 K2 Y12 K/2</code></td><td>214</td><td>1847</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/">Ancient</a> · <a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/">Ancient</a></td></tr>
-<tr><td><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/">1847 (Clan)</a></td><td><code>G/14 K6 G106 K6 G16 K6 DR48 G16 LY36 K6 LY36 K/6</code></td><td>584</td><td>1847</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><img src="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/sett.png" alt="1847 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/">MacMillan</a> ★</td><td></td><td><code>G/2 K1 G18 K1 G2 K1 R12 G4 Y6 K1 Y6 K/1</code></td><td>107</td><td>1847</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/"><img src="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/sett.png" alt="MacMillan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/">Ancient</a></td><td>0.00</td><td><code>G/2 K1 G18 K1 G2 K1 R12 G4 Y6 K1 Y6 K/1</code></td><td>107</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/">Ancient</a></td><td>0.00</td><td><code>G/4 K2 G36 K2 G4 K2 R24 G8 Y12 K2 Y12 K/2</code></td><td>214</td><td>1847</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/">Ancient</a> · <a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/">Ancient</a></td></tr>
+<tr><td><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/">1847 (Clan)</a></td><td>0.39</td><td><code>G/14 K6 G106 K6 G16 K6 DR48 G16 LY36 K6 LY36 K/6</code></td><td>584</td><td>1847</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><img src="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/sett.png" alt="1847 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

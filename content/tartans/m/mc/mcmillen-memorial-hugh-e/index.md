@@ -13,10 +13,10 @@ Its design is pattern [KYBYKYBWYRYK](/stripes/kybykybwyryk/) — the page of eve
 The **McMillen Memorial, Hugh E.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/">McMillen Memorial, Hugh E.</a></td><td><code>K/16 LY4 N36 LY6 K16 LY36 DP8 W6 LY24 R2 LY4 K/4</code></td><td>304</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/"><img src="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/sett.png" alt="McMillen Memorial, Hugh E. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/">McMillen Memorial, Hugh E.</a></td><td></td><td><code>K/16 LY4 N36 LY6 K16 LY36 DP8 W6 LY24 R2 LY4 K/4</code></td><td>304</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/"><img src="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/sett.png" alt="McMillen Memorial, Hugh E. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

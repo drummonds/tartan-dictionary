@@ -15,12 +15,12 @@ The **Loch Garth** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/do12y6do2lo1~x4/">Loch Garth</a> ★</td><td><code>DO/48 Y24 DO8 LO/4</code></td><td>116</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/do12y6do2lo1~x4/"><img src="/variants/s4/do12y6do2lo1~x4/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/o12oi6o2y1~x4~o2102055-oi2104058/">Loch Garth</a></td><td><code>O/48 Oi24 O8 Y/4</code></td><td>116</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/o12oi6o2y1~x4~o2102055-oi2104058/"><img src="/variants/s4/o12oi6o2y1~x4~o2102055-oi2104058/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/do12y6do2lo1~x4/">Loch Garth</a> ★</td><td></td><td><code>DO/48 Y24 DO8 LO/4</code></td><td>116</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/do12y6do2lo1~x4/"><img src="/variants/s4/do12y6do2lo1~x4/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/o12oi6o2y1~x4~o2102055-oi2104058/">Loch Garth</a></td><td>0.99</td><td><code>O/48 Oi24 O8 Y/4</code></td><td>116</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/o12oi6o2y1~x4~o2102055-oi2104058/"><img src="/variants/s4/o12oi6o2y1~x4~o2102055-oi2104058/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

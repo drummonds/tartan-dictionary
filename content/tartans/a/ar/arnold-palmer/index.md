@@ -16,10 +16,10 @@ Its design is pattern [GRKWKGKGRK](/stripes/grkwkgkgrk/) — the page of every t
 The **Arnold Palmer** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/">Arnold Palmer</a></td><td><code>DG/80 R10 K4 W4 K4 Y6 K4 DG20 R6 K/6</code></td><td>202</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><img src="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/sett.png" alt="Arnold Palmer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/">Arnold Palmer</a></td><td></td><td><code>DG/80 R10 K4 W4 K4 Y6 K4 DG20 R6 K/6</code></td><td>202</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><img src="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/sett.png" alt="Arnold Palmer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

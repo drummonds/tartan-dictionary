@@ -15,12 +15,12 @@ The **Blackwood** tartan groups 2 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/">Blackwood</a> ★</td><td><code>DG/20 DB4 G20 DP4 DG20 B4 DG/20</code></td><td>144</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/"><img src="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/sett.png" alt="Blackwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/">(Corporate)</a></td><td><code>DG/10 DB2 G10 DP2 DG10 DBi2 DG/10</code></td><td>72</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/"><img src="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/">Blackwood</a> ★</td><td></td><td><code>DG/20 DB4 G20 DP4 DG20 B4 DG/20</code></td><td>144</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/"><img src="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/sett.png" alt="Blackwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/">(Corporate)</a></td><td>0.03</td><td><code>DG/10 DB2 G10 DP2 DG10 DBi2 DG/10</code></td><td>72</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/"><img src="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

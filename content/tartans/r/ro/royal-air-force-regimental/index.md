@@ -15,10 +15,10 @@ Initially declined by the RAF but popular among Scottish ex-servicemen, official
 The **Royal Air Force Regimental** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w4dbi8dr3dbi25k13db4lb29dbi3lb8dbi2dr3~x2~dbi1406275-db1106275/">Royal Air Force Regimental</a></td><td><code>W/8 DBi16 DR6 DBi50 K26 DB8 LB58 DBi6 LB16 DBi4 DR/6</code></td><td>394</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w4dbi8dr3dbi25k13db4lb29dbi3lb8dbi2dr3~x2~dbi1406275-db1106275/"><img src="/variants/s11/w4dbi8dr3dbi25k13db4lb29dbi3lb8dbi2dr3~x2~dbi1406275-db1106275/sett.png" alt="Royal Air Force Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w4dbi8dr3dbi25k13db4lb29dbi3lb8dbi2dr3~x2~dbi1406275-db1106275/">Royal Air Force Regimental</a></td><td></td><td><code>W/8 DBi16 DR6 DBi50 K26 DB8 LB58 DBi6 LB16 DBi4 DR/6</code></td><td>394</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w4dbi8dr3dbi25k13db4lb29dbi3lb8dbi2dr3~x2~dbi1406275-db1106275/"><img src="/variants/s11/w4dbi8dr3dbi25k13db4lb29dbi3lb8dbi2dr3~x2~dbi1406275-db1106275/sett.png" alt="Royal Air Force Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

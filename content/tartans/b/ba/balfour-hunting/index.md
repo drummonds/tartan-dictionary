@@ -20,15 +20,15 @@ The **Balfour Hunting** tartan groups 2 setts — the same named design recorded
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db18y2dy6y2dy19r3~x2/">Balfour Hunting</a> ★</td><td><code>DB/18 Y2 DY6 Y2 DY19 R/3</code></td><td>79</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db18y2dy6y2dy19r3~x2/"><img src="/variants/s6/db18y2dy6y2dy19r3~x2/sett.png" alt="Balfour Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/db18y2dy6y2dy19r3~x2/">Balfour #2</a></td><td><code>DB/36 Y4 DY12 Y4 DY38 R/6</code></td><td>158</td><td>1984</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/db18y2dy6y2dy19r3~x4/">Balfour (Clan)</a></td><td><code>DB/72 Y8 DY24 Y8 DY76 R/12</code></td><td>316</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/db18y2dy6y2dy19r3~x2/">Balfour #2</a> · <a href="/variants/s6/db18y2dy6y2dy19r3~x4/">Balfour (Clan)</a></td></tr>
-<tr><td><a href="/variants/s6/db30y3dy11y3g33r6~x2/">Balfour Hunting</a></td><td><code>DB/60 Y6 DY22 Y6 G66 R/12</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db30y3dy11y3g33r6~x2/"><img src="db30y3dy11y3g33r6-rev.png" alt="Balfour Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db18y2dy6y2dy19r3~x2/">Balfour Hunting</a> ★</td><td></td><td><code>DB/18 Y2 DY6 Y2 DY19 R/3</code></td><td>79</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db18y2dy6y2dy19r3~x2/"><img src="/variants/s6/db18y2dy6y2dy19r3~x2/sett.png" alt="Balfour Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/db18y2dy6y2dy19r3~x2/">Balfour #2</a></td><td>0.00</td><td><code>DB/36 Y4 DY12 Y4 DY38 R/6</code></td><td>158</td><td>1984</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/db18y2dy6y2dy19r3~x4/">Balfour (Clan)</a></td><td>0.00</td><td><code>DB/72 Y8 DY24 Y8 DY76 R/12</code></td><td>316</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/db18y2dy6y2dy19r3~x2/">Balfour #2</a> · <a href="/variants/s6/db18y2dy6y2dy19r3~x4/">Balfour (Clan)</a></td></tr>
+<tr><td><a href="/variants/s6/db30y3dy11y3g33r6~x2/">Balfour Hunting</a></td><td>1.57</td><td><code>DB/60 Y6 DY22 Y6 G66 R/12</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db30y3dy11y3g33r6~x2/"><img src="db30y3dy11y3g33r6-rev.png" alt="Balfour Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

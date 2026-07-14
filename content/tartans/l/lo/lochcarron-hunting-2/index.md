@@ -18,10 +18,10 @@ Its design is pattern [GBBBBBGKGKGRGR](/stripes/gbbbbbgkgkgrgr/) — the page of
 The **Lochcarron Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2/">Lochcarron Hunting</a></td><td><code>DG/6 DB20 T6 DB4 T4 DB4 DG6 K10 DG4 K10 DG44 R4 DG6 R/4</code></td><td>254</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2/"><img src="/variants/s14/dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2/sett.png" alt="Lochcarron Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2/">Lochcarron Hunting</a></td><td></td><td><code>DG/6 DB20 T6 DB4 T4 DB4 DG6 K10 DG4 K10 DG44 R4 DG6 R/4</code></td><td>254</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2/"><img src="/variants/s14/dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2/sett.png" alt="Lochcarron Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

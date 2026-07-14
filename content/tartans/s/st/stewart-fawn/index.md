@@ -18,10 +18,10 @@ Royal Stewart-based sett rendered in Burberry Check colours; related to the Thom
 The **Stewart Fawn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/ly24k5r2k2w2n8w3k2w2ly2~x2/">Stewart Fawn</a></td><td><code>LY/48 K10 R4 K4 W4 N16 W6 K4 W4 LY/4</code></td><td>156</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/ly24k5r2k2w2n8w3k2w2ly2~x2/"><img src="/variants/s10/ly24k5r2k2w2n8w3k2w2ly2~x2/sett.png" alt="Stewart Fawn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/ly24k5r2k2w2n8w3k2w2ly2~x2/">Stewart Fawn</a></td><td></td><td><code>LY/48 K10 R4 K4 W4 N16 W6 K4 W4 LY/4</code></td><td>156</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/ly24k5r2k2w2n8w3k2w2ly2~x2/"><img src="/variants/s10/ly24k5r2k2w2n8w3k2w2ly2~x2/sett.png" alt="Stewart Fawn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RKBW](/stripes/rkbw/) — the page of every tartan sharin
 The **McCallie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/r2k6db33w2~x4/">McCallie</a></td><td><code>R/8 K24 DB132 W/8</code></td><td>328</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r2k6db33w2~x4/"><img src="/variants/s4/r2k6db33w2~x4/sett.png" alt="McCallie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r2k6db33w2~x4/">McCallie</a></td><td></td><td><code>R/8 K24 DB132 W/8</code></td><td>328</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/r2k6db33w2~x4/"><img src="/variants/s4/r2k6db33w2~x4/sett.png" alt="McCallie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

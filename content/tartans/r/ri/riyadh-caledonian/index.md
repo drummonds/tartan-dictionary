@@ -13,10 +13,10 @@ Its design is pattern [BGBWBGBBBGGWG](/stripes/bgbwbgbbbggwg/) — the page of e
 The **Riyadh Caledonian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db23g4db1w1db3g5db1dp4db3y1g3w1g4~x4/">Riyadh Caledonian</a></td><td><code>DB/92 G16 DB4 W4 DB12 G20 DB4 DP16 DB12 Y4 G12 W4 G/16</code></td><td>324</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db23g4db1w1db3g5db1dp4db3y1g3w1g4~x4/"><img src="/variants/s13/db23g4db1w1db3g5db1dp4db3y1g3w1g4~x4/sett.png" alt="Riyadh Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db23g4db1w1db3g5db1dp4db3y1g3w1g4~x4/">Riyadh Caledonian</a></td><td></td><td><code>DB/92 G16 DB4 W4 DB12 G20 DB4 DP16 DB12 Y4 G12 W4 G/16</code></td><td>324</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db23g4db1w1db3g5db1dp4db3y1g3w1g4~x4/"><img src="/variants/s13/db23g4db1w1db3g5db1dp4db3y1g3w1g4~x4/sett.png" alt="Riyadh Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

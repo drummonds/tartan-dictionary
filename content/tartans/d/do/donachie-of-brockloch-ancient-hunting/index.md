@@ -18,10 +18,10 @@ Its design is pattern [GGKGKGGGKG](/stripes/ggkgkgggkg/) — the page of every t
 The **Donachie of Brockloch Ancient Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/">Donachie of Brockloch Ancient Hunting</a></td><td><code>DY/40 G4 K4 G4 K4 G44 DY72 G4 K4 G/40</code></td><td>360</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/"><img src="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/sett.png" alt="Donachie of Brockloch Ancient Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/">Donachie of Brockloch Ancient Hunting</a></td><td></td><td><code>DY/40 G4 K4 G4 K4 G44 DY72 G4 K4 G/40</code></td><td>360</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/"><img src="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/sett.png" alt="Donachie of Brockloch Ancient Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

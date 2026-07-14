@@ -16,10 +16,10 @@ Its design is pattern [BKBKBKB](/stripes/bkbkbkb/) — the page of every tartan 
 The **Dunbar, John Telfer** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/do5k2do28k10do26k4do4~x2/">Dunbar, John Telfer</a></td><td><code>DO/10 K4 DO56 K20 DO52 K8 DO/8</code></td><td>298</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/do5k2do28k10do26k4do4~x2/"><img src="/variants/s7/do5k2do28k10do26k4do4~x2/sett.png" alt="Dunbar, John Telfer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/do5k2do28k10do26k4do4~x2/">Dunbar, John Telfer</a></td><td></td><td><code>DO/10 K4 DO56 K20 DO52 K8 DO/8</code></td><td>298</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/do5k2do28k10do26k4do4~x2/"><img src="/variants/s7/do5k2do28k10do26k4do4~x2/sett.png" alt="Dunbar, John Telfer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

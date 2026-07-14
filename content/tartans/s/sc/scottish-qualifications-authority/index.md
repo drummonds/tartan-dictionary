@@ -13,10 +13,10 @@ Its design is pattern [BWBWBYB](/stripes/bwbwbyb/) — the page of every tartan 
 The **Scottish Qualifications Authority** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/">Scottish Qualifications Authority</a></td><td><code>DB/72 LO10 DB16 LB6 DB16 LB20 DB/6</code></td><td>214</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><img src="/variants/s7/db36lo5db8lb3db8lb10db3~x2/sett.png" alt="Scottish Qualifications Authority sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/">Scottish Qualifications Authority</a></td><td></td><td><code>DB/72 LO10 DB16 LB6 DB16 LB20 DB/6</code></td><td>214</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><img src="/variants/s7/db36lo5db8lb3db8lb10db3~x2/sett.png" alt="Scottish Qualifications Authority sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

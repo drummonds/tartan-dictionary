@@ -17,13 +17,13 @@ The **Austin WI** tartan is one sett, recorded at 2 scales — the same proporti
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/dr3k3dr3g6k2/">Austin WI</a></td><td><code>DR/3 K3 DR3 G6 K/2</code></td><td>29</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr3k3dr3g6k2/"><img src="/variants/s5/dr3k3dr3g6k2/sett.png" alt="Austin WI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s5/dr3k3dr3g6k2/">Austin WI</a></td><td><code>DR/3 K3 DR3 G6 K/2</code></td><td>29</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s5/dr3k3dr3g6k2~x2/">Austin WI</a></td><td><code>DR/6 K6 DR6 G12 K/4</code></td><td>58</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s5/dr3k3dr3g6k2/">Austin WI</a> · <a href="/variants/s5/dr3k3dr3g6k2~x2/">Austin WI</a></td></tr>
+<tr><td><a href="/variants/s5/dr3k3dr3g6k2/">Austin WI</a></td><td></td><td><code>DR/3 K3 DR3 G6 K/2</code></td><td>29</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dr3k3dr3g6k2/"><img src="/variants/s5/dr3k3dr3g6k2/sett.png" alt="Austin WI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s5/dr3k3dr3g6k2/">Austin WI</a></td><td>0.00</td><td><code>DR/3 K3 DR3 G6 K/2</code></td><td>29</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s5/dr3k3dr3g6k2~x2/">Austin WI</a></td><td>0.00</td><td><code>DR/6 K6 DR6 G12 K/4</code></td><td>58</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s5/dr3k3dr3g6k2/">Austin WI</a> · <a href="/variants/s5/dr3k3dr3g6k2~x2/">Austin WI</a></td></tr>
 </tbody>
 </table>
 

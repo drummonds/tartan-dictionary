@@ -13,10 +13,10 @@ Its design is pattern [BRGRGRGWBRBR](/stripes/brgrgrgwbrbr/) — the page of eve
 The **Raibert, Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/">Raibert, Check</a></td><td><code>DB/6 O28 G4 O4 G4 O6 G12 W36 DB6 O4 DB4 O/4</code></td><td>226</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><img src="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/sett.png" alt="Raibert, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/">Raibert, Check</a></td><td></td><td><code>DB/6 O28 G4 O4 G4 O6 G12 W36 DB6 O4 DB4 O/4</code></td><td>226</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><img src="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/sett.png" alt="Raibert, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GKRGRBRBKYGKWR](/stripes/gkrgrbrbkygkwr/) — the page of
 The **Wilson's No.226** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2~r2109032-w3600000-t2503227/">Wilson's No.226</a></td><td><code>R/50 W8 K8 G50 LO6 K30 T26 R10 T10 R30 G8 R10 K4 G/6</code></td><td>456</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2~r2109032-w3600000-t2503227/"><img src="/variants/s14/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2~r2109032-w3600000-t2503227/sett.png" alt="Wilson's No.226 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2~r2109032-w3600000-t2503227/">Wilson's No.226</a></td><td></td><td><code>R/50 W8 K8 G50 LO6 K30 T26 R10 T10 R30 G8 R10 K4 G/6</code></td><td>456</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2~r2109032-w3600000-t2503227/"><img src="/variants/s14/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2~r2109032-w3600000-t2503227/sett.png" alt="Wilson's No.226 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

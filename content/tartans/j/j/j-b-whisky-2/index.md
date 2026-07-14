@@ -13,10 +13,10 @@ Its design is pattern [KRKGWGKRKRKGWGKRKR](/stripes/krkgwgkrkrkgwgkrkr/) — the
 The **J & B Whisky** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/">J &amp; B Whisky</a></td><td><code>K/14 R3 K7 G26 W6 G26 K16 R3 K16 R3 K16 G26 W6 G26 K7 R3 K14 R/4</code></td><td>426</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/"><img src="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/sett.png" alt="J &amp; B Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/">J &amp; B Whisky</a></td><td></td><td><code>K/14 R3 K7 G26 W6 G26 K16 R3 K16 R3 K16 G26 W6 G26 K7 R3 K14 R/4</code></td><td>426</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/"><img src="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/sett.png" alt="J &amp; B Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

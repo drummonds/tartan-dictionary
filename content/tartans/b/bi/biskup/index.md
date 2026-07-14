@@ -13,10 +13,10 @@ Its design is pattern [BRBRKGRGGG](/stripes/brbrkgrggg/) — the page of every t
 The **Biskup** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/">Biskup</a></td><td><code>DB/24 R8 DB36 R4 K38 G36 R8 G6 Y4 G/16</code></td><td>320</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><img src="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/sett.png" alt="Biskup sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/">Biskup</a></td><td></td><td><code>DB/24 R8 DB36 R4 K38 G36 R8 G6 Y4 G/16</code></td><td>320</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><img src="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/sett.png" alt="Biskup sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

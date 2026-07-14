@@ -13,10 +13,10 @@ Its design is pattern [BRWBGGRW](/stripes/brwbggrw/) — the page of every tarta
 The **Wilson's, No 2** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/">Wilson's, No 2</a></td><td><code>B/4 R22 LB18 B22 Y4 G26 R42 W/4</code></td><td>276</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><img src="/variants/s8/b2r11lb9b11y2g13r21w2~x2/sett.png" alt="Wilson's, No 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/">Wilson's, No 2</a></td><td></td><td><code>B/4 R22 LB18 B22 Y4 G26 R42 W/4</code></td><td>276</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><img src="/variants/s8/b2r11lb9b11y2g13r21w2~x2/sett.png" alt="Wilson's, No 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

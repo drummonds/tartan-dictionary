@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRGW](/stripes/brbrbrgw/) — the page of every tarta
 The **Lamont** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/">Lamont</a></td><td><code>DP/22 O4 DP4 O4 DP4 O22 G28 W/4</code></td><td>158</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><img src="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/">Lamont</a></td><td></td><td><code>DP/22 O4 DP4 O4 DP4 O22 G28 W/4</code></td><td>158</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><img src="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

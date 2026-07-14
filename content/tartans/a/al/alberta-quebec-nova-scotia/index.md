@@ -16,10 +16,10 @@ Its design is pattern [BGKBWKGKGKGKGKBWGKBKBK](/stripes/bgkbwkgkgkgkgkbwgkbkbk/)
 The **Alberta, Quebec Nova Scotia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/">Alberta, Quebec Nova Scotia</a></td><td><code>DB/8 G20 K4 DB4 W28 K4 G4 K4 G4 K4 G4 K4 G4 K4 DB50 W16 G8 K8 DB6 K2 DB6 K/2</code></td><td>386</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/"><img src="/variants/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/sett.png" alt="Alberta, Quebec Nova Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/">Alberta, Quebec Nova Scotia</a></td><td></td><td><code>DB/8 G20 K4 DB4 W28 K4 G4 K4 G4 K4 G4 K4 G4 K4 DB50 W16 G8 K8 DB6 K2 DB6 K/2</code></td><td>386</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/"><img src="/variants/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/sett.png" alt="Alberta, Quebec Nova Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

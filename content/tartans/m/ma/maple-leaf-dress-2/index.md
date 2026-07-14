@@ -15,10 +15,10 @@ Dress version of David Weiser's Maple Leaf tartan, evoking leaves turning from s
 The **Maple Leaf Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/dr6g5dr6dg1dr1dg9o3g3o3dr10dg1dr6g5dr6dg1dr1w1dr1w12g1w12dr1w1~x4/">Maple Leaf Dress</a></td><td><code>DR/24 G20 DR24 DG4 DR4 DG36 O12 G12 O12 DR40 DG4 DR24 G20 DR24 DG4 DR4 W4 DR4 W48 G4 W48 DR4 W/4</code></td><td>740</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/dr6g5dr6dg1dr1dg9o3g3o3dr10dg1dr6g5dr6dg1dr1w1dr1w12g1w12dr1w1~x4/"><img src="/variants/s23/dr6g5dr6dg1dr1dg9o3g3o3dr10dg1dr6g5dr6dg1dr1w1dr1w12g1w12dr1w1~x4/sett.png" alt="Maple Leaf Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/dr6g5dr6dg1dr1dg9o3g3o3dr10dg1dr6g5dr6dg1dr1w1dr1w12g1w12dr1w1~x4/">Maple Leaf Dress</a></td><td></td><td><code>DR/24 G20 DR24 DG4 DR4 DG36 O12 G12 O12 DR40 DG4 DR24 G20 DR24 DG4 DR4 W4 DR4 W48 G4 W48 DR4 W/4</code></td><td>740</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/dr6g5dr6dg1dr1dg9o3g3o3dr10dg1dr6g5dr6dg1dr1w1dr1w12g1w12dr1w1~x4/"><img src="/variants/s23/dr6g5dr6dg1dr1dg9o3g3o3dr10dg1dr6g5dr6dg1dr1w1dr1w12g1w12dr1w1~x4/sett.png" alt="Maple Leaf Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

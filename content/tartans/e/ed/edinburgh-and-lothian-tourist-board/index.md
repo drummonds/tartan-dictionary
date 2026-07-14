@@ -16,10 +16,10 @@ Its design is pattern [KBRBKBR](/stripes/kbrbkbr/) — the page of every tartan 
 The **Edinburgh and Lothian Tourist Board** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/">Edinburgh and Lothian Tourist Board</a></td><td><code>Ki/80 DB16 O6 DB12 K6 DB12 R/8</code></td><td>192</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/"><img src="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/sett.png" alt="Edinburgh and Lothian Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/">Edinburgh and Lothian Tourist Board</a></td><td></td><td><code>Ki/80 DB16 O6 DB12 K6 DB12 R/8</code></td><td>192</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/"><img src="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/sett.png" alt="Edinburgh and Lothian Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

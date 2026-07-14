@@ -20,12 +20,12 @@ The **Jubilation** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/b13w13b30w13b11w2b8~x2/">Jubilation</a> ★</td><td><code>B/26 W26 B60 W26 B22 W4 B/16</code></td><td>318</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/b13w13b30w13b11w2b8~x2/"><img src="/variants/s7/b13w13b30w13b11w2b8~x2/sett.png" alt="Jubilation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db8w2db11w13db30w13r11db2~x2/">(Commemorative)</a></td><td><code>DB/16 W4 DB22 W26 DB60 W26 R22 DB/4</code></td><td>340</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db8w2db11w13db30w13r11db2~x2/"><img src="db8w2db11w13db30w13r11db2-rev.png" alt="(Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/b13w13b30w13b11w2b8~x2/">Jubilation</a> ★</td><td></td><td><code>B/26 W26 B60 W26 B22 W4 B/16</code></td><td>318</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/b13w13b30w13b11w2b8~x2/"><img src="/variants/s7/b13w13b30w13b11w2b8~x2/sett.png" alt="Jubilation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db8w2db11w13db30w13r11db2~x2/">(Commemorative)</a></td><td>0.95</td><td><code>DB/16 W4 DB22 W26 DB60 W26 R22 DB/4</code></td><td>340</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db8w2db11w13db30w13r11db2~x2/"><img src="db8w2db11w13db30w13r11db2-rev.png" alt="(Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -17,10 +17,10 @@ Its design is pattern [KRKRBR](/stripes/krkrbr/) — the page of every tartan sh
 The **Masai Shuka 27** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r30db8r2k1r2k1~x2/">Masai Shuka 27</a></td><td><code>R/60 DB16 R4 K2 R4 K/2</code></td><td>114</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r30db8r2k1r2k1~x2/"><img src="/variants/s6/r30db8r2k1r2k1~x2/sett.png" alt="Masai Shuka 27 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r30db8r2k1r2k1~x2/">Masai Shuka 27</a></td><td></td><td><code>R/60 DB16 R4 K2 R4 K/2</code></td><td>114</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r30db8r2k1r2k1~x2/"><img src="/variants/s6/r30db8r2k1r2k1~x2/sett.png" alt="Masai Shuka 27 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

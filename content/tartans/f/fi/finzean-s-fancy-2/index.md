@@ -13,10 +13,10 @@ Its design is pattern [WBRKWGYRKRYBKRYW](/stripes/wbrkwgyrkrybkryw/) — the pag
 The **Finzean's Fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/">Finzean's Fancy</a></td><td><code>LB/16 LO16 R12 K12 B56 LO24 R12 K4 R12 LO24 G56 LB4 K8 R108 DR2 LB/4</code></td><td>720</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/"><img src="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/sett.png" alt="Finzean's Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/">Finzean's Fancy</a></td><td></td><td><code>LB/16 LO16 R12 K12 B56 LO24 R12 K4 R12 LO24 G56 LB4 K8 R108 DR2 LB/4</code></td><td>720</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/"><img src="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/sett.png" alt="Finzean's Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

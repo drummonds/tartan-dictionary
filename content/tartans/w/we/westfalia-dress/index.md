@@ -18,10 +18,10 @@ Its design is pattern [RBGWGW](/stripes/rbgwgw/) — the page of every tartan sh
 The **Westfalia Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w44dg18w6dg11db1r4~x2/">Westfalia Dress</a></td><td><code>W/88 DG36 W12 DG22 DB2 R/8</code></td><td>240</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w44dg18w6dg11db1r4~x2/"><img src="/variants/s6/w44dg18w6dg11db1r4~x2/sett.png" alt="Westfalia Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w44dg18w6dg11db1r4~x2/">Westfalia Dress</a></td><td></td><td><code>W/88 DG36 W12 DG22 DB2 R/8</code></td><td>240</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w44dg18w6dg11db1r4~x2/"><img src="/variants/s6/w44dg18w6dg11db1r4~x2/sett.png" alt="Westfalia Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

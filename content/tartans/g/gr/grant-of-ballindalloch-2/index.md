@@ -18,10 +18,10 @@ Its design is pattern [RKRGRGRKRBRKRKR](/stripes/rkrgrgrkrbrkrkr/) — the page 
 The **Grant of Ballindalloch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/">Grant of Ballindalloch</a></td><td><code>R/10 K10 R6 G32 R6 G6 R6 K20 R6 B10 R24 K10 R6 K6 R/10</code></td><td>316</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/"><img src="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/sett.png" alt="Grant of Ballindalloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/">Grant of Ballindalloch</a></td><td></td><td><code>R/10 K10 R6 G32 R6 G6 R6 K20 R6 B10 R24 K10 R6 K6 R/10</code></td><td>316</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/"><img src="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/sett.png" alt="Grant of Ballindalloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

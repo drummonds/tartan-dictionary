@@ -18,10 +18,10 @@ Its design is pattern [WBBRGRGRBBBRBBGRGRBRBBRW](/stripes/wbbrgrgrbbbrbbgrgrbrbb
 The **MacDougall, of MacDougall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/lb2dp10b3r4g72r7g4r10db24dp6b5r4b5dp7g24r24g24r3db3r74dp7b5r6lb2~x2/">MacDougall, of MacDougall</a></td><td><code>LB/4 DP20 B6 R8 G144 R14 G8 R20 DB48 DP12 B10 R8 B10 DP14 G48 R48 G48 R6 DB6 R148 DP14 B10 R12 LB/4</code></td><td>1332</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/lb2dp10b3r4g72r7g4r10db24dp6b5r4b5dp7g24r24g24r3db3r74dp7b5r6lb2~x2/"><img src="/variants/s24/lb2dp10b3r4g72r7g4r10db24dp6b5r4b5dp7g24r24g24r3db3r74dp7b5r6lb2~x2/sett.png" alt="MacDougall, of MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/lb2dp10b3r4g72r7g4r10db24dp6b5r4b5dp7g24r24g24r3db3r74dp7b5r6lb2~x2/">MacDougall, of MacDougall</a></td><td></td><td><code>LB/4 DP20 B6 R8 G144 R14 G8 R20 DB48 DP12 B10 R8 B10 DP14 G48 R48 G48 R6 DB6 R148 DP14 B10 R12 LB/4</code></td><td>1332</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/lb2dp10b3r4g72r7g4r10db24dp6b5r4b5dp7g24r24g24r3db3r74dp7b5r6lb2~x2/"><img src="/variants/s24/lb2dp10b3r4g72r7g4r10db24dp6b5r4b5dp7g24r24g24r3db3r74dp7b5r6lb2~x2/sett.png" alt="MacDougall, of MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

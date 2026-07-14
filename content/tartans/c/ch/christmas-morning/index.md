@@ -16,10 +16,10 @@ Its design is pattern [GRGRWBWGR](/stripes/grgrwbwgr/) — the page of every tar
 The **Christmas Morning** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/">Christmas Morning</a></td><td><code>G/6 R24 G30 R4 W2 DB60 W2 G4 R/4</code></td><td>262</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><img src="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/sett.png" alt="Christmas Morning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/">Christmas Morning</a></td><td></td><td><code>G/6 R24 G30 R4 W2 DB60 W2 G4 R/4</code></td><td>262</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><img src="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/sett.png" alt="Christmas Morning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

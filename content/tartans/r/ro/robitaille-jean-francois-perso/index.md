@@ -15,10 +15,10 @@ Personal tartan based on the Robitaille family coat of arms and the heraldry of 
 The **Robitaille, Jean-Francois (Perso** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/">Robitaille, Jean-Francois (Perso</a></td><td><code>DB/42 W4 LY6 W4 LY4 W4 K24 W4 G12 DB30 R4 Y/8</code></td><td>242</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/"><img src="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/sett.png" alt="Robitaille, Jean-Francois (Perso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/">Robitaille, Jean-Francois (Perso</a></td><td></td><td><code>DB/42 W4 LY6 W4 LY4 W4 K24 W4 G12 DB30 R4 Y/8</code></td><td>242</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/"><img src="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/sett.png" alt="Robitaille, Jean-Francois (Perso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

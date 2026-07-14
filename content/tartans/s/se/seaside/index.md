@@ -18,10 +18,10 @@ Its design is pattern [WWBWGBY](/stripes/wwbwgby/) — the page of every tartan 
 The **Seaside** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w3lb2b4lb14g2t14lo2~x4~lb3300000-t2405244/">Seaside</a></td><td><code>W/12 LB8 B16 LB56 G8 T56 LO/8</code></td><td>308</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w3lb2b4lb14g2t14lo2~x4~lb3300000-t2405244/"><img src="/variants/s7/w3lb2b4lb14g2t14lo2~x4~lb3300000-t2405244/sett.png" alt="Seaside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w3lb2b4lb14g2t14lo2~x4~lb3300000-t2405244/">Seaside</a></td><td></td><td><code>W/12 LB8 B16 LB56 G8 T56 LO/8</code></td><td>308</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w3lb2b4lb14g2t14lo2~x4~lb3300000-t2405244/"><img src="/variants/s7/w3lb2b4lb14g2t14lo2~x4~lb3300000-t2405244/sett.png" alt="Seaside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

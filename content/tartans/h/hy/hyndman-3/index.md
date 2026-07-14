@@ -20,10 +20,10 @@ Designed 1992 for C.P. Hyndman; colours reflect his arms, Inniskilling Fusiliers
 The **Hyndman** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/">Hyndman</a></td><td><code>DB/24 G48 R10 DO40 G8 W4 G8 DO42 Y10 G48 DB24 DO8 K4 DO/8</code></td><td>540</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/"><img src="/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/sett.png" alt="Hyndman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/">Hyndman</a></td><td></td><td><code>DB/24 G48 R10 DO40 G8 W4 G8 DO42 Y10 G48 DB24 DO8 K4 DO/8</code></td><td>540</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/"><img src="/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/sett.png" alt="Hyndman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

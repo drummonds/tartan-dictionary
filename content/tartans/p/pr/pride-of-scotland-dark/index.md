@@ -15,10 +15,10 @@ Dark fashion variant of Pride of Scotland, from a McCalls of Aberdeen series.
 The **Pride of Scotland Dark** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/">Pride of Scotland Dark</a></td><td><code>DT/16 K4 O4 DT4 K26 DT4 K4 LR2 DT28 K52 LR/4</code></td><td>276</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/"><img src="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/sett.png" alt="Pride of Scotland Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/">Pride of Scotland Dark</a></td><td></td><td><code>DT/16 K4 O4 DT4 K26 DT4 K4 LR2 DT28 K52 LR/4</code></td><td>276</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/"><img src="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/sett.png" alt="Pride of Scotland Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

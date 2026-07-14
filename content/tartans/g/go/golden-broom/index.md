@@ -17,13 +17,13 @@ The **Golden Broom** tartan groups 2 setts — the same named design recorded as
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2/">Golden Broom</a> ★</td><td><code>G/24 Y6 G12 DR38 K2 R16 K4 LB8 K4 G38 K2 DR38 K2 R/18</code></td><td>382</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2/"><img src="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2/sett.png" alt="Golden Broom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2/">(Corporate)</a> · <a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2~r2806019/">Golden Broom</a></td></tr>
-<tr><td><a href="/variants/s14/g12y3g6dr19k1r8k2t4k2g19k1dr19k1r9~x2/">#2</a></td><td><code>G/24 Y6 G12 DR38 K2 R16 K4 T8 K4 G38 K2 DR38 K2 R/18</code></td><td>382</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g12y3g6dr19k1r8k2t4k2g19k1dr19k1r9~x2/"><img src="/variants/s14/g12y3g6dr19k1r8k2t4k2g19k1dr19k1r9~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2/">Golden Broom</a> ★</td><td></td><td><code>G/24 Y6 G12 DR38 K2 R16 K4 LB8 K4 G38 K2 DR38 K2 R/18</code></td><td>382</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2/"><img src="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2/sett.png" alt="Golden Broom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2/">(Corporate)</a> · <a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2~r2806019/">Golden Broom</a></td></tr>
+<tr><td><a href="/variants/s14/g12y3g6dr19k1r8k2t4k2g19k1dr19k1r9~x2/">#2</a></td><td>0.02</td><td><code>G/24 Y6 G12 DR38 K2 R16 K4 T8 K4 G38 K2 DR38 K2 R/18</code></td><td>382</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g12y3g6dr19k1r8k2t4k2g19k1dr19k1r9~x2/"><img src="/variants/s14/g12y3g6dr19k1r8k2t4k2g19k1dr19k1r9~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

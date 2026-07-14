@@ -13,10 +13,10 @@ Its design is pattern [KWRGRGRYRGRKW](/stripes/kwrgrgryrgrkw/) — the page of e
 The **Melieres-Frost** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/">Melieres-Frost</a></td><td><code>K/8 W2 R4 G32 R16 G16 R30 LO2 R28 Y4 R4 K2 W/8</code></td><td>296</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/"><img src="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/sett.png" alt="Melieres-Frost sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/">Melieres-Frost</a></td><td></td><td><code>K/8 W2 R4 G32 R16 G16 R30 LO2 R28 Y4 R4 K2 W/8</code></td><td>296</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/"><img src="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/sett.png" alt="Melieres-Frost sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBBKGRY](/stripes/bbbkgry/) — the page of every tartan 
 The **Nova Scotia International Tatoo** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/">Nova Scotia International Tatoo</a></td><td><code>DB/6 B4 DB42 K24 DG48 R2 LY/6</code></td><td>252</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><img src="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/sett.png" alt="Nova Scotia International Tatoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/">Nova Scotia International Tatoo</a></td><td></td><td><code>DB/6 B4 DB42 K24 DG48 R2 LY/6</code></td><td>252</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><img src="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/sett.png" alt="Nova Scotia International Tatoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

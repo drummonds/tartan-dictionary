@@ -13,10 +13,10 @@ Its design is pattern [BYBYBGBY](/stripes/bybybgby/) — the page of every tarta
 The **Montreal Granate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ly78dr11g2dr6ly2dr3ly2dr43~x2/">Montreal Granate</a></td><td><code>LY/156 DR22 G4 DR12 LY4 DR6 LY4 DR/86</code></td><td>346</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly78dr11g2dr6ly2dr3ly2dr43~x2/"><img src="/variants/s8/ly78dr11g2dr6ly2dr3ly2dr43~x2/sett.png" alt="Montreal Granate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly78dr11g2dr6ly2dr3ly2dr43~x2/">Montreal Granate</a></td><td></td><td><code>LY/156 DR22 G4 DR12 LY4 DR6 LY4 DR/86</code></td><td>346</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ly78dr11g2dr6ly2dr3ly2dr43~x2/"><img src="/variants/s8/ly78dr11g2dr6ly2dr3ly2dr43~x2/sett.png" alt="Montreal Granate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

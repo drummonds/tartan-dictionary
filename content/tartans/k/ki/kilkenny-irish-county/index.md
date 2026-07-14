@@ -15,10 +15,10 @@ One of Polly Wittering's Irish district series for House of Edgar, with soft war
 The **Kilkenny Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/">Kilkenny Irish County</a></td><td><code>DG/50 O4 DB50 LO10 DG6 DP6 DG6 LO10 DB50 O4 DG54 DP10 DG/4</code></td><td>474</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/"><img src="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/sett.png" alt="Kilkenny Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/">Kilkenny Irish County</a></td><td></td><td><code>DG/50 O4 DB50 LO10 DG6 DP6 DG6 LO10 DB50 O4 DG54 DP10 DG/4</code></td><td>474</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/"><img src="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/sett.png" alt="Kilkenny Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

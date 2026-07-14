@@ -15,10 +15,10 @@ Buchanan variant from the MacGregor Hastie collection, with non-original threadc
 The **BuchananMacGregor Hastie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/">BuchananMacGregor Hastie</a></td><td><code>DB/6 K2 DY62 DB6 DY62 K2 DB8 K2 Y14 K2 Y14 K2 DB8 K2 DP62 W6 DP62 K2 DB8 K2 Y14 K2 Y14 K/2</code></td><td>724</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/"><img src="/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/sett.png" alt="BuchananMacGregor Hastie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/">BuchananMacGregor Hastie</a></td><td></td><td><code>DB/6 K2 DY62 DB6 DY62 K2 DB8 K2 Y14 K2 Y14 K2 DB8 K2 DP62 W6 DP62 K2 DB8 K2 Y14 K2 Y14 K/2</code></td><td>724</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/"><img src="/variants/s24/db3k1dy31db3dy31k1db4k1y7k1y7k1db4k1dp31w3dp31k1db4k1y7k1y7k1~x2/sett.png" alt="BuchananMacGregor Hastie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

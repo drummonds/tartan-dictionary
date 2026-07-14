@@ -23,14 +23,14 @@ The **Taggart** tartan groups 3 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/">Taggart</a> ★</td><td><code>R/8 G10 K2 R4 K2 G12 DB10 R4 K8 R4 K4 R4 DB8 LB70 K2 R4 K2 LB8 R/6</code></td><td>330</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><img src="/variants/s19/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/sett.png" alt="Taggart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/">(Name)</a></td><td><code>R/8 DG10 K2 R4 K2 DG12 DB10 R4 K8 R4 K4 R4 DB8 LB70 K2 R4 K2 LB8 R/6</code></td><td>330</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><img src="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/">Name Tartan</a></td><td><code>R/8 K12 R4 K14 DB10 R4 K8 R4 K4 R4 DB8 LB70 K2 R4 K2 LB8 R/6</code></td><td>330</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><img src="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/sett.png" alt="Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/">Taggart</a> ★</td><td></td><td><code>R/8 G10 K2 R4 K2 G12 DB10 R4 K8 R4 K4 R4 DB8 LB70 K2 R4 K2 LB8 R/6</code></td><td>330</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><img src="/variants/s19/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/sett.png" alt="Taggart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/">(Name)</a></td><td>0.07</td><td><code>R/8 DG10 K2 R4 K2 DG12 DB10 R4 K8 R4 K4 R4 DB8 LB70 K2 R4 K2 LB8 R/6</code></td><td>330</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><img src="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/">Name Tartan</a></td><td>0.97</td><td><code>R/8 K12 R4 K14 DB10 R4 K8 R4 K4 R4 DB8 LB70 K2 R4 K2 LB8 R/6</code></td><td>330</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><img src="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/sett.png" alt="Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

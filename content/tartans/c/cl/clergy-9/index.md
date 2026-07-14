@@ -18,10 +18,10 @@ Its design is pattern [KWBWKWKBKBKWBWKWKWBWKBKBKWKWBWKW](/stripes/kwbwkwkbkbkwbw
 The **Clergy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s32/k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1~x2/">Clergy</a></td><td><code>K/10 LB2 N8 LB2 K52 LB2 K20 N10 K4 N10 K20 LB2 N8 LB2 K10 LB2 K10 LB2 N8 LB2 K20 N10 K4 N10 K20 LB2 K52 LB2 N8 LB2 K10 LB/2</code></td><td>644</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s32/k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1~x2/"><img src="/variants/s32/k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1~x2/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s32/k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1~x2/">Clergy</a></td><td></td><td><code>K/10 LB2 N8 LB2 K52 LB2 K20 N10 K4 N10 K20 LB2 N8 LB2 K10 LB2 K10 LB2 N8 LB2 K20 N10 K4 N10 K20 LB2 K52 LB2 N8 LB2 K10 LB/2</code></td><td>644</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s32/k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1~x2/"><img src="/variants/s32/k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1~x2/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [WBBBBWBW](/stripes/wbbbbwbw/) — the page of every tarta
 The **Pride of the Nation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb12dbi6lb50db39b12dp6b6w4~dbi1406275-db1004274/">Pride of the Nation</a></td><td><code>LB/12 DBi6 LB50 DB39 B12 DP6 B6 W/4</code></td><td>254</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb12dbi6lb50db39b12dp6b6w4~dbi1406275-db1004274/"><img src="/variants/s8/lb12dbi6lb50db39b12dp6b6w4~dbi1406275-db1004274/sett.png" alt="Pride of the Nation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb12dbi6lb50db39b12dp6b6w4~dbi1406275-db1004274/">Pride of the Nation</a></td><td></td><td><code>LB/12 DBi6 LB50 DB39 B12 DP6 B6 W/4</code></td><td>254</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb12dbi6lb50db39b12dp6b6w4~dbi1406275-db1004274/"><img src="/variants/s8/lb12dbi6lb50db39b12dp6b6w4~dbi1406275-db1004274/sett.png" alt="Pride of the Nation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

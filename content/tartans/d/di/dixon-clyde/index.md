@@ -13,10 +13,10 @@ Its design is pattern [BGGGGYGGRYRYRYRY](/stripes/bggggyggryryryry/) — the pag
 The **Dixon, Clyde** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/">Dixon, Clyde</a></td><td><code>DB/4 Y2 G4 DG16 G16 LY18 G6 Y4 R2 LY2 R2 LY2 R2 LY2 R2 LY/2</code></td><td>166</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/"><img src="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/sett.png" alt="Dixon, Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/">Dixon, Clyde</a></td><td></td><td><code>DB/4 Y2 G4 DG16 G16 LY18 G6 Y4 R2 LY2 R2 LY2 R2 LY2 R2 LY/2</code></td><td>166</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/"><img src="/variants/s16/db2y1g2dg8g8ly9g3y2r1ly1r1ly1r1ly1r1ly1~x2/sett.png" alt="Dixon, Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **Lennox Dress** tartan groups 2 setts — the same named design recorded as
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/">Lennox Dress</a> ★</td><td><code>R/8 DR4 R40 DR8 W40 DB4 W/8</code></td><td>208</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/"><img src="/variants/s7/r2dr1r10dr2w10db1w2~x4/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/">District Tartan</a></td><td><code>Ri/16 R4 Ri48 R10 W50 DY4 W/16</code></td><td>264</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/"><img src="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/">Lennox Dress</a> ★</td><td></td><td><code>R/8 DR4 R40 DR8 W40 DB4 W/8</code></td><td>208</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/"><img src="/variants/s7/r2dr1r10dr2w10db1w2~x4/sett.png" alt="Lennox Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/">District Tartan</a></td><td>0.65</td><td><code>Ri/16 R4 Ri48 R10 W50 DY4 W/16</code></td><td>264</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/"><img src="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Designed 2002 by Enid Brown for Gleneagles golf clothing, named for the Monarch'
 The **Monarchs Corporate Sport** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db19k4dr1k4dg9k1~x4/">Monarchs Corporate Sport</a></td><td><code>DB/76 K16 DR4 K16 DG36 K/4</code></td><td>224</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db19k4dr1k4dg9k1~x4/"><img src="/variants/s6/db19k4dr1k4dg9k1~x4/sett.png" alt="Monarchs Corporate Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db19k4dr1k4dg9k1~x4/">Monarchs Corporate Sport</a></td><td></td><td><code>DB/76 K16 DR4 K16 DG36 K/4</code></td><td>224</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db19k4dr1k4dg9k1~x4/"><img src="/variants/s6/db19k4dr1k4dg9k1~x4/sett.png" alt="Monarchs Corporate Sport sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

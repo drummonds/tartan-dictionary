@@ -13,10 +13,10 @@ Its design is pattern [GGKWKGKBGBKGKWG](/stripes/ggkwkgkbgbkgkwg/) — the page 
 The **Wilson's No.017** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dy29g17k1w3k1y2k10t8dy4t8k10y2k1w3dy29~x2~w4000000-t2503227/">Wilson's No.017</a></td><td><code>DY/58 G34 K2 W6 K2 Y4 K20 T16 DY8 T16 K20 Y4 K2 W6 DY/58</code></td><td>396</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dy29g17k1w3k1y2k10t8dy4t8k10y2k1w3dy29~x2~w4000000-t2503227/"><img src="/variants/s15/dy29g17k1w3k1y2k10t8dy4t8k10y2k1w3dy29~x2~w4000000-t2503227/sett.png" alt="Wilson's No.017 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dy29g17k1w3k1y2k10t8dy4t8k10y2k1w3dy29~x2~w4000000-t2503227/">Wilson's No.017</a></td><td></td><td><code>DY/58 G34 K2 W6 K2 Y4 K20 T16 DY8 T16 K20 Y4 K2 W6 DY/58</code></td><td>396</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dy29g17k1w3k1y2k10t8dy4t8k10y2k1w3dy29~x2~w4000000-t2503227/"><img src="/variants/s15/dy29g17k1w3k1y2k10t8dy4t8k10y2k1w3dy29~x2~w4000000-t2503227/sett.png" alt="Wilson's No.017 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GWGWGKGKGKGY](/stripes/gwgwgkgkgkgy/) — the page of eve
 The **Dorcas Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/">Dorcas Check</a></td><td><code>DY/8 W4 DY4 W6 DY36 K12 G6 K4 G4 K4 G28 LO/6</code></td><td>230</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><img src="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/sett.png" alt="Dorcas Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/">Dorcas Check</a></td><td></td><td><code>DY/8 W4 DY4 W6 DY36 K12 G6 K4 G4 K4 G28 LO/6</code></td><td>230</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><img src="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/sett.png" alt="Dorcas Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

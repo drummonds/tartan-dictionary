@@ -16,11 +16,11 @@ Its design is pattern [BBWGBWBG](/stripes/bbwgbwbg/) — the page of every tarta
 The **Blue Ridge Highlands Heritage** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/">Blue Ridge Highlands Heritage</a></td><td><code>T/54 DB18 LB6 DG12 DB66 LB6 DR6 Y/4</code></td><td>286</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/"><img src="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/sett.png" alt="Blue Ridge Highlands Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/">Blue Ridge Highlands Heritage</a> · <a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-lb3103284/">(Dist)</a></td></tr>
+<tr><td><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/">Blue Ridge Highlands Heritage</a></td><td></td><td><code>T/54 DB18 LB6 DG12 DB66 LB6 DR6 Y/4</code></td><td>286</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/"><img src="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/sett.png" alt="Blue Ridge Highlands Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/">Blue Ridge Highlands Heritage</a> · <a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-lb3103284/">(Dist)</a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Designed by Douglas Kinloch Anderson in 2002 as a fashion tartan for Japanese an
 The **Kinloch Anderson Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/">Kinloch Anderson Check</a></td><td><code>K/36 LO4 K4 LO6 K4 LO4 K36 LO24 Y36 DY6 Y36 LO/18</code></td><td>374</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/"><img src="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/sett.png" alt="Kinloch Anderson Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/">Kinloch Anderson Check</a></td><td></td><td><code>K/36 LO4 K4 LO6 K4 LO4 K36 LO24 Y36 DY6 Y36 LO/18</code></td><td>374</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/"><img src="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/sett.png" alt="Kinloch Anderson Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

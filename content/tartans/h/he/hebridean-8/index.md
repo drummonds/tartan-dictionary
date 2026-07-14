@@ -20,10 +20,10 @@ District tartan from the Bute Collection housed at Mount Stewart, Rothesay.
 The **Hebridean 8** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/">Hebridean 8</a></td><td><code>K/4 R4 K24 R4 K4 R36 K4 R4 K24 R4 W/2</code></td><td>222</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><img src="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/sett.png" alt="Hebridean 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/">Hebridean 8</a></td><td></td><td><code>K/4 R4 K24 R4 K4 R36 K4 R4 K24 R4 W/2</code></td><td>222</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><img src="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/sett.png" alt="Hebridean 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BGRGR](/stripes/bgrgr/) — the page of every tartan shar
 The **MacNab 2** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/b86g3r3g6r85~x2/">MacNab 2</a></td><td><code>B/172 G6 R6 G12 R/170</code></td><td>390</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/b86g3r3g6r85~x2/"><img src="/variants/s5/b86g3r3g6r85~x2/sett.png" alt="MacNab 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/b86g3r3g6r85~x2/">MacNab 2</a></td><td></td><td><code>B/172 G6 R6 G12 R/170</code></td><td>390</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/b86g3r3g6r85~x2/"><img src="/variants/s5/b86g3r3g6r85~x2/sett.png" alt="MacNab 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

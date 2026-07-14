@@ -13,10 +13,10 @@ Its design is pattern [GWKWWRKWWGWGK](/stripes/gwkwwrkwwgwgk/) — the page of e
 The **Nazarian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/">Nazarian</a></td><td><code>DY/12 W8 K6 LB28 W6 R68 K68 W8 LB6 DY16 W6 G8 K/4</code></td><td>472</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/"><img src="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/sett.png" alt="Nazarian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/">Nazarian</a></td><td></td><td><code>DY/12 W8 K6 LB28 W6 R68 K68 W8 LB6 DY16 W6 G8 K/4</code></td><td>472</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/"><img src="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/sett.png" alt="Nazarian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

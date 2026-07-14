@@ -13,10 +13,10 @@ Its design is pattern [KWKWKBR](/stripes/kwkwkbr/) — the page of every tartan 
 The **Dunfermline Athletic** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k11w1k1w1k4n8r1~x8/">Dunfermline Athletic</a></td><td><code>K/88 W8 K8 W8 K32 N64 R/8</code></td><td>336</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><img src="/variants/s7/k11w1k1w1k4n8r1~x8/sett.png" alt="Dunfermline Athletic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k11w1k1w1k4n8r1~x8/">Dunfermline Athletic</a></td><td></td><td><code>K/88 W8 K8 W8 K32 N64 R/8</code></td><td>336</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><img src="/variants/s7/k11w1k1w1k4n8r1~x8/sett.png" alt="Dunfermline Athletic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

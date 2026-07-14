@@ -13,10 +13,10 @@ Its design is pattern [GRGKGKGGR](/stripes/grgkgkggr/) — the page of every tar
 The **Lordship of Greencastle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/">Lordship of Greencastle</a></td><td><code>DG/24 R4 DGi24 K6 G4 K80 DG12 G4 R/4</code></td><td>296</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/"><img src="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/sett.png" alt="Lordship of Greencastle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/">Lordship of Greencastle</a></td><td></td><td><code>DG/24 R4 DGi24 K6 G4 K80 DG12 G4 R/4</code></td><td>296</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/"><img src="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/sett.png" alt="Lordship of Greencastle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

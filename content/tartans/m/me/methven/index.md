@@ -15,12 +15,12 @@ The **Methven** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/">Methven</a> ★</td><td><code>R/4 DG6 DY36 R4 DY4 R42 G12 DG4 G4 DG48 LO/4</code></td><td>328</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><img src="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/sett.png" alt="Methven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/">Methven</a></td><td><code>O/4 DG6 DY36 O4 DY4 O42 G4 DG4 G4 DG48 LO/4</code></td><td>312</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><img src="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/sett.png" alt="Methven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/">Methven</a> ★</td><td></td><td><code>R/4 DG6 DY36 R4 DY4 R42 G12 DG4 G4 DG48 LO/4</code></td><td>328</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><img src="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/sett.png" alt="Methven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/">Methven</a></td><td>2.65</td><td><code>O/4 DG6 DY36 O4 DY4 O42 G4 DG4 G4 DG48 LO/4</code></td><td>312</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><img src="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/sett.png" alt="Methven sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

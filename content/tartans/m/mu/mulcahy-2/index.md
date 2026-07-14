@@ -18,10 +18,10 @@ Its design is pattern [BKBKGRGRGGW](/stripes/bkbkgrgrggw/) — the page of every
 The **Mulcahy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/">Mulcahy</a></td><td><code>DB/66 K2 DB10 K15 G15 R4 G15 R4 G30 Y2 W/4</code></td><td>264</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><img src="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/sett.png" alt="Mulcahy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/">Mulcahy</a></td><td></td><td><code>DB/66 K2 DB10 K15 G15 R4 G15 R4 G30 Y2 W/4</code></td><td>264</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><img src="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/sett.png" alt="Mulcahy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

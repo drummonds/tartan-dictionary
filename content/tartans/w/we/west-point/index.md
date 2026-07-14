@@ -18,10 +18,10 @@ Regimental tartan associated with West Point, dating from 1986.
 The **West Point** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/">West Point</a></td><td><code>K/78 N6 K6 N6 K24 N60 Y6 N/6</code></td><td>300</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><img src="/variants/s8/k13n1k1n1k4n10y1n1~x6/sett.png" alt="West Point sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/">West Point</a></td><td></td><td><code>K/78 N6 K6 N6 K24 N60 Y6 N/6</code></td><td>300</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><img src="/variants/s8/k13n1k1n1k4n10y1n1~x6/sett.png" alt="West Point sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

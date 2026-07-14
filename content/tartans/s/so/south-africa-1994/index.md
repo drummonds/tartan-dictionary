@@ -13,10 +13,10 @@ Its design is pattern [KGBWGWR](/stripes/kgbwgwr/) — the page of every tartan 
 The **South Africa 1994** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k20y4db13w4g30w4r13~x2/">South Africa 1994</a></td><td><code>K/40 Y8 DB26 W8 G60 W8 R/26</code></td><td>286</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><img src="/variants/s7/k20y4db13w4g30w4r13~x2/sett.png" alt="South Africa 1994 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k20y4db13w4g30w4r13~x2/">South Africa 1994</a></td><td></td><td><code>K/40 Y8 DB26 W8 G60 W8 R/26</code></td><td>286</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><img src="/variants/s7/k20y4db13w4g30w4r13~x2/sett.png" alt="South Africa 1994 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

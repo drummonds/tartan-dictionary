@@ -15,10 +15,10 @@ Its design is pattern [BGBBKBBKBBKBBKBBKBBGBG](/stripes/bgbbkbbkbbkbbkbbkbbgbg/)
 The **Apache North Sea Commemorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2~x2/">Apache North Sea Commemorative</a></td><td><code>DR/8 Y4 DB14 N6 K46 DB14 N6 K26 N6 DB14 K30 DB14 N6 K26 N6 DB14 K46 N6 DB14 Y4 DR8 Y/4</code></td><td>632</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2~x2/"><img src="/variants/s22/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2~x2/sett.png" alt="Apache North Sea Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2~x2/">Apache North Sea Commemorative</a></td><td></td><td><code>DR/8 Y4 DB14 N6 K46 DB14 N6 K26 N6 DB14 K30 DB14 N6 K26 N6 DB14 K46 N6 DB14 Y4 DR8 Y/4</code></td><td>632</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2~x2/"><img src="/variants/s22/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2~x2/sett.png" alt="Apache North Sea Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

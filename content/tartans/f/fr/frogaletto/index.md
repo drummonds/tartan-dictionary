@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBBWBYBBKRKB](/stripes/bbbbbbbwbybbkrkb/) — the pag
 The **Frogaletto** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/">Frogaletto</a></td><td><code>N/52 DB4 N4 DB4 N6 DB18 N10 LB4 N4 LY4 N20 DB28 K6 R4 K8 DB/16</code></td><td>316</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/"><img src="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/sett.png" alt="Frogaletto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/">Frogaletto</a></td><td></td><td><code>N/52 DB4 N4 DB4 N6 DB18 N10 LB4 N4 LY4 N20 DB28 K6 R4 K8 DB/16</code></td><td>316</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/"><img src="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/sett.png" alt="Frogaletto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

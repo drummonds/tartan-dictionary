@@ -18,10 +18,10 @@ Its design is pattern [KBKWBWGWBGKW](/stripes/kbkwbwgwbgkw/) — the page of eve
 The **Glenfalloch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/">Glenfalloch</a></td><td><code>K/8 B2 K24 W2 B8 W2 DG8 W2 DR8 DG24 K2 W/4</code></td><td>176</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/"><img src="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/sett.png" alt="Glenfalloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/">Glenfalloch</a></td><td></td><td><code>K/8 B2 K24 W2 B8 W2 DG8 W2 DR8 DG24 K2 W/4</code></td><td>176</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/"><img src="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/sett.png" alt="Glenfalloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

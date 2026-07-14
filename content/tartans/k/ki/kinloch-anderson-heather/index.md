@@ -16,10 +16,10 @@ Its design is pattern [BGGGGGGGBRBR](/stripes/bgggggggbrbr/) — the page of eve
 The **Kinloch Anderson Heather** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/o4dp4o2dp14dg6dgi3dg6dgii2dgi4dgii2dgi15n3~x2~dgi1702138-dgii1802194/">Kinloch Anderson Heather</a></td><td><code>O/8 DP8 O4 DP28 DG12 DGi6 DG12 DGii4 DGi8 DGii4 DGi30 N/6</code></td><td>246</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/o4dp4o2dp14dg6dgi3dg6dgii2dgi4dgii2dgi15n3~x2~dgi1702138-dgii1802194/"><img src="/variants/s12/o4dp4o2dp14dg6dgi3dg6dgii2dgi4dgii2dgi15n3~x2~dgi1702138-dgii1802194/sett.png" alt="Kinloch Anderson Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/o4dp4o2dp14dg6dgi3dg6dgii2dgi4dgii2dgi15n3~x2~dgi1702138-dgii1802194/">Kinloch Anderson Heather</a></td><td></td><td><code>O/8 DP8 O4 DP28 DG12 DGi6 DG12 DGii4 DGi8 DGii4 DGi30 N/6</code></td><td>246</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/o4dp4o2dp14dg6dgi3dg6dgii2dgi4dgii2dgi15n3~x2~dgi1702138-dgii1802194/"><img src="/variants/s12/o4dp4o2dp14dg6dgi3dg6dgii2dgi4dgii2dgi15n3~x2~dgi1702138-dgii1802194/sett.png" alt="Kinloch Anderson Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

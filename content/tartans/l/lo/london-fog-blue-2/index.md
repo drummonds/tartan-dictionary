@@ -13,10 +13,10 @@ Its design is pattern [WYWYWYWKWY](/stripes/wywywywkwy/) — the page of every t
 The **London Fog Blue 2** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/">London Fog Blue 2</a></td><td><code>LB/18 LY9 LB18 LR2 LB2 LR2 LB18 K9 LB18 LR/2</code></td><td>176</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/"><img src="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/sett.png" alt="London Fog Blue 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/">London Fog Blue 2</a></td><td></td><td><code>LB/18 LY9 LB18 LR2 LB2 LR2 LB18 K9 LB18 LR/2</code></td><td>176</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/"><img src="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/sett.png" alt="London Fog Blue 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

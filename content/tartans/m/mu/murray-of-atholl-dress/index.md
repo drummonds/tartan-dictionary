@@ -18,10 +18,10 @@ Its design is pattern [BBKGBGKWBWBW](/stripes/bbkgbgkwbwbw/) — the page of eve
 The **Murray of Atholl Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/">Murray of Atholl Dress</a></td><td><code>W/10 DB2 W32 DB8 W8 K12 G20 DR4 G20 K12 DB20 DR/4</code></td><td>290</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/"><img src="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/sett.png" alt="Murray of Atholl Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/">Murray of Atholl Dress</a></td><td></td><td><code>W/10 DB2 W32 DB8 W8 K12 G20 DR4 G20 K12 DB20 DR/4</code></td><td>290</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/"><img src="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/sett.png" alt="Murray of Atholl Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

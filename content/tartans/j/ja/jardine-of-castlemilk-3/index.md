@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRBR](/stripes/brbrbrbr/) — the page of every tarta
 The **Jardine, of Castlemilk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/do9o9b9r1db1o9db1r1~x4/">Jardine, of Castlemilk</a></td><td><code>DO/36 O36 B36 R4 DB4 O36 DB4 R/4</code></td><td>280</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/do9o9b9r1db1o9db1r1~x4/"><img src="/variants/s8/do9o9b9r1db1o9db1r1~x4/sett.png" alt="Jardine, of Castlemilk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/do9o9b9r1db1o9db1r1~x4/">Jardine, of Castlemilk</a></td><td></td><td><code>DO/36 O36 B36 R4 DB4 O36 DB4 R/4</code></td><td>280</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/do9o9b9r1db1o9db1r1~x4/"><img src="/variants/s8/do9o9b9r1db1o9db1r1~x4/sett.png" alt="Jardine, of Castlemilk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBWBBRBK](/stripes/gbwbbrbk/) — the page of every tarta
 The **Longhaugh Primary School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g20db2w2db12dp29r1dp1k3~x2/">Longhaugh Primary School</a></td><td><code>G/40 DB4 W4 DB24 DP58 R2 DP2 K/6</code></td><td>234</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g20db2w2db12dp29r1dp1k3~x2/"><img src="/variants/s8/g20db2w2db12dp29r1dp1k3~x2/sett.png" alt="Longhaugh Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g20db2w2db12dp29r1dp1k3~x2/">Longhaugh Primary School</a></td><td></td><td><code>G/40 DB4 W4 DB24 DP58 R2 DP2 K/6</code></td><td>234</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g20db2w2db12dp29r1dp1k3~x2/"><img src="/variants/s8/g20db2w2db12dp29r1dp1k3~x2/sett.png" alt="Longhaugh Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

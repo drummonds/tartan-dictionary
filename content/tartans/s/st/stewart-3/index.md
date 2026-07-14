@@ -18,10 +18,10 @@ Its design is pattern [RBRKWBWBW](/stripes/rbrkwbwbw/) — the page of every tar
 The **Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lb44db2lb4db2lb6k16r40db2o11/">Stewart</a></td><td><code>LB/44 DB2 LB4 DB2 LB6 K16 R40 DB2 O/11</code></td><td>199</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb44db2lb4db2lb6k16r40db2o11/"><img src="/variants/s9/lb44db2lb4db2lb6k16r40db2o11/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb44db2lb4db2lb6k16r40db2o11/">Stewart</a></td><td></td><td><code>LB/44 DB2 LB4 DB2 LB6 K16 R40 DB2 O/11</code></td><td>199</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lb44db2lb4db2lb6k16r40db2o11/"><img src="/variants/s9/lb44db2lb4db2lb6k16r40db2o11/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

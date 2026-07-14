@@ -18,10 +18,10 @@ Its design is pattern [RKRGRGRKRWRKRKR](/stripes/rkrgrgrkrwrkrkr/) — the page 
 The **Grant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/">Grant</a></td><td><code>R/16 K6 R6 G46 R6 G5 R6 K12 R6 LB6 R48 K6 R6 K6 R/16</code></td><td>362</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/"><img src="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/">Grant</a></td><td></td><td><code>R/16 K6 R6 G46 R6 G5 R6 K12 R6 LB6 R48 K6 R6 K6 R/16</code></td><td>362</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/"><img src="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Designed by Councillor Linda Gorn for the Keith district, formalised by House of
 The **Keith District** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/">Keith District</a></td><td><code>DB/18 R5 DB3 R5 DB3 K20 DG18 LY4 DG18 K20 DB20 K6 DB/6</code></td><td>268</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/"><img src="/variants/s13/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/sett.png" alt="Keith District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/">Keith District</a></td><td></td><td><code>DB/18 R5 DB3 R5 DB3 K20 DG18 LY4 DG18 K20 DB20 K6 DB/6</code></td><td>268</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/"><img src="/variants/s13/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/sett.png" alt="Keith District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

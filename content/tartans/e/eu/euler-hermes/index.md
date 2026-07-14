@@ -13,10 +13,10 @@ Its design is pattern [BGKGYGRWKGBGBKG](/stripes/bgkgygrwkgbgbkg/) — the page 
 The **Euler Hermes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/t86dg6k24dy6lo6g6r6lb6k4dg22t6dg8t8k3dg8~t2405244-lb3103284/">Euler Hermes</a></td><td><code>T/86 DG6 K24 DY6 LO6 G6 R6 LB6 K4 DG22 T6 DG8 T8 K3 DG/8</code></td><td>316</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/t86dg6k24dy6lo6g6r6lb6k4dg22t6dg8t8k3dg8~t2405244-lb3103284/"><img src="/variants/s15/t86dg6k24dy6lo6g6r6lb6k4dg22t6dg8t8k3dg8~t2405244-lb3103284/sett.png" alt="Euler Hermes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/t86dg6k24dy6lo6g6r6lb6k4dg22t6dg8t8k3dg8~t2405244-lb3103284/">Euler Hermes</a></td><td></td><td><code>T/86 DG6 K24 DY6 LO6 G6 R6 LB6 K4 DG22 T6 DG8 T8 K3 DG/8</code></td><td>316</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/t86dg6k24dy6lo6g6r6lb6k4dg22t6dg8t8k3dg8~t2405244-lb3103284/"><img src="/variants/s15/t86dg6k24dy6lo6g6r6lb6k4dg22t6dg8t8k3dg8~t2405244-lb3103284/sett.png" alt="Euler Hermes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

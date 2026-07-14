@@ -13,10 +13,10 @@ Its design is pattern [BKBKWBKRBRB](/stripes/bkbkwbkrbrb/) — the page of every
 The **Ibrox** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/">Ibrox</a></td><td><code>DB/16 R8 DB8 R16 K28 DB40 W8 K52 DB72 K8 DB/8</code></td><td>504</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><img src="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/sett.png" alt="Ibrox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/">Ibrox</a></td><td></td><td><code>DB/16 R8 DB8 R16 K28 DB40 W8 K52 DB72 K8 DB/8</code></td><td>504</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><img src="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/sett.png" alt="Ibrox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

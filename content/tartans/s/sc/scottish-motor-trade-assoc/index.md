@@ -13,10 +13,10 @@ Its design is pattern [GWGWKWBWWBW](/stripes/gwgwkwbwwbw/) — the page of every
 The **Scottish Motor Trade Assoc.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g5lb2g16lb10k2w3db6lb14w2db4w2~x2/">Scottish Motor Trade Assoc.</a></td><td><code>G/10 LB4 G32 LB20 K4 W6 DB12 LB28 W4 DB8 W/4</code></td><td>250</td><td>1903</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g5lb2g16lb10k2w3db6lb14w2db4w2~x2/"><img src="/variants/s11/g5lb2g16lb10k2w3db6lb14w2db4w2~x2/sett.png" alt="Scottish Motor Trade Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g5lb2g16lb10k2w3db6lb14w2db4w2~x2/">Scottish Motor Trade Assoc.</a></td><td></td><td><code>G/10 LB4 G32 LB20 K4 W6 DB12 LB28 W4 DB8 W/4</code></td><td>250</td><td>1903</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g5lb2g16lb10k2w3db6lb14w2db4w2~x2/"><img src="/variants/s11/g5lb2g16lb10k2w3db6lb14w2db4w2~x2/sett.png" alt="Scottish Motor Trade Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

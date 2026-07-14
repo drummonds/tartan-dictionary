@@ -13,10 +13,10 @@ Its design is pattern [KBKBGRKGR](/stripes/kbkbgrkgr/) — the page of every tar
 The **Craigholme** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/">Craigholme</a></td><td><code>K/48 DB4 K48 DB28 Y6 R72 K36 Y10 R/6</code></td><td>462</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"><img src="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/sett.png" alt="Craigholme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/">Craigholme</a></td><td></td><td><code>K/48 DB4 K48 DB28 Y6 R72 K36 Y10 R/6</code></td><td>462</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"><img src="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/sett.png" alt="Craigholme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -22,23 +22,23 @@ The **Gow** tartan groups 4 setts — the same named design recorded as differen
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/r4db4r1g4r4~x6/">Gow</a> ★</td><td><code>R/4 DB4 R1 G4 R/4</code></td><td>26</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r4db4r1g4r4~x6/"><img src="/variants/s5/r4db4r1g4r4~x6/sett.png" alt="Gow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s5/r4db4r1g4r4/">Gow</a></td><td><code>R/4 DB4 R1 G4 R/4</code></td><td>26</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s5/r4db4r1g4r4~x2/">Gow</a></td><td><code>R/8 DB8 R2 G8 R/8</code></td><td>52</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s5/r4db4r1g4r4~x6/">MacGowan</a></td><td><code>R/24 DB24 R6 G24 R/24</code></td><td>156</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s5/r4db4r1g4r4/">Gow</a> · <a href="/variants/s5/r4db4r1g4r4~x2/">Gow</a> · <a href="/variants/s5/r4db4r1g4r4~x6/">MacGowan</a></td></tr>
-<tr><td><a href="/variants/s5/r3dg3r1db3r3~x12/">(Portrait)</a></td><td><code>R/36 DG36 R12 DB36 R/36</code></td><td>240</td><td>1780</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r3dg3r1db3r3~x12/"><img src="r3dg3r1db3r3-rev.png" alt="(Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r4dg4r1db4r4~x4/">Gow</a></td><td><code>R/4 DG4 R1 DB4 R/4</code></td><td>26</td><td>~1815</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r4dg4r1db4r4~x4/"><img src="r4dg4r1db4r4-rev.png" alt="Gow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s5/r4dg4r1db4r4~x4/">Gow</a></td><td><code>R/16 DG16 R4 DB16 R/16</code></td><td>104</td><td>~1815</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×12 — <a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/">Gow</a></td><td><code>R/48 DG48 R12 DB48 R/48</code></td><td>312</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/">Gow</a> · <a href="/variants/s5/r4dg4r1db4r4~x4/">Gow</a></td></tr>
-<tr><td><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/">(Portrait)</a></td><td><code>R/40 DP40 R8 G40 R/40</code></td><td>256</td><td>1780</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/"><img src="/variants/s5/r5dp5r1g5r5~x8~dp1607327/sett.png" alt="(Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r4db4r1g4r4~x6/">Gow</a> ★</td><td></td><td><code>R/4 DB4 R1 G4 R/4</code></td><td>26</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r4db4r1g4r4~x6/"><img src="/variants/s5/r4db4r1g4r4~x6/sett.png" alt="Gow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s5/r4db4r1g4r4/">Gow</a></td><td>0.00</td><td><code>R/4 DB4 R1 G4 R/4</code></td><td>26</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s5/r4db4r1g4r4~x2/">Gow</a></td><td>0.00</td><td><code>R/8 DB8 R2 G8 R/8</code></td><td>52</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s5/r4db4r1g4r4~x6/">MacGowan</a></td><td>0.00</td><td><code>R/24 DB24 R6 G24 R/24</code></td><td>156</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s5/r4db4r1g4r4/">Gow</a> · <a href="/variants/s5/r4db4r1g4r4~x2/">Gow</a> · <a href="/variants/s5/r4db4r1g4r4~x6/">MacGowan</a></td></tr>
+<tr><td><a href="/variants/s5/r3dg3r1db3r3~x12/">(Portrait)</a></td><td>0.39</td><td><code>R/36 DG36 R12 DB36 R/36</code></td><td>240</td><td>1780</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r3dg3r1db3r3~x12/"><img src="r3dg3r1db3r3-rev.png" alt="(Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r4dg4r1db4r4~x4/">Gow</a></td><td>0.12</td><td><code>R/4 DG4 R1 DB4 R/4</code></td><td>26</td><td>~1815</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r4dg4r1db4r4~x4/"><img src="r4dg4r1db4r4-rev.png" alt="Gow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s5/r4dg4r1db4r4~x4/">Gow</a></td><td>0.12</td><td><code>R/16 DG16 R4 DB16 R/16</code></td><td>104</td><td>~1815</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×12 — <a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/">Gow</a></td><td>0.08</td><td><code>R/48 DG48 R12 DB48 R/48</code></td><td>312</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/">Gow</a> · <a href="/variants/s5/r4dg4r1db4r4~x4/">Gow</a></td></tr>
+<tr><td><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/">(Portrait)</a></td><td>1.64</td><td><code>R/40 DP40 R8 G40 R/40</code></td><td>256</td><td>1780</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/"><img src="/variants/s5/r5dp5r1g5r5~x8~dp1607327/sett.png" alt="(Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

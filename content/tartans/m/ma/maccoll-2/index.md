@@ -20,10 +20,10 @@ Hunting variant of MacColl, from the unmarked MacGregor-Hastie collection, likel
 The **MacColl** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/">MacColl</a></td><td><code>Ri/12 R6 Ri12 DB44 Ri14 R4 W2 Ri4 DB4 Ri4 W2 R4 Ri14 G44 Ri14 G4 Ri4 R/4</code></td><td>376</td><td>1950</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/"><img src="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/sett.png" alt="MacColl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/">MacColl</a></td><td></td><td><code>Ri/12 R6 Ri12 DB44 Ri14 R4 W2 Ri4 DB4 Ri4 W2 R4 Ri14 G44 Ri14 G4 Ri4 R/4</code></td><td>376</td><td>1950</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/"><img src="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/sett.png" alt="MacColl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

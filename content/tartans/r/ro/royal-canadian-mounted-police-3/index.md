@@ -13,10 +13,10 @@ Its design is pattern [BBKWGRKRG](/stripes/bbkwgrkrg/) — the page of every tar
 The **Royal Canadian Mounted Police** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db152b2k4w2g28ri10k26r1y2~ri2008029-r2008022/">Royal Canadian Mounted Police</a></td><td><code>DB/152 B2 K4 W2 G28 Ri10 K26 R1 Y/2</code></td><td>300</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db152b2k4w2g28ri10k26r1y2~ri2008029-r2008022/"><img src="/variants/s9/db152b2k4w2g28ri10k26r1y2~ri2008029-r2008022/sett.png" alt="Royal Canadian Mounted Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db152b2k4w2g28ri10k26r1y2~ri2008029-r2008022/">Royal Canadian Mounted Police</a></td><td></td><td><code>DB/152 B2 K4 W2 G28 Ri10 K26 R1 Y/2</code></td><td>300</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db152b2k4w2g28ri10k26r1y2~ri2008029-r2008022/"><img src="/variants/s9/db152b2k4w2g28ri10k26r1y2~ri2008029-r2008022/sett.png" alt="Royal Canadian Mounted Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

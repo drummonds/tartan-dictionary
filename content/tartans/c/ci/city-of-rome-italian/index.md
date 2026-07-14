@@ -15,10 +15,10 @@ Official tartan of Rome, designed for its pipe band; colours represent the Itali
 The **City of Rome Italian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k88db45k6db6y6db6k6db45k88lo6r12~db1406275/">City of Rome Italian</a></td><td><code>K/88 DB45 K6 DB6 Y6 DB6 K6 DB45 K88 LO6 R/12</code></td><td>528</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k88db45k6db6y6db6k6db45k88lo6r12~db1406275/"><img src="/variants/s11/k88db45k6db6y6db6k6db45k88lo6r12~db1406275/sett.png" alt="City of Rome Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k88db45k6db6y6db6k6db45k88lo6r12~db1406275/">City of Rome Italian</a></td><td></td><td><code>K/88 DB45 K6 DB6 Y6 DB6 K6 DB45 K88 LO6 R/12</code></td><td>528</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k88db45k6db6y6db6k6db45k88lo6r12~db1406275/"><img src="/variants/s11/k88db45k6db6y6db6k6db45k88lo6r12~db1406275/sett.png" alt="City of Rome Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RGKWKGKR](/stripes/rgkwkgkr/) — the page of every tarta
 The **FIRES Center of Excelence** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r50y8k2w2k2y8k22r3~x2/">FIRES Center of Excelence</a></td><td><code>R/100 Y16 K4 W4 K4 Y16 K44 R/6</code></td><td>282</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r50y8k2w2k2y8k22r3~x2/"><img src="/variants/s8/r50y8k2w2k2y8k22r3~x2/sett.png" alt="FIRES Center of Excelence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r50y8k2w2k2y8k22r3~x2/">FIRES Center of Excelence</a></td><td></td><td><code>R/100 Y16 K4 W4 K4 Y16 K44 R/6</code></td><td>282</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r50y8k2w2k2y8k22r3~x2/"><img src="/variants/s8/r50y8k2w2k2y8k22r3~x2/sett.png" alt="FIRES Center of Excelence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

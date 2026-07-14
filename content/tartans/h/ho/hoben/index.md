@@ -13,10 +13,10 @@ Its design is pattern [KWRBRGRBRKW](/stripes/kwrbrgrbrkw/) — the page of every
 The **Hoben** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/">Hoben</a></td><td><code>K/6 W2 R40 DB8 R8 G20 R8 DB8 R40 K2 W/6</code></td><td>284</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><img src="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/sett.png" alt="Hoben sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/">Hoben</a></td><td></td><td><code>K/6 W2 R40 DB8 R8 G20 R8 DB8 R40 K2 W/6</code></td><td>284</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><img src="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/sett.png" alt="Hoben sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

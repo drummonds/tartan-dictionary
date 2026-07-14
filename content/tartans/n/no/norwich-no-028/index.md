@@ -13,10 +13,10 @@ Its design is pattern [BRGKGR](/stripes/brgkgr/) — the page of every tartan sh
 The **Norwich No.028** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/">Norwich No.028</a></td><td><code>R/24 G20 K20 G20 R24 T/4</code></td><td>196</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><img src="/variants/s6/r6g5k5g5r6t1~x4~t2503227/sett.png" alt="Norwich No.028 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/">Norwich No.028</a></td><td></td><td><code>R/24 G20 K20 G20 R24 T/4</code></td><td>196</td><td>1870</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><img src="/variants/s6/r6g5k5g5r6t1~x4~t2503227/sett.png" alt="Norwich No.028 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

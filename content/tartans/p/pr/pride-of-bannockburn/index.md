@@ -15,10 +15,10 @@ Fashion design originally Dalgleish's "Scotland the Brave," renamed by Lochcarro
 The **Pride of Bannockburn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/">Pride of Bannockburn</a></td><td><code>DB/40 K32 G6 DP46 O14 G20 O14 DP46 G6 K32 DB46 W4 DB4 W4 DB/6</code></td><td>594</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/"><img src="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/sett.png" alt="Pride of Bannockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/">Pride of Bannockburn</a></td><td></td><td><code>DB/40 K32 G6 DP46 O14 G20 O14 DP46 G6 K32 DB46 W4 DB4 W4 DB/6</code></td><td>594</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/"><img src="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/sett.png" alt="Pride of Bannockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

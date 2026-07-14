@@ -13,10 +13,10 @@ Its design is pattern [BKWKBKWKRKWKB](/stripes/bkwkbkwkrkwkb/) — the page of e
 The **Kieck** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/">Kieck</a></td><td><code>DB/12 K4 W6 K4 DB12 K8 LB18 K4 R4 K92 LB4 K4 DB/12</code></td><td>344</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/"><img src="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/sett.png" alt="Kieck sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/">Kieck</a></td><td></td><td><code>DB/12 K4 W6 K4 DB12 K8 LB18 K4 R4 K92 LB4 K4 DB/12</code></td><td>344</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/"><img src="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/sett.png" alt="Kieck sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RGBW](/stripes/rgbw/) — the page of every tartan sharin
 The **Wilson's, No 113** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/r1g3dp3w1~x4/">Wilson's, No 113</a></td><td><code>R/4 G12 DP12 W/4</code></td><td>56</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r1g3dp3w1~x4/"><img src="/variants/s4/r1g3dp3w1~x4/sett.png" alt="Wilson's, No 113 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r1g3dp3w1~x4/">Wilson's, No 113</a></td><td></td><td><code>R/4 G12 DP12 W/4</code></td><td>56</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/r1g3dp3w1~x4/"><img src="/variants/s4/r1g3dp3w1~x4/sett.png" alt="Wilson's, No 113 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Designed by Kinloch Anderson for Carbon Financial Partners Ltd, based on the Per
 The **Carbon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/">Carbon</a></td><td><code>DO/68 K4 DO18 DT20 K3 W3 K10 LB8 LO/4</code></td><td>204</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/"><img src="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/sett.png" alt="Carbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/">Carbon</a></td><td></td><td><code>DO/68 K4 DO18 DT20 K3 W3 K10 LB8 LO/4</code></td><td>204</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/"><img src="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/sett.png" alt="Carbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

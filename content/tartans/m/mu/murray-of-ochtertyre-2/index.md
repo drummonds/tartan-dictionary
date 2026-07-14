@@ -18,10 +18,10 @@ Its design is pattern [KRKRKRKR](/stripes/krkrkrkr/) — the page of every tarta
 The **Murray of Ochtertyre** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/">Murray of Ochtertyre</a></td><td><code>K/60 R6 K4 R6 K4 R54 K60 R/8</code></td><td>336</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/"><img src="/variants/s8/k30r3k2r3k2r27k30r4~x2/sett.png" alt="Murray of Ochtertyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/">Murray of Ochtertyre</a></td><td></td><td><code>K/60 R6 K4 R6 K4 R54 K60 R/8</code></td><td>336</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/"><img src="/variants/s8/k30r3k2r3k2r27k30r4~x2/sett.png" alt="Murray of Ochtertyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

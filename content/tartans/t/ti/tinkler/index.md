@@ -13,10 +13,10 @@ Its design is pattern [GYBBBBBBW](/stripes/gybbbbbbw/) — the page of every tar
 The **Tinkler** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/">Tinkler</a></td><td><code>G/8 LY36 DO24 DR12 DO8 DR12 DO8 DR40 W/8</code></td><td>296</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/"><img src="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/sett.png" alt="Tinkler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/">Tinkler</a></td><td></td><td><code>G/8 LY36 DO24 DR12 DO8 DR12 DO8 DR40 W/8</code></td><td>296</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/"><img src="/variants/s9/g2ly9do6dr3do2dr3do2dr10w2~x4/sett.png" alt="Tinkler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

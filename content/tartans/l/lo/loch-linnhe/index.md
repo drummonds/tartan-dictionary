@@ -13,10 +13,10 @@ Its design is pattern [GRBRGWRBRG](/stripes/grbrgwrbrg/) — the page of every t
 The **Loch Linnhe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/">Loch Linnhe</a></td><td><code>Y/6 R8 DB4 R62 G20 LB4 R10 DB24 R12 G/6</code></td><td>300</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/"><img src="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/sett.png" alt="Loch Linnhe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/">Loch Linnhe</a></td><td></td><td><code>Y/6 R8 DB4 R62 G20 LB4 R10 DB24 R12 G/6</code></td><td>300</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/"><img src="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/sett.png" alt="Loch Linnhe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

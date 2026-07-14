@@ -13,10 +13,10 @@ Its design is pattern [BGBBBBBBGRB](/stripes/bgbbbbbbgrb/) — the page of every
 The **Limerick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/">Limerick</a></td><td><code>DO/12 Y8 DO6 DB4 DO10 DB4 DO6 DB4 G30 R6 DB/4</code></td><td>172</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/"><img src="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/sett.png" alt="Limerick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/">Limerick</a></td><td></td><td><code>DO/12 Y8 DO6 DB4 DO10 DB4 DO6 DB4 G30 R6 DB/4</code></td><td>172</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/"><img src="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/sett.png" alt="Limerick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

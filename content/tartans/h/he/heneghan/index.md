@@ -22,12 +22,12 @@ The **Heneghan** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12~x4/">Heneghan</a> ★</td><td><code>G/64 R12 W4 DB8 G16 R8 DB16 G8 R4 LO4 Y4 LO4 DB24 G/48</code></td><td>336</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12~x4/"><img src="/variants/s14/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12~x4/sett.png" alt="Heneghan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/dg16r3n1db2dg4r2db4dg2r1lo1dy1lo1db6dg12~x4/">(Personal)</a></td><td><code>DG/64 R12 N4 DB8 DG16 R8 DB16 DG8 R4 LO4 DY4 LO4 DB24 DG/48</code></td><td>336</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dg16r3n1db2dg4r2db4dg2r1lo1dy1lo1db6dg12~x4/"><img src="/variants/s14/dg16r3n1db2dg4r2db4dg2r1lo1dy1lo1db6dg12~x4/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12~x4/">Heneghan</a> ★</td><td></td><td><code>G/64 R12 W4 DB8 G16 R8 DB16 G8 R4 LO4 Y4 LO4 DB24 G/48</code></td><td>336</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12~x4/"><img src="/variants/s14/g16r3w1db2g4r2db4g2r1lo1y1lo1db6g12~x4/sett.png" alt="Heneghan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dg16r3n1db2dg4r2db4dg2r1lo1dy1lo1db6dg12~x4/">(Personal)</a></td><td>0.21</td><td><code>DG/64 R12 N4 DB8 DG16 R8 DB16 DG8 R4 LO4 DY4 LO4 DB24 DG/48</code></td><td>336</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dg16r3n1db2dg4r2db4dg2r1lo1dy1lo1db6dg12~x4/"><img src="/variants/s14/dg16r3n1db2dg4r2db4dg2r1lo1dy1lo1db6dg12~x4/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

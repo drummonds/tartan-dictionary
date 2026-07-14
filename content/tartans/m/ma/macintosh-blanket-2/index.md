@@ -16,10 +16,10 @@ Its design is pattern [BWBWBGBRWRRGBWBWBGBRW](/stripes/bwbwbgbrwrrgbwbwbgbrw/) �
 The **MacIntosh, Blanket** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7~x2/">MacIntosh, Blanket</a></td><td><code>W/74 O2 B8 DG12 B14 W4 B6 W4 B14 DG12 R8 O2 W128 O2 B8 G12 B14 W4 B6 W4 B/14</code></td><td>616</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7~x2/"><img src="/variants/s21/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7~x2/sett.png" alt="MacIntosh, Blanket sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7~x2/">MacIntosh, Blanket</a></td><td></td><td><code>W/74 O2 B8 DG12 B14 W4 B6 W4 B14 DG12 R8 O2 W128 O2 B8 G12 B14 W4 B6 W4 B/14</code></td><td>616</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7~x2/"><img src="/variants/s21/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7~x2/sett.png" alt="MacIntosh, Blanket sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

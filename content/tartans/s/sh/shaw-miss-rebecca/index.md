@@ -16,10 +16,10 @@ Its design is pattern [BWGWBWKW](/stripes/bwgwbwkw/) — the page of every tarta
 The **Shaw, Miss Rebecca** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/">Shaw, Miss Rebecca</a></td><td><code>LB/10 K2 W60 DP30 W16 G60 W16 DP/4</code></td><td>382</td><td>~2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/"><img src="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/sett.png" alt="Shaw, Miss Rebecca sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/">Shaw, Miss Rebecca</a></td><td></td><td><code>LB/10 K2 W60 DP30 W16 G60 W16 DP/4</code></td><td>382</td><td>~2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/"><img src="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/sett.png" alt="Shaw, Miss Rebecca sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

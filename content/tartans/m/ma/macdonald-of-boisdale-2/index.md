@@ -18,10 +18,10 @@ Its design is pattern [RYBYRGGGRGGGRYBYRYBYR](/stripes/rybyrgggrgggrybyrybyr/) â
 The **MacDonald of Boisdale** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/r16lr1db7lr1r6lr1db34lr1r26g1dg16g1r4g1dg7g1r4lr1db7lr1r16~x2~g2408144-dg1806142/">MacDonald of Boisdale</a></td><td><code>R/32 LR2 DB14 LR2 R12 LR2 DB68 LR2 R52 G2 DG32 G2 R8 G2 DG14 G2 R8 LR2 DB14 LR2 R/32</code></td><td>548</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/r16lr1db7lr1r6lr1db34lr1r26g1dg16g1r4g1dg7g1r4lr1db7lr1r16~x2~g2408144-dg1806142/"><img src="/variants/s21/r16lr1db7lr1r6lr1db34lr1r26g1dg16g1r4g1dg7g1r4lr1db7lr1r16~x2~g2408144-dg1806142/sett.png" alt="MacDonald of Boisdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/r16lr1db7lr1r6lr1db34lr1r26g1dg16g1r4g1dg7g1r4lr1db7lr1r16~x2~g2408144-dg1806142/">MacDonald of Boisdale</a></td><td></td><td><code>R/32 LR2 DB14 LR2 R12 LR2 DB68 LR2 R52 G2 DG32 G2 R8 G2 DG14 G2 R8 LR2 DB14 LR2 R/32</code></td><td>548</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/r16lr1db7lr1r6lr1db34lr1r26g1dg16g1r4g1dg7g1r4lr1db7lr1r16~x2~g2408144-dg1806142/"><img src="/variants/s21/r16lr1db7lr1r6lr1db34lr1r26g1dg16g1r4g1dg7g1r4lr1db7lr1r16~x2~g2408144-dg1806142/sett.png" alt="MacDonald of Boisdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

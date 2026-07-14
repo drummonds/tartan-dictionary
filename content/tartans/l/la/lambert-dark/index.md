@@ -16,10 +16,10 @@ Its design is pattern [BKGKRKGWGKRKGK](/stripes/bkgkrkgwgkrkgk/) — the page of
 The **Lambert Dark** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/">Lambert Dark</a></td><td><code>K/68 G20 K10 R4 K16 DY4 W6 DY4 K16 R4 K10 G20 K56 T/6</code></td><td>414</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/"><img src="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/sett.png" alt="Lambert Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/">Lambert Dark</a></td><td></td><td><code>K/68 G20 K10 R4 K16 DY4 W6 DY4 K16 R4 K10 G20 K56 T/6</code></td><td>414</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/"><img src="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/sett.png" alt="Lambert Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

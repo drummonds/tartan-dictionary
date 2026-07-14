@@ -13,10 +13,10 @@ Its design is pattern [BWBYRWW](/stripes/bwbyrww/) — the page of every tartan 
 The **Ontex** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/">Ontex</a></td><td><code>DB/16 W4 N48 LR48 O16 LB4 W/8</code></td><td>264</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><img src="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/sett.png" alt="Ontex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/">Ontex</a></td><td></td><td><code>DB/16 W4 N48 LR48 O16 LB4 W/8</code></td><td>264</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><img src="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/sett.png" alt="Ontex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

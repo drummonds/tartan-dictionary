@@ -18,11 +18,11 @@ Its design is pattern [BGBBBBBBBBKBRBW](/stripes/bgbbbbbbbbkbrbw/) — the page 
 The **MatchPoint** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/">MatchPoint</a></td><td><code>DB/6 Y2 DBi24 DB4 DBi8 DB6 DBi6 DB8 DBi3 DB10 K14 DB4 R3 DB34 W/4</code></td><td>262</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/"><img src="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/sett.png" alt="MatchPoint sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/">MatchPoint</a> · <a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1204274-dbi1406275/">Matchpoint</a></td></tr>
+<tr><td><a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/">MatchPoint</a></td><td></td><td><code>DB/6 Y2 DBi24 DB4 DBi8 DB6 DBi6 DB8 DBi3 DB10 K14 DB4 R3 DB34 W/4</code></td><td>262</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/"><img src="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/sett.png" alt="MatchPoint sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/">MatchPoint</a> · <a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1204274-dbi1406275/">Matchpoint</a></td></tr>
 </tbody>
 </table>
 

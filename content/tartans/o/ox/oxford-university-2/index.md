@@ -15,12 +15,12 @@ The **Oxford University** tartan groups 2 setts — the same named design record
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/">Oxford University</a> ★</td><td><code>DB/18 DG32 B112 LY/8</code></td><td>314</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><img src="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/sett.png" alt="Oxford University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/">(Corporate)</a></td><td><code>DBi/18 G32 DB118 LY/8</code></td><td>326</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/"><img src="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/">Oxford University</a> ★</td><td></td><td><code>DB/18 DG32 B112 LY/8</code></td><td>314</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><img src="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/sett.png" alt="Oxford University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/">(Corporate)</a></td><td>0.99</td><td><code>DBi/18 G32 DB118 LY/8</code></td><td>326</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/"><img src="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

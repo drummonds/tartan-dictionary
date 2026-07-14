@@ -13,10 +13,10 @@ Its design is pattern [BRYGRGW](/stripes/brygrgw/) — the page of every tartan 
 The **Elystan Glodrydd** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/">Elystan Glodrydd</a></td><td><code>W/6 DG48 R26 G8 LY22 R16 DB/4</code></td><td>250</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><img src="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/sett.png" alt="Elystan Glodrydd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/">Elystan Glodrydd</a></td><td></td><td><code>W/6 DG48 R26 G8 LY22 R16 DB/4</code></td><td>250</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><img src="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/sett.png" alt="Elystan Glodrydd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

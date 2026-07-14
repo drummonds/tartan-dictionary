@@ -16,10 +16,10 @@ Its design is pattern [BRBRWRBR](/stripes/brbrwrbr/) — the page of every tarta
 The **Edinburgh TIC** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db32r3db3r4w3r5db4r7~x2/">Edinburgh TIC</a></td><td><code>DB/64 R6 DB6 R8 W6 R10 DB8 R/14</code></td><td>166</td><td>~1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db32r3db3r4w3r5db4r7~x2/"><img src="/variants/s8/db32r3db3r4w3r5db4r7~x2/sett.png" alt="Edinburgh TIC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db32r3db3r4w3r5db4r7~x2/">Edinburgh TIC</a></td><td></td><td><code>DB/64 R6 DB6 R8 W6 R10 DB8 R/14</code></td><td>166</td><td>~1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db32r3db3r4w3r5db4r7~x2/"><img src="/variants/s8/db32r3db3r4w3r5db4r7~x2/sett.png" alt="Edinburgh TIC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

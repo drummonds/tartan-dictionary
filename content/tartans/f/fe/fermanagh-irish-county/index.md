@@ -18,10 +18,10 @@ Irish district tartan designed by Polly Wittering of the House of Edgar, with so
 The **Fermanagh Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/y3n3dg2n3lyi2n2lyi2n13t4y3t3y3t3y3t4n20ly3~x2~lyi3305093-ly2703076/">Fermanagh Irish County</a></td><td><code>Y/6 N6 DG4 N6 LYi4 N4 LYi4 N26 T8 Y6 T6 Y6 T6 Y6 T8 N40 LY/6</code></td><td>292</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/y3n3dg2n3lyi2n2lyi2n13t4y3t3y3t3y3t4n20ly3~x2~lyi3305093-ly2703076/"><img src="/variants/s17/y3n3dg2n3lyi2n2lyi2n13t4y3t3y3t3y3t4n20ly3~x2~lyi3305093-ly2703076/sett.png" alt="Fermanagh Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/y3n3dg2n3lyi2n2lyi2n13t4y3t3y3t3y3t4n20ly3~x2~lyi3305093-ly2703076/">Fermanagh Irish County</a></td><td></td><td><code>Y/6 N6 DG4 N6 LYi4 N4 LYi4 N26 T8 Y6 T6 Y6 T6 Y6 T8 N40 LY/6</code></td><td>292</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/y3n3dg2n3lyi2n2lyi2n13t4y3t3y3t3y3t4n20ly3~x2~lyi3305093-ly2703076/"><img src="/variants/s17/y3n3dg2n3lyi2n2lyi2n13t4y3t3y3t3y3t4n20ly3~x2~lyi3305093-ly2703076/sett.png" alt="Fermanagh Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RBKGWKBWKRKRKBW](/stripes/rbkgwkbwkrkrkbw/) — the page 
 The **Gaudet-Hillan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/">Gaudet-Hillan</a></td><td><code>W/4 DP4 K4 R8 K2 R42 K8 W2 DP24 K6 W2 G12 K4 DB6 R/2</code></td><td>254</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/"><img src="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/sett.png" alt="Gaudet-Hillan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/">Gaudet-Hillan</a></td><td></td><td><code>W/4 DP4 K4 R8 K2 R42 K8 W2 DP24 K6 W2 G12 K4 DB6 R/2</code></td><td>254</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/"><img src="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/sett.png" alt="Gaudet-Hillan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

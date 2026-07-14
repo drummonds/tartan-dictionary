@@ -13,10 +13,10 @@ Its design is pattern [BGBGBGYGBGBG](/stripes/bgbgbgygbgbg/) — the page of eve
 The **Scottish Scouts** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g22db16g14dr2g6lo2g6dr2g14db16g22dr3~x2/">Scottish Scouts</a></td><td><code>G/44 DB32 G28 DR4 G12 LO4 G12 DR4 G28 DB32 G44 DR/6</code></td><td>450</td><td>1957</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g22db16g14dr2g6lo2g6dr2g14db16g22dr3~x2/"><img src="/variants/s12/g22db16g14dr2g6lo2g6dr2g14db16g22dr3~x2/sett.png" alt="Scottish Scouts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g22db16g14dr2g6lo2g6dr2g14db16g22dr3~x2/">Scottish Scouts</a></td><td></td><td><code>G/44 DB32 G28 DR4 G12 LO4 G12 DR4 G28 DB32 G44 DR/6</code></td><td>450</td><td>1957</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g22db16g14dr2g6lo2g6dr2g14db16g22dr3~x2/"><img src="/variants/s12/g22db16g14dr2g6lo2g6dr2g14db16g22dr3~x2/sett.png" alt="Scottish Scouts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

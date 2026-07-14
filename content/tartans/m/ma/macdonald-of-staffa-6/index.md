@@ -18,10 +18,10 @@ Its design is pattern [BRGBRGRBGRGBRW](/stripes/brgbrgrbgrgbrw/) — the page of
 The **MacDonald of Staffa** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/">MacDonald of Staffa</a></td><td><code>DR/4 R8 G4 DB4 R12 G28 R4 DB4 G4 R24 G14 DR4 R10 W/2</code></td><td>246</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/"><img src="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/sett.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/">MacDonald of Staffa</a></td><td></td><td><code>DR/4 R8 G4 DB4 R12 G28 R4 DB4 G4 R24 G14 DR4 R10 W/2</code></td><td>246</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/"><img src="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/sett.png" alt="MacDonald of Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

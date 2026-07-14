@@ -15,10 +15,10 @@ Designed to match the plaid trousers worn by Jack Nicholson's Joker for a life-s
 The **Joker Fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/t11k1t3k5dp9lo1~x2/">Joker Fancy</a></td><td><code>T/22 K2 T6 K10 DP18 LO/2</code></td><td>96</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/t11k1t3k5dp9lo1~x2/"><img src="/variants/s6/t11k1t3k5dp9lo1~x2/sett.png" alt="Joker Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t11k1t3k5dp9lo1~x2/">Joker Fancy</a></td><td></td><td><code>T/22 K2 T6 K10 DP18 LO/2</code></td><td>96</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/t11k1t3k5dp9lo1~x2/"><img src="/variants/s6/t11k1t3k5dp9lo1~x2/sett.png" alt="Joker Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

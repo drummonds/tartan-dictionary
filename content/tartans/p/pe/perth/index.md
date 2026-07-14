@@ -18,10 +18,10 @@ Its design is pattern [RWBGGRBWW](/stripes/rwbggrbww/) — the page of every tar
 The **Perth** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/">Perth</a></td><td><code>R/120 W4 DP16 Y4 DG56 R24 DP16 LB8 W/4</code></td><td>380</td><td>1775</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/"><img src="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/sett.png" alt="Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/">Perth</a></td><td></td><td><code>R/120 W4 DP16 Y4 DG56 R24 DP16 LB8 W/4</code></td><td>380</td><td>1775</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/"><img src="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/sett.png" alt="Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

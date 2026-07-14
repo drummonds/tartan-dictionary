@@ -13,10 +13,10 @@ Its design is pattern [RGRBRBRBRY](/stripes/rgrbrbrbry/) — the page of every t
 The **Galway, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/">Galway, County</a></td><td><code>R/8 DG26 R6 DP8 R6 DP6 R80 DP6 R4 LY/8</code></td><td>300</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/"><img src="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/sett.png" alt="Galway, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/">Galway, County</a></td><td></td><td><code>R/8 DG26 R6 DP8 R6 DP6 R80 DP6 R4 LY/8</code></td><td>300</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/"><img src="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/sett.png" alt="Galway, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

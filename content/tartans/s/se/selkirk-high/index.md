@@ -16,10 +16,10 @@ Its design is pattern [BRGRBRGKRW](/stripes/brgrbrgkrw/) — the page of every t
 The **Selkirk High** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/">Selkirk High</a></td><td><code>W/6 O36 K36 Y2 R4 T4 R4 Y2 O36 T/4</code></td><td>258</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/"><img src="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/sett.png" alt="Selkirk High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/">Selkirk High</a></td><td></td><td><code>W/6 O36 K36 Y2 R4 T4 R4 Y2 O36 T/4</code></td><td>258</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/"><img src="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/sett.png" alt="Selkirk High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

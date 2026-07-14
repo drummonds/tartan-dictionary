@@ -18,10 +18,10 @@ Its design is pattern [BKGBGKBKGKG](/stripes/bkgbgkbkgkg/) — the page of every
 The **Highfield Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db10k2g2dr2g2k2do2k2dy4k1y2~x4/">Highfield Hunting</a></td><td><code>DB/40 K8 G8 DR8 G8 K8 DO8 K8 DY16 K4 Y/8</code></td><td>200</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db10k2g2dr2g2k2do2k2dy4k1y2~x4/"><img src="/variants/s11/db10k2g2dr2g2k2do2k2dy4k1y2~x4/sett.png" alt="Highfield Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db10k2g2dr2g2k2do2k2dy4k1y2~x4/">Highfield Hunting</a></td><td></td><td><code>DB/40 K8 G8 DR8 G8 K8 DO8 K8 DY16 K4 Y/8</code></td><td>200</td><td>1982</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db10k2g2dr2g2k2do2k2dy4k1y2~x4/"><img src="/variants/s11/db10k2g2dr2g2k2do2k2dy4k1y2~x4/sett.png" alt="Highfield Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

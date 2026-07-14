@@ -13,10 +13,10 @@ Its design is pattern [BGBGBGR](/stripes/bgbgbgr/) — the page of every tartan 
 The **Marino** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dp29y4db4y4do4y4r4~x4/">Marino</a></td><td><code>DP/116 Y16 DB16 Y16 DO16 Y16 R/16</code></td><td>292</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp29y4db4y4do4y4r4~x4/"><img src="/variants/s7/dp29y4db4y4do4y4r4~x4/sett.png" alt="Marino sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp29y4db4y4do4y4r4~x4/">Marino</a></td><td></td><td><code>DP/116 Y16 DB16 Y16 DO16 Y16 R/16</code></td><td>292</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp29y4db4y4do4y4r4~x4/"><img src="/variants/s7/dp29y4db4y4do4y4r4~x4/sett.png" alt="Marino sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

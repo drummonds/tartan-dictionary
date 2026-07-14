@@ -21,13 +21,13 @@ The **Brodie** tartan is one sett, recorded at 2 scales — the same proportion 
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/">Brodie</a></td><td><code>R/48 W4 DB4 K4 R12 DB4 R1 Y/4</code></td><td>110</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/"><img src="/variants/s8/r48w4db4k4r12db4r1y4~x2/sett.png" alt="Brodie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/r48w4db4k4r12db4r1y4/">Brodie</a></td><td><code>R/48 W4 DB4 K4 R12 DB4 R1 Y/4</code></td><td>110</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/">(W &amp; A Smith)</a></td><td><code>R/96 W8 DB8 K8 R24 DB8 R2 Y/8</code></td><td>220</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/r48w4db4k4r12db4r1y4/">Brodie</a> · <a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/">(W &amp; A Smith)</a></td></tr>
+<tr><td><a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/">Brodie</a></td><td></td><td><code>R/48 W4 DB4 K4 R12 DB4 R1 Y/4</code></td><td>110</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/"><img src="/variants/s8/r48w4db4k4r12db4r1y4~x2/sett.png" alt="Brodie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/r48w4db4k4r12db4r1y4/">Brodie</a></td><td>0.00</td><td><code>R/48 W4 DB4 K4 R12 DB4 R1 Y/4</code></td><td>110</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/">(W &amp; A Smith)</a></td><td>0.00</td><td><code>R/96 W8 DB8 K8 R24 DB8 R2 Y/8</code></td><td>220</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/r48w4db4k4r12db4r1y4/">Brodie</a> · <a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/">(W &amp; A Smith)</a></td></tr>
 </tbody>
 </table>
 

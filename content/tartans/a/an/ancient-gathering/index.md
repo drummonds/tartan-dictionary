@@ -15,12 +15,12 @@ The **Ancient Gathering** tartan groups 2 setts — the same named design record
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/">Ancient Gathering</a> ★</td><td><code>DB/2 LB24 DP12 W2 Y6 DB28 DBi36 W/2</code></td><td>220</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/"><img src="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/sett.png" alt="Ancient Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/">Ancient Gathering</a></td><td><code>DB/2 LB24 B12 W2 DY6 DB28 T36 W/2</code></td><td>220</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/"><img src="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/sett.png" alt="Ancient Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/">Ancient Gathering</a> ★</td><td></td><td><code>DB/2 LB24 DP12 W2 Y6 DB28 DBi36 W/2</code></td><td>220</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/"><img src="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/sett.png" alt="Ancient Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/">Ancient Gathering</a></td><td>2.64</td><td><code>DB/2 LB24 B12 W2 DY6 DB28 T36 W/2</code></td><td>220</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/"><img src="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/sett.png" alt="Ancient Gathering sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -22,16 +22,16 @@ The **Menzies** tartan groups 4 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/r22g17w2lb6r13~x2/">Menzies</a> ★</td><td><code>R/44 G34 W4 LB12 R/26</code></td><td>170</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r22g17w2lb6r13~x2/"><img src="/variants/s5/r22g17w2lb6r13~x2/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r24t3w1g9r12~x8/">Menzies</a></td><td><code>R/192 T24 W8 G72 R/96</code></td><td>496</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r24t3w1g9r12~x8/"><img src="/variants/s5/r24t3w1g9r12~x8/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r5g5w1lb2r5~x2/">Menzies</a></td><td><code>R/10 G10 W2 LB4 R/10</code></td><td>52</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r5g5w1lb2r5~x2/"><img src="/variants/s5/r5g5w1lb2r5~x2/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/r5g5w3r5/">Menzies</a></td><td><code>R/5 G5 W3 R/5</code></td><td>26</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r5g5w3r5/"><img src="/variants/s4/r5g5w3r5/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r22g17w2lb6r13~x2/">Menzies</a> ★</td><td></td><td><code>R/44 G34 W4 LB12 R/26</code></td><td>170</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r22g17w2lb6r13~x2/"><img src="/variants/s5/r22g17w2lb6r13~x2/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r24t3w1g9r12~x8/">Menzies</a></td><td>0.76</td><td><code>R/192 T24 W8 G72 R/96</code></td><td>496</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r24t3w1g9r12~x8/"><img src="/variants/s5/r24t3w1g9r12~x8/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r5g5w1lb2r5~x2/">Menzies</a></td><td>0.45</td><td><code>R/10 G10 W2 LB4 R/10</code></td><td>52</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r5g5w1lb2r5~x2/"><img src="/variants/s5/r5g5w1lb2r5~x2/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r5g5w3r5/">Menzies</a></td><td>0.90</td><td><code>R/5 G5 W3 R/5</code></td><td>26</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/r5g5w3r5/"><img src="/variants/s4/r5g5w3r5/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

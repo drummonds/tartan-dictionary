@@ -22,12 +22,12 @@ The **Edinburgh** tartan groups 2 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/">Edinburgh</a> ★</td><td><code>W/6 DB44 K4 R6 K4 R10 G14 B4 K/4</code></td><td>182</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><img src="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/sett.png" alt="Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/">Edinburgh</a></td><td><code>W/8 DB50 K4 R8 K6 R12 G17 DP7 K/4</code></td><td>220</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><img src="/variants/s9/w8db50k4r8k6r12g17dp7k4/sett.png" alt="Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/">Edinburgh</a> ★</td><td></td><td><code>W/6 DB44 K4 R6 K4 R10 G14 B4 K/4</code></td><td>182</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><img src="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/sett.png" alt="Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/">Edinburgh</a></td><td>0.55</td><td><code>W/8 DB50 K4 R8 K6 R12 G17 DP7 K/4</code></td><td>220</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><img src="/variants/s9/w8db50k4r8k6r12g17dp7k4/sett.png" alt="Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

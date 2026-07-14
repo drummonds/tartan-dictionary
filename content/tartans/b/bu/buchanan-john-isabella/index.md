@@ -16,10 +16,10 @@ Its design is pattern [RWBWGWBWBWGWBWR](/stripes/rwbwgwbwbwgwbwr/) — the page 
 The **Buchanan, John & Isabella** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r1w1db8lb12y1lb1db2w3db6lb1y1lb1db1w1r1~x6~db1004274/">Buchanan, John &amp; Isabella</a></td><td><code>R/6 W6 DB48 LB72 Y6 LB6 DB12 W18 DB36 LB6 Y6 LB6 DB6 W6 R/6</code></td><td>480</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r1w1db8lb12y1lb1db2w3db6lb1y1lb1db1w1r1~x6~db1004274/"><img src="/variants/s15/r1w1db8lb12y1lb1db2w3db6lb1y1lb1db1w1r1~x6~db1004274/sett.png" alt="Buchanan, John &amp; Isabella sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r1w1db8lb12y1lb1db2w3db6lb1y1lb1db1w1r1~x6~db1004274/">Buchanan, John &amp; Isabella</a></td><td></td><td><code>R/6 W6 DB48 LB72 Y6 LB6 DB12 W18 DB36 LB6 Y6 LB6 DB6 W6 R/6</code></td><td>480</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r1w1db8lb12y1lb1db2w3db6lb1y1lb1db1w1r1~x6~db1004274/"><img src="/variants/s15/r1w1db8lb12y1lb1db2w3db6lb1y1lb1db1w1r1~x6~db1004274/sett.png" alt="Buchanan, John &amp; Isabella sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

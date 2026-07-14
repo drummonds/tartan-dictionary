@@ -16,10 +16,10 @@ Its design is pattern [BGRRRRRRRRRRRRRGBGW](/stripes/bgrrrrrrrrrrrrrgbgw/) — t
 The **Commonwealth Games Scotland, Team Scotland 2014** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/">Commonwealth Games Scotland, Team Scotland 2014</a></td><td><code>LB/66 DY44 DB8 DY44 R6 M4 R6 M4 R6 M4 R6 M4 R6 M4 R6 M4 R6 DY44 DB/8</code></td><td>486</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/"><img src="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/sett.png" alt="Commonwealth Games Scotland, Team Scotland 2014 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/">Commonwealth Games Scotland, Team Scotland 2014</a></td><td></td><td><code>LB/66 DY44 DB8 DY44 R6 M4 R6 M4 R6 M4 R6 M4 R6 M4 R6 M4 R6 DY44 DB/8</code></td><td>486</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/"><img src="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/sett.png" alt="Commonwealth Games Scotland, Team Scotland 2014 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBRBBBR](/stripes/bbrbbbr/) — the page of every tartan 
 The **Redpath, Ronald** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dp26dpi15r7t2ti7db17r4~x2~dp1105325-dpi1607327-t2405244-ti2503227/">Redpath, Ronald</a></td><td><code>DP/52 DPi30 R14 T4 Ti14 DB34 R/8</code></td><td>252</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp26dpi15r7t2ti7db17r4~x2~dp1105325-dpi1607327-t2405244-ti2503227/"><img src="/variants/s7/dp26dpi15r7t2ti7db17r4~x2~dp1105325-dpi1607327-t2405244-ti2503227/sett.png" alt="Redpath, Ronald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp26dpi15r7t2ti7db17r4~x2~dp1105325-dpi1607327-t2405244-ti2503227/">Redpath, Ronald</a></td><td></td><td><code>DP/52 DPi30 R14 T4 Ti14 DB34 R/8</code></td><td>252</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp26dpi15r7t2ti7db17r4~x2~dp1105325-dpi1607327-t2405244-ti2503227/"><img src="/variants/s7/dp26dpi15r7t2ti7db17r4~x2~dp1105325-dpi1607327-t2405244-ti2503227/sett.png" alt="Redpath, Ronald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

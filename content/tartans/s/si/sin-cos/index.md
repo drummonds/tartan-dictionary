@@ -13,10 +13,10 @@ Its design is pattern [GKGKGGGGGK](/stripes/gkgkgggggk/) — the page of every t
 The **Sin-Cos** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/">Sin-Cos</a></td><td><code>K/60 G64 DG5 G8 DG5 G64 K60 Y8 K8 Y/8</code></td><td>512</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><img src="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/sett.png" alt="Sin-Cos sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/">Sin-Cos</a></td><td></td><td><code>K/60 G64 DG5 G8 DG5 G64 K60 Y8 K8 Y/8</code></td><td>512</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><img src="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/sett.png" alt="Sin-Cos sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

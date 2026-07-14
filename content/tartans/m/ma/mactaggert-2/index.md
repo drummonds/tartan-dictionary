@@ -20,10 +20,10 @@ Sept of Clan Ross, name meaning 'son of the priest'; tartan first published by J
 The **MacTaggert** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db9k12g2lb4g18lb4g2k12db12r2db2r2db3~x2/">MacTaggert</a></td><td><code>DB/18 K24 G4 LB8 G36 LB8 G4 K24 DB24 R4 DB4 R4 DB/6</code></td><td>312</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db9k12g2lb4g18lb4g2k12db12r2db2r2db3~x2/"><img src="/variants/s13/db9k12g2lb4g18lb4g2k12db12r2db2r2db3~x2/sett.png" alt="MacTaggert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db9k12g2lb4g18lb4g2k12db12r2db2r2db3~x2/">MacTaggert</a></td><td></td><td><code>DB/18 K24 G4 LB8 G36 LB8 G4 K24 DB24 R4 DB4 R4 DB/6</code></td><td>312</td><td>1906</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db9k12g2lb4g18lb4g2k12db12r2db2r2db3~x2/"><img src="/variants/s13/db9k12g2lb4g18lb4g2k12db12r2db2r2db3~x2/sett.png" alt="MacTaggert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

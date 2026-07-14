@@ -13,10 +13,10 @@ Its design is pattern [RKGKRKBKRKGKRKWKGKRKBKRKGKRKW](/stripes/rkgkrkbkrkgkrkwkg
 The **Women's Wear Daily Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki0700000-k0504259/">Women's Wear Daily Hunting</a></td><td><code>R/2 Ki2 Y4 Ki2 R2 Ki2 T4 Ki2 R2 Ki2 G4 Ki2 R4 Ki2 W24 Ki2 G4 Ki2 R2 Ki2 T4 Ki2 R2 Ki2 Y4 Ki2 R2 K56 W/2</code></td><td>292</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki0700000-k0504259/"><img src="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki0700000-k0504259/sett.png" alt="Women's Wear Daily Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki0700000-k0504259/">Women's Wear Daily Hunting</a></td><td></td><td><code>R/2 Ki2 Y4 Ki2 R2 Ki2 T4 Ki2 R2 Ki2 G4 Ki2 R4 Ki2 W24 Ki2 G4 Ki2 R2 Ki2 T4 Ki2 R2 Ki2 Y4 Ki2 R2 K56 W/2</code></td><td>292</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki0700000-k0504259/"><img src="/variants/s29/r1ki1y2ki1r1ki1t2ki1r1ki1g2ki1r2ki1w12ki1g2ki1r1ki1t2ki1r1ki1y2ki1r1k28w1~x2~ki0700000-k0504259/sett.png" alt="Women's Wear Daily Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

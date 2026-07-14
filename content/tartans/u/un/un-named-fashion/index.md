@@ -13,10 +13,10 @@ Its design is pattern [KWKBBBWBBBBKBKBBBKW](/stripes/kwkbbbwbbbbkbkbbbkw/) — t
 The **Un-named fashion** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2~x2/">Un-named fashion</a></td><td><code>K/4 W4 K30 DP10 N10 DP20 LB4 DP20 N10 DP10 N60 K4 N8 K4 N60 DP8 N8 K30 W/4</code></td><td>608</td><td>~2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2~x2/"><img src="/variants/s19/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2~x2/sett.png" alt="Un-named fashion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2~x2/">Un-named fashion</a></td><td></td><td><code>K/4 W4 K30 DP10 N10 DP20 LB4 DP20 N10 DP10 N60 K4 N8 K4 N60 DP8 N8 K30 W/4</code></td><td>608</td><td>~2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2~x2/"><img src="/variants/s19/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2~x2/sett.png" alt="Un-named fashion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

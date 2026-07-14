@@ -18,10 +18,10 @@ Its design is pattern [GBGBGBKBKBGBKGKGKK](/stripes/gbgbgbkbkbgbkgkgkk/) — the
 The **Harmon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k8y2k2y2k19t2dg2t2k2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/">Harmon</a></td><td><code>K/16 Y4 K4 Y4 K38 T4 DG4 T4 K4 DR8 K4 DR22 DG4 DR4 DG4 DR12 Y/4</code></td><td>268</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k8y2k2y2k19t2dg2t2k2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/"><img src="/variants/s17/k8y2k2y2k19t2dg2t2k2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/sett.png" alt="Harmon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k8y2k2y2k19t2dg2t2k2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/">Harmon</a></td><td></td><td><code>K/16 Y4 K4 Y4 K38 T4 DG4 T4 K4 DR8 K4 DR22 DG4 DR4 DG4 DR12 Y/4</code></td><td>268</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k8y2k2y2k19t2dg2t2k2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/"><img src="/variants/s17/k8y2k2y2k19t2dg2t2k2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/sett.png" alt="Harmon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [WKWYWYWYWW](/stripes/wkwywywyww/) — the page of every t
 The **Digital** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lb6k3lb10ly5lb2ly2lb2ly2lb7w2~x2/">Digital</a></td><td><code>LB/12 K6 LB20 LY10 LB4 LY4 LB4 LY4 LB14 W/4</code></td><td>148</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lb6k3lb10ly5lb2ly2lb2ly2lb7w2~x2/"><img src="/variants/s10/lb6k3lb10ly5lb2ly2lb2ly2lb7w2~x2/sett.png" alt="Digital sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lb6k3lb10ly5lb2ly2lb2ly2lb7w2~x2/">Digital</a></td><td></td><td><code>LB/12 K6 LB20 LY10 LB4 LY4 LB4 LY4 LB14 W/4</code></td><td>148</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lb6k3lb10ly5lb2ly2lb2ly2lb7w2~x2/"><img src="/variants/s10/lb6k3lb10ly5lb2ly2lb2ly2lb7w2~x2/sett.png" alt="Digital sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

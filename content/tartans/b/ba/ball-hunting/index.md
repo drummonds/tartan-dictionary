@@ -18,11 +18,11 @@ Its design is pattern [RWWKGY](/stripes/rwwkgy/) — the page of every tartan sh
 The **Ball Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lo13g8k5lb3w2r1~x4/">Ball Hunting</a></td><td><code>LO/52 G32 K20 LB12 W8 R/4</code></td><td>200</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lo13g8k5lb3w2r1~x4/"><img src="/variants/s6/lo13g8k5lb3w2r1~x4/sett.png" alt="Ball Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/lo13g8k5lb3w2r1~x4/">Ball Htg (Name)</a> · <a href="/variants/s6/lo13g8k5lb3w2r1~x4~lb3203246/">Ball Hunting</a></td></tr>
+<tr><td><a href="/variants/s6/lo13g8k5lb3w2r1~x4/">Ball Hunting</a></td><td></td><td><code>LO/52 G32 K20 LB12 W8 R/4</code></td><td>200</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lo13g8k5lb3w2r1~x4/"><img src="/variants/s6/lo13g8k5lb3w2r1~x4/sett.png" alt="Ball Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/lo13g8k5lb3w2r1~x4/">Ball Htg (Name)</a> · <a href="/variants/s6/lo13g8k5lb3w2r1~x4~lb3203246/">Ball Hunting</a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Discovered as a fragment in a Summers family bible, possibly brought to the US d
 The **Summers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/">Summers</a></td><td><code>DG/10 R5 DG42 DB16 G5 DB5 G5 DB5 G36 DB5 G5 DB5 G5 DB16 DG42 R5 DG10 Y5 DG42 DB16 G5 DB5 G5 DB5 G36 DB5 G5 DB5 G5 DB16 DG42 Y/5</code></td><td>833</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/"><img src="/variants/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/sett.png" alt="Summers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/">Summers</a></td><td></td><td><code>DG/10 R5 DG42 DB16 G5 DB5 G5 DB5 G36 DB5 G5 DB5 G5 DB16 DG42 R5 DG10 Y5 DG42 DB16 G5 DB5 G5 DB5 G36 DB5 G5 DB5 G5 DB16 DG42 Y/5</code></td><td>833</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/"><img src="/variants/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/sett.png" alt="Summers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

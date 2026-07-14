@@ -15,10 +15,10 @@ One of Polly Wittering's Irish District series for House of Edgar, with soft war
 The **Antrim Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/">Antrim Irish County</a></td><td><code>G/10 DT4 G34 LY4 DB10 LY4 O10 DB34 G4 LY/8</code></td><td>226</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/"><img src="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/sett.png" alt="Antrim Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/">Antrim Irish County</a></td><td></td><td><code>G/10 DT4 G34 LY4 DB10 LY4 O10 DB34 G4 LY/8</code></td><td>226</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/"><img src="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/sett.png" alt="Antrim Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

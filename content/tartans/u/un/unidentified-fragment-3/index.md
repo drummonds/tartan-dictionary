@@ -13,10 +13,10 @@ Its design is pattern [BRBRBRGRBRGRBGR](/stripes/brbrbrgrbrgrbgr/) — the page 
 The **Unidentified, Fragment** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/">Unidentified, Fragment</a></td><td><code>O/8 G20 DB15 O6 G4 O8 DB4 O6 G20 O8 DB6 O4 B2 O4 DB/6</code></td><td>228</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/"><img src="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/sett.png" alt="Unidentified, Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/">Unidentified, Fragment</a></td><td></td><td><code>O/8 G20 DB15 O6 G4 O8 DB4 O6 G20 O8 DB6 O4 B2 O4 DB/6</code></td><td>228</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/"><img src="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/sett.png" alt="Unidentified, Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

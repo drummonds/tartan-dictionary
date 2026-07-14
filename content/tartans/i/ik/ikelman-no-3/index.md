@@ -16,10 +16,10 @@ Its design is pattern [BGRKB](/stripes/bgrkb/) — the page of every tartan shar
 The **Ikelman No 3** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/n5k2r2y2n5~x10/">Ikelman No 3</a></td><td><code>N/50 K20 R20 Y20 N/50</code></td><td>220</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/n5k2r2y2n5~x10/"><img src="/variants/s5/n5k2r2y2n5~x10/sett.png" alt="Ikelman No 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/n5k2r2y2n5~x10/">Ikelman No 3</a></td><td></td><td><code>N/50 K20 R20 Y20 N/50</code></td><td>220</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/n5k2r2y2n5~x10/"><img src="/variants/s5/n5k2r2y2n5~x10/sett.png" alt="Ikelman No 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

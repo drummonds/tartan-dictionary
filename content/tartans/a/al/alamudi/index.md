@@ -13,10 +13,10 @@ Its design is pattern [BGKGKGKGKBWK](/stripes/bgkgkgkgkbwk/) — the page of eve
 The **Alamudi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/">Alamudi</a></td><td><code>K/26 W6 DR6 K68 DG42 K26 DG16 K10 DG6 K4 DG2 DB/2</code></td><td>400</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/"><img src="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/sett.png" alt="Alamudi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/">Alamudi</a></td><td></td><td><code>K/26 W6 DR6 K68 DG42 K26 DG16 K10 DG6 K4 DG2 DB/2</code></td><td>400</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/"><img src="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/sett.png" alt="Alamudi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

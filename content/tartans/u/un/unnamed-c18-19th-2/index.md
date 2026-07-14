@@ -13,10 +13,10 @@ Its design is pattern [BRBRWGRBGR](/stripes/brbrwgrbgr/) — the page of every t
 The **Unnamed C18/19th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r26g6dt26r2g26w1r6dt2r6dt13~x2/">Unnamed C18/19th</a></td><td><code>R/52 G12 DT52 R4 G52 W2 R12 DT4 R12 DT/26</code></td><td>378</td><td>1885</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r26g6dt26r2g26w1r6dt2r6dt13~x2/"><img src="/variants/s10/r26g6dt26r2g26w1r6dt2r6dt13~x2/sett.png" alt="Unnamed C18/19th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r26g6dt26r2g26w1r6dt2r6dt13~x2/">Unnamed C18/19th</a></td><td></td><td><code>R/52 G12 DT52 R4 G52 W2 R12 DT4 R12 DT/26</code></td><td>378</td><td>1885</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r26g6dt26r2g26w1r6dt2r6dt13~x2/"><img src="/variants/s10/r26g6dt26r2g26w1r6dt2r6dt13~x2/sett.png" alt="Unnamed C18/19th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

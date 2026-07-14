@@ -15,12 +15,12 @@ The **Kelsey, William** tartan groups 2 setts — the same named design recorded
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/">Kelsey, William</a> ★</td><td><code>G/24 R4 G4 R10 G32 DB6 N4 K4 N6 DB12 K40 Y/6</code></td><td>274</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/"><img src="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/sett.png" alt="Kelsey, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20ly3~x2/">(Personal)</a></td><td><code>G/24 R4 G4 R10 G32 DB6 N4 K4 N6 DB12 K40 LY/6</code></td><td>274</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20ly3~x2/"><img src="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20ly3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/">Kelsey, William</a> ★</td><td></td><td><code>G/24 R4 G4 R10 G32 DB6 N4 K4 N6 DB12 K40 Y/6</code></td><td>274</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/"><img src="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/sett.png" alt="Kelsey, William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20ly3~x2/">(Personal)</a></td><td>0.02</td><td><code>G/24 R4 G4 R10 G32 DB6 N4 K4 N6 DB12 K40 LY/6</code></td><td>274</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20ly3~x2/"><img src="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20ly3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

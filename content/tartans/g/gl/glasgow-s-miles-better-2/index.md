@@ -13,10 +13,10 @@ Its design is pattern [GRYRRRGRYG](/stripes/gryrrrgryg/) — the page of every t
 The **Glasgow's Miles Better** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y12lr4o4y4o4r4o15lr15r15y8~x2~lr2800000-o2500000/">Glasgow's Miles Better</a></td><td><code>Y/24 LR8 O8 Y8 O8 R8 O30 LR30 R30 Y/16</code></td><td>300</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y12lr4o4y4o4r4o15lr15r15y8~x2~lr2800000-o2500000/"><img src="/variants/s10/y12lr4o4y4o4r4o15lr15r15y8~x2~lr2800000-o2500000/sett.png" alt="Glasgow's Miles Better sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y12lr4o4y4o4r4o15lr15r15y8~x2~lr2800000-o2500000/">Glasgow's Miles Better</a></td><td></td><td><code>Y/24 LR8 O8 Y8 O8 R8 O30 LR30 R30 Y/16</code></td><td>300</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y12lr4o4y4o4r4o15lr15r15y8~x2~lr2800000-o2500000/"><img src="/variants/s10/y12lr4o4y4o4r4o15lr15r15y8~x2~lr2800000-o2500000/sett.png" alt="Glasgow's Miles Better sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

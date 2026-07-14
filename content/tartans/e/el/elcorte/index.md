@@ -13,10 +13,10 @@ Its design is pattern [GWGWYRGRGYWGRGRYRWGW](/stripes/gwgwyrgrgywgrgryrwgw/) —
 The **elCorte** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/y6lb5g4lb5lo2r5g2r14g10lo30lb1g2r4g2r1lo30r10lb14g2lb5~x2/">elCorte</a></td><td><code>Y/12 LB10 G8 LB10 LO4 R10 G4 R28 G20 LO60 LB2 G4 R8 G4 R2 LO60 R20 LB28 G4 LB/10</code></td><td>594</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/y6lb5g4lb5lo2r5g2r14g10lo30lb1g2r4g2r1lo30r10lb14g2lb5~x2/"><img src="/variants/s20/y6lb5g4lb5lo2r5g2r14g10lo30lb1g2r4g2r1lo30r10lb14g2lb5~x2/sett.png" alt="elCorte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/y6lb5g4lb5lo2r5g2r14g10lo30lb1g2r4g2r1lo30r10lb14g2lb5~x2/">elCorte</a></td><td></td><td><code>Y/12 LB10 G8 LB10 LO4 R10 G4 R28 G20 LO60 LB2 G4 R8 G4 R2 LO60 R20 LB28 G4 LB/10</code></td><td>594</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/y6lb5g4lb5lo2r5g2r14g10lo30lb1g2r4g2r1lo30r10lb14g2lb5~x2/"><img src="/variants/s20/y6lb5g4lb5lo2r5g2r14g10lo30lb1g2r4g2r1lo30r10lb14g2lb5~x2/sett.png" alt="elCorte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

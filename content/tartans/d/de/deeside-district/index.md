@@ -16,10 +16,10 @@ Its design is pattern [GBRGBGW](/stripes/gbrgbgw/) — the page of every tartan 
 The **Deeside District** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/">Deeside District</a></td><td><code>Y/2 DB8 O2 G10 DR4 G2 W/2</code></td><td>56</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/"><img src="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/sett.png" alt="Deeside District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/">Deeside District</a></td><td></td><td><code>Y/2 DB8 O2 G10 DR4 G2 W/2</code></td><td>56</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/"><img src="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/sett.png" alt="Deeside District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

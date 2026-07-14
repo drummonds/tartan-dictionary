@@ -13,10 +13,10 @@ Its design is pattern [KWGRBRYRWK](/stripes/kwgrbryrwk/) — the page of every t
 The **Nassau County Firefighters** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/">Nassau County Firefighters</a></td><td><code>K/13 W13 R26 LO13 R20 DB13 R26 G22 W13 K/13</code></td><td>318</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/"><img src="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/sett.png" alt="Nassau County Firefighters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/">Nassau County Firefighters</a></td><td></td><td><code>K/13 W13 R26 LO13 R20 DB13 R26 G22 W13 K/13</code></td><td>318</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/"><img src="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/sett.png" alt="Nassau County Firefighters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

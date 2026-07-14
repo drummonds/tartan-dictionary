@@ -13,10 +13,10 @@ Its design is pattern [GKBW](/stripes/gkbw/) — the page of every tartan sharin
 The **Riddick Furya** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/y2k3dr31w1~x4/">Riddick Furya</a></td><td><code>Y/8 K12 DR124 W/4</code></td><td>284</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/y2k3dr31w1~x4/"><img src="/variants/s4/y2k3dr31w1~x4/sett.png" alt="Riddick Furya sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/y2k3dr31w1~x4/">Riddick Furya</a></td><td></td><td><code>Y/8 K12 DR124 W/4</code></td><td>284</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/y2k3dr31w1~x4/"><img src="/variants/s4/y2k3dr31w1~x4/sett.png" alt="Riddick Furya sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGKBRBRBKG](/stripes/ggkbrbrbkg/) — the page of every t
 The **Wilson's No.112** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/">Wilson's No.112</a></td><td><code>DG/24 K28 DB22 R6 DB6 R6 DB22 K28 DG24 Y/6</code></td><td>314</td><td>1824</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/"><img src="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/sett.png" alt="Wilson's No.112 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/">Wilson's No.112</a></td><td></td><td><code>DG/24 K28 DB22 R6 DB6 R6 DB22 K28 DG24 Y/6</code></td><td>314</td><td>1824</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/"><img src="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/sett.png" alt="Wilson's No.112 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

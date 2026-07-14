@@ -13,10 +13,10 @@ Its design is pattern [WBBGBGBGBW](/stripes/wbbgbgbgbw/) — the page of every t
 The **Sverker** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/">Sverker</a></td><td><code>W/4 T8 DY6 DT6 DY6 DT40 DY6 T32 DT16 LB/4</code></td><td>248</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><img src="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/sett.png" alt="Sverker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/">Sverker</a></td><td></td><td><code>W/4 T8 DY6 DT6 DY6 DT40 DY6 T32 DT16 LB/4</code></td><td>248</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><img src="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/sett.png" alt="Sverker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

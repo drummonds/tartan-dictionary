@@ -13,11 +13,11 @@ Its design is pattern [BKBRWKRK](/stripes/bkbrwkrk/) — the page of every tarta
 The **Ardmore** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/">Ardmore</a></td><td><code>K/42 O4 K16 W4 O32 N12 K4 N/16</code></td><td>202</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/"><img src="/variants/s8/k21o2k8w2o16n6k2n8~x2/sett.png" alt="Ardmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/">(Fashion)</a> · <a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/">Ardmore</a></td></tr>
+<tr><td><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/">Ardmore</a></td><td></td><td><code>K/42 O4 K16 W4 O32 N12 K4 N/16</code></td><td>202</td><td>1978</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/"><img src="/variants/s8/k21o2k8w2o16n6k2n8~x2/sett.png" alt="Ardmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/">(Fashion)</a> · <a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/">Ardmore</a></td></tr>
 </tbody>
 </table>
 

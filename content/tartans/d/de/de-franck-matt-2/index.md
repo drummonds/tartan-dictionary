@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKWWW](/stripes/bkbkbkwww/) — the page of every tar
 The **de Franck, Matt** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/">de Franck, Matt</a></td><td><code>N/24 K4 N4 K4 N4 K24 LP24 LB6 W/2</code></td><td>166</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><img src="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/sett.png" alt="de Franck, Matt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/">de Franck, Matt</a></td><td></td><td><code>N/24 K4 N4 K4 N4 K24 LP24 LB6 W/2</code></td><td>166</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><img src="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/sett.png" alt="de Franck, Matt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

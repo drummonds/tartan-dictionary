@@ -13,10 +13,10 @@ Its design is pattern [WBKRBY](/stripes/wbkrby/) — the page of every tartan sh
 The **Lord's Own Highlanders** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w5n20k8r5dp36ly5~x2/">Lord's Own Highlanders</a></td><td><code>W/10 N40 K16 R10 DP72 LY/10</code></td><td>296</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w5n20k8r5dp36ly5~x2/"><img src="/variants/s6/w5n20k8r5dp36ly5~x2/sett.png" alt="Lord's Own Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w5n20k8r5dp36ly5~x2/">Lord's Own Highlanders</a></td><td></td><td><code>W/10 N40 K16 R10 DP72 LY/10</code></td><td>296</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w5n20k8r5dp36ly5~x2/"><img src="/variants/s6/w5n20k8r5dp36ly5~x2/sett.png" alt="Lord's Own Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

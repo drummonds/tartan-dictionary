@@ -18,10 +18,10 @@ Its design is pattern [RGRGKWKYGYGYRY](/stripes/rgrgkwkygygyry/) — the page of
 The **Redgate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r6g4r2g9k10w1k10lg3dy2lg3dy2lg11r3lg6~x2/">Redgate</a></td><td><code>R/12 G8 R4 G18 K20 W2 K20 LG6 DY4 LG6 DY4 LG22 R6 LG/12</code></td><td>264</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r6g4r2g9k10w1k10lg3dy2lg3dy2lg11r3lg6~x2/"><img src="/variants/s14/r6g4r2g9k10w1k10lg3dy2lg3dy2lg11r3lg6~x2/sett.png" alt="Redgate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r6g4r2g9k10w1k10lg3dy2lg3dy2lg11r3lg6~x2/">Redgate</a></td><td></td><td><code>R/12 G8 R4 G18 K20 W2 K20 LG6 DY4 LG6 DY4 LG22 R6 LG/12</code></td><td>264</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r6g4r2g9k10w1k10lg3dy2lg3dy2lg11r3lg6~x2/"><img src="/variants/s14/r6g4r2g9k10w1k10lg3dy2lg3dy2lg11r3lg6~x2/sett.png" alt="Redgate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

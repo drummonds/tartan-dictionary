@@ -16,10 +16,10 @@ Its design is pattern [KGKGKGKGK](/stripes/kgkgkgkgk/) — the page of every tar
 The **Glen Carron** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/">Glen Carron</a></td><td><code>K/4 Y48 K8 G4 K8 G12 K4 Y4 K/4</code></td><td>184</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/"><img src="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/sett.png" alt="Glen Carron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/">Glen Carron</a></td><td></td><td><code>K/4 Y48 K8 G4 K8 G12 K4 Y4 K/4</code></td><td>184</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/"><img src="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/sett.png" alt="Glen Carron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

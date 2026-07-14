@@ -18,10 +18,10 @@ Its design is pattern [BGKGKGKBW](/stripes/bgkgkgkbw/) — the page of every tar
 The **Stewart of Bute Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/">Stewart of Bute Hunting</a></td><td><code>DR/44 G22 K4 G8 K4 G12 K32 DR84 LB/12</code></td><td>388</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/"><img src="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/sett.png" alt="Stewart of Bute Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/">Stewart of Bute Hunting</a></td><td></td><td><code>DR/44 G22 K4 G8 K4 G12 K32 DR84 LB/12</code></td><td>388</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/"><img src="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/sett.png" alt="Stewart of Bute Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

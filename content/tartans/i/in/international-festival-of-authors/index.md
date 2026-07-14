@@ -13,10 +13,10 @@ Its design is pattern [BRBWBG](/stripes/brbwbg/) — the page of every tartan sh
 The **International Festival of Authors** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/">International Festival of Authors</a></td><td><code>DP/60 M10 DP10 LB8 DP8 G/24</code></td><td>156</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><img src="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/sett.png" alt="International Festival of Authors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/">International Festival of Authors</a></td><td></td><td><code>DP/60 M10 DP10 LB8 DP8 G/24</code></td><td>156</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><img src="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/sett.png" alt="International Festival of Authors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

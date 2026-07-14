@@ -13,10 +13,10 @@ Its design is pattern [BRBWYWYW](/stripes/brbwywyw/) — the page of every tarta
 The **Dama Classic** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/">Dama Classic</a></td><td><code>LB/60 LR6 LB6 LR6 LB24 N60 O6 N/10</code></td><td>286</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/"><img src="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/sett.png" alt="Dama Classic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/">Dama Classic</a></td><td></td><td><code>LB/60 LR6 LB6 LR6 LB24 N60 O6 N/10</code></td><td>286</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/"><img src="/variants/s8/lb30lr3lb3lr3lb12n30o3n5~x2~n1900000-o2500000/sett.png" alt="Dama Classic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

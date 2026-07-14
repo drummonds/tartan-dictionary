@@ -16,10 +16,10 @@ Its design is pattern [BWGGBBYBYBW](/stripes/bwggbbybybw/) — the page of every
 The **Dundee Carers' Centre** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lp66db2lo14db2ly5b8db12dg60g60lp2db25~dg1806142-g2304202/">Dundee Carers' Centre</a></td><td><code>LP/66 DB2 LO14 DB2 LY5 B8 DB12 DG60 G60 LP2 DB/25</code></td><td>421</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lp66db2lo14db2ly5b8db12dg60g60lp2db25~dg1806142-g2304202/"><img src="/variants/s11/lp66db2lo14db2ly5b8db12dg60g60lp2db25~dg1806142-g2304202/sett.png" alt="Dundee Carers' Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lp66db2lo14db2ly5b8db12dg60g60lp2db25~dg1806142-g2304202/">Dundee Carers' Centre</a></td><td></td><td><code>LP/66 DB2 LO14 DB2 LY5 B8 DB12 DG60 G60 LP2 DB/25</code></td><td>421</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lp66db2lo14db2ly5b8db12dg60g60lp2db25~dg1806142-g2304202/"><img src="/variants/s11/lp66db2lo14db2ly5b8db12dg60g60lp2db25~dg1806142-g2304202/sett.png" alt="Dundee Carers' Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

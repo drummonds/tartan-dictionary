@@ -13,10 +13,10 @@ Its design is pattern [GWRKRKBKBK](/stripes/gwrkrkbkbk/) — the page of every t
 The **Huntley Fire Protection District** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/">Huntley Fire Protection District</a></td><td><code>K/22 DB28 K8 DB28 K24 R26 K6 R6 W4 Y/4</code></td><td>286</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/"><img src="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/sett.png" alt="Huntley Fire Protection District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/">Huntley Fire Protection District</a></td><td></td><td><code>K/22 DB28 K8 DB28 K24 R26 K6 R6 W4 Y/4</code></td><td>286</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/"><img src="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/sett.png" alt="Huntley Fire Protection District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

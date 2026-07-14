@@ -18,10 +18,10 @@ Its design is pattern [GWRYBBBBGBGBGBGY](/stripes/gwrybbbbgbgbgbgy/) — the pag
 The **Missouri** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/">Missouri</a></td><td><code>G/8 W4 R4 LG6 DB6 DR4 DB4 DR4 G4 DR4 G6 DR4 G16 DR12 G16 LG/4</code></td><td>200</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/"><img src="/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/sett.png" alt="Missouri sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/">Missouri</a></td><td></td><td><code>G/8 W4 R4 LG6 DB6 DR4 DB4 DR4 G4 DR4 G6 DR4 G16 DR12 G16 LG/4</code></td><td>200</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/"><img src="/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/sett.png" alt="Missouri sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

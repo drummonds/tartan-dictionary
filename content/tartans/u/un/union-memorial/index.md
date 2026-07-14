@@ -13,10 +13,10 @@ Its design is pattern [BBRBGYRY](/stripes/bbrbgyry/) — the page of every tarta
 The **Union Memorial** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/">Union Memorial</a></td><td><code>LY/32 R8 LY8 DY4 DB112 R36 DBi2 DB/14</code></td><td>386</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><img src="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/sett.png" alt="Union Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/">Union Memorial</a></td><td></td><td><code>LY/32 R8 LY8 DY4 DB112 R36 DBi2 DB/14</code></td><td>386</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><img src="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/sett.png" alt="Union Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

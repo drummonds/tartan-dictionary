@@ -18,10 +18,10 @@ Its design is pattern [BWKWKYKWK](/stripes/bwkwkykwk/) — the page of every tar
 The **Burberry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/">Burberry</a></td><td><code>K/20 W20 K20 LY64 K4 W4 K4 W4 DR/10</code></td><td>270</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><img src="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/">Burberry</a></td><td></td><td><code>K/20 W20 K20 LY64 K4 W4 K4 W4 DR/10</code></td><td>270</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><img src="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

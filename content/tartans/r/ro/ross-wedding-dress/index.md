@@ -18,12 +18,12 @@ The **Ross Wedding Dress** tartan groups 2 setts — the same named design recor
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4dy3w1dy3lb4db4w1r36db3lb2w1lb2db3~x2/">Ross Wedding Dress</a> ★</td><td><code>K/8 W4 K4 W2 LB12 R12 G12 W2 G54 W2 DB8 LB8 DY6 W2 DY6 LB8 DB8 W2 R72 DB6 LB4 W2 LB4 DB/6</code></td><td>494</td><td>1766</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4dy3w1dy3lb4db4w1r36db3lb2w1lb2db3~x2/"><img src="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4dy3w1dy3lb4db4w1r36db3lb2w1lb2db3~x2/sett.png" alt="Ross Wedding Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4o3w1o3lb4db4w1r36db3lb2w1lb2db3~x2/">Ross, Wedding dress</a></td><td><code>K/8 W4 K4 W2 LB12 R12 G12 W2 G54 W2 DB8 LB8 O6 W2 O6 LB8 DB8 W2 R72 DB6 LB4 W2 LB4 DB/6</code></td><td>494</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4o3w1o3lb4db4w1r36db3lb2w1lb2db3~x2/"><img src="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4o3w1o3lb4db4w1r36db3lb2w1lb2db3~x2/sett.png" alt="Ross, Wedding dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4dy3w1dy3lb4db4w1r36db3lb2w1lb2db3~x2/">Ross Wedding Dress</a> ★</td><td></td><td><code>K/8 W4 K4 W2 LB12 R12 G12 W2 G54 W2 DB8 LB8 DY6 W2 DY6 LB8 DB8 W2 R72 DB6 LB4 W2 LB4 DB/6</code></td><td>494</td><td>1766</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4dy3w1dy3lb4db4w1r36db3lb2w1lb2db3~x2/"><img src="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4dy3w1dy3lb4db4w1r36db3lb2w1lb2db3~x2/sett.png" alt="Ross Wedding Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4o3w1o3lb4db4w1r36db3lb2w1lb2db3~x2/">Ross, Wedding dress</a></td><td>0.60</td><td><code>K/8 W4 K4 W2 LB12 R12 G12 W2 G54 W2 DB8 LB8 O6 W2 O6 LB8 DB8 W2 R72 DB6 LB4 W2 LB4 DB/6</code></td><td>494</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4o3w1o3lb4db4w1r36db3lb2w1lb2db3~x2/"><img src="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4o3w1o3lb4db4w1r36db3lb2w1lb2db3~x2/sett.png" alt="Ross, Wedding dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

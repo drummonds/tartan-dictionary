@@ -18,10 +18,10 @@ Its design is pattern [RBRBRBKGRKYKRGKBRBRBR](/stripes/rbrbrbkgrkykrgkbrbrbr/) â
 The **Logan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/">Logan</a></td><td><code>R/20 DB12 R6 DB6 R6 DB56 K44 G56 R4 K4 LY8 K4 R4 G56 K44 DB56 R6 DB6 R6 DB12 R/10</code></td><td>822</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/"><img src="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/">Logan</a></td><td></td><td><code>R/20 DB12 R6 DB6 R6 DB56 K44 G56 R4 K4 LY8 K4 R4 G56 K44 DB56 R6 DB6 R6 DB12 R/10</code></td><td>822</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/"><img src="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

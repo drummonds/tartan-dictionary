@@ -13,10 +13,10 @@ Its design is pattern [BBKBBKBKGGGKBKG](/stripes/bbkbbkbkgggkbkg/) — the page 
 The **Angove, the Black Swan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/">Angove, the Black Swan</a></td><td><code>DB/36 DP4 K4 DB4 DP4 K2 DB4 K16 G2 Y2 G12 K16 DB28 K4 G/4</code></td><td>244</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/"><img src="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/sett.png" alt="Angove, the Black Swan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/">Angove, the Black Swan</a></td><td></td><td><code>DB/36 DP4 K4 DB4 DP4 K2 DB4 K16 G2 Y2 G12 K16 DB28 K4 G/4</code></td><td>244</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/"><img src="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/sett.png" alt="Angove, the Black Swan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

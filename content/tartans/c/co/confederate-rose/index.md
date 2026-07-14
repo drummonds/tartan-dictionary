@@ -13,10 +13,10 @@ Its design is pattern [BWRWGWBWBWRWBW](/stripes/bwrwgwbwbwrwbw/) — the page of
 The **Confederate Rose** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3~x2/">Confederate Rose</a></td><td><code>DP/48 W8 M20 W8 Y8 W56 N12 W8 N12 W56 M36 W2 DB8 W/6</code></td><td>522</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3~x2/"><img src="/variants/s14/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3~x2/sett.png" alt="Confederate Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3~x2/">Confederate Rose</a></td><td></td><td><code>DP/48 W8 M20 W8 Y8 W56 N12 W8 N12 W56 M36 W2 DB8 W/6</code></td><td>522</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3~x2/"><img src="/variants/s14/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3~x2/sett.png" alt="Confederate Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

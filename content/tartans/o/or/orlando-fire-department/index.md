@@ -13,11 +13,11 @@ Its design is pattern [BGRBRBRBG](/stripes/bgrbrbrbg/) — the page of every tar
 The **Orlando Fire Department** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/">Orlando Fire Department</a></td><td><code>DB/48 Y4 R64 DB4 R4 DB56 R12 DB56 Y/4</code></td><td>452</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/"><img src="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/sett.png" alt="Orlando Fire Department sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/">(Corporate)</a> · <a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4~db1406275/">Orlando Fire Department</a></td></tr>
+<tr><td><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/">Orlando Fire Department</a></td><td></td><td><code>DB/48 Y4 R64 DB4 R4 DB56 R12 DB56 Y/4</code></td><td>452</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/"><img src="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/sett.png" alt="Orlando Fire Department sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/">(Corporate)</a> · <a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4~db1406275/">Orlando Fire Department</a></td></tr>
 </tbody>
 </table>
 

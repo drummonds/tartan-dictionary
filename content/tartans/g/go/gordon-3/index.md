@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKGGGG](/stripes/bkbkbkgggg/) — the page of every t
 The **Gordon 3** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db56k6db6k6db6k44g44y4g5y8/">Gordon 3</a></td><td><code>DB/56 K6 DB6 K6 DB6 K44 G44 Y4 G5 Y/8</code></td><td>306</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db56k6db6k6db6k44g44y4g5y8/"><img src="/variants/s10/db56k6db6k6db6k44g44y4g5y8/sett.png" alt="Gordon 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db56k6db6k6db6k44g44y4g5y8/">Gordon 3</a></td><td></td><td><code>DB/56 K6 DB6 K6 DB6 K44 G44 Y4 G5 Y/8</code></td><td>306</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db56k6db6k6db6k44g44y4g5y8/"><img src="/variants/s10/db56k6db6k6db6k44g44y4g5y8/sett.png" alt="Gordon 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

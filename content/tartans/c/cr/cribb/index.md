@@ -13,10 +13,10 @@ Its design is pattern [WBYRYRYRYBRBGBGY](/stripes/wbyryryrybrbgbgy/) — the pag
 The **Cribb** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/">Cribb</a></td><td><code>W/4 N2 LR24 O4 LR4 O4 LR4 O4 LR4 DP20 O2 DP20 G24 N4 G8 LR/4</code></td><td>264</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/"><img src="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/sett.png" alt="Cribb sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/">Cribb</a></td><td></td><td><code>W/4 N2 LR24 O4 LR4 O4 LR4 O4 LR4 DP20 O2 DP20 G24 N4 G8 LR/4</code></td><td>264</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/"><img src="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/sett.png" alt="Cribb sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

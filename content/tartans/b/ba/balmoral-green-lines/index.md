@@ -16,10 +16,10 @@ Its design is pattern [BGBGKBGBGBKBG](/stripes/bgbgkbgbgbkbg/) — the page of e
 The **Balmoral, Green lines** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/b4g2b25dg16k5b2dg2b2dg8b4k2b2g2~x2/">Balmoral, Green lines</a></td><td><code>B/8 G4 B50 DG32 K10 B4 DG4 B4 DG16 B8 K4 B4 G/4</code></td><td>292</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/b4g2b25dg16k5b2dg2b2dg8b4k2b2g2~x2/"><img src="/variants/s13/b4g2b25dg16k5b2dg2b2dg8b4k2b2g2~x2/sett.png" alt="Balmoral, Green lines sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/b4g2b25dg16k5b2dg2b2dg8b4k2b2g2~x2/">Balmoral, Green lines</a></td><td></td><td><code>B/8 G4 B50 DG32 K10 B4 DG4 B4 DG16 B8 K4 B4 G/4</code></td><td>292</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/b4g2b25dg16k5b2dg2b2dg8b4k2b2g2~x2/"><img src="/variants/s13/b4g2b25dg16k5b2dg2b2dg8b4k2b2g2~x2/sett.png" alt="Balmoral, Green lines sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

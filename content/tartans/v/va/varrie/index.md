@@ -15,10 +15,10 @@ Designed in 2009 in remembrance of Jean Alexander Varrie; blues for rivers and o
 The **Varrie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/lb11db1w1y1~x20/">Varrie</a></td><td><code>LB/220 DB20 W20 Y/20</code></td><td>320</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/lb11db1w1y1~x20/"><img src="/variants/s4/lb11db1w1y1~x20/sett.png" alt="Varrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/lb11db1w1y1~x20/">Varrie</a></td><td></td><td><code>LB/220 DB20 W20 Y/20</code></td><td>320</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/lb11db1w1y1~x20/"><img src="/variants/s4/lb11db1w1y1~x20/sett.png" alt="Varrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

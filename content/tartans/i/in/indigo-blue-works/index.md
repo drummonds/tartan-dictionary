@@ -16,10 +16,10 @@ Its design is pattern [BBKBKBBKBKB](/stripes/bbkbkbbkbkb/) — the page of every
 The **Indigo Blue Works** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/">Indigo Blue Works</a></td><td><code>DB/9 K1 DBi4 K1 DB18 B5 K1 B1 K1 B5 DB/4</code></td><td>—</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/"><img src="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/sett.png" alt="Indigo Blue Works sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/">Indigo Blue Works</a></td><td></td><td><code>DB/9 K1 DBi4 K1 DB18 B5 K1 B1 K1 B5 DB/4</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/"><img src="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/sett.png" alt="Indigo Blue Works sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

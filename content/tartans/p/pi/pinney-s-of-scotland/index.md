@@ -13,10 +13,10 @@ Its design is pattern [GBGKGBGBGK](/stripes/gbgkgbgbgk/) — the page of every t
 The **Pinney's of Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/">Pinney's of Scotland</a></td><td><code>K/8 G4 DB20 Y2 DB4 G26 K22 G26 DB26 Y/4</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/"><img src="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/sett.png" alt="Pinney's of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/">Pinney's of Scotland</a></td><td></td><td><code>K/8 G4 DB20 Y2 DB4 G26 K22 G26 DB26 Y/4</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/"><img src="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/sett.png" alt="Pinney's of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

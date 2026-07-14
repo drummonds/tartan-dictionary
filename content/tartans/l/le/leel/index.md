@@ -13,10 +13,10 @@ Its design is pattern [GBGBWKBKBKBGWKG](/stripes/gbgbwkbkbkbgwkg/) — the page 
 The **Leel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2~lb3103284-t2405244/">Leel</a></td><td><code>G/16 DB4 G16 DB20 LB4 K16 T12 K4 T6 K4 T12 G12 W4 K4 G/4</code></td><td>256</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2~lb3103284-t2405244/"><img src="/variants/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2~lb3103284-t2405244/sett.png" alt="Leel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2~lb3103284-t2405244/">Leel</a></td><td></td><td><code>G/16 DB4 G16 DB20 LB4 K16 T12 K4 T6 K4 T12 G12 W4 K4 G/4</code></td><td>256</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2~lb3103284-t2405244/"><img src="/variants/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2~lb3103284-t2405244/sett.png" alt="Leel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

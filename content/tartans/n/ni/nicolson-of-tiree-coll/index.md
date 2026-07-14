@@ -18,10 +18,10 @@ Its design is pattern [BKBRBG](/stripes/bkbrbg/) — the page of every tartan sh
 The **Nicolson of Tiree & Coll** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/">Nicolson of Tiree &amp; Coll</a></td><td><code>G/12 DBi32 R44 DB12 K8 DP/8</code></td><td>212</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><img src="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/sett.png" alt="Nicolson of Tiree &amp; Coll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/">Nicolson of Tiree &amp; Coll</a></td><td></td><td><code>G/12 DBi32 R44 DB12 K8 DP/8</code></td><td>212</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><img src="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/sett.png" alt="Nicolson of Tiree &amp; Coll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

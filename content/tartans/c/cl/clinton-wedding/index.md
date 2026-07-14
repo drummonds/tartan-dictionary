@@ -13,11 +13,11 @@ Its design is pattern [WBRKBKBRYRBW](/stripes/wbrkbkbryrbw/) — the page of eve
 The **Clinton Wedding** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/">Clinton Wedding</a></td><td><code>W/10 DB12 R40 K12 T10 K6 DB52 R4 LY2 R4 DB6 W/6</code></td><td>312</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><img src="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/sett.png" alt="Clinton Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/">(Personal)</a> · <a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2~t2003246/">Clinton Wedding</a></td></tr>
+<tr><td><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/">Clinton Wedding</a></td><td></td><td><code>W/10 DB12 R40 K12 T10 K6 DB52 R4 LY2 R4 DB6 W/6</code></td><td>312</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><img src="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/sett.png" alt="Clinton Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/">(Personal)</a> · <a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2~t2003246/">Clinton Wedding</a></td></tr>
 </tbody>
 </table>
 

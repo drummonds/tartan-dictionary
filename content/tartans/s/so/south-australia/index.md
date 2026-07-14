@@ -13,10 +13,10 @@ Its design is pattern [BGGGGBRBRBR](/stripes/bggggbrbrbr/) — the page of every
 The **South Australia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/">South Australia</a></td><td><code>R/12 T48 R4 DB24 R16 DB24 Y6 G16 Y6 G16 DB/6</code></td><td>338</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/"><img src="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/sett.png" alt="South Australia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/">South Australia</a></td><td></td><td><code>R/12 T48 R4 DB24 R16 DB24 Y6 G16 Y6 G16 DB/6</code></td><td>338</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/"><img src="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/sett.png" alt="South Australia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

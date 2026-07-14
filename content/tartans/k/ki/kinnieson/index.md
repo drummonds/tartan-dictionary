@@ -13,10 +13,10 @@ Its design is pattern [BKWGWGWKBKWYWYWK](/stripes/bkwgwgwkbkwywywk/) — the pag
 The **Kinnieson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/k64lb38lo4lb38lo4lb38k64dr8k64lb38g4lb38g4lb38k65db8~lb3200000/">Kinnieson</a></td><td><code>K/64 LB38 LO4 LB38 LO4 LB38 K64 DR8 K64 LB38 G4 LB38 G4 LB38 K65 DB/8</code></td><td>—</td><td>1961</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/k64lb38lo4lb38lo4lb38k64dr8k64lb38g4lb38g4lb38k65db8~lb3200000/"><img src="/variants/s16/k64lb38lo4lb38lo4lb38k64dr8k64lb38g4lb38g4lb38k65db8~lb3200000/sett.png" alt="Kinnieson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/k64lb38lo4lb38lo4lb38k64dr8k64lb38g4lb38g4lb38k65db8~lb3200000/">Kinnieson</a></td><td></td><td><code>K/64 LB38 LO4 LB38 LO4 LB38 K64 DR8 K64 LB38 G4 LB38 G4 LB38 K65 DB/8</code></td><td>—</td><td>1961</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/k64lb38lo4lb38lo4lb38k64dr8k64lb38g4lb38g4lb38k65db8~lb3200000/"><img src="/variants/s16/k64lb38lo4lb38lo4lb38k64dr8k64lb38g4lb38g4lb38k65db8~lb3200000/sett.png" alt="Kinnieson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GRGRGRGRGGGRGRGRGRWRWGWRWR](/stripes/grgrgrgrgggrgrgrgrwr
 The **Maple Leaf, dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/dg1r6g5r6dg1r1dg9o3dg3gi3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4~dg1104144-gi2104115/">Maple Leaf, dress</a></td><td><code>DG/4 R24 G20 R24 DG4 R4 DG36 O12 DG12 Gi12 DG36 R4 DG4 R24 G20 R24 DG4 R4 W4 R4 W48 G4 W48 R4 W4 R/4</code></td><td>776</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/dg1r6g5r6dg1r1dg9o3dg3gi3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4~dg1104144-gi2104115/"><img src="/variants/s26/dg1r6g5r6dg1r1dg9o3dg3gi3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4~dg1104144-gi2104115/sett.png" alt="Maple Leaf, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/dg1r6g5r6dg1r1dg9o3dg3gi3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4~dg1104144-gi2104115/">Maple Leaf, dress</a></td><td></td><td><code>DG/4 R24 G20 R24 DG4 R4 DG36 O12 DG12 Gi12 DG36 R4 DG4 R24 G20 R24 DG4 R4 W4 R4 W48 G4 W48 R4 W4 R/4</code></td><td>776</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/dg1r6g5r6dg1r1dg9o3dg3gi3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4~dg1104144-gi2104115/"><img src="/variants/s26/dg1r6g5r6dg1r1dg9o3dg3gi3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4~dg1104144-gi2104115/sett.png" alt="Maple Leaf, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

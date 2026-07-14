@@ -18,10 +18,10 @@ Its design is pattern [BBKWK](/stripes/bbkwk/) — the page of every tartan shar
 The **Burberry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k5w7k5n20db1~x4/">Burberry</a></td><td><code>K/20 W28 K20 N80 DB/4</code></td><td>280</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k5w7k5n20db1~x4/"><img src="/variants/s5/k5w7k5n20db1~x4/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k5w7k5n20db1~x4/">Burberry</a></td><td></td><td><code>K/20 W28 K20 N80 DB/4</code></td><td>280</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k5w7k5n20db1~x4/"><img src="/variants/s5/k5w7k5n20db1~x4/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

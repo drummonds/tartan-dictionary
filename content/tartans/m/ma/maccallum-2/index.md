@@ -21,14 +21,14 @@ The **MacCallum** tartan groups 3 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/">MacCallum</a> ★</td><td><code>G/42 K12 LB6 G22 K34 DB34 K/6</code></td><td>264</td><td>1832</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><img src="/variants/s7/g21k6lb3g11k17db17k3~x2/sett.png" alt="MacCallum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g8k2lb1g4k6db6k1~x2/">MacCallum</a></td><td><code>G/16 K4 LB2 G8 K12 DB12 K/2</code></td><td>94</td><td>1893</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g8k2lb1g4k6db6k1~x2/"><img src="/variants/s7/g8k2lb1g4k6db6k1~x2/sett.png" alt="MacCallum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g8k2w1g4k6db6k1~x2/">MacCallum</a></td><td><code>G/16 K4 W2 G8 K12 DB12 K/2</code></td><td>94</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g8k2w1g4k6db6k1~x2/"><img src="/variants/s7/g8k2w1g4k6db6k1~x2/sett.png" alt="MacCallum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/">MacCallum</a> ★</td><td></td><td><code>G/42 K12 LB6 G22 K34 DB34 K/6</code></td><td>264</td><td>1832</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><img src="/variants/s7/g21k6lb3g11k17db17k3~x2/sett.png" alt="MacCallum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g8k2lb1g4k6db6k1~x2/">MacCallum</a></td><td>0.14</td><td><code>G/16 K4 LB2 G8 K12 DB12 K/2</code></td><td>94</td><td>1893</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g8k2lb1g4k6db6k1~x2/"><img src="/variants/s7/g8k2lb1g4k6db6k1~x2/sett.png" alt="MacCallum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g8k2w1g4k6db6k1~x2/">MacCallum</a></td><td>0.45</td><td><code>G/16 K4 W2 G8 K12 DB12 K/2</code></td><td>94</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g8k2w1g4k6db6k1~x2/"><img src="/variants/s7/g8k2w1g4k6db6k1~x2/sett.png" alt="MacCallum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

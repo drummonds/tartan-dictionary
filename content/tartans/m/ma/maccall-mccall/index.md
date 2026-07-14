@@ -13,10 +13,10 @@ Its design is pattern [BKBGBWBG](/stripes/bkbgbwbg/) — the page of every tarta
 The **MacCall/McCall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/">MacCall/McCall</a></td><td><code>DR/12 K8 DR12 G48 DR12 W4 DR4 G/4</code></td><td>192</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"><img src="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/sett.png" alt="MacCall/McCall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/">MacCall/McCall</a></td><td></td><td><code>DR/12 K8 DR12 G48 DR12 W4 DR4 G/4</code></td><td>192</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"><img src="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/sett.png" alt="MacCall/McCall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

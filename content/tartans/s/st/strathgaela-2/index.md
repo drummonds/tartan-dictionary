@@ -18,10 +18,10 @@ Its design is pattern [BGBGBRBGRRRRRRRGBRBGBG](/stripes/bgbgbrbgrrrrrrrgbrbgbg/)
 The **Strathgaela** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/dg3db3dg11n8r8db4dg3r3ri3r15ri3r15ri3r3dg3db4r8n8dg11db3dg3dp3~x2~r1807008-ri2108022/">Strathgaela</a></td><td><code>DG/6 DB6 DG22 N16 R16 DB8 DG6 R6 Ri6 R30 Ri6 R30 Ri6 R6 DG6 DB8 R16 N16 DG22 DB6 DG6 DP/6</code></td><td>500</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/dg3db3dg11n8r8db4dg3r3ri3r15ri3r15ri3r3dg3db4r8n8dg11db3dg3dp3~x2~r1807008-ri2108022/"><img src="/variants/s22/dg3db3dg11n8r8db4dg3r3ri3r15ri3r15ri3r3dg3db4r8n8dg11db3dg3dp3~x2~r1807008-ri2108022/sett.png" alt="Strathgaela sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/dg3db3dg11n8r8db4dg3r3ri3r15ri3r15ri3r3dg3db4r8n8dg11db3dg3dp3~x2~r1807008-ri2108022/">Strathgaela</a></td><td></td><td><code>DG/6 DB6 DG22 N16 R16 DB8 DG6 R6 Ri6 R30 Ri6 R30 Ri6 R6 DG6 DB8 R16 N16 DG22 DB6 DG6 DP/6</code></td><td>500</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/dg3db3dg11n8r8db4dg3r3ri3r15ri3r15ri3r3dg3db4r8n8dg11db3dg3dp3~x2~r1807008-ri2108022/"><img src="/variants/s22/dg3db3dg11n8r8db4dg3r3ri3r15ri3r15ri3r3dg3db4r8n8dg11db3dg3dp3~x2~r1807008-ri2108022/sett.png" alt="Strathgaela sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Designed by Edyth Baker in 1983 for Essex County, Ontario, with colours represen
 The **Essex County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/ly30k1dr4k1g3dgi5dg4b6dr2w2~x2~dgi1605139-dg1104144/">Essex County</a></td><td><code>LY/60 K2 DR8 K2 G6 DGi10 DG8 B12 DR4 W/4</code></td><td>168</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/ly30k1dr4k1g3dgi5dg4b6dr2w2~x2~dgi1605139-dg1104144/"><img src="/variants/s10/ly30k1dr4k1g3dgi5dg4b6dr2w2~x2~dgi1605139-dg1104144/sett.png" alt="Essex County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/ly30k1dr4k1g3dgi5dg4b6dr2w2~x2~dgi1605139-dg1104144/">Essex County</a></td><td></td><td><code>LY/60 K2 DR8 K2 G6 DGi10 DG8 B12 DR4 W/4</code></td><td>168</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/ly30k1dr4k1g3dgi5dg4b6dr2w2~x2~dgi1605139-dg1104144/"><img src="/variants/s10/ly30k1dr4k1g3dgi5dg4b6dr2w2~x2~dgi1605139-dg1104144/sett.png" alt="Essex County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -17,14 +17,14 @@ The **Forbes LC** tartan is one sett, recorded at 3 scales — the same proporti
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db1k6db6k6g6k1w1~x6/">Forbes LC</a></td><td><code>DB/1 K6 DB6 K6 G6 K1 W/1</code></td><td>52</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><img src="/variants/s7/db1k6db6k6g6k1w1~x6/sett.png" alt="Forbes LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/db1k6db6k6g6k1w1/">Forbes LC</a></td><td><code>DB/1 K6 DB6 K6 G6 K1 W/1</code></td><td>52</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/db1k6db6k6g6k1w1~x2/">Forbes Ancient</a></td><td><code>DB/2 K12 DB12 K12 G12 K2 W/2</code></td><td>104</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s7/db1k6db6k6g6k1w1~x6/">Forbes, Ancient</a></td><td><code>DB/6 K36 DB36 K36 G36 K6 W/6</code></td><td>312</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s7/db1k6db6k6g6k1w1/">Forbes LC</a> · <a href="/variants/s7/db1k6db6k6g6k1w1~x2/">Forbes Ancient</a> · <a href="/variants/s7/db1k6db6k6g6k1w1~x6/">Forbes, Ancient</a></td></tr>
+<tr><td><a href="/variants/s7/db1k6db6k6g6k1w1~x6/">Forbes LC</a></td><td></td><td><code>DB/1 K6 DB6 K6 G6 K1 W/1</code></td><td>52</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><img src="/variants/s7/db1k6db6k6g6k1w1~x6/sett.png" alt="Forbes LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/db1k6db6k6g6k1w1/">Forbes LC</a></td><td>0.00</td><td><code>DB/1 K6 DB6 K6 G6 K1 W/1</code></td><td>52</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/db1k6db6k6g6k1w1~x2/">Forbes Ancient</a></td><td>0.00</td><td><code>DB/2 K12 DB12 K12 G12 K2 W/2</code></td><td>104</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s7/db1k6db6k6g6k1w1~x6/">Forbes, Ancient</a></td><td>0.00</td><td><code>DB/6 K36 DB36 K36 G36 K6 W/6</code></td><td>312</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s7/db1k6db6k6g6k1w1/">Forbes LC</a> · <a href="/variants/s7/db1k6db6k6g6k1w1~x2/">Forbes Ancient</a> · <a href="/variants/s7/db1k6db6k6g6k1w1~x6/">Forbes, Ancient</a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [YKYKGGGKYKYKY](/stripes/ykykgggkykyky/) — the page of e
 The **Poulter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/">Poulter</a></td><td><code>LR/50 K8 LR8 K8 LR8 K46 G46 Y8 G46 K46 LR46 K8 LR/8</code></td><td>614</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/"><img src="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/sett.png" alt="Poulter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/">Poulter</a></td><td></td><td><code>LR/50 K8 LR8 K8 LR8 K46 G46 Y8 G46 K46 LR46 K8 LR/8</code></td><td>614</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/"><img src="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/sett.png" alt="Poulter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

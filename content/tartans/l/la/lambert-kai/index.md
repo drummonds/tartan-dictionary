@@ -20,12 +20,12 @@ The **Lambert Kai** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k3g34db10g5r2k8dy2w3~x2/">Lambert Kai</a> ★</td><td><code>K/6 G68 DB20 G10 R4 K16 DY4 W/6</code></td><td>256</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3g34db10g5r2k8dy2w3~x2/"><img src="/variants/s8/k3g34db10g5r2k8dy2w3~x2/sett.png" alt="Lambert Kai sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/">(Personal)</a></td><td><code>K/6 G68 T20 G10 R4 K16 DY4 W/6</code></td><td>256</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/"><img src="/variants/s8/k3g34t10g5r2k8dy2w3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3g34db10g5r2k8dy2w3~x2/">Lambert Kai</a> ★</td><td></td><td><code>K/6 G68 DB20 G10 R4 K16 DY4 W/6</code></td><td>256</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k3g34db10g5r2k8dy2w3~x2/"><img src="/variants/s8/k3g34db10g5r2k8dy2w3~x2/sett.png" alt="Lambert Kai sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/">(Personal)</a></td><td>0.09</td><td><code>K/6 G68 T20 G10 R4 K16 DY4 W/6</code></td><td>256</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/"><img src="/variants/s8/k3g34t10g5r2k8dy2w3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGKYKYKBBKBKY](/stripes/bgkykykbbkbky/) — the page of e
 The **Galt, Alexander, Sir** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dr4g20k16ly2k3lr3k2db18dr6k2dr4k1lr2~x4/">Galt, Alexander, Sir</a></td><td><code>DR/16 G80 K64 LY8 K12 LR12 K8 DB72 DR24 K8 DR16 K4 LR/8</code></td><td>640</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dr4g20k16ly2k3lr3k2db18dr6k2dr4k1lr2~x4/"><img src="/variants/s13/dr4g20k16ly2k3lr3k2db18dr6k2dr4k1lr2~x4/sett.png" alt="Galt, Alexander, Sir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dr4g20k16ly2k3lr3k2db18dr6k2dr4k1lr2~x4/">Galt, Alexander, Sir</a></td><td></td><td><code>DR/16 G80 K64 LY8 K12 LR12 K8 DB72 DR24 K8 DR16 K4 LR/8</code></td><td>640</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dr4g20k16ly2k3lr3k2db18dr6k2dr4k1lr2~x4/"><img src="/variants/s13/dr4g20k16ly2k3lr3k2db18dr6k2dr4k1lr2~x4/sett.png" alt="Galt, Alexander, Sir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

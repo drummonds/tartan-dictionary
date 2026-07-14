@@ -18,10 +18,10 @@ Its design is pattern [BGBKBKBGBGKG](/stripes/bgbkbkbgbgkg/) — the page of eve
 The **Moon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db6g3db24k2db4k16db5g2db23g2k2y2~x2/">Moon</a></td><td><code>DB/12 G6 DB48 K4 DB8 K32 DB10 G4 DB46 G4 K4 Y/4</code></td><td>348</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db6g3db24k2db4k16db5g2db23g2k2y2~x2/"><img src="/variants/s12/db6g3db24k2db4k16db5g2db23g2k2y2~x2/sett.png" alt="Moon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db6g3db24k2db4k16db5g2db23g2k2y2~x2/">Moon</a></td><td></td><td><code>DB/12 G6 DB48 K4 DB8 K32 DB10 G4 DB46 G4 K4 Y/4</code></td><td>348</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db6g3db24k2db4k16db5g2db23g2k2y2~x2/"><img src="/variants/s12/db6g3db24k2db4k16db5g2db23g2k2y2~x2/sett.png" alt="Moon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

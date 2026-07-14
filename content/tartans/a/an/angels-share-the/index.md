@@ -13,10 +13,10 @@ Its design is pattern [BBBGBGBGWGY](/stripes/bbbgbgbgwgy/) — the page of every
 The **Angels' Share, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lo40y10w6dy10do6dy4do6dy4do60n34db11/">Angels' Share, The</a></td><td><code>LO/40 Y10 W6 DY10 DO6 DY4 DO6 DY4 DO60 N34 DB/11</code></td><td>331</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lo40y10w6dy10do6dy4do6dy4do60n34db11/"><img src="/variants/s11/lo40y10w6dy10do6dy4do6dy4do60n34db11/sett.png" alt="Angels' Share, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lo40y10w6dy10do6dy4do6dy4do60n34db11/">Angels' Share, The</a></td><td></td><td><code>LO/40 Y10 W6 DY10 DO6 DY4 DO6 DY4 DO60 N34 DB/11</code></td><td>331</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lo40y10w6dy10do6dy4do6dy4do60n34db11/"><img src="/variants/s11/lo40y10w6dy10do6dy4do6dy4do60n34db11/sett.png" alt="Angels' Share, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

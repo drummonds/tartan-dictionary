@@ -18,10 +18,10 @@ Its design is pattern [WGYGYKYGW](/stripes/wgygykygw/) — the page of every tar
 The **Australian Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/">Australian Dress</a></td><td><code>W/100 DY8 LY4 K4 LY4 DY8 LY20 DY30 LB/4</code></td><td>260</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/"><img src="/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/sett.png" alt="Australian Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/">Australian Dress</a></td><td></td><td><code>W/100 DY8 LY4 K4 LY4 DY8 LY20 DY30 LB/4</code></td><td>260</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/"><img src="/variants/s9/w50dy4ly2k2ly2dy4ly10dy15lb2~x2/sett.png" alt="Australian Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

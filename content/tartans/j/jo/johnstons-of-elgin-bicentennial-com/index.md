@@ -18,10 +18,10 @@ Its design is pattern [BRBGBBRBW](/stripes/brbgbbrbw/) — the page of every tar
 The **Johnstons of Elgin Bicentennial (Com** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/">Johnstons of Elgin Bicentennial (Com</a></td><td><code>DT/50 R28 DT16 DY28 T10 DT24 O12 DT16 LB/4</code></td><td>322</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/"><img src="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/sett.png" alt="Johnstons of Elgin Bicentennial (Com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/">Johnstons of Elgin Bicentennial (Com</a></td><td></td><td><code>DT/50 R28 DT16 DY28 T10 DT24 O12 DT16 LB/4</code></td><td>322</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/"><img src="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/sett.png" alt="Johnstons of Elgin Bicentennial (Com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

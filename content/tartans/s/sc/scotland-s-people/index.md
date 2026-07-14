@@ -13,10 +13,10 @@ Its design is pattern [GRGRKRKRKRGR](/stripes/grgrkrkrkrgr/) — the page of eve
 The **Scotland's People** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r7y3r27k14o5k3o5k3o8g3o4g4~x2/">Scotland's People</a></td><td><code>R/14 Y6 R54 K28 O10 K6 O10 K6 O16 G6 O8 G/8</code></td><td>322</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r7y3r27k14o5k3o5k3o8g3o4g4~x2/"><img src="/variants/s12/r7y3r27k14o5k3o5k3o8g3o4g4~x2/sett.png" alt="Scotland's People sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r7y3r27k14o5k3o5k3o8g3o4g4~x2/">Scotland's People</a></td><td></td><td><code>R/14 Y6 R54 K28 O10 K6 O10 K6 O16 G6 O8 G/8</code></td><td>322</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r7y3r27k14o5k3o5k3o8g3o4g4~x2/"><img src="/variants/s12/r7y3r27k14o5k3o5k3o8g3o4g4~x2/sett.png" alt="Scotland's People sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

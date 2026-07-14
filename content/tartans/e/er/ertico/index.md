@@ -13,10 +13,10 @@ Its design is pattern [KYBBRBRBBW](/stripes/kybbrbrbbw/) — the page of every t
 The **Ertico** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/">Ertico</a></td><td><code>K/12 LY4 DBi4 DB24 R8 DB4 R4 DB4 DBi40 LB/4</code></td><td>200</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/"><img src="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/sett.png" alt="Ertico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/">Ertico</a></td><td></td><td><code>K/12 LY4 DBi4 DB24 R8 DB4 R4 DB4 DBi40 LB/4</code></td><td>200</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/"><img src="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/sett.png" alt="Ertico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

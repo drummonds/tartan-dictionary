@@ -13,10 +13,10 @@ Its design is pattern [BBKBKBKGWBWG](/stripes/bbkbkbkgwbwg/) — the page of eve
 The **Scotch House** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/">Scotch House</a></td><td><code>DG/8 W6 B6 W6 DG24 K12 B8 K6 B8 K6 B24 DR/6</code></td><td>226</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/"><img src="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/sett.png" alt="Scotch House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/">Scotch House</a></td><td></td><td><code>DG/8 W6 B6 W6 DG24 K12 B8 K6 B8 K6 B24 DR/6</code></td><td>226</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/"><img src="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/sett.png" alt="Scotch House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

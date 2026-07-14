@@ -20,10 +20,10 @@ Designed in 1997 for Christopher Allen Holler of Winter Park, Florida, for anyon
 The **Allen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/">Allen</a></td><td><code>R/4 G24 K8 DB22 R4 DB22 K8 DB4 K18 DB4 K18 DB4 K8 DB22 DY4 DB22 K8 G24 R4 G4 R4 G24 K8 DB22 DY4 DB22 K8 DB4 K18 DB4 K18 DB4 K8 DB22 R4 DB22 K8 G24 R4 G/4</code></td><td>936</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><img src="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/sett.png" alt="Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/">Allen</a></td><td></td><td><code>R/4 G24 K8 DB22 R4 DB22 K8 DB4 K18 DB4 K18 DB4 K8 DB22 DY4 DB22 K8 G24 R4 G4 R4 G24 K8 DB22 DY4 DB22 K8 DB4 K18 DB4 K18 DB4 K8 DB22 R4 DB22 K8 G24 R4 G/4</code></td><td>936</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><img src="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/sett.png" alt="Allen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [WRGBRGRBGRGWRWRWGRGBRGRBGRW](/stripes/wrgbrgrbgrgwrwrwgrg
 The **MacKinnon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/">MacKinnon</a></td><td><code>W/8 R12 G8 DB8 R24 G64 R8 DB16 G8 R64 G32 W8 R16 W8 R16 W8 G32 R64 G8 DB16 R8 G64 R24 DB8 G8 R12 W/2</code></td><td>1098</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/"><img src="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/">MacKinnon</a></td><td></td><td><code>W/8 R12 G8 DB8 R24 G64 R8 DB16 G8 R64 G32 W8 R16 W8 R16 W8 G32 R64 G8 DB16 R8 G64 R24 DB8 G8 R12 W/2</code></td><td>1098</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/"><img src="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGKWGGK](/stripes/ggkwggk/) — the page of every tartan 
 The **Verble** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g4y1k1lb4g1y1k1~x12/">Verble</a></td><td><code>G/48 Y12 K12 LB48 G12 Y12 K/12</code></td><td>252</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g4y1k1lb4g1y1k1~x12/"><img src="/variants/s7/g4y1k1lb4g1y1k1~x12/sett.png" alt="Verble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g4y1k1lb4g1y1k1~x12/">Verble</a></td><td></td><td><code>G/48 Y12 K12 LB48 G12 Y12 K/12</code></td><td>252</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g4y1k1lb4g1y1k1~x12/"><img src="/variants/s7/g4y1k1lb4g1y1k1~x12/sett.png" alt="Verble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBKRK](/stripes/gbkrk/) — the page of every tartan shar
 The **Robert Gordon University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k7r3k24b28y3~x2/">Robert Gordon University</a></td><td><code>K/14 R6 K48 B56 Y/6</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k7r3k24b28y3~x2/"><img src="/variants/s5/k7r3k24b28y3~x2/sett.png" alt="Robert Gordon University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k7r3k24b28y3~x2/">Robert Gordon University</a></td><td></td><td><code>K/14 R6 K48 B56 Y/6</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k7r3k24b28y3~x2/"><img src="/variants/s5/k7r3k24b28y3~x2/sett.png" alt="Robert Gordon University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

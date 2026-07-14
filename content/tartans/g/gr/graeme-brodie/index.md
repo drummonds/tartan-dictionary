@@ -13,10 +13,10 @@ Its design is pattern [RKBRRBRBKBBBKBRBRRBKR](/stripes/rkbrrbrbkbbbkbrbrrbkr/) â
 The **Graeme Brodie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2~ri1606028/">Graeme Brodie</a></td><td><code>Ri/2 K38 DO8 Ri8 R2 DO6 Ri4 DO6 K74 DO4 N4 DO4 K74 DO6 Ri4 DO6 R2 Ri8 DO8 K38 Ri/2</code></td><td>612</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2~ri1606028/"><img src="/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2~ri1606028/sett.png" alt="Graeme Brodie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2~ri1606028/">Graeme Brodie</a></td><td></td><td><code>Ri/2 K38 DO8 Ri8 R2 DO6 Ri4 DO6 K74 DO4 N4 DO4 K74 DO6 Ri4 DO6 R2 Ri8 DO8 K38 Ri/2</code></td><td>612</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2~ri1606028/"><img src="/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2~ri1606028/sett.png" alt="Graeme Brodie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

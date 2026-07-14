@@ -22,22 +22,22 @@ The **MacPherson Hunting** tartan groups 4 setts — the same named design recor
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/">MacPherson Hunting</a> ★</td><td><code>DB/1 R1 K8 R1 DB1 R1 W8 R1 DB/1</code></td><td>44</td><td>1893</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/"><img src="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/sett.png" alt="MacPherson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x2/">MacPherson Hunting</a></td><td><code>DB/2 R2 K16 R2 DB2 R2 W16 R2 DB/2</code></td><td>88</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/">MacPherson</a></td><td><code>DB/6 R6 K48 R6 DB6 R6 W48 R6 DB/6</code></td><td>264</td><td>1893</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x2/">MacPherson Hunting</a> · <a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/">MacPherson</a></td></tr>
-<tr><td><a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x4/">MacPherson of Pitmain</a></td><td><code>DB/1 R1 K8 R1 DB1 R1 N8 R1 DB/1</code></td><td>44</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x4/"><img src="/variants/s9/db1r1k8r1db1r1n8r1db1~x4/sett.png" alt="MacPherson of Pitmain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x2/">MacPherson Hunting</a></td><td><code>DB/2 R2 K16 R2 DB2 R2 N16 R2 DB/2</code></td><td>88</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x4/">MacPherson of Pitmain</a></td><td><code>DB/4 R4 K32 R4 DB4 R4 N32 R4 DB/4</code></td><td>176</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x2/">MacPherson Hunting</a> · <a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x4/">MacPherson of Pitmain</a></td></tr>
-<tr><td><a href="/variants/s9/t11r1k8r1t1r1n8r1t1~x4/">MacPherson Hunting</a></td><td><code>T/44 R4 K32 R4 T4 R4 N32 R4 T/4</code></td><td>216</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/t11r1k8r1t1r1n8r1t1~x4/"><img src="/variants/s9/t11r1k8r1t1r1n8r1t1~x4/sett.png" alt="MacPherson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/">MacPherson Htg</a></td><td><code>T/4 R4 K32 R4 T4 R4 N32 R4 T/4</code></td><td>176</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/"><img src="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/sett.png" alt="MacPherson Htg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/">MacPherson Hunting</a> ★</td><td></td><td><code>DB/1 R1 K8 R1 DB1 R1 W8 R1 DB/1</code></td><td>44</td><td>1893</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/"><img src="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/sett.png" alt="MacPherson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x2/">MacPherson Hunting</a></td><td>0.00</td><td><code>DB/2 R2 K16 R2 DB2 R2 W16 R2 DB/2</code></td><td>88</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/">MacPherson</a></td><td>0.00</td><td><code>DB/6 R6 K48 R6 DB6 R6 W48 R6 DB/6</code></td><td>264</td><td>1893</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x2/">MacPherson Hunting</a> · <a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/">MacPherson</a></td></tr>
+<tr><td><a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x4/">MacPherson of Pitmain</a></td><td>0.20</td><td><code>DB/1 R1 K8 R1 DB1 R1 N8 R1 DB/1</code></td><td>44</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x4/"><img src="/variants/s9/db1r1k8r1db1r1n8r1db1~x4/sett.png" alt="MacPherson of Pitmain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x2/">MacPherson Hunting</a></td><td>0.20</td><td><code>DB/2 R2 K16 R2 DB2 R2 N16 R2 DB/2</code></td><td>88</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x4/">MacPherson of Pitmain</a></td><td>0.20</td><td><code>DB/4 R4 K32 R4 DB4 R4 N32 R4 DB/4</code></td><td>176</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x2/">MacPherson Hunting</a> · <a href="/variants/s9/db1r1k8r1db1r1n8r1db1~x4/">MacPherson of Pitmain</a></td></tr>
+<tr><td><a href="/variants/s9/t11r1k8r1t1r1n8r1t1~x4/">MacPherson Hunting</a></td><td>0.63</td><td><code>T/44 R4 K32 R4 T4 R4 N32 R4 T/4</code></td><td>216</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/t11r1k8r1t1r1n8r1t1~x4/"><img src="/variants/s9/t11r1k8r1t1r1n8r1t1~x4/sett.png" alt="MacPherson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/">MacPherson Htg</a></td><td>0.22</td><td><code>T/4 R4 K32 R4 T4 R4 N32 R4 T/4</code></td><td>176</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/"><img src="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/sett.png" alt="MacPherson Htg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

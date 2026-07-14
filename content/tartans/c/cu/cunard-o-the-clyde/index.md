@@ -15,10 +15,10 @@ Created in 2015 to celebrate Cunard's 175th anniversary and its historical link 
 The **Cunard O' The Clyde** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/">Cunard O' The Clyde</a></td><td><code>R/40 K12 W4 K60 LY4 W12 K12 LY/4</code></td><td>252</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><img src="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/sett.png" alt="Cunard O' The Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/">Cunard O' The Clyde</a></td><td></td><td><code>R/40 K12 W4 K60 LY4 W12 K12 LY/4</code></td><td>252</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><img src="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/sett.png" alt="Cunard O' The Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

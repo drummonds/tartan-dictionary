@@ -15,12 +15,12 @@ The **Harbor Club** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/">Harbor Club</a> ★</td><td><code>R/47 DG14 K5 Y2 K3 DG7 K3 Y2 K5 DG/14</code></td><td>—</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/"><img src="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/sett.png" alt="Harbor Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r47dg14k5y2k3dg7~x2/">(Corporate)</a></td><td><code>R/94 DG28 K10 Y4 K6 DG/14</code></td><td>204</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r47dg14k5y2k3dg7~x2/"><img src="/variants/s6/r47dg14k5y2k3dg7~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/">Harbor Club</a> ★</td><td></td><td><code>R/47 DG14 K5 Y2 K3 DG7 K3 Y2 K5 DG/14</code></td><td>—</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/"><img src="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/sett.png" alt="Harbor Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r47dg14k5y2k3dg7~x2/">(Corporate)</a></td><td>0.00</td><td><code>R/94 DG28 K10 Y4 K6 DG/14</code></td><td>204</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r47dg14k5y2k3dg7~x2/"><img src="/variants/s6/r47dg14k5y2k3dg7~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

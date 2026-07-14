@@ -13,10 +13,10 @@ Its design is pattern [BWBBBBBBBBKBKBKBBBBBBBBW](/stripes/bwbbbbbbbbkbkbkbbbbbbb
 The **Institute of Directors** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/">Institute of Directors</a></td><td><code>DP/50 W4 DP12 B4 DP10 B8 DP4 B6 DP4 B10 K12 B5 K42 B6 K12 B10 DP4 B6 DP4 B8 DP10 B4 DP12 W/4</code></td><td>448</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/"><img src="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/sett.png" alt="Institute of Directors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/">Institute of Directors</a></td><td></td><td><code>DP/50 W4 DP12 B4 DP10 B8 DP4 B6 DP4 B10 K12 B5 K42 B6 K12 B10 DP4 B6 DP4 B8 DP10 B4 DP12 W/4</code></td><td>448</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/"><img src="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/sett.png" alt="Institute of Directors sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

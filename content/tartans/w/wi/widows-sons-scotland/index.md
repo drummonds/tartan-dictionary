@@ -13,10 +13,10 @@ Its design is pattern [BKGKBG](/stripes/bkgkbg/) — the page of every tartan sh
 The **Widows Sons Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/n9k16dg10k22dp67y4/">Widows Sons Scotland</a></td><td><code>N/9 K16 DG10 K22 DP67 Y/4</code></td><td>243</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/n9k16dg10k22dp67y4/"><img src="/variants/s6/n9k16dg10k22dp67y4/sett.png" alt="Widows Sons Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/n9k16dg10k22dp67y4/">Widows Sons Scotland</a></td><td></td><td><code>N/9 K16 DG10 K22 DP67 Y/4</code></td><td>243</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/n9k16dg10k22dp67y4/"><img src="/variants/s6/n9k16dg10k22dp67y4/sett.png" alt="Widows Sons Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

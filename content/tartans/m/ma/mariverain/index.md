@@ -20,10 +20,10 @@ Asymmetrical corporate tartan designed pre-2002 by French Canadians Madelaine Sa
 The **Mariverain** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/">Mariverain</a></td><td><code>DB/40 DR8 DB40 G56 DB24 LO8 DB32 DR40 G16 LO16 G/16</code></td><td>536</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/"><img src="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/sett.png" alt="Mariverain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/">Mariverain</a></td><td></td><td><code>DB/40 DR8 DB40 G56 DB24 LO8 DB32 DR40 G16 LO16 G/16</code></td><td>536</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/"><img src="/variants/s11/db5dr1db5g7db3lo1db4dr5g2lo2g2~x8/sett.png" alt="Mariverain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

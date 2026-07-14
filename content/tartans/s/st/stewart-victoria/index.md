@@ -16,10 +16,10 @@ Its design is pattern [BWBWKYKWKGBKBWBKBGKWKYKWBW](/stripes/bwbwkykwkgbkbwbkbgkw
 The **Stewart Victoria** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/lb24t3lb3k6lo1k1lb1k1g8dr4k1dr2lb1dr2k1dr4g8k1lb1k1lo1k6lb3t3lb24dr2~x4/">Stewart Victoria</a></td><td><code>LB/96 T12 LB12 K24 LO4 K4 LB4 K4 G32 DR16 K4 DR8 LB4 DR8 K4 DR16 G32 K4 LB4 K4 LO4 K24 LB12 T12 LB96 DR/8</code></td><td>800</td><td>1881</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/lb24t3lb3k6lo1k1lb1k1g8dr4k1dr2lb1dr2k1dr4g8k1lb1k1lo1k6lb3t3lb24dr2~x4/"><img src="/variants/s26/lb24t3lb3k6lo1k1lb1k1g8dr4k1dr2lb1dr2k1dr4g8k1lb1k1lo1k6lb3t3lb24dr2~x4/sett.png" alt="Stewart Victoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/lb24t3lb3k6lo1k1lb1k1g8dr4k1dr2lb1dr2k1dr4g8k1lb1k1lo1k6lb3t3lb24dr2~x4/">Stewart Victoria</a></td><td></td><td><code>LB/96 T12 LB12 K24 LO4 K4 LB4 K4 G32 DR16 K4 DR8 LB4 DR8 K4 DR16 G32 K4 LB4 K4 LO4 K24 LB12 T12 LB96 DR/8</code></td><td>800</td><td>1881</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/lb24t3lb3k6lo1k1lb1k1g8dr4k1dr2lb1dr2k1dr4g8k1lb1k1lo1k6lb3t3lb24dr2~x4/"><img src="/variants/s26/lb24t3lb3k6lo1k1lb1k1g8dr4k1dr2lb1dr2k1dr4g8k1lb1k1lo1k6lb3t3lb24dr2~x4/sett.png" alt="Stewart Victoria sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

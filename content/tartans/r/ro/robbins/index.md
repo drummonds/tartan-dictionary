@@ -20,12 +20,12 @@ The **Robbins** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db1dr3db1dr3db6g1~x8/">Robbins</a> ★</td><td><code>DB/8 DR24 DB8 DR24 DB48 G/8</code></td><td>224</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db1dr3db1dr3db6g1~x8/"><img src="/variants/s6/db1dr3db1dr3db6g1~x8/sett.png" alt="Robbins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db1r3db1r3db6g1~x4/">Robbins</a></td><td><code>DB/4 R12 DB4 R12 DB24 G/4</code></td><td>112</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db1r3db1r3db6g1~x4/"><img src="/variants/s6/db1r3db1r3db6g1~x4/sett.png" alt="Robbins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db1dr3db1dr3db6g1~x8/">Robbins</a> ★</td><td></td><td><code>DB/8 DR24 DB8 DR24 DB48 G/8</code></td><td>224</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db1dr3db1dr3db6g1~x8/"><img src="/variants/s6/db1dr3db1dr3db6g1~x8/sett.png" alt="Robbins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db1r3db1r3db6g1~x4/">Robbins</a></td><td>0.17</td><td><code>DB/4 R12 DB4 R12 DB24 G/4</code></td><td>112</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db1r3db1r3db6g1~x4/"><img src="/variants/s6/db1r3db1r3db6g1~x4/sett.png" alt="Robbins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RWBRBRWRWRWRY](/stripes/rwbrbrwrwrwry/) — the page of e
 The **ESPRAS** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/">ESPRAS</a></td><td><code>Ri/4 W2 DB72 Ri2 DB4 R6 W2 R6 W2 R6 W2 R20 LY/4</code></td><td>256</td><td>~2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/"><img src="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/sett.png" alt="ESPRAS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/">ESPRAS</a></td><td></td><td><code>Ri/4 W2 DB72 Ri2 DB4 R6 W2 R6 W2 R6 W2 R20 LY/4</code></td><td>256</td><td>~2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/"><img src="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/sett.png" alt="ESPRAS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

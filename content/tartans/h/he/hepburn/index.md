@@ -18,10 +18,10 @@ Its design is pattern [BRGRKGKGKBRBKGKGKRGRBG](/stripes/brgrkgkgkbrbkgkgkrgrbg/)
 The **Hepburn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2~x4/">Hepburn</a></td><td><code>DB/12 R8 G16 R28 K8 Y8 K8 Y8 K20 DB16 R84 DB16 K20 Y8 K8 Y8 K8 R28 G16 R8 DB12 Y/8</code></td><td>692</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><img src="/variants/s22/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2~x4/sett.png" alt="Hepburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2~x4/">Hepburn</a></td><td></td><td><code>DB/12 R8 G16 R28 K8 Y8 K8 Y8 K20 DB16 R84 DB16 K20 Y8 K8 Y8 K8 R28 G16 R8 DB12 Y/8</code></td><td>692</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><img src="/variants/s22/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2~x4/sett.png" alt="Hepburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

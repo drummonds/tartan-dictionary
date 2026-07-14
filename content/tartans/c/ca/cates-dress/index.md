@@ -18,10 +18,10 @@ Its design is pattern [GWRKRKGBKGKR](/stripes/gwrkrkgbkgkr/) — the page of eve
 The **Cates Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/">Cates Dress</a></td><td><code>Y/4 W2 R4 K40 R18 K40 Y14 N40 K10 Y2 K2 R/2</code></td><td>350</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/"><img src="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/sett.png" alt="Cates Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/">Cates Dress</a></td><td></td><td><code>Y/4 W2 R4 K40 R18 K40 Y14 N40 K10 Y2 K2 R/2</code></td><td>350</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/"><img src="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/sett.png" alt="Cates Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

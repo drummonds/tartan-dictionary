@@ -22,15 +22,15 @@ The **Ledford** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/g9n4dy1~x4/">Ledford</a> ★</td><td><code>G/9 N4 DY/1</code></td><td>18</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/g9n4dy1~x4/"><img src="/variants/s3/g9n4dy1~x4/sett.png" alt="Ledford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s3/g9n4dy1~x4/">Family Tartan</a></td><td><code>G/36 N16 DY/4</code></td><td>72</td><td>1987</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s3/g9n4dy1~x8/">Ledford</a></td><td><code>G/72 N32 DY/8</code></td><td>144</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s3/g9n4dy1~x4/">Family Tartan</a> · <a href="/variants/s3/g9n4dy1~x8/">Ledford</a></td></tr>
-<tr><td><a href="/variants/s3/g9n4ly1~x16/">(Name)</a></td><td><code>G/144 N64 LY/16</code></td><td>288</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/g9n4ly1~x16/"><img src="/variants/s3/g9n4ly1~x16/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/g9n4dy1~x4/">Ledford</a> ★</td><td></td><td><code>G/9 N4 DY/1</code></td><td>18</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/g9n4dy1~x4/"><img src="/variants/s3/g9n4dy1~x4/sett.png" alt="Ledford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s3/g9n4dy1~x4/">Family Tartan</a></td><td>0.00</td><td><code>G/36 N16 DY/4</code></td><td>72</td><td>1987</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s3/g9n4dy1~x8/">Ledford</a></td><td>0.00</td><td><code>G/72 N32 DY/8</code></td><td>144</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s3/g9n4dy1~x4/">Family Tartan</a> · <a href="/variants/s3/g9n4dy1~x8/">Ledford</a></td></tr>
+<tr><td><a href="/variants/s3/g9n4ly1~x16/">(Name)</a></td><td>0.08</td><td><code>G/144 N64 LY/16</code></td><td>288</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/g9n4ly1~x16/"><img src="/variants/s3/g9n4ly1~x16/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

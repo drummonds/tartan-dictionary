@@ -18,10 +18,10 @@ Its design is pattern [BKRGRKRGRKBRKRBKRKRGR](/stripes/bkrgrkrgrkbrkrbkrkrgr/) â
 The **Buchan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/r6g6r2k24r2k2db2r2k24r2db6k6r2g27r2k2r2g27r2k6db2~x2/">Buchan</a></td><td><code>R/12 G12 R4 K48 R4 K4 DB4 R4 K48 R4 DB12 K12 R4 G54 R4 K4 R4 G54 R4 K12 DB/4</code></td><td>608</td><td>~1790</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/r6g6r2k24r2k2db2r2k24r2db6k6r2g27r2k2r2g27r2k6db2~x2/"><img src="/variants/s21/r6g6r2k24r2k2db2r2k24r2db6k6r2g27r2k2r2g27r2k6db2~x2/sett.png" alt="Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/r6g6r2k24r2k2db2r2k24r2db6k6r2g27r2k2r2g27r2k6db2~x2/">Buchan</a></td><td></td><td><code>R/12 G12 R4 K48 R4 K4 DB4 R4 K48 R4 DB12 K12 R4 G54 R4 K4 R4 G54 R4 K12 DB/4</code></td><td>608</td><td>~1790</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/r6g6r2k24r2k2db2r2k24r2db6k6r2g27r2k2r2g27r2k6db2~x2/"><img src="/variants/s21/r6g6r2k24r2k2db2r2k24r2db6k6r2g27r2k2r2g27r2k6db2~x2/sett.png" alt="Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

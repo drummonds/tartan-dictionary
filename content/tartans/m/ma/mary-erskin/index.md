@@ -13,10 +13,10 @@ Its design is pattern [BBBBBB](/stripes/bbbbbb/) — the page of every tartan sh
 The **Mary Erskin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/">Mary Erskin</a></td><td><code>DT/12 DR2 DT48 DR56 DT2 DR/8</code></td><td>236</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/"><img src="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/sett.png" alt="Mary Erskin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/">Mary Erskin</a></td><td></td><td><code>DT/12 DR2 DT48 DR56 DT2 DR/8</code></td><td>236</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/"><img src="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/sett.png" alt="Mary Erskin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

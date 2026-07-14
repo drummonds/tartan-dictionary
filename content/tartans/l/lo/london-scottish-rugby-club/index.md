@@ -13,10 +13,10 @@ Its design is pattern [KGBWBR](/stripes/kgbwbr/) — the page of every tartan sh
 The **London Scottish Rugby Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r5db40w1db13g8k4~x2/">London Scottish Rugby Club</a></td><td><code>R/10 DB80 W2 DB26 G16 K/8</code></td><td>266</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r5db40w1db13g8k4~x2/"><img src="/variants/s6/r5db40w1db13g8k4~x2/sett.png" alt="London Scottish Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r5db40w1db13g8k4~x2/">London Scottish Rugby Club</a></td><td></td><td><code>R/10 DB80 W2 DB26 G16 K/8</code></td><td>266</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r5db40w1db13g8k4~x2/"><img src="/variants/s6/r5db40w1db13g8k4~x2/sett.png" alt="London Scottish Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

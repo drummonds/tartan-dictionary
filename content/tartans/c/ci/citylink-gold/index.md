@@ -13,10 +13,10 @@ Its design is pattern [BWBYBWWY](/stripes/bwbybwwy/) — the page of every tarta
 The **Citylink Gold** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/">Citylink Gold</a></td><td><code>DR/50 LB4 DR6 LY4 DR6 LB22 W26 LY/2</code></td><td>188</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/"><img src="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/sett.png" alt="Citylink Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/">Citylink Gold</a></td><td></td><td><code>DR/50 LB4 DR6 LY4 DR6 LB22 W26 LY/2</code></td><td>188</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/"><img src="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/sett.png" alt="Citylink Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

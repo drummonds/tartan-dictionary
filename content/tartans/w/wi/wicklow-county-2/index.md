@@ -13,10 +13,10 @@ Its design is pattern [BBGBBWBBBG](/stripes/bbgbbwbbbg/) — the page of every t
 The **Wicklow, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/">Wicklow, County</a></td><td><code>DO/4 N8 G24 N4 DO12 LB4 N48 DO4 N4 G/4</code></td><td>224</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/"><img src="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/sett.png" alt="Wicklow, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/">Wicklow, County</a></td><td></td><td><code>DO/4 N8 G24 N4 DO12 LB4 N48 DO4 N4 G/4</code></td><td>224</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/"><img src="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/sett.png" alt="Wicklow, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

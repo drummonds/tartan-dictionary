@@ -13,10 +13,10 @@ Its design is pattern [BWGWGWBWGWGWGWGWGWGWRGWGWGWGWGWGW](/stripes/bwgwgwbwgwgwg
 The **Invermark** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s33/db2w2dy2w2dy2w2db2w2dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1r1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1~x2/">Invermark</a></td><td><code>DB/4 W4 DY4 W4 DY4 W4 DB4 W4 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 R2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W/2</code></td><td>158</td><td>~1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s33/db2w2dy2w2dy2w2db2w2dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1r1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1~x2/"><img src="/variants/s33/db2w2dy2w2dy2w2db2w2dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1r1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1~x2/sett.png" alt="Invermark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s33/db2w2dy2w2dy2w2db2w2dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1r1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1~x2/">Invermark</a></td><td></td><td><code>DB/4 W4 DY4 W4 DY4 W4 DB4 W4 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 R2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W/2</code></td><td>158</td><td>~1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s33/db2w2dy2w2dy2w2db2w2dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1r1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1~x2/"><img src="/variants/s33/db2w2dy2w2dy2w2db2w2dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1r1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1~x2/sett.png" alt="Invermark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

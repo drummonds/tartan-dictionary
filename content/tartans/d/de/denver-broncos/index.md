@@ -13,10 +13,10 @@ Its design is pattern [BWWBGBGBWWBYBY](/stripes/bwwbgbgbwwbyby/) — the page of
 The **Denver Broncos** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10~x2/">Denver Broncos</a></td><td><code>DB/20 W6 LP8 DB12 Y4 DB4 Y4 DB12 LP8 W6 DB20 LO10 DB4 LO/20</code></td><td>236</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10~x2/"><img src="/variants/s14/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10~x2/sett.png" alt="Denver Broncos sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10~x2/">Denver Broncos</a></td><td></td><td><code>DB/20 W6 LP8 DB12 Y4 DB4 Y4 DB12 LP8 W6 DB20 LO10 DB4 LO/20</code></td><td>236</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10~x2/"><img src="/variants/s14/db10w3lp4db6y2db2y2db6lp4w3db10lo5db2lo10~x2/sett.png" alt="Denver Broncos sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

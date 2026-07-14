@@ -13,10 +13,10 @@ Its design is pattern [KWKRBBKGWBRBGRKWK](/stripes/kwkrbbkgwbrbgrkwk/) — the p
 The **Brinkie's Brae** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/">Brinkie's Brae</a></td><td><code>K/6 W8 K6 R36 DB2 N36 K2 G36 W2 DB36 R2 N36 G2 R36 K6 W8 K/6</code></td><td>520</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/"><img src="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/sett.png" alt="Brinkie's Brae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/">Brinkie's Brae</a></td><td></td><td><code>K/6 W8 K6 R36 DB2 N36 K2 G36 W2 DB36 R2 N36 G2 R36 K6 W8 K/6</code></td><td>520</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/"><img src="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/sett.png" alt="Brinkie's Brae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

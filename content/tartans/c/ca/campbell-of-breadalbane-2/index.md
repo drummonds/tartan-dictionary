@@ -20,10 +20,10 @@ Campbell of Breadalbane variant, dating to 1810-15, originally called simply "Br
 The **Campbell of Breadalbane** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k9g9ly2g9k9db9k3~x2/">Campbell of Breadalbane</a></td><td><code>K/18 G18 LY4 G18 K18 DB18 K/6</code></td><td>176</td><td>1750</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k9g9ly2g9k9db9k3~x2/"><img src="/variants/s7/k9g9ly2g9k9db9k3~x2/sett.png" alt="Campbell of Breadalbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k9g9ly2g9k9db9k3~x2/">Campbell of Breadalbane</a></td><td></td><td><code>K/18 G18 LY4 G18 K18 DB18 K/6</code></td><td>176</td><td>1750</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k9g9ly2g9k9db9k3~x2/"><img src="/variants/s7/k9g9ly2g9k9db9k3~x2/sett.png" alt="Campbell of Breadalbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

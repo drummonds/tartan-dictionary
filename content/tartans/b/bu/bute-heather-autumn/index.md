@@ -13,10 +13,10 @@ Its design is pattern [BGRKRKBGBKB](/stripes/bgrkrkbgbkb/) — the page of every
 The **Bute Heather, Autumn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db6y1r18k6r4k4dp8dg1dp8k1db5~x2~db1003265-dp1206332/">Bute Heather, Autumn</a></td><td><code>DB/12 Y2 R36 K12 R8 K8 DP16 DG2 DP16 K2 DB/10</code></td><td>226</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db6y1r18k6r4k4dp8dg1dp8k1db5~x2~db1003265-dp1206332/"><img src="/variants/s11/db6y1r18k6r4k4dp8dg1dp8k1db5~x2~db1003265-dp1206332/sett.png" alt="Bute Heather, Autumn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db6y1r18k6r4k4dp8dg1dp8k1db5~x2~db1003265-dp1206332/">Bute Heather, Autumn</a></td><td></td><td><code>DB/12 Y2 R36 K12 R8 K8 DP16 DG2 DP16 K2 DB/10</code></td><td>226</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db6y1r18k6r4k4dp8dg1dp8k1db5~x2~db1003265-dp1206332/"><img src="/variants/s11/db6y1r18k6r4k4dp8dg1dp8k1db5~x2~db1003265-dp1206332/sett.png" alt="Bute Heather, Autumn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

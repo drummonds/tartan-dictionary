@@ -13,10 +13,10 @@ Its design is pattern [RYWY](/stripes/rywy/) — the page of every tartan sharin
 The **Virgin One** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/ly7w6ly11r2~x2/">Virgin One</a></td><td><code>LY/14 W12 LY22 R/4</code></td><td>86</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/ly7w6ly11r2~x2/"><img src="/variants/s4/ly7w6ly11r2~x2/sett.png" alt="Virgin One sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/ly7w6ly11r2~x2/">Virgin One</a></td><td></td><td><code>LY/14 W12 LY22 R/4</code></td><td>86</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/ly7w6ly11r2~x2/"><img src="/variants/s4/ly7w6ly11r2~x2/sett.png" alt="Virgin One sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

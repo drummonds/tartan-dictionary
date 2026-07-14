@@ -15,10 +15,10 @@ Designed 1997 by Douglas Herring, winning Caledonian Society of Hawaii contest f
 The **Hawaii** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/">Hawaii</a></td><td><code>LB/16 R4 Y4 LB48 DO16 DG40 Y4 R/12</code></td><td>260</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/"><img src="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/sett.png" alt="Hawaii sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/">Hawaii</a></td><td></td><td><code>LB/16 R4 Y4 LB48 DO16 DG40 Y4 R/12</code></td><td>260</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/"><img src="/variants/s8/lb4r1y1lb12do4dg10y1r3~x4/sett.png" alt="Hawaii sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

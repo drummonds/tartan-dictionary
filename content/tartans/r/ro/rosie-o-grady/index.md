@@ -13,10 +13,10 @@ Its design is pattern [KRBRKBRKR](/stripes/krbrkbrkr/) — the page of every tar
 The **Rosie O'Grady** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/">Rosie O'Grady</a></td><td><code>K/35 R6 DB6 R6 K16 DB48 R36 K6 R/6</code></td><td>289</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/"><img src="/variants/s9/k35r6db6r6k16db48r36k6r6/sett.png" alt="Rosie O'Grady sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/">Rosie O'Grady</a></td><td></td><td><code>K/35 R6 DB6 R6 K16 DB48 R36 K6 R/6</code></td><td>289</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/"><img src="/variants/s9/k35r6db6r6k16db48r36k6r6/sett.png" alt="Rosie O'Grady sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -19,13 +19,13 @@ The **Scott** tartan is one sett, recorded at 2 scales — the same proportion w
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/">Scott</a></td><td><code>W/6 K6 W2 K1 W1 K1 W2 K6 W6 K1 W/2</code></td><td>60</td><td>1822</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/"><img src="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/">Sir Walter</a></td><td><code>W/12 K12 W4 K2 W2 K2 W4 K12 W12 K2 W/4</code></td><td>120</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/">(Sir Walter Scott) (Personal)</a></td><td><code>W/24 K24 W8 K4 W4 K4 W8 K24 W24 K4 W/8</code></td><td>240</td><td>1822</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/">Sir Walter</a> · <a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/">(Sir Walter Scott) (Personal)</a></td></tr>
+<tr><td><a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/">Scott</a></td><td></td><td><code>W/6 K6 W2 K1 W1 K1 W2 K6 W6 K1 W/2</code></td><td>60</td><td>1822</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/"><img src="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/">Sir Walter</a></td><td>0.00</td><td><code>W/12 K12 W4 K2 W2 K2 W4 K12 W12 K2 W/4</code></td><td>120</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/">(Sir Walter Scott) (Personal)</a></td><td>0.00</td><td><code>W/24 K24 W8 K4 W4 K4 W8 K24 W24 K4 W/8</code></td><td>240</td><td>1822</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/">Sir Walter</a> · <a href="/variants/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/">(Sir Walter Scott) (Personal)</a></td></tr>
 </tbody>
 </table>
 

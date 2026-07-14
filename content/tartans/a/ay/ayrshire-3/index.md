@@ -18,10 +18,10 @@ Its design is pattern [BBBWGG](/stripes/bbbwgg/) — the page of every tartan sh
 The **Ayrshire** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g11dy4w1db10dr1db2~x4/">Ayrshire</a></td><td><code>G/44 DY16 W4 DB40 DR4 DB/8</code></td><td>180</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g11dy4w1db10dr1db2~x4/"><img src="/variants/s6/g11dy4w1db10dr1db2~x4/sett.png" alt="Ayrshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g11dy4w1db10dr1db2~x4/">Ayrshire</a></td><td></td><td><code>G/44 DY16 W4 DB40 DR4 DB/8</code></td><td>180</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g11dy4w1db10dr1db2~x4/"><img src="/variants/s6/g11dy4w1db10dr1db2~x4/sett.png" alt="Ayrshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

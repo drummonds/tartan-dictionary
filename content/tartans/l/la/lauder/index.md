@@ -20,10 +20,10 @@ Possibly designed by Sir Thomas Dick Lauder, a friend of the Sobieski brothers; 
 The **Lauder** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g3db8g3k4g15r2~x2/">Lauder</a></td><td><code>G/6 DB16 G6 K8 G30 R/4</code></td><td>130</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g3db8g3k4g15r2~x2/"><img src="/variants/s6/g3db8g3k4g15r2~x2/sett.png" alt="Lauder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g3db8g3k4g15r2~x2/">Lauder</a></td><td></td><td><code>G/6 DB16 G6 K8 G30 R/4</code></td><td>130</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g3db8g3k4g15r2~x2/"><img src="/variants/s6/g3db8g3k4g15r2~x2/sett.png" alt="Lauder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

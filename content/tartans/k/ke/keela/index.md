@@ -13,11 +13,11 @@ Its design is pattern [BWBWBWB](/stripes/bwbwbwb/) — the page of every tartan 
 The **Keela** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/">Keela</a></td><td><code>DB/14 W6 DB4 W12 DB32 LB52 DR/8</code></td><td>234</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><img src="/variants/s7/db7w3db2w6db16lb26dr4~x2/sett.png" alt="Keela sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/">(Corporate)</a> · <a href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/">Keela</a></td></tr>
+<tr><td><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/">Keela</a></td><td></td><td><code>DB/14 W6 DB4 W12 DB32 LB52 DR/8</code></td><td>234</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><img src="/variants/s7/db7w3db2w6db16lb26dr4~x2/sett.png" alt="Keela sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/">(Corporate)</a> · <a href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/">Keela</a></td></tr>
 </tbody>
 </table>
 

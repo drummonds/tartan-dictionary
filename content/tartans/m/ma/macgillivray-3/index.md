@@ -20,10 +20,10 @@ Clan Chattan-related sett, recorded by 1831; Wilson's version adds a black strip
 The **MacGillivray** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/">MacGillivray</a></td><td><code>G/38 R14 G14 R14 G14 R28 DB6 R6 G38 R6 DB6 R132 DB14 R/28</code></td><td>650</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><img src="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/sett.png" alt="MacGillivray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/">MacGillivray</a></td><td></td><td><code>G/38 R14 G14 R14 G14 R28 DB6 R6 G38 R6 DB6 R132 DB14 R/28</code></td><td>650</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><img src="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/sett.png" alt="MacGillivray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

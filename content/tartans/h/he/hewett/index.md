@@ -13,10 +13,10 @@ Its design is pattern [KRWRBKYKWWKWWKYKBRWR](/stripes/krwrbkykwwkwwkykbrwr/) —
 The **Hewett** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4~x3~t2405244-ly3307090-lb3203246/">Hewett</a></td><td><code>R/18 W9 R24 T21 K12 LY6 K6 LB12 W24 K15 W24 LB12 K6 LY6 K12 T21 R24 W9 R18 K/12</code></td><td>552</td><td>1882</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4~x3~t2405244-ly3307090-lb3203246/"><img src="/variants/s20/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4~x3~t2405244-ly3307090-lb3203246/sett.png" alt="Hewett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4~x3~t2405244-ly3307090-lb3203246/">Hewett</a></td><td></td><td><code>R/18 W9 R24 T21 K12 LY6 K6 LB12 W24 K15 W24 LB12 K6 LY6 K12 T21 R24 W9 R18 K/12</code></td><td>552</td><td>1882</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4~x3~t2405244-ly3307090-lb3203246/"><img src="/variants/s20/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4~x3~t2405244-ly3307090-lb3203246/sett.png" alt="Hewett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

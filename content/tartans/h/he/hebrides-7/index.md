@@ -18,10 +18,10 @@ Its design is pattern [GRWBRGRGRBRBRGRGRBWR](/stripes/grwbrgrgrbrbrgrgrbwr/) —
 The **Hebrides** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r25lb2db25r2g2r25g2r2db25r4db25r2g2r25g2r2db25lb2r25g10~x2/">Hebrides</a></td><td><code>R/50 LB4 DB50 R4 G4 R50 G4 R4 DB50 R8 DB50 R4 G4 R50 G4 R4 DB50 LB4 R50 G/20</code></td><td>866</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r25lb2db25r2g2r25g2r2db25r4db25r2g2r25g2r2db25lb2r25g10~x2/"><img src="/variants/s20/r25lb2db25r2g2r25g2r2db25r4db25r2g2r25g2r2db25lb2r25g10~x2/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r25lb2db25r2g2r25g2r2db25r4db25r2g2r25g2r2db25lb2r25g10~x2/">Hebrides</a></td><td></td><td><code>R/50 LB4 DB50 R4 G4 R50 G4 R4 DB50 R8 DB50 R4 G4 R50 G4 R4 DB50 LB4 R50 G/20</code></td><td>866</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r25lb2db25r2g2r25g2r2db25r4db25r2g2r25g2r2db25lb2r25g10~x2/"><img src="/variants/s20/r25lb2db25r2g2r25g2r2db25r4db25r2g2r25g2r2db25lb2r25g10~x2/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

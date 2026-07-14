@@ -18,10 +18,10 @@ Its design is pattern [BRGBGKWRWGK](/stripes/brgbgkwrwgk/) — the page of every
 The **Stevenson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/">Stevenson</a></td><td><code>K/12 G40 LB4 R12 LB4 K40 Y6 DB40 G52 R6 DB/12</code></td><td>432</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><img src="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/">Stevenson</a></td><td></td><td><code>K/12 G40 LB4 R12 LB4 K40 Y6 DB40 G52 R6 DB/12</code></td><td>432</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><img src="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/sett.png" alt="Stevenson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

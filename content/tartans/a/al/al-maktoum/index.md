@@ -13,10 +13,10 @@ Its design is pattern [RGRGRW](/stripes/rgrgrw/) — the page of every tartan sh
 The **Al-Maktoum** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w11r32g12r5g12r5~x2/">Al-Maktoum</a></td><td><code>W/22 R64 G24 R10 G24 R/10</code></td><td>276</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w11r32g12r5g12r5~x2/"><img src="/variants/s6/w11r32g12r5g12r5~x2/sett.png" alt="Al-Maktoum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w11r32g12r5g12r5~x2/">Al-Maktoum</a></td><td></td><td><code>W/22 R64 G24 R10 G24 R/10</code></td><td>276</td><td>1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w11r32g12r5g12r5~x2/"><img src="/variants/s6/w11r32g12r5g12r5~x2/sett.png" alt="Al-Maktoum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

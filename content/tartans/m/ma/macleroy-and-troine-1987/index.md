@@ -13,10 +13,10 @@ Its design is pattern [GRBYBBBWBK](/stripes/grbybbbwbk/) — the page of every t
 The **MacLeroy and Troine 1987** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k4db6w4db6do8db37lr12do46r6y4~do1301000-lr3000000/">MacLeroy and Troine 1987</a></td><td><code>K/4 DB6 W4 DB6 DO8 DB37 LR12 DO46 R6 Y/4</code></td><td>258</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k4db6w4db6do8db37lr12do46r6y4~do1301000-lr3000000/"><img src="/variants/s10/k4db6w4db6do8db37lr12do46r6y4~do1301000-lr3000000/sett.png" alt="MacLeroy and Troine 1987 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k4db6w4db6do8db37lr12do46r6y4~do1301000-lr3000000/">MacLeroy and Troine 1987</a></td><td></td><td><code>K/4 DB6 W4 DB6 DO8 DB37 LR12 DO46 R6 Y/4</code></td><td>258</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k4db6w4db6do8db37lr12do46r6y4~do1301000-lr3000000/"><img src="/variants/s10/k4db6w4db6do8db37lr12do46r6y4~do1301000-lr3000000/sett.png" alt="MacLeroy and Troine 1987 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

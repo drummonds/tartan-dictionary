@@ -18,10 +18,10 @@ Its design is pattern [BGYGBGYGBG](/stripes/bgygbgygbg/) — the page of every t
 The **Buccleuch Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/">Buccleuch Dress</a></td><td><code>DG/10 DR4 DG4 LR68 DG36 DR8 DG8 LR8 DG8 DR/8</code></td><td>306</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/"><img src="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/sett.png" alt="Buccleuch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/">Buccleuch Dress</a></td><td></td><td><code>DG/10 DR4 DG4 LR68 DG36 DR8 DG8 LR8 DG8 DR/8</code></td><td>306</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/"><img src="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/sett.png" alt="Buccleuch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

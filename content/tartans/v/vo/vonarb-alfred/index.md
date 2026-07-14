@@ -13,10 +13,10 @@ Its design is pattern [BKBBKBY](/stripes/bkbbkby/) — the page of every tartan 
 The **Vonarb, Alfred** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/">Vonarb, Alfred</a></td><td><code>T/12 K6 N20 DB4 K4 DT90 LR/4</code></td><td>264</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/"><img src="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/sett.png" alt="Vonarb, Alfred sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/">Vonarb, Alfred</a></td><td></td><td><code>T/12 K6 N20 DB4 K4 DT90 LR/4</code></td><td>264</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/"><img src="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/sett.png" alt="Vonarb, Alfred sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Intended as a regimental tartan but rejected by the War Office; adopted instead 
 The **Tyneside** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/">Tyneside</a></td><td><code>DB/22 DO2 DB2 DO2 DB2 DO16 G16 DO2 G16 DO16 DB16 DO2 DB/2</code></td><td>208</td><td>1924</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/"><img src="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/sett.png" alt="Tyneside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/">Tyneside</a></td><td></td><td><code>DB/22 DO2 DB2 DO2 DB2 DO16 G16 DO2 G16 DO16 DB16 DO2 DB/2</code></td><td>208</td><td>1924</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/"><img src="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/sett.png" alt="Tyneside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BRWBWRWBWRBK](/stripes/brwbwrwbwrbk/) — the page of eve
 The **U.S. Postal Service** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/">U.S. Postal Service</a></td><td><code>T/60 R30 W12 DB12 W12 R12 W12 DB12 W12 R30 T60 K/12</code></td><td>480</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/"><img src="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/sett.png" alt="U.S. Postal Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/">U.S. Postal Service</a></td><td></td><td><code>T/60 R30 W12 DB12 W12 R12 W12 DB12 W12 R30 T60 K/12</code></td><td>480</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/"><img src="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/sett.png" alt="U.S. Postal Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

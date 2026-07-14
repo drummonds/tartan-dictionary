@@ -20,10 +20,10 @@ A Royal Stewart colour variation produced by many weaving mills.
 The **Glenmore** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/">Glenmore</a></td><td><code>W/76 K20 DO4 K6 W4 K6 G16 O6 K4 O6 W/4</code></td><td>224</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/"><img src="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/sett.png" alt="Glenmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/">Glenmore</a></td><td></td><td><code>W/76 K20 DO4 K6 W4 K6 G16 O6 K4 O6 W/4</code></td><td>224</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/"><img src="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/sett.png" alt="Glenmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

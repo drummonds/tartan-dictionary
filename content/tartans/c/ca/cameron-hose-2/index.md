@@ -16,10 +16,10 @@ Its design is pattern [RKRRRWRR](/stripes/rkrrrwrr/) — the page of every tarta
 The **Cameron Hose** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r2109013-ri2209032/">Cameron Hose</a></td><td><code>R/6 Ri6 W46 Ri6 R6 Ri46 K4 Ri/6</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r2109013-ri2209032/"><img src="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r2109013-ri2209032/sett.png" alt="Cameron Hose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r2109013-ri2209032/">Cameron Hose</a></td><td></td><td><code>R/6 Ri6 W46 Ri6 R6 Ri46 K4 Ri/6</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r2109013-ri2209032/"><img src="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r2109013-ri2209032/sett.png" alt="Cameron Hose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

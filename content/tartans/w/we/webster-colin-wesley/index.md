@@ -13,10 +13,10 @@ Its design is pattern [BKBKGKBKBK](/stripes/bkbkgkbkbk/) — the page of every t
 The **Webster, Colin Wesley** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/">Webster, Colin Wesley</a></td><td><code>K/200 DP10 K8 DP6 K4 G2 K4 DP4 K8 DP/10</code></td><td>302</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/"><img src="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/sett.png" alt="Webster, Colin Wesley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/">Webster, Colin Wesley</a></td><td></td><td><code>K/200 DP10 K8 DP6 K4 G2 K4 DP4 K8 DP/10</code></td><td>302</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/"><img src="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/sett.png" alt="Webster, Colin Wesley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

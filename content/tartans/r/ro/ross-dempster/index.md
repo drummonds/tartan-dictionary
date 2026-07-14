@@ -16,10 +16,10 @@ Its design is pattern [BBGBRGB](/stripes/bbgbrgb/) — the page of every tartan 
 The **Ross Dempster** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/">Ross Dempster</a></td><td><code>DB/8 G4 R36 DR20 G20 DB58 B/8</code></td><td>292</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/"><img src="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/sett.png" alt="Ross Dempster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/">Ross Dempster</a></td><td></td><td><code>DB/8 G4 R36 DR20 G20 DB58 B/8</code></td><td>292</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/"><img src="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/sett.png" alt="Ross Dempster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

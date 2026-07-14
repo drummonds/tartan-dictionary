@@ -18,10 +18,10 @@ Its design is pattern [WBBKGY](/stripes/wbbkgy/) — the page of every tartan sh
 The **Morris of Balgonie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/">Morris of Balgonie</a></td><td><code>W/4 DP40 DR6 K20 G40 LO/4</code></td><td>220</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><img src="/variants/s6/w2dp20dr3k10g20lo2~x2/sett.png" alt="Morris of Balgonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/">Morris of Balgonie</a></td><td></td><td><code>W/4 DP40 DR6 K20 G40 LO/4</code></td><td>220</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><img src="/variants/s6/w2dp20dr3k10g20lo2~x2/sett.png" alt="Morris of Balgonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

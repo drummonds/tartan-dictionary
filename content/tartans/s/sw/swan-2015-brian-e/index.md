@@ -16,10 +16,10 @@ Its design is pattern [KBKBKWK](/stripes/kbkbkwk/) — the page of every tartan 
 The **Swan 2015, Brian E** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k2db9k2db9k13w1k2~x4/">Swan 2015, Brian E</a></td><td><code>K/8 DB36 K8 DB36 K52 W4 K/8</code></td><td>288</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><img src="/variants/s7/k2db9k2db9k13w1k2~x4/sett.png" alt="Swan 2015, Brian E sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k2db9k2db9k13w1k2~x4/">Swan 2015, Brian E</a></td><td></td><td><code>K/8 DB36 K8 DB36 K52 W4 K/8</code></td><td>288</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><img src="/variants/s7/k2db9k2db9k13w1k2~x4/sett.png" alt="Swan 2015, Brian E sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

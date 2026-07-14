@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBWKRBKBR](/stripes/bkbkbkbwkrbkbr/) — the page of
 The **Sydney Academy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/">Sydney Academy</a></td><td><code>N/62 K8 N8 K8 N8 K8 N12 W10 K8 O6 DB38 K6 N8 R/6</code></td><td>324</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/"><img src="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/sett.png" alt="Sydney Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/">Sydney Academy</a></td><td></td><td><code>N/62 K8 N8 K8 N8 K8 N12 W10 K8 O6 DB38 K6 N8 R/6</code></td><td>324</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/"><img src="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/sett.png" alt="Sydney Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

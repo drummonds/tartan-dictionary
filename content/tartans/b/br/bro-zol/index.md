@@ -13,10 +13,10 @@ Its design is pattern [BWBBGBBKWK](/stripes/bwbbgbbkwk/) — the page of every t
 The **Bro-Zol** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/">Bro-Zol</a></td><td><code>K/6 W18 K4 DR16 DB2 G6 DB2 DR50 W10 DB/6</code></td><td>228</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/"><img src="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/sett.png" alt="Bro-Zol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/">Bro-Zol</a></td><td></td><td><code>K/6 W18 K4 DR16 DB2 G6 DB2 DR50 W10 DB/6</code></td><td>228</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/"><img src="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/sett.png" alt="Bro-Zol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

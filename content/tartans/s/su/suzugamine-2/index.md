@@ -18,10 +18,10 @@ Its design is pattern [BBGBBKBBWBBKBBGB](/stripes/bbgbbkbbwbbkbbgb/) — the pag
 The **Suzugamine** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/do5g19dp5do5k5do5db36w3db36do5k5do5dp5g19do5db4~x2~dp1607327-db1406275/">Suzugamine</a></td><td><code>DO/10 G38 DP10 DO10 K10 DO10 DB72 W6 DB72 DO10 K10 DO10 DP10 G38 DO10 DB/8</code></td><td>650</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/do5g19dp5do5k5do5db36w3db36do5k5do5dp5g19do5db4~x2~dp1607327-db1406275/"><img src="/variants/s16/do5g19dp5do5k5do5db36w3db36do5k5do5dp5g19do5db4~x2~dp1607327-db1406275/sett.png" alt="Suzugamine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/do5g19dp5do5k5do5db36w3db36do5k5do5dp5g19do5db4~x2~dp1607327-db1406275/">Suzugamine</a></td><td></td><td><code>DO/10 G38 DP10 DO10 K10 DO10 DB72 W6 DB72 DO10 K10 DO10 DP10 G38 DO10 DB/8</code></td><td>650</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/do5g19dp5do5k5do5db36w3db36do5k5do5dp5g19do5db4~x2~dp1607327-db1406275/"><img src="/variants/s16/do5g19dp5do5k5do5db36w3db36do5k5do5dp5g19do5db4~x2~dp1607327-db1406275/sett.png" alt="Suzugamine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GBWBWBGBRBRGBWR](/stripes/gbwbwbgbrbrgbwr/) — the page 
 The **Australian Defence Force Academy, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/g3db1lb34db2w2db2y2db2r2dbi8r2g3db1lb2r2~x2~db1003265-dbi1208266/">Australian Defence Force Academy, The</a></td><td><code>G/6 DB2 LB68 DB4 W4 DB4 Y4 DB4 R4 DBi16 R4 G6 DB2 LB4 R/4</code></td><td>262</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/g3db1lb34db2w2db2y2db2r2dbi8r2g3db1lb2r2~x2~db1003265-dbi1208266/"><img src="/variants/s15/g3db1lb34db2w2db2y2db2r2dbi8r2g3db1lb2r2~x2~db1003265-dbi1208266/sett.png" alt="Australian Defence Force Academy, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g3db1lb34db2w2db2y2db2r2dbi8r2g3db1lb2r2~x2~db1003265-dbi1208266/">Australian Defence Force Academy, The</a></td><td></td><td><code>G/6 DB2 LB68 DB4 W4 DB4 Y4 DB4 R4 DBi16 R4 G6 DB2 LB4 R/4</code></td><td>262</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g3db1lb34db2w2db2y2db2r2dbi8r2g3db1lb2r2~x2~db1003265-dbi1208266/"><img src="/variants/s15/g3db1lb34db2w2db2y2db2r2dbi8r2g3db1lb2r2~x2~db1003265-dbi1208266/sett.png" alt="Australian Defence Force Academy, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GRKRGRGWGRGW](/stripes/grkrgrgwgrgw/) — the page of eve
 The **Scott** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/">Scott</a></td><td><code>G/8 R6 K2 R56 G28 R8 G8 W6 G8 R8 G8 W/6</code></td><td>290</td><td>1829</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/"><img src="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/">Scott</a></td><td></td><td><code>G/8 R6 K2 R56 G28 R8 G8 W6 G8 R8 G8 W/6</code></td><td>290</td><td>1829</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/"><img src="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

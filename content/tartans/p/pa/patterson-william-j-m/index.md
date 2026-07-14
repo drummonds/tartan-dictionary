@@ -15,11 +15,11 @@ Personal tartan for the Patterson family, named after William John Magee Patters
 The **Patterson, William J.M.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/">Patterson, William J.M.</a></td><td><code>DB/18 N6 DB4 W4 DB18 N12 DB6 W6 DB6 G36 DG16 R/4</code></td><td>250</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/"><img src="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/sett.png" alt="Patterson, William J.M. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/">(Personal)</a> · <a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2~db1706275-g1903114/">American Personal Tartan</a></td></tr>
+<tr><td><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/">Patterson, William J.M.</a></td><td></td><td><code>DB/18 N6 DB4 W4 DB18 N12 DB6 W6 DB6 G36 DG16 R/4</code></td><td>250</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/"><img src="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/sett.png" alt="Patterson, William J.M. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/">(Personal)</a> · <a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2~db1706275-g1903114/">American Personal Tartan</a></td></tr>
 </tbody>
 </table>
 

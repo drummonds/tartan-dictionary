@@ -13,10 +13,10 @@ Its design is pattern [BGGGGGWGWGRG](/stripes/bgggggwgwgrg/) — the page of eve
 The **O'Brien** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/">O'Brien</a></td><td><code>B/26 G12 Y4 G6 Y4 G12 LB6 G4 LB6 G24 R6 G/12</code></td><td>206</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><img src="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/sett.png" alt="O'Brien sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/">O'Brien</a></td><td></td><td><code>B/26 G12 Y4 G6 Y4 G12 LB6 G4 LB6 G24 R6 G/12</code></td><td>206</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><img src="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/sett.png" alt="O'Brien sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGWBBWBKGKGK](/stripes/ggwbbwbkgkgk/) — the page of eve
 The **Clan An Caigeann** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/">Clan An Caigeann</a></td><td><code>K/88 Y6 K8 Y6 K8 DB8 W4 DB8 DR4 W4 DG8 Y/4</code></td><td>220</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><img src="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/sett.png" alt="Clan An Caigeann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/">Clan An Caigeann</a></td><td></td><td><code>K/88 Y6 K8 Y6 K8 DB8 W4 DB8 DR4 W4 DG8 Y/4</code></td><td>220</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><img src="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/sett.png" alt="Clan An Caigeann sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

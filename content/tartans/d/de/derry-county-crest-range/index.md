@@ -16,10 +16,10 @@ Its design is pattern [KBKGKGKGRGK](/stripes/kbkgkgkgrgk/) — the page of every
 The **Derry County, Crest Range** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/">Derry County, Crest Range</a></td><td><code>K/14 DB22 K5 DY11 K5 Y24 K11 DY11 R54 DY8 K/10</code></td><td>326</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/"><img src="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/sett.png" alt="Derry County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/">Derry County, Crest Range</a></td><td></td><td><code>K/14 DB22 K5 DY11 K5 Y24 K11 DY11 R54 DY8 K/10</code></td><td>326</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/"><img src="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/sett.png" alt="Derry County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

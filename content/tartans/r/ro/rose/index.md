@@ -18,10 +18,10 @@ Its design is pattern [RBKGWKWGKBR](/stripes/rbkgwkwgkbr/) — the page of every
 The **Rose** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/">Rose</a></td><td><code>R/8 DB40 K40 G40 W4 K16 W4 G40 K40 DB40 R/4</code></td><td>540</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/"><img src="/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/">Rose</a></td><td></td><td><code>R/8 DB40 K40 G40 W4 K16 W4 G40 K40 DB40 R/4</code></td><td>540</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/"><img src="/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

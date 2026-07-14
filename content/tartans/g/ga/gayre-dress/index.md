@@ -18,10 +18,10 @@ Its design is pattern [KWGWGGKWGWGWKGW](/stripes/kwgwggkwgwgwkgw/) — the page 
 The **Gayre Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/">Gayre Dress</a></td><td><code>LB/16 G4 K4 W4 G16 LB4 G16 W4 K4 DG6 G4 W4 G2 LB4 K/4</code></td><td>172</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/"><img src="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/sett.png" alt="Gayre Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/">Gayre Dress</a></td><td></td><td><code>LB/16 G4 K4 W4 G16 LB4 G16 W4 K4 DG6 G4 W4 G2 LB4 K/4</code></td><td>172</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/"><img src="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/sett.png" alt="Gayre Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [YGBYKWKY](/stripes/ygbykwky/) — the page of every tarta
 The **Tunes of Glory** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lo3dy40db12lo3k2lb4k2lo3~x2/">Tunes of Glory</a></td><td><code>LO/6 DY80 DB24 LO6 K4 LB8 K4 LO/6</code></td><td>264</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lo3dy40db12lo3k2lb4k2lo3~x2/"><img src="/variants/s8/lo3dy40db12lo3k2lb4k2lo3~x2/sett.png" alt="Tunes of Glory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lo3dy40db12lo3k2lb4k2lo3~x2/">Tunes of Glory</a></td><td></td><td><code>LO/6 DY80 DB24 LO6 K4 LB8 K4 LO/6</code></td><td>264</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lo3dy40db12lo3k2lb4k2lo3~x2/"><img src="/variants/s8/lo3dy40db12lo3k2lb4k2lo3~x2/sett.png" alt="Tunes of Glory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

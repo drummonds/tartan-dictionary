@@ -13,11 +13,11 @@ Its design is pattern [RKGKGKGKWGWGW](/stripes/rkgkgkgkwgwgw/) — the page of e
 The **Hohenzollern Staff** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~dg1806142-g2508144/">Hohenzollern Staff</a></td><td><code>R/48 K16 DG24 K2 G4 K2 DG24 K16 W6 G4 W28 G2 W/4</code></td><td>308</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~dg1806142-g2508144/"><img src="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~dg1806142-g2508144/sett.png" alt="Hohenzollern Staff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~dg1806142-g2508144/">(Personal)</a> · <a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~r2109032-dg1806142-g2508144/">Hohenzollern Staff</a></td></tr>
+<tr><td><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~dg1806142-g2508144/">Hohenzollern Staff</a></td><td></td><td><code>R/48 K16 DG24 K2 G4 K2 DG24 K16 W6 G4 W28 G2 W/4</code></td><td>308</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~dg1806142-g2508144/"><img src="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~dg1806142-g2508144/sett.png" alt="Hohenzollern Staff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~dg1806142-g2508144/">(Personal)</a> · <a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~r2109032-dg1806142-g2508144/">Hohenzollern Staff</a></td></tr>
 </tbody>
 </table>
 

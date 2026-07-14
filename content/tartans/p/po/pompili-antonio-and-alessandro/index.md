@@ -13,10 +13,10 @@ Its design is pattern [KRBWBRBWBW](/stripes/krbwbrbwbw/) — the page of every t
 The **Pompili, Antonio and Alessandro** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/">Pompili, Antonio and Alessandro</a></td><td><code>K/160 Ri2 DB50 W2 DB6 R4 DB6 W2 DB50 LB/2</code></td><td>406</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/"><img src="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/sett.png" alt="Pompili, Antonio and Alessandro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/">Pompili, Antonio and Alessandro</a></td><td></td><td><code>K/160 Ri2 DB50 W2 DB6 R4 DB6 W2 DB50 LB/2</code></td><td>406</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/"><img src="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/sett.png" alt="Pompili, Antonio and Alessandro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

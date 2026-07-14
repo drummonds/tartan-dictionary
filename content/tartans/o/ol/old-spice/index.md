@@ -13,10 +13,10 @@ Its design is pattern [BGBGBGWBWB](/stripes/bgbgbgwbwb/) — the page of every t
 The **Old Spice** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/">Old Spice</a></td><td><code>DR/104 DG3 DR5 DG3 DR18 DG8 W9 DR9 W9 DR/3</code></td><td>235</td><td>~2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/"><img src="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/sett.png" alt="Old Spice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/">Old Spice</a></td><td></td><td><code>DR/104 DG3 DR5 DG3 DR18 DG8 W9 DR9 W9 DR/3</code></td><td>235</td><td>~2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/"><img src="/variants/s10/dr104dg3dr5dg3dr18dg8w9dr9w9dr3/sett.png" alt="Old Spice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

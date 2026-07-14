@@ -20,15 +20,15 @@ The **Murray of Atholl** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/">Murray of Atholl</a> ★</td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 R3 G12 K12 DB12 K1 R/3</code></td><td>159</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/"><img src="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/sett.png" alt="Murray of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/">Murray of Atholl</a></td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 R3 G12 K12 DB12 K1 R/3</code></td><td>159</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/">#3</a></td><td><code>DB/24 K4 DB4 K4 DB4 K24 G24 R6 G24 K24 DB24 K2 R/6</code></td><td>318</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/">Murray of Atholl</a> · <a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/">#3</a></td></tr>
-<tr><td><a href="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/">#2</a></td><td><code>DB/50 K4 DB4 K4 DB4 K42 G46 R10 G46 K40 DB38 R/10</code></td><td>536</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><img src="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/">Murray of Atholl</a> ★</td><td></td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 R3 G12 K12 DB12 K1 R/3</code></td><td>159</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/"><img src="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/sett.png" alt="Murray of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/">Murray of Atholl</a></td><td>0.00</td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 R3 G12 K12 DB12 K1 R/3</code></td><td>159</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/">#3</a></td><td>0.00</td><td><code>DB/24 K4 DB4 K4 DB4 K24 G24 R6 G24 K24 DB24 K2 R/6</code></td><td>318</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/">Murray of Atholl</a> · <a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/">#3</a></td></tr>
+<tr><td><a href="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/">#2</a></td><td>1.25</td><td><code>DB/50 K4 DB4 K4 DB4 K42 G46 R10 G46 K40 DB38 R/10</code></td><td>536</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><img src="/variants/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

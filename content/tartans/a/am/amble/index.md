@@ -13,10 +13,10 @@ Its design is pattern [BKBKGBBKBKBKBKG](/stripes/bkbkgbbkbkbkbkg/) — the page 
 The **Amble** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/">Amble</a></td><td><code>DO/40 K12 DO10 K16 DY8 DO12 DB6 K2 DO6 K2 DB6 K18 DB22 K2 DY/2</code></td><td>286</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/"><img src="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/sett.png" alt="Amble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/">Amble</a></td><td></td><td><code>DO/40 K12 DO10 K16 DY8 DO12 DB6 K2 DO6 K2 DB6 K18 DB22 K2 DY/2</code></td><td>286</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/"><img src="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/sett.png" alt="Amble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

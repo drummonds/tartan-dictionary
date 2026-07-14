@@ -18,10 +18,10 @@ Its design is pattern [BBYWKWYWKWG](/stripes/bbywkwywkwg/) — the page of every
 The **Kintyre** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/">Kintyre</a></td><td><code>DR/4 N24 LY8 W4 K32 W4 LY8 W36 K4 W16 DY/4</code></td><td>280</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/"><img src="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/sett.png" alt="Kintyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/">Kintyre</a></td><td></td><td><code>DR/4 N24 LY8 W4 K32 W4 LY8 W36 K4 W16 DY/4</code></td><td>280</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/"><img src="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/sett.png" alt="Kintyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

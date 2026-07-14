@@ -18,10 +18,10 @@ Its design is pattern [BWGWRWB](/stripes/bwgwrwb/) — the page of every tartan 
 The **Justus dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db1w4r1w1y1w4db1~x12/">Justus dress</a></td><td><code>DB/12 W48 R12 W12 Y12 W48 DB/12</code></td><td>288</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db1w4r1w1y1w4db1~x12/"><img src="/variants/s7/db1w4r1w1y1w4db1~x12/sett.png" alt="Justus dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db1w4r1w1y1w4db1~x12/">Justus dress</a></td><td></td><td><code>DB/12 W48 R12 W12 Y12 W48 DB/12</code></td><td>288</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db1w4r1w1y1w4db1~x12/"><img src="/variants/s7/db1w4r1w1y1w4db1~x12/sett.png" alt="Justus dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

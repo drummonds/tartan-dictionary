@@ -25,22 +25,22 @@ The **Campbell** tartan groups 5 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/">Campbell</a> ★</td><td><code>DB/11 K1 DB1 K1 DB1 K8 G8 K1 G8 K8 DB8 K1 DB/1</code></td><td>104</td><td>1725</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/"><img src="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/sett.png" alt="Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1/">Campbell</a></td><td><code>DB/11 K1 DB1 K1 DB1 K8 G8 K1 G8 K8 DB8 K1 DB/1</code></td><td>104</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/">Black Watch, A&amp;S Highlanders</a></td><td><code>DB/22 K2 DB2 K2 DB2 K16 G16 K2 G16 K16 DB16 K2 DB/2</code></td><td>208</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/">Grant Hunting or Black Watch</a></td><td><code>DB/44 K4 DB4 K4 DB4 K32 G32 K4 G32 K32 DB32 K4 DB/4</code></td><td>416</td><td>1725</td></tr>
-<tr><td colspan="4" class="sett-variants">4 Variants: <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1/">Campbell</a> · <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/">Black Watch, A&amp;S Highlanders</a> · <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/">Grant Hunting or Black Watch</a> · <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4~db1406275-k0700000/">Black Watch (Military)</a></td></tr>
-<tr><td><a href="/variants/s13/db12k2db2k2db2k10g12k3g12k10db11k2db2~x2/">Clan Tartan</a></td><td><code>DB/24 K4 DB4 K4 DB4 K20 G24 K6 G24 K20 DB22 K4 DB/4</code></td><td>300</td><td>1725</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db12k2db2k2db2k10g12k3g12k10db11k2db2~x2/"><img src="/variants/s13/db12k2db2k2db2k10g12k3g12k10db11k2db2~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/db14k3db3k3db3k16g16k3g16k16db16k3db3~x2/">Campbell</a></td><td><code>DB/28 K6 DB6 K6 DB6 K32 G32 K6 G32 K32 DB32 K6 DB/6</code></td><td>426</td><td>1725</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db14k3db3k3db3k16g16k3g16k16db16k3db3~x2/"><img src="/variants/s13/db14k3db3k3db3k16g16k3g16k16db16k3db3~x2/sett.png" alt="Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/">Campbell</a></td><td><code>DB/4 K4 DB22 K20 G24 K6 G24 K20 DB4 K4 DB4 K4 DB/4</code></td><td>280</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/"><img src="db2k2db11k10g12k3g12k10db2k2db2k2db2-rev.png" alt="Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/">(Clan)</a></td><td><code>LB/28 K6 LB6 K6 LB6 K32 G32 K6 G32 K32 LB32 K6 LB/6</code></td><td>426</td><td>1725</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/"><img src="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/">Campbell</a> ★</td><td></td><td><code>DB/11 K1 DB1 K1 DB1 K8 G8 K1 G8 K8 DB8 K1 DB/1</code></td><td>104</td><td>1725</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/"><img src="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/sett.png" alt="Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1/">Campbell</a></td><td>0.00</td><td><code>DB/11 K1 DB1 K1 DB1 K8 G8 K1 G8 K8 DB8 K1 DB/1</code></td><td>104</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/">Black Watch, A&amp;S Highlanders</a></td><td>0.00</td><td><code>DB/22 K2 DB2 K2 DB2 K16 G16 K2 G16 K16 DB16 K2 DB/2</code></td><td>208</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/">Grant Hunting or Black Watch</a></td><td>0.00</td><td><code>DB/44 K4 DB4 K4 DB4 K32 G32 K4 G32 K32 DB32 K4 DB/4</code></td><td>416</td><td>1725</td></tr>
+<tr><td colspan="5" class="sett-variants">4 Variants: <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1/">Campbell</a> · <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/">Black Watch, A&amp;S Highlanders</a> · <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/">Grant Hunting or Black Watch</a> · <a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4~db1406275-k0700000/">Black Watch (Military)</a></td></tr>
+<tr><td><a href="/variants/s13/db12k2db2k2db2k10g12k3g12k10db11k2db2~x2/">Clan Tartan</a></td><td>0.41</td><td><code>DB/24 K4 DB4 K4 DB4 K20 G24 K6 G24 K20 DB22 K4 DB/4</code></td><td>300</td><td>1725</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db12k2db2k2db2k10g12k3g12k10db11k2db2~x2/"><img src="/variants/s13/db12k2db2k2db2k10g12k3g12k10db11k2db2~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db14k3db3k3db3k16g16k3g16k16db16k3db3~x2/">Campbell</a></td><td>0.49</td><td><code>DB/28 K6 DB6 K6 DB6 K32 G32 K6 G32 K32 DB32 K6 DB/6</code></td><td>426</td><td>1725</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db14k3db3k3db3k16g16k3g16k16db16k3db3~x2/"><img src="/variants/s13/db14k3db3k3db3k16g16k3g16k16db16k3db3~x2/sett.png" alt="Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/">Campbell</a></td><td>0.57</td><td><code>DB/4 K4 DB22 K20 G24 K6 G24 K20 DB4 K4 DB4 K4 DB/4</code></td><td>280</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/"><img src="db2k2db11k10g12k3g12k10db2k2db2k2db2-rev.png" alt="Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/">(Clan)</a></td><td>0.60</td><td><code>LB/28 K6 LB6 K6 LB6 K32 G32 K6 G32 K32 LB32 K6 LB/6</code></td><td>426</td><td>1725</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/"><img src="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

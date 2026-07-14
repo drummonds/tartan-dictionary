@@ -18,10 +18,10 @@ Its design is pattern [GGRGGGRGRGRGRGRG](/stripes/ggrgggrgrgrgrgrg/) — the pag
 The **Sarna** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7~x2/">Sarna</a></td><td><code>DY/26 R2 DY4 R4 DY4 R2 DY4 R10 DY22 R2 DY4 G4 DY4 R2 DY4 G/14</code></td><td>184</td><td>1783</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7~x2/"><img src="/variants/s16/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7~x2/sett.png" alt="Sarna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7~x2/">Sarna</a></td><td></td><td><code>DY/26 R2 DY4 R4 DY4 R2 DY4 R10 DY22 R2 DY4 G4 DY4 R2 DY4 G/14</code></td><td>184</td><td>1783</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7~x2/"><img src="/variants/s16/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7~x2/sett.png" alt="Sarna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GKWKWKGKRBRGKWR](/stripes/gkwkwkgkrbrgkwr/) — the page 
 The **Australian Defence Force Academy (Co** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/g3k1lb34k2w2k2y2k2r2db8r2g2k1lb2r2~x2/">Australian Defence Force Academy (Co</a></td><td><code>G/6 K2 LB68 K4 W4 K4 Y4 K4 R4 DB16 R4 G4 K2 LB4 R/4</code></td><td>258</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/g3k1lb34k2w2k2y2k2r2db8r2g2k1lb2r2~x2/"><img src="/variants/s15/g3k1lb34k2w2k2y2k2r2db8r2g2k1lb2r2~x2/sett.png" alt="Australian Defence Force Academy (Co sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g3k1lb34k2w2k2y2k2r2db8r2g2k1lb2r2~x2/">Australian Defence Force Academy (Co</a></td><td></td><td><code>G/6 K2 LB68 K4 W4 K4 Y4 K4 R4 DB16 R4 G4 K2 LB4 R/4</code></td><td>258</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g3k1lb34k2w2k2y2k2r2db8r2g2k1lb2r2~x2/"><img src="/variants/s15/g3k1lb34k2w2k2y2k2r2db8r2g2k1lb2r2~x2/sett.png" alt="Australian Defence Force Academy (Co sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

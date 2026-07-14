@@ -13,10 +13,10 @@ Its design is pattern [KGWGKGGKGGW](/stripes/kgwgkggkggw/) — the page of every
 The **University of North Texas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/">University of North Texas</a></td><td><code>K/2 Gi6 W6 DG30 K2 DG6 Gi4 K2 Gi2 G2 W/2</code></td><td>124</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/"><img src="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/sett.png" alt="University of North Texas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/">University of North Texas</a></td><td></td><td><code>K/2 Gi6 W6 DG30 K2 DG6 Gi4 K2 Gi2 G2 W/2</code></td><td>124</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/"><img src="/variants/s11/k1gi3w3dg15k1dg3gi2k1gi1g1w1~x2~gi2408144-dg1806142-g2106142/sett.png" alt="University of North Texas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBKGYGKYKGYGKB](/stripes/bbkgygkykgygkb/) — the page of
 The **Scout Mapping Service** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2~x2~dg1806142-ly3307090-g2408144/">Scout Mapping Service</a></td><td><code>DB/22 K16 DG16 LY4 G16 K2 LY4 K2 G16 LY4 DG16 K16 DB22 DR/4</code></td><td>294</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2~x2~dg1806142-ly3307090-g2408144/"><img src="/variants/s14/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2~x2~dg1806142-ly3307090-g2408144/sett.png" alt="Scout Mapping Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2~x2~dg1806142-ly3307090-g2408144/">Scout Mapping Service</a></td><td></td><td><code>DB/22 K16 DG16 LY4 G16 K2 LY4 K2 G16 LY4 DG16 K16 DB22 DR/4</code></td><td>294</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2~x2~dg1806142-ly3307090-g2408144/"><img src="/variants/s14/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2~x2~dg1806142-ly3307090-g2408144/sett.png" alt="Scout Mapping Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

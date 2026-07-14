@@ -18,10 +18,10 @@ Its design is pattern [RKRKRKBKRKRKRWRGRKGKRWRKGKRGRWRKRKRKGKRKRKR](/stripes/rkr
 The **Innes of Raemoir and Cowie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/">Innes of Raemoir and Cowie</a></td><td><code>R/64 K8 R8 K8 R8 K48 DB8 K48 R8 K8 R8 K8 R48 W8 R16 DG24 R16 K8 DG40 K8 R16 W8 R16 K8 DG40 K8 R16 DG24 R16 W8 R48 K8 R8 K8 R8 K48 DG8 K48 R8 K8 R8 K8 R/24</code></td><td>1512</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/"><img src="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/sett.png" alt="Innes of Raemoir and Cowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/">Innes of Raemoir and Cowie</a></td><td></td><td><code>R/64 K8 R8 K8 R8 K48 DB8 K48 R8 K8 R8 K8 R48 W8 R16 DG24 R16 K8 DG40 K8 R16 W8 R16 K8 DG40 K8 R16 DG24 R16 W8 R48 K8 R8 K8 R8 K48 DG8 K48 R8 K8 R8 K8 R/24</code></td><td>1512</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/"><img src="/variants/s43/r8k1r1k1r1k6db1k6r1k1r1k1r6w1r2dg3r2k1dg5k1r2w1r2k1dg5k1r2dg3r2w1r6k1r1k1r1k6dg1k6r1k1r1k1r3~x8/sett.png" alt="Innes of Raemoir and Cowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

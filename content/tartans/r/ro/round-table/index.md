@@ -15,11 +15,11 @@ Corporate tartan designed by Polly Wittering of House of Edgar in 1997 for the R
 The **Round Table** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2/">Round Table</a></td><td><code>DB/47 DG14 DP5 DO2 DR3 DG/7</code></td><td>204</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2/"><img src="/variants/s6/db47dg14dp5do2dr3dg7~x2/sett.png" alt="Round Table sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/db47dg14dp5do2dr3dg7~x2/">(1997)</a> · <a href="/variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/">of Britain and Ire Corporate Tartan</a></td></tr>
+<tr><td><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2/">Round Table</a></td><td></td><td><code>DB/47 DG14 DP5 DO2 DR3 DG/7</code></td><td>204</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2/"><img src="/variants/s6/db47dg14dp5do2dr3dg7~x2/sett.png" alt="Round Table sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/db47dg14dp5do2dr3dg7~x2/">(1997)</a> · <a href="/variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/">of Britain and Ire Corporate Tartan</a></td></tr>
 </tbody>
 </table>
 

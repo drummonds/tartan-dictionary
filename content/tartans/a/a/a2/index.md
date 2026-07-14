@@ -13,11 +13,11 @@ Its design is pattern [BRBBBBBW](/stripes/brbbbbbw/) — the page of every tarta
 The **A2** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/">A2</a></td><td><code>DB/6 R6 DB60 T6 DB6 T30 DB6 W/6</code></td><td>240</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/"><img src="/variants/s8/db1r1db10t1db1t5db1w1~x6/sett.png" alt="A2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/">(Personal)</a> · <a href="/variants/s8/db1r1db10t1db1t5db1w1~x6~db1404245/">(Personal)</a></td></tr>
+<tr><td><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/">A2</a></td><td></td><td><code>DB/6 R6 DB60 T6 DB6 T30 DB6 W/6</code></td><td>240</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/"><img src="/variants/s8/db1r1db10t1db1t5db1w1~x6/sett.png" alt="A2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/">(Personal)</a> · <a href="/variants/s8/db1r1db10t1db1t5db1w1~x6~db1404245/">(Personal)</a></td></tr>
 </tbody>
 </table>
 

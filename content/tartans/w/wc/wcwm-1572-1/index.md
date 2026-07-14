@@ -16,10 +16,10 @@ Its design is pattern [BBYBBWBBYBBBBBBWB](/stripes/bbybbwbbybbbbbbwb/) — the p
 The **Wcwm 1572-1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db4w6dr2do6t2db4t2do6lo1do2dr2w2dr2do2lo1do6t2~x4/">Wcwm 1572-1</a></td><td><code>DB/16 W24 DR8 DO24 T8 DB16 T8 DO24 LO4 DO8 DR8 W8 DR8 DO8 LO4 DO24 T/8</code></td><td>392</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db4w6dr2do6t2db4t2do6lo1do2dr2w2dr2do2lo1do6t2~x4/"><img src="/variants/s17/db4w6dr2do6t2db4t2do6lo1do2dr2w2dr2do2lo1do6t2~x4/sett.png" alt="Wcwm 1572-1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db4w6dr2do6t2db4t2do6lo1do2dr2w2dr2do2lo1do6t2~x4/">Wcwm 1572-1</a></td><td></td><td><code>DB/16 W24 DR8 DO24 T8 DB16 T8 DO24 LO4 DO8 DR8 W8 DR8 DO8 LO4 DO24 T/8</code></td><td>392</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db4w6dr2do6t2db4t2do6lo1do2dr2w2dr2do2lo1do6t2~x4/"><img src="/variants/s17/db4w6dr2do6t2db4t2do6lo1do2dr2w2dr2do2lo1do6t2~x4/sett.png" alt="Wcwm 1572-1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

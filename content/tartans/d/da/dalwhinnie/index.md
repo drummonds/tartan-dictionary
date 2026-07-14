@@ -20,10 +20,10 @@ Reconstructed by Don Rankin in 1982 from an illustration; sample held in STS col
 The **Dalwhinnie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/">Dalwhinnie</a></td><td><code>DG/70 Y6 LB28 G56 LB5 G11 LB5 G11 R/12</code></td><td>326</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><img src="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/sett.png" alt="Dalwhinnie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/">Dalwhinnie</a></td><td></td><td><code>DG/70 Y6 LB28 G56 LB5 G11 LB5 G11 R/12</code></td><td>326</td><td>1982</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><img src="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/sett.png" alt="Dalwhinnie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

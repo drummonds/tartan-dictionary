@@ -18,10 +18,10 @@ Its design is pattern [BWKBKRKBKRKG](/stripes/bwkbkrkbkrkg/) — the page of eve
 The **Saltcoats** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dp5w1k1t14k1r12k1t14k1r5k1y3~x2/">Saltcoats</a></td><td><code>DP/10 W2 K2 T28 K2 R24 K2 T28 K2 R10 K2 Y/6</code></td><td>220</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dp5w1k1t14k1r12k1t14k1r5k1y3~x2/"><img src="/variants/s12/dp5w1k1t14k1r12k1t14k1r5k1y3~x2/sett.png" alt="Saltcoats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dp5w1k1t14k1r12k1t14k1r5k1y3~x2/">Saltcoats</a></td><td></td><td><code>DP/10 W2 K2 T28 K2 R24 K2 T28 K2 R10 K2 Y/6</code></td><td>220</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dp5w1k1t14k1r12k1t14k1r5k1y3~x2/"><img src="/variants/s12/dp5w1k1t14k1r12k1t14k1r5k1y3~x2/sett.png" alt="Saltcoats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

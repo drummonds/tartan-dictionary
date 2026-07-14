@@ -13,10 +13,10 @@ Its design is pattern [KRKRKWKRKRKR](/stripes/krkrkwkrkrkr/) — the page of eve
 The **University of Georgia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/">University of Georgia</a></td><td><code>K/12 R62 K2 R12 K2 W4 K2 R8 K12 R4 K62 R/12</code></td><td>364</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><img src="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/sett.png" alt="University of Georgia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/">University of Georgia</a></td><td></td><td><code>K/12 R62 K2 R12 K2 W4 K2 R8 K12 R4 K62 R/12</code></td><td>364</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><img src="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/sett.png" alt="University of Georgia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

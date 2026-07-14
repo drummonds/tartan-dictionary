@@ -16,10 +16,10 @@ Its design is pattern [RBRWRKRBBBWR](/stripes/rbrwrkrbbbwr/) — the page of eve
 The **Orkney Magnus** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/">Orkney Magnus</a></td><td><code>O/28 DB2 O38 W2 O36 K6 O2 N14 DB4 N2 LB2 O/8</code></td><td>252</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/"><img src="/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/sett.png" alt="Orkney Magnus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/">Orkney Magnus</a></td><td></td><td><code>O/28 DB2 O38 W2 O36 K6 O2 N14 DB4 N2 LB2 O/8</code></td><td>252</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/"><img src="/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/sett.png" alt="Orkney Magnus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

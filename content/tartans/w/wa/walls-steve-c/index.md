@@ -13,10 +13,10 @@ Its design is pattern [KGKGGKBRWR](/stripes/kgkggkbrwr/) — the page of every t
 The **Walls, Steve C** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/">Walls, Steve C</a></td><td><code>K/6 Y4 K4 Y28 DY6 K12 DR16 R28 W4 R/6</code></td><td>216</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/"><img src="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/sett.png" alt="Walls, Steve C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/">Walls, Steve C</a></td><td></td><td><code>K/6 Y4 K4 Y28 DY6 K12 DR16 R28 W4 R/6</code></td><td>216</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/"><img src="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/sett.png" alt="Walls, Steve C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

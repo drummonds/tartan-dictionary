@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBBBGBBB](/stripes/bbbbbbbbgbbb/) — the page of eve
 The **Cara O Cruz** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/">Cara O Cruz</a></td><td><code>DB/21 N49 DB44 G5 DB3 DR5 DB40 N34 DB5 N16 DB5 N/13</code></td><td>446</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/"><img src="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/sett.png" alt="Cara O Cruz sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/">Cara O Cruz</a></td><td></td><td><code>DB/21 N49 DB44 G5 DB3 DR5 DB40 N34 DB5 N16 DB5 N/13</code></td><td>446</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/"><img src="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/sett.png" alt="Cara O Cruz sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

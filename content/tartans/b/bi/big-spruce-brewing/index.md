@@ -14,13 +14,13 @@ The **Big Spruce Brewing** tartan is one sett, recorded at 2 scales — the same
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dg11y1dg1y6k1y1~x4/">Big Spruce Brewing</a></td><td><code>DG/11 Y1 DG1 Y6 K1 Y/1</code></td><td>30</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg11y1dg1y6k1y1~x4/"><img src="/variants/s6/dg11y1dg1y6k1y1~x4/sett.png" alt="Big Spruce Brewing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/dg11y1dg1y6k1y1~x4/">Big Spruce Brewing</a></td><td><code>DG/44 Y4 DG4 Y24 K4 Y/4</code></td><td>120</td><td>2014</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s6/dg11y1dg1y6k1y1~x8/">Big Spruce Brewing</a></td><td><code>DG/88 Y8 DG8 Y48 K8 Y/8</code></td><td>240</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/dg11y1dg1y6k1y1~x4/">Big Spruce Brewing</a> · <a href="/variants/s6/dg11y1dg1y6k1y1~x8/">Big Spruce Brewing</a></td></tr>
+<tr><td><a href="/variants/s6/dg11y1dg1y6k1y1~x4/">Big Spruce Brewing</a></td><td></td><td><code>DG/11 Y1 DG1 Y6 K1 Y/1</code></td><td>30</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dg11y1dg1y6k1y1~x4/"><img src="/variants/s6/dg11y1dg1y6k1y1~x4/sett.png" alt="Big Spruce Brewing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/dg11y1dg1y6k1y1~x4/">Big Spruce Brewing</a></td><td>0.00</td><td><code>DG/44 Y4 DG4 Y24 K4 Y/4</code></td><td>120</td><td>2014</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s6/dg11y1dg1y6k1y1~x8/">Big Spruce Brewing</a></td><td>0.00</td><td><code>DG/88 Y8 DG8 Y48 K8 Y/8</code></td><td>240</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/dg11y1dg1y6k1y1~x4/">Big Spruce Brewing</a> · <a href="/variants/s6/dg11y1dg1y6k1y1~x8/">Big Spruce Brewing</a></td></tr>
 </tbody>
 </table>
 

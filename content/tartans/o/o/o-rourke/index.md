@@ -13,11 +13,11 @@ Its design is pattern [BKGKYWYKG](/stripes/bkgkywykg/) — the page of every tar
 The **O'Rourke** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-dy1503076-lr2800000/">O'Rourke</a></td><td><code>T/100 K4 DY24 K4 LR40 W12 LR40 K4 Y/12</code></td><td>368</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-dy1503076-lr2800000/"><img src="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-dy1503076-lr2800000/sett.png" alt="O'Rourke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-dy1503076-lr2800000/">(Estimated threadcount)</a> · <a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-lr2800000/">(Name?)</a></td></tr>
+<tr><td><a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-dy1503076-lr2800000/">O'Rourke</a></td><td></td><td><code>T/100 K4 DY24 K4 LR40 W12 LR40 K4 Y/12</code></td><td>368</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-dy1503076-lr2800000/"><img src="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-dy1503076-lr2800000/sett.png" alt="O'Rourke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-dy1503076-lr2800000/">(Estimated threadcount)</a> · <a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-lr2800000/">(Name?)</a></td></tr>
 </tbody>
 </table>
 

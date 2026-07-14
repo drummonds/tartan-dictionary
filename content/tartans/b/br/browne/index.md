@@ -13,10 +13,10 @@ Its design is pattern [BBBBBRBW](/stripes/bbbbbrbw/) — the page of every tarta
 The **Browne** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/">Browne</a></td><td><code>N/20 DB2 N2 DB2 N2 O47 DB24 W/2</code></td><td>180</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/"><img src="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/sett.png" alt="Browne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/">Browne</a></td><td></td><td><code>N/20 DB2 N2 DB2 N2 O47 DB24 W/2</code></td><td>180</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/"><img src="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/sett.png" alt="Browne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

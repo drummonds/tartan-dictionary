@@ -20,10 +20,10 @@ The bold red-and-black check recorded as "Rob Roy" is a MacGregor tartan — nam
 The **MacGregor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r96dg24r10dg12r10dg12k1w4k1dg12r10dg24r48~x2/">MacGregor</a></td><td><code>R/192 DG48 R20 DG24 R20 DG24 K2 W8 K2 DG24 R20 DG48 R/96</code></td><td>768</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r96dg24r10dg12r10dg12k1w4k1dg12r10dg24r48~x2/"><img src="/variants/s13/r96dg24r10dg12r10dg12k1w4k1dg12r10dg24r48~x2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r96dg24r10dg12r10dg12k1w4k1dg12r10dg24r48~x2/">MacGregor</a></td><td></td><td><code>R/192 DG48 R20 DG24 R20 DG24 K2 W8 K2 DG24 R20 DG48 R/96</code></td><td>768</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r96dg24r10dg12r10dg12k1w4k1dg12r10dg24r48~x2/"><img src="/variants/s13/r96dg24r10dg12r10dg12k1w4k1dg12r10dg24r48~x2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

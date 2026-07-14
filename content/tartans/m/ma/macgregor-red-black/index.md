@@ -21,18 +21,18 @@ The **MacGregor (Red & Black)** tartan is one sett, recorded at 7 scales — the
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s2/k1r1~x100/">MacGregor (Red &amp; Black)</a></td><td><code>K/1 R/1</code></td><td>2</td><td>1704</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s2/k1r1~x100/"><img src="/variants/s2/k1r1~x100/sett.png" alt="MacGregor (Red &amp; Black) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s2/k1r1~x4/">Welsh Costume (Personal)</a></td><td><code>K/4 R/4</code></td><td>8</td><td>1986</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s2/k1r1~x8/">Rob Roy</a></td><td><code>K/8 R/8</code></td><td>16</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×16 — <a href="/variants/s2/k1r1~x16/">Rob Roy MacGregor</a></td><td><code>K/16 R/16</code></td><td>32</td><td>1815</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×20 — <a href="/variants/s2/k1r1~x20/">Masai Shuka 03 (Artefact)</a></td><td><code>K/20 R/20</code></td><td>40</td><td>~2007</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×66 — <a href="/variants/s2/k1r1~x66/">Rob Roy</a></td><td><code>K/66 R/66</code></td><td>132</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/k1r1~x100/">MacGregor - 1816 (Red &amp; Black)</a></td><td><code>K/100 R/100</code></td><td>200</td><td>1704</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×172 — <a href="/variants/s2/k1r1~x172/">Rob Roy Macgregor</a></td><td><code>K/172 R/172</code></td><td>344</td><td>1704</td></tr>
-<tr><td colspan="4" class="sett-variants">7 Variants: <a href="/variants/s2/k1r1~x100/">MacGregor - 1816 (Red &amp; Black)</a> · <a href="/variants/s2/k1r1~x16/">Rob Roy MacGregor</a> · <a href="/variants/s2/k1r1~x172/">Rob Roy Macgregor</a> · <a href="/variants/s2/k1r1~x20/">Masai Shuka 03 (Artefact)</a> · <a href="/variants/s2/k1r1~x4/">Welsh Costume (Personal)</a> · <a href="/variants/s2/k1r1~x66/">Rob Roy</a> · <a href="/variants/s2/k1r1~x8/">Rob Roy</a></td></tr>
+<tr><td><a href="/variants/s2/k1r1~x100/">MacGregor (Red &amp; Black)</a></td><td></td><td><code>K/1 R/1</code></td><td>2</td><td>1704</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s2/k1r1~x100/"><img src="/variants/s2/k1r1~x100/sett.png" alt="MacGregor (Red &amp; Black) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s2/k1r1~x4/">Welsh Costume (Personal)</a></td><td>0.00</td><td><code>K/4 R/4</code></td><td>8</td><td>1986</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s2/k1r1~x8/">Rob Roy</a></td><td>0.00</td><td><code>K/8 R/8</code></td><td>16</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×16 — <a href="/variants/s2/k1r1~x16/">Rob Roy MacGregor</a></td><td>0.00</td><td><code>K/16 R/16</code></td><td>32</td><td>1815</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×20 — <a href="/variants/s2/k1r1~x20/">Masai Shuka 03 (Artefact)</a></td><td>0.00</td><td><code>K/20 R/20</code></td><td>40</td><td>~2007</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×66 — <a href="/variants/s2/k1r1~x66/">Rob Roy</a></td><td>0.00</td><td><code>K/66 R/66</code></td><td>132</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/k1r1~x100/">MacGregor - 1816 (Red &amp; Black)</a></td><td>0.00</td><td><code>K/100 R/100</code></td><td>200</td><td>1704</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×172 — <a href="/variants/s2/k1r1~x172/">Rob Roy Macgregor</a></td><td>0.00</td><td><code>K/172 R/172</code></td><td>344</td><td>1704</td></tr>
+<tr><td colspan="5" class="sett-variants">7 Variants: <a href="/variants/s2/k1r1~x100/">MacGregor - 1816 (Red &amp; Black)</a> · <a href="/variants/s2/k1r1~x16/">Rob Roy MacGregor</a> · <a href="/variants/s2/k1r1~x172/">Rob Roy Macgregor</a> · <a href="/variants/s2/k1r1~x20/">Masai Shuka 03 (Artefact)</a> · <a href="/variants/s2/k1r1~x4/">Welsh Costume (Personal)</a> · <a href="/variants/s2/k1r1~x66/">Rob Roy</a> · <a href="/variants/s2/k1r1~x8/">Rob Roy</a></td></tr>
 </tbody>
 </table>
 

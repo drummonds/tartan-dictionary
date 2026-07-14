@@ -13,10 +13,10 @@ Its design is pattern [BYBGBGBW](/stripes/bybgbgbw/) — the page of every tarta
 The **21st Century** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/">21st Century</a></td><td><code>W/8 DB76 G12 DR4 G12 DR76 LY4 DR/6</code></td><td>382</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/"><img src="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/sett.png" alt="21st Century sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/">21st Century</a></td><td></td><td><code>W/8 DB76 G12 DR4 G12 DR76 LY4 DR/6</code></td><td>382</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/"><img src="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/sett.png" alt="21st Century sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

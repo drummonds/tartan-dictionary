@@ -22,12 +22,12 @@ The **Kinnaird** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/n33k4n4k5n4k7db41r4~x2/">Kinnaird</a> ★</td><td><code>N/66 K8 N8 K10 N8 K14 DB82 R/8</code></td><td>334</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n33k4n4k5n4k7db41r4~x2/"><img src="/variants/s8/n33k4n4k5n4k7db41r4~x2/sett.png" alt="Kinnaird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/b33k4b4k5b4k7db41r4~x2/">Kinnaird</a></td><td><code>B/66 K8 B8 K10 B8 K14 DB82 R/8</code></td><td>334</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/b33k4b4k5b4k7db41r4~x2/"><img src="/variants/s8/b33k4b4k5b4k7db41r4~x2/sett.png" alt="Kinnaird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n33k4n4k5n4k7db41r4~x2/">Kinnaird</a> ★</td><td></td><td><code>N/66 K8 N8 K10 N8 K14 DB82 R/8</code></td><td>334</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/n33k4n4k5n4k7db41r4~x2/"><img src="/variants/s8/n33k4n4k5n4k7db41r4~x2/sett.png" alt="Kinnaird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/b33k4b4k5b4k7db41r4~x2/">Kinnaird</a></td><td>2.85</td><td><code>B/66 K8 B8 K10 B8 K14 DB82 R/8</code></td><td>334</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/b33k4b4k5b4k7db41r4~x2/"><img src="/variants/s8/b33k4b4k5b4k7db41r4~x2/sett.png" alt="Kinnaird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

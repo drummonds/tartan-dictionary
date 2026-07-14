@@ -20,10 +20,10 @@ Derived from Dominique Dupra's 1739 portrait of the Duke of Perth; white stripe 
 The **Perth** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/">Perth</a></td><td><code>DB/60 R28 DB4 R28 G40 W2 G4 W2 G40 R88 DB8 R20 LB2 R/8</code></td><td>600</td><td>1739</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/"><img src="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/sett.png" alt="Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/">Perth</a></td><td></td><td><code>DB/60 R28 DB4 R28 G40 W2 G4 W2 G40 R88 DB8 R20 LB2 R/8</code></td><td>600</td><td>1739</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/"><img src="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/sett.png" alt="Perth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GYGRYR](/stripes/gygryr/) — the page of every tartan sh
 The **Buchele Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r4ly1r3g1ly8g2~x4/">Buchele Check</a></td><td><code>R/16 LY4 R12 G4 LY32 G/8</code></td><td>128</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r4ly1r3g1ly8g2~x4/"><img src="/variants/s6/r4ly1r3g1ly8g2~x4/sett.png" alt="Buchele Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r4ly1r3g1ly8g2~x4/">Buchele Check</a></td><td></td><td><code>R/16 LY4 R12 G4 LY32 G/8</code></td><td>128</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r4ly1r3g1ly8g2~x4/"><img src="/variants/s6/r4ly1r3g1ly8g2~x4/sett.png" alt="Buchele Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

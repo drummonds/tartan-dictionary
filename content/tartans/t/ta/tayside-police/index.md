@@ -13,10 +13,10 @@ Its design is pattern [BKBWKBYBK](/stripes/bkbwkbybk/) — the page of every tar
 The **Tayside Police** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/">Tayside Police</a></td><td><code>K/24 DR24 LY6 DR8 K20 W4 DT34 K26 N/8</code></td><td>276</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/"><img src="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/sett.png" alt="Tayside Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/">Tayside Police</a></td><td></td><td><code>K/24 DR24 LY6 DR8 K20 W4 DT34 K26 N/8</code></td><td>276</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/"><img src="/variants/s9/k12dr12ly3dr4k10w2dt17k13n4~x2/sett.png" alt="Tayside Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

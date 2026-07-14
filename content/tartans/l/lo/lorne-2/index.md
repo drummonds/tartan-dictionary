@@ -19,13 +19,13 @@ The **Lorne** tartan is one sett, recorded at 2 scales — the same proportion w
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/">Lorne</a></td><td><code>DB/2 K1 G8 K1 G1 K1 G1 K8 DB1 K1 DB1 K1 DB8 K1 G/2</code></td><td>72</td><td>1871</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/"><img src="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/sett.png" alt="Lorne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/">Lorne</a></td><td><code>DB/4 K2 G16 K2 G2 K2 G2 K16 DB2 K2 DB2 K2 DB16 K2 G/4</code></td><td>144</td><td>1871</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/">Marquis of</a></td><td><code>DB/8 K4 G32 K4 G4 K4 G4 K32 DB4 K4 DB4 K4 DB32 K4 G/8</code></td><td>288</td><td>1871</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/">Lorne</a> · <a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/">Marquis of</a></td></tr>
+<tr><td><a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/">Lorne</a></td><td></td><td><code>DB/2 K1 G8 K1 G1 K1 G1 K8 DB1 K1 DB1 K1 DB8 K1 G/2</code></td><td>72</td><td>1871</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/"><img src="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/sett.png" alt="Lorne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/">Lorne</a></td><td>0.00</td><td><code>DB/4 K2 G16 K2 G2 K2 G2 K16 DB2 K2 DB2 K2 DB16 K2 G/4</code></td><td>144</td><td>1871</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/">Marquis of</a></td><td>0.00</td><td><code>DB/8 K4 G32 K4 G4 K4 G4 K32 DB4 K4 DB4 K4 DB32 K4 G/8</code></td><td>288</td><td>1871</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/">Lorne</a> · <a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/">Marquis of</a></td></tr>
 </tbody>
 </table>
 

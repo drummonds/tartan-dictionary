@@ -18,10 +18,10 @@ MacKenzie clan tartan, documented from 1778.
 The **MacKenzie MINI Clan Miniature** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/">MacKenzie MINI Clan Miniature</a></td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 K2 W4 K2 G12 K12 DB12 K2 R/4</code></td><td>172</td><td>1778</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><img src="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/sett.png" alt="MacKenzie MINI Clan Miniature sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/">MacKenzie MINI Clan Miniature</a></td><td></td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 K2 W4 K2 G12 K12 DB12 K2 R/4</code></td><td>172</td><td>1778</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><img src="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/sett.png" alt="MacKenzie MINI Clan Miniature sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

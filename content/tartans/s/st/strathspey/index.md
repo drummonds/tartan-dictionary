@@ -18,10 +18,10 @@ Its design is pattern [GBWGKG](/stripes/gbwgkg/) — the page of every tartan sh
 The **Strathspey** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g3dr22lb5g10k10g2~x2/">Strathspey</a></td><td><code>G/6 DR44 LB10 G20 K20 G/4</code></td><td>198</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><img src="/variants/s6/g3dr22lb5g10k10g2~x2/sett.png" alt="Strathspey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g3dr22lb5g10k10g2~x2/">Strathspey</a></td><td></td><td><code>G/6 DR44 LB10 G20 K20 G/4</code></td><td>198</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><img src="/variants/s6/g3dr22lb5g10k10g2~x2/sett.png" alt="Strathspey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KBKYKYKGBKBY](/stripes/kbkykykgbkby/) — the page of eve
 The **Stewart/Stuart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/">Stewart/Stuart</a></td><td><code>K/96 T8 K12 LY4 K4 LR4 K4 G16 DR8 K4 DR8 LR/4</code></td><td>244</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><img src="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/sett.png" alt="Stewart/Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/">Stewart/Stuart</a></td><td></td><td><code>K/96 T8 K12 LY4 K4 LR4 K4 G16 DR8 K4 DR8 LR/4</code></td><td>244</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><img src="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/sett.png" alt="Stewart/Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

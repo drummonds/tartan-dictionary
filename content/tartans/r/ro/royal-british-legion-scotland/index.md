@@ -13,10 +13,10 @@ Its design is pattern [RBBBKBBY](/stripes/rbbbkbby/) — the page of every tarta
 The **Royal British Legion Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/">Royal British Legion Scotland</a></td><td><code>LY/8 DP4 DB60 K6 DP16 DB10 DP2 R/4</code></td><td>208</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/"><img src="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/sett.png" alt="Royal British Legion Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/">Royal British Legion Scotland</a></td><td></td><td><code>LY/8 DP4 DB60 K6 DP16 DB10 DP2 R/4</code></td><td>208</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/"><img src="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/sett.png" alt="Royal British Legion Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RBWBWKGRGKGBGBGKWBR](/stripes/rbwbwkgrgkgbgbgkwbr/) — t
 The **Lauder Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/">Lauder Dress</a></td><td><code>R/4 DB4 W52 DB5 W5 K26 DG25 R6 DG28 K25 DG3 DB26 DG6 DB25 DG3 K27 W50 DB4 R/4</code></td><td>648</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/"><img src="/variants/s19/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/sett.png" alt="Lauder Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/">Lauder Dress</a></td><td></td><td><code>R/4 DB4 W52 DB5 W5 K26 DG25 R6 DG28 K25 DG3 DB26 DG6 DB25 DG3 K27 W50 DB4 R/4</code></td><td>648</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/"><img src="/variants/s19/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/sett.png" alt="Lauder Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

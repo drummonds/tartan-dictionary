@@ -16,10 +16,10 @@ Its design is pattern [GRGRGBBWKW](/stripes/grgrgbbwkw/) — the page of every t
 The **Scotland the Brave Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w3k1w20dp1db6g6o3g1o1g2~x4/">Scotland the Brave Dress</a></td><td><code>W/12 K4 W80 DP4 DB24 G24 O12 G4 O4 G/8</code></td><td>332</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w3k1w20dp1db6g6o3g1o1g2~x4/"><img src="/variants/s10/w3k1w20dp1db6g6o3g1o1g2~x4/sett.png" alt="Scotland the Brave Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w3k1w20dp1db6g6o3g1o1g2~x4/">Scotland the Brave Dress</a></td><td></td><td><code>W/12 K4 W80 DP4 DB24 G24 O12 G4 O4 G/8</code></td><td>332</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w3k1w20dp1db6g6o3g1o1g2~x4/"><img src="/variants/s10/w3k1w20dp1db6g6o3g1o1g2~x4/sett.png" alt="Scotland the Brave Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

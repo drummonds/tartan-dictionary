@@ -13,10 +13,10 @@ Its design is pattern [RWRKRWKYWWKRKWKY](/stripes/rwrkrwkywwkrkwky/) — the pag
 The **Puccini's Madama Butterfly** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/">Puccini's Madama Butterfly</a></td><td><code>R/12 Wi2 R2 K30 R2 Wi4 K2 LY10 Wi50 W10 K2 Ri10 K2 Wi10 K2 LY/10</code></td><td>298</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/"><img src="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/sett.png" alt="Puccini's Madama Butterfly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/">Puccini's Madama Butterfly</a></td><td></td><td><code>R/12 Wi2 R2 K30 R2 Wi4 K2 LY10 Wi50 W10 K2 Ri10 K2 Wi10 K2 LY/10</code></td><td>298</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/"><img src="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/sett.png" alt="Puccini's Madama Butterfly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

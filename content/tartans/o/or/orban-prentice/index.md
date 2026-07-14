@@ -13,10 +13,10 @@ Its design is pattern [GBGBRBG](/stripes/gbgbrbg/) — the page of every tartan 
 The **Orban-Prentice** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg25db4r24db21dy25db4dg3~x2/">Orban-Prentice</a></td><td><code>DG/50 DB8 R48 DB42 DY50 DB8 DG/6</code></td><td>368</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg25db4r24db21dy25db4dg3~x2/"><img src="/variants/s7/dg25db4r24db21dy25db4dg3~x2/sett.png" alt="Orban-Prentice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg25db4r24db21dy25db4dg3~x2/">Orban-Prentice</a></td><td></td><td><code>DG/50 DB8 R48 DB42 DY50 DB8 DG/6</code></td><td>368</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg25db4r24db21dy25db4dg3~x2/"><img src="/variants/s7/dg25db4r24db21dy25db4dg3~x2/sett.png" alt="Orban-Prentice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Designed in 2001 by Jerry M P Allen for use by his family and relations.
 The **Allen Northumbrian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/">Allen Northumbrian</a></td><td><code>DB/22 R2 DB4 R6 DB2 DO16 G22 W2 G22 DO16 DB16 Y2 R2 Y/2</code></td><td>248</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/"><img src="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/sett.png" alt="Allen Northumbrian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/">Allen Northumbrian</a></td><td></td><td><code>DB/22 R2 DB4 R6 DB2 DO16 G22 W2 G22 DO16 DB16 Y2 R2 Y/2</code></td><td>248</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/"><img src="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/sett.png" alt="Allen Northumbrian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

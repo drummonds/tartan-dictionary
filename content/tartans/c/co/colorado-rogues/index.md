@@ -16,10 +16,10 @@ Its design is pattern [BWRKGWBWGKBRG](/stripes/bwrkgwbwgkbrg/) — the page of e
 The **Colorado Rogues** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/">Colorado Rogues</a></td><td><code>DR/6 W6 R16 K16 G22 W2 DP2 W2 G22 K16 DB13 R2 Y/4</code></td><td>248</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/"><img src="/variants/s13/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/sett.png" alt="Colorado Rogues sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/">Colorado Rogues</a></td><td></td><td><code>DR/6 W6 R16 K16 G22 W2 DP2 W2 G22 K16 DB13 R2 Y/4</code></td><td>248</td><td>~2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/"><img src="/variants/s13/dr6w6r16k16g22w2dp2w2g22k16db13r2y4/sett.png" alt="Colorado Rogues sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GWRGRW](/stripes/gwrgrw/) — the page of every tartan sh
 The **MacDonald of Glenaladale** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g5w2r27g27r5w2~x2/">MacDonald of Glenaladale</a></td><td><code>G/10 W4 R54 G54 R10 W/4</code></td><td>258</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g5w2r27g27r5w2~x2/"><img src="/variants/s6/g5w2r27g27r5w2~x2/sett.png" alt="MacDonald of Glenaladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g5w2r27g27r5w2~x2/">MacDonald of Glenaladale</a></td><td></td><td><code>G/10 W4 R54 G54 R10 W/4</code></td><td>258</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g5w2r27g27r5w2~x2/"><img src="/variants/s6/g5w2r27g27r5w2~x2/sett.png" alt="MacDonald of Glenaladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,15 +18,15 @@ The **MacQuarrie SM** tartan groups 2 setts — the same named design recorded a
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/">MacQuarrie SM</a> ★</td><td><code>R/1 LB1 R6 DB3 R1 G6 R1 G6 R6 DB1 R1 LB/1</code></td><td>66</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/"><img src="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/sett.png" alt="MacQuarrie SM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/">MacQuarrie SM</a></td><td><code>R/1 LB1 R6 DB3 R1 G6 R1 G6 R6 DB1 R1 LB/1</code></td><td>66</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1~x2/">MacQuarrie</a></td><td><code>R/2 LB2 R12 DB6 R2 G12 R2 G12 R12 DB2 R2 LB/2</code></td><td>132</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/">MacQuarrie SM</a> · <a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1~x2/">MacQuarrie</a></td></tr>
-<tr><td><a href="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/">MacQuarrie SM</a></td><td><code>R/2 W2 R12 DB6 R2 G12 R2 G12 R12 DB2 R2 W/2</code></td><td>132</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/"><img src="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/sett.png" alt="MacQuarrie SM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/">MacQuarrie SM</a> ★</td><td></td><td><code>R/1 LB1 R6 DB3 R1 G6 R1 G6 R6 DB1 R1 LB/1</code></td><td>66</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/"><img src="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/sett.png" alt="MacQuarrie SM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/">MacQuarrie SM</a></td><td>0.00</td><td><code>R/1 LB1 R6 DB3 R1 G6 R1 G6 R6 DB1 R1 LB/1</code></td><td>66</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1~x2/">MacQuarrie</a></td><td>0.00</td><td><code>R/2 LB2 R12 DB6 R2 G12 R2 G12 R12 DB2 R2 LB/2</code></td><td>132</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/">MacQuarrie SM</a> · <a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1~x2/">MacQuarrie</a></td></tr>
+<tr><td><a href="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/">MacQuarrie SM</a></td><td>0.60</td><td><code>R/2 W2 R12 DB6 R2 G12 R2 G12 R12 DB2 R2 W/2</code></td><td>132</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/"><img src="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/sett.png" alt="MacQuarrie SM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

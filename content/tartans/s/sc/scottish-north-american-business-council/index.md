@@ -13,10 +13,10 @@ Its design is pattern [BRBBRBBBRBBBRBBRBW](/stripes/brbbrbbbrbbbrbbrbw/) — the
 The **Scottish North American Business Council** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/">Scottish North American Business Council</a></td><td><code>DB/8 R8 DBi24 DB16 R8 DB8 DBi24 DB24 R8 DB24 DBi24 DB8 R8 DB16 DBi24 R8 DB8 W/4</code></td><td>492</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/"><img src="/variants/s18/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/sett.png" alt="Scottish North American Business Council sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/">Scottish North American Business Council</a></td><td></td><td><code>DB/8 R8 DBi24 DB16 R8 DB8 DBi24 DB24 R8 DB24 DBi24 DB8 R8 DB16 DBi24 R8 DB8 W/4</code></td><td>492</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/"><img src="/variants/s18/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/sett.png" alt="Scottish North American Business Council sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

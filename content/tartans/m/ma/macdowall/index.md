@@ -15,10 +15,10 @@ Designed 2007 for the senior MacDowall branch; modified Hunting Stewart of Gallo
 The **MacDowall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/">MacDowall</a></td><td><code>Y/6 W24 K6 W6 K6 W6 K14 DB96 K14 DB6 G28 W/6</code></td><td>424</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/"><img src="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/sett.png" alt="MacDowall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/">MacDowall</a></td><td></td><td><code>Y/6 W24 K6 W6 K6 W6 K14 DB96 K14 DB6 G28 W/6</code></td><td>424</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/"><img src="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/sett.png" alt="MacDowall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

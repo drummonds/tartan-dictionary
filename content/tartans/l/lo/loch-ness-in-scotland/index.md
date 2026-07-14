@@ -13,10 +13,10 @@ Its design is pattern [GBYBGBR](/stripes/gbybgbr/) — the page of every tartan 
 The **Loch Ness in Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/">Loch Ness in Scotland</a></td><td><code>G/8 DB56 LG24 N4 G4 N24 R/4</code></td><td>236</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/"><img src="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/sett.png" alt="Loch Ness in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/">Loch Ness in Scotland</a></td><td></td><td><code>G/8 DB56 LG24 N4 G4 N24 R/4</code></td><td>236</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/"><img src="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/sett.png" alt="Loch Ness in Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

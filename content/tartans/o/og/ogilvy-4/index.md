@@ -19,13 +19,13 @@ The **Ogilvy** tartan is one sett, recorded at 2 scales — the same proportion 
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2/">Ogilvy</a></td><td><code>LB/10 R3 LB10 Y5 K2 R6 W2 R6 W2 R6 DR2 Y2 LB5 W/2</code></td><td>114</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2/"><img src="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2/sett.png" alt="Ogilvy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2/">Ogilvy</a></td><td><code>LB/10 R3 LB10 Y5 K2 R6 W2 R6 W2 R6 DR2 Y2 LB5 W/2</code></td><td>114</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2~x2/">Ogilvy</a></td><td><code>LB/20 R6 LB20 Y10 K4 R12 W4 R12 W4 R12 DR4 Y4 LB10 W/4</code></td><td>228</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2/">Ogilvy</a> · <a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2~x2/">Ogilvy</a></td></tr>
+<tr><td><a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2/">Ogilvy</a></td><td></td><td><code>LB/10 R3 LB10 Y5 K2 R6 W2 R6 W2 R6 DR2 Y2 LB5 W/2</code></td><td>114</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2/"><img src="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2/sett.png" alt="Ogilvy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2/">Ogilvy</a></td><td>0.00</td><td><code>LB/10 R3 LB10 Y5 K2 R6 W2 R6 W2 R6 DR2 Y2 LB5 W/2</code></td><td>114</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2~x2/">Ogilvy</a></td><td>0.00</td><td><code>LB/20 R6 LB20 Y10 K4 R12 W4 R12 W4 R12 DR4 Y4 LB10 W/4</code></td><td>228</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2/">Ogilvy</a> · <a href="/variants/s14/lb10r3lb10y5k2r6w2r6w2r6dr2y2lb5w2~x2/">Ogilvy</a></td></tr>
 </tbody>
 </table>
 

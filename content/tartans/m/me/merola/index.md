@@ -13,10 +13,10 @@ Its design is pattern [KBGKGK](/stripes/kbgkgk/) — the page of every tartan sh
 The **Merola** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k36y5k1y1n5k12~x2/">Merola</a></td><td><code>K/72 Y10 K2 Y2 N10 K/24</code></td><td>144</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k36y5k1y1n5k12~x2/"><img src="/variants/s6/k36y5k1y1n5k12~x2/sett.png" alt="Merola sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k36y5k1y1n5k12~x2/">Merola</a></td><td></td><td><code>K/72 Y10 K2 Y2 N10 K/24</code></td><td>144</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k36y5k1y1n5k12~x2/"><img src="/variants/s6/k36y5k1y1n5k12~x2/sett.png" alt="Merola sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

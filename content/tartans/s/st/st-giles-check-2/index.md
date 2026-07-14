@@ -13,10 +13,10 @@ Its design is pattern [BRWR](/stripes/brwr/) — the page of every tartan sharin
 The **St. Giles Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/">St. Giles Check</a></td><td><code>DB/12 O4 W4 O100 W4 O4 DP/12</code></td><td>256</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/"><img src="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/sett.png" alt="St. Giles Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/">St. Giles Check</a></td><td></td><td><code>DB/12 O4 W4 O100 W4 O4 DP/12</code></td><td>256</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/"><img src="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/sett.png" alt="St. Giles Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

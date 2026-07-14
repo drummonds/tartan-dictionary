@@ -13,10 +13,10 @@ Its design is pattern [BWBGBGRGBGRGBWBG](/stripes/bwbgbgrgbgrgbwbg/) — the pag
 The **Pina** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/">Pina</a></td><td><code>G/8 DB4 LB24 DB24 G16 R4 G72 DB4 G4 R4 G4 DB4 G16 DB40 LB24 DB/4</code></td><td>500</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/"><img src="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/sett.png" alt="Pina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/">Pina</a></td><td></td><td><code>G/8 DB4 LB24 DB24 G16 R4 G72 DB4 G4 R4 G4 DB4 G16 DB40 LB24 DB/4</code></td><td>500</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/"><img src="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/sett.png" alt="Pina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

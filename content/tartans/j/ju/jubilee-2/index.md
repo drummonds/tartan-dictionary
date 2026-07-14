@@ -18,10 +18,10 @@ Its design is pattern [GRGWGWGGGWGWGWGW](/stripes/grgwgwgggwgwgwgw/) — the pag
 The **Jubilee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/">Jubilee</a></td><td><code>G/17 R3 G17 LB19 G3 LB19 G17 Y3 G17 LB5 G4 LB10 G3 LB10 G4 LB/5</code></td><td>290</td><td>1935</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/"><img src="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/sett.png" alt="Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/">Jubilee</a></td><td></td><td><code>G/17 R3 G17 LB19 G3 LB19 G17 Y3 G17 LB5 G4 LB10 G3 LB10 G4 LB/5</code></td><td>290</td><td>1935</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/"><img src="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/sett.png" alt="Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

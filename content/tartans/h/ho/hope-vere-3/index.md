@@ -13,10 +13,10 @@ Its design is pattern [BKGKBKGKGKBKGKBKG](/stripes/bkgkbkgkgkbkgkbkg/) — the p
 The **Hope-Vere** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/">Hope-Vere</a></td><td><code>G/36 K2 DB6 K2 G6 K16 DB36 K2 Y2 K10 Y2 K2 DB36 K16 G4 K2 DB/4</code></td><td>328</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/"><img src="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/sett.png" alt="Hope-Vere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/">Hope-Vere</a></td><td></td><td><code>G/36 K2 DB6 K2 G6 K16 DB36 K2 Y2 K10 Y2 K2 DB36 K16 G4 K2 DB/4</code></td><td>328</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/"><img src="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/sett.png" alt="Hope-Vere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

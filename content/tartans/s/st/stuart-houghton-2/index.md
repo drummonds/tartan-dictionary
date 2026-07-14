@@ -13,10 +13,10 @@ Its design is pattern [BKBWBKBBKWKWKGBG](/stripes/bkbwbkbbkwkwkgbg/) — the pag
 The **Stuart-Houghton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/">Stuart-Houghton</a></td><td><code>DB/22 K8 DB8 W4 DB8 K8 DB22 DR52 K8 W6 K8 W4 K28 DG20 DB32 DG/12</code></td><td>466</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/"><img src="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/sett.png" alt="Stuart-Houghton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/">Stuart-Houghton</a></td><td></td><td><code>DB/22 K8 DB8 W4 DB8 K8 DB22 DR52 K8 W6 K8 W4 K28 DG20 DB32 DG/12</code></td><td>466</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/"><img src="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/sett.png" alt="Stuart-Houghton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

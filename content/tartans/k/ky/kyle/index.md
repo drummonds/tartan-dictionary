@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRBR](/stripes/brbrbrbr/) — the page of every tarta
 The **Kyle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r54dp6r5dp6r10dp3r2dp18~x2/">Kyle</a></td><td><code>R/108 DP12 R10 DP12 R20 DP6 R4 DP/36</code></td><td>272</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r54dp6r5dp6r10dp3r2dp18~x2/"><img src="/variants/s8/r54dp6r5dp6r10dp3r2dp18~x2/sett.png" alt="Kyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r54dp6r5dp6r10dp3r2dp18~x2/">Kyle</a></td><td></td><td><code>R/108 DP12 R10 DP12 R20 DP6 R4 DP/36</code></td><td>272</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r54dp6r5dp6r10dp3r2dp18~x2/"><img src="/variants/s8/r54dp6r5dp6r10dp3r2dp18~x2/sett.png" alt="Kyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

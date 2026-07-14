@@ -16,11 +16,11 @@ Its design is pattern [WGWGRGRGRKWWWWWW](/stripes/wgwgrgrgrkwwwwww/) — the pag
 The **Inverness County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/">Inverness County</a></td><td><code>LB/72 Y8 LB8 Y4 R12 G12 R8 G8 R4 K8 LB12 W28 LB8 W8 LB4 W/16</code></td><td>352</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/"><img src="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/sett.png" alt="Inverness County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/">(Canada) (District)</a> · <a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4~w3600000/">(Canada)</a></td></tr>
+<tr><td><a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/">Inverness County</a></td><td></td><td><code>LB/72 Y8 LB8 Y4 R12 G12 R8 G8 R4 K8 LB12 W28 LB8 W8 LB4 W/16</code></td><td>352</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/"><img src="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/sett.png" alt="Inverness County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/">(Canada) (District)</a> · <a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4~w3600000/">(Canada)</a></td></tr>
 </tbody>
 </table>
 

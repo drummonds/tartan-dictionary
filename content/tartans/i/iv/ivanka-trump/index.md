@@ -13,10 +13,10 @@ Its design is pattern [RWKWKWRWRWWWRKW](/stripes/rwkwkwrwrwwwrkw/) — the page 
 The **Ivanka Trump** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/">Ivanka Trump</a></td><td><code>R/24 W4 K8 W8 K2 W48 R4 W4 R4 W4 LB2 W2 O6 K4 W/24</code></td><td>248</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/"><img src="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/sett.png" alt="Ivanka Trump sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/">Ivanka Trump</a></td><td></td><td><code>R/24 W4 K8 W8 K2 W48 R4 W4 R4 W4 LB2 W2 O6 K4 W/24</code></td><td>248</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/"><img src="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/sett.png" alt="Ivanka Trump sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [YGBGBGBGBGGY](/stripes/ygbgbgbgbggy/) — the page of eve
 The **Walker, Gauvin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/">Walker, Gauvin</a></td><td><code>LO/2 Y6 DT4 G10 DP8 G2 DT28 Y2 DT8 G50 Y4 LO/2</code></td><td>248</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/"><img src="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/sett.png" alt="Walker, Gauvin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/">Walker, Gauvin</a></td><td></td><td><code>LO/2 Y6 DT4 G10 DP8 G2 DT28 Y2 DT8 G50 Y4 LO/2</code></td><td>248</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/"><img src="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/sett.png" alt="Walker, Gauvin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

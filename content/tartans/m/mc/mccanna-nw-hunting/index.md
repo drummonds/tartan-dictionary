@@ -13,10 +13,10 @@ Its design is pattern [GKGKGGK](/stripes/gkgkggk/) — the page of every tartan 
 The **McCanna NW Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/">McCanna NW Hunting</a></td><td><code>K/10 DY40 DG10 K10 DG10 K10 DY/10</code></td><td>180</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/"><img src="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/sett.png" alt="McCanna NW Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/">McCanna NW Hunting</a></td><td></td><td><code>K/10 DY40 DG10 K10 DG10 K10 DY/10</code></td><td>180</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/"><img src="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/sett.png" alt="McCanna NW Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

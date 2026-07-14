@@ -13,10 +13,10 @@ Its design is pattern [BKBBBRGBBKB](/stripes/bkbbbrgbbkb/) — the page of every
 The **Unidentified No 20** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/t3k2t2ti8db20r4g16ti4t2k2t3~t2304245-ti2607245/">Unidentified No 20</a></td><td><code>T/3 K2 T2 Ti8 DB20 R4 G16 Ti4 T2 K2 T/3</code></td><td>126</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/t3k2t2ti8db20r4g16ti4t2k2t3~t2304245-ti2607245/"><img src="/variants/s11/t3k2t2ti8db20r4g16ti4t2k2t3~t2304245-ti2607245/sett.png" alt="Unidentified No 20 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/t3k2t2ti8db20r4g16ti4t2k2t3~t2304245-ti2607245/">Unidentified No 20</a></td><td></td><td><code>T/3 K2 T2 Ti8 DB20 R4 G16 Ti4 T2 K2 T/3</code></td><td>126</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/t3k2t2ti8db20r4g16ti4t2k2t3~t2304245-ti2607245/"><img src="/variants/s11/t3k2t2ti8db20r4g16ti4t2k2t3~t2304245-ti2607245/sett.png" alt="Unidentified No 20 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

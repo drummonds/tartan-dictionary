@@ -18,12 +18,12 @@ The **Manx Laxey Dress** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/w14dp4dy1g8db2~x2/">Manx Laxey Dress</a> ★</td><td><code>W/28 DP8 DY2 G16 DB/4</code></td><td>84</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w14dp4dy1g8db2~x2/"><img src="/variants/s5/w14dp4dy1g8db2~x2/sett.png" alt="Manx Laxey Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db2w14dp4y1g8db2~x2/">Manx Laxey, dress green</a></td><td><code>DB/4 W28 DP8 Y2 G16 DB/4</code></td><td>116</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db2w14dp4y1g8db2~x2/"><img src="/variants/s6/db2w14dp4y1g8db2~x2/sett.png" alt="Manx Laxey, dress green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w14dp4dy1g8db2~x2/">Manx Laxey Dress</a> ★</td><td></td><td><code>W/28 DP8 DY2 G16 DB/4</code></td><td>84</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/w14dp4dy1g8db2~x2/"><img src="/variants/s5/w14dp4dy1g8db2~x2/sett.png" alt="Manx Laxey Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db2w14dp4y1g8db2~x2/">Manx Laxey, dress green</a></td><td>0.31</td><td><code>DB/4 W28 DP8 Y2 G16 DB/4</code></td><td>116</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db2w14dp4y1g8db2~x2/"><img src="/variants/s6/db2w14dp4y1g8db2~x2/sett.png" alt="Manx Laxey, dress green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

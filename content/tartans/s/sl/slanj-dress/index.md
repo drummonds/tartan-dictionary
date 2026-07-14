@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKWKBKBKBK](/stripes/bkbkbkwkbkbkbk/) — the page of
 The **Slanj Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db36k4db4k34b3k3w4k3b3k34db4k4db36k4~x2/">Slanj Dress</a></td><td><code>DB/72 K8 DB8 K68 B6 K6 W8 K6 B6 K68 DB8 K8 DB72 K/8</code></td><td>624</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db36k4db4k34b3k3w4k3b3k34db4k4db36k4~x2/"><img src="/variants/s14/db36k4db4k34b3k3w4k3b3k34db4k4db36k4~x2/sett.png" alt="Slanj Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db36k4db4k34b3k3w4k3b3k34db4k4db36k4~x2/">Slanj Dress</a></td><td></td><td><code>DB/72 K8 DB8 K68 B6 K6 W8 K6 B6 K68 DB8 K8 DB72 K/8</code></td><td>624</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db36k4db4k34b3k3w4k3b3k34db4k4db36k4~x2/"><img src="/variants/s14/db36k4db4k34b3k3w4k3b3k34db4k4db36k4~x2/sett.png" alt="Slanj Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

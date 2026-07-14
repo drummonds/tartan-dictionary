@@ -16,10 +16,10 @@ Its design is pattern [BKGKG](/stripes/bkgkg/) — the page of every tartan shar
 The **Mar, Tribe of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/dr2k4g45k3y2~x2/">Mar, Tribe of</a></td><td><code>DR/4 K8 G90 K6 Y/4</code></td><td>216</td><td>1847</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr2k4g45k3y2~x2/"><img src="/variants/s5/dr2k4g45k3y2~x2/sett.png" alt="Mar, Tribe of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr2k4g45k3y2~x2/">Mar, Tribe of</a></td><td></td><td><code>DR/4 K8 G90 K6 Y/4</code></td><td>216</td><td>1847</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dr2k4g45k3y2~x2/"><img src="/variants/s5/dr2k4g45k3y2~x2/sett.png" alt="Mar, Tribe of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

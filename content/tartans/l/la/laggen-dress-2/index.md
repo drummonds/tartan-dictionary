@@ -18,10 +18,10 @@ Its design is pattern [GKRKWKGWKWG](/stripes/gkrkwkgwkwg/) — the page of every
 The **Laggen Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/">Laggen Dress</a></td><td><code>DG/84 K20 R4 K4 W4 K4 DG20 W12 K4 W6 DG/4</code></td><td>244</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/"><img src="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/sett.png" alt="Laggen Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/">Laggen Dress</a></td><td></td><td><code>DG/84 K20 R4 K4 W4 K4 DG20 W12 K4 W6 DG/4</code></td><td>244</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/"><img src="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/sett.png" alt="Laggen Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

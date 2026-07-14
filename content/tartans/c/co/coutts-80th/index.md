@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBKGKGKGKGKWGWGKGKGKGKBKBKBKBKWKRKWKRKW](/stripes/bk
 The **Coutts 80th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s44/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4~x2/">Coutts 80th</a></td><td><code>DB/22 K2 DB2 K2 DB2 K2 DB2 K22 DG22 K2 DG2 K2 DG2 K2 DG2 K2 W8 Y8 W8 DG22 K2 DG2 K2 DG2 K2 DG2 K22 DB22 K2 DB2 K2 DB2 K2 DB2 K2 W8 K2 R8 K2 W44 K2 R8 K2 W/8</code></td><td>554</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s44/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4~x2/"><img src="/variants/s44/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4~x2/sett.png" alt="Coutts 80th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s44/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4~x2/">Coutts 80th</a></td><td></td><td><code>DB/22 K2 DB2 K2 DB2 K2 DB2 K22 DG22 K2 DG2 K2 DG2 K2 DG2 K2 W8 Y8 W8 DG22 K2 DG2 K2 DG2 K2 DG2 K22 DB22 K2 DB2 K2 DB2 K2 DB2 K2 W8 K2 R8 K2 W44 K2 R8 K2 W/8</code></td><td>554</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s44/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4~x2/"><img src="/variants/s44/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4y4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4~x2/sett.png" alt="Coutts 80th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

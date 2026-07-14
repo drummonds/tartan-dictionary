@@ -13,10 +13,10 @@ Its design is pattern [WYGRGY](/stripes/wygrgy/) — the page of every tartan sh
 The **Afternoon Tea / Milk Tea** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/">Afternoon Tea / Milk Tea</a></td><td><code>W/15 LY98 DY72 R25 DY8 LG/15</code></td><td>436</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><img src="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/sett.png" alt="Afternoon Tea / Milk Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/">Afternoon Tea / Milk Tea</a></td><td></td><td><code>W/15 LY98 DY72 R25 DY8 LG/15</code></td><td>436</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><img src="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/sett.png" alt="Afternoon Tea / Milk Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

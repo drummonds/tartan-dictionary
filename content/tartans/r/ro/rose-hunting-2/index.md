@@ -18,10 +18,10 @@ Its design is pattern [GWGKBR](/stripes/gwgkbr/) — the page of every tartan sh
 The **Rose Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g4w1g10k10db10r2/">Rose Hunting</a></td><td><code>G/4 W1 G10 K10 DB10 R/2</code></td><td>68</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g4w1g10k10db10r2/"><img src="/variants/s6/g4w1g10k10db10r2/sett.png" alt="Rose Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g4w1g10k10db10r2/">Rose Hunting</a></td><td></td><td><code>G/4 W1 G10 K10 DB10 R/2</code></td><td>68</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g4w1g10k10db10r2/"><img src="/variants/s6/g4w1g10k10db10r2/sett.png" alt="Rose Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

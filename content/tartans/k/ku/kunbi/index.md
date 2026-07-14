@@ -13,10 +13,10 @@ Its design is pattern [BKBKGKBK](/stripes/bkbkgkbk/) — the page of every tarta
 The **Kunbi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k76db11k3y6k3db13k11n76/">Kunbi</a></td><td><code>K/76 DB11 K3 Y6 K3 DB13 K11 N/76</code></td><td>246</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k76db11k3y6k3db13k11n76/"><img src="/variants/s8/k76db11k3y6k3db13k11n76/sett.png" alt="Kunbi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k76db11k3y6k3db13k11n76/">Kunbi</a></td><td></td><td><code>K/76 DB11 K3 Y6 K3 DB13 K11 N/76</code></td><td>246</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k76db11k3y6k3db13k11n76/"><img src="/variants/s8/k76db11k3y6k3db13k11n76/sett.png" alt="Kunbi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BRGRBRK](/stripes/brgrbrk/) — the page of every tartan 
 The **MacBean/MacElvain** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k2r12db6r3g12r4db1~x2/">MacBean/MacElvain</a></td><td><code>K/4 R24 DB12 R6 G24 R8 DB/2</code></td><td>154</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><img src="/variants/s7/k2r12db6r3g12r4db1~x2/sett.png" alt="MacBean/MacElvain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k2r12db6r3g12r4db1~x2/">MacBean/MacElvain</a></td><td></td><td><code>K/4 R24 DB12 R6 G24 R8 DB/2</code></td><td>154</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><img src="/variants/s7/k2r12db6r3g12r4db1~x2/sett.png" alt="MacBean/MacElvain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

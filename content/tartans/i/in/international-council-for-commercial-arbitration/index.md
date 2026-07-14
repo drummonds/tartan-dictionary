@@ -13,10 +13,10 @@ Its design is pattern [WYWWRWRBRBYWY](/stripes/wywwrwrbrbywy/) — the page of e
 The **International Council for Commercial Arbitration** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/">International Council for Commercial Arbitration</a></td><td><code>LO/4 W2 LO24 DB4 R2 DB36 R2 LB36 R2 LB4 W24 LO2 W/2</code></td><td>282</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/"><img src="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/sett.png" alt="International Council for Commercial Arbitration sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/">International Council for Commercial Arbitration</a></td><td></td><td><code>LO/4 W2 LO24 DB4 R2 DB36 R2 LB36 R2 LB4 W24 LO2 W/2</code></td><td>282</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/"><img src="/variants/s13/lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1~x2/sett.png" alt="International Council for Commercial Arbitration sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

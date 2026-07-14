@@ -18,10 +18,10 @@ Vibrant design woven by Lochcarron in 1994 for fashion designer Vivienne Westwoo
 The **Westwood Metropolitan 1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/">Westwood Metropolitan 1</a></td><td><code>DB/196 K196 Y2 G20 Y2 K22 Y2 K2 Y2 K2 Y2 K2 Y2 K2 Y2 K2 Y2 K22 DB2 K2 DB20 K2 DB2 K2 R14 Y2 R20 K20 G/4</code></td><td>944</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/"><img src="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/sett.png" alt="Westwood Metropolitan 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/">Westwood Metropolitan 1</a></td><td></td><td><code>DB/196 K196 Y2 G20 Y2 K22 Y2 K2 Y2 K2 Y2 K2 Y2 K2 Y2 K2 Y2 K22 DB2 K2 DB20 K2 DB2 K2 R14 Y2 R20 K20 G/4</code></td><td>944</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/"><img src="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/sett.png" alt="Westwood Metropolitan 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -24,16 +24,16 @@ The **Erskine** tartan groups 4 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db6w2db29w29db2w6~x2/">Erskine</a> ★</td><td><code>DB/12 W4 DB58 W58 DB4 W/12</code></td><td>272</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db6w2db29w29db2w6~x2/"><img src="/variants/s6/db6w2db29w29db2w6~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/dp2w1dp9w9dp1w2~x6/">Purple (Dance)</a></td><td><code>DP/12 W6 DP54 W54 DP6 W/12</code></td><td>264</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp2w1dp9w9dp1w2~x6/"><img src="/variants/s6/dp2w1dp9w9dp1w2~x6/sett.png" alt="Purple (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/dp6w2dp29w29dp2w6~x2/">Purple (Dance) Fashion Tartan</a></td><td><code>DP/12 W4 DP58 W58 DP4 W/12</code></td><td>272</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp6w2dp29w29dp2w6~x2/"><img src="/variants/s6/dp6w2dp29w29dp2w6~x2/sett.png" alt="Purple (Dance) Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/n6lb2n25lb25n2lb6~x2/">Grey</a></td><td><code>N/12 LB4 N50 LB50 N4 LB/12</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/n6lb2n25lb25n2lb6~x2/"><img src="/variants/s6/n6lb2n25lb25n2lb6~x2/sett.png" alt="Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db6w2db29w29db2w6~x2/">Erskine</a> ★</td><td></td><td><code>DB/12 W4 DB58 W58 DB4 W/12</code></td><td>272</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db6w2db29w29db2w6~x2/"><img src="/variants/s6/db6w2db29w29db2w6~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp2w1dp9w9dp1w2~x6/">Purple (Dance)</a></td><td>3.44</td><td><code>DP/12 W6 DP54 W54 DP6 W/12</code></td><td>264</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp2w1dp9w9dp1w2~x6/"><img src="/variants/s6/dp2w1dp9w9dp1w2~x6/sett.png" alt="Purple (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp6w2dp29w29dp2w6~x2/">Purple (Dance) Fashion Tartan</a></td><td>3.11</td><td><code>DP/12 W4 DP58 W58 DP4 W/12</code></td><td>272</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp6w2dp29w29dp2w6~x2/"><img src="/variants/s6/dp6w2dp29w29dp2w6~x2/sett.png" alt="Purple (Dance) Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/n6lb2n25lb25n2lb6~x2/">Grey</a></td><td>0.68</td><td><code>N/12 LB4 N50 LB50 N4 LB/12</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/n6lb2n25lb25n2lb6~x2/"><img src="/variants/s6/n6lb2n25lb25n2lb6~x2/sett.png" alt="Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

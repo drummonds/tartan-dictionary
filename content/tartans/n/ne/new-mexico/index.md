@@ -13,10 +13,10 @@ Its design is pattern [GBRGGGG](/stripes/gbrgggg/) — the page of every tartan 
 The **New Mexico** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g10db42r5dg42g42y5g10/">New Mexico</a></td><td><code>G/10 DB42 R5 DG42 G42 Y5 G/10</code></td><td>292</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g10db42r5dg42g42y5g10/"><img src="/variants/s7/g10db42r5dg42g42y5g10/sett.png" alt="New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g10db42r5dg42g42y5g10/">New Mexico</a></td><td></td><td><code>G/10 DB42 R5 DG42 G42 Y5 G/10</code></td><td>292</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g10db42r5dg42g42y5g10/"><img src="/variants/s7/g10db42r5dg42g42y5g10/sett.png" alt="New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Dress version of the Largs town tartan, designed and adopted 1981.
 The **Largs Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/">Largs Dress</a></td><td><code>K/108 LB4 K4 LY18 K4 LY18 K2 LB4 K18 R16 K4 R16 K8 LY/4</code></td><td>344</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/"><img src="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/sett.png" alt="Largs Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/">Largs Dress</a></td><td></td><td><code>K/108 LB4 K4 LY18 K4 LY18 K2 LB4 K18 R16 K4 R16 K8 LY/4</code></td><td>344</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/"><img src="/variants/s14/k54lb2k2ly9k2ly9k1lb2k9r8k2r8k4ly2~x2/sett.png" alt="Largs Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

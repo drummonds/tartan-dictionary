@@ -13,10 +13,10 @@ Its design is pattern [BKGGGKWYGBK](/stripes/bkgggkwygbk/) — the page of every
 The **Teddy Bear 111th Anniversary** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/">Teddy Bear 111th Anniversary</a></td><td><code>N/26 K6 DY32 DG14 DY11 K19 W2 LY16 DG11 N19 K/2</code></td><td>288</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/"><img src="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/sett.png" alt="Teddy Bear 111th Anniversary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/">Teddy Bear 111th Anniversary</a></td><td></td><td><code>N/26 K6 DY32 DG14 DY11 K19 W2 LY16 DG11 N19 K/2</code></td><td>288</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/"><img src="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/sett.png" alt="Teddy Bear 111th Anniversary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

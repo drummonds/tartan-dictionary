@@ -13,10 +13,10 @@ Its design is pattern [BGBWGBRW](/stripes/bgbwgbrw/) — the page of every tarta
 The **St. Petersburg City** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/">St. Petersburg City</a></td><td><code>DB/120 G20 DB6 LB12 Y4 DB18 R4 W/4</code></td><td>252</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/"><img src="/variants/s8/db60g10db3lb6y2db9r2w2~x2/sett.png" alt="St. Petersburg City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/">St. Petersburg City</a></td><td></td><td><code>DB/120 G20 DB6 LB12 Y4 DB18 R4 W/4</code></td><td>252</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/"><img src="/variants/s8/db60g10db3lb6y2db9r2w2~x2/sett.png" alt="St. Petersburg City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

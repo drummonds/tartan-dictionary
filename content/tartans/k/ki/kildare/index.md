@@ -13,10 +13,10 @@ Its design is pattern [BBBRBWBG](/stripes/bbbrbwbg/) — the page of every tarta
 The **Kildare** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/b8do2b13r4b12lb22b5y3~x2/">Kildare</a></td><td><code>B/16 DO4 B26 R8 B24 LB44 B10 Y/6</code></td><td>254</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/b8do2b13r4b12lb22b5y3~x2/"><img src="/variants/s8/b8do2b13r4b12lb22b5y3~x2/sett.png" alt="Kildare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/b8do2b13r4b12lb22b5y3~x2/">Kildare</a></td><td></td><td><code>B/16 DO4 B26 R8 B24 LB44 B10 Y/6</code></td><td>254</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/b8do2b13r4b12lb22b5y3~x2/"><img src="/variants/s8/b8do2b13r4b12lb22b5y3~x2/sett.png" alt="Kildare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

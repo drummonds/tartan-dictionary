@@ -13,10 +13,10 @@ Its design is pattern [GKGBGKGWKWKYKWKWKBK](/stripes/gkgbgkgwkwkykwkwkbk/) — t
 The **Melnyk-Jones** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/">Melnyk-Jones</a></td><td><code>G/10 K10 G10 DR24 G6 K30 G6 W2 K4 LB14 K4 LY20 K4 LB14 K4 W2 K6 DR30 K/6</code></td><td>396</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/"><img src="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/sett.png" alt="Melnyk-Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/">Melnyk-Jones</a></td><td></td><td><code>G/10 K10 G10 DR24 G6 K30 G6 W2 K4 LB14 K4 LY20 K4 LB14 K4 W2 K6 DR30 K/6</code></td><td>396</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/"><img src="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/sett.png" alt="Melnyk-Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

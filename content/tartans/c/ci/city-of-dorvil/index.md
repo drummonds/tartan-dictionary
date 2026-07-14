@@ -13,10 +13,10 @@ Its design is pattern [GRWGWKWYWKWYWKWG](/stripes/grwgwkwywkwywkwg/) — the pag
 The **City of Dorvil** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/">City of Dorvil</a></td><td><code>G/8 W2 K6 W2 LY4 W2 K6 W2 LY4 W2 K6 W2 G6 LB28 R2 Y/4</code></td><td>160</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/"><img src="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/sett.png" alt="City of Dorvil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/">City of Dorvil</a></td><td></td><td><code>G/8 W2 K6 W2 LY4 W2 K6 W2 LY4 W2 K6 W2 G6 LB28 R2 Y/4</code></td><td>160</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/"><img src="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/sett.png" alt="City of Dorvil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

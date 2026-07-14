@@ -18,10 +18,10 @@ Its design is pattern [BWBWBRBWBWRBWYWB](/stripes/bwbwbrbwbwrbwywb/) — the pag
 The **Wcwm 1717** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/n20w1ly8w1dr16r4w1n18w1n20r8n8lb8dr8lb8dr1~x4/">Wcwm 1717</a></td><td><code>N/80 W4 LY32 W4 DR64 R16 W4 N72 W4 N80 R32 N32 LB32 DR32 LB32 DR/4</code></td><td>964</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/n20w1ly8w1dr16r4w1n18w1n20r8n8lb8dr8lb8dr1~x4/"><img src="/variants/s16/n20w1ly8w1dr16r4w1n18w1n20r8n8lb8dr8lb8dr1~x4/sett.png" alt="Wcwm 1717 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/n20w1ly8w1dr16r4w1n18w1n20r8n8lb8dr8lb8dr1~x4/">Wcwm 1717</a></td><td></td><td><code>N/80 W4 LY32 W4 DR64 R16 W4 N72 W4 N80 R32 N32 LB32 DR32 LB32 DR/4</code></td><td>964</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/n20w1ly8w1dr16r4w1n18w1n20r8n8lb8dr8lb8dr1~x4/"><img src="/variants/s16/n20w1ly8w1dr16r4w1n18w1n20r8n8lb8dr8lb8dr1~x4/sett.png" alt="Wcwm 1717 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **MacHardy** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/">MacHardy</a> ★</td><td><code>G/8 R8 K24 W4 K24 G64 R8 K/6</code></td><td>278</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><img src="/variants/s8/g4r4k12w2k12g32r4k3~x2/sett.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/">MacHardy</a></td><td><code>K/6 R2 G64 K24 W2 K24 R2 G/6</code></td><td>248</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/"><img src="k3r1g32k12w1k12r1g3-rev.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/">MacHardy</a> ★</td><td></td><td><code>G/8 R8 K24 W4 K24 G64 R8 K/6</code></td><td>278</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><img src="/variants/s8/g4r4k12w2k12g32r4k3~x2/sett.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/">MacHardy</a></td><td>0.50</td><td><code>K/6 R2 G64 K24 W2 K24 R2 G/6</code></td><td>248</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/"><img src="k3r1g32k12w1k12r1g3-rev.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

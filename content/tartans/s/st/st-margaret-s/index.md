@@ -13,10 +13,10 @@ Its design is pattern [KGGKRKRKGKWGWGGKW](/stripes/kggkrkrkgkwgwggkw/) — the p
 The **St. Margaret's** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/">St. Margaret's</a></td><td><code>K/32 DG6 G16 K6 O24 K6 O24 K6 G16 K6 LB24 G16 LB24 G16 DG6 K32 W/6</code></td><td>494</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/"><img src="/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/sett.png" alt="St. Margaret's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/">St. Margaret's</a></td><td></td><td><code>K/32 DG6 G16 K6 O24 K6 O24 K6 G16 K6 LB24 G16 LB24 G16 DG6 K32 W/6</code></td><td>494</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/"><img src="/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/sett.png" alt="St. Margaret's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

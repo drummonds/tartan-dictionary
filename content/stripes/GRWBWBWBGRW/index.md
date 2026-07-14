@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/maine-state/">Maine State</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/maine-state/"><img src="/variants/s11/g2r2lb21db2lb2db6lb2db2g33r2lb2~x2/sett.png" alt="Maine State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/maine-state/"><img src="/variants/s11/g2r2lb23db2lb2db6lb2db2g33r2lb2~x2/sett.png" alt="Maine State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

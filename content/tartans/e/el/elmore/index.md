@@ -13,10 +13,10 @@ Its design is pattern [KWGKBGWRKRWGYKR](/stripes/kwgkbgwrkrwgykr/) — the page 
 The **Elmore** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/">Elmore</a></td><td><code>R/58 K2 LO6 DG12 W12 R6 K2 R6 W4 DG6 DB10 K6 Y10 W10 K/8</code></td><td>250</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/"><img src="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/sett.png" alt="Elmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/">Elmore</a></td><td></td><td><code>R/58 K2 LO6 DG12 W12 R6 K2 R6 W4 DG6 DB10 K6 Y10 W10 K/8</code></td><td>250</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/"><img src="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/sett.png" alt="Elmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

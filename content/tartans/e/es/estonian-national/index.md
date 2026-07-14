@@ -13,10 +13,10 @@ Its design is pattern [KBKWKBKBGR](/stripes/kbkwkbkbgr/) — the page of every t
 The **Estonian National** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/">Estonian National</a></td><td><code>K/106 T6 K4 W2 K4 T6 K10 T64 Y2 R/6</code></td><td>308</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/"><img src="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/sett.png" alt="Estonian National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/">Estonian National</a></td><td></td><td><code>K/106 T6 K4 W2 K4 T6 K10 T64 Y2 R/6</code></td><td>308</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/"><img src="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/sett.png" alt="Estonian National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

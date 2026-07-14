@@ -13,10 +13,10 @@ Its design is pattern [GKGKBKGKGKG](/stripes/gkgkbkgkgkg/) — the page of every
 The **Pike** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/">Pike</a></td><td><code>DG/20 K6 DG6 K40 DP6 K10 G6 K40 DG6 K6 DG/20</code></td><td>292</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/"><img src="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/sett.png" alt="Pike sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/">Pike</a></td><td></td><td><code>DG/20 K6 DG6 K40 DP6 K10 G6 K40 DG6 K6 DG/20</code></td><td>292</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/"><img src="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/sett.png" alt="Pike sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

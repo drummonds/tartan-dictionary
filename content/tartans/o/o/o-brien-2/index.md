@@ -13,10 +13,10 @@ Its design is pattern [GGGGBRBRG](/stripes/ggggbrbrg/) — the page of every tar
 The **O'Brien** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g36gi19g4gi31t2r3t2r3gi12~x2~g1903114-gi2408144/">O'Brien</a></td><td><code>G/72 Gi38 G8 Gi62 T4 R6 T4 R6 Gi/24</code></td><td>352</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g36gi19g4gi31t2r3t2r3gi12~x2~g1903114-gi2408144/"><img src="/variants/s9/g36gi19g4gi31t2r3t2r3gi12~x2~g1903114-gi2408144/sett.png" alt="O'Brien sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g36gi19g4gi31t2r3t2r3gi12~x2~g1903114-gi2408144/">O'Brien</a></td><td></td><td><code>G/72 Gi38 G8 Gi62 T4 R6 T4 R6 Gi/24</code></td><td>352</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g36gi19g4gi31t2r3t2r3gi12~x2~g1903114-gi2408144/"><img src="/variants/s9/g36gi19g4gi31t2r3t2r3gi12~x2~g1903114-gi2408144/sett.png" alt="O'Brien sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,11 +20,11 @@ Designed by Dr. Philip D. Smith in 1989 for David I. Asman, an English armiger i
 The **Asman Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/">Asman Dress</a></td><td><code>DB/8 DY6 DB44 N12 W4 K12 W4 R52 K6 R/8</code></td><td>296</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/"><img src="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/sett.png" alt="Asman Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/">Asman, Dress (Name)</a> · <a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2~db1406275/">Asman Red (Personal)</a></td></tr>
+<tr><td><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/">Asman Dress</a></td><td></td><td><code>DB/8 DY6 DB44 N12 W4 K12 W4 R52 K6 R/8</code></td><td>296</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/"><img src="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/sett.png" alt="Asman Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/">Asman, Dress (Name)</a> · <a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2~db1406275/">Asman Red (Personal)</a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Designed for Ryukoku University Heian, inspired by sunrise cloud colours with pu
 The **Ryukoku University Heian Junior** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/">Ryukoku University Heian Junior</a></td><td><code>O/10 K30 LB10 N18 LB4 DP4 LB4 DP4 N18 K/6</code></td><td>200</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><img src="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/sett.png" alt="Ryukoku University Heian Junior sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/">Ryukoku University Heian Junior</a></td><td></td><td><code>O/10 K30 LB10 N18 LB4 DP4 LB4 DP4 N18 K/6</code></td><td>200</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><img src="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/sett.png" alt="Ryukoku University Heian Junior sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

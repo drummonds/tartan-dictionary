@@ -13,10 +13,10 @@ Its design is pattern [GBKBKGKRKYK](/stripes/gbkbkgkrkyk/) — the page of every
 The **Father’s Pride, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/">Father’s Pride, The</a></td><td><code>DY/90 N8 K10 N3 K4 G4 K3 R16 K14 LO6 K/28</code></td><td>254</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/"><img src="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/sett.png" alt="Father’s Pride, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/">Father’s Pride, The</a></td><td></td><td><code>DY/90 N8 K10 N3 K4 G4 K3 R16 K14 LO6 K/28</code></td><td>254</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/"><img src="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/sett.png" alt="Father’s Pride, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

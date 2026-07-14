@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKBKWKBK](/stripes/gkgkgkbkwkbk/) — the page of eve
 The **Unnamed 10** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k8dp1k1w1k2dp8k8g8k1y1k2g8~x2/">Unnamed 10</a></td><td><code>K/16 DP2 K2 W2 K4 DP16 K16 G16 K2 Y2 K4 G/16</code></td><td>164</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k8dp1k1w1k2dp8k8g8k1y1k2g8~x2/"><img src="/variants/s12/k8dp1k1w1k2dp8k8g8k1y1k2g8~x2/sett.png" alt="Unnamed 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k8dp1k1w1k2dp8k8g8k1y1k2g8~x2/">Unnamed 10</a></td><td></td><td><code>K/16 DP2 K2 W2 K4 DP16 K16 G16 K2 Y2 K4 G/16</code></td><td>164</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k8dp1k1w1k2dp8k8g8k1y1k2g8~x2/"><img src="/variants/s12/k8dp1k1w1k2dp8k8g8k1y1k2g8~x2/sett.png" alt="Unnamed 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

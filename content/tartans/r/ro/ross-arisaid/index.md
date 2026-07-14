@@ -16,10 +16,10 @@ Its design is pattern [BWBWKGKGGGGG](/stripes/bwbwkgkggggg/) — the page of eve
 The **Ross Arisaid** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/">Ross Arisaid</a></td><td><code>DR/8 W8 DR4 W58 K20 DG6 K20 DG8 G8 DG6 G6 DG/6</code></td><td>302</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/"><img src="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/sett.png" alt="Ross Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/">Ross Arisaid</a></td><td></td><td><code>DR/8 W8 DR4 W58 K20 DG6 K20 DG8 G8 DG6 G6 DG/6</code></td><td>302</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/"><img src="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/sett.png" alt="Ross Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GWRKYKGKGKRKYKGK](/stripes/gwrkykgkgkrkykgk/) — the pag
 The **Goldstraw** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2~x2/">Goldstraw</a></td><td><code>G/10 W4 R16 K4 LO8 K4 Y4 K14 G80 K6 R20 K12 LO14 K14 Y4 K/4</code></td><td>422</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2~x2/"><img src="/variants/s16/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2~x2/sett.png" alt="Goldstraw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2~x2/">Goldstraw</a></td><td></td><td><code>G/10 W4 R16 K4 LO8 K4 Y4 K14 G80 K6 R20 K12 LO14 K14 Y4 K/4</code></td><td>422</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2~x2/"><img src="/variants/s16/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2~x2/sett.png" alt="Goldstraw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

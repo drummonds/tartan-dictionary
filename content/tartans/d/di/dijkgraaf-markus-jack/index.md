@@ -13,10 +13,10 @@ Its design is pattern [KWBWBWRWKW](/stripes/kwbwbwrwkw/) — the page of every t
 The **Dijkgraaf, Markus Jack** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/">Dijkgraaf, Markus Jack</a></td><td><code>W/10 K10 W20 R4 W20 DP16 W30 DP16 LB6 K/6</code></td><td>260</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/"><img src="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/sett.png" alt="Dijkgraaf, Markus Jack sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/">Dijkgraaf, Markus Jack</a></td><td></td><td><code>W/10 K10 W20 R4 W20 DP16 W30 DP16 LB6 K/6</code></td><td>260</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/"><img src="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/sett.png" alt="Dijkgraaf, Markus Jack sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BYGYWWRWBWBGYGWRWWBWYWWBW](/stripes/bygywwrwbwbgygwrwwbwy
 The **Morddyn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/">Morddyn</a></td><td><code>LT/10 T26 LT12 W6 LY10 LT10 T48 LT10 W4 R2 W4 Y18 LY36 Y18 T4 LT8 T4 W4 R6 W4 LT24 LY12 Y48 LY12 T/4</code></td><td>674</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/"><img src="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/sett.png" alt="Morddyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/">Morddyn</a></td><td></td><td><code>LT/10 T26 LT12 W6 LY10 LT10 T48 LT10 W4 R2 W4 Y18 LY36 Y18 T4 LT8 T4 W4 R6 W4 LT24 LY12 Y48 LY12 T/4</code></td><td>674</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/"><img src="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/sett.png" alt="Morddyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

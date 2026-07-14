@@ -13,10 +13,10 @@ Its design is pattern [BBKYKWKBBKBW](/stripes/bbkykwkbbkbw/) — the page of eve
 The **British Caledonian Airways** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/">British Caledonian Airways</a></td><td><code>N/68 T5 K9 LO3 K3 LB3 K3 N20 DR9 K3 DR5 LB/4</code></td><td>198</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><img src="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/sett.png" alt="British Caledonian Airways sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/">British Caledonian Airways</a></td><td></td><td><code>N/68 T5 K9 LO3 K3 LB3 K3 N20 DR9 K3 DR5 LB/4</code></td><td>198</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><img src="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/sett.png" alt="British Caledonian Airways sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

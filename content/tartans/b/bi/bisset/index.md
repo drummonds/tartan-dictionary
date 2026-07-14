@@ -22,12 +22,12 @@ The **Bisset** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/">Bisset</a> ★</td><td><code>R/18 G36 K12 G12 K6 LY6 G12 DB16 W/6</code></td><td>224</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><img src="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/">Bisset</a></td><td><code>R/12 G24 K8 G8 K4 Y4 G8 DB12 W/4</code></td><td>152</td><td>1976</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><img src="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/">Bisset</a> ★</td><td></td><td><code>R/18 G36 K12 G12 K6 LY6 G12 DB16 W/6</code></td><td>224</td><td>1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><img src="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/">Bisset</a></td><td>0.05</td><td><code>R/12 G24 K8 G8 K4 Y4 G8 DB12 W/4</code></td><td>152</td><td>1976</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><img src="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

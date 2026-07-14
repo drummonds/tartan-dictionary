@@ -15,10 +15,10 @@ Designed 2005 by Maxine Scott as a colleagues' farewell gift to Dr. McMain on he
 The **Meanwood McMain** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dp30db10o5db10dp30db3dpi5db3dp30~x2~dp1105325-dpi1607327/">Meanwood McMain</a></td><td><code>DP/60 DB20 O10 DB20 DP60 DB6 DPi10 DB6 DP/60</code></td><td>384</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp30db10o5db10dp30db3dpi5db3dp30~x2~dp1105325-dpi1607327/"><img src="/variants/s9/dp30db10o5db10dp30db3dpi5db3dp30~x2~dp1105325-dpi1607327/sett.png" alt="Meanwood McMain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp30db10o5db10dp30db3dpi5db3dp30~x2~dp1105325-dpi1607327/">Meanwood McMain</a></td><td></td><td><code>DP/60 DB20 O10 DB20 DP60 DB6 DPi10 DB6 DP/60</code></td><td>384</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dp30db10o5db10dp30db3dpi5db3dp30~x2~dp1105325-dpi1607327/"><img src="/variants/s9/dp30db10o5db10dp30db3dpi5db3dp30~x2~dp1105325-dpi1607327/sett.png" alt="Meanwood McMain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBGKGKGKRKYKGKGKGBGBW](/stripes/bgbgkgkgkrkykgkgkgbgbw/)
 The **Dow-Aerlift** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/">Dow-Aerlift</a></td><td><code>B/28 DG4 B4 DG28 K4 DG28 K4 DG4 K18 R4 K16 LY4 K18 DG4 K4 DG28 K4 DG28 B4 DG4 B28 W/4</code></td><td>512</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/"><img src="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/sett.png" alt="Dow-Aerlift sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/">Dow-Aerlift</a></td><td></td><td><code>B/28 DG4 B4 DG28 K4 DG28 K4 DG4 K18 R4 K16 LY4 K18 DG4 K4 DG28 K4 DG28 B4 DG4 B28 W/4</code></td><td>512</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/"><img src="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/sett.png" alt="Dow-Aerlift sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

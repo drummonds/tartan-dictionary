@@ -18,10 +18,10 @@ Its design is pattern [BGBBGBGBBG](/stripes/bgbbgbgbbg/) — the page of every t
 The **Wanstall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/">Wanstall</a></td><td><code>DR/24 DG8 DR16 DB6 DG6 DB6 DG16 DB24 DR76 DY/4</code></td><td>344</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/"><img src="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/sett.png" alt="Wanstall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/">Wanstall</a></td><td></td><td><code>DR/24 DG8 DR16 DB6 DG6 DB6 DG16 DB24 DR76 DY/4</code></td><td>344</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/"><img src="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/sett.png" alt="Wanstall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [KRKWWKWKWWKR](/stripes/krkwwkwkwwkr/) — the page of eve
 The **Glasgow Caledonian University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k5r2k30lb8w1k9w2k9w1lb8k30r3~x2/">Glasgow Caledonian University</a></td><td><code>K/10 R4 K60 LB16 W2 K18 W4 K18 W2 LB16 K60 R/6</code></td><td>416</td><td>~1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k5r2k30lb8w1k9w2k9w1lb8k30r3~x2/"><img src="/variants/s12/k5r2k30lb8w1k9w2k9w1lb8k30r3~x2/sett.png" alt="Glasgow Caledonian University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k5r2k30lb8w1k9w2k9w1lb8k30r3~x2/">Glasgow Caledonian University</a></td><td></td><td><code>K/10 R4 K60 LB16 W2 K18 W4 K18 W2 LB16 K60 R/6</code></td><td>416</td><td>~1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k5r2k30lb8w1k9w2k9w1lb8k30r3~x2/"><img src="/variants/s12/k5r2k30lb8w1k9w2k9w1lb8k30r3~x2/sett.png" alt="Glasgow Caledonian University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

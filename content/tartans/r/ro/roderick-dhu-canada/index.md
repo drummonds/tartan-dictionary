@@ -15,11 +15,11 @@ Linked to the MacNeil Clan; shares its name with a whisky.
 The **Roderick Dhu Canada** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2~db1407270/">Roderick Dhu Canada</a></td><td><code>DB/8 K2 R4 K64 G64 Y4 K2 G6 LB/4</code></td><td>304</td><td>1967</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2~db1407270/"><img src="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2~db1407270/sett.png" alt="Roderick Dhu Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2/">Roderick, Dhu</a> · <a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2~db1407270/">Tartan</a></td></tr>
+<tr><td><a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2~db1407270/">Roderick Dhu Canada</a></td><td></td><td><code>DB/8 K2 R4 K64 G64 Y4 K2 G6 LB/4</code></td><td>304</td><td>1967</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2~db1407270/"><img src="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2~db1407270/sett.png" alt="Roderick Dhu Canada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2/">Roderick, Dhu</a> · <a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2~db1407270/">Tartan</a></td></tr>
 </tbody>
 </table>
 

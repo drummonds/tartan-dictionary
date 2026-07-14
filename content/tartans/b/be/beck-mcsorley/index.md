@@ -13,10 +13,10 @@ Its design is pattern [RGWWGWGW](/stripes/rgwwgwgw/) — the page of every tarta
 The **Beck-McSorley** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/">Beck-McSorley</a></td><td><code>R/6 DG6 LP6 LB42 DG42 LP6 DG6 LP/6</code></td><td>228</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/"><img src="/variants/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/sett.png" alt="Beck-McSorley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/">Beck-McSorley</a></td><td></td><td><code>R/6 DG6 LP6 LB42 DG42 LP6 DG6 LP/6</code></td><td>228</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/"><img src="/variants/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/sett.png" alt="Beck-McSorley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

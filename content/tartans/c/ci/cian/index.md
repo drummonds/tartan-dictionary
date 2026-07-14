@@ -18,10 +18,10 @@ Its design is pattern [BKWBKBBBWKY](/stripes/bkwbkbbbwky/) — the page of every
 The **Cian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/">Cian</a></td><td><code>DB/32 K2 LB2 DB20 K8 B16 DP8 DB14 LB2 K2 LO/4</code></td><td>184</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/"><img src="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/sett.png" alt="Cian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/">Cian</a></td><td></td><td><code>DB/32 K2 LB2 DB20 K8 B16 DP8 DB14 LB2 K2 LO/4</code></td><td>184</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/"><img src="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/sett.png" alt="Cian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

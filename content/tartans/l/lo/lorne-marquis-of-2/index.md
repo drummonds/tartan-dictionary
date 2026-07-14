@@ -16,10 +16,10 @@ Its design is pattern [BGGGGGGGGWGRGGGGGG](/stripes/bggggggggwgrgggggg/) — the
 The **Lorne, Marquis of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/">Lorne, Marquis of</a></td><td><code>DG/20 G16 DG92 G6 DG6 G110 R8 G10 W8 G10 Y8 G110 DG6 G6 DG92 G16 DG20 DB/20</code></td><td>1088</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/"><img src="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/sett.png" alt="Lorne, Marquis of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/">Lorne, Marquis of</a></td><td></td><td><code>DG/20 G16 DG92 G6 DG6 G110 R8 G10 W8 G10 Y8 G110 DG6 G6 DG92 G16 DG20 DB/20</code></td><td>1088</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/"><img src="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/sett.png" alt="Lorne, Marquis of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

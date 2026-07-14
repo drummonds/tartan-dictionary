@@ -18,10 +18,10 @@ Its design is pattern [GKBKBKBRWRWRWRBKBKBK](/stripes/gkbkbkbrwrwrwrbkbkbk/) —
 The **Dryburgh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2~x2/">Dryburgh</a></td><td><code>K/20 N4 K4 N4 K6 N20 R32 LB4 R4 LB4 R4 LB4 R32 N20 K6 N4 K4 N4 K20 Y/4</code></td><td>384</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2~x2/"><img src="/variants/s20/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2~x2/sett.png" alt="Dryburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2~x2/">Dryburgh</a></td><td></td><td><code>K/20 N4 K4 N4 K6 N20 R32 LB4 R4 LB4 R4 LB4 R32 N20 K6 N4 K4 N4 K20 Y/4</code></td><td>384</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2~x2/"><img src="/variants/s20/k10n2k2n2k3n10r16lb2r2lb2r2lb2r16n10k3n2k2n2k10y2~x2/sett.png" alt="Dryburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

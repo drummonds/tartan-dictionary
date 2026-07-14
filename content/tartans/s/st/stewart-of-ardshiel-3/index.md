@@ -20,10 +20,10 @@ Earliest 1822 record of Stewart of Ardshiel; resembles Stewart of Appin with red
 The **Stewart of Ardshiel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/">Stewart of Ardshiel</a></td><td><code>DG/14 R6 Ri2 K3 R65 K2 LB2 R6 K34 R6 LB2 K2 R4 DG66 R12 Ri2 K2 LB/4</code></td><td>450</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/"><img src="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/sett.png" alt="Stewart of Ardshiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/">Stewart of Ardshiel</a></td><td></td><td><code>DG/14 R6 Ri2 K3 R65 K2 LB2 R6 K34 R6 LB2 K2 R4 DG66 R12 Ri2 K2 LB/4</code></td><td>450</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/"><img src="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/sett.png" alt="Stewart of Ardshiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

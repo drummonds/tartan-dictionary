@@ -15,10 +15,10 @@ One of a series of Irish District tartans designed by Polly Wittering of House o
 The **Irish National** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/">Irish National</a></td><td><code>G/106 DG10 Y10 DG18 K10 W10 DG4 G14 DG2 Y/4</code></td><td>266</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/"><img src="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/sett.png" alt="Irish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/">Irish National</a></td><td></td><td><code>G/106 DG10 Y10 DG18 K10 W10 DG4 G14 DG2 Y/4</code></td><td>266</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/"><img src="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/sett.png" alt="Irish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

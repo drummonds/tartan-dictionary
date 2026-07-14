@@ -15,11 +15,11 @@ Designed by Mr Barkway via Scotweb's tartan designer for his 2012 wedding and as
 The **Barkway Wedding 2012** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/">Barkway Wedding 2012</a></td><td><code>G/6 DG4 G4 DG32 G4 DG4 G4 DG4 G8 N8 K4 N4 K4 N4 K48 R4 K4 W/6</code></td><td>300</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/"><img src="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/sett.png" alt="Barkway Wedding 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/">Barkway Wedding 2012</a> · <a href="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2~g2203152-dg1806142/">Barkway (Name)</a></td></tr>
+<tr><td><a href="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/">Barkway Wedding 2012</a></td><td></td><td><code>G/6 DG4 G4 DG32 G4 DG4 G4 DG4 G8 N8 K4 N4 K4 N4 K48 R4 K4 W/6</code></td><td>300</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/"><img src="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/sett.png" alt="Barkway Wedding 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/">Barkway Wedding 2012</a> · <a href="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2~g2203152-dg1806142/">Barkway (Name)</a></td></tr>
 </tbody>
 </table>
 

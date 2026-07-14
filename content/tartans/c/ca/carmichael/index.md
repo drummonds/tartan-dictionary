@@ -17,12 +17,12 @@ The **Carmichael** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k5g32db32r3db3y3~x2/">Carmichael</a> ★</td><td><code>K/10 G64 DB64 R6 DB6 Y/6</code></td><td>296</td><td>1907</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k5g32db32r3db3y3~x2/"><img src="/variants/s6/k5g32db32r3db3y3~x2/sett.png" alt="Carmichael sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k3g36db28r2db2y3~x2/">Carmichael</a></td><td><code>K/6 G72 DB56 R4 DB4 Y/6</code></td><td>284</td><td>1907</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3g36db28r2db2y3~x2/"><img src="/variants/s6/k3g36db28r2db2y3~x2/sett.png" alt="Carmichael sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k5g32db32r3db3y3~x2/">Carmichael</a> ★</td><td></td><td><code>K/10 G64 DB64 R6 DB6 Y/6</code></td><td>296</td><td>1907</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k5g32db32r3db3y3~x2/"><img src="/variants/s6/k5g32db32r3db3y3~x2/sett.png" alt="Carmichael sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3g36db28r2db2y3~x2/">Carmichael</a></td><td>0.49</td><td><code>K/6 G72 DB56 R4 DB4 Y/6</code></td><td>284</td><td>1907</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k3g36db28r2db2y3~x2/"><img src="/variants/s6/k3g36db28r2db2y3~x2/sett.png" alt="Carmichael sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

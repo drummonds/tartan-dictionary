@@ -13,10 +13,10 @@ Its design is pattern [BYBWBWBWBW](/stripes/bybwbwbwbw/) — the page of every t
 The **Yorkshire, The Spirit of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/">Yorkshire, The Spirit of</a></td><td><code>DB/38 LY4 DB6 W14 DB6 W14 DB18 W6 DB4 W/38</code></td><td>220</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/"><img src="/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/sett.png" alt="Yorkshire, The Spirit of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/">Yorkshire, The Spirit of</a></td><td></td><td><code>DB/38 LY4 DB6 W14 DB6 W14 DB18 W6 DB4 W/38</code></td><td>220</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/"><img src="/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/sett.png" alt="Yorkshire, The Spirit of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

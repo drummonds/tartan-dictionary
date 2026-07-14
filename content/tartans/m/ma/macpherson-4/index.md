@@ -18,10 +18,10 @@ Its design is pattern [BGRKBWGRKRGWGWKRW](/stripes/bgrkbwgrkrgwgwkrw/) — the p
 The **MacPherson 4** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db3y5r4k4db14w3y4r4k2r4y4w3g17w3k3r22w3~x2/">MacPherson 4</a></td><td><code>DB/6 Y10 R8 K8 DB28 W6 Y8 R8 K4 R8 Y8 W6 G34 W6 K6 R44 W/6</code></td><td>396</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db3y5r4k4db14w3y4r4k2r4y4w3g17w3k3r22w3~x2/"><img src="/variants/s17/db3y5r4k4db14w3y4r4k2r4y4w3g17w3k3r22w3~x2/sett.png" alt="MacPherson 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db3y5r4k4db14w3y4r4k2r4y4w3g17w3k3r22w3~x2/">MacPherson 4</a></td><td></td><td><code>DB/6 Y10 R8 K8 DB28 W6 Y8 R8 K4 R8 Y8 W6 G34 W6 K6 R44 W/6</code></td><td>396</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db3y5r4k4db14w3y4r4k2r4y4w3g17w3k3r22w3~x2/"><img src="/variants/s17/db3y5r4k4db14w3y4r4k2r4y4w3g17w3k3r22w3~x2/sett.png" alt="MacPherson 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

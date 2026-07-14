@@ -13,10 +13,10 @@ Its design is pattern [GGKBRBWG](/stripes/ggkbrbwg/) — the page of every tarta
 The **Mull Millennium** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g92dy3k28n18r12db18w2g12/">Mull Millennium</a></td><td><code>G/92 DY3 K28 N18 R12 DB18 W2 G/12</code></td><td>266</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g92dy3k28n18r12db18w2g12/"><img src="/variants/s8/g92dy3k28n18r12db18w2g12/sett.png" alt="Mull Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g92dy3k28n18r12db18w2g12/">Mull Millennium</a></td><td></td><td><code>G/92 DY3 K28 N18 R12 DB18 W2 G/12</code></td><td>266</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g92dy3k28n18r12db18w2g12/"><img src="/variants/s8/g92dy3k28n18r12db18w2g12/sett.png" alt="Mull Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

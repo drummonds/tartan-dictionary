@@ -16,10 +16,10 @@ Its design is pattern [BBGBBBG](/stripes/bbgbbbg/) — the page of every tartan 
 The **Glasgow, Rock and Wheel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g25dr4db24dr21g25dr4db2~x2/">Glasgow, Rock and Wheel</a></td><td><code>G/50 DR8 DB48 DR42 G50 DR8 DB/4</code></td><td>366</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g25dr4db24dr21g25dr4db2~x2/"><img src="/variants/s7/g25dr4db24dr21g25dr4db2~x2/sett.png" alt="Glasgow, Rock and Wheel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g25dr4db24dr21g25dr4db2~x2/">Glasgow, Rock and Wheel</a></td><td></td><td><code>G/50 DR8 DB48 DR42 G50 DR8 DB/4</code></td><td>366</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g25dr4db24dr21g25dr4db2~x2/"><img src="/variants/s7/g25dr4db24dr21g25dr4db2~x2/sett.png" alt="Glasgow, Rock and Wheel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

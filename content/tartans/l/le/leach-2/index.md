@@ -18,10 +18,10 @@ Its design is pattern [KRKRWGRGRGRW](/stripes/krkrwgrgrgrw/) — the page of eve
 The **Leach** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/">Leach</a></td><td><code>K/12 R6 K6 R48 LB8 G20 R4 G8 R4 G48 R12 LB/4</code></td><td>344</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/"><img src="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/sett.png" alt="Leach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/">Leach</a></td><td></td><td><code>K/12 R6 K6 R48 LB8 G20 R4 G8 R4 G48 R12 LB/4</code></td><td>344</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/"><img src="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/sett.png" alt="Leach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

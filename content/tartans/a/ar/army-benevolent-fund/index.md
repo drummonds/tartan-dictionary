@@ -13,10 +13,10 @@ Its design is pattern [BGBRGRBGBGBR](/stripes/bgbrgrbgbgbr/) — the page of eve
 The **Army Benevolent Fund** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2~dbi1406275-db1106275/">Army Benevolent Fund</a></td><td><code>DBi/50 G58 DB48 R4 G22 R4 DB48 G58 DBi50 DY8 DBi10 R/8</code></td><td>678</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2~dbi1406275-db1106275/"><img src="/variants/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2~dbi1406275-db1106275/sett.png" alt="Army Benevolent Fund sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2~dbi1406275-db1106275/">Army Benevolent Fund</a></td><td></td><td><code>DBi/50 G58 DB48 R4 G22 R4 DB48 G58 DBi50 DY8 DBi10 R/8</code></td><td>678</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2~dbi1406275-db1106275/"><img src="/variants/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2~dbi1406275-db1106275/sett.png" alt="Army Benevolent Fund sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

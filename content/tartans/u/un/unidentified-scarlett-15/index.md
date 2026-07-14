@@ -13,10 +13,10 @@ Its design is pattern [GGRKRKRGWRKRGRKRG](/stripes/ggrkrkrgwrkrgrkrg/) — the p
 The **Unidentified Scarlett** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/">Unidentified Scarlett</a></td><td><code>G/4 R40 K4 R4 G6 R4 K36 R6 W2 G6 R40 K4 R4 K36 R4 G4 Y/2</code></td><td>406</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/"><img src="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/">Unidentified Scarlett</a></td><td></td><td><code>G/4 R40 K4 R4 G6 R4 K36 R6 W2 G6 R40 K4 R4 K36 R4 G4 Y/2</code></td><td>406</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/"><img src="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

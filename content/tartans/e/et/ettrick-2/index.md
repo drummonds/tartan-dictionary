@@ -22,12 +22,12 @@ The **Ettrick** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/k5r26k26r5~x4/">Ettrick</a> ★</td><td><code>K/20 R104 K104 R/20</code></td><td>456</td><td>1900</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k5r26k26r5~x4/"><img src="/variants/s4/k5r26k26r5~x4/sett.png" alt="Ettrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/k6r31k31r6~x2/">Ettrick</a></td><td><code>K/12 R62 K62 R/12</code></td><td>272</td><td>1830</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k6r31k31r6~x2/"><img src="/variants/s4/k6r31k31r6~x2/sett.png" alt="Ettrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k5r26k26r5~x4/">Ettrick</a> ★</td><td></td><td><code>K/20 R104 K104 R/20</code></td><td>456</td><td>1900</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/k5r26k26r5~x4/"><img src="/variants/s4/k5r26k26r5~x4/sett.png" alt="Ettrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k6r31k31r6~x2/">Ettrick</a></td><td>0.01</td><td><code>K/12 R62 K62 R/12</code></td><td>272</td><td>1830</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/k6r31k31r6~x2/"><img src="/variants/s4/k6r31k31r6~x2/sett.png" alt="Ettrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

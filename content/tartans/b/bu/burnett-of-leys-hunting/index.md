@@ -18,10 +18,10 @@ Its design is pattern [GBGWGGGR](/stripes/gbgwgggr/) — the page of every tarta
 The **Burnett of Leys Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dy96db8dy8w3dy8g3dy8r3~x2/">Burnett of Leys Hunting</a></td><td><code>DY/192 DB16 DY16 W6 DY16 G6 DY16 R/6</code></td><td>350</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dy96db8dy8w3dy8g3dy8r3~x2/"><img src="/variants/s8/dy96db8dy8w3dy8g3dy8r3~x2/sett.png" alt="Burnett of Leys Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dy96db8dy8w3dy8g3dy8r3~x2/">Burnett of Leys Hunting</a></td><td></td><td><code>DY/192 DB16 DY16 W6 DY16 G6 DY16 R/6</code></td><td>350</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dy96db8dy8w3dy8g3dy8r3~x2/"><img src="/variants/s8/dy96db8dy8w3dy8g3dy8r3~x2/sett.png" alt="Burnett of Leys Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

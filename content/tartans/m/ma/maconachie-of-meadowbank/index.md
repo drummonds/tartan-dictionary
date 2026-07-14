@@ -18,10 +18,10 @@ Its design is pattern [RGRGKWKGRGR](/stripes/rgrgkwkgrgr/) — the page of every
 The **Maconachie of Meadowbank** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/">Maconachie of Meadowbank</a></td><td><code>R/192 DG48 R20 DG24 K2 W8 K2 DG24 R20 DG48 R/96</code></td><td>680</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/"><img src="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/sett.png" alt="Maconachie of Meadowbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/">Maconachie of Meadowbank</a></td><td></td><td><code>R/192 DG48 R20 DG24 K2 W8 K2 DG24 R20 DG48 R/96</code></td><td>680</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/"><img src="/variants/s11/r96dg24r10dg12k1w4k1dg12r10dg24r48~x2/sett.png" alt="Maconachie of Meadowbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

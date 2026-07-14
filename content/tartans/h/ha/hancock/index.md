@@ -15,10 +15,10 @@ Personal tartan designed online by Trevor Hancock of Crickhowell, woven into a k
 The **Hancock** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/">Hancock</a></td><td><code>K/22 W8 N24 K4 G6 Y2 N24 W8 K/22</code></td><td>196</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/"><img src="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/sett.png" alt="Hancock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/">Hancock</a></td><td></td><td><code>K/22 W8 N24 K4 G6 Y2 N24 W8 K/22</code></td><td>196</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/"><img src="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/sett.png" alt="Hancock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

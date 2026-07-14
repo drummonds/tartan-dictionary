@@ -13,10 +13,10 @@ Its design is pattern [GKGBRBRGKRKR](/stripes/gkgbrbrgkrkr/) — the page of eve
 The **Celts, Tartan of the** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/">Celts, Tartan of the</a></td><td><code>R/12 K6 R6 K6 G90 R24 DB24 R18 DB18 Y6 K6 Y/12</code></td><td>432</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/"><img src="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/sett.png" alt="Celts, Tartan of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/">Celts, Tartan of the</a></td><td></td><td><code>R/12 K6 R6 K6 G90 R24 DB24 R18 DB18 Y6 K6 Y/12</code></td><td>432</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/"><img src="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/sett.png" alt="Celts, Tartan of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

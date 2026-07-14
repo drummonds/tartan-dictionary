@@ -13,10 +13,10 @@ Its design is pattern [RBBBKBGBWBKBGBGBBR](/stripes/rbbbkbgbwbkbgbgbbr/) — the
 The **Empire Golf Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/">Empire Golf Check</a></td><td><code>R/4 DP8 DB4 DG50 DB8 DG4 DB8 K22 DP8 W4 DP8 DG22 DB4 K4 DB48 DP8 DB4 R/4</code></td><td>436</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/"><img src="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/sett.png" alt="Empire Golf Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/">Empire Golf Check</a></td><td></td><td><code>R/4 DP8 DB4 DG50 DB8 DG4 DB8 K22 DP8 W4 DP8 DG22 DB4 K4 DB48 DP8 DB4 R/4</code></td><td>436</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/"><img src="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/sett.png" alt="Empire Golf Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

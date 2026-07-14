@@ -18,10 +18,10 @@ Its design is pattern [RWRBRWRGGRGGRWRBRWRWRGRWR](/stripes/rwrbrwrggrggrwrbrwrwr
 The **MacAlister** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/r18lb1r1dg8r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2~dg1806142-g2408144/">MacAlister</a></td><td><code>R/36 LB2 R2 DG16 R2 LB2 R12 W2 R2 DB8 R2 W2 R4 DG6 G2 R4 G2 DG6 R6 W2 R2 DB4 R2 W2 R/16</code></td><td>240</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/r18lb1r1dg8r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2~dg1806142-g2408144/"><img src="/variants/s25/r18lb1r1dg8r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2~dg1806142-g2408144/sett.png" alt="MacAlister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/r18lb1r1dg8r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2~dg1806142-g2408144/">MacAlister</a></td><td></td><td><code>R/36 LB2 R2 DG16 R2 LB2 R12 W2 R2 DB8 R2 W2 R4 DG6 G2 R4 G2 DG6 R6 W2 R2 DB4 R2 W2 R/16</code></td><td>240</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/r18lb1r1dg8r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2~dg1806142-g2408144/"><img src="/variants/s25/r18lb1r1dg8r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2~dg1806142-g2408144/sett.png" alt="MacAlister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

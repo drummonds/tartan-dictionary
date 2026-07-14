@@ -13,10 +13,10 @@ Its design is pattern [BBYBGBYBYBW](/stripes/bbybgbybybw/) — the page of every
 The **Toyokawa Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/">Toyokawa Check</a></td><td><code>N/72 DR20 LY4 DR10 G4 DR10 LY20 N10 LY4 N20 W/4</code></td><td>280</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/"><img src="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/sett.png" alt="Toyokawa Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/">Toyokawa Check</a></td><td></td><td><code>N/72 DR20 LY4 DR10 G4 DR10 LY20 N10 LY4 N20 W/4</code></td><td>280</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/"><img src="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/sett.png" alt="Toyokawa Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [WWYWYWYKYKYKWWWWYW](/stripes/wwywywykykykwwwwyw/) — the
 The **Wcwm 1586** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/lb3w8ly2w2ly2w2ly8k2ly2k2ly2k8w2lb22w2lb2ly2lb3~x2/">Wcwm 1586</a></td><td><code>LB/6 W16 LY4 W4 LY4 W4 LY16 K4 LY4 K4 LY4 K16 W4 LB44 W4 LB4 LY4 LB/6</code></td><td>292</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/lb3w8ly2w2ly2w2ly8k2ly2k2ly2k8w2lb22w2lb2ly2lb3~x2/"><img src="/variants/s18/lb3w8ly2w2ly2w2ly8k2ly2k2ly2k8w2lb22w2lb2ly2lb3~x2/sett.png" alt="Wcwm 1586 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/lb3w8ly2w2ly2w2ly8k2ly2k2ly2k8w2lb22w2lb2ly2lb3~x2/">Wcwm 1586</a></td><td></td><td><code>LB/6 W16 LY4 W4 LY4 W4 LY16 K4 LY4 K4 LY4 K16 W4 LB44 W4 LB4 LY4 LB/6</code></td><td>292</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/lb3w8ly2w2ly2w2ly8k2ly2k2ly2k8w2lb22w2lb2ly2lb3~x2/"><img src="/variants/s18/lb3w8ly2w2ly2w2ly8k2ly2k2ly2k8w2lb22w2lb2ly2lb3~x2/sett.png" alt="Wcwm 1586 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

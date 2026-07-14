@@ -16,10 +16,10 @@ Its design is pattern [KBWBKBKGKBKGWGK](/stripes/kbwbkbkgkbkgwgk/) — the page 
 The **MacGiboney / MacGibboney** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2b19w2b4k2~x2/">MacGiboney / MacGibboney</a></td><td><code>K/4 DG8 W4 DG38 K4 N20 K2 Y4 K2 N20 K4 B38 W4 B8 K/4</code></td><td>320</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2b19w2b4k2~x2/"><img src="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2b19w2b4k2~x2/sett.png" alt="MacGiboney / MacGibboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2b19w2b4k2~x2/">MacGiboney / MacGibboney</a></td><td></td><td><code>K/4 DG8 W4 DG38 K4 N20 K2 Y4 K2 N20 K4 B38 W4 B8 K/4</code></td><td>320</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2b19w2b4k2~x2/"><img src="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2b19w2b4k2~x2/sett.png" alt="MacGiboney / MacGibboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

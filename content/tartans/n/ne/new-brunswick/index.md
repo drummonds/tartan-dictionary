@@ -13,10 +13,10 @@ Its design is pattern [GKRGKGKGKRGGKRKRKRKRKG](/stripes/gkrgkgkgkrggkrkrkrkrkg/)
 The **New Brunswick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~x2/">New Brunswick</a></td><td><code>G/28 K4 R4 K4 R4 K4 R4 K4 R4 K4 Y50 G16 R8 K8 Y6 K2 Y6 K2 Y8 R20 K4 Y/4</code></td><td>364</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~x2/"><img src="/variants/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~x2/sett.png" alt="New Brunswick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~x2/">New Brunswick</a></td><td></td><td><code>G/28 K4 R4 K4 R4 K4 R4 K4 R4 K4 Y50 G16 R8 K8 Y6 K2 Y6 K2 Y8 R20 K4 Y/4</code></td><td>364</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~x2/"><img src="/variants/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~x2/sett.png" alt="New Brunswick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

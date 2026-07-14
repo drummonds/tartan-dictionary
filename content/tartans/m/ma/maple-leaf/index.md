@@ -13,10 +13,10 @@ Its design is pattern [GGRGRGRGRGRG](/stripes/ggrgrgrgrgrg/) — the page of eve
 The **Maple Leaf** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2gi4~x8~dg1104144-gi2104115/">Maple Leaf</a></td><td><code>DG/48 R8 DG8 R32 G32 R32 DG8 R8 DG48 O16 G16 Gi/32</code></td><td>496</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2gi4~x8~dg1104144-gi2104115/"><img src="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2gi4~x8~dg1104144-gi2104115/sett.png" alt="Maple Leaf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2gi4~x8~dg1104144-gi2104115/">Maple Leaf</a></td><td></td><td><code>DG/48 R8 DG8 R32 G32 R32 DG8 R8 DG48 O16 G16 Gi/32</code></td><td>496</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2gi4~x8~dg1104144-gi2104115/"><img src="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2gi4~x8~dg1104144-gi2104115/sett.png" alt="Maple Leaf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

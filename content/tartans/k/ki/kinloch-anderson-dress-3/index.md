@@ -16,10 +16,10 @@ Its design is pattern [RBRBKRKWRWRR](/stripes/rbrbkrkwrwrr/) — the page of eve
 The **Kinloch Anderson, dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/">Kinloch Anderson, dress</a></td><td><code>R/8 Oi28 W4 O8 W4 K12 Oi6 K12 DB28 R4 DB8 R/8</code></td><td>244</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/"><img src="/variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/sett.png" alt="Kinloch Anderson, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/">Kinloch Anderson, dress</a></td><td></td><td><code>R/8 Oi28 W4 O8 W4 K12 Oi6 K12 DB28 R4 DB8 R/8</code></td><td>244</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/"><img src="/variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/sett.png" alt="Kinloch Anderson, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

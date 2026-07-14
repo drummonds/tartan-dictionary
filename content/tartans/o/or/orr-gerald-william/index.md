@@ -13,10 +13,10 @@ Its design is pattern [BYBKBKBKBRBW](/stripes/bybkbkbkbrbw/) — the page of eve
 The **Orr, Gerald William** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/">Orr, Gerald William</a></td><td><code>N/8 LY4 N4 K10 N8 K8 N16 K12 N4 R64 N4 W/8</code></td><td>284</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/"><img src="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/sett.png" alt="Orr, Gerald William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/">Orr, Gerald William</a></td><td></td><td><code>N/8 LY4 N4 K10 N8 K8 N16 K12 N4 R64 N4 W/8</code></td><td>284</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/"><img src="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/sett.png" alt="Orr, Gerald William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

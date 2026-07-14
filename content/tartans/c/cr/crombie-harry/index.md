@@ -13,10 +13,10 @@ Its design is pattern [BGBWBWBWBWBBBW](/stripes/bgbwbwbwbwbbbw/) — the page of
 The **Crombie, Harry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/">Crombie, Harry</a></td><td><code>DP/10 G2 DB60 LB4 DB8 LB6 DB6 LB8 DB4 LB10 DB4 T18 DB2 W/4</code></td><td>278</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><img src="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/sett.png" alt="Crombie, Harry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/">Crombie, Harry</a></td><td></td><td><code>DP/10 G2 DB60 LB4 DB8 LB6 DB6 LB8 DB4 LB10 DB4 T18 DB2 W/4</code></td><td>278</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><img src="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/sett.png" alt="Crombie, Harry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

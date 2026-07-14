@@ -13,10 +13,10 @@ Its design is pattern [BRBWBWG](/stripes/brbwbwg/) — the page of every tartan 
 The **Int. Police Association** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/">Int. Police Association</a></td><td><code>DB/14 R6 DB52 LB4 DB4 LB52 Y/8</code></td><td>258</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><img src="/variants/s7/db7r3db26lb2db2lb26y4~x2/sett.png" alt="Int. Police Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/">Int. Police Association</a></td><td></td><td><code>DB/14 R6 DB52 LB4 DB4 LB52 Y/8</code></td><td>258</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><img src="/variants/s7/db7r3db26lb2db2lb26y4~x2/sett.png" alt="Int. Police Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

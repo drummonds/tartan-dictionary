@@ -18,10 +18,10 @@ Its design is pattern [BGRBBW](/stripes/bgrbbw/) — the page of every tartan sh
 The **Diaspora** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/b3dg1r24b16db28w3~x2/">Diaspora</a></td><td><code>B/6 DG2 R48 B32 DB56 W/6</code></td><td>288</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/b3dg1r24b16db28w3~x2/"><img src="/variants/s6/b3dg1r24b16db28w3~x2/sett.png" alt="Diaspora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/b3dg1r24b16db28w3~x2/">Diaspora</a></td><td></td><td><code>B/6 DG2 R48 B32 DB56 W/6</code></td><td>288</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/b3dg1r24b16db28w3~x2/"><img src="/variants/s6/b3dg1r24b16db28w3~x2/sett.png" alt="Diaspora sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

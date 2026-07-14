@@ -16,10 +16,10 @@ Its design is pattern [RBRBKGKYGYGR](/stripes/rbrbkgkygygr/) — the page of eve
 The **Kinloch Anderson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/">Kinloch Anderson</a></td><td><code>R/8 DY28 LO4 DY8 LO4 K12 DY6 K12 DB28 R4 DB8 R/8</code></td><td>244</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><img src="/variants/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/sett.png" alt="Kinloch Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/">Kinloch Anderson</a></td><td></td><td><code>R/8 DY28 LO4 DY8 LO4 K12 DY6 K12 DB28 R4 DB8 R/8</code></td><td>244</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><img src="/variants/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/sett.png" alt="Kinloch Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

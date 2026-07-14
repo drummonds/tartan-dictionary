@@ -13,10 +13,10 @@ Its design is pattern [BYBYBYBYGBGY](/stripes/bybybybygbgy/) — the page of eve
 The **Waverly Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/do44ly5dr8ly2dr2ly2dr2ly14dy9dr2dy4ly2~x2/">Waverly Check</a></td><td><code>DO/88 LY10 DR16 LY4 DR4 LY4 DR4 LY28 DY18 DR4 DY8 LY/4</code></td><td>292</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/do44ly5dr8ly2dr2ly2dr2ly14dy9dr2dy4ly2~x2/"><img src="/variants/s12/do44ly5dr8ly2dr2ly2dr2ly14dy9dr2dy4ly2~x2/sett.png" alt="Waverly Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/do44ly5dr8ly2dr2ly2dr2ly14dy9dr2dy4ly2~x2/">Waverly Check</a></td><td></td><td><code>DO/88 LY10 DR16 LY4 DR4 LY4 DR4 LY28 DY18 DR4 DY8 LY/4</code></td><td>292</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/do44ly5dr8ly2dr2ly2dr2ly14dy9dr2dy4ly2~x2/"><img src="/variants/s12/do44ly5dr8ly2dr2ly2dr2ly14dy9dr2dy4ly2~x2/sett.png" alt="Waverly Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

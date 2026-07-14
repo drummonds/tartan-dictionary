@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRKWGRGRGW](/stripes/brbrbrkwgrgrgw/) — the page of
 The **MacDonald of Clanranald 3** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/">MacDonald of Clanranald 3</a></td><td><code>DB/40 R4 DB6 R12 DB64 R4 K64 W4 G60 R12 G8 R4 G8 W/2</code></td><td>542</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><img src="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/sett.png" alt="MacDonald of Clanranald 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/">MacDonald of Clanranald 3</a></td><td></td><td><code>DB/40 R4 DB6 R12 DB64 R4 K64 W4 G60 R12 G8 R4 G8 W/2</code></td><td>542</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><img src="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/sett.png" alt="MacDonald of Clanranald 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

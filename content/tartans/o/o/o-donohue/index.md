@@ -13,10 +13,10 @@ Its design is pattern [BWBGRBRGKY](/stripes/bwbgrbrgky/) — the page of every t
 The **O'Donohue** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/">O'Donohue</a></td><td><code>B/48 W4 B12 G18 R12 B6 R12 G70 K4 LY/4</code></td><td>328</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><img src="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/sett.png" alt="O'Donohue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/">O'Donohue</a></td><td></td><td><code>B/48 W4 B12 G18 R12 B6 R12 G70 K4 LY/4</code></td><td>328</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><img src="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/sett.png" alt="O'Donohue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

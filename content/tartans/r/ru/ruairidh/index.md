@@ -18,10 +18,10 @@ Its design is pattern [KBGKBGBGBGBKRWR](/stripes/kbgkbgbgbgbkrwr/) — the page 
 The **Ruairidh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/">Ruairidh</a></td><td><code>K/6 N7 DY36 K17 N17 Y34 DB6 Y6 DB6 Y34 N17 K17 R39 W4 R/6</code></td><td>492</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/"><img src="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/sett.png" alt="Ruairidh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/">Ruairidh</a></td><td></td><td><code>K/6 N7 DY36 K17 N17 Y34 DB6 Y6 DB6 Y34 N17 K17 R39 W4 R/6</code></td><td>492</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/"><img src="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/sett.png" alt="Ruairidh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBYBWBWBWBYBW](/stripes/gbybwbwbwbybw/) — the page of e
 The **Delta Dental Association** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/">Delta Dental Association</a></td><td><code>G/8 N2 LY58 N12 W26 N26 W12 N26 W26 N12 LY58 N2 LB/8</code></td><td>536</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/"><img src="/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/sett.png" alt="Delta Dental Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/">Delta Dental Association</a></td><td></td><td><code>G/8 N2 LY58 N12 W26 N26 W12 N26 W26 N12 LY58 N2 LB/8</code></td><td>536</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/"><img src="/variants/s13/g4n1ly29n6w13n13w6n13w13n6ly29n1lb4~x2/sett.png" alt="Delta Dental Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

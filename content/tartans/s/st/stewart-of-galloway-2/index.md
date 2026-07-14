@@ -20,10 +20,10 @@ Clan tartan recorded c.1820 from a specimen at the Smith Institute, Stirling.
 The **Stewart of Galloway** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/">Stewart of Galloway</a></td><td><code>G/18 R104 LB26 K32 Y4 K6 W8 K6 G46 R30 G14 Y/6</code></td><td>576</td><td>~1820</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/"><img src="/variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/sett.png" alt="Stewart of Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/">Stewart of Galloway</a></td><td></td><td><code>G/18 R104 LB26 K32 Y4 K6 W8 K6 G46 R30 G14 Y/6</code></td><td>576</td><td>~1820</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/"><img src="/variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/sett.png" alt="Stewart of Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

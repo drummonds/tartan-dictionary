@@ -18,10 +18,10 @@ Its design is pattern [KRBGKWBBRGKBWK](/stripes/krbgkwbbrgkbwk/) — the page of
 The **Parker** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/">Parker</a></td><td><code>K/30 R3 DB10 Y3 K40 LB5 N5 DB8 R3 Y5 K25 DB8 LB8 K/5</code></td><td>281</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/"><img src="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/sett.png" alt="Parker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/">Parker</a></td><td></td><td><code>K/30 R3 DB10 Y3 K40 LB5 N5 DB8 R3 Y5 K25 DB8 LB8 K/5</code></td><td>281</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/"><img src="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/sett.png" alt="Parker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

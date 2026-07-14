@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKB](/stripes/bkbkbkb/) — the page of every tartan 
 The **STLTH** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/">STLTH</a></td><td><code>DT/8 K4 DT8 K90 N4 K6 N/4</code></td><td>236</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><img src="/variants/s7/dt4k2dt4k45n2k3n2~x2/sett.png" alt="STLTH sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/">STLTH</a></td><td></td><td><code>DT/8 K4 DT8 K90 N4 K6 N/4</code></td><td>236</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><img src="/variants/s7/dt4k2dt4k45n2k3n2~x2/sett.png" alt="STLTH sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BKBWKWKW](/stripes/bkbwkwkw/) — the page of every tarta
 The **O'Sullivan-Beare** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/">O'Sullivan-Beare</a></td><td><code>LB/80 K6 LB6 K6 LB6 N16 K48 N/16</code></td><td>272</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/"><img src="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/sett.png" alt="O'Sullivan-Beare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/">O'Sullivan-Beare</a></td><td></td><td><code>LB/80 K6 LB6 K6 LB6 N16 K48 N/16</code></td><td>272</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/"><img src="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/sett.png" alt="O'Sullivan-Beare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

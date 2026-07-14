@@ -13,10 +13,10 @@ Its design is pattern [RWYGYWGWYGW](/stripes/rwygywgwygw/) — the page of every
 The **Bouguet, Adrian Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb16dg5lo20lbi3dg3lbi3lo4g14lo2lbi2r1~x2~lb3203246-lbi3300000/">Bouguet, Adrian Dress</a></td><td><code>LB/32 DG10 LO40 LBi6 DG6 LBi6 LO8 G28 LO4 LBi4 R/2</code></td><td>258</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb16dg5lo20lbi3dg3lbi3lo4g14lo2lbi2r1~x2~lb3203246-lbi3300000/"><img src="/variants/s11/lb16dg5lo20lbi3dg3lbi3lo4g14lo2lbi2r1~x2~lb3203246-lbi3300000/sett.png" alt="Bouguet, Adrian Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb16dg5lo20lbi3dg3lbi3lo4g14lo2lbi2r1~x2~lb3203246-lbi3300000/">Bouguet, Adrian Dress</a></td><td></td><td><code>LB/32 DG10 LO40 LBi6 DG6 LBi6 LO8 G28 LO4 LBi4 R/2</code></td><td>258</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb16dg5lo20lbi3dg3lbi3lo4g14lo2lbi2r1~x2~lb3203246-lbi3300000/"><img src="/variants/s11/lb16dg5lo20lbi3dg3lbi3lo4g14lo2lbi2r1~x2~lb3203246-lbi3300000/sett.png" alt="Bouguet, Adrian Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

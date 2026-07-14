@@ -15,10 +15,10 @@ Designed in 1996 by Polly Wittering of House of Edgar for accountancy firm KPMG.
 The **KPGM** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/">KPGM</a></td><td><code>R/24 LY4 DB6 K6 DB60 K40 DR12 K20 LY4 DR/8</code></td><td>336</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/"><img src="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/sett.png" alt="KPGM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/">KPGM</a></td><td></td><td><code>R/24 LY4 DB6 K6 DB60 K40 DR12 K20 LY4 DR/8</code></td><td>336</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/"><img src="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/sett.png" alt="KPGM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

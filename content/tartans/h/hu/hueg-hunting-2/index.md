@@ -18,10 +18,10 @@ Its design is pattern [BGBGBGKKKG](/stripes/bgbgbgkkkg/) — the page of every t
 The **Hueg Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/">Hueg Hunting</a></td><td><code>DB/34 DG10 DB10 DG34 DB8 DG34 K12 DG/10</code></td><td>260</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/"><img src="/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/sett.png" alt="Hueg Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/">Hueg Hunting</a></td><td></td><td><code>DB/34 DG10 DB10 DG34 DB8 DG34 K12 DG/10</code></td><td>260</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/"><img src="/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/sett.png" alt="Hueg Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

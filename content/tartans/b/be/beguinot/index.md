@@ -13,10 +13,10 @@ Its design is pattern [BGRGGGRWRGGGRGBGBG](/stripes/bgrgggrwrgggrgbgbg/) — the
 The **Beguinot** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/">Beguinot</a></td><td><code>T/24 DG8 R4 DY6 G8 DG8 R40 W8 R28 DG8 G8 DY6 R4 DG8 T24 DY4 T16 DY/4</code></td><td>404</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/"><img src="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/sett.png" alt="Beguinot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/">Beguinot</a></td><td></td><td><code>T/24 DG8 R4 DY6 G8 DG8 R40 W8 R28 DG8 G8 DY6 R4 DG8 T24 DY4 T16 DY/4</code></td><td>404</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/"><img src="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/sett.png" alt="Beguinot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

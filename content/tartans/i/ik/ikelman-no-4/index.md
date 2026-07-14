@@ -16,10 +16,10 @@ Its design is pattern [RKGKWKW](/stripes/rkgkwkw/) — the page of every tartan 
 The **Ikelman No 4** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r10k15g2k2w1k1w1~x4/">Ikelman No 4</a></td><td><code>R/40 K60 G8 K8 W4 K4 W/4</code></td><td>212</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><img src="/variants/s7/r10k15g2k2w1k1w1~x4/sett.png" alt="Ikelman No 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r10k15g2k2w1k1w1~x4/">Ikelman No 4</a></td><td></td><td><code>R/40 K60 G8 K8 W4 K4 W/4</code></td><td>212</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><img src="/variants/s7/r10k15g2k2w1k1w1~x4/sett.png" alt="Ikelman No 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

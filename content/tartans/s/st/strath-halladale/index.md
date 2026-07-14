@@ -13,10 +13,10 @@ Its design is pattern [BGRGKGKG](/stripes/bgrgkgkg/) — the page of every tarta
 The **Strath Halladale** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/">Strath Halladale</a></td><td><code>DG/10 K30 DG10 K30 DG38 R4 DG20 B/8</code></td><td>282</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><img src="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/sett.png" alt="Strath Halladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/">Strath Halladale</a></td><td></td><td><code>DG/10 K30 DG10 K30 DG38 R4 DG20 B/8</code></td><td>282</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><img src="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/sett.png" alt="Strath Halladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

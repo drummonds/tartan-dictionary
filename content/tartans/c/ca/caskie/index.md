@@ -13,10 +13,10 @@ Its design is pattern [GKGRWKW](/stripes/gkgrwkw/) — the page of every tartan 
 The **Caskie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/">Caskie</a></td><td><code>Y/6 K2 G24 R14 LB50 K2 W/6</code></td><td>196</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><img src="/variants/s7/y3k1g12r7lb25k1w3~x2/sett.png" alt="Caskie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/">Caskie</a></td><td></td><td><code>Y/6 K2 G24 R14 LB50 K2 W/6</code></td><td>196</td><td>1978</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><img src="/variants/s7/y3k1g12r7lb25k1w3~x2/sett.png" alt="Caskie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

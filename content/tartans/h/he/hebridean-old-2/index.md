@@ -16,10 +16,10 @@ Its design is pattern [KWGWKWKW](/stripes/kwgwkwkw/) — the page of every tarta
 The **Hebridean Old** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k2lb1g16lb1k13lb18k2lb2~x2/">Hebridean Old</a></td><td><code>K/4 LB2 G32 LB2 K26 LB36 K4 LB/4</code></td><td>212</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k2lb1g16lb1k13lb18k2lb2~x2/"><img src="/variants/s8/k2lb1g16lb1k13lb18k2lb2~x2/sett.png" alt="Hebridean Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k2lb1g16lb1k13lb18k2lb2~x2/">Hebridean Old</a></td><td></td><td><code>K/4 LB2 G32 LB2 K26 LB36 K4 LB/4</code></td><td>212</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k2lb1g16lb1k13lb18k2lb2~x2/"><img src="/variants/s8/k2lb1g16lb1k13lb18k2lb2~x2/sett.png" alt="Hebridean Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

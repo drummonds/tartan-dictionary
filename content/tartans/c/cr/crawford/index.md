@@ -15,15 +15,15 @@ The **Crawford** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/">Crawford</a> ★</td><td><code>R/12 LB4 R60 G24 R6 G24 R/6</code></td><td>254</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/"><img src="/variants/s7/r6lb2r30g12r3g12r3~x2/sett.png" alt="Crawford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r6w2r30g12r3g12r3~x2/">(Clan)</a></td><td><code>R/6 W2 R30 G12 R3 G12 R/3</code></td><td>127</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r6w2r30g12r3g12r3~x2/"><img src="/variants/s7/r6w2r30g12r3g12r3~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/r6w2r30g12r3g12r3/">Crawford</a></td><td><code>R/6 W2 R30 G12 R3 G12 R/3</code></td><td>127</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r6w2r30g12r3g12r3~x2/">(Clan)</a></td><td><code>R/12 W4 R60 G24 R6 G24 R/6</code></td><td>254</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r6w2r30g12r3g12r3/">Crawford</a> · <a href="/variants/s7/r6w2r30g12r3g12r3~x2/">(Clan)</a></td></tr>
+<tr><td><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/">Crawford</a> ★</td><td></td><td><code>R/12 LB4 R60 G24 R6 G24 R/6</code></td><td>254</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/"><img src="/variants/s7/r6lb2r30g12r3g12r3~x2/sett.png" alt="Crawford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r6w2r30g12r3g12r3~x2/">(Clan)</a></td><td>0.30</td><td><code>R/6 W2 R30 G12 R3 G12 R/3</code></td><td>127</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r6w2r30g12r3g12r3~x2/"><img src="/variants/s7/r6w2r30g12r3g12r3~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/r6w2r30g12r3g12r3/">Crawford</a></td><td>0.30</td><td><code>R/6 W2 R30 G12 R3 G12 R/3</code></td><td>127</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r6w2r30g12r3g12r3~x2/">(Clan)</a></td><td>0.30</td><td><code>R/12 W4 R60 G24 R6 G24 R/6</code></td><td>254</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/r6w2r30g12r3g12r3/">Crawford</a> · <a href="/variants/s7/r6w2r30g12r3g12r3~x2/">(Clan)</a></td></tr>
 </tbody>
 </table>
 

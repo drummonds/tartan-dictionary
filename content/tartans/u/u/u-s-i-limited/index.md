@@ -13,10 +13,10 @@ Its design is pattern [BBWBGWBBWBW](/stripes/bbwbgwbbwbw/) — the page of every
 The **U.S.I. Limited** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/">U.S.I. Limited</a></td><td><code>DB/40 N4 LB4 N8 G40 W4 DB32 N14 LB4 DB6 LB/10</code></td><td>282</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><img src="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/sett.png" alt="U.S.I. Limited sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/">U.S.I. Limited</a></td><td></td><td><code>DB/40 N4 LB4 N8 G40 W4 DB32 N14 LB4 DB6 LB/10</code></td><td>282</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><img src="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/sett.png" alt="U.S.I. Limited sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [WBBGBRKBW](/stripes/wbbgbrkbw/) — the page of every tar
 The **Murray of Abercairney** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/">Murray of Abercairney</a></td><td><code>LB/6 N2 K2 R24 B2 G18 B2 N2 LB/6</code></td><td>116</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/"><img src="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/sett.png" alt="Murray of Abercairney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/">Murray of Abercairney</a></td><td></td><td><code>LB/6 N2 K2 R24 B2 G18 B2 N2 LB/6</code></td><td>116</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/"><img src="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/sett.png" alt="Murray of Abercairney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

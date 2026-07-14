@@ -16,10 +16,10 @@ Its design is pattern [RKWKWKWBWKWGWGGGW](/stripes/rkwkwkwbwkwgwgggw/) — the p
 The **Clanedin Commemorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4y2dy10w3~x2/">Clanedin Commemorative</a></td><td><code>R/6 K16 W4 K6 W4 K4 W12 DB6 W12 K4 W4 DY6 W4 DY8 Y4 DY20 W/6</code></td><td>240</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4y2dy10w3~x2/"><img src="/variants/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4y2dy10w3~x2/sett.png" alt="Clanedin Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4y2dy10w3~x2/">Clanedin Commemorative</a></td><td></td><td><code>R/6 K16 W4 K6 W4 K4 W12 DB6 W12 K4 W4 DY6 W4 DY8 Y4 DY20 W/6</code></td><td>240</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4y2dy10w3~x2/"><img src="/variants/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4y2dy10w3~x2/sett.png" alt="Clanedin Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

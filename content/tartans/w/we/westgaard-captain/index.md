@@ -16,10 +16,10 @@ Its design is pattern [BWBBYKWBBYKW](/stripes/bwbbykwbbykw/) — the page of eve
 The **Westgaard Captain** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/">Westgaard Captain</a></td><td><code>DR/18 W8 DR12 B8 LY4 K4 W4 DR10 B6 LY4 K4 W/4</code></td><td>150</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/"><img src="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/sett.png" alt="Westgaard Captain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/">Westgaard Captain</a></td><td></td><td><code>DR/18 W8 DR12 B8 LY4 K4 W4 DR10 B6 LY4 K4 W/4</code></td><td>150</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/"><img src="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/sett.png" alt="Westgaard Captain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

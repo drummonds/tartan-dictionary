@@ -18,10 +18,10 @@ Its design is pattern [BGBKBKGBKBGBGBBGYGBBG](/stripes/bgbkbkgbkbgbgbbgygbbg/) â
 The **Gordonstoun** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/">Gordonstoun</a></td><td><code>DR/16 DG16 DR4 K28 DR4 K4 Y4 DR4 K28 DR4 DG16 DR16 Y4 DP16 DR4 DG28 LY4 DG28 DR4 DP16 Y/4</code></td><td>484</td><td>1957</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/"><img src="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/sett.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/">Gordonstoun</a></td><td></td><td><code>DR/16 DG16 DR4 K28 DR4 K4 Y4 DR4 K28 DR4 DG16 DR16 Y4 DP16 DR4 DG28 LY4 DG28 DR4 DP16 Y/4</code></td><td>484</td><td>1957</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/"><img src="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/sett.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

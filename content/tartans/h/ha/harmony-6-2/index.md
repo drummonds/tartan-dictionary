@@ -18,10 +18,10 @@ Its design is pattern [BGRBG](/stripes/bgrbg/) — the page of every tartan shar
 The **Harmony, 6** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/g2b10o15g10b2~x4/">Harmony, 6</a></td><td><code>G/8 B40 O60 G40 B/8</code></td><td>296</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/g2b10o15g10b2~x4/"><img src="/variants/s5/g2b10o15g10b2~x4/sett.png" alt="Harmony, 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g2b10o15g10b2~x4/">Harmony, 6</a></td><td></td><td><code>G/8 B40 O60 G40 B/8</code></td><td>296</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/g2b10o15g10b2~x4/"><img src="/variants/s5/g2b10o15g10b2~x4/sett.png" alt="Harmony, 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

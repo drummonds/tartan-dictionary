@@ -13,10 +13,10 @@ Its design is pattern [GGRBBW](/stripes/ggrbbw/) — the page of every tartan sh
 The **Pool, Robert David** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w2dp2db25r3y3g1~x4/">Pool, Robert David</a></td><td><code>W/8 DP8 DB100 R12 Y12 G/4</code></td><td>276</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><img src="/variants/s6/w2dp2db25r3y3g1~x4/sett.png" alt="Pool, Robert David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w2dp2db25r3y3g1~x4/">Pool, Robert David</a></td><td></td><td><code>W/8 DP8 DB100 R12 Y12 G/4</code></td><td>276</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><img src="/variants/s6/w2dp2db25r3y3g1~x4/sett.png" alt="Pool, Robert David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

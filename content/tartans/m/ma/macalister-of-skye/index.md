@@ -18,10 +18,10 @@ Its design is pattern [BKYBWKYKY](/stripes/bkybwkyky/) — the page of every tar
 The **MacAlister of Skye** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/">MacAlister of Skye</a></td><td><code>DR/8 K10 LO2 DR52 LB2 K60 LO2 K2 LO/8</code></td><td>276</td><td>~1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><img src="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/sett.png" alt="MacAlister of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/">MacAlister of Skye</a></td><td></td><td><code>DR/8 K10 LO2 DR52 LB2 K60 LO2 K2 LO/8</code></td><td>276</td><td>~1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><img src="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/sett.png" alt="MacAlister of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

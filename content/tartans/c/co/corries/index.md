@@ -13,10 +13,10 @@ Its design is pattern [BWBRBW](/stripes/bwbrbw/) — the page of every tartan sh
 The **Corries** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb28db15r2db2w1db6~x2/">Corries</a></td><td><code>LB/56 DB30 R4 DB4 W2 DB/12</code></td><td>148</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><img src="/variants/s6/lb28db15r2db2w1db6~x2/sett.png" alt="Corries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb28db15r2db2w1db6~x2/">Corries</a></td><td></td><td><code>LB/56 DB30 R4 DB4 W2 DB/12</code></td><td>148</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><img src="/variants/s6/lb28db15r2db2w1db6~x2/sett.png" alt="Corries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

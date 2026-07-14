@@ -18,10 +18,10 @@ Its design is pattern [GWGWGBGWGWGYGWGWG](/stripes/gwgwgbgwgwgygwgwg/) — the p
 The **Jubilee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/">Jubilee</a></td><td><code>G/3 LB24 G8 LB12 G44 DR6 G44 LB48 G6 LB48 G44 LO6 G44 LB12 G8 LB24 G/3</code></td><td>762</td><td>1936</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/"><img src="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/sett.png" alt="Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/">Jubilee</a></td><td></td><td><code>G/3 LB24 G8 LB12 G44 DR6 G44 LB48 G6 LB48 G44 LO6 G44 LB12 G8 LB24 G/3</code></td><td>762</td><td>1936</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/"><img src="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/sett.png" alt="Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

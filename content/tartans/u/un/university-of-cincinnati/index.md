@@ -14,13 +14,13 @@ The **University of Cincinnati** tartan is one sett, recorded at 2 scales — th
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/">University of Cincinnati</a></td><td><code>K/66 W1 R8 K14 W14 K6 R11 W/8</code></td><td>182</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/"><img src="/variants/s8/k66w1r8k14w14k6r11w8~x2/sett.png" alt="University of Cincinnati sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/">University of Cincinnati</a></td><td><code>K/132 W2 R16 K28 W28 K12 R22 W/16</code></td><td>364</td><td>2015</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s8/k66w1r8k14w14k6r11w8~x4/">University of Cincinnati</a></td><td><code>K/264 W4 R32 K56 W56 K24 R44 W/32</code></td><td>728</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/">University of Cincinnati</a> · <a href="/variants/s8/k66w1r8k14w14k6r11w8~x4/">University of Cincinnati</a></td></tr>
+<tr><td><a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/">University of Cincinnati</a></td><td></td><td><code>K/66 W1 R8 K14 W14 K6 R11 W/8</code></td><td>182</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/"><img src="/variants/s8/k66w1r8k14w14k6r11w8~x2/sett.png" alt="University of Cincinnati sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/">University of Cincinnati</a></td><td>0.00</td><td><code>K/132 W2 R16 K28 W28 K12 R22 W/16</code></td><td>364</td><td>2015</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s8/k66w1r8k14w14k6r11w8~x4/">University of Cincinnati</a></td><td>0.00</td><td><code>K/264 W4 R32 K56 W56 K24 R44 W/32</code></td><td>728</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/">University of Cincinnati</a> · <a href="/variants/s8/k66w1r8k14w14k6r11w8~x4/">University of Cincinnati</a></td></tr>
 </tbody>
 </table>
 

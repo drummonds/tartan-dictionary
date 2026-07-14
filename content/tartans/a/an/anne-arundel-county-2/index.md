@@ -13,10 +13,10 @@ Its design is pattern [GBBKRKBR](/stripes/gbbkrkbr/) — the page of every tarta
 The **Anne Arundel County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/">Anne Arundel County</a></td><td><code>R/8 N20 K18 O4 K18 DBi66 DB14 G/8</code></td><td>296</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/"><img src="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/sett.png" alt="Anne Arundel County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/">Anne Arundel County</a></td><td></td><td><code>R/8 N20 K18 O4 K18 DBi66 DB14 G/8</code></td><td>296</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/"><img src="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/sett.png" alt="Anne Arundel County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [RBWRBRR](/stripes/rbwrbrr/) — the page of every tartan 
 The **Thomson, Navy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r3db15w13o6db2o2r2~x2/">Thomson, Navy</a></td><td><code>R/6 DB30 W26 O12 DB4 O4 R/4</code></td><td>162</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><img src="/variants/s7/r3db15w13o6db2o2r2~x2/sett.png" alt="Thomson, Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3db15w13o6db2o2r2~x2/">Thomson, Navy</a></td><td></td><td><code>R/6 DB30 W26 O12 DB4 O4 R/4</code></td><td>162</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><img src="/variants/s7/r3db15w13o6db2o2r2~x2/sett.png" alt="Thomson, Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GGBWWRW](/stripes/ggbwwrw/) — the page of every tartan 
 The **Barneys** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/lb25r10lb25w8b6g8y5~x2/">Barneys</a></td><td><code>LB/50 R20 LB50 W16 B12 G16 Y/10</code></td><td>288</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb25r10lb25w8b6g8y5~x2/"><img src="/variants/s7/lb25r10lb25w8b6g8y5~x2/sett.png" alt="Barneys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb25r10lb25w8b6g8y5~x2/">Barneys</a></td><td></td><td><code>LB/50 R20 LB50 W16 B12 G16 Y/10</code></td><td>288</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/lb25r10lb25w8b6g8y5~x2/"><img src="/variants/s7/lb25r10lb25w8b6g8y5~x2/sett.png" alt="Barneys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

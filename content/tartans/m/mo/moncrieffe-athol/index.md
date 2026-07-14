@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKGRGKGKR](/stripes/gkgkgkgrgkgkr/) — the page of e
 The **Moncrieffe Athol** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/">Moncrieffe Athol</a></td><td><code>G/40 K6 G6 K6 G6 K36 G42 R8 G42 K36 G38 K4 R/8</code></td><td>508</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/"><img src="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/sett.png" alt="Moncrieffe Athol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/">Moncrieffe Athol</a></td><td></td><td><code>G/40 K6 G6 K6 G6 K36 G42 R8 G42 K36 G38 K4 R/8</code></td><td>508</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/"><img src="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/sett.png" alt="Moncrieffe Athol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

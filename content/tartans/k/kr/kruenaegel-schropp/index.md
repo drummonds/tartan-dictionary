@@ -13,10 +13,10 @@ Its design is pattern [BRWBWBGW](/stripes/brwbwbgw/) — the page of every tarta
 The **Kruenaegel-Schropp** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/">Kruenaegel-Schropp</a></td><td><code>DB/80 M4 W12 DT4 W8 DT32 G12 W/4</code></td><td>228</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><img src="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/sett.png" alt="Kruenaegel-Schropp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/">Kruenaegel-Schropp</a></td><td></td><td><code>DB/80 M4 W12 DT4 W8 DT32 G12 W/4</code></td><td>228</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><img src="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/sett.png" alt="Kruenaegel-Schropp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,14 +16,14 @@ The **Princess Margaret Rose** tartan groups 3 setts — the same named design r
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dg32r12dg6r6k2w3~x2/">Princess Margaret Rose</a> ★</td><td><code>DG/64 R24 DG12 R12 K4 W/6</code></td><td>174</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><img src="/variants/s6/dg32r12dg6r6k2w3~x2/sett.png" alt="Princess Margaret Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g32r12g6r6k2w3~x2/">(Royal)</a></td><td><code>G/64 R24 G12 R12 K4 W/6</code></td><td>174</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g32r12g6r6k2w3~x2/"><img src="/variants/s6/g32r12g6r6k2w3~x2/sett.png" alt="(Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g36r18g4r6k1w2~x2/">Tartan</a></td><td><code>G/72 R36 G8 R12 K2 W/4</code></td><td>192</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g36r18g4r6k1w2~x2/"><img src="/variants/s6/g36r18g4r6k1w2~x2/sett.png" alt="Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg32r12dg6r6k2w3~x2/">Princess Margaret Rose</a> ★</td><td></td><td><code>DG/64 R24 DG12 R12 K4 W/6</code></td><td>174</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><img src="/variants/s6/dg32r12dg6r6k2w3~x2/sett.png" alt="Princess Margaret Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g32r12g6r6k2w3~x2/">(Royal)</a></td><td>0.20</td><td><code>G/64 R24 G12 R12 K4 W/6</code></td><td>174</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g32r12g6r6k2w3~x2/"><img src="/variants/s6/g32r12g6r6k2w3~x2/sett.png" alt="(Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g36r18g4r6k1w2~x2/">Tartan</a></td><td>0.71</td><td><code>G/72 R36 G8 R12 K2 W/4</code></td><td>192</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g36r18g4r6k1w2~x2/"><img src="/variants/s6/g36r18g4r6k1w2~x2/sett.png" alt="Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

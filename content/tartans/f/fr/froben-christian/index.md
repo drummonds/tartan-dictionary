@@ -15,12 +15,12 @@ The **Froben, Christian** tartan groups 2 setts — the same named design record
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/">Froben, Christian</a> ★</td><td><code>K/4 W4 K16 Y16 DB48 G26 K6 DR/2</code></td><td>238</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/"><img src="/variants/s8/k2w2k8y8db24g13k3dr1~x2/sett.png" alt="Froben, Christian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/">(Personal)</a></td><td><code>K/4 W4 K16 LY16 DB48 G26 K6 DR/2</code></td><td>238</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/"><img src="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/">Froben, Christian</a> ★</td><td></td><td><code>K/4 W4 K16 Y16 DB48 G26 K6 DR/2</code></td><td>238</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/"><img src="/variants/s8/k2w2k8y8db24g13k3dr1~x2/sett.png" alt="Froben, Christian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/">(Personal)</a></td><td>0.07</td><td><code>K/4 W4 K16 LY16 DB48 G26 K6 DR/2</code></td><td>238</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/"><img src="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

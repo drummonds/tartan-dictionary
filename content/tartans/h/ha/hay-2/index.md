@@ -18,10 +18,10 @@ Its design is pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk
 The **Hay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/">Hay</a></td><td><code>K/24 R8 LY8 K16 R132 G16 R2 LY2 R16 G120 W6 K120 R6 DP120 R16 LY6 R6 DP16 R132 K16 LY8 R8 K/12</code></td><td>1596</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/"><img src="/variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/sett.png" alt="Hay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/">Hay</a></td><td></td><td><code>K/24 R8 LY8 K16 R132 G16 R2 LY2 R16 G120 W6 K120 R6 DP120 R16 LY6 R6 DP16 R132 K16 LY8 R8 K/12</code></td><td>1596</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/"><img src="/variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/sett.png" alt="Hay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

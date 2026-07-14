@@ -15,10 +15,10 @@ Designed in 2004 for the Seattle wedding of Traepischke Graves and Steve Lalor; 
 The **Palatine Union** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/">Palatine Union</a></td><td><code>DB/26 K6 DB6 K6 DB6 K20 LB20 W8 R8 W8 LB20 K20 DB28 K6 DB/6</code></td><td>356</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/"><img src="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/sett.png" alt="Palatine Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/">Palatine Union</a></td><td></td><td><code>DB/26 K6 DB6 K6 DB6 K20 LB20 W8 R8 W8 LB20 K20 DB28 K6 DB/6</code></td><td>356</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/"><img src="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/sett.png" alt="Palatine Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

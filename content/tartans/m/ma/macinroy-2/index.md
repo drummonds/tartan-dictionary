@@ -22,15 +22,15 @@ The **MacInroy** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/">MacInroy</a> ★</td><td><code>K/1 G3 K3 R1 DB3 R1 DB1 R3 G1 K/1</code></td><td>34</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/"><img src="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/">MacInroy</a></td><td><code>K/4 G12 K12 R4 DB12 R4 DB4 R12 G4 K/4</code></td><td>136</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/">(Clan)</a></td><td><code>K/8 G24 K24 R8 DB24 R8 DB8 R24 G8 K/8</code></td><td>272</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/">MacInroy</a> · <a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/">(Clan)</a></td></tr>
-<tr><td><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/">Clan Tartan</a></td><td><code>K/4 G12 K12 R4 DP12 R4 DP4 R12 G4 K/4</code></td><td>136</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/"><img src="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/">MacInroy</a> ★</td><td></td><td><code>K/1 G3 K3 R1 DB3 R1 DB1 R3 G1 K/1</code></td><td>34</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/"><img src="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/">MacInroy</a></td><td>0.00</td><td><code>K/4 G12 K12 R4 DB12 R4 DB4 R12 G4 K/4</code></td><td>136</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/">(Clan)</a></td><td>0.00</td><td><code>K/8 G24 K24 R8 DB24 R8 DB8 R24 G8 K/8</code></td><td>272</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/">MacInroy</a> · <a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/">(Clan)</a></td></tr>
+<tr><td><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/">Clan Tartan</a></td><td>2.00</td><td><code>K/4 G12 K12 R4 DP12 R4 DP4 R12 G4 K/4</code></td><td>136</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/"><img src="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

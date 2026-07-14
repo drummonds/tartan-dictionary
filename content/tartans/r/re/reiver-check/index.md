@@ -13,10 +13,10 @@ Its design is pattern [KWKWKWKWKR](/stripes/kwkwkwkwkr/) — the page of every t
 The **Reiver Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/">Reiver Check</a></td><td><code>K/108 W8 K8 W8 K8 W8 K8 W8 K16 R/20</code></td><td>272</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><img src="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/sett.png" alt="Reiver Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/">Reiver Check</a></td><td></td><td><code>K/108 W8 K8 W8 K8 W8 K8 W8 K16 R/20</code></td><td>272</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><img src="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/sett.png" alt="Reiver Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

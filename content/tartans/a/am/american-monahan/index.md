@@ -13,10 +13,10 @@ Its design is pattern [KGKGKGYGKGY](/stripes/kgkgkgygkgy/) — the page of every
 The **American Monahan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/">American Monahan</a></td><td><code>K/26 G6 K8 G6 K6 G38 LY2 G38 K6 G4 LY/8</code></td><td>262</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/"><img src="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/sett.png" alt="American Monahan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/">American Monahan</a></td><td></td><td><code>K/26 G6 K8 G6 K6 G38 LY2 G38 K6 G4 LY/8</code></td><td>262</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/"><img src="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/sett.png" alt="American Monahan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **Drambuie Hunting** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/">Drambuie Hunting</a> ★</td><td><code>LY/6 DO36 K48 R4 K5 LYi/6</code></td><td>—</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/"><img src="/variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/sett.png" alt="Drambuie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/o6do36k48r4k5y6/">Drambuie hunting</a></td><td><code>O/6 DO36 K48 R4 K5 Y/6</code></td><td>198</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/o6do36k48r4k5y6/"><img src="/variants/s6/o6do36k48r4k5y6/sett.png" alt="Drambuie hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/">Drambuie Hunting</a> ★</td><td></td><td><code>LY/6 DO36 K48 R4 K5 LYi/6</code></td><td>—</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/"><img src="/variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/sett.png" alt="Drambuie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/o6do36k48r4k5y6/">Drambuie hunting</a></td><td>0.03</td><td><code>O/6 DO36 K48 R4 K5 Y/6</code></td><td>198</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/o6do36k48r4k5y6/"><img src="/variants/s6/o6do36k48r4k5y6/sett.png" alt="Drambuie hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

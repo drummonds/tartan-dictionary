@@ -13,10 +13,10 @@ Its design is pattern [RWGBKWKGKW](/stripes/rwgbkwkgkw/) — the page of every t
 The **Miss Emma Halford-MacLeod** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/">Miss Emma Halford-MacLeod</a></td><td><code>W/204 K6 Y6 K6 W6 K24 DB28 G24 W6 R/6</code></td><td>422</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><img src="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/sett.png" alt="Miss Emma Halford-MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/">Miss Emma Halford-MacLeod</a></td><td></td><td><code>W/204 K6 Y6 K6 W6 K24 DB28 G24 W6 R/6</code></td><td>422</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><img src="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/sett.png" alt="Miss Emma Halford-MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

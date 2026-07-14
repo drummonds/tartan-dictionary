@@ -18,10 +18,10 @@ Its design is pattern [BYBRBRKBW](/stripes/bybrbrkbw/) — the page of every tar
 The **Turnberry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/n14lg3n2o8n5o2k2n25lb2~x2~n1900000-o2500000/">Turnberry</a></td><td><code>N/28 LG6 N4 O16 N10 O4 K4 N50 LB/4</code></td><td>220</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/n14lg3n2o8n5o2k2n25lb2~x2~n1900000-o2500000/"><img src="/variants/s9/n14lg3n2o8n5o2k2n25lb2~x2~n1900000-o2500000/sett.png" alt="Turnberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/n14lg3n2o8n5o2k2n25lb2~x2~n1900000-o2500000/">Turnberry</a></td><td></td><td><code>N/28 LG6 N4 O16 N10 O4 K4 N50 LB/4</code></td><td>220</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/n14lg3n2o8n5o2k2n25lb2~x2~n1900000-o2500000/"><img src="/variants/s9/n14lg3n2o8n5o2k2n25lb2~x2~n1900000-o2500000/sett.png" alt="Turnberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBGBGKBKBKY](/stripes/gbgbgkbkbky/) — the page of every
 The **79th Regiment** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/">79th Regiment</a></td><td><code>DG/22 DR2 DG2 DR6 DG42 Ki46 DR2 K42 DR6 K12 LO/3</code></td><td>345</td><td>1793</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/"><img src="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/sett.png" alt="79th Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/">79th Regiment</a></td><td></td><td><code>DG/22 DR2 DG2 DR6 DG42 Ki46 DR2 K42 DR6 K12 LO/3</code></td><td>345</td><td>1793</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/"><img src="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/sett.png" alt="79th Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

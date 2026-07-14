@@ -13,10 +13,10 @@ Its design is pattern [BRBRBRWRBWBBBRBRBRBRWBWRW](/stripes/brbrbrwrbwbbbrbrbrbrw
 The **Unidentified Plaid 5** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/db2r2db2r2db6r5w2r75db13w5db9b2db45o1db3o2db2o3db1o10w2db10lb2o14lb2~x2/">Unidentified Plaid 5</a></td><td><code>DB/4 R4 DB4 R4 DB12 R10 W4 R150 DB26 W10 DB18 B4 DB90 O2 DB6 O4 DB4 O6 DB2 O20 W4 DB20 LB4 O28 LB/4</code></td><td>880</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/db2r2db2r2db6r5w2r75db13w5db9b2db45o1db3o2db2o3db1o10w2db10lb2o14lb2~x2/"><img src="/variants/s25/db2r2db2r2db6r5w2r75db13w5db9b2db45o1db3o2db2o3db1o10w2db10lb2o14lb2~x2/sett.png" alt="Unidentified Plaid 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/db2r2db2r2db6r5w2r75db13w5db9b2db45o1db3o2db2o3db1o10w2db10lb2o14lb2~x2/">Unidentified Plaid 5</a></td><td></td><td><code>DB/4 R4 DB4 R4 DB12 R10 W4 R150 DB26 W10 DB18 B4 DB90 O2 DB6 O4 DB4 O6 DB2 O20 W4 DB20 LB4 O28 LB/4</code></td><td>880</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/db2r2db2r2db6r5w2r75db13w5db9b2db45o1db3o2db2o3db1o10w2db10lb2o14lb2~x2/"><img src="/variants/s25/db2r2db2r2db6r5w2r75db13w5db9b2db45o1db3o2db2o3db1o10w2db10lb2o14lb2~x2/sett.png" alt="Unidentified Plaid 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

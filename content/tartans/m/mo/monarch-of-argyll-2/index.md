@@ -13,10 +13,10 @@ Its design is pattern [BKBKRKRKRBRB](/stripes/bkbkrkrkrbrb/) — the page of eve
 The **Monarch of Argyll** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/">Monarch of Argyll</a></td><td><code>N/23 K6 N6 K6 O38 K40 O6 K40 O38 N38 O6 N/6</code></td><td>477</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/"><img src="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/sett.png" alt="Monarch of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/">Monarch of Argyll</a></td><td></td><td><code>N/23 K6 N6 K6 O38 K40 O6 K40 O38 N38 O6 N/6</code></td><td>477</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/"><img src="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/sett.png" alt="Monarch of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

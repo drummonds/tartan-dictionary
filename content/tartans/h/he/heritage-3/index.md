@@ -13,10 +13,10 @@ Its design is pattern [RBKYKYKRKRW](/stripes/rbkykykrkrw/) — the page of every
 The **Heritage** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/">Heritage</a></td><td><code>R/88 DB6 K12 LY4 K4 LY4 K20 R10 K4 R6 W/4</code></td><td>232</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/"><img src="/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/sett.png" alt="Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/">Heritage</a></td><td></td><td><code>R/88 DB6 K12 LY4 K4 LY4 K20 R10 K4 R6 W/4</code></td><td>232</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/"><img src="/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/sett.png" alt="Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

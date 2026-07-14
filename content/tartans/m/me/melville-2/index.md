@@ -22,19 +22,19 @@ The **Melville** tartan groups 4 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k4w2g13k13b12k2~x2/">Melville</a> ★</td><td><code>K/8 W4 G26 K26 B24 K/4</code></td><td>172</td><td>1847</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4w2g13k13b12k2~x2/"><img src="/variants/s6/k4w2g13k13b12k2~x2/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k4w2g18k13db12k2~x2/">Melville</a></td><td><code>K/8 W4 G36 K26 DB24 K/4</code></td><td>192</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4w2g18k13db12k2~x2/"><img src="/variants/s6/k4w2g18k13db12k2~x2/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k5w2g18k17db16k3/">Melville</a></td><td><code>K/5 W2 G18 K17 DB16 K/3</code></td><td>114</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k5w2g18k17db16k3/"><img src="/variants/s6/k5w2g18k17db16k3/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k5w2g18k17dr16k3/">Melville</a></td><td><code>K/5 W2 G18 K17 DR16 K/3</code></td><td>114</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k5w2g18k17dr16k3/"><img src="/variants/s6/k5w2g18k17dr16k3/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/k5w2g18k17dr16k3/">Melville</a></td><td><code>K/5 W2 G18 K17 DR16 K/3</code></td><td>114</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/k5w2g18k17dr16k3~x2/">Melville</a></td><td><code>K/10 W4 G36 K34 DR32 K/6</code></td><td>228</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/k5w2g18k17dr16k3/">Melville</a> · <a href="/variants/s6/k5w2g18k17dr16k3~x2/">Melville</a></td></tr>
+<tr><td><a href="/variants/s6/k4w2g13k13b12k2~x2/">Melville</a> ★</td><td></td><td><code>K/8 W4 G26 K26 B24 K/4</code></td><td>172</td><td>1847</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4w2g13k13b12k2~x2/"><img src="/variants/s6/k4w2g13k13b12k2~x2/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4w2g18k13db12k2~x2/">Melville</a></td><td>0.38</td><td><code>K/8 W4 G36 K26 DB24 K/4</code></td><td>192</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4w2g18k13db12k2~x2/"><img src="/variants/s6/k4w2g18k13db12k2~x2/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k5w2g18k17db16k3/">Melville</a></td><td>0.41</td><td><code>K/5 W2 G18 K17 DB16 K/3</code></td><td>114</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k5w2g18k17db16k3/"><img src="/variants/s6/k5w2g18k17db16k3/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k5w2g18k17dr16k3/">Melville</a></td><td>1.33</td><td><code>K/5 W2 G18 K17 DR16 K/3</code></td><td>114</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k5w2g18k17dr16k3/"><img src="/variants/s6/k5w2g18k17dr16k3/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/k5w2g18k17dr16k3/">Melville</a></td><td>1.33</td><td><code>K/5 W2 G18 K17 DR16 K/3</code></td><td>114</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/k5w2g18k17dr16k3~x2/">Melville</a></td><td>1.33</td><td><code>K/10 W4 G36 K34 DR32 K/6</code></td><td>228</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/k5w2g18k17dr16k3/">Melville</a> · <a href="/variants/s6/k5w2g18k17dr16k3~x2/">Melville</a></td></tr>
 </tbody>
 </table>
 

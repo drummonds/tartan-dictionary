@@ -16,10 +16,10 @@ Its design is pattern [BRBRWRRR](/stripes/brbrwrrr/) — the page of every tarta
 The **Bannockbane Variant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/">Bannockbane Variant</a></td><td><code>N/6 R4 N60 R2 W36 O28 R4 O/6</code></td><td>280</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/"><img src="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/sett.png" alt="Bannockbane Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/">Bannockbane Variant</a></td><td></td><td><code>N/6 R4 N60 R2 W36 O28 R4 O/6</code></td><td>280</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/"><img src="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/sett.png" alt="Bannockbane Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

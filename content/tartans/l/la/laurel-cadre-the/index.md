@@ -13,10 +13,10 @@ Its design is pattern [BRKBR](/stripes/brkbr/) — the page of every tartan shar
 The **Laurel Cadre, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/dp12r8k64dp75r8/">Laurel Cadre, The</a></td><td><code>DP/12 R8 K64 DP75 R/8</code></td><td>314</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dp12r8k64dp75r8/"><img src="/variants/s5/dp12r8k64dp75r8/sett.png" alt="Laurel Cadre, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dp12r8k64dp75r8/">Laurel Cadre, The</a></td><td></td><td><code>DP/12 R8 K64 DP75 R/8</code></td><td>314</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dp12r8k64dp75r8/"><img src="/variants/s5/dp12r8k64dp75r8/sett.png" alt="Laurel Cadre, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

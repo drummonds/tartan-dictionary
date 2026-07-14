@@ -13,11 +13,11 @@ Its design is pattern [BWWGWGGG](/stripes/bwwgwggg/) — the page of every tarta
 The **Iroquois Falls Centenary** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/">Iroquois Falls Centenary</a></td><td><code>DG/36 G12 DY6 W2 DY6 W2 LB12 DB/12</code></td><td>128</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/"><img src="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/sett.png" alt="Iroquois Falls Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/">Iroquois Falls Centenary</a> · <a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2~dg1806142-g2408144/">(Commem.)</a></td></tr>
+<tr><td><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/">Iroquois Falls Centenary</a></td><td></td><td><code>DG/36 G12 DY6 W2 DY6 W2 LB12 DB/12</code></td><td>128</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/"><img src="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/sett.png" alt="Iroquois Falls Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/">Iroquois Falls Centenary</a> · <a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2~dg1806142-g2408144/">(Commem.)</a></td></tr>
 </tbody>
 </table>
 

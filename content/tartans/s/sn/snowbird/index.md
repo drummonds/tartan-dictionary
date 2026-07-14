@@ -18,10 +18,10 @@ Its design is pattern [RBYRYBRW](/stripes/rbyrybrw/) — the page of every tarta
 The **Snowbird** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/">Snowbird</a></td><td><code>R/58 T24 LG30 R16 LG30 T24 R58 W/8</code></td><td>430</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/"><img src="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/sett.png" alt="Snowbird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/">Snowbird</a></td><td></td><td><code>R/58 T24 LG30 R16 LG30 T24 R58 W/8</code></td><td>430</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/"><img src="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/sett.png" alt="Snowbird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

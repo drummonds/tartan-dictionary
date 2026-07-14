@@ -18,10 +18,10 @@ Its design is pattern [BGBGBGBGBKBGBGBGBGBBYBRB](/stripes/bgbgbgbgbkbgbgbgbgbbyb
 The **Michie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/dp35g8dp6g4dp12g4dp6g8dp54k6dp54g8dp6g4dp12g4dp6g8dp35t27lo4t4r4t27/">Michie</a></td><td><code>DP/35 G8 DP6 G4 DP12 G4 DP6 G8 DP54 K6 DP54 G8 DP6 G4 DP12 G4 DP6 G8 DP35 T27 LO4 T4 R4 T/27</code></td><td>630</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/dp35g8dp6g4dp12g4dp6g8dp54k6dp54g8dp6g4dp12g4dp6g8dp35t27lo4t4r4t27/"><img src="/variants/s24/dp35g8dp6g4dp12g4dp6g8dp54k6dp54g8dp6g4dp12g4dp6g8dp35t27lo4t4r4t27/sett.png" alt="Michie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/dp35g8dp6g4dp12g4dp6g8dp54k6dp54g8dp6g4dp12g4dp6g8dp35t27lo4t4r4t27/">Michie</a></td><td></td><td><code>DP/35 G8 DP6 G4 DP12 G4 DP6 G8 DP54 K6 DP54 G8 DP6 G4 DP12 G4 DP6 G8 DP35 T27 LO4 T4 R4 T/27</code></td><td>630</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/dp35g8dp6g4dp12g4dp6g8dp54k6dp54g8dp6g4dp12g4dp6g8dp35t27lo4t4r4t27/"><img src="/variants/s24/dp35g8dp6g4dp12g4dp6g8dp54k6dp54g8dp6g4dp12g4dp6g8dp35t27lo4t4r4t27/sett.png" alt="Michie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

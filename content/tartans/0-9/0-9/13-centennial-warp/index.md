@@ -13,10 +13,10 @@ Its design is pattern [BGKBKBKBKBKBKBKBKGKRBRBRBRBRBRBRBRKG](/stripes/bgkbkbkbkb
 The **13, Centennial Warp** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/">13, Centennial Warp</a></td><td><code>G/104 K8 O12 DB56 O2 DB2 O2 DB2 O2 DB2 O2 DB2 O2 DB2 O2 DB2 O16 K48 G24 K8 DB40 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K16 G16 DB/32</code></td><td>720</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/"><img src="/variants/s36/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/sett.png" alt="13, Centennial Warp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/">13, Centennial Warp</a></td><td></td><td><code>G/104 K8 O12 DB56 O2 DB2 O2 DB2 O2 DB2 O2 DB2 O2 DB2 O2 DB2 O16 K48 G24 K8 DB40 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K2 DB2 K16 G16 DB/32</code></td><td>720</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/"><img src="/variants/s36/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/sett.png" alt="13, Centennial Warp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [WBWBRGRBWKWBW](/stripes/wbwbrgrbwkwbw/) — the page of e
 The **Gordon, dress 5** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w6db3w18k5w5do10o17y4o17do10lb10do2lb4~x2/">Gordon, dress 5</a></td><td><code>W/12 DB6 W36 K10 W10 DO20 O34 Y8 O34 DO20 LB20 DO4 LB/8</code></td><td>424</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w6db3w18k5w5do10o17y4o17do10lb10do2lb4~x2/"><img src="/variants/s13/w6db3w18k5w5do10o17y4o17do10lb10do2lb4~x2/sett.png" alt="Gordon, dress 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w6db3w18k5w5do10o17y4o17do10lb10do2lb4~x2/">Gordon, dress 5</a></td><td></td><td><code>W/12 DB6 W36 K10 W10 DO20 O34 Y8 O34 DO20 LB20 DO4 LB/8</code></td><td>424</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w6db3w18k5w5do10o17y4o17do10lb10do2lb4~x2/"><img src="/variants/s13/w6db3w18k5w5do10o17y4o17do10lb10do2lb4~x2/sett.png" alt="Gordon, dress 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

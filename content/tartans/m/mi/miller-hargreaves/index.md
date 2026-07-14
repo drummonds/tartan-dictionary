@@ -13,10 +13,10 @@ Its design is pattern [BBBBGBGR](/stripes/bbbbgbgr/) — the page of every tarta
 The **Miller Hargreaves** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/n40db4n4dp5g5n3y6r3~x2/">Miller Hargreaves</a></td><td><code>N/80 DB8 N8 DP10 G10 N6 Y12 R/6</code></td><td>194</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n40db4n4dp5g5n3y6r3~x2/"><img src="/variants/s8/n40db4n4dp5g5n3y6r3~x2/sett.png" alt="Miller Hargreaves sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n40db4n4dp5g5n3y6r3~x2/">Miller Hargreaves</a></td><td></td><td><code>N/80 DB8 N8 DP10 G10 N6 Y12 R/6</code></td><td>194</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/n40db4n4dp5g5n3y6r3~x2/"><img src="/variants/s8/n40db4n4dp5g5n3y6r3~x2/sett.png" alt="Miller Hargreaves sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

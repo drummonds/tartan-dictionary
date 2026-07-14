@@ -13,10 +13,10 @@ Its design is pattern [BBKGBBW](/stripes/bbkgbbw/) — the page of every tartan 
 The **Barrance, Paul and Kelly** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/">Barrance, Paul and Kelly</a></td><td><code>DP/6 N84 K4 G34 N18 DP6 W/4</code></td><td>302</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/"><img src="/variants/s7/dp3n42k2g17n9dp3w2~x2/sett.png" alt="Barrance, Paul and Kelly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/">Barrance, Paul and Kelly</a></td><td></td><td><code>DP/6 N84 K4 G34 N18 DP6 W/4</code></td><td>302</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/"><img src="/variants/s7/dp3n42k2g17n9dp3w2~x2/sett.png" alt="Barrance, Paul and Kelly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBGBGBGGWG](/stripes/gbgbgbggwg/) — the page of every t
 The **Roddy's Highland Spirit** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/">Roddy's Highland Spirit</a></td><td><code>G/60 DP6 G6 DP6 G6 DP20 DG20 Y40 LP4 DG/10</code></td><td>286</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/"><img src="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/sett.png" alt="Roddy's Highland Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/">Roddy's Highland Spirit</a></td><td></td><td><code>G/60 DP6 G6 DP6 G6 DP20 DG20 Y40 LP4 DG/10</code></td><td>286</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/"><img src="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/sett.png" alt="Roddy's Highland Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

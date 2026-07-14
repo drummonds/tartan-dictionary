@@ -18,10 +18,10 @@ Its design is pattern [BWBWBY](/stripes/bwbwby/) — the page of every tartan sh
 The **Machair** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/ly72db16w9db4w5db16~x2/">Machair</a></td><td><code>LY/144 DB32 W18 DB8 W10 DB/32</code></td><td>312</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><img src="/variants/s6/ly72db16w9db4w5db16~x2/sett.png" alt="Machair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly72db16w9db4w5db16~x2/">Machair</a></td><td></td><td><code>LY/144 DB32 W18 DB8 W10 DB/32</code></td><td>312</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><img src="/variants/s6/ly72db16w9db4w5db16~x2/sett.png" alt="Machair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GBYBGBYYBG](/stripes/gbybgbyybg/) — the page of every t
 The **Glendronach Distillery** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/">Glendronach Distillery</a></td><td><code>DG/88 DR8 LR4 LY12 DR4 DG24 DR88 LY12 DR4 DG/40</code></td><td>440</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/"><img src="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/sett.png" alt="Glendronach Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/">Glendronach Distillery</a></td><td></td><td><code>DG/88 DR8 LR4 LY12 DR4 DG24 DR88 LY12 DR4 DG/40</code></td><td>440</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/"><img src="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/sett.png" alt="Glendronach Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

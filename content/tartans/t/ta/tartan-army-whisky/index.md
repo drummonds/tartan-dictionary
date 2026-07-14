@@ -15,12 +15,12 @@ The **Tartan Army Whisky** tartan groups 2 setts — the same named design recor
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/">Tartan Army Whisky</a> ★</td><td><code>R/52 G10 DG14 DR4 DO18 LO2 LOi2 DG/8</code></td><td>160</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/"><img src="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/sett.png" alt="Tartan Army Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/">Tartan Army Whisky</a></td><td><code>Ri/52 G10 DG14 R4 DO18 LR2 LO2 DG/8</code></td><td>160</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/"><img src="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/sett.png" alt="Tartan Army Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/">Tartan Army Whisky</a> ★</td><td></td><td><code>R/52 G10 DG14 DR4 DO18 LO2 LOi2 DG/8</code></td><td>160</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/"><img src="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/sett.png" alt="Tartan Army Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/">Tartan Army Whisky</a></td><td>0.62</td><td><code>Ri/52 G10 DG14 R4 DO18 LR2 LO2 DG/8</code></td><td>160</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/"><img src="/variants/s8/ri26g5dg7r2do9lr1lo1dg4~x2~ri2109032-r1807033/sett.png" alt="Tartan Army Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

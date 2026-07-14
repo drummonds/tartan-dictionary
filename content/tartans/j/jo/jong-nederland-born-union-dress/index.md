@@ -13,10 +13,10 @@ Its design is pattern [GKWKYWWBWBWBWWYKWK](/stripes/gkwkywwbwbwbwwykwk/) — the
 The **Jong Nederland Born Union, Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/k1lb2k2ly2lb12w13dr1w1dr2w1dr1w13lb12ly2k2lb2k1y1~x4/">Jong Nederland Born Union, Dress</a></td><td><code>K/4 LB8 K8 LY8 LB48 W52 DR4 W4 DR8 W4 DR4 W52 LB48 LY8 K8 LB8 K4 Y/4</code></td><td>560</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/k1lb2k2ly2lb12w13dr1w1dr2w1dr1w13lb12ly2k2lb2k1y1~x4/"><img src="/variants/s18/k1lb2k2ly2lb12w13dr1w1dr2w1dr1w13lb12ly2k2lb2k1y1~x4/sett.png" alt="Jong Nederland Born Union, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k1lb2k2ly2lb12w13dr1w1dr2w1dr1w13lb12ly2k2lb2k1y1~x4/">Jong Nederland Born Union, Dress</a></td><td></td><td><code>K/4 LB8 K8 LY8 LB48 W52 DR4 W4 DR8 W4 DR4 W52 LB48 LY8 K8 LB8 K4 Y/4</code></td><td>560</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/k1lb2k2ly2lb12w13dr1w1dr2w1dr1w13lb12ly2k2lb2k1y1~x4/"><img src="/variants/s18/k1lb2k2ly2lb12w13dr1w1dr2w1dr1w13lb12ly2k2lb2k1y1~x4/sett.png" alt="Jong Nederland Born Union, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

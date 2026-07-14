@@ -15,10 +15,10 @@ Created in 1996 for the 30th anniversary of Heriot Watt University's charter.
 The **Heriot Watt University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/">Heriot Watt University</a></td><td><code>T/64 DB2 DG32 R4 DG4 DT36 T8 LO2 DG10 LO2 T8 DT36 DG4 R4 DG32 DB2 T64 DT/6</code></td><td>570</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/"><img src="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/sett.png" alt="Heriot Watt University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/">Heriot Watt University</a></td><td></td><td><code>T/64 DB2 DG32 R4 DG4 DT36 T8 LO2 DG10 LO2 T8 DT36 DG4 R4 DG32 DB2 T64 DT/6</code></td><td>570</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/"><img src="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/sett.png" alt="Heriot Watt University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

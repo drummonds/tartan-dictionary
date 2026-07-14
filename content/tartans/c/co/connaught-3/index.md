@@ -18,10 +18,10 @@ Its design is pattern [BRBRGRGRGG](/stripes/brbrgrgrgg/) — the page of every t
 The **Connaught** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/">Connaught</a></td><td><code>DY/64 DG4 R2 DG4 R2 DG4 R64 DO2 R2 DO/8</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/"><img src="/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/sett.png" alt="Connaught sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/">Connaught</a></td><td></td><td><code>DY/64 DG4 R2 DG4 R2 DG4 R64 DO2 R2 DO/8</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/"><img src="/variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/sett.png" alt="Connaught sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

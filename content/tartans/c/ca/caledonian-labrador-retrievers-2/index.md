@@ -16,10 +16,10 @@ Its design is pattern [BYGYBKGG](/stripes/bygybkgg/) — the page of every tarta
 The **Caledonian Labrador Retrievers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg3105139-dg1804158/">Caledonian Labrador Retrievers</a></td><td><code>DP/42 LG8 DY10 LG8 DP10 K42 DG42 Y/10</code></td><td>292</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg3105139-dg1804158/"><img src="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg3105139-dg1804158/sett.png" alt="Caledonian Labrador Retrievers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg3105139-dg1804158/">Caledonian Labrador Retrievers</a></td><td></td><td><code>DP/42 LG8 DY10 LG8 DP10 K42 DG42 Y/10</code></td><td>292</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg3105139-dg1804158/"><img src="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg3105139-dg1804158/sett.png" alt="Caledonian Labrador Retrievers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

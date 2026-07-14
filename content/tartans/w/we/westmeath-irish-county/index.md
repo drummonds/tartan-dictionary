@@ -18,10 +18,10 @@ One of Polly Wittering's Irish county series for House of Edgar, with soft warm 
 The **Westmeath Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5~x2/">Westmeath Irish County</a></td><td><code>G/22 DR12 DB12 DG4 G6 DG4 DB12 DR12 G72 LO4 DG6 LO4 DB10 DR/10</code></td><td>348</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5~x2/"><img src="/variants/s14/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5~x2/sett.png" alt="Westmeath Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5~x2/">Westmeath Irish County</a></td><td></td><td><code>G/22 DR12 DB12 DG4 G6 DG4 DB12 DR12 G72 LO4 DG6 LO4 DB10 DR/10</code></td><td>348</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5~x2/"><img src="/variants/s14/g11dr6db6dg2g3dg2db6dr6g36lo2dg3lo2db5dr5~x2/sett.png" alt="Westmeath Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

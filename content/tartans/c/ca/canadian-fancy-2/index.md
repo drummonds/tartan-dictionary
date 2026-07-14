@@ -13,10 +13,10 @@ Its design is pattern [GRGWGW](/stripes/grgwgw/) — the page of every tartan sh
 The **Canadian Fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g4o25g6lb12g12lb3~x2/">Canadian Fancy</a></td><td><code>G/8 O50 G12 LB24 G24 LB/6</code></td><td>234</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g4o25g6lb12g12lb3~x2/"><img src="/variants/s6/g4o25g6lb12g12lb3~x2/sett.png" alt="Canadian Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g4o25g6lb12g12lb3~x2/">Canadian Fancy</a></td><td></td><td><code>G/8 O50 G12 LB24 G24 LB/6</code></td><td>234</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g4o25g6lb12g12lb3~x2/"><img src="/variants/s6/g4o25g6lb12g12lb3~x2/sett.png" alt="Canadian Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

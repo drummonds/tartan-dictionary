@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRBRY](/stripes/brbrbrbry/) — the page of every tar
 The **MacIver of Strathendry Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/">MacIver of Strathendry Hunting</a></td><td><code>DR/6 O56 DO10 O10 DO66 O10 DO10 O56 LY/6</code></td><td>448</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/"><img src="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/sett.png" alt="MacIver of Strathendry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/">MacIver of Strathendry Hunting</a></td><td></td><td><code>DR/6 O56 DO10 O10 DO66 O10 DO10 O56 LY/6</code></td><td>448</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/"><img src="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/sett.png" alt="MacIver of Strathendry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

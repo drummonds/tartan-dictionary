@@ -16,10 +16,10 @@ Its design is pattern [BYKBKYKYKY](/stripes/bykbkykyky/) — the page of every t
 The **Campbell 'Camel'** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/">Campbell 'Camel'</a></td><td><code>DO/4 LR8 K20 DO12 K4 LY16 K4 LY40 K4 LY/4</code></td><td>224</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><img src="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/sett.png" alt="Campbell 'Camel' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/">Campbell 'Camel'</a></td><td></td><td><code>DO/4 LR8 K20 DO12 K4 LY16 K4 LY40 K4 LY/4</code></td><td>224</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><img src="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/sett.png" alt="Campbell 'Camel' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

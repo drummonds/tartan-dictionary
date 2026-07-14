@@ -18,10 +18,10 @@ Its design is pattern [GBGBGBGBGBGKGW](/stripes/gbgbgbgbgbgkgw/) — the page of
 The **Hay Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/">Hay Hunting</a></td><td><code>G/12 DB8 Y4 DB34 G4 DB4 G4 DB16 G52 DB12 G8 K4 G8 W/12</code></td><td>340</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/"><img src="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/sett.png" alt="Hay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/">Hay Hunting</a></td><td></td><td><code>G/12 DB8 Y4 DB34 G4 DB4 G4 DB16 G52 DB12 G8 K4 G8 W/12</code></td><td>340</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/"><img src="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/sett.png" alt="Hay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

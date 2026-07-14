@@ -18,10 +18,10 @@ Its design is pattern [RBRGGRBW](/stripes/rbrggrbw/) — the page of every tarta
 The **Elbrick Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/">Elbrick Dress</a></td><td><code>R/12 T44 R12 G40 Y4 R90 T4 W/10</code></td><td>410</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><img src="/variants/s8/r6t22r6g20y2r45t2w5~x2/sett.png" alt="Elbrick Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/">Elbrick Dress</a></td><td></td><td><code>R/12 T44 R12 G40 Y4 R90 T4 W/10</code></td><td>410</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><img src="/variants/s8/r6t22r6g20y2r45t2w5~x2/sett.png" alt="Elbrick Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

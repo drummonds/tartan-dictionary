@@ -16,10 +16,10 @@ Its design is pattern [YBRRBYRBY](/stripes/ybrrbyrby/) — the page of every tar
 The **Highland Village** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/">Highland Village</a></td><td><code>LY/8 DO4 O40 Oi48 DO40 LY24 O40 DO4 LY/8</code></td><td>416</td><td>1901</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/"><img src="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/sett.png" alt="Highland Village sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/">Highland Village</a></td><td></td><td><code>LY/8 DO4 O40 Oi48 DO40 LY24 O40 DO4 LY/8</code></td><td>416</td><td>1901</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/"><img src="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/sett.png" alt="Highland Village sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GWGWBGYGYGYGYGBYGYGYGYGYGYBWGWGY](/stripes/gwgwbgygygygyg
 The **Strathearn Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s32/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2~x2/">Strathearn Dress</a></td><td><code>DY/4 W20 DY8 W8 DR14 DG20 LO8 DG4 LO4 DG10 LO4 DG4 LO8 DG20 DR14 LO4 DY14 LO10 DY4 LO4 DY10 LO4 DY4 LO8 DY14 LO4 DR14 W8 DY8 W20 DY4 LO/4</code></td><td>568</td><td>~2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s32/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2~x2/"><img src="/variants/s32/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2~x2/sett.png" alt="Strathearn Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s32/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2~x2/">Strathearn Dress</a></td><td></td><td><code>DY/4 W20 DY8 W8 DR14 DG20 LO8 DG4 LO4 DG10 LO4 DG4 LO8 DG20 DR14 LO4 DY14 LO10 DY4 LO4 DY10 LO4 DY4 LO8 DY14 LO4 DR14 W8 DY8 W20 DY4 LO/4</code></td><td>568</td><td>~2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s32/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2~x2/"><img src="/variants/s32/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2~x2/sett.png" alt="Strathearn Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -22,16 +22,16 @@ The **MacIver** tartan groups 4 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w2r12k3r3k16r3k3r12ly2~x2/">MacIver</a> ★</td><td><code>W/4 R24 K6 R6 K32 R6 K6 R24 LY/4</code></td><td>216</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w2r12k3r3k16r3k3r12ly2~x2/"><img src="/variants/s9/w2r12k3r3k16r3k3r12ly2~x2/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/">MacIver</a></td><td><code>Y/2 R12 K2 R2 K32 R2 K2 R12 W/2</code></td><td>132</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><img src="y1r6k1r1k16r1k1r6w1-rev.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/">MacIver</a></td><td><code>Y/4 R36 K8 R8 K48 R8 K8 R36 W/4</code></td><td>312</td><td>1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/"><img src="y1r9k2r2k12r2k2r9w1-rev.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/">#2</a></td><td><code>Y/6 R54 K10 R10 K64 R10 K10 R54 W/6</code></td><td>436</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/"><img src="y3r27k5r5k32r5k5r27w3-rev.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w2r12k3r3k16r3k3r12ly2~x2/">MacIver</a> ★</td><td></td><td><code>W/4 R24 K6 R6 K32 R6 K6 R24 LY/4</code></td><td>216</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w2r12k3r3k16r3k3r12ly2~x2/"><img src="/variants/s9/w2r12k3r3k16r3k3r12ly2~x2/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/">MacIver</a></td><td>0.62</td><td><code>Y/2 R12 K2 R2 K32 R2 K2 R12 W/2</code></td><td>132</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><img src="y1r6k1r1k16r1k1r6w1-rev.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/">MacIver</a></td><td>0.37</td><td><code>Y/4 R36 K8 R8 K48 R8 K8 R36 W/4</code></td><td>312</td><td>1906</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/"><img src="y1r9k2r2k12r2k2r9w1-rev.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/">#2</a></td><td>0.38</td><td><code>Y/6 R54 K10 R10 K64 R10 K10 R54 W/6</code></td><td>436</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/"><img src="y3r27k5r5k32r5k5r27w3-rev.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

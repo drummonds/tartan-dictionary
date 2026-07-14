@@ -16,10 +16,10 @@ Its design is pattern [BRBRBBGBG](/stripes/brbrbbgbg/) — the page of every tar
 The **Ayrshire Tourist Board** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/">Ayrshire Tourist Board</a></td><td><code>DB/20 O6 T8 O6 DB14 T6 G14 DB34 DY/4</code></td><td>200</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/"><img src="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/sett.png" alt="Ayrshire Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/">Ayrshire Tourist Board</a></td><td></td><td><code>DB/20 O6 T8 O6 DB14 T6 G14 DB34 DY/4</code></td><td>200</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/"><img src="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/sett.png" alt="Ayrshire Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

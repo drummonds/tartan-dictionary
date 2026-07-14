@@ -13,10 +13,10 @@ Its design is pattern [BGBBKBWKWRWKWRWKWRWKWKWKWRWRWKWKWBKB](/stripes/bgbbkbwkwr
 The **Debian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7~x4/">Debian</a></td><td><code>DR/28 K4 DR28 W12 K4 W4 K4 W4 R12 W4 R12 W12 K4 W4 K4 W4 K4 W4 R12 W4 K4 W4 R12 W4 K4 W12 R12 W12 K4 W4 DR28 K4 DR28 DB28 Y4 DB/28</code></td><td>664</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7~x4/"><img src="/variants/s36/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7~x4/sett.png" alt="Debian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7~x4/">Debian</a></td><td></td><td><code>DR/28 K4 DR28 W12 K4 W4 K4 W4 R12 W4 R12 W12 K4 W4 K4 W4 K4 W4 R12 W4 K4 W4 R12 W4 K4 W12 R12 W12 K4 W4 DR28 K4 DR28 DB28 Y4 DB/28</code></td><td>664</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7~x4/"><img src="/variants/s36/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7~x4/sett.png" alt="Debian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

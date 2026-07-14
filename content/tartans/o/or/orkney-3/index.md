@@ -20,10 +20,10 @@ Designed by Ronnie Hek for the Westry Knitters; chosen by public vote as Orkney'
 The **Orkney** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k3dr13g19k3t19g3dr9g3t19k3g19dr13k3ly3~x2/">Orkney</a></td><td><code>K/6 DR26 G38 K6 T38 G6 DR18 G6 T38 K6 G38 DR26 K6 LY/6</code></td><td>516</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k3dr13g19k3t19g3dr9g3t19k3g19dr13k3ly3~x2/"><img src="/variants/s14/k3dr13g19k3t19g3dr9g3t19k3g19dr13k3ly3~x2/sett.png" alt="Orkney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k3dr13g19k3t19g3dr9g3t19k3g19dr13k3ly3~x2/">Orkney</a></td><td></td><td><code>K/6 DR26 G38 K6 T38 G6 DR18 G6 T38 K6 G38 DR26 K6 LY/6</code></td><td>516</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k3dr13g19k3t19g3dr9g3t19k3g19dr13k3ly3~x2/"><img src="/variants/s14/k3dr13g19k3t19g3dr9g3t19k3g19dr13k3ly3~x2/sett.png" alt="Orkney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

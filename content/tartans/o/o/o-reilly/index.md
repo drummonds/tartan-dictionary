@@ -15,10 +15,10 @@ One of Scotch Corner's Irish surname tartans, woven by Marton Mills, Yorkshire.
 The **O'Reilly** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/">O'Reilly</a></td><td><code>R/8 T6 LR4 K4 LR24 K4 DB20 Ti50 W/4</code></td><td>236</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/"><img src="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/sett.png" alt="O'Reilly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/">O'Reilly</a></td><td></td><td><code>R/8 T6 LR4 K4 LR24 K4 DB20 Ti50 W/4</code></td><td>236</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/"><img src="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/sett.png" alt="O'Reilly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

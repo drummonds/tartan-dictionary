@@ -20,10 +20,10 @@ Designed 2012 for Melissa McNulty's Begg family, drawing on Macdonald and Caithn
 The **Begg** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/o4dg30db12g3k2lb3k26dp4k2~dg1504144-db0906265-g2307139-k0704274/">Begg</a></td><td><code>O/4 DG30 DB12 G3 K2 LB3 K26 DP4 K/2</code></td><td>166</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/o4dg30db12g3k2lb3k26dp4k2~dg1504144-db0906265-g2307139-k0704274/"><img src="/variants/s9/o4dg30db12g3k2lb3k26dp4k2~dg1504144-db0906265-g2307139-k0704274/sett.png" alt="Begg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/o4dg30db12g3k2lb3k26dp4k2~dg1504144-db0906265-g2307139-k0704274/">Begg</a></td><td></td><td><code>O/4 DG30 DB12 G3 K2 LB3 K26 DP4 K/2</code></td><td>166</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/o4dg30db12g3k2lb3k26dp4k2~dg1504144-db0906265-g2307139-k0704274/"><img src="/variants/s9/o4dg30db12g3k2lb3k26dp4k2~dg1504144-db0906265-g2307139-k0704274/sett.png" alt="Begg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

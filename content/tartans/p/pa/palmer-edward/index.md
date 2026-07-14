@@ -13,10 +13,10 @@ Its design is pattern [RGKGKWKWRKRKW](/stripes/rgkgkwkwrkrkw/) — the page of e
 The **Palmer, Edward** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/">Palmer, Edward</a></td><td><code>R/8 G40 K32 Y4 K6 W6 K4 W36 R12 K4 R8 K2 W/4</code></td><td>320</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/"><img src="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/sett.png" alt="Palmer, Edward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/">Palmer, Edward</a></td><td></td><td><code>R/8 G40 K32 Y4 K6 W6 K4 W36 R12 K4 R8 K2 W/4</code></td><td>320</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/"><img src="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/sett.png" alt="Palmer, Edward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

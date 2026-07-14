@@ -16,10 +16,10 @@ Its design is pattern [RGKRKGWRKGKGKWWKRKWR](/stripes/rgkrkgwrkgkgkwwkrkwr/) —
 The **Anderson Old** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r8g16k1r4k1g16lb14r2k14y2k4y2k1w8lb52k1r4k1lb16r8~x2/">Anderson Old</a></td><td><code>R/16 G32 K2 R8 K2 G32 LB28 R4 K28 Y4 K8 Y4 K2 W16 LB104 K2 R8 K2 LB32 R/16</code></td><td>668</td><td>1940</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r8g16k1r4k1g16lb14r2k14y2k4y2k1w8lb52k1r4k1lb16r8~x2/"><img src="/variants/s20/r8g16k1r4k1g16lb14r2k14y2k4y2k1w8lb52k1r4k1lb16r8~x2/sett.png" alt="Anderson Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r8g16k1r4k1g16lb14r2k14y2k4y2k1w8lb52k1r4k1lb16r8~x2/">Anderson Old</a></td><td></td><td><code>R/16 G32 K2 R8 K2 G32 LB28 R4 K28 Y4 K8 Y4 K2 W16 LB104 K2 R8 K2 LB32 R/16</code></td><td>668</td><td>1940</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r8g16k1r4k1g16lb14r2k14y2k4y2k1w8lb52k1r4k1lb16r8~x2/"><img src="/variants/s20/r8g16k1r4k1g16lb14r2k14y2k4y2k1w8lb52k1r4k1lb16r8~x2/sett.png" alt="Anderson Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -19,14 +19,14 @@ The **Rose Hunting** tartan is one sett, recorded at 3 scales — the same propo
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k4w1g10k10db10r2~x2/">Rose Hunting</a></td><td><code>K/4 W1 G10 K10 DB10 R/2</code></td><td>68</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k4w1g10k10db10r2~x2/"><img src="/variants/s6/k4w1g10k10db10r2~x2/sett.png" alt="Rose Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/k4w1g10k10db10r2/">Rose Hunting</a></td><td><code>K/4 W1 G10 K10 DB10 R/2</code></td><td>68</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/k4w1g10k10db10r2~x2/">Rose Hunting</a></td><td><code>K/8 W2 G20 K20 DB20 R/4</code></td><td>136</td><td>1831</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/k4w1g10k10db10r2~x4/">Rose Hunting</a></td><td><code>K/16 W4 G40 K40 DB40 R/8</code></td><td>272</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s6/k4w1g10k10db10r2/">Rose Hunting</a> · <a href="/variants/s6/k4w1g10k10db10r2~x2/">Rose Hunting</a> · <a href="/variants/s6/k4w1g10k10db10r2~x4/">Rose Hunting</a></td></tr>
+<tr><td><a href="/variants/s6/k4w1g10k10db10r2~x2/">Rose Hunting</a></td><td></td><td><code>K/4 W1 G10 K10 DB10 R/2</code></td><td>68</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4w1g10k10db10r2~x2/"><img src="/variants/s6/k4w1g10k10db10r2~x2/sett.png" alt="Rose Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/k4w1g10k10db10r2/">Rose Hunting</a></td><td>0.00</td><td><code>K/4 W1 G10 K10 DB10 R/2</code></td><td>68</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/k4w1g10k10db10r2~x2/">Rose Hunting</a></td><td>0.00</td><td><code>K/8 W2 G20 K20 DB20 R/4</code></td><td>136</td><td>1831</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s6/k4w1g10k10db10r2~x4/">Rose Hunting</a></td><td>0.00</td><td><code>K/16 W4 G40 K40 DB40 R/8</code></td><td>272</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s6/k4w1g10k10db10r2/">Rose Hunting</a> · <a href="/variants/s6/k4w1g10k10db10r2~x2/">Rose Hunting</a> · <a href="/variants/s6/k4w1g10k10db10r2~x4/">Rose Hunting</a></td></tr>
 </tbody>
 </table>
 

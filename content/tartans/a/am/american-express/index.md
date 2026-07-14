@@ -13,10 +13,10 @@ Its design is pattern [BBBBGWGBBB](/stripes/bbbbgwgbbb/) — the page of every t
 The **American Express** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/">American Express</a></td><td><code>B/36 DR4 DB20 G20 LB8 G20 DB20 DR4 B36 DB/8</code></td><td>308</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/"><img src="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/sett.png" alt="American Express sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/">American Express</a></td><td></td><td><code>B/36 DR4 DB20 G20 LB8 G20 DB20 DR4 B36 DB/8</code></td><td>308</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/"><img src="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/sett.png" alt="American Express sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

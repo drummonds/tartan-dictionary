@@ -18,10 +18,10 @@ Its design is pattern [BGWBGGWGBGWBG](/stripes/bgwbggwgbgwbg/) — the page of e
 The **Hogan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg49dr3w2y1n3dg19w2y1dg5dr3w2y1n3~x2/">Hogan</a></td><td><code>DG/98 DR6 W4 Y2 N6 DG38 W4 Y2 DG10 DR6 W4 Y2 N/6</code></td><td>272</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg49dr3w2y1n3dg19w2y1dg5dr3w2y1n3~x2/"><img src="/variants/s13/dg49dr3w2y1n3dg19w2y1dg5dr3w2y1n3~x2/sett.png" alt="Hogan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg49dr3w2y1n3dg19w2y1dg5dr3w2y1n3~x2/">Hogan</a></td><td></td><td><code>DG/98 DR6 W4 Y2 N6 DG38 W4 Y2 DG10 DR6 W4 Y2 N/6</code></td><td>272</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg49dr3w2y1n3dg19w2y1dg5dr3w2y1n3~x2/"><img src="/variants/s13/dg49dr3w2y1n3dg19w2y1dg5dr3w2y1n3~x2/sett.png" alt="Hogan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

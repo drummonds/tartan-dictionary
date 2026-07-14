@@ -16,10 +16,10 @@ Its design is pattern [BYBKWKBKGY](/stripes/bybkwkbkgy/) — the page of every t
 The **Wcwm 9275-1510-5** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dp60lo2dp10k9lb2k2t2k2y28lo3~x2/">Wcwm 9275-1510-5</a></td><td><code>DP/120 LO4 DP20 K18 LB4 K4 T4 K4 Y56 LO/6</code></td><td>354</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dp60lo2dp10k9lb2k2t2k2y28lo3~x2/"><img src="/variants/s10/dp60lo2dp10k9lb2k2t2k2y28lo3~x2/sett.png" alt="Wcwm 9275-1510-5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dp60lo2dp10k9lb2k2t2k2y28lo3~x2/">Wcwm 9275-1510-5</a></td><td></td><td><code>DP/120 LO4 DP20 K18 LB4 K4 T4 K4 Y56 LO/6</code></td><td>354</td><td>1982</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dp60lo2dp10k9lb2k2t2k2y28lo3~x2/"><img src="/variants/s10/dp60lo2dp10k9lb2k2t2k2y28lo3~x2/sett.png" alt="Wcwm 9275-1510-5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

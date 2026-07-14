@@ -20,10 +20,10 @@ Family tartan from the MacGregor-Hastie collection, marked with a cryptic "Do no
 The **Kinnison** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db8k65w38y4w38y4w38k65r8k65w38g4w38g4w38k65db8/">Kinnison</a></td><td><code>DB/8 K65 W38 Y4 W38 Y4 W38 K65 R8 K65 W38 G4 W38 G4 W38 K65 DB/8</code></td><td>1040</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db8k65w38y4w38y4w38k65r8k65w38g4w38g4w38k65db8/"><img src="/variants/s17/db8k65w38y4w38y4w38k65r8k65w38g4w38g4w38k65db8/sett.png" alt="Kinnison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db8k65w38y4w38y4w38k65r8k65w38g4w38g4w38k65db8/">Kinnison</a></td><td></td><td><code>DB/8 K65 W38 Y4 W38 Y4 W38 K65 R8 K65 W38 G4 W38 G4 W38 K65 DB/8</code></td><td>1040</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db8k65w38y4w38y4w38k65r8k65w38g4w38g4w38k65db8/"><img src="/variants/s17/db8k65w38y4w38y4w38k65r8k65w38g4w38g4w38k65db8/sett.png" alt="Kinnison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

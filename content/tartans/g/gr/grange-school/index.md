@@ -13,10 +13,10 @@ Its design is pattern [BYBKBKY](/stripes/bybkbky/) — the page of every tartan 
 The **Grange School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/n27lr3n14k3n13k3ly23~x2/">Grange School</a></td><td><code>N/54 LR6 N28 K6 N26 K6 LY/46</code></td><td>244</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/n27lr3n14k3n13k3ly23~x2/"><img src="/variants/s7/n27lr3n14k3n13k3ly23~x2/sett.png" alt="Grange School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/n27lr3n14k3n13k3ly23~x2/">Grange School</a></td><td></td><td><code>N/54 LR6 N28 K6 N26 K6 LY/46</code></td><td>244</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/n27lr3n14k3n13k3ly23~x2/"><img src="/variants/s7/n27lr3n14k3n13k3ly23~x2/sett.png" alt="Grange School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

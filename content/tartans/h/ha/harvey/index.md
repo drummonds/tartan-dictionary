@@ -16,10 +16,10 @@ Its design is pattern [BRGBGG](/stripes/brgbgg/) — the page of every tartan sh
 The **Harvey** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db4r11g11db22y1g4~x2/">Harvey</a></td><td><code>DB/8 R22 G22 DB44 Y2 G/8</code></td><td>196</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db4r11g11db22y1g4~x2/"><img src="/variants/s6/db4r11g11db22y1g4~x2/sett.png" alt="Harvey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db4r11g11db22y1g4~x2/">Harvey</a></td><td></td><td><code>DB/8 R22 G22 DB44 Y2 G/8</code></td><td>196</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db4r11g11db22y1g4~x2/"><img src="/variants/s6/db4r11g11db22y1g4~x2/sett.png" alt="Harvey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

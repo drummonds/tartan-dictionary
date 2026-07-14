@@ -13,10 +13,10 @@ Its design is pattern [BBWGKY](/stripes/bbwgky/) — the page of every tartan sh
 The **MacBlain** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db5dp3w2g3k1ly1~x10/">MacBlain</a></td><td><code>DB/50 DP30 W20 G30 K10 LY/10</code></td><td>240</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db5dp3w2g3k1ly1~x10/"><img src="/variants/s6/db5dp3w2g3k1ly1~x10/sett.png" alt="MacBlain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db5dp3w2g3k1ly1~x10/">MacBlain</a></td><td></td><td><code>DB/50 DP30 W20 G30 K10 LY/10</code></td><td>240</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db5dp3w2g3k1ly1~x10/"><img src="/variants/s6/db5dp3w2g3k1ly1~x10/sett.png" alt="MacBlain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

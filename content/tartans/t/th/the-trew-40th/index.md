@@ -13,10 +13,10 @@ Its design is pattern [RBKBKBKWKBBBKKR](/stripes/rbkbkbkwkbbbkkr/) — the page 
 The **The Trew 40th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/">The Trew 40th</a></td><td><code>R/8 Ki6 K22 N6 DB6 N60 K2 W8 K2 N6 K6 N6 K6 N24 R/4</code></td><td>332</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/"><img src="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/sett.png" alt="The Trew 40th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/">The Trew 40th</a></td><td></td><td><code>R/8 Ki6 K22 N6 DB6 N60 K2 W8 K2 N6 K6 N6 K6 N24 R/4</code></td><td>332</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/"><img src="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/sett.png" alt="The Trew 40th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

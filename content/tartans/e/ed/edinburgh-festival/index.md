@@ -16,10 +16,10 @@ Its design is pattern [BBRBRBWK](/stripes/bbrbrbwk/) — the page of every tarta
 The **Edinburgh Festival** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/">Edinburgh Festival</a></td><td><code>T/92 DP6 R6 DP6 R8 DP24 W6 K/6</code></td><td>210</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/"><img src="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/sett.png" alt="Edinburgh Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/">Edinburgh Festival</a></td><td></td><td><code>T/92 DP6 R6 DP6 R8 DP24 W6 K/6</code></td><td>210</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/"><img src="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/sett.png" alt="Edinburgh Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

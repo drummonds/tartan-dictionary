@@ -13,10 +13,10 @@ Its design is pattern [BWGGYR](/stripes/bwggyr/) — the page of every tartan sh
 The **Pride, The Tartan of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r8lo4y3g6lb6dp1~x5/">Pride, The Tartan of</a></td><td><code>R/40 LO20 Y15 G30 LB30 DP/5</code></td><td>235</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r8lo4y3g6lb6dp1~x5/"><img src="/variants/s6/r8lo4y3g6lb6dp1~x5/sett.png" alt="Pride, The Tartan of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r8lo4y3g6lb6dp1~x5/">Pride, The Tartan of</a></td><td></td><td><code>R/40 LO20 Y15 G30 LB30 DP/5</code></td><td>235</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r8lo4y3g6lb6dp1~x5/"><img src="/variants/s6/r8lo4y3g6lb6dp1~x5/sett.png" alt="Pride, The Tartan of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

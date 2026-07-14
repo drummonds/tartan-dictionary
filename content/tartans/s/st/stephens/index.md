@@ -18,10 +18,10 @@ Its design is pattern [BBBBBBBBRKG](/stripes/bbbbbbbbrkg/) — the page of every
 The **Stephens** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/n9db4n2db4n2db15n9db4r18k9y2~x2/">Stephens</a></td><td><code>N/18 DB8 N4 DB8 N4 DB30 N18 DB8 R36 K18 Y/4</code></td><td>290</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/n9db4n2db4n2db15n9db4r18k9y2~x2/"><img src="/variants/s11/n9db4n2db4n2db15n9db4r18k9y2~x2/sett.png" alt="Stephens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/n9db4n2db4n2db15n9db4r18k9y2~x2/">Stephens</a></td><td></td><td><code>N/18 DB8 N4 DB8 N4 DB30 N18 DB8 R36 K18 Y/4</code></td><td>290</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/n9db4n2db4n2db15n9db4r18k9y2~x2/"><img src="/variants/s11/n9db4n2db4n2db15n9db4r18k9y2~x2/sett.png" alt="Stephens sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

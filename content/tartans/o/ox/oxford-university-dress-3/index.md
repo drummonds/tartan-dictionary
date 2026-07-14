@@ -13,10 +13,10 @@ Its design is pattern [BGGWGGGRGB](/stripes/bggwgggrgb/) — the page of every t
 The **Oxford University dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/b4g44dg5w2dg2g2dg2r2g3b3~x2~g2508144-dg1304144/">Oxford University dress</a></td><td><code>B/8 G88 DG10 W4 DG4 G4 DG4 R4 G6 B/6</code></td><td>262</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/b4g44dg5w2dg2g2dg2r2g3b3~x2~g2508144-dg1304144/"><img src="/variants/s10/b4g44dg5w2dg2g2dg2r2g3b3~x2~g2508144-dg1304144/sett.png" alt="Oxford University dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/b4g44dg5w2dg2g2dg2r2g3b3~x2~g2508144-dg1304144/">Oxford University dress</a></td><td></td><td><code>B/8 G88 DG10 W4 DG4 G4 DG4 R4 G6 B/6</code></td><td>262</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/b4g44dg5w2dg2g2dg2r2g3b3~x2~g2508144-dg1304144/"><img src="/variants/s10/b4g44dg5w2dg2g2dg2r2g3b3~x2~g2508144-dg1304144/sett.png" alt="Oxford University dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GBGBGBGBGBKGW](/stripes/gbgbgbgbgbkgw/) — the page of e
 The **Cameron Boyle, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/">Cameron Boyle, The</a></td><td><code>G/10 DB40 G4 DB4 G4 DB4 G50 DR4 G4 DR34 K16 G4 W/4</code></td><td>350</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/"><img src="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/sett.png" alt="Cameron Boyle, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/">Cameron Boyle, The</a></td><td></td><td><code>G/10 DB40 G4 DB4 G4 DB4 G50 DR4 G4 DR34 K16 G4 W/4</code></td><td>350</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/"><img src="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/sett.png" alt="Cameron Boyle, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

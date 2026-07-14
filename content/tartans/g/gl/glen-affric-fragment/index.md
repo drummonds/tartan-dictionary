@@ -16,10 +16,10 @@ Its design is pattern [GBRGBGBGBGBGK](/stripes/gbrgbgbgbgbgk/) — the page of e
 The **Glen Affric, Fragment** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/">Glen Affric, Fragment</a></td><td><code>K/4 G4 B20 G4 B14 G4 B14 G4 B10 G4 R28 B2 G/4</code></td><td>224</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/"><img src="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/sett.png" alt="Glen Affric, Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/">Glen Affric, Fragment</a></td><td></td><td><code>K/4 G4 B20 G4 B14 G4 B14 G4 B10 G4 R28 B2 G/4</code></td><td>224</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/"><img src="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/sett.png" alt="Glen Affric, Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

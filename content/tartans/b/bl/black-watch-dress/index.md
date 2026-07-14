@@ -18,10 +18,10 @@ Dress variant of Black Watch, intended for highland dancing.
 The **Black Watch Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/db10k2db2k2db10k10w3db4w15db2w4db2w15db4w3k10g11k3g11k9db10k2db2k2db10~x2/">Black Watch Dress</a></td><td><code>DB/20 K4 DB4 K4 DB20 K20 W6 DB8 W30 DB4 W8 DB4 W30 DB8 W6 K20 G22 K6 G22 K18 DB20 K4 DB4 K4 DB/20</code></td><td>592</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/db10k2db2k2db10k10w3db4w15db2w4db2w15db4w3k10g11k3g11k9db10k2db2k2db10~x2/"><img src="/variants/s25/db10k2db2k2db10k10w3db4w15db2w4db2w15db4w3k10g11k3g11k9db10k2db2k2db10~x2/sett.png" alt="Black Watch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/db10k2db2k2db10k10w3db4w15db2w4db2w15db4w3k10g11k3g11k9db10k2db2k2db10~x2/">Black Watch Dress</a></td><td></td><td><code>DB/20 K4 DB4 K4 DB20 K20 W6 DB8 W30 DB4 W8 DB4 W30 DB8 W6 K20 G22 K6 G22 K18 DB20 K4 DB4 K4 DB/20</code></td><td>592</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/db10k2db2k2db10k10w3db4w15db2w4db2w15db4w3k10g11k3g11k9db10k2db2k2db10~x2/"><img src="/variants/s25/db10k2db2k2db10k10w3db4w15db2w4db2w15db4w3k10g11k3g11k9db10k2db2k2db10~x2/sett.png" alt="Black Watch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

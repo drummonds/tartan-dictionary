@@ -16,10 +16,10 @@ Its design is pattern [BBBBGBGBWBWBW](/stripes/bbbbgbgbwbwbw/) — the page of e
 The **Black Watch Dress, Brown/Grey** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/">Black Watch Dress, Brown/Grey</a></td><td><code>N/4 DT4 N12 DT12 Y16 DT4 Y16 DT12 W4 N4 W24 N4 W/4</code></td><td>232</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/"><img src="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/sett.png" alt="Black Watch Dress, Brown/Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/">Black Watch Dress, Brown/Grey</a></td><td></td><td><code>N/4 DT4 N12 DT12 Y16 DT4 Y16 DT12 W4 N4 W24 N4 W/4</code></td><td>232</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/"><img src="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/sett.png" alt="Black Watch Dress, Brown/Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

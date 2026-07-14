@@ -21,14 +21,14 @@ The **Laing of Archiestown** tartan groups 3 setts — the same named design rec
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/db8r1w1r1k1~x8/">Laing of Archiestown</a> ★</td><td><code>DB/64 R8 W8 R8 K/8</code></td><td>120</td><td>1783</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db8r1w1r1k1~x8/"><img src="/variants/s5/db8r1w1r1k1~x8/sett.png" alt="Laing of Archiestown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/db19r2w2r2k2~x4/">Laing of Archiestown</a></td><td><code>DB/76 R8 W8 R8 K/8</code></td><td>132</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db19r2w2r2k2~x4/"><img src="/variants/s5/db19r2w2r2k2~x4/sett.png" alt="Laing of Archiestown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/t8r1k1r1k1~x8/">Clan/Family Tartan</a></td><td><code>T/64 R8 K8 R8 K/8</code></td><td>120</td><td>1783</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/t8r1k1r1k1~x8/"><img src="/variants/s5/t8r1k1r1k1~x8/sett.png" alt="Clan/Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db8r1w1r1k1~x8/">Laing of Archiestown</a> ★</td><td></td><td><code>DB/64 R8 W8 R8 K/8</code></td><td>120</td><td>1783</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db8r1w1r1k1~x8/"><img src="/variants/s5/db8r1w1r1k1~x8/sett.png" alt="Laing of Archiestown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db19r2w2r2k2~x4/">Laing of Archiestown</a></td><td>0.20</td><td><code>DB/76 R8 W8 R8 K/8</code></td><td>132</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db19r2w2r2k2~x4/"><img src="/variants/s5/db19r2w2r2k2~x4/sett.png" alt="Laing of Archiestown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/t8r1k1r1k1~x8/">Clan/Family Tartan</a></td><td>1.00</td><td><code>T/64 R8 K8 R8 K/8</code></td><td>120</td><td>1783</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/t8r1k1r1k1~x8/"><img src="/variants/s5/t8r1k1r1k1~x8/sett.png" alt="Clan/Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

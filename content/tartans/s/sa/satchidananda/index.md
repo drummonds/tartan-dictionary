@@ -13,10 +13,10 @@ Its design is pattern [GWRYRWWYG](/stripes/gwryrwwyg/) — the page of every tar
 The **Satchidananda** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dy18ly4lb10w2r20ly5r2w2dy6~x2~dy1603076-ly3307090/">Satchidananda</a></td><td><code>DY/36 LY8 LB20 W4 R40 LY10 R4 W4 DY/12</code></td><td>228</td><td>1901</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dy18ly4lb10w2r20ly5r2w2dy6~x2~dy1603076-ly3307090/"><img src="/variants/s9/dy18ly4lb10w2r20ly5r2w2dy6~x2~dy1603076-ly3307090/sett.png" alt="Satchidananda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dy18ly4lb10w2r20ly5r2w2dy6~x2~dy1603076-ly3307090/">Satchidananda</a></td><td></td><td><code>DY/36 LY8 LB20 W4 R40 LY10 R4 W4 DY/12</code></td><td>228</td><td>1901</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dy18ly4lb10w2r20ly5r2w2dy6~x2~dy1603076-ly3307090/"><img src="/variants/s9/dy18ly4lb10w2r20ly5r2w2dy6~x2~dy1603076-ly3307090/sett.png" alt="Satchidananda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

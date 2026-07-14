@@ -13,10 +13,10 @@ Its design is pattern [KBWBWBBBGBGBWBWBK](/stripes/kbwbwbbbgbgbwbwbk/) — the p
 The **Haughdale** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/">Haughdale</a></td><td><code>K/4 DR24 W4 DP12 W4 DR6 G24 DR8 DY4 DR8 B24 DR6 W4 DP12 W4 DR24 K/4</code></td><td>344</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/"><img src="/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/sett.png" alt="Haughdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/">Haughdale</a></td><td></td><td><code>K/4 DR24 W4 DP12 W4 DR6 G24 DR8 DY4 DR8 B24 DR6 W4 DP12 W4 DR24 K/4</code></td><td>344</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/"><img src="/variants/s17/k2dr12w2dp6w2dr3g12dr4dy2dr4b12dr3w2dp6w2dr12k2~x2/sett.png" alt="Haughdale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

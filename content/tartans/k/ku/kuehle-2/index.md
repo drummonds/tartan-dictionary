@@ -18,10 +18,10 @@ Its design is pattern [RWBBWWW](/stripes/rwbbwww/) — the page of every tartan 
 The **Kuehle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/">Kuehle</a></td><td><code>LP/12 W4 LP2 DB12 N60 LB2 R/6</code></td><td>178</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><img src="/variants/s7/lp6w2lp1db6n30lb1r3~x2/sett.png" alt="Kuehle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/">Kuehle</a></td><td></td><td><code>LP/12 W4 LP2 DB12 N60 LB2 R/6</code></td><td>178</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><img src="/variants/s7/lp6w2lp1db6n30lb1r3~x2/sett.png" alt="Kuehle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

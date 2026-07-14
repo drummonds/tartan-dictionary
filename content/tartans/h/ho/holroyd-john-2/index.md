@@ -13,10 +13,10 @@ Its design is pattern [GWBGBGBGGBGW](/stripes/gwbgbgbggbgw/) — the page of eve
 The **Holroyd, John** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/">Holroyd, John</a></td><td><code>Y/6 LB42 DB24 G6 DB6 Y6 DB6 Gi16 G10 DB4 G14 W/6</code></td><td>280</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/"><img src="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/sett.png" alt="Holroyd, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/">Holroyd, John</a></td><td></td><td><code>Y/6 LB42 DB24 G6 DB6 Y6 DB6 Gi16 G10 DB4 G14 W/6</code></td><td>280</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/"><img src="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/sett.png" alt="Holroyd, John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

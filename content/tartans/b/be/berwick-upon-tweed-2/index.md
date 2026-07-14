@@ -13,10 +13,10 @@ Its design is pattern [BRGRGRBKGKGKBW](/stripes/brgrgrbkgkgkbw/) — the page of
 The **Berwick-upon-Tweed** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/">Berwick-upon-Tweed</a></td><td><code>DR/18 R10 DG4 R8 DG4 R10 N76 K10 DG4 K8 DG4 K10 DR16 LB/8</code></td><td>354</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/"><img src="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/sett.png" alt="Berwick-upon-Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/">Berwick-upon-Tweed</a></td><td></td><td><code>DR/18 R10 DG4 R8 DG4 R10 N76 K10 DG4 K8 DG4 K10 DR16 LB/8</code></td><td>354</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/"><img src="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/sett.png" alt="Berwick-upon-Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGGKRW](/stripes/gggkrw/) — the page of every tartan sh
 The **Tyrolean** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/y3dy6g10k18r22w3~x2/">Tyrolean</a></td><td><code>Y/6 DY12 G20 K36 R44 W/6</code></td><td>236</td><td>~2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y3dy6g10k18r22w3~x2/"><img src="/variants/s6/y3dy6g10k18r22w3~x2/sett.png" alt="Tyrolean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y3dy6g10k18r22w3~x2/">Tyrolean</a></td><td></td><td><code>Y/6 DY12 G20 K36 R44 W/6</code></td><td>236</td><td>~2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y3dy6g10k18r22w3~x2/"><img src="/variants/s6/y3dy6g10k18r22w3~x2/sett.png" alt="Tyrolean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

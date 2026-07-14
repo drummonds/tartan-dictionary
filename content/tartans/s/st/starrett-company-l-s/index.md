@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKRGRGRGRGRGRGRGRGR](/stripes/bkbkbkrgrgrgrgrgrgrgrgr
 The **Starrett Company, L.S.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/">Starrett Company, L.S.</a></td><td><code>R/34 Y3 R6 Y4 R4 Y6 R4 Y8 R26 Y8 R4 Y6 R4 Y4 R6 Y3 R34 K8 N3 K6 N4 K10 N/10</code></td><td>366</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/"><img src="/variants/s23/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/sett.png" alt="Starrett Company, L.S. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/">Starrett Company, L.S.</a></td><td></td><td><code>R/34 Y3 R6 Y4 R4 Y6 R4 Y8 R26 Y8 R4 Y6 R4 Y4 R6 Y3 R34 K8 N3 K6 N4 K10 N/10</code></td><td>366</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/"><img src="/variants/s23/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/sett.png" alt="Starrett Company, L.S. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

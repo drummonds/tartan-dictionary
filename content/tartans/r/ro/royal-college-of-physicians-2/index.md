@@ -13,10 +13,10 @@ Its design is pattern [GGRKRBRKRG](/stripes/ggrkrbrkrg/) — the page of every t
 The **Royal College of Physicians** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/">Royal College of Physicians</a></td><td><code>G/46 R6 K18 R6 DB36 R6 K18 R6 G46 Y/6</code></td><td>336</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/"><img src="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/sett.png" alt="Royal College of Physicians sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/">Royal College of Physicians</a></td><td></td><td><code>G/46 R6 K18 R6 DB36 R6 K18 R6 G46 Y/6</code></td><td>336</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/"><img src="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/sett.png" alt="Royal College of Physicians sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

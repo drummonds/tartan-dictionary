@@ -15,10 +15,10 @@ One of Polly Wittering's Irish district series for House of Edgar, with soft war
 The **Leitrim Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lr3k2lri18lb3o13lb4dg3lb4k18lb3~x2~lr2804043-lri2900000/">Leitrim Irish County</a></td><td><code>LR/3 K2 LRi18 LB3 O13 LB4 DG3 LB4 K18 LB/3</code></td><td>—</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lr3k2lri18lb3o13lb4dg3lb4k18lb3~x2~lr2804043-lri2900000/"><img src="/variants/s10/lr3k2lri18lb3o13lb4dg3lb4k18lb3~x2~lr2804043-lri2900000/sett.png" alt="Leitrim Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lr3k2lri18lb3o13lb4dg3lb4k18lb3~x2~lr2804043-lri2900000/">Leitrim Irish County</a></td><td></td><td><code>LR/3 K2 LRi18 LB3 O13 LB4 DG3 LB4 K18 LB/3</code></td><td>—</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lr3k2lri18lb3o13lb4dg3lb4k18lb3~x2~lr2804043-lri2900000/"><img src="/variants/s10/lr3k2lri18lb3o13lb4dg3lb4k18lb3~x2~lr2804043-lri2900000/sett.png" alt="Leitrim Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

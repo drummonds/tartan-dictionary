@@ -18,10 +18,10 @@ Its design is pattern [KYGBGGYGY](/stripes/kygbggygy/) — the page of every tar
 The **Corcoran of Sherbrooke** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/">Corcoran of Sherbrooke</a></td><td><code>K/4 LR4 G20 DP4 G8 DY20 LR4 Y12 LR/4</code></td><td>152</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><img src="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/sett.png" alt="Corcoran of Sherbrooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/">Corcoran of Sherbrooke</a></td><td></td><td><code>K/4 LR4 G20 DP4 G8 DY20 LR4 Y12 LR/4</code></td><td>152</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><img src="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/sett.png" alt="Corcoran of Sherbrooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

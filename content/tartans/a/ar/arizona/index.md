@@ -20,11 +20,11 @@ Designed 1995 by Phil Smith, proclaimed by Governor Symington; colours symbolise
 The **Arizona** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4/">Arizona</a></td><td><code>LY/3 G2 W2 R2 LY12 K2 G12 R2 G2 LB2 G2 Y/2</code></td><td>—</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4/"><img src="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4/sett.png" alt="Arizona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4/">(District)</a> · <a href="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4~ly2503076/">Arizona</a></td></tr>
+<tr><td><a href="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4/">Arizona</a></td><td></td><td><code>LY/3 G2 W2 R2 LY12 K2 G12 R2 G2 LB2 G2 Y/2</code></td><td>—</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4/"><img src="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4/sett.png" alt="Arizona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4/">(District)</a> · <a href="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4~ly2503076/">Arizona</a></td></tr>
 </tbody>
 </table>
 

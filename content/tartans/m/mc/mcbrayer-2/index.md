@@ -18,10 +18,10 @@ Its design is pattern [BWBGWBKR](/stripes/bwbgwbkr/) — the page of every tarta
 The **McBrayer** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/o50k1dr14lb1dg14dr14lb1dr2~x4/">McBrayer</a></td><td><code>O/200 K4 DR56 LB4 DG56 DR56 LB4 DR/8</code></td><td>568</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/o50k1dr14lb1dg14dr14lb1dr2~x4/"><img src="/variants/s8/o50k1dr14lb1dg14dr14lb1dr2~x4/sett.png" alt="McBrayer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/o50k1dr14lb1dg14dr14lb1dr2~x4/">McBrayer</a></td><td></td><td><code>O/200 K4 DR56 LB4 DG56 DR56 LB4 DR/8</code></td><td>568</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/o50k1dr14lb1dg14dr14lb1dr2~x4/"><img src="/variants/s8/o50k1dr14lb1dg14dr14lb1dr2~x4/sett.png" alt="McBrayer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

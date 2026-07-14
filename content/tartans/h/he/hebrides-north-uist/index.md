@@ -16,10 +16,10 @@ Its design is pattern [BRWBWRGGWGGRGRBRBRBRBWBW](/stripes/brwbwrggwggrgrbrbrbrbw
 The **Hebrides North Uist** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/db5r3w2db1w2r3g9dy2w1dy2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/">Hebrides North Uist</a></td><td><code>DB/10 R6 W4 DB2 W4 R6 G18 DY4 W2 DY4 G18 R2 G2 R54 DB2 R2 DB2 R54 DB2 R2 DB18 W2 DB2 W/8</code></td><td>442</td><td>1814</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/db5r3w2db1w2r3g9dy2w1dy2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/"><img src="/variants/s24/db5r3w2db1w2r3g9dy2w1dy2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/sett.png" alt="Hebrides North Uist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/db5r3w2db1w2r3g9dy2w1dy2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/">Hebrides North Uist</a></td><td></td><td><code>DB/10 R6 W4 DB2 W4 R6 G18 DY4 W2 DY4 G18 R2 G2 R54 DB2 R2 DB2 R54 DB2 R2 DB18 W2 DB2 W/8</code></td><td>442</td><td>1814</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/db5r3w2db1w2r3g9dy2w1dy2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/"><img src="/variants/s24/db5r3w2db1w2r3g9dy2w1dy2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/sett.png" alt="Hebrides North Uist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

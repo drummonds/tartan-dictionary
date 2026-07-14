@@ -18,10 +18,10 @@ Its design is pattern [KWYRWKWKWKWGW](/stripes/kwyrwkwkwkwgw/) — the page of e
 The **Hovington** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/">Hovington</a></td><td><code>K/8 W4 LY24 R24 W4 K8 W8 Ki12 W8 K4 W8 G12 W/8</code></td><td>248</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/"><img src="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/sett.png" alt="Hovington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/">Hovington</a></td><td></td><td><code>K/8 W4 LY24 R24 W4 K8 W8 Ki12 W8 K4 W8 G12 W/8</code></td><td>248</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/"><img src="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/sett.png" alt="Hovington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

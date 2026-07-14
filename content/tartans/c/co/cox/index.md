@@ -20,10 +20,10 @@ Personal tartan combining Bell and Marshall patterns with red, blue, white and p
 The **Cox** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/">Cox</a></td><td><code>R/6 DG4 K14 T6 K6 T6 DG28 T6 K6 T6 K6 T6 DG20 DP12 R4 W4 T/6</code></td><td>280</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/"><img src="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/sett.png" alt="Cox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/">Cox</a></td><td></td><td><code>R/6 DG4 K14 T6 K6 T6 DG28 T6 K6 T6 K6 T6 DG20 DP12 R4 W4 T/6</code></td><td>280</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/"><img src="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/sett.png" alt="Cox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

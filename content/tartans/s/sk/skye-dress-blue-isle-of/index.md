@@ -16,10 +16,10 @@ Its design is pattern [BWKWBKWWWKWKWW](/stripes/bwkwbkwwwkwkww/) — the page of
 The **Skye Dress Blue, Isle of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6~x2/">Skye Dress Blue, Isle of</a></td><td><code>T/14 W14 K6 W60 T40 K10 LB2 W16 LB2 K8 W8 K14 LB2 W/12</code></td><td>390</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6~x2/"><img src="/variants/s14/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6~x2/sett.png" alt="Skye Dress Blue, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6~x2/">Skye Dress Blue, Isle of</a></td><td></td><td><code>T/14 W14 K6 W60 T40 K10 LB2 W16 LB2 K8 W8 K14 LB2 W/12</code></td><td>390</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6~x2/"><img src="/variants/s14/t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6~x2/sett.png" alt="Skye Dress Blue, Isle of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [WYBWBY](/stripes/wybwby/) — the page of every tartan sh
 The **Afternoon Tea / Mint Tea** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w15lg98db72lb25db8ly15/">Afternoon Tea / Mint Tea</a></td><td><code>W/15 LG98 DB72 LB25 DB8 LY/15</code></td><td>436</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w15lg98db72lb25db8ly15/"><img src="/variants/s6/w15lg98db72lb25db8ly15/sett.png" alt="Afternoon Tea / Mint Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w15lg98db72lb25db8ly15/">Afternoon Tea / Mint Tea</a></td><td></td><td><code>W/15 LG98 DB72 LB25 DB8 LY/15</code></td><td>436</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w15lg98db72lb25db8ly15/"><img src="/variants/s6/w15lg98db72lb25db8ly15/sett.png" alt="Afternoon Tea / Mint Tea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

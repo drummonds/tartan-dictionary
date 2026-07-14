@@ -18,10 +18,10 @@ Its design is pattern [KRBRBGRKRGBRBR](/stripes/krbrbgrkrgbrbr/) — the page of
 The **Skene of Cromar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r37db37r2db37g37r37k4r37g37db37r2db37r37k4~x2~db1406275/">Skene of Cromar</a></td><td><code>R/74 DB74 R4 DB74 G74 R74 K8 R74 G74 DB74 R4 DB74 R74 K/8</code></td><td>1446</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r37db37r2db37g37r37k4r37g37db37r2db37r37k4~x2~db1406275/"><img src="/variants/s14/r37db37r2db37g37r37k4r37g37db37r2db37r37k4~x2~db1406275/sett.png" alt="Skene of Cromar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r37db37r2db37g37r37k4r37g37db37r2db37r37k4~x2~db1406275/">Skene of Cromar</a></td><td></td><td><code>R/74 DB74 R4 DB74 G74 R74 K8 R74 G74 DB74 R4 DB74 R74 K/8</code></td><td>1446</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r37db37r2db37g37r37k4r37g37db37r2db37r37k4~x2~db1406275/"><img src="/variants/s14/r37db37r2db37g37r37k4r37g37db37r2db37r37k4~x2~db1406275/sett.png" alt="Skene of Cromar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

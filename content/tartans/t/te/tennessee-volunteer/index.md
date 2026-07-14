@@ -13,10 +13,10 @@ Its design is pattern [WYWKYKWY](/stripes/wywkykwy/) — the page of every tarta
 The **Tennessee Volunteer** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/">Tennessee Volunteer</a></td><td><code>W/24 LO24 W24 K10 LO90 K10 LB10 LO/20</code></td><td>380</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/"><img src="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/sett.png" alt="Tennessee Volunteer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/">Tennessee Volunteer</a></td><td></td><td><code>W/24 LO24 W24 K10 LO90 K10 LB10 LO/20</code></td><td>380</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/"><img src="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/sett.png" alt="Tennessee Volunteer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

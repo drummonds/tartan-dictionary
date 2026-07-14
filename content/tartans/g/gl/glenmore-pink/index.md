@@ -16,10 +16,10 @@ Its design is pattern [WBBBWBRBKBW](/stripes/wbbbwbrbkbw/) — the page of every
 The **Glenmore Pink** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/">Glenmore Pink</a></td><td><code>W/60 DT24 N3 DT5 W3 DT5 O16 N8 K3 N6 W/4</code></td><td>210</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><img src="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/sett.png" alt="Glenmore Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/">Glenmore Pink</a></td><td></td><td><code>W/60 DT24 N3 DT5 W3 DT5 O16 N8 K3 N6 W/4</code></td><td>210</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><img src="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/sett.png" alt="Glenmore Pink sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RWBBWRWBKBKBKW](/stripes/rwbbwrwbkbkbkw/) — the page of
 The **Russian Arctic Convoy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/">Russian Arctic Convoy</a></td><td><code>R/2 W32 N12 DB4 W2 R16 W2 DB56 K6 DB6 K6 DB6 K2 LB/2</code></td><td>304</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/"><img src="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/sett.png" alt="Russian Arctic Convoy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/">Russian Arctic Convoy</a></td><td></td><td><code>R/2 W32 N12 DB4 W2 R16 W2 DB56 K6 DB6 K6 DB6 K2 LB/2</code></td><td>304</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/"><img src="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/sett.png" alt="Russian Arctic Convoy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

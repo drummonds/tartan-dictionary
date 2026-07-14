@@ -16,10 +16,10 @@ Its design is pattern [YBYBYBKWBYBYBYBYBKYBY](/stripes/ybybybkwbybybybybkyby/) �
 The **Blue Matheson Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/">Blue Matheson Hunting</a></td><td><code>LO/14 DB6 LO4 DB4 LO4 DB60 K18 LB4 DB4 LO4 DB4 LO6 DB10 LO4 DB4 LO4 DB4 K18 LO10 DB6 LO/8</code></td><td>378</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/"><img src="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/sett.png" alt="Blue Matheson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/">Blue Matheson Hunting</a></td><td></td><td><code>LO/14 DB6 LO4 DB4 LO4 DB60 K18 LB4 DB4 LO4 DB4 LO6 DB10 LO4 DB4 LO4 DB4 K18 LO10 DB6 LO/8</code></td><td>378</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/"><img src="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/sett.png" alt="Blue Matheson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

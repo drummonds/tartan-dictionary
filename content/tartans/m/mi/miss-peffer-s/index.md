@@ -13,10 +13,10 @@ Its design is pattern [BWBWBWBWBWBWKBWBKWKBWBKWKBWBWBWBW](/stripes/bwbwbwbwbwbwk
 The **Miss Peffer's** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s33/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13~x2/">Miss Peffer's</a></td><td><code>N/70 W4 N4 W4 N4 W4 N4 W4 N4 W4 N28 W76 K8 N8 W8 N8 K8 W8 K8 N8 W8 N8 K8 W32 K72 N38 W4 N8 W8 N6 W8 N4 W/26</code></td><td>912</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s33/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13~x2/"><img src="/variants/s33/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13~x2/sett.png" alt="Miss Peffer's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s33/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13~x2/">Miss Peffer's</a></td><td></td><td><code>N/70 W4 N4 W4 N4 W4 N4 W4 N4 W4 N28 W76 K8 N8 W8 N8 K8 W8 K8 N8 W8 N8 K8 W32 K72 N38 W4 N8 W8 N6 W8 N4 W/26</code></td><td>912</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s33/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13~x2/"><img src="/variants/s33/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13~x2/sett.png" alt="Miss Peffer's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ One of Polly Wittering's Irish District series for House of Edgar, with soft war
 The **Dublin Irish County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3~x2/">Dublin Irish County</a></td><td><code>DR/6 LG16 DR4 LG36 DP10 LG6 O6 LG6 O32 LG6 O6 LG/6</code></td><td>268</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3~x2/"><img src="/variants/s12/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3~x2/sett.png" alt="Dublin Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3~x2/">Dublin Irish County</a></td><td></td><td><code>DR/6 LG16 DR4 LG36 DP10 LG6 O6 LG6 O32 LG6 O6 LG/6</code></td><td>268</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3~x2/"><img src="/variants/s12/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3~x2/sett.png" alt="Dublin Irish County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

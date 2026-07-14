@@ -18,10 +18,10 @@ Its design is pattern [BRBYBGGGBWW](/stripes/brbybgggbww/) — the page of every
 The **Porcupine** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/n1r1n3ly1n1dy8y7g1n1lb1w1~x4/">Porcupine</a></td><td><code>N/4 R4 N12 LY4 N4 DY32 Y28 G4 N4 LB4 W/4</code></td><td>200</td><td>1956</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/n1r1n3ly1n1dy8y7g1n1lb1w1~x4/"><img src="/variants/s11/n1r1n3ly1n1dy8y7g1n1lb1w1~x4/sett.png" alt="Porcupine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/n1r1n3ly1n1dy8y7g1n1lb1w1~x4/">Porcupine</a></td><td></td><td><code>N/4 R4 N12 LY4 N4 DY32 Y28 G4 N4 LB4 W/4</code></td><td>200</td><td>1956</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/n1r1n3ly1n1dy8y7g1n1lb1w1~x4/"><img src="/variants/s11/n1r1n3ly1n1dy8y7g1n1lb1w1~x4/sett.png" alt="Porcupine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

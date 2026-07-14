@@ -18,10 +18,10 @@ Its design is pattern [BWKGKWKGRKRW](/stripes/bwkgkwkgrkrw/) — the page of eve
 The **Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db20lb6k8y2k4w4k4g13r7k4r3w2~x2/">Stewart</a></td><td><code>DB/40 LB12 K16 Y4 K8 W8 K8 G26 R14 K8 R6 W/4</code></td><td>264</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db20lb6k8y2k4w4k4g13r7k4r3w2~x2/"><img src="/variants/s12/db20lb6k8y2k4w4k4g13r7k4r3w2~x2/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db20lb6k8y2k4w4k4g13r7k4r3w2~x2/">Stewart</a></td><td></td><td><code>DB/40 LB12 K16 Y4 K8 W8 K8 G26 R14 K8 R6 W/4</code></td><td>264</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db20lb6k8y2k4w4k4g13r7k4r3w2~x2/"><img src="/variants/s12/db20lb6k8y2k4w4k4g13r7k4r3w2~x2/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

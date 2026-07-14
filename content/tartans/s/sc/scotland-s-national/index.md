@@ -13,11 +13,11 @@ Its design is pattern [BKBKGKGKGKBBBWB](/stripes/bkbkgkgkgkbbbwb/) — the page 
 The **Scotland's National** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2/">Scotland's National</a></td><td><code>DT/24 W4 DT4 DR4 DT4 K20 DG24 K4 DG8 K4 DG24 K20 DT24 K4 DR/6</code></td><td>326</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2/"><img src="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2/sett.png" alt="Scotland's National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2/">(Fashion)</a> · <a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2~dg1804158/">Scotland's National</a></td></tr>
+<tr><td><a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2/">Scotland's National</a></td><td></td><td><code>DT/24 W4 DT4 DR4 DT4 K20 DG24 K4 DG8 K4 DG24 K20 DT24 K4 DR/6</code></td><td>326</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2/"><img src="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2/sett.png" alt="Scotland's National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2/">(Fashion)</a> · <a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2~dg1804158/">Scotland's National</a></td></tr>
 </tbody>
 </table>
 

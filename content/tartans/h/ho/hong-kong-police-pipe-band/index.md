@@ -13,10 +13,10 @@ Its design is pattern [RKWGWGRKRGWWKRGW](/stripes/rkwgwgrkrgwwkrgw/) — the pag
 The **Hong Kong Police Pipe Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/">Hong Kong Police Pipe Band</a></td><td><code>R/48 K2 W2 DG12 W2 Y4 R4 K2 R4 Y4 W2 LB12 K4 R6 Y6 W/2</code></td><td>182</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/"><img src="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/sett.png" alt="Hong Kong Police Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/">Hong Kong Police Pipe Band</a></td><td></td><td><code>R/48 K2 W2 DG12 W2 Y4 R4 K2 R4 Y4 W2 LB12 K4 R6 Y6 W/2</code></td><td>182</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/"><img src="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/sett.png" alt="Hong Kong Police Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

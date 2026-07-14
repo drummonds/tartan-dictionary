@@ -13,10 +13,10 @@ Its design is pattern [BBBBWRBBBBBBBBBW](/stripes/bbbbwrbbbbbbbbbw/) — the pag
 The **Auld Alliance** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2~db1003265-dbi1605267/">Auld Alliance</a></td><td><code>W/10 DB2 DBi20 DB4 DBi8 DB4 DBi2 DB4 DBi8 DB4 R30 W30 DB30 DP4 DB2 DP/8</code></td><td>322</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2~db1003265-dbi1605267/"><img src="/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2~db1003265-dbi1605267/sett.png" alt="Auld Alliance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2~db1003265-dbi1605267/">Auld Alliance</a></td><td></td><td><code>W/10 DB2 DBi20 DB4 DBi8 DB4 DBi2 DB4 DBi8 DB4 R30 W30 DB30 DP4 DB2 DP/8</code></td><td>322</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2~db1003265-dbi1605267/"><img src="/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2~db1003265-dbi1605267/sett.png" alt="Auld Alliance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

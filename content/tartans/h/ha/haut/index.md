@@ -22,12 +22,12 @@ The **Haut** tartan groups 2 setts — the same named design recorded as differe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dp46b15k12o8g8dp8~x2/">Haut</a> ★</td><td><code>DP/92 B30 K24 O16 G16 DP/16</code></td><td>280</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp46b15k12o8g8dp8~x2/"><img src="/variants/s6/dp46b15k12o8g8dp8~x2/sett.png" alt="Haut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/">Name Tartan</a></td><td><code>DP/92 DPi30 K24 O16 G16 DP/16</code></td><td>280</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/"><img src="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/sett.png" alt="Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp46b15k12o8g8dp8~x2/">Haut</a> ★</td><td></td><td><code>DP/92 B30 K24 O16 G16 DP/16</code></td><td>280</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp46b15k12o8g8dp8~x2/"><img src="/variants/s6/dp46b15k12o8g8dp8~x2/sett.png" alt="Haut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/">Name Tartan</a></td><td>1.40</td><td><code>DP/92 DPi30 K24 O16 G16 DP/16</code></td><td>280</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/"><img src="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/sett.png" alt="Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

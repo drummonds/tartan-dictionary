@@ -18,10 +18,10 @@ Its design is pattern [BBRGRGRBRWRBRBR](/stripes/bbrgrgrbrwrbrbr/) — the page 
 The **Grant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db6dp2r2g5r2g2r2dp6r2lb2r24dp2r2dp2r6~x2/">Grant</a></td><td><code>DB/12 DP4 R4 G10 R4 G4 R4 DP12 R4 LB4 R48 DP4 R4 DP4 R/12</code></td><td>244</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db6dp2r2g5r2g2r2dp6r2lb2r24dp2r2dp2r6~x2/"><img src="/variants/s15/db6dp2r2g5r2g2r2dp6r2lb2r24dp2r2dp2r6~x2/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db6dp2r2g5r2g2r2dp6r2lb2r24dp2r2dp2r6~x2/">Grant</a></td><td></td><td><code>DB/12 DP4 R4 G10 R4 G4 R4 DP12 R4 LB4 R48 DP4 R4 DP4 R/12</code></td><td>244</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db6dp2r2g5r2g2r2dp6r2lb2r24dp2r2dp2r6~x2/"><img src="/variants/s15/db6dp2r2g5r2g2r2dp6r2lb2r24dp2r2dp2r6~x2/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

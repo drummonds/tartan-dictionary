@@ -13,10 +13,10 @@ Its design is pattern [BBGWRWBW](/stripes/bbgwrwbw/) — the page of every tarta
 The **South Canterbury Centre P. & D. Assoc., Jubilee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/">South Canterbury Centre P. &amp; D. Assoc., Jubilee</a></td><td><code>B/72 DB10 G10 W4 R8 W4 DR18 W/44</code></td><td>224</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/"><img src="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/sett.png" alt="South Canterbury Centre P. &amp; D. Assoc., Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/">South Canterbury Centre P. &amp; D. Assoc., Jubilee</a></td><td></td><td><code>B/72 DB10 G10 W4 R8 W4 DR18 W/44</code></td><td>224</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/"><img src="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/sett.png" alt="South Canterbury Centre P. &amp; D. Assoc., Jubilee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

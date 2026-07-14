@@ -13,10 +13,10 @@ Its design is pattern [BKRKBKGKGGGKGKBKWK](/stripes/bkrkbkgkgggkgkbkwk/) — the
 The **Unidentified fragment** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6~x2/">Unidentified fragment</a></td><td><code>DP/94 K12 R12 K12 DP12 K38 G38 K12 G38 Y12 G38 K12 G38 K38 DP12 K12 W12 K/12</code></td><td>802</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6~x2/"><img src="/variants/s18/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6~x2/sett.png" alt="Unidentified fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6~x2/">Unidentified fragment</a></td><td></td><td><code>DP/94 K12 R12 K12 DP12 K38 G38 K12 G38 Y12 G38 K12 G38 K38 DP12 K12 W12 K/12</code></td><td>802</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6~x2/"><img src="/variants/s18/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6~x2/sett.png" alt="Unidentified fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

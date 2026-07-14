@@ -13,10 +13,10 @@ Its design is pattern [BBBBWKY](/stripes/bbbbwky/) — the page of every tartan 
 The **Unidentified Printing** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dr2db4dr6db2w6k1ly2~x2/">Unidentified Printing</a></td><td><code>DR/4 DB8 DR12 DB4 W12 K2 LY/4</code></td><td>84</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr2db4dr6db2w6k1ly2~x2/"><img src="/variants/s7/dr2db4dr6db2w6k1ly2~x2/sett.png" alt="Unidentified Printing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr2db4dr6db2w6k1ly2~x2/">Unidentified Printing</a></td><td></td><td><code>DR/4 DB8 DR12 DB4 W12 K2 LY/4</code></td><td>84</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr2db4dr6db2w6k1ly2~x2/"><img src="/variants/s7/dr2db4dr6db2w6k1ly2~x2/sett.png" alt="Unidentified Printing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

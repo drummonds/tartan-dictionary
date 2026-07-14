@@ -15,10 +15,10 @@ Irish family pattern, recorded 1978 from 'Clan Originaux' at Pendleton Mill, lik
 The **O'Farrell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2~x2~lyi3307090/">O'Farrell</a></td><td><code>LY/28 LYi6 K12 W4 K4 W4 K4 G16 LY12 K4 LY6 W2 LY6 K4 LY12 G16 K4 W4 K4 W4 K12 LYi6 LY28 W/4</code></td><td>380</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2~x2~lyi3307090/"><img src="/variants/s24/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2~x2~lyi3307090/sett.png" alt="O'Farrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2~x2~lyi3307090/">O'Farrell</a></td><td></td><td><code>LY/28 LYi6 K12 W4 K4 W4 K4 G16 LY12 K4 LY6 W2 LY6 K4 LY12 G16 K4 W4 K4 W4 K12 LYi6 LY28 W/4</code></td><td>380</td><td>1978</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2~x2~lyi3307090/"><img src="/variants/s24/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2~x2~lyi3307090/sett.png" alt="O'Farrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

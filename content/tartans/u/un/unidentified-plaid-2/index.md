@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBGBGBGBGB](/stripes/bbbbbbgbgbgbgb/) — the page of
 The **Unidentified Plaid 2** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/">Unidentified Plaid 2</a></td><td><code>DR/96 DG26 DR4 DG14 DR4 DG14 DR4 DG22 DR100 B22 DR4 B14 DR4 B/14</code></td><td>574</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/"><img src="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/sett.png" alt="Unidentified Plaid 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/">Unidentified Plaid 2</a></td><td></td><td><code>DR/96 DG26 DR4 DG14 DR4 DG14 DR4 DG22 DR100 B22 DR4 B14 DR4 B/14</code></td><td>574</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/"><img src="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/sett.png" alt="Unidentified Plaid 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

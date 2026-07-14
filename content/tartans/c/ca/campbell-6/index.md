@@ -18,10 +18,10 @@ Its design is pattern [GKRGBGBGBGRKW](/stripes/gkrgbgbgbgrkw/) — the page of e
 The **Campbell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/y9k1o31g30db36g3db3g3db36g30o31k1w9~x2/">Campbell</a></td><td><code>Y/18 K2 O62 G60 DB72 G6 DB6 G6 DB72 G60 O62 K2 W/18</code></td><td>856</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y9k1o31g30db36g3db3g3db36g30o31k1w9~x2/"><img src="/variants/s13/y9k1o31g30db36g3db3g3db36g30o31k1w9~x2/sett.png" alt="Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y9k1o31g30db36g3db3g3db36g30o31k1w9~x2/">Campbell</a></td><td></td><td><code>Y/18 K2 O62 G60 DB72 G6 DB6 G6 DB72 G60 O62 K2 W/18</code></td><td>856</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y9k1o31g30db36g3db3g3db36g30o31k1w9~x2/"><img src="/variants/s13/y9k1o31g30db36g3db3g3db36g30o31k1w9~x2/sett.png" alt="Campbell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

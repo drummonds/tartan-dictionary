@@ -13,10 +13,10 @@ Its design is pattern [BRBYRBRYRBRBBBRBYRBRYRBRBR](/stripes/brbyrbryrbrbbbrbyrbr
 The **Fontainbleu** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/">Fontainbleu</a></td><td><code>R/132 N16 R8 DT4 R2 LY4 R6 DT8 R8 LY2 DT2 R16 DT4 N16 DT4 R16 DT4 R2 LY4 R6 DT8 R8 LY2 DT2 R8 N/16</code></td><td>468</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/"><img src="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/sett.png" alt="Fontainbleu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/">Fontainbleu</a></td><td></td><td><code>R/132 N16 R8 DT4 R2 LY4 R6 DT8 R8 LY2 DT2 R16 DT4 N16 DT4 R16 DT4 R2 LY4 R6 DT8 R8 LY2 DT2 R8 N/16</code></td><td>468</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/"><img src="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/sett.png" alt="Fontainbleu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

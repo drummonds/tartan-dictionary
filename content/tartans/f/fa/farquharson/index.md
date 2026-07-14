@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKGGGKBKBKBKGRGKBKBKB](/stripes/bkbkbkgggkbkbkbkgrgkb
 The **Farquharson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7~x2/">Farquharson</a></td><td><code>DB/42 K2 DB2 K2 DB2 K20 G44 R4 G44 K20 DB32 K2 DB4 K2 DB32 K20 G44 Y4 G44 K20 DB2 K2 DB2 K2 DB/14</code></td><td>760</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7~x2/"><img src="/variants/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7~x2/sett.png" alt="Farquharson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7~x2/">Farquharson</a></td><td></td><td><code>DB/42 K2 DB2 K2 DB2 K20 G44 R4 G44 K20 DB32 K2 DB4 K2 DB32 K20 G44 Y4 G44 K20 DB2 K2 DB2 K2 DB/14</code></td><td>760</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7~x2/"><img src="/variants/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7~x2/sett.png" alt="Farquharson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

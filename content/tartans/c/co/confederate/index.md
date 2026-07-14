@@ -13,10 +13,10 @@ Its design is pattern [KGKRKBR](/stripes/kgkrkbr/) — the page of every tartan 
 The **Confederate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r12t18k1r4k1g6k2~x2/">Confederate</a></td><td><code>R/24 T36 K2 R8 K2 G12 K/4</code></td><td>148</td><td>1861</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r12t18k1r4k1g6k2~x2/"><img src="/variants/s7/r12t18k1r4k1g6k2~x2/sett.png" alt="Confederate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r12t18k1r4k1g6k2~x2/">Confederate</a></td><td></td><td><code>R/24 T36 K2 R8 K2 G12 K/4</code></td><td>148</td><td>1861</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r12t18k1r4k1g6k2~x2/"><img src="/variants/s7/r12t18k1r4k1g6k2~x2/sett.png" alt="Confederate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

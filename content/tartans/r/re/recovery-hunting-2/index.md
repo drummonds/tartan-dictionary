@@ -18,10 +18,10 @@ Its design is pattern [KGKGKGKKKKKKKKWKWKKKKKKKKGKRKGKKKKKKKKWKWKKKKKKK](/stripe
 The **Recovery hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s48/k1g8k1y1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1~x4~ki0604259/">Recovery hunting</a></td><td><code>K/4 G32 K4 Y4 K4 G32 K4 Ki4 K4 Ki4 K4 Ki4 K4 Ki32 W4 Ki8 W4 Ki32 K4 Ki4 K4 Ki4 K4 Ki4 K4 G32 K4 R4 K4 G32 K4 Ki4 K4 Ki4 K4 Ki4 K4 Ki32 W4 Ki8 W4 Ki32 K4 Ki4 K4 Ki4 K4 Ki/4</code></td><td>840</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s48/k1g8k1y1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1~x4~ki0604259/"><img src="/variants/s48/k1g8k1y1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1~x4~ki0604259/sett.png" alt="Recovery hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s48/k1g8k1y1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1~x4~ki0604259/">Recovery hunting</a></td><td></td><td><code>K/4 G32 K4 Y4 K4 G32 K4 Ki4 K4 Ki4 K4 Ki4 K4 Ki32 W4 Ki8 W4 Ki32 K4 Ki4 K4 Ki4 K4 Ki4 K4 G32 K4 R4 K4 G32 K4 Ki4 K4 Ki4 K4 Ki4 K4 Ki32 W4 Ki8 W4 Ki32 K4 Ki4 K4 Ki4 K4 Ki/4</code></td><td>840</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s48/k1g8k1y1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1~x4~ki0604259/"><img src="/variants/s48/k1g8k1y1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1~x4~ki0604259/sett.png" alt="Recovery hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

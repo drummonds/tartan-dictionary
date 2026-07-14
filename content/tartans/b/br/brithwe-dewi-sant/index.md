@@ -13,10 +13,10 @@ Its design is pattern [GRGRGWGRGRG](/stripes/grgrgwgrgrg/) — the page of every
 The **Brithwe Dewi Sant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/">Brithwe Dewi Sant</a></td><td><code>DG/30 R2 DG8 R1 DG5 W2 DG5 R1 DG8 R2 DG/30</code></td><td>128</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/"><img src="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/sett.png" alt="Brithwe Dewi Sant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/">Brithwe Dewi Sant</a></td><td></td><td><code>DG/30 R2 DG8 R1 DG5 W2 DG5 R1 DG8 R2 DG/30</code></td><td>128</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/"><img src="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/sett.png" alt="Brithwe Dewi Sant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

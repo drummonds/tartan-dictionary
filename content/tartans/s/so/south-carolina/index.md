@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBBBBW](/stripes/bbbbbbbbbw/) — the page of every t
 The **South Carolina** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/n8db1n1db24n2db1n2db5b20w5~x2/">South Carolina</a></td><td><code>N/16 DB2 N2 DB48 N4 DB2 N4 DB10 B40 W/10</code></td><td>250</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/n8db1n1db24n2db1n2db5b20w5~x2/"><img src="/variants/s10/n8db1n1db24n2db1n2db5b20w5~x2/sett.png" alt="South Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/n8db1n1db24n2db1n2db5b20w5~x2/">South Carolina</a></td><td></td><td><code>N/16 DB2 N2 DB48 N4 DB2 N4 DB10 B40 W/10</code></td><td>250</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/n8db1n1db24n2db1n2db5b20w5~x2/"><img src="/variants/s10/n8db1n1db24n2db1n2db5b20w5~x2/sett.png" alt="South Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

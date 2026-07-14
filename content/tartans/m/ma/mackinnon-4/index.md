@@ -18,10 +18,10 @@ Its design is pattern [RRGBRGRBGRRW](/stripes/rrgbrgrbgrrw/) — the page of eve
 The **MacKinnon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r2208029-ri2209032/">MacKinnon</a></td><td><code>R/6 Ri8 G6 DP6 Ri22 G60 Ri6 DP14 G6 R4 Ri8 W/4</code></td><td>290</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r2208029-ri2209032/"><img src="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r2208029-ri2209032/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r2208029-ri2209032/">MacKinnon</a></td><td></td><td><code>R/6 Ri8 G6 DP6 Ri22 G60 Ri6 DP14 G6 R4 Ri8 W/4</code></td><td>290</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r2208029-ri2209032/"><img src="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r2208029-ri2209032/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

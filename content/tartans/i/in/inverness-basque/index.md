@@ -18,12 +18,12 @@ The **Inverness Basque** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/r22g6k3g16w22/">Inverness Basque</a> ★</td><td><code>R/22 G6 K3 G16 W/22</code></td><td>94</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r22g6k3g16w22/"><img src="/variants/s5/r22g6k3g16w22/sett.png" alt="Inverness Basque sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r33g9k5g24w33~x2/">(District)</a></td><td><code>R/66 G18 K10 G48 W/66</code></td><td>284</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r33g9k5g24w33~x2/"><img src="/variants/s5/r33g9k5g24w33~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r22g6k3g16w22/">Inverness Basque</a> ★</td><td></td><td><code>R/22 G6 K3 G16 W/22</code></td><td>94</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r22g6k3g16w22/"><img src="/variants/s5/r22g6k3g16w22/sett.png" alt="Inverness Basque sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r33g9k5g24w33~x2/">(District)</a></td><td>0.13</td><td><code>R/66 G18 K10 G48 W/66</code></td><td>284</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r33g9k5g24w33~x2/"><img src="/variants/s5/r33g9k5g24w33~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

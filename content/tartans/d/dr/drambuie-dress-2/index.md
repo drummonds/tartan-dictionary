@@ -18,10 +18,10 @@ Its design is pattern [GKRKRW](/stripes/gkrkrw/) — the page of every tartan sh
 The **Drambuie dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/y6k5r4k48o36w6/">Drambuie dress</a></td><td><code>Y/6 K5 R4 K48 O36 W/6</code></td><td>198</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y6k5r4k48o36w6/"><img src="/variants/s6/y6k5r4k48o36w6/sett.png" alt="Drambuie dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y6k5r4k48o36w6/">Drambuie dress</a></td><td></td><td><code>Y/6 K5 R4 K48 O36 W/6</code></td><td>198</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y6k5r4k48o36w6/"><img src="/variants/s6/y6k5r4k48o36w6/sett.png" alt="Drambuie dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

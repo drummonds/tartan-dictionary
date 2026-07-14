@@ -18,10 +18,10 @@ Its design is pattern [BBBBBWBRBRBWYBYBYWBWYWYW](/stripes/bbbbbwbrbrbwybybywbwyw
 The **Oriflame** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/w4ly6w6lr21w9n27w10lr1n1lr5n1lr1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1~x2~lr2800000-n1900000/">Oriflame</a></td><td><code>W/8 LY12 W12 LR42 W18 N54 W20 LR2 N2 LR10 N2 LR2 W20 DR2 R2 DR10 R2 DR2 W20 N2 DR2 N10 DR2 N/2</code></td><td>510</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/w4ly6w6lr21w9n27w10lr1n1lr5n1lr1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1~x2~lr2800000-n1900000/"><img src="/variants/s24/w4ly6w6lr21w9n27w10lr1n1lr5n1lr1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1~x2~lr2800000-n1900000/sett.png" alt="Oriflame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/w4ly6w6lr21w9n27w10lr1n1lr5n1lr1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1~x2~lr2800000-n1900000/">Oriflame</a></td><td></td><td><code>W/8 LY12 W12 LR42 W18 N54 W20 LR2 N2 LR10 N2 LR2 W20 DR2 R2 DR10 R2 DR2 W20 N2 DR2 N10 DR2 N/2</code></td><td>510</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/w4ly6w6lr21w9n27w10lr1n1lr5n1lr1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1~x2~lr2800000-n1900000/"><img src="/variants/s24/w4ly6w6lr21w9n27w10lr1n1lr5n1lr1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1~x2~lr2800000-n1900000/sett.png" alt="Oriflame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

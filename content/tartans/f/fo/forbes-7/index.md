@@ -18,10 +18,10 @@ Its design is pattern [BGBGKBKGBKBKB](/stripes/bgbgkbkgbkbkb/) — the page of e
 The **Forbes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dr6k1dr14k6dr6g8k8dr1k8g8db8g1db6~x4/">Forbes</a></td><td><code>DR/24 K4 DR56 K24 DR24 G32 K32 DR4 K32 G32 DB32 G4 DB/24</code></td><td>600</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dr6k1dr14k6dr6g8k8dr1k8g8db8g1db6~x4/"><img src="/variants/s13/dr6k1dr14k6dr6g8k8dr1k8g8db8g1db6~x4/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dr6k1dr14k6dr6g8k8dr1k8g8db8g1db6~x4/">Forbes</a></td><td></td><td><code>DR/24 K4 DR56 K24 DR24 G32 K32 DR4 K32 G32 DB32 G4 DB/24</code></td><td>600</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dr6k1dr14k6dr6g8k8dr1k8g8db8g1db6~x4/"><img src="/variants/s13/dr6k1dr14k6dr6g8k8dr1k8g8db8g1db6~x4/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBBKW](/stripes/gbbkw/) — the page of every tartan shar
 The **Teylu Coleman** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/">Teylu Coleman</a></td><td><code>Y/6 DP34 DO18 K50 W/6</code></td><td>216</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/"><img src="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/sett.png" alt="Teylu Coleman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/">Teylu Coleman</a></td><td></td><td><code>Y/6 DP34 DO18 K50 W/6</code></td><td>216</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/"><img src="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/sett.png" alt="Teylu Coleman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

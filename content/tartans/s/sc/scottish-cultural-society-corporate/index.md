@@ -13,10 +13,10 @@ Its design is pattern [BGKYKBWBW](/stripes/bgkykbwbw/) — the page of every tar
 The **Scottish Cultural Society (Corporate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/">Scottish Cultural Society (Corporate</a></td><td><code>DP/16 G32 K64 LO8 K8 DB32 LB8 DB8 LB/16</code></td><td>352</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><img src="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/sett.png" alt="Scottish Cultural Society (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/">Scottish Cultural Society (Corporate</a></td><td></td><td><code>DP/16 G32 K64 LO8 K8 DB32 LB8 DB8 LB/16</code></td><td>352</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><img src="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/sett.png" alt="Scottish Cultural Society (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

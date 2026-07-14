@@ -18,10 +18,10 @@ Its design is pattern [BWBYWBWW](/stripes/bwbywbww/) — the page of every tarta
 The **Madras 1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/">Madras 1</a></td><td><code>LB/180 W16 DB16 W8 LY56 DB8 W8 DB/8</code></td><td>412</td><td>~1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/"><img src="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/sett.png" alt="Madras 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/">Madras 1</a></td><td></td><td><code>LB/180 W16 DB16 W8 LY56 DB8 W8 DB/8</code></td><td>412</td><td>~1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/"><img src="/variants/s8/lb45w4db4w2ly14db2w2db2~x4/sett.png" alt="Madras 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

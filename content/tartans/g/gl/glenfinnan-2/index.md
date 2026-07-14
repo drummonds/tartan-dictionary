@@ -18,10 +18,10 @@ Its design is pattern [BRWBWRGRWR](/stripes/brwbwrgrwr/) — the page of every t
 The **Glenfinnan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/">Glenfinnan</a></td><td><code>DP/56 R52 W4 DP10 W4 R52 G56 R10 W4 R/10</code></td><td>450</td><td>1772</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><img src="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/sett.png" alt="Glenfinnan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/">Glenfinnan</a></td><td></td><td><code>DP/56 R52 W4 DP10 W4 R52 G56 R10 W4 R/10</code></td><td>450</td><td>1772</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><img src="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/sett.png" alt="Glenfinnan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

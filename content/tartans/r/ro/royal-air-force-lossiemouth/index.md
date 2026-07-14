@@ -13,10 +13,10 @@ Its design is pattern [BWRWGBKGKG](/stripes/bwrwgbkgkg/) — the page of every t
 The **Royal Air Force Lossiemouth** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y4k7dg3k27db10g4lb24r3lb24b4~x2~dg1704158-db0805267/">Royal Air Force Lossiemouth</a></td><td><code>Y/8 K14 DG6 K54 DB20 G8 LB48 R6 LB48 B/8</code></td><td>424</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y4k7dg3k27db10g4lb24r3lb24b4~x2~dg1704158-db0805267/"><img src="/variants/s10/y4k7dg3k27db10g4lb24r3lb24b4~x2~dg1704158-db0805267/sett.png" alt="Royal Air Force Lossiemouth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y4k7dg3k27db10g4lb24r3lb24b4~x2~dg1704158-db0805267/">Royal Air Force Lossiemouth</a></td><td></td><td><code>Y/8 K14 DG6 K54 DB20 G8 LB48 R6 LB48 B/8</code></td><td>424</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y4k7dg3k27db10g4lb24r3lb24b4~x2~dg1704158-db0805267/"><img src="/variants/s10/y4k7dg3k27db10g4lb24r3lb24b4~x2~dg1704158-db0805267/sett.png" alt="Royal Air Force Lossiemouth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

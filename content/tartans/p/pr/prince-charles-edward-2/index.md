@@ -13,10 +13,10 @@ Its design is pattern [BRBRBRBRBR](/stripes/brbrbrbrbr/) — the page of every t
 The **Prince Charles Edward** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db40r40db44r2db2r40db2r2db2r7~x2/">Prince Charles Edward</a></td><td><code>DB/80 R80 DB88 R4 DB4 R80 DB4 R4 DB4 R/14</code></td><td>630</td><td>1745</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db40r40db44r2db2r40db2r2db2r7~x2/"><img src="/variants/s10/db40r40db44r2db2r40db2r2db2r7~x2/sett.png" alt="Prince Charles Edward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db40r40db44r2db2r40db2r2db2r7~x2/">Prince Charles Edward</a></td><td></td><td><code>DB/80 R80 DB88 R4 DB4 R80 DB4 R4 DB4 R/14</code></td><td>630</td><td>1745</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db40r40db44r2db2r40db2r2db2r7~x2/"><img src="/variants/s10/db40r40db44r2db2r40db2r2db2r7~x2/sett.png" alt="Prince Charles Edward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

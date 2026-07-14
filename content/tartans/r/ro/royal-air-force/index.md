@@ -13,10 +13,10 @@ Its design is pattern [BBWBWBBBBBW](/stripes/bbwbwbbbbbw/) — the page of every
 The **Royal Air Force** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dr3t2lb7t3lb20db4dbi8t20dr3t7w2~x2~db1106275-dbi1404245/">Royal Air Force</a></td><td><code>DR/6 T4 LB14 T6 LB40 DB8 DBi16 T40 DR6 T14 W/4</code></td><td>306</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dr3t2lb7t3lb20db4dbi8t20dr3t7w2~x2~db1106275-dbi1404245/"><img src="/variants/s11/dr3t2lb7t3lb20db4dbi8t20dr3t7w2~x2~db1106275-dbi1404245/sett.png" alt="Royal Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dr3t2lb7t3lb20db4dbi8t20dr3t7w2~x2~db1106275-dbi1404245/">Royal Air Force</a></td><td></td><td><code>DR/6 T4 LB14 T6 LB40 DB8 DBi16 T40 DR6 T14 W/4</code></td><td>306</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dr3t2lb7t3lb20db4dbi8t20dr3t7w2~x2~db1106275-dbi1404245/"><img src="/variants/s11/dr3t2lb7t3lb20db4dbi8t20dr3t7w2~x2~db1106275-dbi1404245/sett.png" alt="Royal Air Force sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

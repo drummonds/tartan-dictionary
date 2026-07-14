@@ -16,10 +16,10 @@ Its design is pattern [RBKBKBGGGRKR](/stripes/rbkbkbgggrkr/) — the page of eve
 The **Highland Spring** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/o16k2o9g12y2g10t3k2t3k2t3o10~x2/">Highland Spring</a></td><td><code>O/32 K4 O18 G24 Y4 G20 T6 K4 T6 K4 T6 O/20</code></td><td>244</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/o16k2o9g12y2g10t3k2t3k2t3o10~x2/"><img src="/variants/s12/o16k2o9g12y2g10t3k2t3k2t3o10~x2/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/o16k2o9g12y2g10t3k2t3k2t3o10~x2/">Highland Spring</a></td><td></td><td><code>O/32 K4 O18 G24 Y4 G20 T6 K4 T6 K4 T6 O/20</code></td><td>244</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/o16k2o9g12y2g10t3k2t3k2t3o10~x2/"><img src="/variants/s12/o16k2o9g12y2g10t3k2t3k2t3o10~x2/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

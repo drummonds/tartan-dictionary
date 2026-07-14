@@ -13,10 +13,10 @@ Its design is pattern [BKWGKGWKBG](/stripes/bkwgkgwkbg/) — the page of every t
 The **Wilson's No.076** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dp17k18w2g17k3g17w2k18dp17g3~x2~dp1607327-g2203152/">Wilson's No.076</a></td><td><code>DP/34 K36 W4 G34 K6 G34 W4 K36 DP34 G/6</code></td><td>416</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dp17k18w2g17k3g17w2k18dp17g3~x2~dp1607327-g2203152/"><img src="/variants/s10/dp17k18w2g17k3g17w2k18dp17g3~x2~dp1607327-g2203152/sett.png" alt="Wilson's No.076 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dp17k18w2g17k3g17w2k18dp17g3~x2~dp1607327-g2203152/">Wilson's No.076</a></td><td></td><td><code>DP/34 K36 W4 G34 K6 G34 W4 K36 DP34 G/6</code></td><td>416</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dp17k18w2g17k3g17w2k18dp17g3~x2~dp1607327-g2203152/"><img src="/variants/s10/dp17k18w2g17k3g17w2k18dp17g3~x2~dp1607327-g2203152/sett.png" alt="Wilson's No.076 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

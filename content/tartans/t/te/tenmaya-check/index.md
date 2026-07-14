@@ -13,10 +13,10 @@ Its design is pattern [WBRBRBRW](/stripes/wbrbrbrw/) — the page of every tarta
 The **Tenmaya Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/">Tenmaya Check</a></td><td><code>LB/4 N48 R4 DB4 R4 DB8 R20 LB/4</code></td><td>184</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/"><img src="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/sett.png" alt="Tenmaya Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/">Tenmaya Check</a></td><td></td><td><code>LB/4 N48 R4 DB4 R4 DB8 R20 LB/4</code></td><td>184</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/"><img src="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/sett.png" alt="Tenmaya Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

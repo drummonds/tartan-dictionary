@@ -18,10 +18,10 @@ Its design is pattern [BBBGWGKGWGRGWGWG](/stripes/bbbgwgkgwgrgwgwg/) — the pag
 The **Druid** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/">Druid</a></td><td><code>DB/3 N2 DB3 Y2 W4 Y2 K8 Y2 W4 Y2 R8 Y2 W20 Y2 W62 Y/2</code></td><td>251</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/"><img src="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/sett.png" alt="Druid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/">Druid</a></td><td></td><td><code>DB/3 N2 DB3 Y2 W4 Y2 K8 Y2 W4 Y2 R8 Y2 W20 Y2 W62 Y/2</code></td><td>251</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/"><img src="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/sett.png" alt="Druid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

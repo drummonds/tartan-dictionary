@@ -16,10 +16,10 @@ Its design is pattern [BWBWG](/stripes/bwbwg/) — the page of every tartan shar
 The **Martin Family, Robert N** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/dr27w3dr6w2g3~x4/">Martin Family, Robert N</a></td><td><code>DR/108 W12 DR24 W8 G/12</code></td><td>208</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr27w3dr6w2g3~x4/"><img src="/variants/s5/dr27w3dr6w2g3~x4/sett.png" alt="Martin Family, Robert N sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr27w3dr6w2g3~x4/">Martin Family, Robert N</a></td><td></td><td><code>DR/108 W12 DR24 W8 G/12</code></td><td>208</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dr27w3dr6w2g3~x4/"><img src="/variants/s5/dr27w3dr6w2g3~x4/sett.png" alt="Martin Family, Robert N sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

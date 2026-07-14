@@ -13,10 +13,10 @@ Its design is pattern [GRGRGRRRGRRRGRW](/stripes/grgrgrrrgrrrgrw/) — the page 
 The **Prince Edward Island** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/">Prince Edward Island</a></td><td><code>G/32 O2 G4 O2 G4 O24 R24 O2 Y4 O2 R24 O24 G24 O2 W/4</code></td><td>320</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/"><img src="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/sett.png" alt="Prince Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/">Prince Edward Island</a></td><td></td><td><code>G/32 O2 G4 O2 G4 O24 R24 O2 Y4 O2 R24 O24 G24 O2 W/4</code></td><td>320</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/"><img src="/variants/s15/g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2~x2/sett.png" alt="Prince Edward Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **Moran** tartan groups 2 setts — the same named design recorded as differ
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/">Moran</a> ★</td><td><code>LB/52 DB26 K26 W4 G16 K10 R6 LB/6</code></td><td>234</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><img src="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/sett.png" alt="Moran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/">(Virgin Islands) (Personal)</a></td><td><code>W/6 LB52 DB26 K26 W4 G16 K10 R6 LB/6</code></td><td>292</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><img src="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/sett.png" alt="(Virgin Islands) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/">Moran</a> ★</td><td></td><td><code>LB/52 DB26 K26 W4 G16 K10 R6 LB/6</code></td><td>234</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><img src="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/sett.png" alt="Moran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/">(Virgin Islands) (Personal)</a></td><td>0.30</td><td><code>W/6 LB52 DB26 K26 W4 G16 K10 R6 LB/6</code></td><td>292</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><img src="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/sett.png" alt="(Virgin Islands) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

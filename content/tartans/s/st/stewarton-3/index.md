@@ -18,10 +18,10 @@ Its design is pattern [GRWBRBGK](/stripes/grwbrbgk/) — the page of every tarta
 The **Stewarton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k2g5b7r7b7lp6o5gi2~x2~g2104115-b2505279-lp3004302-gi2107139/">Stewarton</a></td><td><code>K/4 G10 B14 R14 B14 LP12 O10 Gi/4</code></td><td>156</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k2g5b7r7b7lp6o5gi2~x2~g2104115-b2505279-lp3004302-gi2107139/"><img src="/variants/s8/k2g5b7r7b7lp6o5gi2~x2~g2104115-b2505279-lp3004302-gi2107139/sett.png" alt="Stewarton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k2g5b7r7b7lp6o5gi2~x2~g2104115-b2505279-lp3004302-gi2107139/">Stewarton</a></td><td></td><td><code>K/4 G10 B14 R14 B14 LP12 O10 Gi/4</code></td><td>156</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k2g5b7r7b7lp6o5gi2~x2~g2104115-b2505279-lp3004302-gi2107139/"><img src="/variants/s8/k2g5b7r7b7lp6o5gi2~x2~g2104115-b2505279-lp3004302-gi2107139/sett.png" alt="Stewarton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

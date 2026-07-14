@@ -18,10 +18,10 @@ Its design is pattern [BGBWR](/stripes/bgbwr/) — the page of every tartan shar
 The **Tilburg** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/db9y9db9lb23r3~x2/">Tilburg</a></td><td><code>DB/18 Y18 DB18 LB46 R/6</code></td><td>188</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db9y9db9lb23r3~x2/"><img src="/variants/s5/db9y9db9lb23r3~x2/sett.png" alt="Tilburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db9y9db9lb23r3~x2/">Tilburg</a></td><td></td><td><code>DB/18 Y18 DB18 LB46 R/6</code></td><td>188</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db9y9db9lb23r3~x2/"><img src="/variants/s5/db9y9db9lb23r3~x2/sett.png" alt="Tilburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

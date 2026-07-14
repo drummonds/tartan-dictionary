@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBGBKBKBYBK](/stripes/bbbbbbgbkbkbybk/) — the page 
 The **Scottish Register of Tartans'** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dr12n4dr7do2dr2do28dy2do28k2do2k23dr3ly6dr3k5/">Scottish Register of Tartans'</a></td><td><code>DR/12 N4 DR7 DO2 DR2 DO28 DY2 DO28 K2 DO2 K23 DR3 LY6 DR3 K/5</code></td><td>241</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dr12n4dr7do2dr2do28dy2do28k2do2k23dr3ly6dr3k5/"><img src="/variants/s15/dr12n4dr7do2dr2do28dy2do28k2do2k23dr3ly6dr3k5/sett.png" alt="Scottish Register of Tartans' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dr12n4dr7do2dr2do28dy2do28k2do2k23dr3ly6dr3k5/">Scottish Register of Tartans'</a></td><td></td><td><code>DR/12 N4 DR7 DO2 DR2 DO28 DY2 DO28 K2 DO2 K23 DR3 LY6 DR3 K/5</code></td><td>241</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dr12n4dr7do2dr2do28dy2do28k2do2k23dr3ly6dr3k5/"><img src="/variants/s15/dr12n4dr7do2dr2do28dy2do28k2do2k23dr3ly6dr3k5/sett.png" alt="Scottish Register of Tartans' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

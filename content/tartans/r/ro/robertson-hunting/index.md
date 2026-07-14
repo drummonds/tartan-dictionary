@@ -21,14 +21,14 @@ The **Robertson Hunting** tartan groups 3 setts — the same named design record
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/">Robertson Hunting</a> ★</td><td><code>DB/48 K4 DB4 K4 DB4 K24 G32 K2 R4 K2 G32 K24 DB24 K2 W/6</code></td><td>378</td><td>1803</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><img src="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/sett.png" alt="Robertson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/">Robertson of Kindeace</a></td><td><code>DB/24 K4 DB4 K4 DB4 K24 G32 K2 R4 K2 G32 K24 DB24 K2 W/6</code></td><td>354</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><img src="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/sett.png" alt="Robertson of Kindeace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/">Robertson Htg - 1816 (Clan)</a></td><td><code>DB/48 K4 DB4 K4 DB4 K24 G32 K2 R6 K2 G32 K24 DB24 K2 W/6</code></td><td>382</td><td>1803</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><img src="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Robertson Htg - 1816 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/">Robertson Hunting</a> ★</td><td></td><td><code>DB/48 K4 DB4 K4 DB4 K24 G32 K2 R4 K2 G32 K24 DB24 K2 W/6</code></td><td>378</td><td>1803</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><img src="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/sett.png" alt="Robertson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/">Robertson of Kindeace</a></td><td>0.24</td><td><code>DB/24 K4 DB4 K4 DB4 K24 G32 K2 R4 K2 G32 K24 DB24 K2 W/6</code></td><td>354</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><img src="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/sett.png" alt="Robertson of Kindeace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/">Robertson Htg - 1816 (Clan)</a></td><td>0.01</td><td><code>DB/48 K4 DB4 K4 DB4 K24 G32 K2 R6 K2 G32 K24 DB24 K2 W/6</code></td><td>382</td><td>1803</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><img src="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Robertson Htg - 1816 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

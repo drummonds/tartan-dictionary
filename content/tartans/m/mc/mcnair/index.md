@@ -13,10 +13,10 @@ Its design is pattern [BRGRGRKRBRGGGGGGGBKRGRKR](/stripes/brgrgrkrbrgggggggbkrgr
 The **McNair** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/">McNair</a></td><td><code>DR/20 R10 DG10 R10 G10 R10 K20 R20 DR20 R10 DG20 G10 Y10 G10 Y10 G10 Y10 DR20 K80 R10 G10 R10 K30 R/10</code></td><td>750</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/"><img src="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/sett.png" alt="McNair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/">McNair</a></td><td></td><td><code>DR/20 R10 DG10 R10 G10 R10 K20 R20 DR20 R10 DG20 G10 Y10 G10 Y10 G10 Y10 DR20 K80 R10 G10 R10 K30 R/10</code></td><td>750</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/"><img src="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/sett.png" alt="McNair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

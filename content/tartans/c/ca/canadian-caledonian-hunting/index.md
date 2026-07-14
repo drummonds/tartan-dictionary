@@ -17,12 +17,12 @@ The **Canadian Caledonian Hunting** tartan groups 2 setts — the same named des
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db3k1g16lo1dr1lb1dr6g3dr1g3lb1~x4/">Canadian Caledonian Hunting</a> ★</td><td><code>DB/12 K4 G64 LO4 DR4 LB4 DR24 G12 DR4 G12 LB/4</code></td><td>280</td><td>1939</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db3k1g16lo1dr1lb1dr6g3dr1g3lb1~x4/"><img src="/variants/s11/db3k1g16lo1dr1lb1dr6g3dr1g3lb1~x4/sett.png" alt="Canadian Caledonian Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/">Canadian Caledonian, hunting</a></td><td><code>DB/6 K2 G26 Y2 R2 W2 R12 G6 R2 G6 W/2</code></td><td>128</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/"><img src="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/sett.png" alt="Canadian Caledonian, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db3k1g16lo1dr1lb1dr6g3dr1g3lb1~x4/">Canadian Caledonian Hunting</a> ★</td><td></td><td><code>DB/12 K4 G64 LO4 DR4 LB4 DR24 G12 DR4 G12 LB/4</code></td><td>280</td><td>1939</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db3k1g16lo1dr1lb1dr6g3dr1g3lb1~x4/"><img src="/variants/s11/db3k1g16lo1dr1lb1dr6g3dr1g3lb1~x4/sett.png" alt="Canadian Caledonian Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/">Canadian Caledonian, hunting</a></td><td>1.10</td><td><code>DB/6 K2 G26 Y2 R2 W2 R12 G6 R2 G6 W/2</code></td><td>128</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/"><img src="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/sett.png" alt="Canadian Caledonian, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [WBGKGKGKGKW](/stripes/wbgkgkgkgkw/) — the page of every
 The **Bute Heather, Glencallum** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/">Bute Heather, Glencallum</a></td><td><code>LB/13 T2 DG38 K13 DG8 K8 DG17 K2 DG17 K4 W/11</code></td><td>242</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/"><img src="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/sett.png" alt="Bute Heather, Glencallum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/">Bute Heather, Glencallum</a></td><td></td><td><code>LB/13 T2 DG38 K13 DG8 K8 DG17 K2 DG17 K4 W/11</code></td><td>242</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/"><img src="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/sett.png" alt="Bute Heather, Glencallum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

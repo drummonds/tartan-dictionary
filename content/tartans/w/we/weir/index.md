@@ -20,10 +20,10 @@ Unmarked Weir clan sample from the MacGregor-Hastie collection, likely dating 19
 The **Weir** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/g18k1lb3k1g3k8db18k1lo1k5lo1k1db18k8g2k1lb2~x2/">Weir</a></td><td><code>G/36 K2 LB6 K2 G6 K16 DB36 K2 LO2 K10 LO2 K2 DB36 K16 G4 K2 LB/4</code></td><td>328</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/g18k1lb3k1g3k8db18k1lo1k5lo1k1db18k8g2k1lb2~x2/"><img src="/variants/s17/g18k1lb3k1g3k8db18k1lo1k5lo1k1db18k8g2k1lb2~x2/sett.png" alt="Weir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/g18k1lb3k1g3k8db18k1lo1k5lo1k1db18k8g2k1lb2~x2/">Weir</a></td><td></td><td><code>G/36 K2 LB6 K2 G6 K16 DB36 K2 LO2 K10 LO2 K2 DB36 K16 G4 K2 LB/4</code></td><td>328</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/g18k1lb3k1g3k8db18k1lo1k5lo1k1db18k8g2k1lb2~x2/"><img src="/variants/s17/g18k1lb3k1g3k8db18k1lo1k5lo1k1db18k8g2k1lb2~x2/sett.png" alt="Weir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

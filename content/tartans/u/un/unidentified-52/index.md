@@ -13,10 +13,10 @@ Its design is pattern [BGBGBGBGGGRGGGGGWGGGBWGBWBGW](/stripes/bgbgbgbgggrgggggwg
 The **Unidentified** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s28/w70dy7db7w7db7dy7w7db5dy9y4dy3w4dy3g13dy70g30dy4r10dy4g30dy15db4dy4db4dy4db27g6db27~x2/">Unidentified</a></td><td><code>W/140 DY14 DB14 W14 DB14 DY14 W14 DB10 DY18 Y8 DY6 W8 DY6 G26 DY140 G60 DY8 R20 DY8 G60 DY30 DB8 DY8 DB8 DY8 DB54 G12 DB/54</code></td><td>1374</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s28/w70dy7db7w7db7dy7w7db5dy9y4dy3w4dy3g13dy70g30dy4r10dy4g30dy15db4dy4db4dy4db27g6db27~x2/"><img src="/variants/s28/w70dy7db7w7db7dy7w7db5dy9y4dy3w4dy3g13dy70g30dy4r10dy4g30dy15db4dy4db4dy4db27g6db27~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s28/w70dy7db7w7db7dy7w7db5dy9y4dy3w4dy3g13dy70g30dy4r10dy4g30dy15db4dy4db4dy4db27g6db27~x2/">Unidentified</a></td><td></td><td><code>W/140 DY14 DB14 W14 DB14 DY14 W14 DB10 DY18 Y8 DY6 W8 DY6 G26 DY140 G60 DY8 R20 DY8 G60 DY30 DB8 DY8 DB8 DY8 DB54 G12 DB/54</code></td><td>1374</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s28/w70dy7db7w7db7dy7w7db5dy9y4dy3w4dy3g13dy70g30dy4r10dy4g30dy15db4dy4db4dy4db27g6db27~x2/"><img src="/variants/s28/w70dy7db7w7db7dy7w7db5dy9y4dy3w4dy3g13dy70g30dy4r10dy4g30dy15db4dy4db4dy4db27g6db27~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

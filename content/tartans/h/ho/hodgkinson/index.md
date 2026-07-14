@@ -14,13 +14,13 @@ The **Hodgkinson** tartan is one sett, recorded at 2 scales — the same proport
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/">Hodgkinson</a></td><td><code>LB/5 Y5 DB12 G1 DB1 R1 DB1 W/2</code></td><td>49</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><img src="/variants/s8/lb5y5db12g1db1r1db1w2~x2/sett.png" alt="Hodgkinson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/">Yorkshire, C.C.C.</a></td><td><code>LB/10 Y10 DB24 G2 DB2 R2 DB2 W/4</code></td><td>98</td><td>1983</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/">Hodgkinson</a></td><td><code>LB/20 Y20 DB48 G4 DB4 R4 DB4 W/8</code></td><td>196</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/">Yorkshire, C.C.C.</a> · <a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/">Hodgkinson</a></td></tr>
+<tr><td><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/">Hodgkinson</a></td><td></td><td><code>LB/5 Y5 DB12 G1 DB1 R1 DB1 W/2</code></td><td>49</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><img src="/variants/s8/lb5y5db12g1db1r1db1w2~x2/sett.png" alt="Hodgkinson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/">Yorkshire, C.C.C.</a></td><td>0.00</td><td><code>LB/10 Y10 DB24 G2 DB2 R2 DB2 W/4</code></td><td>98</td><td>1983</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/">Hodgkinson</a></td><td>0.00</td><td><code>LB/20 Y20 DB48 G4 DB4 R4 DB4 W/8</code></td><td>196</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/">Yorkshire, C.C.C.</a> · <a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/">Hodgkinson</a></td></tr>
 </tbody>
 </table>
 

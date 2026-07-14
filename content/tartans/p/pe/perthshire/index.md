@@ -15,10 +15,10 @@ Perthshire district pattern established since 1992 as an alternative to the Drum
 The **Perthshire** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db26dr6g16db8g3dr2~x2/">Perthshire</a></td><td><code>DB/52 DR12 G32 DB16 G6 DR/4</code></td><td>188</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db26dr6g16db8g3dr2~x2/"><img src="/variants/s6/db26dr6g16db8g3dr2~x2/sett.png" alt="Perthshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db26dr6g16db8g3dr2~x2/">Perthshire</a></td><td></td><td><code>DB/52 DR12 G32 DB16 G6 DR/4</code></td><td>188</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db26dr6g16db8g3dr2~x2/"><img src="/variants/s6/db26dr6g16db8g3dr2~x2/sett.png" alt="Perthshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

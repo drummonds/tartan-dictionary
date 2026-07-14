@@ -13,10 +13,10 @@ Its design is pattern [WBGRWRWRGBW](/stripes/wbgrwrwrgbw/) — the page of every
 The **Stuart/Stewart Riding Cloak** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/">Stuart/Stewart Riding Cloak</a></td><td><code>W/2 DB8 DY16 R8 W2 R8 W2 R8 G32 DB4 W/2</code></td><td>180</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/"><img src="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/sett.png" alt="Stuart/Stewart Riding Cloak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/">Stuart/Stewart Riding Cloak</a></td><td></td><td><code>W/2 DB8 DY16 R8 W2 R8 W2 R8 G32 DB4 W/2</code></td><td>180</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/"><img src="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/sett.png" alt="Stuart/Stewart Riding Cloak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

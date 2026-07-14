@@ -13,10 +13,10 @@ Its design is pattern [GRGBKGW](/stripes/grgbkgw/) — the page of every tartan 
 The **Decatur Presbyterian Church** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g41r6g12db8k2y5w8~x2/">Decatur Presbyterian Church</a></td><td><code>G/82 R12 G24 DB16 K4 Y10 W/16</code></td><td>230</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><img src="/variants/s7/g41r6g12db8k2y5w8~x2/sett.png" alt="Decatur Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g41r6g12db8k2y5w8~x2/">Decatur Presbyterian Church</a></td><td></td><td><code>G/82 R12 G24 DB16 K4 Y10 W/16</code></td><td>230</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><img src="/variants/s7/g41r6g12db8k2y5w8~x2/sett.png" alt="Decatur Presbyterian Church sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

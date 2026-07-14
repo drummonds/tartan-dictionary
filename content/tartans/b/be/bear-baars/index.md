@@ -16,10 +16,10 @@ Its design is pattern [YBWRWBWKYWY](/stripes/ybwrwbwkywy/) — the page of every
 The **Bear Baars** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/">Bear Baars</a></td><td><code>LO/8 DB8 W8 R4 W8 DB40 W4 K8 LO40 W4 LO/8</code></td><td>264</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/"><img src="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/sett.png" alt="Bear Baars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/">Bear Baars</a></td><td></td><td><code>LO/8 DB8 W8 R4 W8 DB40 W4 K8 LO40 W4 LO/8</code></td><td>264</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/"><img src="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/sett.png" alt="Bear Baars sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBBBGGB](/stripes/bbbbggb/) — the page of every tartan 
 The **Uitwaaien Papi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dr5do8dp13db21dg34dgi55dr3~dgi1603171/">Uitwaaien Papi</a></td><td><code>DR/5 DO8 DP13 DB21 DG34 DGi55 DR/3</code></td><td>270</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr5do8dp13db21dg34dgi55dr3~dgi1603171/"><img src="/variants/s7/dr5do8dp13db21dg34dgi55dr3~dgi1603171/sett.png" alt="Uitwaaien Papi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr5do8dp13db21dg34dgi55dr3~dgi1603171/">Uitwaaien Papi</a></td><td></td><td><code>DR/5 DO8 DP13 DB21 DG34 DGi55 DR/3</code></td><td>270</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr5do8dp13db21dg34dgi55dr3~dgi1603171/"><img src="/variants/s7/dr5do8dp13db21dg34dgi55dr3~dgi1603171/sett.png" alt="Uitwaaien Papi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

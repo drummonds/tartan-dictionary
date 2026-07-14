@@ -13,10 +13,10 @@ Its design is pattern [BGRGGBRBRBR](/stripes/bgrggbrbrbr/) — the page of every
 The **Isle of Skye** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/">Isle of Skye</a></td><td><code>O/40 DP4 O4 DP4 O6 DP16 DG18 G16 R16 DG2 B/4</code></td><td>216</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/"><img src="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/sett.png" alt="Isle of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/">Isle of Skye</a></td><td></td><td><code>O/40 DP4 O4 DP4 O6 DP16 DG18 G16 R16 DG2 B/4</code></td><td>216</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/"><img src="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/sett.png" alt="Isle of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

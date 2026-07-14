@@ -18,10 +18,10 @@ Camel variation of blue Thomson, designed 1967 by Scotty Thompson; often confuse
 The **Thompson Camel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r2ly20k5w10k10w2~x2/">Thompson Camel</a></td><td><code>R/4 LY40 K10 W20 K20 W/4</code></td><td>188</td><td>1967</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><img src="/variants/s6/r2ly20k5w10k10w2~x2/sett.png" alt="Thompson Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r2ly20k5w10k10w2~x2/">Thompson Camel</a></td><td></td><td><code>R/4 LY40 K10 W20 K20 W/4</code></td><td>188</td><td>1967</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><img src="/variants/s6/r2ly20k5w10k10w2~x2/sett.png" alt="Thompson Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

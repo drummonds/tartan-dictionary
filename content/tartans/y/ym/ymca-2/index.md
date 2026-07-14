@@ -20,10 +20,10 @@ Variation of the Clergy tartan, encoding the YMCA's 1844 founding date and globa
 The **YMCA** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/">YMCA</a></td><td><code>R/8 W2 DR72 DB8 K2 DB6 K20 W2 DB8 W2 K16 W/2</code></td><td>286</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/"><img src="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/sett.png" alt="YMCA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/">YMCA</a></td><td></td><td><code>R/8 W2 DR72 DB8 K2 DB6 K20 W2 DB8 W2 K16 W/2</code></td><td>286</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/"><img src="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/sett.png" alt="YMCA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

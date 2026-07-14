@@ -18,10 +18,10 @@ Its design is pattern [GRGGGGWRGGGW](/stripes/grggggwrgggw/) — the page of eve
 The **Springbok** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/">Springbok</a></td><td><code>G/6 O4 G80 DG4 G8 DG16 W2 O8 G4 DY8 Y8 W/4</code></td><td>294</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/"><img src="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/sett.png" alt="Springbok sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/">Springbok</a></td><td></td><td><code>G/6 O4 G80 DG4 G8 DG16 W2 O8 G4 DY8 Y8 W/4</code></td><td>294</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/"><img src="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/sett.png" alt="Springbok sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

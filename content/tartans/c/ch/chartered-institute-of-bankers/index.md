@@ -13,10 +13,10 @@ Its design is pattern [GKBKBKBWBWGWBWBKBKBK](/stripes/gkbkbkbwbwgwbwbkbkbk/) —
 The **Chartered Institute of Bankers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/">Chartered Institute of Bankers</a></td><td><code>K/34 N5 K5 N8 K5 N56 LB5 N5 LB36 Y5 LB36 N5 LB5 N56 K5 N8 K5 N5 K34 Y/5</code></td><td>617</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/"><img src="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/sett.png" alt="Chartered Institute of Bankers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/">Chartered Institute of Bankers</a></td><td></td><td><code>K/34 N5 K5 N8 K5 N56 LB5 N5 LB36 Y5 LB36 N5 LB5 N56 K5 N8 K5 N5 K34 Y/5</code></td><td>617</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/"><img src="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/sett.png" alt="Chartered Institute of Bankers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

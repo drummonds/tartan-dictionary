@@ -13,10 +13,10 @@ Its design is pattern [BWKGKWBGWKBGW](/stripes/bwkgkwbgwkbgw/) — the page of e
 The **Dinarzh: Fortress of the Bear** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/">Dinarzh: Fortress of the Bear</a></td><td><code>W/8 Y20 DB40 K2 W24 Y2 DB8 W4 K8 Y10 K20 W10 DB/4</code></td><td>308</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><img src="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/sett.png" alt="Dinarzh: Fortress of the Bear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/">Dinarzh: Fortress of the Bear</a></td><td></td><td><code>W/8 Y20 DB40 K2 W24 Y2 DB8 W4 K8 Y10 K20 W10 DB/4</code></td><td>308</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><img src="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/sett.png" alt="Dinarzh: Fortress of the Bear sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

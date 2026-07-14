@@ -13,10 +13,10 @@ Its design is pattern [BKGRYGBKY](/stripes/bkgrygbky/) — the page of every tar
 The **Army Ranger** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/">Army Ranger</a></td><td><code>DB/22 K12 G50 R2 LY4 Y2 DB50 K10 LY/14</code></td><td>296</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/"><img src="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/sett.png" alt="Army Ranger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/">Army Ranger</a></td><td></td><td><code>DB/22 K12 G50 R2 LY4 Y2 DB50 K10 LY/14</code></td><td>296</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/"><img src="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/sett.png" alt="Army Ranger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GBKBKBKBKWGBGWKWGWY](/stripes/gbkbkbkbkwgbgwkwgwy/) — t
 The **Ferrari** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/">Ferrari</a></td><td><code>LY/12 LB4 DY4 LB2 K2 LB2 Y8 DB4 Y4 LB34 K4 DB6 K16 DB6 K4 DB34 K4 DB4 Y/4</code></td><td>300</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/"><img src="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/sett.png" alt="Ferrari sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/">Ferrari</a></td><td></td><td><code>LY/12 LB4 DY4 LB2 K2 LB2 Y8 DB4 Y4 LB34 K4 DB6 K16 DB6 K4 DB34 K4 DB4 Y/4</code></td><td>300</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/"><img src="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/sett.png" alt="Ferrari sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

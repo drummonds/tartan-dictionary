@@ -13,10 +13,10 @@ Its design is pattern [YBRBGYGRWGY](/stripes/ybrbgygrwgy/) — the page of every
 The **Carr** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/">Carr</a></td><td><code>LY/4 DB12 R10 DB36 G36 LG12 G12 R56 W2 G6 LY/4</code></td><td>372</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/"><img src="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/sett.png" alt="Carr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/">Carr</a></td><td></td><td><code>LY/4 DB12 R10 DB36 G36 LG12 G12 R56 W2 G6 LY/4</code></td><td>372</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/"><img src="/variants/s11/ly2db6r5db18g18lg6g6r28w1g3ly2~x2/sett.png" alt="Carr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

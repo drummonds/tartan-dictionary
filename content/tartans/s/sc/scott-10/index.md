@@ -18,10 +18,10 @@ Its design is pattern [KRGRKRGRGWGRGWGRGR](/stripes/krgrkrgrgwgrgwgrgr/) — the
 The **Scott** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/">Scott</a></td><td><code>R/32 G16 R4 G4 W4 G4 R4 G4 W4 G4 R4 G16 R32 K2 R4 G6 R4 K/2</code></td><td>266</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/"><img src="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/">Scott</a></td><td></td><td><code>R/32 G16 R4 G4 W4 G4 R4 G4 W4 G4 R4 G16 R32 K2 R4 G6 R4 K/2</code></td><td>266</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/"><img src="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

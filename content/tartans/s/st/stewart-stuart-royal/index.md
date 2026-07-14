@@ -13,10 +13,10 @@ Its design is pattern [RWKWKWGRKRWRKRGWKWKW](/stripes/rwkwkwgrkrwrkrgwkwkw/) —
 The **Stewart/Stuart Royal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2/">Stewart/Stuart Royal</a></td><td><code>W/56 K4 W4 K4 W4 G24 R16 K2 R2 W2 R2 K2 R16 G24 W4 K4 W4 K4 W56 R/6</code></td><td>418</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2/"><img src="/variants/s20/w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2/sett.png" alt="Stewart/Stuart Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2/">Stewart/Stuart Royal</a></td><td></td><td><code>W/56 K4 W4 K4 W4 G24 R16 K2 R2 W2 R2 K2 R16 G24 W4 K4 W4 K4 W56 R/6</code></td><td>418</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2/"><img src="/variants/s20/w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2/sett.png" alt="Stewart/Stuart Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

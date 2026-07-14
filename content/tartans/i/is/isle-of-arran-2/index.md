@@ -13,10 +13,10 @@ Its design is pattern [RYBRBYGBY](/stripes/rybrbygby/) — the page of every tar
 The **Isle of Arran** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/">Isle of Arran</a></td><td><code>R/4 LO16 DR12 R4 DR12 LR4 G12 DB12 LR/4</code></td><td>152</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/"><img src="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/sett.png" alt="Isle of Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/">Isle of Arran</a></td><td></td><td><code>R/4 LO16 DR12 R4 DR12 LR4 G12 DB12 LR/4</code></td><td>152</td><td>1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/"><img src="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/sett.png" alt="Isle of Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

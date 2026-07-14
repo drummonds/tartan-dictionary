@@ -13,10 +13,10 @@ Its design is pattern [BWBKY](/stripes/bwbky/) — the page of every tartan shar
 The **Burnetts & Struth** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/db68lb7db16k16ly4~x2/">Burnetts &amp; Struth</a></td><td><code>DB/136 LB14 DB32 K32 LY/8</code></td><td>300</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db68lb7db16k16ly4~x2/"><img src="/variants/s5/db68lb7db16k16ly4~x2/sett.png" alt="Burnetts &amp; Struth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db68lb7db16k16ly4~x2/">Burnetts &amp; Struth</a></td><td></td><td><code>DB/136 LB14 DB32 K32 LY/8</code></td><td>300</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db68lb7db16k16ly4~x2/"><img src="/variants/s5/db68lb7db16k16ly4~x2/sett.png" alt="Burnetts &amp; Struth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

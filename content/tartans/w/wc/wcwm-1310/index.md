@@ -18,10 +18,10 @@ Its design is pattern [BBBGKBBB](/stripes/bbbgkbbb/) — the page of every tarta
 The **Wcwm 1310** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/">Wcwm 1310</a></td><td><code>DO/20 DR6 DO20 G28 K24 DB24 DO28 DR/8</code></td><td>288</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/"><img src="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/sett.png" alt="Wcwm 1310 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/">Wcwm 1310</a></td><td></td><td><code>DO/20 DR6 DO20 G28 K24 DB24 DO28 DR/8</code></td><td>288</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/"><img src="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/sett.png" alt="Wcwm 1310 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

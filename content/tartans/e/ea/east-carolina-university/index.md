@@ -18,12 +18,12 @@ The **East Carolina University** tartan groups 2 setts — the same named design
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dp13w2dp8k5y10dp75y3~x2/">East Carolina University</a> ★</td><td><code>DP/26 W4 DP16 K10 Y20 DP150 Y/6</code></td><td>432</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp13w2dp8k5y10dp75y3~x2/"><img src="/variants/s7/dp13w2dp8k5y10dp75y3~x2/sett.png" alt="East Carolina University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp13w2dp8k5ly10dp75ly3~x2/">(Corp.)</a></td><td><code>DP/26 W4 DP16 K10 LY20 DP150 LY/6</code></td><td>432</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp13w2dp8k5ly10dp75ly3~x2/"><img src="/variants/s7/dp13w2dp8k5ly10dp75ly3~x2/sett.png" alt="(Corp.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp13w2dp8k5y10dp75y3~x2/">East Carolina University</a> ★</td><td></td><td><code>DP/26 W4 DP16 K10 Y20 DP150 Y/6</code></td><td>432</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp13w2dp8k5y10dp75y3~x2/"><img src="/variants/s7/dp13w2dp8k5y10dp75y3~x2/sett.png" alt="East Carolina University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp13w2dp8k5ly10dp75ly3~x2/">(Corp.)</a></td><td>0.06</td><td><code>DP/26 W4 DP16 K10 LY20 DP150 LY/6</code></td><td>432</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp13w2dp8k5ly10dp75ly3~x2/"><img src="/variants/s7/dp13w2dp8k5ly10dp75ly3~x2/sett.png" alt="(Corp.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

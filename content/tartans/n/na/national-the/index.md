@@ -13,10 +13,10 @@ Its design is pattern [WBRKGYBKW](/stripes/wbrkgybkw/) — the page of every tar
 The **National , The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/">National , The</a></td><td><code>W/4 DB6 R12 K16 G24 LO2 DB8 K4 W/4</code></td><td>152</td><td>1934</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/"><img src="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/sett.png" alt="National , The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/">National , The</a></td><td></td><td><code>W/4 DB6 R12 K16 G24 LO2 DB8 K4 W/4</code></td><td>152</td><td>1934</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/"><img src="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/sett.png" alt="National , The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

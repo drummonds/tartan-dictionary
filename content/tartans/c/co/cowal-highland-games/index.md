@@ -15,10 +15,10 @@ Designed in 1994 for the centenary of Dunoon's Cowal Highland Gathering; muted b
 The **Cowal Highland Games** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db9dt8g1dt1g1dt1g8dg2g8dt1g1dt1g1dt8db9n1~x4/">Cowal Highland Games</a></td><td><code>DB/36 DT32 G4 DT4 G4 DT4 G32 DG8 G32 DT4 G4 DT4 G4 DT32 DB36 N/4</code></td><td>448</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db9dt8g1dt1g1dt1g8dg2g8dt1g1dt1g1dt8db9n1~x4/"><img src="/variants/s16/db9dt8g1dt1g1dt1g8dg2g8dt1g1dt1g1dt8db9n1~x4/sett.png" alt="Cowal Highland Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db9dt8g1dt1g1dt1g8dg2g8dt1g1dt1g1dt8db9n1~x4/">Cowal Highland Games</a></td><td></td><td><code>DB/36 DT32 G4 DT4 G4 DT4 G32 DG8 G32 DT4 G4 DT4 G4 DT32 DB36 N/4</code></td><td>448</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db9dt8g1dt1g1dt1g8dg2g8dt1g1dt1g1dt8db9n1~x4/"><img src="/variants/s16/db9dt8g1dt1g1dt1g8dg2g8dt1g1dt1g1dt8db9n1~x4/sett.png" alt="Cowal Highland Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,11 +13,11 @@ Its design is pattern [BGBGBRBWBGBG](/stripes/bgbgbrbwbgbg/) — the page of eve
 The **O Savanao** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/">O Savanao</a></td><td><code>Y/14 DB10 Y50 DB52 LB8 DB8 R6 DB8 G8 DB52 Y50 DB/10</code></td><td>528</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/"><img src="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/sett.png" alt="O Savanao sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/">(District)</a> · <a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2~db1106275/">O Savaaoo</a></td></tr>
+<tr><td><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/">O Savanao</a></td><td></td><td><code>Y/14 DB10 Y50 DB52 LB8 DB8 R6 DB8 G8 DB52 Y50 DB/10</code></td><td>528</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/"><img src="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/sett.png" alt="O Savanao sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/">(District)</a> · <a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2~db1106275/">O Savaaoo</a></td></tr>
 </tbody>
 </table>
 

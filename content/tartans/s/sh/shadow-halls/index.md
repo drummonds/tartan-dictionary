@@ -13,10 +13,10 @@ Its design is pattern [BBKBKBKBKBGBKBK](/stripes/bbkbkbkbkbgbkbk/) — the page 
 The **Shadow Halls** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/">Shadow Halls</a></td><td><code>K/4 DB32 K28 N32 Y4 N16 K44 T4 K4 DB4 K4 DB4 K44 DB16 T/4</code></td><td>480</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><img src="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/sett.png" alt="Shadow Halls sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/">Shadow Halls</a></td><td></td><td><code>K/4 DB32 K28 N32 Y4 N16 K44 T4 K4 DB4 K4 DB4 K44 DB16 T/4</code></td><td>480</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><img src="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/sett.png" alt="Shadow Halls sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBWWWBBBBW](/stripes/bbwwwbbbbw/) — the page of every t
 The **Saltire** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/">Saltire</a></td><td><code>DB/20 T12 LB12 W8 LB6 T12 DB40 T92 DB4 LB/4</code></td><td>396</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/"><img src="/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/sett.png" alt="Saltire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/">Saltire</a></td><td></td><td><code>DB/20 T12 LB12 W8 LB6 T12 DB40 T92 DB4 LB/4</code></td><td>396</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/"><img src="/variants/s10/db10t6lb6w4lb3t6db20t46db2lb2~x2/sett.png" alt="Saltire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

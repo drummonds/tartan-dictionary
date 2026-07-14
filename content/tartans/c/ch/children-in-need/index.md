@@ -13,10 +13,10 @@ Its design is pattern [KWKWKWKRKRKWKGKGKW](/stripes/kwkwkwkrkrkwkgkgkw/) — the
 The **Children In Need** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/">Children In Need</a></td><td><code>K/40 LB40 K8 LB40 K40 W8 K40 R40 K8 R40 K40 W8 K40 Y40 K8 Y40 K40 W/8</code></td><td>1008</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/"><img src="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/sett.png" alt="Children In Need sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/">Children In Need</a></td><td></td><td><code>K/40 LB40 K8 LB40 K40 W8 K40 R40 K8 R40 K40 W8 K40 Y40 K8 Y40 K40 W/8</code></td><td>1008</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/"><img src="/variants/s18/k5lb5k1lb5k5w1k5r5k1r5k5w1k5y5k1y5k5w1~x8/sett.png" alt="Children In Need sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGRGBWBGGBBBG](/stripes/bgrgbwbggbbbg/) — the page of e
 The **Mill o Forest Primary School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/">Mill o Forest Primary School</a></td><td><code>DB/6 DG44 R10 DG10 N10 W2 N2 DG2 G16 DB12 N2 DB10 DG/4</code></td><td>250</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/"><img src="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/sett.png" alt="Mill o Forest Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/">Mill o Forest Primary School</a></td><td></td><td><code>DB/6 DG44 R10 DG10 N10 W2 N2 DG2 G16 DB12 N2 DB10 DG/4</code></td><td>250</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/"><img src="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/sett.png" alt="Mill o Forest Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

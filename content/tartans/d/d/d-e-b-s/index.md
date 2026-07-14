@@ -13,10 +13,10 @@ Its design is pattern [KWKYKBKYKY](/stripes/kwkykbkyky/) — the page of every t
 The **D.E.B.S.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/ly15k2ly3k2t50k2ly3k2w10k4~x2/">D.E.B.S.</a></td><td><code>LY/30 K4 LY6 K4 T100 K4 LY6 K4 W20 K/8</code></td><td>334</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/ly15k2ly3k2t50k2ly3k2w10k4~x2/"><img src="/variants/s10/ly15k2ly3k2t50k2ly3k2w10k4~x2/sett.png" alt="D.E.B.S. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/ly15k2ly3k2t50k2ly3k2w10k4~x2/">D.E.B.S.</a></td><td></td><td><code>LY/30 K4 LY6 K4 T100 K4 LY6 K4 W20 K/8</code></td><td>334</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/ly15k2ly3k2t50k2ly3k2w10k4~x2/"><img src="/variants/s10/ly15k2ly3k2t50k2ly3k2w10k4~x2/sett.png" alt="D.E.B.S. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

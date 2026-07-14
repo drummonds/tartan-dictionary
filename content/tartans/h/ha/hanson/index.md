@@ -13,10 +13,10 @@ Its design is pattern [BKBKWKBKBKBKW](/stripes/bkbkwkbkbkbkw/) — the page of e
 The **Hanson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/">Hanson</a></td><td><code>DP/4 K6 DB18 K6 W4 K6 DB18 K4 DT6 K68 DT6 K4 LB/4</code></td><td>300</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/"><img src="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/sett.png" alt="Hanson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/">Hanson</a></td><td></td><td><code>DP/4 K6 DB18 K6 W4 K6 DB18 K4 DT6 K68 DT6 K4 LB/4</code></td><td>300</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/"><img src="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/sett.png" alt="Hanson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

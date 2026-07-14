@@ -18,10 +18,10 @@ Its design is pattern [RKGKGKBKWKBGKGKW](/stripes/rkgkgkbkwkbgkgkw/) — the pag
 The **Cockburn of Ormiston Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/">Cockburn of Ormiston Dress</a></td><td><code>W/62 K4 G4 K4 G4 DB16 K4 W4 K4 DB16 K4 Y4 K4 G16 K4 R/4</code></td><td>250</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/"><img src="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/sett.png" alt="Cockburn of Ormiston Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/">Cockburn of Ormiston Dress</a></td><td></td><td><code>W/62 K4 G4 K4 G4 DB16 K4 W4 K4 DB16 K4 Y4 K4 G16 K4 R/4</code></td><td>250</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/"><img src="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/sett.png" alt="Cockburn of Ormiston Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

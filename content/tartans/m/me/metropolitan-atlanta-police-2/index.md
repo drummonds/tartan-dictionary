@@ -13,10 +13,10 @@ Its design is pattern [BKKKGKGKKKKKB](/stripes/bkkkgkgkkkkkb/) — the page of e
 The **Metropolitan Atlanta Police** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2~x2~ki0700000-k0504259/">Metropolitan Atlanta Police</a></td><td><code>DR/4 Ki4 K42 Ki16 DG32 K6 DG32 Ki16 K6 Ki6 K42 Ki4 DR/4</code></td><td>420</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2~x2~ki0700000-k0504259/"><img src="/variants/s13/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2~x2~ki0700000-k0504259/sett.png" alt="Metropolitan Atlanta Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2~x2~ki0700000-k0504259/">Metropolitan Atlanta Police</a></td><td></td><td><code>DR/4 Ki4 K42 Ki16 DG32 K6 DG32 Ki16 K6 Ki6 K42 Ki4 DR/4</code></td><td>420</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2~x2~ki0700000-k0504259/"><img src="/variants/s13/dr2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2dr2~x2~ki0700000-k0504259/sett.png" alt="Metropolitan Atlanta Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

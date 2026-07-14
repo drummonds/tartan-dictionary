@@ -22,15 +22,15 @@ The **Brodie Hunting** tartan groups 2 setts — the same named design recorded 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r2k8y1k8g8db8r2~x4/">Brodie Hunting</a> ★</td><td><code>R/2 K8 Y1 K8 G8 DB8 R/2</code></td><td>70</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2k8y1k8g8db8r2~x4/"><img src="/variants/s7/r2k8y1k8g8db8r2~x4/sett.png" alt="Brodie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r2k8y1k8g8db8r2~x2/">Brodie hunting</a></td><td><code>R/4 K16 Y2 K16 G16 DB16 R/4</code></td><td>140</td><td>1891</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/r2k8y1k8g8db8r2~x4/">Brodie Hunting</a></td><td><code>R/8 K32 Y4 K32 G32 DB32 R/8</code></td><td>280</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r2k8y1k8g8db8r2~x2/">Brodie hunting</a> · <a href="/variants/s7/r2k8y1k8g8db8r2~x4/">Brodie Hunting</a></td></tr>
-<tr><td><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/">(Clan)</a></td><td><code>R/8 K32 LO4 K32 G32 LB32 R/8</code></td><td>280</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/"><img src="/variants/s7/r2k8lo1k8g8lb8r2~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2k8y1k8g8db8r2~x4/">Brodie Hunting</a> ★</td><td></td><td><code>R/2 K8 Y1 K8 G8 DB8 R/2</code></td><td>70</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2k8y1k8g8db8r2~x4/"><img src="/variants/s7/r2k8y1k8g8db8r2~x4/sett.png" alt="Brodie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r2k8y1k8g8db8r2~x2/">Brodie hunting</a></td><td>0.00</td><td><code>R/4 K16 Y2 K16 G16 DB16 R/4</code></td><td>140</td><td>1891</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/r2k8y1k8g8db8r2~x4/">Brodie Hunting</a></td><td>0.00</td><td><code>R/8 K32 Y4 K32 G32 DB32 R/8</code></td><td>280</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/r2k8y1k8g8db8r2~x2/">Brodie hunting</a> · <a href="/variants/s7/r2k8y1k8g8db8r2~x4/">Brodie Hunting</a></td></tr>
+<tr><td><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/">(Clan)</a></td><td>0.42</td><td><code>R/8 K32 LO4 K32 G32 LB32 R/8</code></td><td>280</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/"><img src="/variants/s7/r2k8lo1k8g8lb8r2~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

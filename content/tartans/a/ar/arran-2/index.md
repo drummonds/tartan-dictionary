@@ -20,10 +20,10 @@ Modern district sett introduced by MacNaughtons of Pitlochry in 1982, its decrea
 The **Arran** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/">Arran</a></td><td><code>LB/48 K4 LB4 K4 LB4 DB32 W36 N/8</code></td><td>224</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><img src="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/sett.png" alt="Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/">Arran</a></td><td></td><td><code>LB/48 K4 LB4 K4 LB4 DB32 W36 N/8</code></td><td>224</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><img src="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/sett.png" alt="Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RBWBRBWR](/stripes/rbwbrbwr/) — the page of every tarta
 The **Longniddry Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/">Longniddry Dress</a></td><td><code>R/70 DB4 W4 DB4 R8 DR20 W50 R/6</code></td><td>256</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><img src="/variants/s8/r35db2w2db2r4dr10w25r3~x2/sett.png" alt="Longniddry Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/">Longniddry Dress</a></td><td></td><td><code>R/70 DB4 W4 DB4 R8 DR20 W50 R/6</code></td><td>256</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><img src="/variants/s8/r35db2w2db2r4dr10w25r3~x2/sett.png" alt="Longniddry Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

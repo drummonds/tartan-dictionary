@@ -15,10 +15,10 @@ Corporate tartan for an Illinois Scottish charity founded 1977; designed by Judi
 The **Scottish Cultural Society** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g4k8lo1k1db4lb1db1lb2db1lb1db4k1lo1k8g4dp2~x8/">Scottish Cultural Society</a></td><td><code>G/32 K64 LO8 K8 DB32 LB8 DB8 LB16 DB8 LB8 DB32 K8 LO8 K64 G32 DP/16</code></td><td>656</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g4k8lo1k1db4lb1db1lb2db1lb1db4k1lo1k8g4dp2~x8/"><img src="/variants/s16/g4k8lo1k1db4lb1db1lb2db1lb1db4k1lo1k8g4dp2~x8/sett.png" alt="Scottish Cultural Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g4k8lo1k1db4lb1db1lb2db1lb1db4k1lo1k8g4dp2~x8/">Scottish Cultural Society</a></td><td></td><td><code>G/32 K64 LO8 K8 DB32 LB8 DB8 LB16 DB8 LB8 DB32 K8 LO8 K64 G32 DP/16</code></td><td>656</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g4k8lo1k1db4lb1db1lb2db1lb1db4k1lo1k8g4dp2~x8/"><img src="/variants/s16/g4k8lo1k1db4lb1db1lb2db1lb1db4k1lo1k8g4dp2~x8/sett.png" alt="Scottish Cultural Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

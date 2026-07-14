@@ -13,10 +13,10 @@ Its design is pattern [BGKGWRG](/stripes/bgkgwrg/) — the page of every tartan 
 The **Java St Andrew Society hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db50dg26k9dg4w2r2dg10~x2/">Java St Andrew Society hunting</a></td><td><code>DB/100 DG52 K18 DG8 W4 R4 DG/20</code></td><td>292</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db50dg26k9dg4w2r2dg10~x2/"><img src="/variants/s7/db50dg26k9dg4w2r2dg10~x2/sett.png" alt="Java St Andrew Society hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db50dg26k9dg4w2r2dg10~x2/">Java St Andrew Society hunting</a></td><td></td><td><code>DB/100 DG52 K18 DG8 W4 R4 DG/20</code></td><td>292</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db50dg26k9dg4w2r2dg10~x2/"><img src="/variants/s7/db50dg26k9dg4w2r2dg10~x2/sett.png" alt="Java St Andrew Society hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

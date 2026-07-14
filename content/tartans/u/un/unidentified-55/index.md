@@ -13,10 +13,10 @@ Its design is pattern [GRRRGRRRRRBRRRR](/stripes/grrrgrrrrrbrrrr/) — the page 
 The **Unidentified** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/g18rii6ri4r6g20r6ri4r6ri4rii6db22r8rii6ri4r5~rii1707033-ri1505012/">Unidentified</a></td><td><code>G/18 Rii6 Ri4 R6 G20 R6 Ri4 R6 Ri4 Rii6 DB22 R8 Rii6 Ri4 R/5</code></td><td>227</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/g18rii6ri4r6g20r6ri4r6ri4rii6db22r8rii6ri4r5~rii1707033-ri1505012/"><img src="/variants/s15/g18rii6ri4r6g20r6ri4r6ri4rii6db22r8rii6ri4r5~rii1707033-ri1505012/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g18rii6ri4r6g20r6ri4r6ri4rii6db22r8rii6ri4r5~rii1707033-ri1505012/">Unidentified</a></td><td></td><td><code>G/18 Rii6 Ri4 R6 G20 R6 Ri4 R6 Ri4 Rii6 DB22 R8 Rii6 Ri4 R/5</code></td><td>227</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g18rii6ri4r6g20r6ri4r6ri4rii6db22r8rii6ri4r5~rii1707033-ri1505012/"><img src="/variants/s15/g18rii6ri4r6g20r6ri4r6ri4rii6db22r8rii6ri4r5~rii1707033-ri1505012/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

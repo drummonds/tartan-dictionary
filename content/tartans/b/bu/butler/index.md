@@ -13,10 +13,10 @@ Its design is pattern [BRBRGR](/stripes/brbrgr/) — the page of every tartan sh
 The **Butler** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db48r18db6r13y4r14~x2/">Butler</a></td><td><code>DB/96 R36 DB12 R26 Y8 R/28</code></td><td>288</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db48r18db6r13y4r14~x2/"><img src="/variants/s6/db48r18db6r13y4r14~x2/sett.png" alt="Butler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db48r18db6r13y4r14~x2/">Butler</a></td><td></td><td><code>DB/96 R36 DB12 R26 Y8 R/28</code></td><td>288</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db48r18db6r13y4r14~x2/"><img src="/variants/s6/db48r18db6r13y4r14~x2/sett.png" alt="Butler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GBRBKGBGKBGW](/stripes/gbrbkgbgkbgw/) — the page of eve
 The **Waipu** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/">Waipu</a></td><td><code>G/32 DB14 R4 DB14 K10 Y4 DP2 Y4 K10 DB32 G16 W/2</code></td><td>254</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/"><img src="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/sett.png" alt="Waipu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/">Waipu</a></td><td></td><td><code>G/32 DB14 R4 DB14 K10 Y4 DP2 Y4 K10 DB32 G16 W/2</code></td><td>254</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/"><img src="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/sett.png" alt="Waipu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

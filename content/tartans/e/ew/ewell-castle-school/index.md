@@ -15,12 +15,12 @@ The **Ewell Castle School** tartan groups 2 setts — the same named design reco
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/">Ewell Castle School</a> ★</td><td><code>DT/16 R4 DT72 DB72 W4 DB/16</code></td><td>336</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><img src="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/sett.png" alt="Ewell Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db4r1db18t18w1t4~x4/">Ewell Castle School</a></td><td><code>DB/16 R4 DB72 T72 W4 T/16</code></td><td>336</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db4r1db18t18w1t4~x4/"><img src="db4r1db18t18w1t4-rev.png" alt="Ewell Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/">Ewell Castle School</a> ★</td><td></td><td><code>DT/16 R4 DT72 DB72 W4 DB/16</code></td><td>336</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><img src="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/sett.png" alt="Ewell Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db4r1db18t18w1t4~x4/">Ewell Castle School</a></td><td>0.20</td><td><code>DB/16 R4 DB72 T72 W4 T/16</code></td><td>336</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db4r1db18t18w1t4~x4/"><img src="db4r1db18t18w1t4-rev.png" alt="Ewell Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

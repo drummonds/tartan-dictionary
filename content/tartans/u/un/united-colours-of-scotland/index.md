@@ -13,10 +13,10 @@ Its design is pattern [BWBBGBG](/stripes/bwbbgbg/) — the page of every tartan 
 The **United Colours of Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/">United Colours of Scotland</a></td><td><code>DG/14 DBi6 DG14 DB44 DBi44 W6 DBi/10</code></td><td>252</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/"><img src="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/sett.png" alt="United Colours of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/">United Colours of Scotland</a></td><td></td><td><code>DG/14 DBi6 DG14 DB44 DBi44 W6 DBi/10</code></td><td>252</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/"><img src="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/sett.png" alt="United Colours of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

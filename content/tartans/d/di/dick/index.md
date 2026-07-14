@@ -13,10 +13,10 @@ Its design is pattern [KGGBKBW](/stripes/kggbkbw/) — the page of every tartan 
 The **Dick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k5g30y3t15k15t7w3~x2/">Dick</a></td><td><code>K/10 G60 Y6 T30 K30 T14 W/6</code></td><td>296</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k5g30y3t15k15t7w3~x2/"><img src="/variants/s7/k5g30y3t15k15t7w3~x2/sett.png" alt="Dick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k5g30y3t15k15t7w3~x2/">Dick</a></td><td></td><td><code>K/10 G60 Y6 T30 K30 T14 W/6</code></td><td>296</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k5g30y3t15k15t7w3~x2/"><img src="/variants/s7/k5g30y3t15k15t7w3~x2/sett.png" alt="Dick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

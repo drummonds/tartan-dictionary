@@ -17,13 +17,13 @@ The **MacLachlan VS** tartan is one sett, recorded at 2 scales — the same prop
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k6y2k21y2k6y24k2y6/">MacLachlan VS</a></td><td><code>K/6 Y2 K21 Y2 K6 Y24 K2 Y/6</code></td><td>126</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k6y2k21y2k6y24k2y6/"><img src="/variants/s8/k6y2k21y2k6y24k2y6/sett.png" alt="MacLachlan VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/k6y2k21y2k6y24k2y6/">MacLachlan VS</a></td><td><code>K/6 Y2 K21 Y2 K6 Y24 K2 Y/6</code></td><td>126</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/k6y2k21y2k6y24k2y6~x2/">MacLachlan 4</a></td><td><code>K/12 Y4 K42 Y4 K12 Y48 K4 Y/12</code></td><td>252</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/k6y2k21y2k6y24k2y6/">MacLachlan VS</a> · <a href="/variants/s8/k6y2k21y2k6y24k2y6~x2/">MacLachlan 4</a></td></tr>
+<tr><td><a href="/variants/s8/k6y2k21y2k6y24k2y6/">MacLachlan VS</a></td><td></td><td><code>K/6 Y2 K21 Y2 K6 Y24 K2 Y/6</code></td><td>126</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k6y2k21y2k6y24k2y6/"><img src="/variants/s8/k6y2k21y2k6y24k2y6/sett.png" alt="MacLachlan VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/k6y2k21y2k6y24k2y6/">MacLachlan VS</a></td><td>0.00</td><td><code>K/6 Y2 K21 Y2 K6 Y24 K2 Y/6</code></td><td>126</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/k6y2k21y2k6y24k2y6~x2/">MacLachlan 4</a></td><td>0.00</td><td><code>K/12 Y4 K42 Y4 K12 Y48 K4 Y/12</code></td><td>252</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/k6y2k21y2k6y24k2y6/">MacLachlan VS</a> · <a href="/variants/s8/k6y2k21y2k6y24k2y6~x2/">MacLachlan 4</a></td></tr>
 </tbody>
 </table>
 

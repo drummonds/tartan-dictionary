@@ -13,10 +13,10 @@ Its design is pattern [BBWBGGGRGB](/stripes/bbwbgggrgb/) — the page of every t
 The **Connecticut, State of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/">Connecticut, State of</a></td><td><code>T/80 N8 W4 N20 G32 Y4 G8 R4 G32 N/32</code></td><td>336</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/"><img src="/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/sett.png" alt="Connecticut, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/">Connecticut, State of</a></td><td></td><td><code>T/80 N8 W4 N20 G32 Y4 G8 R4 G32 N/32</code></td><td>336</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/"><img src="/variants/s10/t20n2w1n5g8y1g2r1g8n8~x4/sett.png" alt="Connecticut, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

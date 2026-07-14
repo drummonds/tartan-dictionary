@@ -13,10 +13,10 @@ Its design is pattern [BBBBKBGBG](/stripes/bbbbkbgbg/) — the page of every tar
 The **Ithilien Commemorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg20dr2g3db12k20dr2n3db4n3~x2~dg1302138/">Ithilien Commemorative</a></td><td><code>DG/40 DR4 G6 DB24 K40 DR4 N6 DB8 N/6</code></td><td>230</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg20dr2g3db12k20dr2n3db4n3~x2~dg1302138/"><img src="/variants/s9/dg20dr2g3db12k20dr2n3db4n3~x2~dg1302138/sett.png" alt="Ithilien Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg20dr2g3db12k20dr2n3db4n3~x2~dg1302138/">Ithilien Commemorative</a></td><td></td><td><code>DG/40 DR4 G6 DB24 K40 DR4 N6 DB8 N/6</code></td><td>230</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg20dr2g3db12k20dr2n3db4n3~x2~dg1302138/"><img src="/variants/s9/dg20dr2g3db12k20dr2n3db4n3~x2~dg1302138/sett.png" alt="Ithilien Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

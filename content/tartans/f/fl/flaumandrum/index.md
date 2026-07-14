@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBKGKBKBKR](/stripes/bkbkbkbkgkbkbkr/) — the page 
 The **Flaumandrum** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/">Flaumandrum</a></td><td><code>N/24 K4 N4 K4 N4 K24 DR24 K2 DY4 K2 DR24 K24 N24 K2 R/4</code></td><td>320</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/"><img src="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/sett.png" alt="Flaumandrum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/">Flaumandrum</a></td><td></td><td><code>N/24 K4 N4 K4 N4 K24 DR24 K2 DY4 K2 DR24 K24 N24 K2 R/4</code></td><td>320</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/"><img src="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/sett.png" alt="Flaumandrum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BBBKGGGKBBBW](/stripes/bbbkgggkbbbw/) — the page of eve
 The **East Lothian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/">East Lothian</a></td><td><code>DB/34 DP8 DB4 K22 G66 Y8 G66 K22 DB4 DP8 DB34 LB/12</code></td><td>530</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><img src="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/sett.png" alt="East Lothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/">East Lothian</a></td><td></td><td><code>DB/34 DP8 DB4 K22 G66 Y8 G66 K22 DB4 DP8 DB34 LB/12</code></td><td>530</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><img src="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/sett.png" alt="East Lothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

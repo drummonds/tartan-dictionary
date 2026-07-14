@@ -17,12 +17,12 @@ The **Kruenaegel and Schropp** tartan groups 2 setts — the same named design r
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/">Kruenaegel and Schropp</a> ★</td><td><code>DB/80 DR4 W12 DT4 W8 DT32 G12 W/4</code></td><td>228</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><img src="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/sett.png" alt="Kruenaegel and Schropp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/t20dr1w3db1w2db8g3w1~x4/">(Name)</a></td><td><code>T/80 DR4 W12 DB4 W8 DB32 G12 W/4</code></td><td>228</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/t20dr1w3db1w2db8g3w1~x4/"><img src="/variants/s8/t20dr1w3db1w2db8g3w1~x4/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/">Kruenaegel and Schropp</a> ★</td><td></td><td><code>DB/80 DR4 W12 DT4 W8 DT32 G12 W/4</code></td><td>228</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><img src="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/sett.png" alt="Kruenaegel and Schropp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/t20dr1w3db1w2db8g3w1~x4/">(Name)</a></td><td>0.16</td><td><code>T/80 DR4 W12 DB4 W8 DB32 G12 W/4</code></td><td>228</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/t20dr1w3db1w2db8g3w1~x4/"><img src="/variants/s8/t20dr1w3db1w2db8g3w1~x4/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBBYBYBY](/stripes/bbbybyby/) — the page of every tarta
 The **Heil, Rudiger** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/">Heil, Rudiger</a></td><td><code>LY/12 N4 LY4 N4 LY36 N26 DB26 N/4</code></td><td>216</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><img src="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/sett.png" alt="Heil, Rudiger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/">Heil, Rudiger</a></td><td></td><td><code>LY/12 N4 LY4 N4 LY36 N26 DB26 N/4</code></td><td>216</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><img src="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/sett.png" alt="Heil, Rudiger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BRBKBGGWKWGRKBW](/stripes/brbkbggwkwgrkbw/) — the page 
 The **Unidentified 4** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db14r15b4k18b4g20y4w2k4w2y4r8k6db1w6~x2/">Unidentified 4</a></td><td><code>DB/28 R30 B8 K36 B8 G40 Y8 W4 K8 W4 Y8 R16 K12 DB2 W/12</code></td><td>408</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db14r15b4k18b4g20y4w2k4w2y4r8k6db1w6~x2/"><img src="/variants/s15/db14r15b4k18b4g20y4w2k4w2y4r8k6db1w6~x2/sett.png" alt="Unidentified 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db14r15b4k18b4g20y4w2k4w2y4r8k6db1w6~x2/">Unidentified 4</a></td><td></td><td><code>DB/28 R30 B8 K36 B8 G40 Y8 W4 K8 W4 Y8 R16 K12 DB2 W/12</code></td><td>408</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db14r15b4k18b4g20y4w2k4w2y4r8k6db1w6~x2/"><img src="/variants/s15/db14r15b4k18b4g20y4w2k4w2y4r8k6db1w6~x2/sett.png" alt="Unidentified 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RKRKGYGKRKRKR](/stripes/rkrkgygkrkrkr/) — the page of e
 The **Red Watch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/">Red Watch</a></td><td><code>R/52 K4 R6 K4 R6 K32 G36 LY8 G36 K32 R36 K4 R/6</code></td><td>466</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><img src="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/sett.png" alt="Red Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/">Red Watch</a></td><td></td><td><code>R/52 K4 R6 K4 R6 K32 G36 LY8 G36 K32 R36 K4 R/6</code></td><td>466</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><img src="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/sett.png" alt="Red Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

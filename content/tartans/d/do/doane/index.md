@@ -13,10 +13,10 @@ Its design is pattern [BBBBBGBGBBBR](/stripes/bbbbbgbgbbbr/) — the page of eve
 The **Doane** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/o3dt1dp3dr8dg4dr3dg17dp11db6dp4db21dt1~x2/">Doane</a></td><td><code>O/6 DT2 DP6 DR16 DG8 DR6 DG34 DP22 DB12 DP8 DB42 DT/2</code></td><td>320</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/o3dt1dp3dr8dg4dr3dg17dp11db6dp4db21dt1~x2/"><img src="/variants/s12/o3dt1dp3dr8dg4dr3dg17dp11db6dp4db21dt1~x2/sett.png" alt="Doane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/o3dt1dp3dr8dg4dr3dg17dp11db6dp4db21dt1~x2/">Doane</a></td><td></td><td><code>O/6 DT2 DP6 DR16 DG8 DR6 DG34 DP22 DB12 DP8 DB42 DT/2</code></td><td>320</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/o3dt1dp3dr8dg4dr3dg17dp11db6dp4db21dt1~x2/"><img src="/variants/s12/o3dt1dp3dr8dg4dr3dg17dp11db6dp4db21dt1~x2/sett.png" alt="Doane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

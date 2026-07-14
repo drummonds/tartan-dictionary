@@ -13,10 +13,10 @@ Its design is pattern [GBGBGBRBRG](/stripes/gbgbgbrbrg/) — the page of every t
 The **McGlynn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/">McGlynn</a></td><td><code>G/36 DB6 G6 DB6 G4 DB16 R46 DB4 R8 G/4</code></td><td>232</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/"><img src="/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/sett.png" alt="McGlynn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/">McGlynn</a></td><td></td><td><code>G/36 DB6 G6 DB6 G4 DB16 R46 DB4 R8 G/4</code></td><td>232</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/"><img src="/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/sett.png" alt="McGlynn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

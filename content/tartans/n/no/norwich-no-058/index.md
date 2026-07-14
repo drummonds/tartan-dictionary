@@ -13,10 +13,10 @@ Its design is pattern [GKRGRGRGBYGKWR](/stripes/gkrgrgrgbygkwr/) — the page of
 The **Norwich No.058** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r12w1k1g12ly1db5y6r2y2r4g2r2k2g2~x2~r2109032-db1406275/">Norwich No.058</a></td><td><code>R/24 W2 K2 G24 LY2 DB10 Y12 R4 Y4 R8 G4 R4 K4 G/4</code></td><td>188</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r12w1k1g12ly1db5y6r2y2r4g2r2k2g2~x2~r2109032-db1406275/"><img src="/variants/s14/r12w1k1g12ly1db5y6r2y2r4g2r2k2g2~x2~r2109032-db1406275/sett.png" alt="Norwich No.058 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r12w1k1g12ly1db5y6r2y2r4g2r2k2g2~x2~r2109032-db1406275/">Norwich No.058</a></td><td></td><td><code>R/24 W2 K2 G24 LY2 DB10 Y12 R4 Y4 R8 G4 R4 K4 G/4</code></td><td>188</td><td>1870</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r12w1k1g12ly1db5y6r2y2r4g2r2k2g2~x2~r2109032-db1406275/"><img src="/variants/s14/r12w1k1g12ly1db5y6r2y2r4g2r2k2g2~x2~r2109032-db1406275/sett.png" alt="Norwich No.058 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

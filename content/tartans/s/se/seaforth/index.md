@@ -14,13 +14,13 @@ The **Seaforth** tartan is one sett, recorded at 2 scales — the same proportio
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x12/">Seaforth</a></td><td><code>DR/1 LY1 K1 LY1 Y1 LY1 K1 LY1 Y/1</code></td><td>16</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x12/"><img src="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x12/sett.png" alt="Seaforth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x6/">Estate Check Estate Check Weavers Tartan</a></td><td><code>DR/6 LY6 K6 LY6 Y6 LY6 K6 LY6 Y/6</code></td><td>96</td><td>~1990</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×12 — <a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x12/">Estate Check</a></td><td><code>DR/12 LY12 K12 LY12 Y12 LY12 K12 LY12 Y/12</code></td><td>192</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x12/">Estate Check</a> · <a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x6/">Estate Check Estate Check Weavers Tartan</a></td></tr>
+<tr><td><a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x12/">Seaforth</a></td><td></td><td><code>DR/1 LY1 K1 LY1 Y1 LY1 K1 LY1 Y/1</code></td><td>16</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x12/"><img src="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x12/sett.png" alt="Seaforth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x6/">Estate Check Estate Check Weavers Tartan</a></td><td>0.00</td><td><code>DR/6 LY6 K6 LY6 Y6 LY6 K6 LY6 Y/6</code></td><td>96</td><td>~1990</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×12 — <a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x12/">Estate Check</a></td><td>0.00</td><td><code>DR/12 LY12 K12 LY12 Y12 LY12 K12 LY12 Y/12</code></td><td>192</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x12/">Estate Check</a> · <a href="/variants/s9/dr1ly1k1ly1y1ly1k1ly1y1~x6/">Estate Check Estate Check Weavers Tartan</a></td></tr>
 </tbody>
 </table>
 

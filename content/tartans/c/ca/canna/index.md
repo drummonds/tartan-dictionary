@@ -18,10 +18,10 @@ Its design is pattern [WBYBWBRRBRW](/stripes/wbybwbrrbrw/) — the page of every
 The **Canna** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/">Canna</a></td><td><code>W/128 DR36 LY4 DR8 W4 DR8 R28 O16 DR4 O8 W/4</code></td><td>364</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/"><img src="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/sett.png" alt="Canna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/">Canna</a></td><td></td><td><code>W/128 DR36 LY4 DR8 W4 DR8 R28 O16 DR4 O8 W/4</code></td><td>364</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/"><img src="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/sett.png" alt="Canna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

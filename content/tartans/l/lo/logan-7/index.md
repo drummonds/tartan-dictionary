@@ -20,12 +20,12 @@ The **Logan** tartan groups 2 setts — the same named design recorded as differ
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db9r3y1r3g9r3y1~x2/">Logan</a> ★</td><td><code>DB/18 R6 Y2 R6 G18 R6 Y/2</code></td><td>96</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><img src="/variants/s7/db9r3y1r3g9r3y1~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/">1819 (with yellow)</a></td><td><code>DP/32 R12 Y4 R12 DG56 R12 Y/4</code></td><td>228</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/"><img src="/variants/s7/dp8r3y1r3dg14r3y1~x4/sett.png" alt="1819 (with yellow) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db9r3y1r3g9r3y1~x2/">Logan</a> ★</td><td></td><td><code>DB/18 R6 Y2 R6 G18 R6 Y/2</code></td><td>96</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><img src="/variants/s7/db9r3y1r3g9r3y1~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/">1819 (with yellow)</a></td><td>1.57</td><td><code>DP/32 R12 Y4 R12 DG56 R12 Y/4</code></td><td>228</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/"><img src="/variants/s7/dp8r3y1r3dg14r3y1~x4/sett.png" alt="1819 (with yellow) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

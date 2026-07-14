@@ -20,10 +20,10 @@ Based on the MacFarlane, designed by Keith Lumsden of the Scottish Tartans Socie
 The **Knox** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/">Knox</a></td><td><code>DG/110 LY40 W4 LY6 K4 LY6 W4 LY6 DB36 K4 LY8 Y4 LY/6</code></td><td>360</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><img src="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/sett.png" alt="Knox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/">Knox</a></td><td></td><td><code>DG/110 LY40 W4 LY6 K4 LY6 W4 LY6 DB36 K4 LY8 Y4 LY/6</code></td><td>360</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><img src="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/sett.png" alt="Knox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGRGKGKBWB](/stripes/bgrgkgkbwb/) — the page of every t
 The **Big Rory** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/">Big Rory</a></td><td><code>DB/10 W5 DB48 K35 G5 K5 G35 R5 G5 DP/5</code></td><td>301</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/"><img src="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/sett.png" alt="Big Rory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/">Big Rory</a></td><td></td><td><code>DB/10 W5 DB48 K35 G5 K5 G35 R5 G5 DP/5</code></td><td>301</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/"><img src="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/sett.png" alt="Big Rory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

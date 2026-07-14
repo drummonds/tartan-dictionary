@@ -13,10 +13,10 @@ Its design is pattern [RWKWWGY](/stripes/rwkwwgy/) — the page of every tartan 
 The **Ch. Supt. Everett and Mrs Julene Sum** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r9w27k7w45lb60dg4lo5/">Ch. Supt. Everett and Mrs Julene Sum</a></td><td><code>R/9 W27 K7 W45 LB60 DG4 LO/5</code></td><td>300</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r9w27k7w45lb60dg4lo5/"><img src="/variants/s7/r9w27k7w45lb60dg4lo5/sett.png" alt="Ch. Supt. Everett and Mrs Julene Sum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r9w27k7w45lb60dg4lo5/">Ch. Supt. Everett and Mrs Julene Sum</a></td><td></td><td><code>R/9 W27 K7 W45 LB60 DG4 LO/5</code></td><td>300</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r9w27k7w45lb60dg4lo5/"><img src="/variants/s7/r9w27k7w45lb60dg4lo5/sett.png" alt="Ch. Supt. Everett and Mrs Julene Sum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

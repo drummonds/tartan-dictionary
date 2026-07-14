@@ -18,10 +18,10 @@ Its design is pattern [BWBWBW](/stripes/bwbwbw/) — the page of every tartan sh
 The **Harmony 13** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/">Harmony 13</a></td><td><code>LB/20 N2 LB2 N20 LB36 N/10</code></td><td>150</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><img src="/variants/s6/lb10n1lb1n10lb18n5~x2/sett.png" alt="Harmony 13 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/">Harmony 13</a></td><td></td><td><code>LB/20 N2 LB2 N20 LB36 N/10</code></td><td>150</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><img src="/variants/s6/lb10n1lb1n10lb18n5~x2/sett.png" alt="Harmony 13 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

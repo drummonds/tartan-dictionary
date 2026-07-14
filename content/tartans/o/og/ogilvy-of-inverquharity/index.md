@@ -18,10 +18,10 @@ Its design is pattern [GKGYKRWRKYGWGYKRWRKYGKGYWRWRKWBWKYGYGYGRKRBWRKRBYGWGYKRWR
 The **Ogilvy of Inverquharity** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s75/dg7k4dg14ly4k2r8w2r8k2ly2dg8w2dg8ly2k2r8w2r8k2ly2dg14k4dg14ly2w2r8w1r8k12w1db4w1k12ly4dg6ly2dg6ly4dg2r4k2r14db2w1r14k2r4dp2ly2dg8w2dg8ly2k2r8w2r8k2ly4dg8ly4k2r2k2r2k2r2ly2dg6ly2dp4ly2k2w1r4~x2/">Ogilvy of Inverquharity</a></td><td><code>DG/14 K8 DG28 LY8 K4 R16 W4 R16 K4 LY4 DG16 W4 DG16 LY4 K4 R16 W4 R16 K4 LY4 DG28 K8 DG28 LY4 W4 R16 W2 R16 K24 W2 DB8 W2 K24 LY8 DG12 LY4 DG12 LY8 DG4 R8 K4 R28 DB4 W2 R28 K4 R8 DP4 LY4 DG16 W4 DG16 LY4 K4 R16 W4 R16 K4 LY8 DG16 LY8 K4 R4 K4 R4 K4 R4 LY4 DG12 LY4 DP8 LY4 K4 W2 R/8</code></td><td>1354</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s75/dg7k4dg14ly4k2r8w2r8k2ly2dg8w2dg8ly2k2r8w2r8k2ly2dg14k4dg14ly2w2r8w1r8k12w1db4w1k12ly4dg6ly2dg6ly4dg2r4k2r14db2w1r14k2r4dp2ly2dg8w2dg8ly2k2r8w2r8k2ly4dg8ly4k2r2k2r2k2r2ly2dg6ly2dp4ly2k2w1r4~x2/"><img src="/variants/s75/dg7k4dg14ly4k2r8w2r8k2ly2dg8w2dg8ly2k2r8w2r8k2ly2dg14k4dg14ly2w2r8w1r8k12w1db4w1k12ly4dg6ly2dg6ly4dg2r4k2r14db2w1r14k2r4dp2ly2dg8w2dg8ly2k2r8w2r8k2ly4dg8ly4k2r2k2r2k2r2ly2dg6ly2dp4ly2k2w1r4~x2/sett.png" alt="Ogilvy of Inverquharity sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s75/dg7k4dg14ly4k2r8w2r8k2ly2dg8w2dg8ly2k2r8w2r8k2ly2dg14k4dg14ly2w2r8w1r8k12w1db4w1k12ly4dg6ly2dg6ly4dg2r4k2r14db2w1r14k2r4dp2ly2dg8w2dg8ly2k2r8w2r8k2ly4dg8ly4k2r2k2r2k2r2ly2dg6ly2dp4ly2k2w1r4~x2/">Ogilvy of Inverquharity</a></td><td></td><td><code>DG/14 K8 DG28 LY8 K4 R16 W4 R16 K4 LY4 DG16 W4 DG16 LY4 K4 R16 W4 R16 K4 LY4 DG28 K8 DG28 LY4 W4 R16 W2 R16 K24 W2 DB8 W2 K24 LY8 DG12 LY4 DG12 LY8 DG4 R8 K4 R28 DB4 W2 R28 K4 R8 DP4 LY4 DG16 W4 DG16 LY4 K4 R16 W4 R16 K4 LY8 DG16 LY8 K4 R4 K4 R4 K4 R4 LY4 DG12 LY4 DP8 LY4 K4 W2 R/8</code></td><td>1354</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s75/dg7k4dg14ly4k2r8w2r8k2ly2dg8w2dg8ly2k2r8w2r8k2ly2dg14k4dg14ly2w2r8w1r8k12w1db4w1k12ly4dg6ly2dg6ly4dg2r4k2r14db2w1r14k2r4dp2ly2dg8w2dg8ly2k2r8w2r8k2ly4dg8ly4k2r2k2r2k2r2ly2dg6ly2dp4ly2k2w1r4~x2/"><img src="/variants/s75/dg7k4dg14ly4k2r8w2r8k2ly2dg8w2dg8ly2k2r8w2r8k2ly2dg14k4dg14ly2w2r8w1r8k12w1db4w1k12ly4dg6ly2dg6ly4dg2r4k2r14db2w1r14k2r4dp2ly2dg8w2dg8ly2k2r8w2r8k2ly4dg8ly4k2r2k2r2k2r2ly2dg6ly2dp4ly2k2w1r4~x2/sett.png" alt="Ogilvy of Inverquharity sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

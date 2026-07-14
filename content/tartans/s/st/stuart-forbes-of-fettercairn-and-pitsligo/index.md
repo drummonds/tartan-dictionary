@@ -13,10 +13,10 @@ Its design is pattern [BKBKGKWKGKBKB](/stripes/bkbkgkwkgkbkb/) — the page of e
 The **Stuart-Forbes of Fettercairn and Pitsligo** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/">Stuart-Forbes of Fettercairn and Pitsligo</a></td><td><code>DB/8 K8 DB48 K48 DG48 K8 W8 K8 DG48 K48 DB48 K8 DB/8</code></td><td>672</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/"><img src="/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/sett.png" alt="Stuart-Forbes of Fettercairn and Pitsligo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/">Stuart-Forbes of Fettercairn and Pitsligo</a></td><td></td><td><code>DB/8 K8 DB48 K48 DG48 K8 W8 K8 DG48 K48 DB48 K8 DB/8</code></td><td>672</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/"><img src="/variants/s13/db1k1db6k6dg6k1w1k1dg6k6db6k1db1~x8/sett.png" alt="Stuart-Forbes of Fettercairn and Pitsligo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

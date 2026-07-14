@@ -18,10 +18,10 @@ Its design is pattern [BBBGBWBWBBRB](/stripes/bbbgbwbwbbrb/) — the page of eve
 The **MacDonald of Glencoe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4~x2~dt1003246-db1406275/">MacDonald of Glencoe</a></td><td><code>DP/12 R4 DP4 DT4 W62 DT24 LB4 DP52 G6 DP8 DB4 DP/8</code></td><td>364</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4~x2~dt1003246-db1406275/"><img src="/variants/s12/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4~x2~dt1003246-db1406275/sett.png" alt="MacDonald of Glencoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4~x2~dt1003246-db1406275/">MacDonald of Glencoe</a></td><td></td><td><code>DP/12 R4 DP4 DT4 W62 DT24 LB4 DP52 G6 DP8 DB4 DP/8</code></td><td>364</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4~x2~dt1003246-db1406275/"><img src="/variants/s12/dp6r2dp2dt2w31dt12lb2dp26g3dp4db2dp4~x2~dt1003246-db1406275/sett.png" alt="MacDonald of Glencoe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

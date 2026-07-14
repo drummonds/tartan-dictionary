@@ -14,13 +14,13 @@ The **Robin Hood** tartan is one sett, recorded at 2 scales — the same proport
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s2/k1dg1~x100/">Robin Hood</a></td><td><code>K/1 DG/1</code></td><td>2</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s2/k1dg1~x100/"><img src="/variants/s2/k1dg1~x100/sett.png" alt="Robin Hood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/k1dg1~x100/">/Wilson no.224/Rob Roy Hunting</a></td><td><code>K/100 DG/100</code></td><td>200</td><td>1819</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×168 — <a href="/variants/s2/k1dg1~x168/">MacKillen Hunting</a></td><td><code>K/168 DG/168</code></td><td>336</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s2/k1dg1~x100/">/Wilson no.224/Rob Roy Hunting</a> · <a href="/variants/s2/k1dg1~x168/">MacKillen Hunting</a></td></tr>
+<tr><td><a href="/variants/s2/k1dg1~x100/">Robin Hood</a></td><td></td><td><code>K/1 DG/1</code></td><td>2</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s2/k1dg1~x100/"><img src="/variants/s2/k1dg1~x100/sett.png" alt="Robin Hood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/k1dg1~x100/">/Wilson no.224/Rob Roy Hunting</a></td><td>0.00</td><td><code>K/100 DG/100</code></td><td>200</td><td>1819</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×168 — <a href="/variants/s2/k1dg1~x168/">MacKillen Hunting</a></td><td>0.00</td><td><code>K/168 DG/168</code></td><td>336</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s2/k1dg1~x100/">/Wilson no.224/Rob Roy Hunting</a> · <a href="/variants/s2/k1dg1~x168/">MacKillen Hunting</a></td></tr>
 </tbody>
 </table>
 

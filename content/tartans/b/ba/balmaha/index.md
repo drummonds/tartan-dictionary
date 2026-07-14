@@ -13,10 +13,10 @@ Its design is pattern [BWGKGKBKBKGGGG](/stripes/bwgkgkbkbkgggg/) — the page of
 The **Balmaha** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/">Balmaha</a></td><td><code>DY/6 Y6 DY24 Y2 K2 DB24 K2 DB24 K2 G24 K2 DY24 LB6 DB/4</code></td><td>294</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/"><img src="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/sett.png" alt="Balmaha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/">Balmaha</a></td><td></td><td><code>DY/6 Y6 DY24 Y2 K2 DB24 K2 DB24 K2 G24 K2 DY24 LB6 DB/4</code></td><td>294</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/"><img src="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/sett.png" alt="Balmaha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

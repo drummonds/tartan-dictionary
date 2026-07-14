@@ -19,13 +19,13 @@ The **Hepburn** tartan is one sett, recorded at 2 scales — the same proportion
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/">Hepburn</a></td><td><code>R/21 DB4 K5 Y2 K2 Y2 K2 R7 G4 R2 DB3 Y/2</code></td><td>89</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><img src="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/sett.png" alt="Hepburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/">Hepburn</a></td><td><code>R/42 DB8 K10 Y4 K4 Y4 K4 R14 G8 R4 DB6 Y/4</code></td><td>178</td><td>1968</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/">(Clan)</a></td><td><code>R/84 DB16 K20 Y8 K8 Y8 K8 R28 G16 R8 DB12 Y/8</code></td><td>356</td><td>1960</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/">Hepburn</a> · <a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/">(Clan)</a></td></tr>
+<tr><td><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/">Hepburn</a></td><td></td><td><code>R/21 DB4 K5 Y2 K2 Y2 K2 R7 G4 R2 DB3 Y/2</code></td><td>89</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><img src="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/sett.png" alt="Hepburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/">Hepburn</a></td><td>0.00</td><td><code>R/42 DB8 K10 Y4 K4 Y4 K4 R14 G8 R4 DB6 Y/4</code></td><td>178</td><td>1968</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/">(Clan)</a></td><td>0.00</td><td><code>R/84 DB16 K20 Y8 K8 Y8 K8 R28 G16 R8 DB12 Y/8</code></td><td>356</td><td>1960</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/">Hepburn</a> · <a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/">(Clan)</a></td></tr>
 </tbody>
 </table>
 

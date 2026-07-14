@@ -16,14 +16,14 @@ The **Tyneside Scottish** tartan groups 3 setts — the same named design record
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/t8dy1t1dy1t1dy8g8dy1g8dy8t8dy1t1~x6/">Tyneside Scottish</a> ★</td><td><code>T/48 DY6 T6 DY6 T6 DY48 G48 DY6 G48 DY48 T48 DY6 T/6</code></td><td>606</td><td>1914</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/t8dy1t1dy1t1dy8g8dy1g8dy8t8dy1t1~x6/"><img src="/variants/s13/t8dy1t1dy1t1dy8g8dy1g8dy8t8dy1t1~x6/sett.png" alt="Tyneside Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/">(Blue) (District)</a></td><td><code>DB/48 DY6 DB6 DY6 DB6 DY48 G48 DY6 G48 DY48 DB48 DY6 DB/6</code></td><td>606</td><td>~1914</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/"><img src="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/sett.png" alt="(Blue) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/">Purple (Mil/Distr)</a></td><td><code>DP/48 DY6 DP6 DY6 DP6 DY48 G48 DY6 G48 DY48 DP48 DY6 DP/6</code></td><td>606</td><td>~1917</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/"><img src="/variants/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/sett.png" alt="Purple (Mil/Distr) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/t8dy1t1dy1t1dy8g8dy1g8dy8t8dy1t1~x6/">Tyneside Scottish</a> ★</td><td></td><td><code>T/48 DY6 T6 DY6 T6 DY48 G48 DY6 G48 DY48 T48 DY6 T/6</code></td><td>606</td><td>1914</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/t8dy1t1dy1t1dy8g8dy1g8dy8t8dy1t1~x6/"><img src="/variants/s13/t8dy1t1dy1t1dy8g8dy1g8dy8t8dy1t1~x6/sett.png" alt="Tyneside Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/">(Blue) (District)</a></td><td>0.16</td><td><code>DB/48 DY6 DB6 DY6 DB6 DY48 G48 DY6 G48 DY48 DB48 DY6 DB/6</code></td><td>606</td><td>~1914</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/"><img src="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/sett.png" alt="(Blue) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/">Purple (Mil/Distr)</a></td><td>3.23</td><td><code>DP/48 DY6 DP6 DY6 DP6 DY48 G48 DY6 G48 DY48 DP48 DY6 DP/6</code></td><td>606</td><td>~1917</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/"><img src="/variants/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/sett.png" alt="Purple (Mil/Distr) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

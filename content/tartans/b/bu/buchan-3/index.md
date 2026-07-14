@@ -19,13 +19,13 @@ The **Buchan** tartan is one sett, recorded at 2 scales — the same proportion 
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/">Buchan</a></td><td><code>K/2 DB2 R2 K24 R2 G6 R6 DB2 K6 R2 G27 R2 K/2</code></td><td>166</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/"><img src="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/sett.png" alt="Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/">Buchan</a></td><td><code>K/2 DB2 R2 K24 R2 G6 R6 DB2 K6 R2 G27 R2 K/2</code></td><td>166</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/">(d)</a></td><td><code>K/4 DB4 R4 K48 R4 G12 R12 DB4 K12 R4 G54 R4 K/4</code></td><td>332</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/">Buchan</a> · <a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/">(d)</a></td></tr>
+<tr><td><a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/">Buchan</a></td><td></td><td><code>K/2 DB2 R2 K24 R2 G6 R6 DB2 K6 R2 G27 R2 K/2</code></td><td>166</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/"><img src="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/sett.png" alt="Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/">Buchan</a></td><td>0.00</td><td><code>K/2 DB2 R2 K24 R2 G6 R6 DB2 K6 R2 G27 R2 K/2</code></td><td>166</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/">(d)</a></td><td>0.00</td><td><code>K/4 DB4 R4 K48 R4 G12 R12 DB4 K12 R4 G54 R4 K/4</code></td><td>332</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/">Buchan</a> · <a href="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/">(d)</a></td></tr>
 </tbody>
 </table>
 

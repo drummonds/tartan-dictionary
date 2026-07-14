@@ -20,12 +20,12 @@ The **Gordonstoun** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2~x2~g1903114-t2503227-lb3103284-gi2203152/">Gordonstoun</a> ★</td><td><code>Y/10 G38 DR4 T22 LB4 DR22 G22 DR4 Gi40 DR4 Gi4 LB/4</code></td><td>342</td><td>1957</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2~x2~g1903114-t2503227-lb3103284-gi2203152/"><img src="/variants/s12/y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2~x2~g1903114-t2503227-lb3103284-gi2203152/sett.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/">Gordonstoun</a></td><td><code>Y/6 G30 R4 DB16 LB4 R16 G16 R4 DG30 R4 DG4 LB/4</code></td><td>266</td><td>1966</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/"><img src="y3g15r2db8lb2r8g8r2dg15r2dg2lb2-rev.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2~x2~g1903114-t2503227-lb3103284-gi2203152/">Gordonstoun</a> ★</td><td></td><td><code>Y/10 G38 DR4 T22 LB4 DR22 G22 DR4 Gi40 DR4 Gi4 LB/4</code></td><td>342</td><td>1957</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2~x2~g1903114-t2503227-lb3103284-gi2203152/"><img src="/variants/s12/y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2~x2~g1903114-t2503227-lb3103284-gi2203152/sett.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/">Gordonstoun</a></td><td>5.03</td><td><code>Y/6 G30 R4 DB16 LB4 R16 G16 R4 DG30 R4 DG4 LB/4</code></td><td>266</td><td>1966</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/"><img src="y3g15r2db8lb2r8g8r2dg15r2dg2lb2-rev.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

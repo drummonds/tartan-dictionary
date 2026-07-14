@@ -16,10 +16,10 @@ Its design is pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/) — the page of e
 The **Highland Park HS Pipe Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/y22w1y2w2db2w1db14w1db2w2db2w1db14~x4/">Highland Park HS Pipe Band</a></td><td><code>Y/88 W4 Y8 W8 DB8 W4 DB56 W4 DB8 W8 DB8 W4 DB/56</code></td><td>384</td><td>1940</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y22w1y2w2db2w1db14w1db2w2db2w1db14~x4/"><img src="/variants/s13/y22w1y2w2db2w1db14w1db2w2db2w1db14~x4/sett.png" alt="Highland Park HS Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y22w1y2w2db2w1db14w1db2w2db2w1db14~x4/">Highland Park HS Pipe Band</a></td><td></td><td><code>Y/88 W4 Y8 W8 DB8 W4 DB56 W4 DB8 W8 DB8 W4 DB/56</code></td><td>384</td><td>1940</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y22w1y2w2db2w1db14w1db2w2db2w1db14~x4/"><img src="/variants/s13/y22w1y2w2db2w1db14w1db2w2db2w1db14~x4/sett.png" alt="Highland Park HS Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

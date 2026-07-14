@@ -18,10 +18,10 @@ Its design is pattern [YGGGY](/stripes/ygggy/) — the page of every tartan shar
 The **Pearson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/ly3g14dy1g14ly3~x4/">Pearson</a></td><td><code>LY/12 G56 DY4 G56 LY/12</code></td><td>256</td><td>1951</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/ly3g14dy1g14ly3~x4/"><img src="/variants/s5/ly3g14dy1g14ly3~x4/sett.png" alt="Pearson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/ly3g14dy1g14ly3~x4/">Pearson</a></td><td></td><td><code>LY/12 G56 DY4 G56 LY/12</code></td><td>256</td><td>1951</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/ly3g14dy1g14ly3~x4/"><img src="/variants/s5/ly3g14dy1g14ly3~x4/sett.png" alt="Pearson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

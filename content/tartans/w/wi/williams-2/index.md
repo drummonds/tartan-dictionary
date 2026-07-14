@@ -20,10 +20,10 @@ Welsh surname tartan for Williams and variants, woven at Cambrian Woollen Mill w
 The **Williams** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k30db6k6db41lb2~x2/">Williams</a></td><td><code>K/60 DB12 K12 DB82 LB/4</code></td><td>276</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k30db6k6db41lb2~x2/"><img src="/variants/s5/k30db6k6db41lb2~x2/sett.png" alt="Williams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k30db6k6db41lb2~x2/">Williams</a></td><td></td><td><code>K/60 DB12 K12 DB82 LB/4</code></td><td>276</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k30db6k6db41lb2~x2/"><img src="/variants/s5/k30db6k6db41lb2~x2/sett.png" alt="Williams sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [WBWBWKBKBKGWGWGKWBWBW](/stripes/wbwbwkbkbkgwgwgkwbwbw/) �
 The **Graham Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/">Graham Dress</a></td><td><code>W/4 DB4 W60 DB5 W5 K30 DB27 K5 DB30 K27 G4 LB5 G66 LB5 G4 K30 W5 DB5 W57 DB4 W/4</code></td><td>764</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/"><img src="/variants/s21/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/sett.png" alt="Graham Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/">Graham Dress</a></td><td></td><td><code>W/4 DB4 W60 DB5 W5 K30 DB27 K5 DB30 K27 G4 LB5 G66 LB5 G4 K30 W5 DB5 W57 DB4 W/4</code></td><td>764</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/"><img src="/variants/s21/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/sett.png" alt="Graham Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

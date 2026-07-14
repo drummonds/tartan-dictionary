@@ -22,15 +22,15 @@ The **Davidson** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/">Davidson</a> ★</td><td><code>R/1 K6 G1 K1 G8 K1 G8 DB1 G1 DB6 R/1</code></td><td>68</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><img src="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/sett.png" alt="Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/">Davidson</a></td><td><code>R/2 K12 G2 K2 G16 K2 G16 DB2 G2 DB12 R/2</code></td><td>136</td><td>1842</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/">1842 (Clan)</a></td><td><code>R/4 K24 G4 K4 G32 K4 G32 DB4 G4 DB24 R/4</code></td><td>272</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/">Davidson</a> · <a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/">1842 (Clan)</a></td></tr>
-<tr><td><a href="/variants/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/">Davidson</a></td><td><code>R/4 K24 G4 K4 G24 K4 G24 DB4 G4 DB24 R/4</code></td><td>240</td><td>1893</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/"><img src="/variants/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/sett.png" alt="Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/">Davidson</a> ★</td><td></td><td><code>R/1 K6 G1 K1 G8 K1 G8 DB1 G1 DB6 R/1</code></td><td>68</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><img src="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/sett.png" alt="Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/">Davidson</a></td><td>0.00</td><td><code>R/2 K12 G2 K2 G16 K2 G16 DB2 G2 DB12 R/2</code></td><td>136</td><td>1842</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/">1842 (Clan)</a></td><td>0.00</td><td><code>R/4 K24 G4 K4 G32 K4 G32 DB4 G4 DB24 R/4</code></td><td>272</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/">Davidson</a> · <a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/">1842 (Clan)</a></td></tr>
+<tr><td><a href="/variants/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/">Davidson</a></td><td>0.28</td><td><code>R/4 K24 G4 K4 G24 K4 G24 DB4 G4 DB24 R/4</code></td><td>240</td><td>1893</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/"><img src="/variants/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/sett.png" alt="Davidson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

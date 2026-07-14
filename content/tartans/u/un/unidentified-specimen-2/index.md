@@ -13,10 +13,10 @@ Its design is pattern [BGBRBGBRBG](/stripes/bgbrbgbrbg/) — the page of every t
 The **Unidentified Specimen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/">Unidentified Specimen</a></td><td><code>DB/2 G8 DB2 R2 DB2 Y2 DB10 R12 DB2 Y/2</code></td><td>84</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/"><img src="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/sett.png" alt="Unidentified Specimen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/">Unidentified Specimen</a></td><td></td><td><code>DB/2 G8 DB2 R2 DB2 Y2 DB10 R12 DB2 Y/2</code></td><td>84</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/"><img src="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/sett.png" alt="Unidentified Specimen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

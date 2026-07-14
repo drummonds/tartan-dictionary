@@ -13,10 +13,10 @@ Its design is pattern [RKGKGKGRKRKBKGKGKBKGKWKBKRKRGKGKGKR](/stripes/rkgkgkgrkrk
 The **Unidentified Plaid 14** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s35/r8k31g8k8g56k3y3r3k3r3k12db36k3y8k3g44k2db6k2g44k3w8k3db36k12r3k3r3y3k3g56k8g8k31r8~x2/">Unidentified Plaid 14</a></td><td><code>R/16 K62 G16 K16 G112 K6 Y6 R6 K6 R6 K24 DB72 K6 Y16 K6 G88 K4 DB12 K4 G88 K6 W16 K6 DB72 K24 R6 K6 R6 Y6 K6 G112 K16 G16 K62 R/16</code></td><td>1864</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s35/r8k31g8k8g56k3y3r3k3r3k12db36k3y8k3g44k2db6k2g44k3w8k3db36k12r3k3r3y3k3g56k8g8k31r8~x2/"><img src="/variants/s35/r8k31g8k8g56k3y3r3k3r3k12db36k3y8k3g44k2db6k2g44k3w8k3db36k12r3k3r3y3k3g56k8g8k31r8~x2/sett.png" alt="Unidentified Plaid 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s35/r8k31g8k8g56k3y3r3k3r3k12db36k3y8k3g44k2db6k2g44k3w8k3db36k12r3k3r3y3k3g56k8g8k31r8~x2/">Unidentified Plaid 14</a></td><td></td><td><code>R/16 K62 G16 K16 G112 K6 Y6 R6 K6 R6 K24 DB72 K6 Y16 K6 G88 K4 DB12 K4 G88 K6 W16 K6 DB72 K24 R6 K6 R6 Y6 K6 G112 K16 G16 K62 R/16</code></td><td>1864</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s35/r8k31g8k8g56k3y3r3k3r3k12db36k3y8k3g44k2db6k2g44k3w8k3db36k12r3k3r3y3k3g56k8g8k31r8~x2/"><img src="/variants/s35/r8k31g8k8g56k3y3r3k3r3k12db36k3y8k3g44k2db6k2g44k3w8k3db36k12r3k3r3y3k3g56k8g8k31r8~x2/sett.png" alt="Unidentified Plaid 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

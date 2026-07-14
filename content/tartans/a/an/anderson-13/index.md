@@ -18,11 +18,11 @@ Its design is pattern [RGRGRBRKGKGKWKYRKRYR](/stripes/rgrgrbrkgkgkwkyrkryr/) —
 The **Anderson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/">Anderson</a></td><td><code>R/8 G12 R4 G12 R6 DB8 R4 K8 DY4 K4 DY4 K6 W6 K6 LG36 R4 K4 R4 LG12 R/6</code></td><td>302</td><td>1900</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/"><img src="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/">(Clan)</a> · <a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2~db1406275/">Anderson</a></td></tr>
+<tr><td><a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/">Anderson</a></td><td></td><td><code>R/8 G12 R4 G12 R6 DB8 R4 K8 DY4 K4 DY4 K6 W6 K6 LG36 R4 K4 R4 LG12 R/6</code></td><td>302</td><td>1900</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/"><img src="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/">(Clan)</a> · <a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2~db1406275/">Anderson</a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GGGGWRGGR](/stripes/ggggwrggr/) — the page of every tar
 The **MacDonald of Kingsburgh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/">MacDonald of Kingsburgh</a></td><td><code>R/6 G6 Y2 R36 W2 G42 Y2 G2 Y/6</code></td><td>196</td><td>1746</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/"><img src="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/sett.png" alt="MacDonald of Kingsburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/">MacDonald of Kingsburgh</a></td><td></td><td><code>R/6 G6 Y2 R36 W2 G42 Y2 G2 Y/6</code></td><td>196</td><td>1746</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/"><img src="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/sett.png" alt="MacDonald of Kingsburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

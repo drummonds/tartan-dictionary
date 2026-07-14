@@ -13,10 +13,10 @@ Its design is pattern [BBKBBBWKBWBBWBBY](/stripes/bbkbbbwkbwbbwbby/) — the pag
 The **Midnight Sunrise** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2~x2/">Midnight Sunrise</a></td><td><code>LO/6 DB2 DP2 LB16 DP2 DB12 LB6 DB8 K16 LB2 DB8 DP2 DB4 K8 DB32 DP/4</code></td><td>250</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2~x2/"><img src="/variants/s16/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2~x2/sett.png" alt="Midnight Sunrise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2~x2/">Midnight Sunrise</a></td><td></td><td><code>LO/6 DB2 DP2 LB16 DP2 DB12 LB6 DB8 K16 LB2 DB8 DP2 DB4 K8 DB32 DP/4</code></td><td>250</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2~x2/"><img src="/variants/s16/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2~x2/sett.png" alt="Midnight Sunrise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

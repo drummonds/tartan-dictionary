@@ -13,10 +13,10 @@ Its design is pattern [BKGGGG](/stripes/bkgggg/) — the page of every tartan sh
 The **U.S. Army** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/">U.S. Army</a></td><td><code>DB/12 K34 Y8 DG102 DY6 G/8</code></td><td>320</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/"><img src="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/sett.png" alt="U.S. Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/">U.S. Army</a></td><td></td><td><code>DB/12 K34 Y8 DG102 DY6 G/8</code></td><td>320</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/"><img src="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/sett.png" alt="U.S. Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,11 +13,11 @@ Its design is pattern [GWBWBWBW](/stripes/gwbwbwbw/) — the page of every tarta
 The **Unidentified No 52** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/">Unidentified No 52</a></td><td><code>G/38 W2 DB24 LB4 DB4 LB4 DB4 LB/32</code></td><td>154</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><img src="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/sett.png" alt="Unidentified No 52 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/">Unidentified No 52</a> · <a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/">Norwich No.052</a></td></tr>
+<tr><td><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/">Unidentified No 52</a></td><td></td><td><code>G/38 W2 DB24 LB4 DB4 LB4 DB4 LB/32</code></td><td>154</td><td>1870</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><img src="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/sett.png" alt="Unidentified No 52 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/">Unidentified No 52</a> · <a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/">Norwich No.052</a></td></tr>
 </tbody>
 </table>
 

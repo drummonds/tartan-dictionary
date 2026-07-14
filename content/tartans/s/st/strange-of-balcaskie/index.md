@@ -18,10 +18,10 @@ Its design is pattern [GRGRBGR](/stripes/grgrbgr/) — the page of every tartan 
 The **Strange Of Balcaskie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g32o7g7o16db32y3o8~x2/">Strange Of Balcaskie</a></td><td><code>G/64 O14 G14 O32 DB64 Y6 O/16</code></td><td>340</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g32o7g7o16db32y3o8~x2/"><img src="/variants/s7/g32o7g7o16db32y3o8~x2/sett.png" alt="Strange Of Balcaskie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g32o7g7o16db32y3o8~x2/">Strange Of Balcaskie</a></td><td></td><td><code>G/64 O14 G14 O32 DB64 Y6 O/16</code></td><td>340</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g32o7g7o16db32y3o8~x2/"><img src="/variants/s7/g32o7g7o16db32y3o8~x2/sett.png" alt="Strange Of Balcaskie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

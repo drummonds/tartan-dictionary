@@ -13,10 +13,10 @@ Its design is pattern [BWKWKBWKBWKBWKBWK](/stripes/bwkwkbwkbwkbwkbwk/) — the p
 The **Purdy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/">Purdy</a></td><td><code>K/40 W2 DP4 K8 W2 DP6 K8 W2 DP8 K8 W2 DP10 K6 W2 K108 W2 DP/12</code></td><td>408</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/"><img src="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/sett.png" alt="Purdy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/">Purdy</a></td><td></td><td><code>K/40 W2 DP4 K8 W2 DP6 K8 W2 DP8 K8 W2 DP10 K6 W2 K108 W2 DP/12</code></td><td>408</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/"><img src="/variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/sett.png" alt="Purdy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KBWGBGKWRGK](/stripes/kbwgbgkwrgk/) — the page of every
 The **Colours of Hope** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/">Colours of Hope</a></td><td><code>K/6 DB56 W4 Y4 DB2 G8 K16 W6 R8 Y20 K/4</code></td><td>258</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/"><img src="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/sett.png" alt="Colours of Hope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/">Colours of Hope</a></td><td></td><td><code>K/6 DB56 W4 Y4 DB2 G8 K16 W6 R8 Y20 K/4</code></td><td>258</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/"><img src="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/sett.png" alt="Colours of Hope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

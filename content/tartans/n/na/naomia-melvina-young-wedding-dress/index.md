@@ -13,10 +13,10 @@ Its design is pattern [KBKRKBKBKBWK](/stripes/kbkrkbkbkbwk/) — the page of eve
 The **Naomia Melvina Young Wedding Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/">Naomia Melvina Young Wedding Dress</a></td><td><code>K/8 W2 DB52 K10 DB10 K64 B46 K4 R8 K4 B26 K/4</code></td><td>464</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/"><img src="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/sett.png" alt="Naomia Melvina Young Wedding Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/">Naomia Melvina Young Wedding Dress</a></td><td></td><td><code>K/8 W2 DB52 K10 DB10 K64 B46 K4 R8 K4 B26 K/4</code></td><td>464</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/"><img src="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/sett.png" alt="Naomia Melvina Young Wedding Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

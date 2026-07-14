@@ -16,10 +16,10 @@ Its design is pattern [KBKR](/stripes/kbkr/) — the page of every tartan sharin
 The **Wellington Variation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/k3db23k17r2~x2/">Wellington Variation</a></td><td><code>K/6 DB46 K34 R/4</code></td><td>170</td><td>~1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k3db23k17r2~x2/"><img src="/variants/s4/k3db23k17r2~x2/sett.png" alt="Wellington Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k3db23k17r2~x2/">Wellington Variation</a></td><td></td><td><code>K/6 DB46 K34 R/4</code></td><td>170</td><td>~1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/k3db23k17r2~x2/"><img src="/variants/s4/k3db23k17r2~x2/sett.png" alt="Wellington Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

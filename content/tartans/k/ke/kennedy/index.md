@@ -18,10 +18,10 @@ Its design is pattern [GGBKBKBGRGRGGGR](/stripes/ggbkbkbgrgrgggr/) — the page 
 The **Kennedy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/">Kennedy</a></td><td><code>Y/8 G77 DB18 K7 DB9 K6 DB18 G64 R4 G5 R4 G9 Y4 G5 R/6</code></td><td>474</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/"><img src="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/sett.png" alt="Kennedy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/">Kennedy</a></td><td></td><td><code>Y/8 G77 DB18 K7 DB9 K6 DB18 G64 R4 G5 R4 G9 Y4 G5 R/6</code></td><td>474</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/"><img src="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/sett.png" alt="Kennedy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

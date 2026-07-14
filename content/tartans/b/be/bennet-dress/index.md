@@ -18,10 +18,10 @@ Its design is pattern [YBKBBBYBWBY](/stripes/ybkbbbybwby/) — the page of every
 The **Bennet Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/">Bennet Dress</a></td><td><code>LR/128 DB36 LB4 DB6 LR4 DB6 T28 B16 K4 B8 LR/4</code></td><td>356</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/"><img src="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/sett.png" alt="Bennet Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/">Bennet Dress</a></td><td></td><td><code>LR/128 DB36 LB4 DB6 LR4 DB6 T28 B16 K4 B8 LR/4</code></td><td>356</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/"><img src="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/sett.png" alt="Bennet Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

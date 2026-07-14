@@ -13,10 +13,10 @@ Its design is pattern [GGGGGGGGGGRGYG](/stripes/ggggggggggrgyg/) — the page of
 The **New South Wales** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi1806142-g2203152/">New South Wales</a></td><td><code>DGi/12 LO4 DGi12 R4 DGi56 DG8 DGi12 DG4 DGi12 G4 DGi8 G4 DGi8 G/8</code></td><td>292</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi1806142-g2203152/"><img src="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi1806142-g2203152/sett.png" alt="New South Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi1806142-g2203152/">New South Wales</a></td><td></td><td><code>DGi/12 LO4 DGi12 R4 DGi56 DG8 DGi12 DG4 DGi12 G4 DGi8 G4 DGi8 G/8</code></td><td>292</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi1806142-g2203152/"><img src="/variants/s14/dgi3lo1dgi3r1dgi14dg2dgi3dg1dgi3g1dgi2g1dgi2g2~x4~dgi1806142-g2203152/sett.png" alt="New South Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

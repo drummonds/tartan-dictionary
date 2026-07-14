@@ -15,10 +15,10 @@ Corporate dress tartan for the Canmore Highland Games, organised by the Three Si
 The **Canmore Highland Games Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3y2~x2/">Canmore Highland Games Dress</a></td><td><code>W/104 DB4 K14 W6 K4 DP4 K2 DB18 G16 K4 G6 Y/4</code></td><td>264</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3y2~x2/"><img src="/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3y2~x2/sett.png" alt="Canmore Highland Games Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3y2~x2/">Canmore Highland Games Dress</a></td><td></td><td><code>W/104 DB4 K14 W6 K4 DP4 K2 DB18 G16 K4 G6 Y/4</code></td><td>264</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3y2~x2/"><img src="/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3y2~x2/sett.png" alt="Canmore Highland Games Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

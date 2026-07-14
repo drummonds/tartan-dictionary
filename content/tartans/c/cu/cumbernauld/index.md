@@ -18,10 +18,10 @@ Its design is pattern [KKKKKKGKWKGKKKR](/stripes/kkkkkkgkwkgkkkr/) — the page 
 The **Cumbernauld** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3~x2~ki0604259/">Cumbernauld</a></td><td><code>Ki/34 K6 Ki6 K6 Ki6 K34 G34 K4 W6 K4 G34 K34 Ki34 K6 R/6</code></td><td>468</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3~x2~ki0604259/"><img src="/variants/s15/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3~x2~ki0604259/sett.png" alt="Cumbernauld sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3~x2~ki0604259/">Cumbernauld</a></td><td></td><td><code>Ki/34 K6 Ki6 K6 Ki6 K34 G34 K4 W6 K4 G34 K34 Ki34 K6 R/6</code></td><td>468</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3~x2~ki0604259/"><img src="/variants/s15/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3~x2~ki0604259/sett.png" alt="Cumbernauld sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RGRKRYR](/stripes/rgrkryr/) — the page of every tartan 
 The **Kirk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/">Kirk</a></td><td><code>R/8 G42 R8 K14 R68 LO6 R/8</code></td><td>292</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><img src="/variants/s7/r4g21r4k7r34lo3r4~x2/sett.png" alt="Kirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/">Kirk</a></td><td></td><td><code>R/8 G42 R8 K14 R68 LO6 R/8</code></td><td>292</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><img src="/variants/s7/r4g21r4k7r34lo3r4~x2/sett.png" alt="Kirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

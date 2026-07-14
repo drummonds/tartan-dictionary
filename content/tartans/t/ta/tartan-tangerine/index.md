@@ -13,10 +13,10 @@ Its design is pattern [RWBWRKW](/stripes/rwbwrkw/) — the page of every tartan 
 The **Tartan Tangerine** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r1w1dp4w1r4k1w1~x8/">Tartan Tangerine</a></td><td><code>R/8 W8 DP32 W8 R32 K8 W/8</code></td><td>192</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r1w1dp4w1r4k1w1~x8/"><img src="/variants/s7/r1w1dp4w1r4k1w1~x8/sett.png" alt="Tartan Tangerine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r1w1dp4w1r4k1w1~x8/">Tartan Tangerine</a></td><td></td><td><code>R/8 W8 DP32 W8 R32 K8 W/8</code></td><td>192</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r1w1dp4w1r4k1w1~x8/"><img src="/variants/s7/r1w1dp4w1r4k1w1~x8/sett.png" alt="Tartan Tangerine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

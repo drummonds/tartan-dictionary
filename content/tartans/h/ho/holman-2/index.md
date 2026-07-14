@@ -18,10 +18,10 @@ Its design is pattern [BGKGKB](/stripes/bgkgkb/) — the page of every tartan sh
 The **Holman** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dr3k9g20k16g7t3~x2/">Holman</a></td><td><code>DR/6 K18 G40 K32 G14 T/6</code></td><td>220</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr3k9g20k16g7t3~x2/"><img src="/variants/s6/dr3k9g20k16g7t3~x2/sett.png" alt="Holman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr3k9g20k16g7t3~x2/">Holman</a></td><td></td><td><code>DR/6 K18 G40 K32 G14 T/6</code></td><td>220</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dr3k9g20k16g7t3~x2/"><img src="/variants/s6/dr3k9g20k16g7t3~x2/sett.png" alt="Holman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

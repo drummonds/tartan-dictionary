@@ -16,10 +16,10 @@ Its design is pattern [BGKGKGBG](/stripes/bgkgkgbg/) — the page of every tarta
 The **Livingstone Aus. Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db24dg4k2y1k2dg4dr25dg15~x2/">Livingstone Aus. Dress</a></td><td><code>DB/48 DG8 K4 Y2 K4 DG8 DR50 DG/30</code></td><td>230</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db24dg4k2y1k2dg4dr25dg15~x2/"><img src="/variants/s8/db24dg4k2y1k2dg4dr25dg15~x2/sett.png" alt="Livingstone Aus. Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db24dg4k2y1k2dg4dr25dg15~x2/">Livingstone Aus. Dress</a></td><td></td><td><code>DB/48 DG8 K4 Y2 K4 DG8 DR50 DG/30</code></td><td>230</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db24dg4k2y1k2dg4dr25dg15~x2/"><img src="/variants/s8/db24dg4k2y1k2dg4dr25dg15~x2/sett.png" alt="Livingstone Aus. Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

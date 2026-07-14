@@ -18,10 +18,10 @@ Its design is pattern [BKGBRBKRKB](/stripes/bkgbrbkrkb/) — the page of every t
 The **Mead Modern Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dbi36k3r6k3db10r5db3y4k1dbi2~x2~dbi1307278-db1105267/">Mead Modern Dress</a></td><td><code>DBi/72 K6 R12 K6 DB20 R10 DB6 Y8 K2 DBi/4</code></td><td>216</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dbi36k3r6k3db10r5db3y4k1dbi2~x2~dbi1307278-db1105267/"><img src="/variants/s10/dbi36k3r6k3db10r5db3y4k1dbi2~x2~dbi1307278-db1105267/sett.png" alt="Mead Modern Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dbi36k3r6k3db10r5db3y4k1dbi2~x2~dbi1307278-db1105267/">Mead Modern Dress</a></td><td></td><td><code>DBi/72 K6 R12 K6 DB20 R10 DB6 Y8 K2 DBi/4</code></td><td>216</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dbi36k3r6k3db10r5db3y4k1dbi2~x2~dbi1307278-db1105267/"><img src="/variants/s10/dbi36k3r6k3db10r5db3y4k1dbi2~x2~dbi1307278-db1105267/sett.png" alt="Mead Modern Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

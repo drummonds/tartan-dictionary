@@ -16,10 +16,10 @@ Its design is pattern [BBYBYBBBBBBYBBBBBBYBYB](/stripes/bbybybbbbbbybbbbbbybyb/)
 The **Thomas Blake Glover** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1db2dr16db4dr6db8dr16ly6dr16ly6dr16db4~x2/">Thomas Blake Glover</a></td><td><code>DR/32 LY12 DR32 LY12 DR32 DB16 DR12 DB8 DR32 DB4 LY2 DB4 DR32 DB8 DR12 DB16 DR32 LY12 DR32 LY12 DR32 DB/8</code></td><td>748</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1db2dr16db4dr6db8dr16ly6dr16ly6dr16db4~x2/"><img src="/variants/s22/dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1db2dr16db4dr6db8dr16ly6dr16ly6dr16db4~x2/sett.png" alt="Thomas Blake Glover sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1db2dr16db4dr6db8dr16ly6dr16ly6dr16db4~x2/">Thomas Blake Glover</a></td><td></td><td><code>DR/32 LY12 DR32 LY12 DR32 DB16 DR12 DB8 DR32 DB4 LY2 DB4 DR32 DB8 DR12 DB16 DR32 LY12 DR32 LY12 DR32 DB/8</code></td><td>748</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1db2dr16db4dr6db8dr16ly6dr16ly6dr16db4~x2/"><img src="/variants/s22/dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1db2dr16db4dr6db8dr16ly6dr16ly6dr16db4~x2/sett.png" alt="Thomas Blake Glover sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

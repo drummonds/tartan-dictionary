@@ -18,10 +18,10 @@ Its design is pattern [RBWBWKGRKR](/stripes/rbwbwkgrkr/) — the page of every t
 The **MacDuff Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/">MacDuff Dress</a></td><td><code>R/10 K2 R10 G18 K14 W6 DB6 W30 DB2 R/4</code></td><td>190</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><img src="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/sett.png" alt="MacDuff Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/">MacDuff Dress</a></td><td></td><td><code>R/10 K2 R10 G18 K14 W6 DB6 W30 DB2 R/4</code></td><td>190</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><img src="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/sett.png" alt="MacDuff Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

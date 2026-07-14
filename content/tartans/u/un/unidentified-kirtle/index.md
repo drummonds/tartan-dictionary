@@ -13,10 +13,10 @@ Its design is pattern [KRKRK](/stripes/krkrk/) — the page of every tartan shar
 The **Unidentified Kirtle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k55r18k4r18k38/">Unidentified Kirtle</a></td><td><code>K/55 R18 K4 R18 K/38</code></td><td>173</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k55r18k4r18k38/"><img src="/variants/s5/k55r18k4r18k38/sett.png" alt="Unidentified Kirtle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k55r18k4r18k38/">Unidentified Kirtle</a></td><td></td><td><code>K/55 R18 K4 R18 K/38</code></td><td>173</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k55r18k4r18k38/"><img src="/variants/s5/k55r18k4r18k38/sett.png" alt="Unidentified Kirtle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

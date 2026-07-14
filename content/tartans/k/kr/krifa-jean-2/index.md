@@ -13,10 +13,10 @@ Its design is pattern [GRBYBBR](/stripes/grbybbr/) — the page of every tartan 
 The **Krifa-Jean** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg4r5db4ly4do2n4r4~x5~r2109032/">Krifa-Jean</a></td><td><code>DG/20 R25 DB20 LY20 DO10 N20 R/20</code></td><td>230</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg4r5db4ly4do2n4r4~x5~r2109032/"><img src="/variants/s7/dg4r5db4ly4do2n4r4~x5~r2109032/sett.png" alt="Krifa-Jean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg4r5db4ly4do2n4r4~x5~r2109032/">Krifa-Jean</a></td><td></td><td><code>DG/20 R25 DB20 LY20 DO10 N20 R/20</code></td><td>230</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg4r5db4ly4do2n4r4~x5~r2109032/"><img src="/variants/s7/dg4r5db4ly4do2n4r4~x5~r2109032/sett.png" alt="Krifa-Jean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

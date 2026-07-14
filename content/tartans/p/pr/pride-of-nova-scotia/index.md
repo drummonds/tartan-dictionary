@@ -13,10 +13,10 @@ Its design is pattern [KYKBKBW](/stripes/kykbkbw/) — the page of every tartan 
 The **Pride of Nova Scotia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/">Pride of Nova Scotia</a></td><td><code>K/6 LY4 K72 DB32 K10 DB4 W/6</code></td><td>256</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><img src="/variants/s7/k3ly2k36db16k5db2w3~x2/sett.png" alt="Pride of Nova Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/">Pride of Nova Scotia</a></td><td></td><td><code>K/6 LY4 K72 DB32 K10 DB4 W/6</code></td><td>256</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><img src="/variants/s7/k3ly2k36db16k5db2w3~x2/sett.png" alt="Pride of Nova Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

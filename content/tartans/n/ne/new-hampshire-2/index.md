@@ -13,10 +13,10 @@ Its design is pattern [GKGKWKBKBRBRBKBKWKGKG](/stripes/gkgkwkbkbrbrbkbkwkgkg/) â
 The **New Hampshire** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/">New Hampshire</a></td><td><code>G/40 K2 G2 K12 W2 K12 DP2 K2 DP8 R6 DP28 R6 DP8 K2 DP2 K12 W2 K12 G2 K2 G/16</code></td><td>304</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/"><img src="/variants/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/sett.png" alt="New Hampshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/">New Hampshire</a></td><td></td><td><code>G/40 K2 G2 K12 W2 K12 DP2 K2 DP8 R6 DP28 R6 DP8 K2 DP2 K12 W2 K12 G2 K2 G/16</code></td><td>304</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/"><img src="/variants/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/sett.png" alt="New Hampshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

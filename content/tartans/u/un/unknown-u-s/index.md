@@ -13,10 +13,10 @@ Its design is pattern [KGKRYKYRKGKRKY](/stripes/kgkrykyrkgkrky/) — the page of
 The **Unknown U.S.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3~x2~y2400000-ly3307090/">Unknown U.S.</a></td><td><code>K/20 Y6 K56 R56 LY2 K6 LY2 R20 K2 Y6 K2 R56 K56 LY/6</code></td><td>566</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3~x2~y2400000-ly3307090/"><img src="/variants/s14/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3~x2~y2400000-ly3307090/sett.png" alt="Unknown U.S. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3~x2~y2400000-ly3307090/">Unknown U.S.</a></td><td></td><td><code>K/20 Y6 K56 R56 LY2 K6 LY2 R20 K2 Y6 K2 R56 K56 LY/6</code></td><td>566</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3~x2~y2400000-ly3307090/"><img src="/variants/s14/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3~x2~y2400000-ly3307090/sett.png" alt="Unknown U.S. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

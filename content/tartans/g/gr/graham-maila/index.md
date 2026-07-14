@@ -13,10 +13,10 @@ Its design is pattern [BKRGWGKGWGKGK](/stripes/bkrgwgkgwgkgk/) — the page of e
 The **Graham-Maila** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/">Graham-Maila</a></td><td><code>DB/10 K6 R8 G18 W4 G18 K18 G18 W4 G18 K18 Y14 K/6</code></td><td>304</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/"><img src="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/sett.png" alt="Graham-Maila sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/">Graham-Maila</a></td><td></td><td><code>DB/10 K6 R8 G18 W4 G18 K18 G18 W4 G18 K18 Y14 K/6</code></td><td>304</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/"><img src="/variants/s13/db5k3r4g9w2g9k9g9w2g9k9y7k3~x2/sett.png" alt="Graham-Maila sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

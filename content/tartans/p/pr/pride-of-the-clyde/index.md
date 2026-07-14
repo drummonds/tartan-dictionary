@@ -13,10 +13,10 @@ Its design is pattern [BWBBBBBW](/stripes/bwbbbbbw/) — the page of every tarta
 The **Pride of the Clyde** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/">Pride of the Clyde</a></td><td><code>DBi/8 W4 DB6 DBi2 DB6 N10 DB63 W/3</code></td><td>193</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/"><img src="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/sett.png" alt="Pride of the Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/">Pride of the Clyde</a></td><td></td><td><code>DBi/8 W4 DB6 DBi2 DB6 N10 DB63 W/3</code></td><td>193</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/"><img src="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/sett.png" alt="Pride of the Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

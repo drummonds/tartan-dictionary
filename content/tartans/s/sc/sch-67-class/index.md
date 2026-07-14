@@ -13,10 +13,10 @@ Its design is pattern [BRBWKG](/stripes/brbwkg/) — the page of every tartan sh
 The **SCH '67 Class** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db3r2n15w10k2y3~x2/">SCH '67 Class</a></td><td><code>DB/6 R4 N30 W20 K4 Y/6</code></td><td>128</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db3r2n15w10k2y3~x2/"><img src="/variants/s6/db3r2n15w10k2y3~x2/sett.png" alt="SCH '67 Class sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db3r2n15w10k2y3~x2/">SCH '67 Class</a></td><td></td><td><code>DB/6 R4 N30 W20 K4 Y/6</code></td><td>128</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db3r2n15w10k2y3~x2/"><img src="/variants/s6/db3r2n15w10k2y3~x2/sett.png" alt="SCH '67 Class sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

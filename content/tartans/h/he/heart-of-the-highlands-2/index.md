@@ -13,10 +13,10 @@ Its design is pattern [RKBKRWRKR](/stripes/rkbkrwrkr/) — the page of every tar
 The **Heart of the Highlands** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/">Heart of the Highlands</a></td><td><code>O/36 K6 O8 LB6 O8 K36 N40 K4 R/8</code></td><td>260</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><img src="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/sett.png" alt="Heart of the Highlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/">Heart of the Highlands</a></td><td></td><td><code>O/36 K6 O8 LB6 O8 K36 N40 K4 R/8</code></td><td>260</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><img src="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/sett.png" alt="Heart of the Highlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

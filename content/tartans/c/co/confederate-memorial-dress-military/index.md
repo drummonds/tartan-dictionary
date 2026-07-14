@@ -13,10 +13,10 @@ Its design is pattern [WBWRWBWBWYWRWW](/stripes/wbwrwbwbwywrww/) — the page of
 The **Confederate Memorial Dress (Military** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/">Confederate Memorial Dress (Military</a></td><td><code>LB/36 W8 R12 W8 LO8 W72 N8 W8 N8 W72 R24 W2 DB8 W/6</code></td><td>518</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/"><img src="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/sett.png" alt="Confederate Memorial Dress (Military sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/">Confederate Memorial Dress (Military</a></td><td></td><td><code>LB/36 W8 R12 W8 LO8 W72 N8 W8 N8 W72 R24 W2 DB8 W/6</code></td><td>518</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/"><img src="/variants/s14/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3~x2/sett.png" alt="Confederate Memorial Dress (Military sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

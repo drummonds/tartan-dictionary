@@ -13,10 +13,10 @@ Its design is pattern [KRGKGKWKRBW](/stripes/krgkgkwkrbw/) — the page of every
 The **Kilmorie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/">Kilmorie</a></td><td><code>K/6 R60 G20 K6 Y4 K6 W4 K12 R4 DB24 W/4</code></td><td>290</td><td>1882</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><img src="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/sett.png" alt="Kilmorie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/">Kilmorie</a></td><td></td><td><code>K/6 R60 G20 K6 Y4 K6 W4 K12 R4 DB24 W/4</code></td><td>290</td><td>1882</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><img src="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/sett.png" alt="Kilmorie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

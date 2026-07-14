@@ -20,10 +20,10 @@ Named for General Billy Mitchell as the US Air Force pipe band tartan; sett also
 The **Mitchell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/">Mitchell</a></td><td><code>DB/34 DR4 K32 G34 K4 G34 K32 DR4 DB34 LR/4</code></td><td>394</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/"><img src="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/sett.png" alt="Mitchell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/">Mitchell</a></td><td></td><td><code>DB/34 DR4 K32 G34 K4 G34 K32 DR4 DB34 LR/4</code></td><td>394</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/"><img src="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/sett.png" alt="Mitchell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

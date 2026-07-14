@@ -17,12 +17,12 @@ The **Duchess of Albany** tartan groups 2 setts — the same named design record
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/">Duchess of Albany</a> ★</td><td><code>R/4 DB48 K32 G6 K4 G4 K4 G24 K4 G4 K4 G6 DB16 G4 DB16 G6 K4 G4 K4 G24 K4 G4 K4 G6 K32 DB44 LO/4</code></td><td>632</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/"><img src="/variants/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/sett.png" alt="Duchess of Albany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/">Duchess of Albany</a></td><td><code>R/4 DB28 K16 G4 K2 G4 K2 G8 K2 G4 K2 G4 DB8 G4 DB8 G4 K2 G4 K2 G8 K2 G4 K2 G4 K16 DB28 Y/4</code></td><td>352</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/"><img src="/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/sett.png" alt="Duchess of Albany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/">Duchess of Albany</a> ★</td><td></td><td><code>R/4 DB48 K32 G6 K4 G4 K4 G24 K4 G4 K4 G6 DB16 G4 DB16 G6 K4 G4 K4 G24 K4 G4 K4 G6 K32 DB44 LO/4</code></td><td>632</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/"><img src="/variants/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/sett.png" alt="Duchess of Albany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/">Duchess of Albany</a></td><td>0.59</td><td><code>R/4 DB28 K16 G4 K2 G4 K2 G8 K2 G4 K2 G4 DB8 G4 DB8 G4 K2 G4 K2 G8 K2 G4 K2 G4 K16 DB28 Y/4</code></td><td>352</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/"><img src="/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/sett.png" alt="Duchess of Albany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

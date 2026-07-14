@@ -15,10 +15,10 @@ Silk sett from D.W. Stewart's "Old and Rare Scottish Tartans" (1893), valued for
 The **Prince Charles Edward** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r12g3y4k2y4g12y2r3w1~x4/">Prince Charles Edward</a></td><td><code>R/48 G12 Y16 K8 Y16 G48 Y8 R12 W/4</code></td><td>292</td><td>1746</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r12g3y4k2y4g12y2r3w1~x4/"><img src="/variants/s9/r12g3y4k2y4g12y2r3w1~x4/sett.png" alt="Prince Charles Edward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r12g3y4k2y4g12y2r3w1~x4/">Prince Charles Edward</a></td><td></td><td><code>R/48 G12 Y16 K8 Y16 G48 Y8 R12 W/4</code></td><td>292</td><td>1746</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r12g3y4k2y4g12y2r3w1~x4/"><img src="/variants/s9/r12g3y4k2y4g12y2r3w1~x4/sett.png" alt="Prince Charles Edward sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

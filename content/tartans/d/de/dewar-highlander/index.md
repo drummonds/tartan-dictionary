@@ -16,10 +16,10 @@ Its design is pattern [GKGKBGBKGKGKG](/stripes/gkgkbgbkgkgkg/) — the page of e
 The **Dewar Highlander** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg46k5dg6k5dg6k30db38y6db38k30dg36k6dg6/">Dewar Highlander</a></td><td><code>DG/46 K5 DG6 K5 DG6 K30 DB38 Y6 DB38 K30 DG36 K6 DG/6</code></td><td>464</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg46k5dg6k5dg6k30db38y6db38k30dg36k6dg6/"><img src="/variants/s13/dg46k5dg6k5dg6k30db38y6db38k30dg36k6dg6/sett.png" alt="Dewar Highlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg46k5dg6k5dg6k30db38y6db38k30dg36k6dg6/">Dewar Highlander</a></td><td></td><td><code>DG/46 K5 DG6 K5 DG6 K30 DB38 Y6 DB38 K30 DG36 K6 DG/6</code></td><td>464</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg46k5dg6k5dg6k30db38y6db38k30dg36k6dg6/"><img src="/variants/s13/dg46k5dg6k5dg6k30db38y6db38k30dg36k6dg6/sett.png" alt="Dewar Highlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

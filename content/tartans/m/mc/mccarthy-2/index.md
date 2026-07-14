@@ -18,10 +18,10 @@ Its design is pattern [BBGBBBGBGBBGB](/stripes/bbgbbbgbgbbgb/) — the page of e
 The **McCarthy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/">McCarthy</a></td><td><code>DB/10 G2 DB6 DP4 G20 DB6 G8 DB56 DP4 DB4 G2 DB8 DP/2</code></td><td>252</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/"><img src="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/sett.png" alt="McCarthy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/">McCarthy</a></td><td></td><td><code>DB/10 G2 DB6 DP4 G20 DB6 G8 DB56 DP4 DB4 G2 DB8 DP/2</code></td><td>252</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/"><img src="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/sett.png" alt="McCarthy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

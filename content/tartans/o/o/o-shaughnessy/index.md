@@ -13,10 +13,10 @@ Its design is pattern [BWBGKWKGBGW](/stripes/bwbgkwkgbgw/) — the page of every
 The **O'Shaughnessy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/">O'Shaughnessy</a></td><td><code>DB/120 W6 DP16 Y4 K4 W4 K4 G28 DB8 DY20 W/4</code></td><td>312</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/"><img src="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/sett.png" alt="O'Shaughnessy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/">O'Shaughnessy</a></td><td></td><td><code>DB/120 W6 DP16 Y4 K4 W4 K4 G28 DB8 DY20 W/4</code></td><td>312</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/"><img src="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/sett.png" alt="O'Shaughnessy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

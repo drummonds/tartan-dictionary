@@ -13,10 +13,10 @@ Its design is pattern [GGGGGWG](/stripes/gggggwg/) — the page of every tartan 
 The **Freedom of Derry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g14y7g14dg50g64w6g7/">Freedom of Derry</a></td><td><code>G/14 Y7 G14 DG50 G64 W6 G/7</code></td><td>303</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g14y7g14dg50g64w6g7/"><img src="/variants/s7/g14y7g14dg50g64w6g7/sett.png" alt="Freedom of Derry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g14y7g14dg50g64w6g7/">Freedom of Derry</a></td><td></td><td><code>G/14 Y7 G14 DG50 G64 W6 G/7</code></td><td>303</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g14y7g14dg50g64w6g7/"><img src="/variants/s7/g14y7g14dg50g64w6g7/sett.png" alt="Freedom of Derry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

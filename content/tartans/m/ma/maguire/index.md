@@ -18,10 +18,10 @@ Its design is pattern [GRKRBRBRKRGWK](/stripes/grkrbrbrkrgwk/) — the page of e
 The **Maguire** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/">Maguire</a></td><td><code>G/36 R36 K6 R6 DB6 R6 DB8 R6 K18 R8 G36 W12 K/6</code></td><td>338</td><td>1900</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><img src="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/sett.png" alt="Maguire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/">Maguire</a></td><td></td><td><code>G/36 R36 K6 R6 DB6 R6 DB8 R6 K18 R8 G36 W12 K/6</code></td><td>338</td><td>1900</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><img src="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/sett.png" alt="Maguire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

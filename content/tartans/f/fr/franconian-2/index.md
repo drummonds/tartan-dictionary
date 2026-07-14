@@ -20,10 +20,10 @@ Designed in 1997 by Franconia's Highland Circle whisky drinkers, produced by Hug
 The **Franconian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/">Franconian</a></td><td><code>DB/44 G14 R10 G8 W10 G8 R10 G10 DB44 T10 DB8 G8 DB8 G44 DB8 G8 DB8 G8 DB44 Y10 DB10 R10 DB44 G8 DB8 G8 DB8 G44 DB8 G8 DB8 T/10</code></td><td>938</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/"><img src="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/sett.png" alt="Franconian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/">Franconian</a></td><td></td><td><code>DB/44 G14 R10 G8 W10 G8 R10 G10 DB44 T10 DB8 G8 DB8 G44 DB8 G8 DB8 G8 DB44 Y10 DB10 R10 DB44 G8 DB8 G8 DB8 G44 DB8 G8 DB8 T/10</code></td><td>938</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/"><img src="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/sett.png" alt="Franconian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GKBWBKBKBKBR](/stripes/gkbwbkbkbkbr/) — the page of eve
 The **Pride of Wales** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/">Pride of Wales</a></td><td><code>G/12 K40 DB4 LB4 DB4 K28 DB7 K8 DB7 K8 DB10 R/4</code></td><td>256</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><img src="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/sett.png" alt="Pride of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/">Pride of Wales</a></td><td></td><td><code>G/12 K40 DB4 LB4 DB4 K28 DB7 K8 DB7 K8 DB10 R/4</code></td><td>256</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><img src="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/sett.png" alt="Pride of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

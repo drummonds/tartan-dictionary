@@ -13,10 +13,10 @@ Its design is pattern [WBBGBYBYBY](/stripes/wbbgbybyby/) — the page of every t
 The **Leitrem County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/">Leitrem County Crest</a></td><td><code>LY/10 DB24 LY5 DB13 LY24 DB5 G52 DB5 DBi18 W/8</code></td><td>310</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/"><img src="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/sett.png" alt="Leitrem County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/">Leitrem County Crest</a></td><td></td><td><code>LY/10 DB24 LY5 DB13 LY24 DB5 G52 DB5 DBi18 W/8</code></td><td>310</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/"><img src="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/sett.png" alt="Leitrem County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

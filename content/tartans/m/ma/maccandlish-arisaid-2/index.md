@@ -16,10 +16,10 @@ Its design is pattern [WKBKBKBKWKY](/stripes/wkbkbkbkwky/) — the page of every
 The **MacCandlish Arisaid** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/">MacCandlish Arisaid</a></td><td><code>LB/3 K1 DR12 K1 DR1 K2 DR1 K6 LBi12 K1 LO/1</code></td><td>—</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/"><img src="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/sett.png" alt="MacCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/">MacCandlish Arisaid</a></td><td></td><td><code>LB/3 K1 DR12 K1 DR1 K2 DR1 K6 LBi12 K1 LO/1</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/"><img src="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/sett.png" alt="MacCandlish Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

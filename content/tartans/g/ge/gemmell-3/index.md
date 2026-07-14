@@ -18,10 +18,10 @@ Its design is pattern [KWKBBWBWBW](/stripes/kwkbbwbwbw/) — the page of every t
 The **Gemmell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/">Gemmell</a></td><td><code>K/10 LB4 K4 T10 DB96 LB14 B12 LB4 DR4 LB/4</code></td><td>310</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/"><img src="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/sett.png" alt="Gemmell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/">Gemmell</a></td><td></td><td><code>K/10 LB4 K4 T10 DB96 LB14 B12 LB4 DR4 LB/4</code></td><td>310</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/"><img src="/variants/s10/k5lb2k2t5db48lb7b6lb2dr2lb2~x2/sett.png" alt="Gemmell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

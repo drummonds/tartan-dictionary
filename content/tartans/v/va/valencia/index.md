@@ -13,10 +13,10 @@ Its design is pattern [WBGKGKGWWWGGKGGWWGWRGGKBRKWRWBGRWKWKWRGW](/stripes/wbgkgk
 The **Valencia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s40/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/">Valencia</a></td><td><code>W/4 DB16 DG8 K8 DG48 K8 Y4 W6 LB7 W6 Y4 DG12 K8 DG12 Y36 W6 LB7 Y4 W2 R8 DG16 G64 K8 DB8 R48 K22 W2 R8 W2 DB16 DG18 R4 W2 K2 LB7 K2 W6 R4 DG36 W/2</code></td><td>976</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s40/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/"><img src="/variants/s40/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/sett.png" alt="Valencia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s40/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/">Valencia</a></td><td></td><td><code>W/4 DB16 DG8 K8 DG48 K8 Y4 W6 LB7 W6 Y4 DG12 K8 DG12 Y36 W6 LB7 Y4 W2 R8 DG16 G64 K8 DB8 R48 K22 W2 R8 W2 DB16 DG18 R4 W2 K2 LB7 K2 W6 R4 DG36 W/2</code></td><td>976</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s40/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/"><img src="/variants/s40/w4db16dg8k8dg48k8y4w6lb7w6y4dg12k8dg12y36w6lb7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2lb7k2w6r4dg36w2/sett.png" alt="Valencia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

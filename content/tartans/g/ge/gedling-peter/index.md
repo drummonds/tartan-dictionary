@@ -15,12 +15,12 @@ The **Gedling, Peter** tartan groups 2 setts — the same named design recorded 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp3~x2/">Gedling, Peter</a> ★</td><td><code>R/16 DB18 DP6 Y2 DP2 Y4 DP4 K64 DP/6</code></td><td>222</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp3~x2/"><img src="/variants/s9/r8db9dp3y1dp1y2dp2k32dp3~x2/sett.png" alt="Gedling, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp1~x2/">(Personal)</a></td><td><code>R/16 DB18 DP6 Y2 DP2 Y4 DP4 K64 DP/2</code></td><td>218</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp1~x2/"><img src="/variants/s9/r8db9dp3y1dp1y2dp2k32dp1~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp3~x2/">Gedling, Peter</a> ★</td><td></td><td><code>R/16 DB18 DP6 Y2 DP2 Y4 DP4 K64 DP/6</code></td><td>222</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp3~x2/"><img src="/variants/s9/r8db9dp3y1dp1y2dp2k32dp3~x2/sett.png" alt="Gedling, Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp1~x2/">(Personal)</a></td><td>0.05</td><td><code>R/16 DB18 DP6 Y2 DP2 Y4 DP4 K64 DP/2</code></td><td>218</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp1~x2/"><img src="/variants/s9/r8db9dp3y1dp1y2dp2k32dp1~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,14 +16,14 @@ The **Royal Columbian** tartan groups 3 setts — the same named design recorded
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/">Royal Columbian</a> ★</td><td><code>T/52 LB52 R4 LB52 G52 Y4 G52 T52 W/4</code></td><td>592</td><td>1968</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/"><img src="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/sett.png" alt="Royal Columbian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/">Royal Columbian</a></td><td><code>DB/50 LB50 R4 LB50 G50 Y4 G50 DB50 W/8</code></td><td>574</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/"><img src="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/sett.png" alt="Royal Columbian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/">Canadian Tartan</a></td><td><code>DB/50 W4 DB50 LB50 R4 LB50 G50 DY4 G/50</code></td><td>524</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/"><img src="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/sett.png" alt="Canadian Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/">Royal Columbian</a> ★</td><td></td><td><code>T/52 LB52 R4 LB52 G52 Y4 G52 T52 W/4</code></td><td>592</td><td>1968</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/"><img src="/variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/sett.png" alt="Royal Columbian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/">Royal Columbian</a></td><td>0.21</td><td><code>DB/50 LB50 R4 LB50 G50 Y4 G50 DB50 W/8</code></td><td>574</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/"><img src="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/sett.png" alt="Royal Columbian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/">Canadian Tartan</a></td><td>0.20</td><td><code>DB/50 W4 DB50 LB50 R4 LB50 G50 DY4 G/50</code></td><td>524</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/"><img src="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/sett.png" alt="Canadian Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

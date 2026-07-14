@@ -18,10 +18,10 @@ Its design is pattern [BRGYBYB](/stripes/brgybyb/) — the page of every tartan 
 The **Logan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dp9lr4dp1lr4g15r4dp1~x4~lr2805035-r2108022/">Logan</a></td><td><code>DP/36 LR16 DP4 LR16 G60 R16 DP/4</code></td><td>264</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp9lr4dp1lr4g15r4dp1~x4~lr2805035-r2108022/"><img src="/variants/s7/dp9lr4dp1lr4g15r4dp1~x4~lr2805035-r2108022/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp9lr4dp1lr4g15r4dp1~x4~lr2805035-r2108022/">Logan</a></td><td></td><td><code>DP/36 LR16 DP4 LR16 G60 R16 DP/4</code></td><td>264</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp9lr4dp1lr4g15r4dp1~x4~lr2805035-r2108022/"><img src="/variants/s7/dp9lr4dp1lr4g15r4dp1~x4~lr2805035-r2108022/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Government sett with a single yellow overstripe, chosen by the Duke of Gordon fo
 The **Gordon 4** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db6k1db1k1db1k6g6y1g6k6db6k1db1~x4/">Gordon 4</a></td><td><code>DB/24 K4 DB4 K4 DB4 K24 G24 Y4 G24 K24 DB24 K4 DB/4</code></td><td>316</td><td>1793</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db6k1db1k1db1k6g6y1g6k6db6k1db1~x4/"><img src="/variants/s13/db6k1db1k1db1k6g6y1g6k6db6k1db1~x4/sett.png" alt="Gordon 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db6k1db1k1db1k6g6y1g6k6db6k1db1~x4/">Gordon 4</a></td><td></td><td><code>DB/24 K4 DB4 K4 DB4 K24 G24 Y4 G24 K24 DB24 K4 DB/4</code></td><td>316</td><td>1793</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db6k1db1k1db1k6g6y1g6k6db6k1db1~x4/"><img src="/variants/s13/db6k1db1k1db1k6g6y1g6k6db6k1db1~x4/sett.png" alt="Gordon 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

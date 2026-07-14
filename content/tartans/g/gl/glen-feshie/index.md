@@ -16,10 +16,10 @@ Its design is pattern [RWKWKWKW](/stripes/rwkwkwkw/) — the page of every tarta
 The **Glen Feshie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/o4w4k3w4k4w4k4w4~x2/">Glen Feshie</a></td><td><code>O/8 W8 K6 W8 K8 W8 K8 W/8</code></td><td>108</td><td>1834</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/o4w4k3w4k4w4k4w4~x2/"><img src="/variants/s8/o4w4k3w4k4w4k4w4~x2/sett.png" alt="Glen Feshie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/o4w4k3w4k4w4k4w4~x2/">Glen Feshie</a></td><td></td><td><code>O/8 W8 K6 W8 K8 W8 K8 W/8</code></td><td>108</td><td>1834</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/o4w4k3w4k4w4k4w4~x2/"><img src="/variants/s8/o4w4k3w4k4w4k4w4~x2/sett.png" alt="Glen Feshie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

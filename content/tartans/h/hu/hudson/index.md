@@ -18,10 +18,10 @@ Its design is pattern [BWKBKBWBKWB](/stripes/bwkbkbwbkwb/) — the page of every
 The **Hudson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db4lb2k2db12lb4dr6k6dr28k2lb2dr3~x2/">Hudson</a></td><td><code>DB/8 LB4 K4 DB24 LB8 DR12 K12 DR56 K4 LB4 DR/6</code></td><td>270</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db4lb2k2db12lb4dr6k6dr28k2lb2dr3~x2/"><img src="/variants/s11/db4lb2k2db12lb4dr6k6dr28k2lb2dr3~x2/sett.png" alt="Hudson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db4lb2k2db12lb4dr6k6dr28k2lb2dr3~x2/">Hudson</a></td><td></td><td><code>DB/8 LB4 K4 DB24 LB8 DR12 K12 DR56 K4 LB4 DR/6</code></td><td>270</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db4lb2k2db12lb4dr6k6dr28k2lb2dr3~x2/"><img src="/variants/s11/db4lb2k2db12lb4dr6k6dr28k2lb2dr3~x2/sett.png" alt="Hudson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

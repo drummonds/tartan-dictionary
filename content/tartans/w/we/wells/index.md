@@ -18,10 +18,10 @@ Its design is pattern [BWGBGBGBGGR](/stripes/bwgbgbgbggr/) — the page of every
 The **Wells** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/">Wells</a></td><td><code>N/10 W4 G60 DB12 G8 DB6 G8 DB48 G8 DY10 R/6</code></td><td>344</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/"><img src="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/sett.png" alt="Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/">Wells</a></td><td></td><td><code>N/10 W4 G60 DB12 G8 DB6 G8 DB48 G8 DY10 R/6</code></td><td>344</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/"><img src="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/sett.png" alt="Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

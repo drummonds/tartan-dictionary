@@ -20,11 +20,11 @@ Designed 1950 for the Clan Watson Society, based on Gordon and Hunting MacRae ta
 The **Watson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/">Watson</a></td><td><code>DB/48 K4 DB4 R4 DB4 K40 G32 Y4 G4 Y/6</code></td><td>246</td><td>1932</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/"><img src="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/sett.png" alt="Watson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/">(Name)</a> · <a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2~db1406275/">Watson</a></td></tr>
+<tr><td><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/">Watson</a></td><td></td><td><code>DB/48 K4 DB4 R4 DB4 K40 G32 Y4 G4 Y/6</code></td><td>246</td><td>1932</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/"><img src="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/sett.png" alt="Watson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/">(Name)</a> · <a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2~db1406275/">Watson</a></td></tr>
 </tbody>
 </table>
 

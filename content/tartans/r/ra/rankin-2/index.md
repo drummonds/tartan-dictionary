@@ -18,10 +18,10 @@ Its design is pattern [BGRGWGRKBRBRBRBRBW](/stripes/bgrgwgrkbrbrbrbrbw/) — the
 The **Rankin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/">Rankin</a></td><td><code>DB/72 G20 R4 G20 W4 G20 R4 K20 DB28 R4 DB24 R4 DB24 R6 DB4 R4 DB8 W/4</code></td><td>472</td><td>1932</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/"><img src="/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/sett.png" alt="Rankin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/">Rankin</a></td><td></td><td><code>DB/72 G20 R4 G20 W4 G20 R4 K20 DB28 R4 DB24 R4 DB24 R6 DB4 R4 DB8 W/4</code></td><td>472</td><td>1932</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/"><img src="/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/sett.png" alt="Rankin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

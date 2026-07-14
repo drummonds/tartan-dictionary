@@ -15,10 +15,10 @@ Corporate tartan for the Scottish Borders Tourist Board, woven by Lochcarron, 20
 The **Scottish Borders Tourist Board** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/">Scottish Borders Tourist Board</a></td><td><code>DB/48 G8 DB6 G8 DB48 G12 W6 G8 R6 G16 LY6 G16 R6 G8 W6 G/12</code></td><td>380</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/"><img src="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/sett.png" alt="Scottish Borders Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/">Scottish Borders Tourist Board</a></td><td></td><td><code>DB/48 G8 DB6 G8 DB48 G12 W6 G8 R6 G16 LY6 G16 R6 G8 W6 G/12</code></td><td>380</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/"><img src="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/sett.png" alt="Scottish Borders Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

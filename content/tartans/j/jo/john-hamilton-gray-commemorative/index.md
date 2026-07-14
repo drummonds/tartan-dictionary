@@ -15,10 +15,10 @@ Commemorates John Hamilton Gray, Prince Edward Island premier and a Father of Co
 The **John Hamilton Gray Commemorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/">John Hamilton Gray Commemorative</a></td><td><code>W/8 G14 R6 G24 DB30 Y10 W40 Y10 DB7 Y/4</code></td><td>294</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/"><img src="/variants/s10/w8g14r6g24db30y10w40y10db7y4/sett.png" alt="John Hamilton Gray Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/">John Hamilton Gray Commemorative</a></td><td></td><td><code>W/8 G14 R6 G24 DB30 Y10 W40 Y10 DB7 Y/4</code></td><td>294</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/"><img src="/variants/s10/w8g14r6g24db30y10w40y10db7y4/sett.png" alt="John Hamilton Gray Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

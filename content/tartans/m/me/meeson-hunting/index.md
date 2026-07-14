@@ -20,10 +20,10 @@ Hunting variant; black and gray originally woven with melange or marled yarn.
 The **Meeson Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/">Meeson Hunting</a></td><td><code>K/52 N20 DT38 DR12 DY4 DB/18</code></td><td>218</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/"><img src="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/sett.png" alt="Meeson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/">Meeson Hunting</a></td><td></td><td><code>K/52 N20 DT38 DR12 DY4 DB/18</code></td><td>218</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/"><img src="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/sett.png" alt="Meeson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

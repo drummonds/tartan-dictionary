@@ -15,12 +15,12 @@ The **Bouguet, Adrian Hunting** tartan groups 2 setts — the same named design 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb3203246-lbi3300000/">Bouguet, Adrian Hunting</a> ★</td><td><code>LB/30 LO12 G30 LO8 LBi6 G6 LBi6 LO8 DG30 LO4 W6 R/2</code></td><td>264</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb3203246-lbi3300000/"><img src="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb3203246-lbi3300000/sett.png" alt="Bouguet, Adrian Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/">(Personal)</a></td><td><code>LBi/15 LO6 G15 LO4 LB3 G3 LB3 LO4 DG15 LO2 W2 R/1</code></td><td>—</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/"><img src="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb3203246-lbi3300000/">Bouguet, Adrian Hunting</a> ★</td><td></td><td><code>LB/30 LO12 G30 LO8 LBi6 G6 LBi6 LO8 DG30 LO4 W6 R/2</code></td><td>264</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb3203246-lbi3300000/"><img src="/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w3r1~x2~lb3203246-lbi3300000/sett.png" alt="Bouguet, Adrian Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/">(Personal)</a></td><td>—</td><td><code>LBi/15 LO6 G15 LO4 LB3 G3 LB3 LO4 DG15 LO2 W2 R/1</code></td><td>—</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/"><img src="/variants/s12/lbi15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2~lbi3203246-lb3200000/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

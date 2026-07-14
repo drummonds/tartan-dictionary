@@ -13,10 +13,10 @@ Its design is pattern [BWBWBWBBWBYBWB](/stripes/bwbwbwbbwbybwb/) — the page of
 The **Balamory** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/">Balamory</a></td><td><code>T/18 W8 DT4 W4 DT4 W8 DT20 T2 W32 T18 LY4 T18 LB4 T/18</code></td><td>288</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/"><img src="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/sett.png" alt="Balamory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/">Balamory</a></td><td></td><td><code>T/18 W8 DT4 W4 DT4 W8 DT20 T2 W32 T18 LY4 T18 LB4 T/18</code></td><td>288</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/"><img src="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9ly2t9lb2t9~x2~t2406246-lb3203246/sett.png" alt="Balamory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

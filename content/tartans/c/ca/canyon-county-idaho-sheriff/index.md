@@ -13,11 +13,11 @@ Its design is pattern [KYWYKR](/stripes/kywykr/) — the page of every tartan sh
 The **Canyon County Idaho Sheriff** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k5ly5w1ly5k5r1~x10/">Canyon County Idaho Sheriff</a></td><td><code>K/5 LY5 W1 LY5 K5 R/1</code></td><td>—</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k5ly5w1ly5k5r1~x10/"><img src="/variants/s6/k5ly5w1ly5k5r1~x10/sett.png" alt="Canyon County Idaho Sheriff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/k5ly5w1ly5k5r1~x10/">(Corp)</a> · <a href="/variants/s6/k5ly5w1ly5k5r1~x10~ly2503076/">Canyon County Idaho Sheriff</a></td></tr>
+<tr><td><a href="/variants/s6/k5ly5w1ly5k5r1~x10/">Canyon County Idaho Sheriff</a></td><td></td><td><code>K/5 LY5 W1 LY5 K5 R/1</code></td><td>—</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k5ly5w1ly5k5r1~x10/"><img src="/variants/s6/k5ly5w1ly5k5r1~x10/sett.png" alt="Canyon County Idaho Sheriff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/k5ly5w1ly5k5r1~x10/">(Corp)</a> · <a href="/variants/s6/k5ly5w1ly5k5r1~x10~ly2503076/">Canyon County Idaho Sheriff</a></td></tr>
 </tbody>
 </table>
 

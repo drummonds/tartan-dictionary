@@ -18,10 +18,10 @@ Its design is pattern [BKYKWKGBGBBBKWKYKBKYKWKGBGBGKWKYK](/stripes/bkykwkgbgbbbk
 The **Hawick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s33/k2lo2k3w2k2g16dr2g24dr2g16k2w2k3lo2k4db4k4lo2k3w2k2db12dr2db12g12dr2g12k2w2k3lo2k4db2~x2/">Hawick</a></td><td><code>K/4 LO4 K6 W4 K4 G32 DR4 G48 DR4 G32 K4 W4 K6 LO4 K8 DB8 K8 LO4 K6 W4 K4 DB24 DR4 DB24 G24 DR4 G24 K4 W4 K6 LO4 K8 DB/4</code></td><td>664</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s33/k2lo2k3w2k2g16dr2g24dr2g16k2w2k3lo2k4db4k4lo2k3w2k2db12dr2db12g12dr2g12k2w2k3lo2k4db2~x2/"><img src="/variants/s33/k2lo2k3w2k2g16dr2g24dr2g16k2w2k3lo2k4db4k4lo2k3w2k2db12dr2db12g12dr2g12k2w2k3lo2k4db2~x2/sett.png" alt="Hawick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s33/k2lo2k3w2k2g16dr2g24dr2g16k2w2k3lo2k4db4k4lo2k3w2k2db12dr2db12g12dr2g12k2w2k3lo2k4db2~x2/">Hawick</a></td><td></td><td><code>K/4 LO4 K6 W4 K4 G32 DR4 G48 DR4 G32 K4 W4 K6 LO4 K8 DB8 K8 LO4 K6 W4 K4 DB24 DR4 DB24 G24 DR4 G24 K4 W4 K6 LO4 K8 DB/4</code></td><td>664</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s33/k2lo2k3w2k2g16dr2g24dr2g16k2w2k3lo2k4db4k4lo2k3w2k2db12dr2db12g12dr2g12k2w2k3lo2k4db2~x2/"><img src="/variants/s33/k2lo2k3w2k2g16dr2g24dr2g16k2w2k3lo2k4db4k4lo2k3w2k2db12dr2db12g12dr2g12k2w2k3lo2k4db2~x2/sett.png" alt="Hawick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

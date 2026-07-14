@@ -16,10 +16,10 @@ Its design is pattern [BKGKWKGRBRK](/stripes/bkgkwkgrbrk/) — the page of every
 The **MacLean Variation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/">MacLean Variation</a></td><td><code>DP/90 K24 Y8 K8 W12 K8 G100 R114 DP8 R20 K/8</code></td><td>702</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/"><img src="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/sett.png" alt="MacLean Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/">MacLean Variation</a></td><td></td><td><code>DP/90 K24 Y8 K8 W12 K8 G100 R114 DP8 R20 K/8</code></td><td>702</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/"><img src="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/sett.png" alt="MacLean Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

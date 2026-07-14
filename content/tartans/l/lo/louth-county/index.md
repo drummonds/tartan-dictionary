@@ -13,10 +13,10 @@ Its design is pattern [BBBYBRBGBBBR](/stripes/bbbybrbgbbbr/) — the page of eve
 The **Louth, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/">Louth, County</a></td><td><code>T/96 DP8 T16 LR4 T8 R6 T8 DG28 DR14 T4 DR8 R/4</code></td><td>308</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/"><img src="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/sett.png" alt="Louth, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/">Louth, County</a></td><td></td><td><code>T/96 DP8 T16 LR4 T8 R6 T8 DG28 DR14 T4 DR8 R/4</code></td><td>308</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/"><img src="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/sett.png" alt="Louth, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

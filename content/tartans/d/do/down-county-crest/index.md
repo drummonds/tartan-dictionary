@@ -13,10 +13,10 @@ Its design is pattern [WBWGBGBGKBKY](/stripes/wbwgbgbgkbky/) — the page of eve
 The **Down County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/">Down County Crest</a></td><td><code>LY/16 K6 DR12 K4 G40 DB8 G4 DB8 G10 LB8 DB6 W/6</code></td><td>234</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><img src="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/sett.png" alt="Down County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/">Down County Crest</a></td><td></td><td><code>LY/16 K6 DR12 K4 G40 DB8 G4 DB8 G10 LB8 DB6 W/6</code></td><td>234</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><img src="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/sett.png" alt="Down County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

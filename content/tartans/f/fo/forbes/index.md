@@ -20,16 +20,16 @@ The **Forbes** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/">Forbes</a> ★</td><td><code>DB/8 K1 DB2 K1 DB2 K6 G8 K1 W2 K1 G8 K6 DB8 K1 DB/2</code></td><td>104</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/"><img src="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2/">Forbes</a></td><td><code>DB/8 K1 DB2 K1 DB2 K6 G8 K1 W2 K1 G8 K6 DB8 K1 DB/2</code></td><td>104</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/">Forbes</a></td><td><code>DB/16 K2 DB4 K2 DB4 K12 G16 K2 W4 K2 G16 K12 DB16 K2 DB/4</code></td><td>208</td><td>1810</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/">Forbes</a></td><td><code>DB/32 K4 DB8 K4 DB8 K24 G32 K4 W8 K4 G32 K24 DB32 K4 DB/8</code></td><td>416</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2/">Forbes</a> · <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/">Forbes</a> · <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/">Forbes</a></td></tr>
-<tr><td><a href="/variants/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/">#2</a></td><td><code>DB/34 K6 DB6 K6 DB6 K32 G30 K4 W6 K4 G30 K32 DB32 K6 DB/6</code></td><td>440</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><img src="/variants/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/">Forbes</a> ★</td><td></td><td><code>DB/8 K1 DB2 K1 DB2 K6 G8 K1 W2 K1 G8 K6 DB8 K1 DB/2</code></td><td>104</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/"><img src="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2/">Forbes</a></td><td>0.00</td><td><code>DB/8 K1 DB2 K1 DB2 K6 G8 K1 W2 K1 G8 K6 DB8 K1 DB/2</code></td><td>104</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/">Forbes</a></td><td>0.00</td><td><code>DB/16 K2 DB4 K2 DB4 K12 G16 K2 W4 K2 G16 K12 DB16 K2 DB/4</code></td><td>208</td><td>1810</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/">Forbes</a></td><td>0.00</td><td><code>DB/32 K4 DB8 K4 DB8 K24 G32 K4 W8 K4 G32 K24 DB32 K4 DB/8</code></td><td>416</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2/">Forbes</a> · <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/">Forbes</a> · <a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/">Forbes</a></td></tr>
+<tr><td><a href="/variants/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/">#2</a></td><td>0.36</td><td><code>DB/34 K6 DB6 K6 DB6 K32 G30 K4 W6 K4 G30 K32 DB32 K6 DB/6</code></td><td>440</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><img src="/variants/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GKGBKWKBGKGGRG](/stripes/gkgbkwkbgkggrg/) — the page of
 The **Iowa** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/">Iowa</a></td><td><code>G/24 K32 DY10 DB40 K8 W4 K8 DB40 DY10 K32 G24 Y6 R8 Y/6</code></td><td>474</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/"><img src="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/sett.png" alt="Iowa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/">Iowa</a></td><td></td><td><code>G/24 K32 DY10 DB40 K8 W4 K8 DB40 DY10 K32 G24 Y6 R8 Y/6</code></td><td>474</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/"><img src="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/sett.png" alt="Iowa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBGBGW](/stripes/gbgbgw/) — the page of every tartan sh
 The **Dewi Sant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dg30dr2dg8dr1dg5w2/">Dewi Sant</a></td><td><code>DG/30 DR2 DG8 DR1 DG5 W/2</code></td><td>64</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg30dr2dg8dr1dg5w2/"><img src="/variants/s6/dg30dr2dg8dr1dg5w2/sett.png" alt="Dewi Sant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg30dr2dg8dr1dg5w2/">Dewi Sant</a></td><td></td><td><code>DG/30 DR2 DG8 DR1 DG5 W/2</code></td><td>64</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dg30dr2dg8dr1dg5w2/"><img src="/variants/s6/dg30dr2dg8dr1dg5w2/sett.png" alt="Dewi Sant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

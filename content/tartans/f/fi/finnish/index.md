@@ -13,10 +13,10 @@ Its design is pattern [BBWBWBWBBBBBBBBBBBW](/stripes/bbwbwbwbbbbbbbbbbbw/) — t
 The **Finnish** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5~x2~dt1102249-db1705255/">Finnish</a></td><td><code>W/16 DT2 DB48 DT4 DB2 DT4 DB8 DT4 DB2 DT4 DB8 DT2 W8 DB4 W2 DB4 W40 DT2 DB/10</code></td><td>322</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5~x2~dt1102249-db1705255/"><img src="/variants/s19/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5~x2~dt1102249-db1705255/sett.png" alt="Finnish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5~x2~dt1102249-db1705255/">Finnish</a></td><td></td><td><code>W/16 DT2 DB48 DT4 DB2 DT4 DB8 DT4 DB2 DT4 DB8 DT2 W8 DB4 W2 DB4 W40 DT2 DB/10</code></td><td>322</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5~x2~dt1102249-db1705255/"><img src="/variants/s19/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5~x2~dt1102249-db1705255/sett.png" alt="Finnish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

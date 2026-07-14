@@ -13,10 +13,10 @@ Its design is pattern [KWKGWKBY](/stripes/kwkgwkby/) — the page of every tarta
 The **Kilkenny County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/">Kilkenny County Crest</a></td><td><code>LY/12 DR16 K8 W12 G32 K26 LB38 K/10</code></td><td>286</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/"><img src="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/sett.png" alt="Kilkenny County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/">Kilkenny County Crest</a></td><td></td><td><code>LY/12 DR16 K8 W12 G32 K26 LB38 K/10</code></td><td>286</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/"><img src="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/sett.png" alt="Kilkenny County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

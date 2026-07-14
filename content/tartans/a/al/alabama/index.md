@@ -20,11 +20,11 @@ Designed 2006 by Joseph Ryan Morrison for Alabama's first Tartan Day; colours sy
 The **Alabama** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/">Alabama</a></td><td><code>Ri/10 W6 DB4 W2 DB8 R2 DB2 R6 DB2 R2 DB8 N8 LB2 N2 LB2 N8 DB8 T50 W2 T4 W4 T4 W/6</code></td><td>288</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/"><img src="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/sett.png" alt="Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/">(Provisional)</a> · <a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-r1706009/">(Provisional) (District)</a></td></tr>
+<tr><td><a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/">Alabama</a></td><td></td><td><code>Ri/10 W6 DB4 W2 DB8 R2 DB2 R6 DB2 R2 DB8 N8 LB2 N2 LB2 N8 DB8 T50 W2 T4 W4 T4 W/6</code></td><td>288</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/"><img src="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/sett.png" alt="Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/">(Provisional)</a> · <a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-r1706009/">(Provisional) (District)</a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGWGGGGGWGBGGGRGGGGGRGGG](/stripes/bgwgggggwgbgggrgggggrg
 The **Sea Bees Regimental** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/">Sea Bees Regimental</a></td><td><code>DB/12 G6 LB12 G14 Y4 G72 Y4 G14 LB12 G6 DB12 G6 DY12 G6 R12 G14 Y4 G72 Y4 G14 R12 G6 DY12 G/6</code></td><td>678</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/"><img src="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/sett.png" alt="Sea Bees Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/">Sea Bees Regimental</a></td><td></td><td><code>DB/12 G6 LB12 G14 Y4 G72 Y4 G14 LB12 G6 DB12 G6 DY12 G6 R12 G14 Y4 G72 Y4 G14 R12 G6 DY12 G/6</code></td><td>678</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/"><img src="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/sett.png" alt="Sea Bees Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

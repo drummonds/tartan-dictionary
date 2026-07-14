@@ -15,10 +15,10 @@ Designed by Capt T.S. Davidson in 1978 for the Scottish Knights Templar, St Andr
 The **Knights Templar St Andrews** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/">Knights Templar St Andrews</a></td><td><code>W/8 R2 DB36 K12 W10 K8 W8 K8 W6 K4 R2 DB/4</code></td><td>204</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/"><img src="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/sett.png" alt="Knights Templar St Andrews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/">Knights Templar St Andrews</a></td><td></td><td><code>W/8 R2 DB36 K12 W10 K8 W8 K8 W6 K4 R2 DB/4</code></td><td>204</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/"><img src="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/sett.png" alt="Knights Templar St Andrews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RWRWRWRWRWRWRWR](/stripes/rwrwrwrwrwrwrwr/) — the page 
 The **Menzies of Pitfoddels** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/">Menzies of Pitfoddels</a></td><td><code>R/228 W28 R12 W28 R28 W12 R6 W56 R6 W12 R24 W28 R12 W28 R/114</code></td><td>902</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/"><img src="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/sett.png" alt="Menzies of Pitfoddels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/">Menzies of Pitfoddels</a></td><td></td><td><code>R/228 W28 R12 W28 R28 W12 R6 W56 R6 W12 R24 W28 R12 W28 R/114</code></td><td>902</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/"><img src="/variants/s15/r114w14r6w14r14w6r3w28r3w6r12w14r6w14r57~x2/sett.png" alt="Menzies of Pitfoddels sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

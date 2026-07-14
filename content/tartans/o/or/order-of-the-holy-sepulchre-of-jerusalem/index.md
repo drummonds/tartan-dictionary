@@ -13,10 +13,10 @@ Its design is pattern [WRKRKWRWKRKWGWKRKRWY](/stripes/wrkrkwrwkrkwgwkrkrwy/) —
 The **Order of the Holy Sepulchre of Jerusalem** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4~y2405105-ly3307090/">Order of the Holy Sepulchre of Jerusalem</a></td><td><code>W/4 R28 K28 R4 K28 W4 R28 W4 K28 R4 K28 W4 Y8 W4 K32 R4 K32 R28 W4 LY/4</code></td><td>608</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4~y2405105-ly3307090/"><img src="/variants/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4~y2405105-ly3307090/sett.png" alt="Order of the Holy Sepulchre of Jerusalem sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4~y2405105-ly3307090/">Order of the Holy Sepulchre of Jerusalem</a></td><td></td><td><code>W/4 R28 K28 R4 K28 W4 R28 W4 K28 R4 K28 W4 Y8 W4 K32 R4 K32 R28 W4 LY/4</code></td><td>608</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4~y2405105-ly3307090/"><img src="/variants/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4~y2405105-ly3307090/sett.png" alt="Order of the Holy Sepulchre of Jerusalem sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

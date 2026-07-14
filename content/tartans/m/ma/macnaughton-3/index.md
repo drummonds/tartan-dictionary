@@ -18,10 +18,10 @@ Its design is pattern [KBRGKBRBKBRBKGRBK](/stripes/kbrgkbrbkbrbkgrbk/) — the p
 The **MacNaughton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/">MacNaughton</a></td><td><code>K/4 T4 R64 G64 K48 T36 R64 T4 K4 T4 R64 T36 K48 G64 R64 T4 K/2</code></td><td>1150</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/"><img src="/variants/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/sett.png" alt="MacNaughton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/">MacNaughton</a></td><td></td><td><code>K/4 T4 R64 G64 K48 T36 R64 T4 K4 T4 R64 T36 K48 G64 R64 T4 K/2</code></td><td>1150</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/"><img src="/variants/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/sett.png" alt="MacNaughton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

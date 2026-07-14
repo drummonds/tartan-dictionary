@@ -13,10 +13,10 @@ Its design is pattern [BBGBBKBWBKBBGBBKBW](/stripes/bbgbbkbwbkbbgbbkbw/) — the
 The **Heart of Scotland Fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2~dp1105325-dpi1507327/">Heart of Scotland Fancy</a></td><td><code>DP/34 DPi6 G6 DPi6 DP8 K36 DB34 W8 DB34 K36 DP36 DPi6 G6 DPi6 DP36 K36 DB34 W/8</code></td><td>710</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2~dp1105325-dpi1507327/"><img src="/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2~dp1105325-dpi1507327/sett.png" alt="Heart of Scotland Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2~dp1105325-dpi1507327/">Heart of Scotland Fancy</a></td><td></td><td><code>DP/34 DPi6 G6 DPi6 DP8 K36 DB34 W8 DB34 K36 DP36 DPi6 G6 DPi6 DP36 K36 DB34 W/8</code></td><td>710</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2~dp1105325-dpi1507327/"><img src="/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2~dp1105325-dpi1507327/sett.png" alt="Heart of Scotland Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

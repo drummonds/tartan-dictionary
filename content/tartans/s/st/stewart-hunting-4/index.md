@@ -18,10 +18,10 @@ Its design is pattern [GKGKGKGRGKGKGGGK](/stripes/gkgkgkgrgkgkgggk/) — the pag
 The **Stewart hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/k3g10y2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/">Stewart hunting</a></td><td><code>K/6 G20 Y4 G20 K18 G4 K18 G20 R4 G20 K6 G4 K10 G4 K10 G/4</code></td><td>334</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/k3g10y2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/"><img src="/variants/s16/k3g10y2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/sett.png" alt="Stewart hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/k3g10y2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/">Stewart hunting</a></td><td></td><td><code>K/6 G20 Y4 G20 K18 G4 K18 G20 R4 G20 K6 G4 K10 G4 K10 G/4</code></td><td>334</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/k3g10y2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/"><img src="/variants/s16/k3g10y2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/sett.png" alt="Stewart hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

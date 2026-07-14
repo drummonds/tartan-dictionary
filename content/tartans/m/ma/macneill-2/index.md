@@ -18,10 +18,10 @@ Its design is pattern [BRBGBGKGW](/stripes/brbgbgkgw/) — the page of every tar
 The **MacNeill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dp6r1dp20g6dp6g24k1g2w4~x2/">MacNeill</a></td><td><code>DP/12 R2 DP40 G12 DP12 G48 K2 G4 W/8</code></td><td>260</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp6r1dp20g6dp6g24k1g2w4~x2/"><img src="/variants/s9/dp6r1dp20g6dp6g24k1g2w4~x2/sett.png" alt="MacNeill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp6r1dp20g6dp6g24k1g2w4~x2/">MacNeill</a></td><td></td><td><code>DP/12 R2 DP40 G12 DP12 G48 K2 G4 W/8</code></td><td>260</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dp6r1dp20g6dp6g24k1g2w4~x2/"><img src="/variants/s9/dp6r1dp20g6dp6g24k1g2w4~x2/sett.png" alt="MacNeill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBWBGRBBYBBR](/stripes/gbwbgrbbybbr/) — the page of eve
 The **Roslin Roseline Da Vinci** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g6db3w1db3g6r2db15dp60ly2dp30db15r2~x2/">Roslin Roseline Da Vinci</a></td><td><code>G/12 DB6 W2 DB6 G12 R4 DB30 DP120 LY4 DP60 DB30 R/4</code></td><td>564</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g6db3w1db3g6r2db15dp60ly2dp30db15r2~x2/"><img src="/variants/s12/g6db3w1db3g6r2db15dp60ly2dp30db15r2~x2/sett.png" alt="Roslin Roseline Da Vinci sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g6db3w1db3g6r2db15dp60ly2dp30db15r2~x2/">Roslin Roseline Da Vinci</a></td><td></td><td><code>G/12 DB6 W2 DB6 G12 R4 DB30 DP120 LY4 DP60 DB30 R/4</code></td><td>564</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g6db3w1db3g6r2db15dp60ly2dp30db15r2~x2/"><img src="/variants/s12/g6db3w1db3g6r2db15dp60ly2dp30db15r2~x2/sett.png" alt="Roslin Roseline Da Vinci sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

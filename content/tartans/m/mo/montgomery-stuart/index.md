@@ -16,10 +16,10 @@ Its design is pattern [BGKWKGGWKW](/stripes/bgkwkggwkw/) — the page of every t
 The **Montgomery, Stuart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg1806142-g2408144/">Montgomery, Stuart</a></td><td><code>DB/12 DG48 K2 W4 K2 DG48 G48 W6 K2 W/6</code></td><td>338</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg1806142-g2408144/"><img src="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg1806142-g2408144/sett.png" alt="Montgomery, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg1806142-g2408144/">Montgomery, Stuart</a></td><td></td><td><code>DB/12 DG48 K2 W4 K2 DG48 G48 W6 K2 W/6</code></td><td>338</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg1806142-g2408144/"><img src="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg1806142-g2408144/sett.png" alt="Montgomery, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

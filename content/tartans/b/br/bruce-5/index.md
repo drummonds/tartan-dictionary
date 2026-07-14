@@ -18,10 +18,10 @@ Its design is pattern [RBRBRYRBRGRGRBR](/stripes/rbrbryrbrgrgrbr/) — the page 
 The **Bruce** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r15dp1r2dp2r78lg1r2dp21r3g2r3g89r2dp2r10/">Bruce</a></td><td><code>R/15 DP1 R2 DP2 R78 LG1 R2 DP21 R3 G2 R3 G89 R2 DP2 R/10</code></td><td>441</td><td>~1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r15dp1r2dp2r78lg1r2dp21r3g2r3g89r2dp2r10/"><img src="/variants/s15/r15dp1r2dp2r78lg1r2dp21r3g2r3g89r2dp2r10/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r15dp1r2dp2r78lg1r2dp21r3g2r3g89r2dp2r10/">Bruce</a></td><td></td><td><code>R/15 DP1 R2 DP2 R78 LG1 R2 DP21 R3 G2 R3 G89 R2 DP2 R/10</code></td><td>441</td><td>~1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r15dp1r2dp2r78lg1r2dp21r3g2r3g89r2dp2r10/"><img src="/variants/s15/r15dp1r2dp2r78lg1r2dp21r3g2r3g89r2dp2r10/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

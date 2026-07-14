@@ -13,10 +13,10 @@ Its design is pattern [GBBGBGKGKBW](/stripes/gbbgbgkgkbw/) — the page of every
 The **Scottish Pride** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi1607327-dp1105325/">Scottish Pride</a></td><td><code>G/12 DPi4 DP4 G4 DP30 G6 K4 G2 K30 DB86 W/4</code></td><td>356</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi1607327-dp1105325/"><img src="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi1607327-dp1105325/sett.png" alt="Scottish Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi1607327-dp1105325/">Scottish Pride</a></td><td></td><td><code>G/12 DPi4 DP4 G4 DP30 G6 K4 G2 K30 DB86 W/4</code></td><td>356</td><td>~2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi1607327-dp1105325/"><img src="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi1607327-dp1105325/sett.png" alt="Scottish Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

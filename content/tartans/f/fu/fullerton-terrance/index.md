@@ -13,10 +13,10 @@ Its design is pattern [KWGRRKGKGKGR](/stripes/kwgrrkgkgkgr/) — the page of eve
 The **Fullerton, Terrance** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/">Fullerton, Terrance</a></td><td><code>R/24 G12 K8 G4 K8 G2 K24 R48 Ri8 G6 W6 K/20</code></td><td>296</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/"><img src="/variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/sett.png" alt="Fullerton, Terrance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/">Fullerton, Terrance</a></td><td></td><td><code>R/24 G12 K8 G4 K8 G2 K24 R48 Ri8 G6 W6 K/20</code></td><td>296</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/"><img src="/variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/sett.png" alt="Fullerton, Terrance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

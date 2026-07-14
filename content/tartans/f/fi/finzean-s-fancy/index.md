@@ -15,11 +15,11 @@ Designed c.1805-15 by Archibald Farquharson of Finzean to promote his claim to t
 The **Finzean's Fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2109032-r1807008/">Finzean's Fancy</a></td><td><code>W/10 Y16 Ri12 K12 LB56 Y24 Ri12 K4 Ri12 Y24 G56 W4 K8 Ri108 R2 W/4</code></td><td>714</td><td>~1805</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2109032-r1807008/"><img src="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2109032-r1807008/sett.png" alt="Finzean's Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2008029-r1707016/">Finzean, Fancy</a> · <a href="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2109032-r1807008/">Artifact Tartan</a></td></tr>
+<tr><td><a href="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2109032-r1807008/">Finzean's Fancy</a></td><td></td><td><code>W/10 Y16 Ri12 K12 LB56 Y24 Ri12 K4 Ri12 Y24 G56 W4 K8 Ri108 R2 W/4</code></td><td>714</td><td>~1805</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2109032-r1807008/"><img src="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2109032-r1807008/sett.png" alt="Finzean's Fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2008029-r1707016/">Finzean, Fancy</a> · <a href="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2109032-r1807008/">Artifact Tartan</a></td></tr>
 </tbody>
 </table>
 

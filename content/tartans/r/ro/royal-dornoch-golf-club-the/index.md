@@ -13,10 +13,10 @@ Its design is pattern [RBGBGBGWBR](/stripes/rbgbgbgwbr/) — the page of every t
 The **Royal Dornoch Golf Club, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/">Royal Dornoch Golf Club, The</a></td><td><code>R/24 DB44 DG10 DB6 Y6 DB6 DG34 LB18 DO14 R/4</code></td><td>304</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/"><img src="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/sett.png" alt="Royal Dornoch Golf Club, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/">Royal Dornoch Golf Club, The</a></td><td></td><td><code>R/24 DB44 DG10 DB6 Y6 DB6 DG34 LB18 DO14 R/4</code></td><td>304</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/"><img src="/variants/s10/r12db22dg5db3y3db3dg17lb9do7r2~x2/sett.png" alt="Royal Dornoch Golf Club, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KBBWBWBWKR](/stripes/kbbwbwbwkr/) — the page of every t
 The **Ryukoku University Heian Junior High School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/">Ryukoku University Heian Junior High School</a></td><td><code>O/8 K32 LB10 N16 LB4 DP4 LB4 DP4 N16 K/6</code></td><td>194</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/"><img src="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/sett.png" alt="Ryukoku University Heian Junior High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/">Ryukoku University Heian Junior High School</a></td><td></td><td><code>O/8 K32 LB10 N16 LB4 DP4 LB4 DP4 N16 K/6</code></td><td>194</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/"><img src="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/sett.png" alt="Ryukoku University Heian Junior High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

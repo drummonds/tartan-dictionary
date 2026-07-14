@@ -13,10 +13,10 @@ Its design is pattern [RWKBKYGYGYKWR](/stripes/rwkbkygygykwr/) — the page of e
 The **Cahaba Memorial** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/">Cahaba Memorial</a></td><td><code>O/4 W6 K2 T18 K2 LR12 G2 LR6 G2 LR38 K4 W14 O/2</code></td><td>218</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/"><img src="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/sett.png" alt="Cahaba Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/">Cahaba Memorial</a></td><td></td><td><code>O/4 W6 K2 T18 K2 LR12 G2 LR6 G2 LR38 K4 W14 O/2</code></td><td>218</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/"><img src="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/sett.png" alt="Cahaba Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

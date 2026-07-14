@@ -13,10 +13,10 @@ Its design is pattern [GBKBGBKBGBK](/stripes/gbkbgbkbgbk/) — the page of every
 The **Unnamed C19th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg22dr3k10dr3dg24dr2k4dr2dg24dr2k4~x2/">Unnamed C19th</a></td><td><code>DG/44 DR6 K20 DR6 DG48 DR4 K8 DR4 DG48 DR4 K/8</code></td><td>348</td><td>1859</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg22dr3k10dr3dg24dr2k4dr2dg24dr2k4~x2/"><img src="/variants/s11/dg22dr3k10dr3dg24dr2k4dr2dg24dr2k4~x2/sett.png" alt="Unnamed C19th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg22dr3k10dr3dg24dr2k4dr2dg24dr2k4~x2/">Unnamed C19th</a></td><td></td><td><code>DG/44 DR6 K20 DR6 DG48 DR4 K8 DR4 DG48 DR4 K/8</code></td><td>348</td><td>1859</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg22dr3k10dr3dg24dr2k4dr2dg24dr2k4~x2/"><img src="/variants/s11/dg22dr3k10dr3dg24dr2k4dr2dg24dr2k4~x2/sett.png" alt="Unnamed C19th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

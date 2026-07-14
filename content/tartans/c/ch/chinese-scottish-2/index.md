@@ -15,10 +15,10 @@ Designed 2006 by Heather Yellowley to mark Scottish-Chinese ties, blending Salti
 The **Chinese Scottish** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24y3~x2/">Chinese Scottish</a></td><td><code>R/48 G12 R6 G6 DB12 W2 DB2 W4 DB116 W4 DB2 W2 DB12 G6 R6 G12 R48 Y/6</code></td><td>558</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24y3~x2/"><img src="/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24y3~x2/sett.png" alt="Chinese Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24y3~x2/">Chinese Scottish</a></td><td></td><td><code>R/48 G12 R6 G6 DB12 W2 DB2 W4 DB116 W4 DB2 W2 DB12 G6 R6 G12 R48 Y/6</code></td><td>558</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24y3~x2/"><img src="/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24y3~x2/sett.png" alt="Chinese Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

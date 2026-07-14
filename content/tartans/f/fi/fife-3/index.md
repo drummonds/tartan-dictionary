@@ -18,10 +18,10 @@ Its design is pattern [BWBYBGYBKGWB](/stripes/bwbybgybkgwb/) — the page of eve
 The **Fife** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/">Fife</a></td><td><code>T/8 W4 T48 LY12 T28 DY8 LY4 T8 K4 G16 W4 T/8</code></td><td>288</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/"><img src="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/sett.png" alt="Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/">Fife</a></td><td></td><td><code>T/8 W4 T48 LY12 T28 DY8 LY4 T8 K4 G16 W4 T/8</code></td><td>288</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/"><img src="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/sett.png" alt="Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

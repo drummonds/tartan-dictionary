@@ -13,10 +13,10 @@ Its design is pattern [BGKGKBKBW](/stripes/bgkgkbkbw/) — the page of every tar
 The **Derick Wardrope** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/">Derick Wardrope</a></td><td><code>DR/3 G32 K4 G4 K11 DB3 K7 DR4 W/3</code></td><td>136</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/"><img src="/variants/s9/dr3g32k4g4k11db3k7dr4w3/sett.png" alt="Derick Wardrope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/">Derick Wardrope</a></td><td></td><td><code>DR/3 G32 K4 G4 K11 DB3 K7 DR4 W/3</code></td><td>136</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/"><img src="/variants/s9/dr3g32k4g4k11db3k7dr4w3/sett.png" alt="Derick Wardrope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [WBGWGGW](/stripes/wbgwggw/) — the page of every tartan 
 The **Valley, of the** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/">Valley, of the</a></td><td><code>LB/8 DG52 G16 LB16 G16 B6 LB/4</code></td><td>224</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/"><img src="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/sett.png" alt="Valley, of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/">Valley, of the</a></td><td></td><td><code>LB/8 DG52 G16 LB16 G16 B6 LB/4</code></td><td>224</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/"><img src="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/sett.png" alt="Valley, of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

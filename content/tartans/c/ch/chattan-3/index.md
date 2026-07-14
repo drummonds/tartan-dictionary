@@ -18,10 +18,10 @@ Its design is pattern [WGRKBWGRKRGWGWKRW](/stripes/wgrkbwgrkrgwgwkrw/) — the p
 The **Chattan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/">Chattan</a></td><td><code>W/8 Y20 R16 K14 N56 W6 Y12 R10 K4 R10 Y12 W6 G60 W4 K6 R100 W/4</code></td><td>684</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/"><img src="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/sett.png" alt="Chattan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/">Chattan</a></td><td></td><td><code>W/8 Y20 R16 K14 N56 W6 Y12 R10 K4 R10 Y12 W6 G60 W4 K6 R100 W/4</code></td><td>684</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/"><img src="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/sett.png" alt="Chattan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

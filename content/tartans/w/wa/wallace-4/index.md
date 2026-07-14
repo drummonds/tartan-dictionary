@@ -20,10 +20,10 @@ Variant of the Wallace sett derived from the Vestiarium Scoticum (1842).
 The **Wallace** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db29t12g29w2g29t12db29t2~x2~t2405244/">Wallace</a></td><td><code>DB/58 T24 G58 W4 G58 T24 DB58 T/4</code></td><td>514</td><td>1966</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db29t12g29w2g29t12db29t2~x2~t2405244/"><img src="/variants/s8/db29t12g29w2g29t12db29t2~x2~t2405244/sett.png" alt="Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db29t12g29w2g29t12db29t2~x2~t2405244/">Wallace</a></td><td></td><td><code>DB/58 T24 G58 W4 G58 T24 DB58 T/4</code></td><td>514</td><td>1966</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db29t12g29w2g29t12db29t2~x2~t2405244/"><img src="/variants/s8/db29t12g29w2g29t12db29t2~x2~t2405244/sett.png" alt="Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

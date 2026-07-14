@@ -13,10 +13,10 @@ Its design is pattern [BRKRWRWRWR](/stripes/brkrwrwrwr/) — the page of every t
 The **Good Conduct** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/">Good Conduct</a></td><td><code>DB/10 R24 K76 R8 W4 R4 W4 R4 W4 R/8</code></td><td>274</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><img src="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/sett.png" alt="Good Conduct sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/">Good Conduct</a></td><td></td><td><code>DB/10 R24 K76 R8 W4 R4 W4 R4 W4 R/8</code></td><td>274</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><img src="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/sett.png" alt="Good Conduct sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

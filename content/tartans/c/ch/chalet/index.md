@@ -13,10 +13,10 @@ Its design is pattern [GRKRGW](/stripes/grkrgw/) — the page of every tartan sh
 The **Chalet** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g4r16k5r50g4w1~x4/">Chalet</a></td><td><code>G/16 R64 K20 R200 G16 W/4</code></td><td>620</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g4r16k5r50g4w1~x4/"><img src="/variants/s6/g4r16k5r50g4w1~x4/sett.png" alt="Chalet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g4r16k5r50g4w1~x4/">Chalet</a></td><td></td><td><code>G/16 R64 K20 R200 G16 W/4</code></td><td>620</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g4r16k5r50g4w1~x4/"><img src="/variants/s6/g4r16k5r50g4w1~x4/sett.png" alt="Chalet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

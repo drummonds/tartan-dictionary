@@ -13,10 +13,10 @@ Its design is pattern [BRGBWBWB](/stripes/brgbwbwb/) — the page of every tarta
 The **Colvin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/">Colvin</a></td><td><code>B/72 W8 B8 W8 B32 DG128 R18 B/12</code></td><td>488</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><img src="/variants/s8/b36w4b4w4b16dg64r9b6~x2/sett.png" alt="Colvin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/">Colvin</a></td><td></td><td><code>B/72 W8 B8 W8 B32 DG128 R18 B/12</code></td><td>488</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><img src="/variants/s8/b36w4b4w4b16dg64r9b6~x2/sett.png" alt="Colvin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

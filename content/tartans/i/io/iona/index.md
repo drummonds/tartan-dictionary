@@ -13,10 +13,10 @@ Its design is pattern [GGGGKGKGKRYR](/stripes/ggggkgkgkryr/) — the page of eve
 The **Iona** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/">Iona</a></td><td><code>R/16 LY4 R44 K20 DG12 K12 DG20 K12 DG20 DGi6 DG6 DGi/8</code></td><td>336</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/"><img src="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/sett.png" alt="Iona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/">Iona</a></td><td></td><td><code>R/16 LY4 R44 K20 DG12 K12 DG20 K12 DG20 DGi6 DG6 DGi/8</code></td><td>336</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/"><img src="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/sett.png" alt="Iona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

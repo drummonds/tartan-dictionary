@@ -18,10 +18,10 @@ Its design is pattern [BWKWKBKGKRBKBKBKBKR](/stripes/bwkwkbkgkrbkbkbkbkr/) — t
 The **Douglas Ancient Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2~x2/">Douglas Ancient Dress</a></td><td><code>R/12 K12 N2 K12 N2 K4 N10 K2 N10 R6 K4 Y6 K4 N6 K16 W22 K4 W8 N/4</code></td><td>276</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2~x2/"><img src="/variants/s19/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2~x2/sett.png" alt="Douglas Ancient Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2~x2/">Douglas Ancient Dress</a></td><td></td><td><code>R/12 K12 N2 K12 N2 K4 N10 K2 N10 R6 K4 Y6 K4 N6 K16 W22 K4 W8 N/4</code></td><td>276</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2~x2/"><img src="/variants/s19/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2~x2/sett.png" alt="Douglas Ancient Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KGWRWKGBGR](/stripes/kgwrwkgbgr/) — the page of every t
 The **Unnamed 4** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/">Unnamed 4</a></td><td><code>K/12 G28 LB4 R6 LB4 K32 Y4 B32 G32 R/6</code></td><td>302</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/"><img src="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/sett.png" alt="Unnamed 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/">Unnamed 4</a></td><td></td><td><code>K/12 G28 LB4 R6 LB4 K32 Y4 B32 G32 R/6</code></td><td>302</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/"><img src="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/sett.png" alt="Unnamed 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

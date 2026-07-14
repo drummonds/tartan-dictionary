@@ -18,10 +18,10 @@ Its design is pattern [WRBKBRBRW](/stripes/wrbkbrbrw/) — the page of every tar
 The **Australian, dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/">Australian, dress</a></td><td><code>W/100 O8 B4 K4 B4 O8 B20 O30 LB/4</code></td><td>260</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/"><img src="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/sett.png" alt="Australian, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/">Australian, dress</a></td><td></td><td><code>W/100 O8 B4 K4 B4 O8 B20 O30 LB/4</code></td><td>260</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/"><img src="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/sett.png" alt="Australian, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

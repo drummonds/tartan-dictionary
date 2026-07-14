@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKGWGKBKB](/stripes/bkbkbkgwgkbkb/) — the page of e
 The **Scottish Heritage Preservation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1~x4/">Scottish Heritage Preservation</a></td><td><code>DP/44 K4 DP4 K4 DP4 K36 G16 LB4 G16 K32 DP32 K4 DP/4</code></td><td>360</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1~x4/"><img src="/variants/s13/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1~x4/sett.png" alt="Scottish Heritage Preservation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1~x4/">Scottish Heritage Preservation</a></td><td></td><td><code>DP/44 K4 DP4 K4 DP4 K36 G16 LB4 G16 K32 DP32 K4 DP/4</code></td><td>360</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1~x4/"><img src="/variants/s13/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1~x4/sett.png" alt="Scottish Heritage Preservation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

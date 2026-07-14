@@ -18,10 +18,10 @@ Its design is pattern [GGKGKGKBYBYBY](/stripes/ggkgkgkbybyby/) — the page of e
 The **Clerke of Ulva** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/">Clerke of Ulva</a></td><td><code>Y/6 DG6 K8 DG28 K8 DG6 K28 DB36 LO2 DB8 LO4 DB8 LO/2</code></td><td>292</td><td>1847</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><img src="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/sett.png" alt="Clerke of Ulva sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/">Clerke of Ulva</a></td><td></td><td><code>Y/6 DG6 K8 DG28 K8 DG6 K28 DB36 LO2 DB8 LO4 DB8 LO/2</code></td><td>292</td><td>1847</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><img src="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/sett.png" alt="Clerke of Ulva sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

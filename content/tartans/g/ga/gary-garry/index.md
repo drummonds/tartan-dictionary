@@ -13,10 +13,10 @@ Its design is pattern [BGBKBBGK](/stripes/bgbkbbgk/) — the page of every tarta
 The **Gary/Garry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/">Gary/Garry</a></td><td><code>K/8 G48 DB12 DP6 K12 DP24 G6 DP/8</code></td><td>232</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/"><img src="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/sett.png" alt="Gary/Garry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/">Gary/Garry</a></td><td></td><td><code>K/8 G48 DB12 DP6 K12 DP24 G6 DP/8</code></td><td>232</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/"><img src="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/sett.png" alt="Gary/Garry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

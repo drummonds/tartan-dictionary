@@ -13,10 +13,10 @@ Its design is pattern [KRWGGBGWGBGGWR](/stripes/krwggbgwgbggwr/) — the page of
 The **Wilson's No.132** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3~x2~r2109032-w3600000-dg1806142-g1903114/">Wilson's No.132</a></td><td><code>R/36 W4 DG42 G4 DP14 Y10 W4 Y10 DP14 G4 DG42 W4 R36 K/6</code></td><td>418</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3~x2~r2109032-w3600000-dg1806142-g1903114/"><img src="/variants/s14/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3~x2~r2109032-w3600000-dg1806142-g1903114/sett.png" alt="Wilson's No.132 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3~x2~r2109032-w3600000-dg1806142-g1903114/">Wilson's No.132</a></td><td></td><td><code>R/36 W4 DG42 G4 DP14 Y10 W4 Y10 DP14 G4 DG42 W4 R36 K/6</code></td><td>418</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3~x2~r2109032-w3600000-dg1806142-g1903114/"><img src="/variants/s14/r18w2dg21g2dp7y5w2y5dp7g2dg21w2r18k3~x2~r2109032-w3600000-dg1806142-g1903114/sett.png" alt="Wilson's No.132 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

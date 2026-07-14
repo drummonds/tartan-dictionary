@@ -16,10 +16,10 @@ Its design is pattern [BRBGKBGBGBKBR](/stripes/brbgkbgbgbkbr/) — the page of e
 The **Balmoral, Gillies** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/">Balmoral, Gillies</a></td><td><code>B/9 R5 B51 DG13 K13 B5 DG4 B5 DG23 B11 K5 B5 R/5</code></td><td>294</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"><img src="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/sett.png" alt="Balmoral, Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/">Balmoral, Gillies</a></td><td></td><td><code>B/9 R5 B51 DG13 K13 B5 DG4 B5 DG23 B11 K5 B5 R/5</code></td><td>294</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"><img src="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/sett.png" alt="Balmoral, Gillies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

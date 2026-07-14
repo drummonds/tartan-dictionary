@@ -13,10 +13,10 @@ Its design is pattern [BBBGBGBGBB](/stripes/bbbgbgbgbb/) — the page of every t
 The **House of Bruar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/">House of Bruar</a></td><td><code>DO/52 DT56 G52 DT16 Y6 DT16 G52 DT56 DO52 DR/12</code></td><td>676</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/"><img src="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/sett.png" alt="House of Bruar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/">House of Bruar</a></td><td></td><td><code>DO/52 DT56 G52 DT16 Y6 DT16 G52 DT56 DO52 DR/12</code></td><td>676</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/"><img src="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/sett.png" alt="House of Bruar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

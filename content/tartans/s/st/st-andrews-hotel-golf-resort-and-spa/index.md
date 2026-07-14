@@ -13,10 +13,10 @@ Its design is pattern [BRBKBG](/stripes/brbkbg/) — the page of every tartan sh
 The **St Andrews Hotel, Golf Resort, and SPA** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g50db20k3db2o2db5~x2/">St Andrews Hotel, Golf Resort, and SPA</a></td><td><code>G/100 DB40 K6 DB4 O4 DB/10</code></td><td>218</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g50db20k3db2o2db5~x2/"><img src="/variants/s6/g50db20k3db2o2db5~x2/sett.png" alt="St Andrews Hotel, Golf Resort, and SPA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g50db20k3db2o2db5~x2/">St Andrews Hotel, Golf Resort, and SPA</a></td><td></td><td><code>G/100 DB40 K6 DB4 O4 DB/10</code></td><td>218</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g50db20k3db2o2db5~x2/"><img src="/variants/s6/g50db20k3db2o2db5~x2/sett.png" alt="St Andrews Hotel, Golf Resort, and SPA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [KRBRGKWKYKBKYKWKGRBRK](/stripes/krbrgkwkykbkykwkgrbrk/) â
 The **MacLean** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/">MacLean</a></td><td><code>K/8 R12 T8 R88 G40 K8 W12 K8 LY4 K16 T28 K16 LY4 K8 W12 K8 G40 R88 T8 R12 K/2</code></td><td>850</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/"><img src="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/sett.png" alt="MacLean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/">MacLean</a></td><td></td><td><code>K/8 R12 T8 R88 G40 K8 W12 K8 LY4 K16 T28 K16 LY4 K8 W12 K8 G40 R88 T8 R12 K/2</code></td><td>850</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/"><img src="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/sett.png" alt="MacLean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

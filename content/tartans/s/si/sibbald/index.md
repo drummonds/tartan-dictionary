@@ -13,11 +13,11 @@ Its design is pattern [GBBWBWBBW](/stripes/gbbwbwbbw/) — the page of every tar
 The **Sibbald** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/">Sibbald</a></td><td><code>DG/4 DB22 DBi6 W10 DB3 W6 DP4 DBi3 W/4</code></td><td>232</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/"><img src="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/sett.png" alt="Sibbald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/">Blue (2014)</a> · <a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1204274-dbi1406275/">Blue (2014)</a></td></tr>
+<tr><td><a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/">Sibbald</a></td><td></td><td><code>DG/4 DB22 DBi6 W10 DB3 W6 DP4 DBi3 W/4</code></td><td>232</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/"><img src="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/sett.png" alt="Sibbald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/">Blue (2014)</a> · <a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1204274-dbi1406275/">Blue (2014)</a></td></tr>
 </tbody>
 </table>
 

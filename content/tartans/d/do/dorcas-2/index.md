@@ -18,10 +18,10 @@ Its design is pattern [BGBGBGBRWRWR](/stripes/bgbgbgbrwrwr/) — the page of eve
 The **Dorcas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/">Dorcas</a></td><td><code>DR/8 G40 DB4 G4 DB4 G6 DB12 O52 W6 O4 W4 O/8</code></td><td>288</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/"><img src="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/sett.png" alt="Dorcas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/">Dorcas</a></td><td></td><td><code>DR/8 G40 DB4 G4 DB4 G6 DB12 O52 W6 O4 W4 O/8</code></td><td>288</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/"><img src="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/sett.png" alt="Dorcas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

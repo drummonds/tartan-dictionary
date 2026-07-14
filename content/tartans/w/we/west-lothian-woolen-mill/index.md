@@ -16,10 +16,10 @@ Its design is pattern [KWKBGBKBGBRBGBKBGBKWKY](/stripes/kwkbgbkbgbrbgbkbgbkwky/)
 The **West Lothian Woolen Mill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2~x2/">West Lothian Woolen Mill</a></td><td><code>K/68 W4 K4 N54 G2 N4 K6 N4 Y2 N4 R4 N4 Y2 N4 K6 N4 G2 N54 K4 W4 K68 LO/4</code></td><td>552</td><td>1974</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2~x2/"><img src="/variants/s22/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2~x2/sett.png" alt="West Lothian Woolen Mill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2~x2/">West Lothian Woolen Mill</a></td><td></td><td><code>K/68 W4 K4 N54 G2 N4 K6 N4 Y2 N4 R4 N4 Y2 N4 K6 N4 G2 N54 K4 W4 K68 LO/4</code></td><td>552</td><td>1974</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2~x2/"><img src="/variants/s22/k34w2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2w2k34lo2~x2/sett.png" alt="West Lothian Woolen Mill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

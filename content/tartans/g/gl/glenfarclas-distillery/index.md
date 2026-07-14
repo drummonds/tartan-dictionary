@@ -13,10 +13,10 @@ Its design is pattern [RBRBRBRBRGRGRBR](/stripes/rbrbrbrbrgrgrbr/) — the page 
 The **Glenfarclas Distillery** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/">Glenfarclas Distillery</a></td><td><code>O/16 DB6 O6 DG40 O6 DG6 O6 DB12 O6 B6 O40 DB6 O6 DB4 O/12</code></td><td>328</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/"><img src="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/sett.png" alt="Glenfarclas Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/">Glenfarclas Distillery</a></td><td></td><td><code>O/16 DB6 O6 DG40 O6 DG6 O6 DB12 O6 B6 O40 DB6 O6 DB4 O/12</code></td><td>328</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/"><img src="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/sett.png" alt="Glenfarclas Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BGKRBWGBKBGBBKW](/stripes/bgkrbwgbkbgbbkw/) — the page 
 The **Clare County, Crest Range** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/">Clare County, Crest Range</a></td><td><code>DB/62 DY3 K3 R15 DB18 W3 DY28 N12 K3 N5 DY5 N5 DB6 K12 W/8</code></td><td>306</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/"><img src="/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/sett.png" alt="Clare County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/">Clare County, Crest Range</a></td><td></td><td><code>DB/62 DY3 K3 R15 DB18 W3 DY28 N12 K3 N5 DY5 N5 DB6 K12 W/8</code></td><td>306</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/"><img src="/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/sett.png" alt="Clare County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

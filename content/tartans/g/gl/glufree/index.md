@@ -13,10 +13,10 @@ Its design is pattern [GGGRGGRG](/stripes/gggrggrg/) — the page of every tarta
 The **Glufree** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/y8r2y8g1r6y3g4y2~x4/">Glufree</a></td><td><code>Y/32 R8 Y32 G4 R24 Y12 G16 Y/8</code></td><td>232</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y8r2y8g1r6y3g4y2~x4/"><img src="/variants/s8/y8r2y8g1r6y3g4y2~x4/sett.png" alt="Glufree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/y8r2y8g1r6y3g4y2~x4/">Glufree</a></td><td></td><td><code>Y/32 R8 Y32 G4 R24 Y12 G16 Y/8</code></td><td>232</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/y8r2y8g1r6y3g4y2~x4/"><img src="/variants/s8/y8r2y8g1r6y3g4y2~x4/sett.png" alt="Glufree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

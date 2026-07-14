@@ -18,10 +18,10 @@ Dress variant of MacLean of Duart, in burgundy.
 The **MacLean Dress Burgundy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lb12db2k4y2k3r3k3r19w31db2w4k2~x2/">MacLean Dress Burgundy</a></td><td><code>LB/24 DB4 K8 Y4 K6 R6 K6 R38 W62 DB4 W8 K/4</code></td><td>320</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lb12db2k4y2k3r3k3r19w31db2w4k2~x2/"><img src="/variants/s12/lb12db2k4y2k3r3k3r19w31db2w4k2~x2/sett.png" alt="MacLean Dress Burgundy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lb12db2k4y2k3r3k3r19w31db2w4k2~x2/">MacLean Dress Burgundy</a></td><td></td><td><code>LB/24 DB4 K8 Y4 K6 R6 K6 R38 W62 DB4 W8 K/4</code></td><td>320</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lb12db2k4y2k3r3k3r19w31db2w4k2~x2/"><img src="/variants/s12/lb12db2k4y2k3r3k3r19w31db2w4k2~x2/sett.png" alt="MacLean Dress Burgundy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

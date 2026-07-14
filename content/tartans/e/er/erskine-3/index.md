@@ -21,14 +21,14 @@ The **Erskine** tartan groups 3 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k31r4k47r47k4r31~x2/">Erskine</a> ★</td><td><code>K/62 R8 K94 R94 K8 R/62</code></td><td>532</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k31r4k47r47k4r31~x2/"><img src="/variants/s6/k31r4k47r47k4r31~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k6r3k28r28k3r6~x2/">(MacGregor-Hastie)</a></td><td><code>K/12 R6 K56 R56 K6 R/12</code></td><td>272</td><td>~1950</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k6r3k28r28k3r6~x2/"><img src="/variants/s6/k6r3k28r28k3r6~x2/sett.png" alt="(MacGregor-Hastie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r6w2r29w29r2w6~x2/">(Red)</a></td><td><code>R/12 W4 R58 W58 R4 W/12</code></td><td>272</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r6w2r29w29r2w6~x2/"><img src="/variants/s6/r6w2r29w29r2w6~x2/sett.png" alt="(Red) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k31r4k47r47k4r31~x2/">Erskine</a> ★</td><td></td><td><code>K/62 R8 K94 R94 K8 R/62</code></td><td>532</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k31r4k47r47k4r31~x2/"><img src="/variants/s6/k31r4k47r47k4r31~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k6r3k28r28k3r6~x2/">(MacGregor-Hastie)</a></td><td>0.43</td><td><code>K/12 R6 K56 R56 K6 R/12</code></td><td>272</td><td>~1950</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k6r3k28r28k3r6~x2/"><img src="/variants/s6/k6r3k28r28k3r6~x2/sett.png" alt="(MacGregor-Hastie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r6w2r29w29r2w6~x2/">(Red)</a></td><td>0.69</td><td><code>R/12 W4 R58 W58 R4 W/12</code></td><td>272</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r6w2r29w29r2w6~x2/"><img src="/variants/s6/r6w2r29w29r2w6~x2/sett.png" alt="(Red) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

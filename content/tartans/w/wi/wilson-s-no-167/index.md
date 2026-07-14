@@ -13,11 +13,11 @@ Its design is pattern [KBGKWK](/stripes/kbgkwk/) — the page of every tartan sh
 The **Wilson's No.167** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/">Wilson's No.167</a></td><td><code>K/40 LB4 K12 G32 DP8 K/18</code></td><td>170</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><img src="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/sett.png" alt="Wilson's No.167 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/k20lb2k6g16dp4k9~x2/">Wilson's, No 167</a> · <a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/">Wilson's No.167</a></td></tr>
+<tr><td><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/">Wilson's No.167</a></td><td></td><td><code>K/40 LB4 K12 G32 DP8 K/18</code></td><td>170</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><img src="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/sett.png" alt="Wilson's No.167 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/k20lb2k6g16dp4k9~x2/">Wilson's, No 167</a> · <a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/">Wilson's No.167</a></td></tr>
 </tbody>
 </table>
 

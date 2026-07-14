@@ -16,10 +16,10 @@ Its design is pattern [GBBBBYKYKWKBBK](/stripes/gbbbbykykwkbbk/) — the page of
 The **Ross Anderson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/">Ross Anderson</a></td><td><code>DG/16 DR8 DB12 DR4 DB12 LO4 K8 LO4 K8 LB8 K8 N44 DR4 K/4</code></td><td>268</td><td>1936</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/"><img src="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/sett.png" alt="Ross Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/">Ross Anderson</a></td><td></td><td><code>DG/16 DR8 DB12 DR4 DB12 LO4 K8 LO4 K8 LB8 K8 N44 DR4 K/4</code></td><td>268</td><td>1936</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/"><img src="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/sett.png" alt="Ross Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

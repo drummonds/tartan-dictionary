@@ -18,10 +18,10 @@ Its design is pattern [BBBBBGBGWG](/stripes/bbbbbgbgwg/) — the page of every t
 The **Bell of Ardbel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/">Bell of Ardbel</a></td><td><code>DO/14 DR8 DO8 DR50 DP2 G64 DP8 G4 W4 G/10</code></td><td>320</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/"><img src="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/sett.png" alt="Bell of Ardbel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/">Bell of Ardbel</a></td><td></td><td><code>DO/14 DR8 DO8 DR50 DP2 G64 DP8 G4 W4 G/10</code></td><td>320</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/"><img src="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/sett.png" alt="Bell of Ardbel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KGKWKWRWRWRW](/stripes/kgkwkwrwrwrw/) — the page of eve
 The **Fish Hoek High School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w20r5w5r81w5r5w20k5w5k60y10k4/">Fish Hoek High School</a></td><td><code>W/20 R5 W5 R81 W5 R5 W20 K5 W5 K60 Y10 K/4</code></td><td>426</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w20r5w5r81w5r5w20k5w5k60y10k4/"><img src="/variants/s12/w20r5w5r81w5r5w20k5w5k60y10k4/sett.png" alt="Fish Hoek High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w20r5w5r81w5r5w20k5w5k60y10k4/">Fish Hoek High School</a></td><td></td><td><code>W/20 R5 W5 R81 W5 R5 W20 K5 W5 K60 Y10 K/4</code></td><td>426</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w20r5w5r81w5r5w20k5w5k60y10k4/"><img src="/variants/s12/w20r5w5r81w5r5w20k5w5k60y10k4/sett.png" alt="Fish Hoek High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

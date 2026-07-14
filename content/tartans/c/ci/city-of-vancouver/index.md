@@ -13,10 +13,10 @@ Its design is pattern [BGWGYG](/stripes/bgwgyg/) — the page of every tartan sh
 The **City of Vancouver** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/">City of Vancouver</a></td><td><code>DG/8 LO4 DG48 LB24 G48 DR/4</code></td><td>260</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"><img src="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/sett.png" alt="City of Vancouver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/">City of Vancouver</a></td><td></td><td><code>DG/8 LO4 DG48 LB24 G48 DR/4</code></td><td>260</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"><img src="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/sett.png" alt="City of Vancouver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

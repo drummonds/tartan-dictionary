@@ -13,10 +13,10 @@ Its design is pattern [GRKRGKGGRGWG](/stripes/grkrgkggrgwg/) — the page of eve
 The **Royal Army of Oman** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/">Royal Army of Oman</a></td><td><code>DG/12 W6 DG30 R6 DG30 Y6 K20 DG42 R6 K6 R6 DG/6</code></td><td>334</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/"><img src="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/sett.png" alt="Royal Army of Oman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/">Royal Army of Oman</a></td><td></td><td><code>DG/12 W6 DG30 R6 DG30 Y6 K20 DG42 R6 K6 R6 DG/6</code></td><td>334</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/"><img src="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/sett.png" alt="Royal Army of Oman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

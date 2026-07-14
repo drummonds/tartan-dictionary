@@ -18,10 +18,10 @@ Its design is pattern [KRKRKRGRKBKRKR](/stripes/krkrkrgrkbkrkr/) — the page of
 The **Hebrides** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/">Hebrides</a></td><td><code>K/6 R4 K34 R6 K34 R6 DG6 R6 K34 T6 K8 R2 K34 R/4</code></td><td>370</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/"><img src="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/">Hebrides</a></td><td></td><td><code>K/6 R4 K34 R6 K34 R6 DG6 R6 K34 T6 K8 R2 K34 R/4</code></td><td>370</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/"><img src="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/sett.png" alt="Hebrides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

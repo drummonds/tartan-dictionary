@@ -22,12 +22,12 @@ The **Cooke** tartan groups 2 setts — the same named design recorded as differ
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/">Cooke</a> ★</td><td><code>K/24 LB8 DB48 G32 R20 K8 G/12</code></td><td>268</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/"><img src="/variants/s7/k6lb2db12g8r5k2g3~x4/sett.png" alt="Cooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/k6b2db12g8r5k2g3~x4/">Cooke</a></td><td><code>K/24 B8 DB48 G32 R20 K8 G/12</code></td><td>268</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k6b2db12g8r5k2g3~x4/"><img src="/variants/s7/k6b2db12g8r5k2g3~x4/sett.png" alt="Cooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/">Cooke</a> ★</td><td></td><td><code>K/24 LB8 DB48 G32 R20 K8 G/12</code></td><td>268</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/"><img src="/variants/s7/k6lb2db12g8r5k2g3~x4/sett.png" alt="Cooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k6b2db12g8r5k2g3~x4/">Cooke</a></td><td>0.03</td><td><code>K/24 B8 DB48 G32 R20 K8 G/12</code></td><td>268</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k6b2db12g8r5k2g3~x4/"><img src="/variants/s7/k6b2db12g8r5k2g3~x4/sett.png" alt="Cooke sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

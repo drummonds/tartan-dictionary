@@ -13,10 +13,10 @@ Its design is pattern [BWGRBRBR](/stripes/bwgrbrbr/) — the page of every tarta
 The **Ware/Warr** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/t9w2dg30o6dr2o2dr2o6~x2/">Ware/Warr</a></td><td><code>T/18 W4 DG60 O12 DR4 O4 DR4 O/12</code></td><td>206</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/t9w2dg30o6dr2o2dr2o6~x2/"><img src="/variants/s8/t9w2dg30o6dr2o2dr2o6~x2/sett.png" alt="Ware/Warr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/t9w2dg30o6dr2o2dr2o6~x2/">Ware/Warr</a></td><td></td><td><code>T/18 W4 DG60 O12 DR4 O4 DR4 O/12</code></td><td>206</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/t9w2dg30o6dr2o2dr2o6~x2/"><img src="/variants/s8/t9w2dg30o6dr2o2dr2o6~x2/sett.png" alt="Ware/Warr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

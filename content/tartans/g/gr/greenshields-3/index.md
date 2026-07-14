@@ -18,10 +18,10 @@ Its design is pattern [GGGKBKGGGGGKGGGGGKBKGGGK](/stripes/gggkbkgggggkgggggkbkgg
 The **Greenshields** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/">Greenshields</a></td><td><code>G/20 DY4 G18 K16 DR3 K10 G4 DY26 G20 DY4 G20 K4 G20 DY4 G20 DY26 G4 K10 DR3 K16 G18 DY4 G20 K/4</code></td><td>572</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/"><img src="/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/sett.png" alt="Greenshields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/">Greenshields</a></td><td></td><td><code>G/20 DY4 G18 K16 DR3 K10 G4 DY26 G20 DY4 G20 K4 G20 DY4 G20 DY26 G4 K10 DR3 K16 G18 DY4 G20 K/4</code></td><td>572</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/"><img src="/variants/s24/g20dy4g18k16dr3k10g4dy26g20dy4g20k4g20dy4g20dy26g4k10dr3k16g18dy4g20k4/sett.png" alt="Greenshields sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

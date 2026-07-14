@@ -18,10 +18,10 @@ Late Victorian child's Highland dress sett, a 'Victoria' variant favoured by Que
 The **Victoria Highland Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5db5w23r5~x2/">Victoria Highland Dress</a></td><td><code>W/46 DB10 W10 K14 Y6 K6 W4 K6 G32 R16 G6 R12 W6 R12 G6 R16 G32 K6 W4 K6 Y6 K14 W10 DB10 W46 R/10</code></td><td>648</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5db5w23r5~x2/"><img src="/variants/s26/w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5db5w23r5~x2/sett.png" alt="Victoria Highland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5db5w23r5~x2/">Victoria Highland Dress</a></td><td></td><td><code>W/46 DB10 W10 K14 Y6 K6 W4 K6 G32 R16 G6 R12 W6 R12 G6 R16 G32 K6 W4 K6 Y6 K14 W10 DB10 W46 R/10</code></td><td>648</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5db5w23r5~x2/"><img src="/variants/s26/w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5db5w23r5~x2/sett.png" alt="Victoria Highland Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

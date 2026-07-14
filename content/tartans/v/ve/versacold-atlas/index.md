@@ -13,10 +13,10 @@ Its design is pattern [BBKBKBKBR](/stripes/bbkbkbkbr/) — the page of every tar
 The **VersaCold/Atlas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/">VersaCold/Atlas</a></td><td><code>DB/6 N88 K18 N20 K18 N20 K18 N88 R/6</code></td><td>552</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/"><img src="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/sett.png" alt="VersaCold/Atlas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/">VersaCold/Atlas</a></td><td></td><td><code>DB/6 N88 K18 N20 K18 N20 K18 N88 R/6</code></td><td>552</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/"><img src="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/sett.png" alt="VersaCold/Atlas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGRGKBYBKGRG](/stripes/bgrgkbybkgrg/) — the page of eve
 The **Isle of Gigha** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/">Isle of Gigha</a></td><td><code>DG/32 R8 DG32 K32 DB32 LY8 DB32 K32 DG32 R8 DG32 DB/16</code></td><td>544</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/"><img src="/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/sett.png" alt="Isle of Gigha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/">Isle of Gigha</a></td><td></td><td><code>DG/32 R8 DG32 K32 DB32 LY8 DB32 K32 DG32 R8 DG32 DB/16</code></td><td>544</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/"><img src="/variants/s12/dg4r1dg4k4db4ly1db4k4dg4r1dg4db2~x8/sett.png" alt="Isle of Gigha sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

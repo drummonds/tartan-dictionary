@@ -16,10 +16,10 @@ Its design is pattern [BWBWWBGWGWBWRWRWBWBBWWWB](/stripes/bwbwwbgwgwbwrwrwbwbbww
 The **Stewart, Silk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/">Stewart, Silk</a></td><td><code>DB/8 W4 DB4 W2 LB10 B10 G10 W2 G40 W2 DB8 LB8 O6 W2 O6 LB8 DB8 W2 B60 DB4 LB4 W2 LB4 DB/4</code></td><td>424</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/"><img src="/variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/sett.png" alt="Stewart, Silk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/">Stewart, Silk</a></td><td></td><td><code>DB/8 W4 DB4 W2 LB10 B10 G10 W2 G40 W2 DB8 LB8 O6 W2 O6 LB8 DB8 W2 B60 DB4 LB4 W2 LB4 DB/4</code></td><td>424</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/"><img src="/variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/sett.png" alt="Stewart, Silk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

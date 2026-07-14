@@ -18,10 +18,10 @@ Its design is pattern [BGBGBRWRGKG](/stripes/bgbgbrwrgkg/) — the page of every
 The **Buchanan 7** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/y30k2y15r15w2r15db15dg15db4dg15db15~x2/">Buchanan 7</a></td><td><code>Y/60 K4 Y30 R30 W4 R30 DB30 DG30 DB8 DG30 DB/30</code></td><td>482</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/y30k2y15r15w2r15db15dg15db4dg15db15~x2/"><img src="/variants/s11/y30k2y15r15w2r15db15dg15db4dg15db15~x2/sett.png" alt="Buchanan 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/y30k2y15r15w2r15db15dg15db4dg15db15~x2/">Buchanan 7</a></td><td></td><td><code>Y/60 K4 Y30 R30 W4 R30 DB30 DG30 DB8 DG30 DB/30</code></td><td>482</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/y30k2y15r15w2r15db15dg15db4dg15db15~x2/"><img src="/variants/s11/y30k2y15r15w2r15db15dg15db4dg15db15~x2/sett.png" alt="Buchanan 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

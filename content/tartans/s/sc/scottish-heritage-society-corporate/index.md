@@ -13,10 +13,10 @@ Its design is pattern [BBKBGKRKGBKW](/stripes/bbkbgkrkgbkw/) — the page of eve
 The **Scottish Heritage Society (Corporate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db76dp6k6db24g17k4r10k4g17db4k2w6/">Scottish Heritage Society (Corporate</a></td><td><code>DB/76 DP6 K6 DB24 G17 K4 R10 K4 G17 DB4 K2 W/6</code></td><td>270</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db76dp6k6db24g17k4r10k4g17db4k2w6/"><img src="/variants/s12/db76dp6k6db24g17k4r10k4g17db4k2w6/sett.png" alt="Scottish Heritage Society (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db76dp6k6db24g17k4r10k4g17db4k2w6/">Scottish Heritage Society (Corporate</a></td><td></td><td><code>DB/76 DP6 K6 DB24 G17 K4 R10 K4 G17 DB4 K2 W/6</code></td><td>270</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db76dp6k6db24g17k4r10k4g17db4k2w6/"><img src="/variants/s12/db76dp6k6db24g17k4r10k4g17db4k2w6/sett.png" alt="Scottish Heritage Society (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

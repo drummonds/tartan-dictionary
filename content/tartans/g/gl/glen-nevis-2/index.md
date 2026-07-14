@@ -16,10 +16,10 @@ Its design is pattern [RWRWRKRKBBBW](/stripes/rwrwrkrkbbbw/) — the page of eve
 The **Glen Nevis** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/">Glen Nevis</a></td><td><code>O/44 W4 O4 W4 O8 K10 O10 K10 N10 DR4 N26 W/4</code></td><td>228</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"><img src="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/sett.png" alt="Glen Nevis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/">Glen Nevis</a></td><td></td><td><code>O/44 W4 O4 W4 O8 K10 O10 K10 N10 DR4 N26 W/4</code></td><td>228</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"><img src="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/sett.png" alt="Glen Nevis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

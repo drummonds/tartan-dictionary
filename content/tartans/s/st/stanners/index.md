@@ -15,11 +15,11 @@ Personal tartan for the Stanners family of Grangepans, Bo'ness, West Lothian, fo
 The **Stanners** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/">Stanners</a></td><td><code>LB/16 K16 DB16 K16 G16 W4 G16 W4 DB12 R16 DB12 R16 W/4</code></td><td>308</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/"><img src="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/sett.png" alt="Stanners sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/">(Personal)</a> · <a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4~db1404245/">(Personal)</a></td></tr>
+<tr><td><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/">Stanners</a></td><td></td><td><code>LB/16 K16 DB16 K16 G16 W4 G16 W4 DB12 R16 DB12 R16 W/4</code></td><td>308</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/"><img src="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/sett.png" alt="Stanners sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/">(Personal)</a> · <a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4~db1404245/">(Personal)</a></td></tr>
 </tbody>
 </table>
 

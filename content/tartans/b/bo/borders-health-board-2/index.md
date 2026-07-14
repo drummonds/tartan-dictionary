@@ -13,10 +13,10 @@ Its design is pattern [BKBKGKGKGKBKBRBGBR](/stripes/bkbkgkgkgkbkbrbgbr/) — the
 The **Borders Health Board** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/t25k3t3k3g6k3g6k3g6k3t3k3t25r3t3y3t3r3~x2/">Borders Health Board</a></td><td><code>T/50 K6 T6 K6 G12 K6 G12 K6 G12 K6 T6 K6 T50 R6 T6 Y6 T6 R/6</code></td><td>372</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/t25k3t3k3g6k3g6k3g6k3t3k3t25r3t3y3t3r3~x2/"><img src="/variants/s18/t25k3t3k3g6k3g6k3g6k3t3k3t25r3t3y3t3r3~x2/sett.png" alt="Borders Health Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/t25k3t3k3g6k3g6k3g6k3t3k3t25r3t3y3t3r3~x2/">Borders Health Board</a></td><td></td><td><code>T/50 K6 T6 K6 G12 K6 G12 K6 G12 K6 T6 K6 T50 R6 T6 Y6 T6 R/6</code></td><td>372</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/t25k3t3k3g6k3g6k3g6k3t3k3t25r3t3y3t3r3~x2/"><img src="/variants/s18/t25k3t3k3g6k3g6k3g6k3t3k3t25r3t3y3t3r3~x2/sett.png" alt="Borders Health Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

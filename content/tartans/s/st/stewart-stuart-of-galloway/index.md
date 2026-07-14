@@ -13,10 +13,10 @@ Its design is pattern [GRGKYKWKGRGYGRGKWKYKGR](/stripes/grgkykwkgrgygrgkwkykgr/)
 The **Stewart/Stuart of Galloway** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9~x2~dg1605139/">Stewart/Stuart of Galloway</a></td><td><code>R/104 Y26 K32 LY4 K6 W8 K6 DG46 R30 DG14 LY6 DG14 R30 DG46 K6 W8 K6 LY4 K32 Y26 R104 DG/18</code></td><td>1030</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9~x2~dg1605139/"><img src="/variants/s22/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9~x2~dg1605139/sett.png" alt="Stewart/Stuart of Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9~x2~dg1605139/">Stewart/Stuart of Galloway</a></td><td></td><td><code>R/104 Y26 K32 LY4 K6 W8 K6 DG46 R30 DG14 LY6 DG14 R30 DG46 K6 W8 K6 LY4 K32 Y26 R104 DG/18</code></td><td>1030</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9~x2~dg1605139/"><img src="/variants/s22/r52y13k16ly2k3w4k3dg23r15dg7ly3dg7r15dg23k3w4k3ly2k16y13r52dg9~x2~dg1605139/sett.png" alt="Stewart/Stuart of Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

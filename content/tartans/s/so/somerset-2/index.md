@@ -20,10 +20,10 @@ Designed for Somerset, with colours symbolising its rivers, peat, abbeys, Chedda
 The **Somerset** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/n8lg7r5w2k2w2k2w2k2w2k2w2r5lg7n8g8~x4/">Somerset</a></td><td><code>N/32 LG28 R20 W8 K8 W8 K8 W8 K8 W8 K8 W8 R20 LG28 N32 G/32</code></td><td>464</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/n8lg7r5w2k2w2k2w2k2w2k2w2r5lg7n8g8~x4/"><img src="/variants/s16/n8lg7r5w2k2w2k2w2k2w2k2w2r5lg7n8g8~x4/sett.png" alt="Somerset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/n8lg7r5w2k2w2k2w2k2w2k2w2r5lg7n8g8~x4/">Somerset</a></td><td></td><td><code>N/32 LG28 R20 W8 K8 W8 K8 W8 K8 W8 K8 W8 R20 LG28 N32 G/32</code></td><td>464</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/n8lg7r5w2k2w2k2w2k2w2k2w2r5lg7n8g8~x4/"><img src="/variants/s16/n8lg7r5w2k2w2k2w2k2w2k2w2r5lg7n8g8~x4/sett.png" alt="Somerset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

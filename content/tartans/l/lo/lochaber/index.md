@@ -18,10 +18,10 @@ Its design is pattern [GRGKRBWG](/stripes/grgkrbwg/) — the page of every tarta
 The **Lochaber** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g3r1g18k20r1db18lb1g2~x4/">Lochaber</a></td><td><code>G/12 R4 G72 K80 R4 DB72 LB4 G/8</code></td><td>492</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g3r1g18k20r1db18lb1g2~x4/"><img src="/variants/s8/g3r1g18k20r1db18lb1g2~x4/sett.png" alt="Lochaber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g3r1g18k20r1db18lb1g2~x4/">Lochaber</a></td><td></td><td><code>G/12 R4 G72 K80 R4 DB72 LB4 G/8</code></td><td>492</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g3r1g18k20r1db18lb1g2~x4/"><img src="/variants/s8/g3r1g18k20r1db18lb1g2~x4/sett.png" alt="Lochaber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

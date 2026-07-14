@@ -13,10 +13,10 @@ Its design is pattern [BYBYRBRBRY](/stripes/bybyrbrbry/) — the page of every t
 The **Harry/Parry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/">Harry/Parry</a></td><td><code>DB/6 LY3 DB3 LY15 R7 DB7 R5 DB17 R46 LY/4</code></td><td>216</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/"><img src="/variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/sett.png" alt="Harry/Parry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/">Harry/Parry</a></td><td></td><td><code>DB/6 LY3 DB3 LY15 R7 DB7 R5 DB17 R46 LY/4</code></td><td>216</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/"><img src="/variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/sett.png" alt="Harry/Parry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

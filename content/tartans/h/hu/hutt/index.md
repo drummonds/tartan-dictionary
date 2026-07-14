@@ -18,10 +18,10 @@ Its design is pattern [GGGRBWBGBGBGBGBWBRGG](/stripes/gggrbwbgbgbgbgbwbrgg/) —
 The **Hutt** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/">Hutt</a></td><td><code>DG/28 Y8 R4 N16 LB60 N4 Y8 N4 Y8 N8 Y8 N4 Y8 N4 LB60 N16 R4 Y8 DG28 Y/4</code></td><td>552</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><img src="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/sett.png" alt="Hutt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/">Hutt</a></td><td></td><td><code>DG/28 Y8 R4 N16 LB60 N4 Y8 N4 Y8 N8 Y8 N4 Y8 N4 LB60 N16 R4 Y8 DG28 Y/4</code></td><td>552</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><img src="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/sett.png" alt="Hutt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

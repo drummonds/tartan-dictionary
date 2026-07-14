@@ -13,10 +13,10 @@ Its design is pattern [KWKRKWKWK](/stripes/kwkrkwkwk/) — the page of every tar
 The **St. Mirren Football Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/">St. Mirren Football Club</a></td><td><code>K/14 W4 K42 R4 K68 W10 K6 W4 K/14</code></td><td>304</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/"><img src="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/sett.png" alt="St. Mirren Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/">St. Mirren Football Club</a></td><td></td><td><code>K/14 W4 K42 R4 K68 W10 K6 W4 K/14</code></td><td>304</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/"><img src="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/sett.png" alt="St. Mirren Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/la/lambert-greer/">Lambert Greer</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/la/lambert-greer/"><img src="/variants/s8/k3r34g10r5t2k8dy2w3~x2/sett.png" alt="Lambert Greer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/la/lambert-greer/"><img src="/variants/s8/k3r34g10r5db2k8dy2w3~x2/sett.png" alt="Lambert Greer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

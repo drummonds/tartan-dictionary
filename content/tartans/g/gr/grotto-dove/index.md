@@ -13,10 +13,10 @@ Its design is pattern [WBKBGKWKGKW](/stripes/wbkbgkwkgkw/) — the page of every
 The **Grotto Dove** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/">Grotto Dove</a></td><td><code>LB/104 K28 G4 K4 LB4 K4 G20 DP12 K4 DP8 LB/4</code></td><td>284</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/"><img src="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/sett.png" alt="Grotto Dove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/">Grotto Dove</a></td><td></td><td><code>LB/104 K28 G4 K4 LB4 K4 G20 DP12 K4 DP8 LB/4</code></td><td>284</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/"><img src="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/sett.png" alt="Grotto Dove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

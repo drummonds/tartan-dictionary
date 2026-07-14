@@ -13,10 +13,10 @@ Its design is pattern [BGBBRBRBBGB](/stripes/bgbbrbrbbgb/) — the page of every
 The **Gravesend Grammar School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8~dbi1406275-db1004274/">Gravesend Grammar School</a></td><td><code>DBi/8 G5 DBi72 DB72 O5 DB16 O5 DB72 DBi72 G5 DBi/8</code></td><td>664</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8~dbi1406275-db1004274/"><img src="/variants/s11/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8~dbi1406275-db1004274/sett.png" alt="Gravesend Grammar School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8~dbi1406275-db1004274/">Gravesend Grammar School</a></td><td></td><td><code>DBi/8 G5 DBi72 DB72 O5 DB16 O5 DB72 DBi72 G5 DBi/8</code></td><td>664</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8~dbi1406275-db1004274/"><img src="/variants/s11/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8~dbi1406275-db1004274/sett.png" alt="Gravesend Grammar School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

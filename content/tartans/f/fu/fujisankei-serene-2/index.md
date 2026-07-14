@@ -13,10 +13,10 @@ Its design is pattern [BWBWBBBBW](/stripes/bwbwbbbbw/) — the page of every tar
 The **Fujisankei Serene** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/n1lb6db4lb1db16dt1db4dt6lb1~x4~dt1602194/">Fujisankei Serene</a></td><td><code>N/4 LB24 DB16 LB4 DB64 DT4 DB16 DT24 LB/4</code></td><td>312</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/n1lb6db4lb1db16dt1db4dt6lb1~x4~dt1602194/"><img src="/variants/s9/n1lb6db4lb1db16dt1db4dt6lb1~x4~dt1602194/sett.png" alt="Fujisankei Serene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/n1lb6db4lb1db16dt1db4dt6lb1~x4~dt1602194/">Fujisankei Serene</a></td><td></td><td><code>N/4 LB24 DB16 LB4 DB64 DT4 DB16 DT24 LB/4</code></td><td>312</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/n1lb6db4lb1db16dt1db4dt6lb1~x4~dt1602194/"><img src="/variants/s9/n1lb6db4lb1db16dt1db4dt6lb1~x4~dt1602194/sett.png" alt="Fujisankei Serene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

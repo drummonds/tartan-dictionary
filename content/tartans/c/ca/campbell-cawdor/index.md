@@ -16,10 +16,10 @@ Its design is pattern [RKBKGKW](/stripes/rkbkgkw/) — the page of every tartan 
 The **Campbell Cawdor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r2k1db8k8g8k1w2/">Campbell Cawdor</a></td><td><code>R/2 K1 DB8 K8 G8 K1 W/2</code></td><td>56</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r2k1db8k8g8k1w2/"><img src="/variants/s7/r2k1db8k8g8k1w2/sett.png" alt="Campbell Cawdor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2k1db8k8g8k1w2/">Campbell Cawdor</a></td><td></td><td><code>R/2 K1 DB8 K8 G8 K1 W/2</code></td><td>56</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2k1db8k8g8k1w2/"><img src="/variants/s7/r2k1db8k8g8k1w2/sett.png" alt="Campbell Cawdor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [YGWGYKBKWKBKGKY](/stripes/ygwgykbkwkbkgky/) — the page 
 The **Lochalsh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/">Lochalsh</a></td><td><code>LY/4 G3 W25 G4 LY4 K12 DB16 K2 W4 K2 DB16 K12 G16 K2 LY/4</code></td><td>244</td><td>~2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/"><img src="/variants/s15/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/sett.png" alt="Lochalsh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/">Lochalsh</a></td><td></td><td><code>LY/4 G3 W25 G4 LY4 K12 DB16 K2 W4 K2 DB16 K12 G16 K2 LY/4</code></td><td>244</td><td>~2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/"><img src="/variants/s15/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/sett.png" alt="Lochalsh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

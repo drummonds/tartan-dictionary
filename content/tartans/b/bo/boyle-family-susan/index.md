@@ -13,10 +13,10 @@ Its design is pattern [GRGBGBKBYBY](/stripes/grgbgbkbyby/) — the page of every
 The **Boyle Family, Susan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/">Boyle Family, Susan</a></td><td><code>G/9 R6 G40 DP6 G6 DP6 K6 DP36 LY4 DP8 LY/4</code></td><td>249</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/"><img src="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/sett.png" alt="Boyle Family, Susan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/">Boyle Family, Susan</a></td><td></td><td><code>G/9 R6 G40 DP6 G6 DP6 K6 DP36 LY4 DP8 LY/4</code></td><td>249</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/"><img src="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/sett.png" alt="Boyle Family, Susan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

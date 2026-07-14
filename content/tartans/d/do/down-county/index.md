@@ -13,10 +13,10 @@ Its design is pattern [BBRBWYBBY](/stripes/bbrbwybby/) — the page of every tar
 The **Down, County** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/">Down, County</a></td><td><code>DO/128 DR18 O22 DR8 LB4 LO4 N10 DR4 LO/26</code></td><td>294</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/"><img src="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/sett.png" alt="Down, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/">Down, County</a></td><td></td><td><code>DO/128 DR18 O22 DR8 LB4 LO4 N10 DR4 LO/26</code></td><td>294</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/"><img src="/variants/s9/do64dr9o11dr4lb2lo2n5dr2lo13~x2/sett.png" alt="Down, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

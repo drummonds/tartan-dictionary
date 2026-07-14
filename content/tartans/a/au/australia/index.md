@@ -20,11 +20,11 @@ Designed 1984 by Melbourne architect John Reid for a national competition, based
 The **Australia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/">Australia</a></td><td><code>W/4 O30 LO20 O8 LO4 K4 LO4 O8 LO100 O8 LO4 K4 LO4 O8 LO20 O30 LB/4</code></td><td>520</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/"><img src="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/sett.png" alt="Australia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/">1984 (District)</a> · <a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2~lb3203246/">The</a></td></tr>
+<tr><td><a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/">Australia</a></td><td></td><td><code>W/4 O30 LO20 O8 LO4 K4 LO4 O8 LO100 O8 LO4 K4 LO4 O8 LO20 O30 LB/4</code></td><td>520</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/"><img src="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/sett.png" alt="Australia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/">1984 (District)</a> · <a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2~lb3203246/">The</a></td></tr>
 </tbody>
 </table>
 

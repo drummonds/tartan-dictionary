@@ -13,10 +13,10 @@ Its design is pattern [BKRKBKRGRGRWGRGWRKBKRKB](/stripes/bkrkbkrgrgrwgrgwrkbkrkb
 The **Unidentified 28** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/db8k2r7k2db8k2r33w93y3r3y3w34r98y3r3y3r33k2db8k2r7k2db8~x2/">Unidentified 28</a></td><td><code>DB/16 K4 R14 K4 DB16 K4 R66 W186 Y6 R6 Y6 W68 R196 Y6 R6 Y6 R66 K4 DB16 K4 R14 K4 DB/16</code></td><td>1436</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/db8k2r7k2db8k2r33w93y3r3y3w34r98y3r3y3r33k2db8k2r7k2db8~x2/"><img src="/variants/s23/db8k2r7k2db8k2r33w93y3r3y3w34r98y3r3y3r33k2db8k2r7k2db8~x2/sett.png" alt="Unidentified 28 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/db8k2r7k2db8k2r33w93y3r3y3w34r98y3r3y3r33k2db8k2r7k2db8~x2/">Unidentified 28</a></td><td></td><td><code>DB/16 K4 R14 K4 DB16 K4 R66 W186 Y6 R6 Y6 W68 R196 Y6 R6 Y6 R66 K4 DB16 K4 R14 K4 DB/16</code></td><td>1436</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/db8k2r7k2db8k2r33w93y3r3y3w34r98y3r3y3r33k2db8k2r7k2db8~x2/"><img src="/variants/s23/db8k2r7k2db8k2r33w93y3r3y3w34r98y3r3y3r33k2db8k2r7k2db8~x2/sett.png" alt="Unidentified 28 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

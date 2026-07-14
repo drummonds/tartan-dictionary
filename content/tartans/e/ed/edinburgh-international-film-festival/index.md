@@ -16,10 +16,10 @@ Its design is pattern [KRKRKRKWKWKRK](/stripes/krkrkrkwkwkrk/) — the page of e
 The **Edinburgh International Film Festival** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/">Edinburgh International Film Festival</a></td><td><code>K/184 R1 K2 R2 K2 R1 K2 W1 K6 W1 K4 R10 K/20</code></td><td>268</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/"><img src="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/sett.png" alt="Edinburgh International Film Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/">Edinburgh International Film Festival</a></td><td></td><td><code>K/184 R1 K2 R2 K2 R1 K2 W1 K6 W1 K4 R10 K/20</code></td><td>268</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/"><img src="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/sett.png" alt="Edinburgh International Film Festival sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

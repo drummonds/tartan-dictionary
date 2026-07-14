@@ -15,10 +15,10 @@ Corporate tartan designed by Claire Donaldson of House of Edgar for British Wate
 The **Scottish Canals** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/">Scottish Canals</a></td><td><code>Y/2 DB26 G9 DB2 DBi29 DB1 G/2</code></td><td>—</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/"><img src="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/sett.png" alt="Scottish Canals sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/">Scottish Canals</a></td><td></td><td><code>Y/2 DB26 G9 DB2 DBi29 DB1 G/2</code></td><td>—</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/"><img src="/variants/s7/y2db26g9db2dbi29db1g2~x2~db1204274-dbi1406275/sett.png" alt="Scottish Canals sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

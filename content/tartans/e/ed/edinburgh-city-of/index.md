@@ -18,10 +18,10 @@ District tartan for the City of Edinburgh; asymmetric design, trialled June 2001
 The **Edinburgh, City of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/">Edinburgh, City of</a></td><td><code>LB/20 K6 W6 K6 W6 K6 LB20 R12 K30 R/6</code></td><td>210</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><img src="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/sett.png" alt="Edinburgh, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/">Edinburgh, City of</a></td><td></td><td><code>LB/20 K6 W6 K6 W6 K6 LB20 R12 K30 R/6</code></td><td>210</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><img src="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/sett.png" alt="Edinburgh, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

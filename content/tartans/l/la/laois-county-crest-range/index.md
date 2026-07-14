@@ -13,10 +13,10 @@ Its design is pattern [GGKGKBKBBKW](/stripes/ggkgkbkbbkw/) — the page of every
 The **Laois County, Crest Range** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/">Laois County, Crest Range</a></td><td><code>Y/18 DY6 K8 DY8 K16 DR34 K6 DR34 DB16 K8 W/8</code></td><td>298</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/"><img src="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/sett.png" alt="Laois County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/">Laois County, Crest Range</a></td><td></td><td><code>Y/18 DY6 K8 DY8 K16 DR34 K6 DR34 DB16 K8 W/8</code></td><td>298</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/"><img src="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/sett.png" alt="Laois County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

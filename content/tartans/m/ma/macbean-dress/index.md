@@ -20,10 +20,10 @@ Dress variant of MacBean, based on Scarlett's Meta MacBean with added black guar
 The **MacBean Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/">MacBean Dress</a></td><td><code>G/20 W8 R8 DR8 G4 DR8 R8 W8 G20 W8 LB8 W4 LB8 W46 K4 R/4</code></td><td>324</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/"><img src="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/sett.png" alt="MacBean Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/">MacBean Dress</a></td><td></td><td><code>G/20 W8 R8 DR8 G4 DR8 R8 W8 G20 W8 LB8 W4 LB8 W46 K4 R/4</code></td><td>324</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/"><img src="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/sett.png" alt="MacBean Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGGGGGGG](/stripes/gggggggg/) — the page of every tarta
 The **Ancient Universal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/">Ancient Universal</a></td><td><code>Y/24 DG4 Y4 DG4 Y4 DY16 G16 DY/2</code></td><td>122</td><td>~1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/"><img src="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/sett.png" alt="Ancient Universal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/">Ancient Universal</a></td><td></td><td><code>Y/24 DG4 Y4 DG4 Y4 DY16 G16 DY/2</code></td><td>122</td><td>~1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/"><img src="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/sett.png" alt="Ancient Universal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

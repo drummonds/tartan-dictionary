@@ -13,10 +13,10 @@ Its design is pattern [BGBRGBRGBRGBRGBRGBRBRWGRRRWRRR](/stripes/bgbrgbrgbrgbrgbr
 The **Unidentified, Victorian fancy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/">Unidentified, Victorian fancy</a></td><td><code>DB/12 G12 DB4 O20 G12 DB4 O20 G12 DB4 O20 G12 DB4 O20 G12 DB4 O20 G12 DB11 O24 B4 O4 W2 DG20 R8 O4 R5 W4 R5 O4 R/8</code></td><td>594</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/"><img src="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/sett.png" alt="Unidentified, Victorian fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/">Unidentified, Victorian fancy</a></td><td></td><td><code>DB/12 G12 DB4 O20 G12 DB4 O20 G12 DB4 O20 G12 DB4 O20 G12 DB4 O20 G12 DB11 O24 B4 O4 W2 DG20 R8 O4 R5 W4 R5 O4 R/8</code></td><td>594</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/"><img src="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/sett.png" alt="Unidentified, Victorian fancy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GKGKWKBKBKY](/stripes/gkgkwkbkbky/) — the page of every
 The **Dublin County, Crest Range** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/">Dublin County, Crest Range</a></td><td><code>DY/9 K8 DY30 K4 LB8 K4 DB24 K54 DR14 K4 LR/8</code></td><td>317</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/"><img src="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/sett.png" alt="Dublin County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/">Dublin County, Crest Range</a></td><td></td><td><code>DY/9 K8 DY30 K4 LB8 K4 DB24 K54 DR14 K4 LR/8</code></td><td>317</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/"><img src="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/sett.png" alt="Dublin County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

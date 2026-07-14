@@ -20,10 +20,10 @@ Reputedly cut from Prince Charles's '45 plaid, but likely a c.1790 commercial co
 The **Whitworth** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4~x2/">Whitworth</a></td><td><code>DB/120 K4 DB4 K4 DB10 K30 DB10 G40 R4 K6 R4 G40 DB10 K30 G10 DB40 K4 G/8</code></td><td>628</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4~x2/"><img src="/variants/s18/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4~x2/sett.png" alt="Whitworth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4~x2/">Whitworth</a></td><td></td><td><code>DB/120 K4 DB4 K4 DB10 K30 DB10 G40 R4 K6 R4 G40 DB10 K30 G10 DB40 K4 G/8</code></td><td>628</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4~x2/"><img src="/variants/s18/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4~x2/sett.png" alt="Whitworth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

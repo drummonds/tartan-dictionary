@@ -16,10 +16,10 @@ Its design is pattern [GRGRGR](/stripes/grgrgr/) — the page of every tartan sh
 The **Cameron Clan D** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r1g6r1g6r15y1~x2/">Cameron Clan D</a></td><td><code>R/2 G12 R2 G12 R30 Y/2</code></td><td>116</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r1g6r1g6r15y1~x2/"><img src="/variants/s6/r1g6r1g6r15y1~x2/sett.png" alt="Cameron Clan D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r1g6r1g6r15y1~x2/">Cameron Clan D</a></td><td></td><td><code>R/2 G12 R2 G12 R30 Y/2</code></td><td>116</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r1g6r1g6r15y1~x2/"><img src="/variants/s6/r1g6r1g6r15y1~x2/sett.png" alt="Cameron Clan D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KGGGBKR](/stripes/kgggbkr/) — the page of every tartan 
 The **PSD: Operation Iraqi Freedom** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k2y1dg12y12dr12k1r2~x4/">PSD: Operation Iraqi Freedom</a></td><td><code>K/8 Y4 DG48 Y48 DR48 K4 R/8</code></td><td>320</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k2y1dg12y12dr12k1r2~x4/"><img src="/variants/s7/k2y1dg12y12dr12k1r2~x4/sett.png" alt="PSD: Operation Iraqi Freedom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k2y1dg12y12dr12k1r2~x4/">PSD: Operation Iraqi Freedom</a></td><td></td><td><code>K/8 Y4 DG48 Y48 DR48 K4 R/8</code></td><td>320</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k2y1dg12y12dr12k1r2~x4/"><img src="/variants/s7/k2y1dg12y12dr12k1r2~x4/sett.png" alt="PSD: Operation Iraqi Freedom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KBWBWKW](/stripes/kbwbwkw/) — the page of every tartan 
 The **Mary Washington** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/">Mary Washington</a></td><td><code>K/6 DBi36 LB6 DB36 LB36 K6 W/6</code></td><td>252</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/"><img src="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/sett.png" alt="Mary Washington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/">Mary Washington</a></td><td></td><td><code>K/6 DBi36 LB6 DB36 LB36 K6 W/6</code></td><td>252</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/"><img src="/variants/s7/k1dbi6lb1db6lb6k1w1~x6~dbi1406275-db1404245/sett.png" alt="Mary Washington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

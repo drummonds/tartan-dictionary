@@ -13,10 +13,10 @@ Its design is pattern [RKWRW](/stripes/rkwrw/) — the page of every tartan shar
 The **Braes High School Falkirk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/w5r5w5k15r2~x2/">Braes High School Falkirk</a></td><td><code>W/10 R10 W10 K30 R/4</code></td><td>114</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w5r5w5k15r2~x2/"><img src="/variants/s5/w5r5w5k15r2~x2/sett.png" alt="Braes High School Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w5r5w5k15r2~x2/">Braes High School Falkirk</a></td><td></td><td><code>W/10 R10 W10 K30 R/4</code></td><td>114</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/w5r5w5k15r2~x2/"><img src="/variants/s5/w5r5w5k15r2~x2/sett.png" alt="Braes High School Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GRYRKGYRKRYGWKR](/stripes/gryrkgyrkrygwkr/) — the page 
 The **MacPherson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/">MacPherson</a></td><td><code>R/320 K4 W2 DG72 LY18 R8 K2 R8 LY18 Y72 K18 R18 LY18 R8 Y/6</code></td><td>858</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/"><img src="/variants/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/sett.png" alt="MacPherson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/">MacPherson</a></td><td></td><td><code>R/320 K4 W2 DG72 LY18 R8 K2 R8 LY18 Y72 K18 R18 LY18 R8 Y/6</code></td><td>858</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/"><img src="/variants/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/sett.png" alt="MacPherson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

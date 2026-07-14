@@ -18,10 +18,10 @@ Designed 1963 by Cornish poet E.E. Morton-Nance to commemorate the ancient kingd
 The **Cornish National Small Set** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w2k11y11lb3k1r1~x2/">Cornish National Small Set</a></td><td><code>W/4 K22 Y22 LB6 K2 R/2</code></td><td>110</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><img src="/variants/s6/w2k11y11lb3k1r1~x2/sett.png" alt="Cornish National Small Set sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w2k11y11lb3k1r1~x2/">Cornish National Small Set</a></td><td></td><td><code>W/4 K22 Y22 LB6 K2 R/2</code></td><td>110</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><img src="/variants/s6/w2k11y11lb3k1r1~x2/sett.png" alt="Cornish National Small Set sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

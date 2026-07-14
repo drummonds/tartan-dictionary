@@ -13,10 +13,10 @@ Its design is pattern [RBKWKGKGRKRKW](/stripes/rbkwkgkgrkrkw/) — the page of e
 The **Mary Stewart, Queen of Scots** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/">Mary Stewart, Queen of Scots</a></td><td><code>Ri/50 DB10 K10 W8 K4 Y4 K4 G16 R12 K4 Ri6 K2 W/4</code></td><td>214</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/"><img src="/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/sett.png" alt="Mary Stewart, Queen of Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/">Mary Stewart, Queen of Scots</a></td><td></td><td><code>Ri/50 DB10 K10 W8 K4 Y4 K4 G16 R12 K4 Ri6 K2 W/4</code></td><td>214</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/"><img src="/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/sett.png" alt="Mary Stewart, Queen of Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

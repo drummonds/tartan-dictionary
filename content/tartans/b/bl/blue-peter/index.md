@@ -16,10 +16,10 @@ Its design is pattern [YBBBBGBY](/stripes/ybbbbgby/) — the page of every tarta
 The **Blue Peter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/">Blue Peter</a></td><td><code>LY/6 DBi48 DB8 DBi8 DB40 G8 DP8 LY/4</code></td><td>250</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/"><img src="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/sett.png" alt="Blue Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/">Blue Peter</a></td><td></td><td><code>LY/6 DBi48 DB8 DBi8 DB40 G8 DP8 LY/4</code></td><td>250</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/"><img src="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/sett.png" alt="Blue Peter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

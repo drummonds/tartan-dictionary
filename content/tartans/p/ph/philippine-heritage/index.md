@@ -17,12 +17,12 @@ The **Philippine Heritage** tartan groups 2 setts — the same named design reco
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/db30w4y1w4r30~x4/">Philippine Heritage</a> ★</td><td><code>DB/120 W16 Y4 W16 R/120</code></td><td>312</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db30w4y1w4r30~x4/"><img src="/variants/s5/db30w4y1w4r30~x4/sett.png" alt="Philippine Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/db30w4ly1w4r30~x4/">(Corporate)</a></td><td><code>DB/120 W16 LY4 W16 R/120</code></td><td>312</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db30w4ly1w4r30~x4/"><img src="/variants/s5/db30w4ly1w4r30~x4/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db30w4y1w4r30~x4/">Philippine Heritage</a> ★</td><td></td><td><code>DB/120 W16 Y4 W16 R/120</code></td><td>312</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db30w4y1w4r30~x4/"><img src="/variants/s5/db30w4y1w4r30~x4/sett.png" alt="Philippine Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db30w4ly1w4r30~x4/">(Corporate)</a></td><td>0.01</td><td><code>DB/120 W16 LY4 W16 R/120</code></td><td>312</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db30w4ly1w4r30~x4/"><img src="/variants/s5/db30w4ly1w4r30~x4/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RRBBBRY](/stripes/rrbbbry/) — the page of every tartan 
 The **Newmill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/">Newmill</a></td><td><code>R/5 O20 DB13 DBi42 DB13 O20 LO/5</code></td><td>226</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/"><img src="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/sett.png" alt="Newmill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/">Newmill</a></td><td></td><td><code>R/5 O20 DB13 DBi42 DB13 O20 LO/5</code></td><td>226</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/"><img src="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/sett.png" alt="Newmill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

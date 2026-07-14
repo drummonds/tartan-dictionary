@@ -13,10 +13,10 @@ Its design is pattern [GRBGRGWGGWGWGR](/stripes/grbgrgwggwgwgr/) — the page of
 The **Unidentified 9** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r35y7w1dg3w1y7dg19w2g17r12g5b5r5g2~x2/">Unidentified 9</a></td><td><code>R/70 Y14 W2 DG6 W2 Y14 DG38 W4 G34 R24 G10 B10 R10 G/4</code></td><td>410</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r35y7w1dg3w1y7dg19w2g17r12g5b5r5g2~x2/"><img src="/variants/s14/r35y7w1dg3w1y7dg19w2g17r12g5b5r5g2~x2/sett.png" alt="Unidentified 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r35y7w1dg3w1y7dg19w2g17r12g5b5r5g2~x2/">Unidentified 9</a></td><td></td><td><code>R/70 Y14 W2 DG6 W2 Y14 DG38 W4 G34 R24 G10 B10 R10 G/4</code></td><td>410</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r35y7w1dg3w1y7dg19w2g17r12g5b5r5g2~x2/"><img src="/variants/s14/r35y7w1dg3w1y7dg19w2g17r12g5b5r5g2~x2/sett.png" alt="Unidentified 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

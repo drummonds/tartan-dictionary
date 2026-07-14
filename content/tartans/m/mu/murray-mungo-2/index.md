@@ -16,10 +16,10 @@ Its design is pattern [RGKGKGKGRGRGKGRGRGKGBGKGRGKGRGRGKGKGKGKGKGKGKGKGKGKGRWRGR
 The **Murray, Mungo** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s63/o10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1b7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4o1w2o1y2o1w2o1y4k6y1w2~x2/">Murray, Mungo</a></td><td><code>O/20 Y8 K4 Y4 K4 Y4 K4 Y8 R2 Y4 R2 Y8 K8 Y6 R14 Y6 R14 Y2 K2 Y2 B14 Y2 K2 Y2 R14 Y2 K2 Y2 R14 Y6 R14 Y6 K8 Y8 K4 Y4 K4 Y8 K8 Y12 K4 Y12 K4 Y12 K4 Y12 K4 Y12 K4 Y12 K20 Y8 O2 W4 O2 Y4 O2 W4 O2 Y8 K12 Y2 W/4</code></td><td>808</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s63/o10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1b7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4o1w2o1y2o1w2o1y4k6y1w2~x2/"><img src="/variants/s63/o10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1b7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4o1w2o1y2o1w2o1y4k6y1w2~x2/sett.png" alt="Murray, Mungo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s63/o10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1b7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4o1w2o1y2o1w2o1y4k6y1w2~x2/">Murray, Mungo</a></td><td></td><td><code>O/20 Y8 K4 Y4 K4 Y4 K4 Y8 R2 Y4 R2 Y8 K8 Y6 R14 Y6 R14 Y2 K2 Y2 B14 Y2 K2 Y2 R14 Y2 K2 Y2 R14 Y6 R14 Y6 K8 Y8 K4 Y4 K4 Y8 K8 Y12 K4 Y12 K4 Y12 K4 Y12 K4 Y12 K4 Y12 K20 Y8 O2 W4 O2 Y4 O2 W4 O2 Y8 K12 Y2 W/4</code></td><td>808</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s63/o10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1b7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4o1w2o1y2o1w2o1y4k6y1w2~x2/"><img src="/variants/s63/o10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1b7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4o1w2o1y2o1w2o1y4k6y1w2~x2/sett.png" alt="Murray, Mungo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

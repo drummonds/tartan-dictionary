@@ -18,10 +18,10 @@ Corporate tartan for McMullin Kilts, Aberdeenshire; greens, blues and burgundy e
 The **Highland Glen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/">Highland Glen</a></td><td><code>LB/100 R6 LB8 R8 LB14 K28 DG62 LY4 W/4</code></td><td>364</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/"><img src="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/sett.png" alt="Highland Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/">Highland Glen</a></td><td></td><td><code>LB/100 R6 LB8 R8 LB14 K28 DG62 LY4 W/4</code></td><td>364</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/"><img src="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/sett.png" alt="Highland Glen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

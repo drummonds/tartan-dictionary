@@ -13,10 +13,10 @@ Its design is pattern [WBKBKBKY](/stripes/wbkbkbky/) — the page of every tarta
 The **Mens Bigi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/">Mens Bigi</a></td><td><code>LO/8 K34 DR2 K8 DR4 K8 DR66 W/6</code></td><td>258</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><img src="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/sett.png" alt="Mens Bigi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/">Mens Bigi</a></td><td></td><td><code>LO/8 K34 DR2 K8 DR4 K8 DR66 W/6</code></td><td>258</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><img src="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/sett.png" alt="Mens Bigi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

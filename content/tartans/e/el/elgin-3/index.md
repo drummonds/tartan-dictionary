@@ -18,10 +18,10 @@ Its design is pattern [RKGKGKGKBKKKGW](/stripes/rkgkgkgkbkkkgw/) — the page of
 The **Elgin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r1ki6g1k1g1k1g6k1b1k1ki3k3g3w1~x8~ki0604259/">Elgin</a></td><td><code>R/8 Ki48 G8 K8 G8 K8 G48 K8 B8 K8 Ki24 K24 G24 W/8</code></td><td>464</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r1ki6g1k1g1k1g6k1b1k1ki3k3g3w1~x8~ki0604259/"><img src="/variants/s14/r1ki6g1k1g1k1g6k1b1k1ki3k3g3w1~x8~ki0604259/sett.png" alt="Elgin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r1ki6g1k1g1k1g6k1b1k1ki3k3g3w1~x8~ki0604259/">Elgin</a></td><td></td><td><code>R/8 Ki48 G8 K8 G8 K8 G48 K8 B8 K8 Ki24 K24 G24 W/8</code></td><td>464</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r1ki6g1k1g1k1g6k1b1k1ki3k3g3w1~x8~ki0604259/"><img src="/variants/s14/r1ki6g1k1g1k1g6k1b1k1ki3k3g3w1~x8~ki0604259/sett.png" alt="Elgin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

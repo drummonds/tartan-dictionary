@@ -13,10 +13,10 @@ Its design is pattern [RYBYBYW](/stripes/rybybyw/) — the page of every tartan 
 The **Reece** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w2ly44db8ly2db2ly3r1~x2/">Reece</a></td><td><code>W/4 LY88 DB16 LY4 DB4 LY6 R/2</code></td><td>242</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w2ly44db8ly2db2ly3r1~x2/"><img src="/variants/s7/w2ly44db8ly2db2ly3r1~x2/sett.png" alt="Reece sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w2ly44db8ly2db2ly3r1~x2/">Reece</a></td><td></td><td><code>W/4 LY88 DB16 LY4 DB4 LY6 R/2</code></td><td>242</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w2ly44db8ly2db2ly3r1~x2/"><img src="/variants/s7/w2ly44db8ly2db2ly3r1~x2/sett.png" alt="Reece sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

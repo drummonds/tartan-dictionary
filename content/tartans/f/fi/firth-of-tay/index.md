@@ -18,10 +18,10 @@ Its design is pattern [BWBWKGBGKY](/stripes/bwbwkgbgky/) — the page of every t
 The **Firth of Tay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/">Firth of Tay</a></td><td><code>B/8 W8 B4 W36 K20 DG12 DR8 DG20 K4 LY/8</code></td><td>240</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><img src="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/sett.png" alt="Firth of Tay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/">Firth of Tay</a></td><td></td><td><code>B/8 W8 B4 W36 K20 DG12 DR8 DG20 K4 LY/8</code></td><td>240</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><img src="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/sett.png" alt="Firth of Tay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

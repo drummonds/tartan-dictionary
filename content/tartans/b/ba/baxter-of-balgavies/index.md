@@ -20,15 +20,15 @@ The **Baxter of Balgavies** tartan groups 2 setts — the same named design reco
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/">Baxter of Balgavies</a> ★</td><td><code>W/2 R16 K1 LB2 K1 Y4 K1 LB2 K1 G16 LB/1</code></td><td>91</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/"><img src="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/sett.png" alt="Baxter of Balgavies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/">Baxter of Balgavies</a></td><td><code>W/4 R32 K2 LB4 K2 Y8 K2 LB4 K2 G32 LB/2</code></td><td>182</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/">Baxter (Clan)</a></td><td><code>W/8 R64 K4 LB8 K4 Y16 K4 LB8 K4 G64 LB/4</code></td><td>364</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/">Baxter of Balgavies</a> · <a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/">Baxter (Clan)</a></td></tr>
-<tr><td><a href="/variants/s11/w2r16k1t2k1ly4k1t2k1dg16t1~x4/">Baxter of Balgavies</a></td><td><code>W/8 R64 K4 T8 K4 LY16 K4 T8 K4 DG64 T/4</code></td><td>364</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w2r16k1t2k1ly4k1t2k1dg16t1~x4/"><img src="/variants/s11/w2r16k1t2k1ly4k1t2k1dg16t1~x4/sett.png" alt="Baxter of Balgavies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/">Baxter of Balgavies</a> ★</td><td></td><td><code>W/2 R16 K1 LB2 K1 Y4 K1 LB2 K1 G16 LB/1</code></td><td>91</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/"><img src="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/sett.png" alt="Baxter of Balgavies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/">Baxter of Balgavies</a></td><td>0.00</td><td><code>W/4 R32 K2 LB4 K2 Y8 K2 LB4 K2 G32 LB/2</code></td><td>182</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/">Baxter (Clan)</a></td><td>0.00</td><td><code>W/8 R64 K4 LB8 K4 Y16 K4 LB8 K4 G64 LB/4</code></td><td>364</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/">Baxter of Balgavies</a> · <a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/">Baxter (Clan)</a></td></tr>
+<tr><td><a href="/variants/s11/w2r16k1t2k1ly4k1t2k1dg16t1~x4/">Baxter of Balgavies</a></td><td>0.19</td><td><code>W/8 R64 K4 T8 K4 LY16 K4 T8 K4 DG64 T/4</code></td><td>364</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w2r16k1t2k1ly4k1t2k1dg16t1~x4/"><img src="/variants/s11/w2r16k1t2k1ly4k1t2k1dg16t1~x4/sett.png" alt="Baxter of Balgavies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

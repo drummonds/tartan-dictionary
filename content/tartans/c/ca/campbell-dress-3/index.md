@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKWGKWBWBWBWBWKGGGK](/stripes/bkbkbkwgkwbwbwbwbwkgggk
 The **Campbell dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/k12g12y3g12k9w5db6w19db2w6db2w19db6w5k9g12w3k12db10k2db2k2db10~x2/">Campbell dress</a></td><td><code>K/24 G24 Y6 G24 K18 W10 DB12 W38 DB4 W12 DB4 W38 DB12 W10 K18 G24 W6 K24 DB20 K4 DB4 K4 DB/20</code></td><td>676</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/k12g12y3g12k9w5db6w19db2w6db2w19db6w5k9g12w3k12db10k2db2k2db10~x2/"><img src="/variants/s23/k12g12y3g12k9w5db6w19db2w6db2w19db6w5k9g12w3k12db10k2db2k2db10~x2/sett.png" alt="Campbell dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/k12g12y3g12k9w5db6w19db2w6db2w19db6w5k9g12w3k12db10k2db2k2db10~x2/">Campbell dress</a></td><td></td><td><code>K/24 G24 Y6 G24 K18 W10 DB12 W38 DB4 W12 DB4 W38 DB12 W10 K18 G24 W6 K24 DB20 K4 DB4 K4 DB/20</code></td><td>676</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/k12g12y3g12k9w5db6w19db2w6db2w19db6w5k9g12w3k12db10k2db2k2db10~x2/"><img src="/variants/s23/k12g12y3g12k9w5db6w19db2w6db2w19db6w5k9g12w3k12db10k2db2k2db10~x2/sett.png" alt="Campbell dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

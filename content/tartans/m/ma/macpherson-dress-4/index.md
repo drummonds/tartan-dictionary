@@ -24,16 +24,16 @@ The **MacPherson Dress** tartan groups 4 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w5r3w26g20w3g8y3~x2/">MacPherson Dress</a> ★</td><td><code>W/10 R6 W52 G40 W6 G16 Y/6</code></td><td>256</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w5r3w26g20w3g8y3~x2/"><img src="/variants/s7/w5r3w26g20w3g8y3~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/w5dr3w26g20w3g8y3~x2/">Green (Dance)</a></td><td><code>W/10 DR6 W52 G40 W6 G16 Y/6</code></td><td>256</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w5dr3w26g20w3g8y3~x2/"><img src="/variants/s7/w5dr3w26g20w3g8y3~x2/sett.png" alt="Green (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/">Blue (Dance)</a></td><td><code>W/10 R6 W52 DT42 W6 DT16 Y/6</code></td><td>260</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><img src="/variants/s7/w5r3w26dt21w3dt8y3~x2/sett.png" alt="Blue (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/w5r3w26g21w3g8y3~x2/">Blue (Dance) #2</a></td><td><code>W/10 R6 W52 G42 W6 G16 Y/6</code></td><td>260</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w5r3w26g21w3g8y3~x2/"><img src="/variants/s7/w5r3w26g21w3g8y3~x2/sett.png" alt="Blue (Dance) #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w5r3w26g20w3g8y3~x2/">MacPherson Dress</a> ★</td><td></td><td><code>W/10 R6 W52 G40 W6 G16 Y/6</code></td><td>256</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w5r3w26g20w3g8y3~x2/"><img src="/variants/s7/w5r3w26g20w3g8y3~x2/sett.png" alt="MacPherson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w5dr3w26g20w3g8y3~x2/">Green (Dance)</a></td><td>0.03</td><td><code>W/10 DR6 W52 G40 W6 G16 Y/6</code></td><td>256</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w5dr3w26g20w3g8y3~x2/"><img src="/variants/s7/w5dr3w26g20w3g8y3~x2/sett.png" alt="Green (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/">Blue (Dance)</a></td><td>0.21</td><td><code>W/10 R6 W52 DT42 W6 DT16 Y/6</code></td><td>260</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><img src="/variants/s7/w5r3w26dt21w3dt8y3~x2/sett.png" alt="Blue (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w5r3w26g21w3g8y3~x2/">Blue (Dance) #2</a></td><td>0.04</td><td><code>W/10 R6 W52 G42 W6 G16 Y/6</code></td><td>260</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w5r3w26g21w3g8y3~x2/"><img src="/variants/s7/w5r3w26g21w3g8y3~x2/sett.png" alt="Blue (Dance) #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

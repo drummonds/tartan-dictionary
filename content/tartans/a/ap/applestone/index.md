@@ -13,10 +13,10 @@ Its design is pattern [BRBRBRBKRGBGBG](/stripes/brbrbrbkrgbgbg/) — the page of
 The **Applestone** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/">Applestone</a></td><td><code>DB/44 R4 DB4 R12 DB4 R4 DB76 K92 R4 DY84 N4 DY4 N4 DY/30</code></td><td>666</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/"><img src="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/sett.png" alt="Applestone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/">Applestone</a></td><td></td><td><code>DB/44 R4 DB4 R12 DB4 R4 DB76 K92 R4 DY84 N4 DY4 N4 DY/30</code></td><td>666</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/"><img src="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/sett.png" alt="Applestone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

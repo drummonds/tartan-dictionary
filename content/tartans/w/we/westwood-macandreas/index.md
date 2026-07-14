@@ -16,10 +16,10 @@ Its design is pattern [BWRKRWKWKYKYKRBRBR](/stripes/bwrkrwkwkykykrbrbr/) — the
 The **Westwood MacAndreas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/">Westwood MacAndreas</a></td><td><code>R/10 T12 R4 T18 R28 K10 LY4 K4 LY4 K10 W10 K10 LB46 R2 K4 R2 LB10 T/8</code></td><td>374</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/"><img src="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/sett.png" alt="Westwood MacAndreas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/">Westwood MacAndreas</a></td><td></td><td><code>R/10 T12 R4 T18 R28 K10 LY4 K4 LY4 K10 W10 K10 LB46 R2 K4 R2 LB10 T/8</code></td><td>374</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/"><img src="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/sett.png" alt="Westwood MacAndreas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

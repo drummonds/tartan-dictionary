@@ -13,11 +13,11 @@ Its design is pattern [GBBBWBYBG](/stripes/gbbbwbybg/) — the page of every tar
 The **Heart of Strathearn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g16t6dr6t4w2t80lo3t10y2/">Heart of Strathearn</a></td><td><code>G/16 T6 DR6 T4 W2 T80 LO3 T10 Y/2</code></td><td>240</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g16t6dr6t4w2t80lo3t10y2/"><img src="/variants/s9/g16t6dr6t4w2t80lo3t10y2/sett.png" alt="Heart of Strathearn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/g16t6dr6t4w2t80lo3t10y2/">(Corporate)</a> · <a href="/variants/s9/g16t6dr6t4w2t80lo3t10y2~w3600000/">Heart of Strathearn</a></td></tr>
+<tr><td><a href="/variants/s9/g16t6dr6t4w2t80lo3t10y2/">Heart of Strathearn</a></td><td></td><td><code>G/16 T6 DR6 T4 W2 T80 LO3 T10 Y/2</code></td><td>240</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g16t6dr6t4w2t80lo3t10y2/"><img src="/variants/s9/g16t6dr6t4w2t80lo3t10y2/sett.png" alt="Heart of Strathearn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/g16t6dr6t4w2t80lo3t10y2/">(Corporate)</a> · <a href="/variants/s9/g16t6dr6t4w2t80lo3t10y2~w3600000/">Heart of Strathearn</a></td></tr>
 </tbody>
 </table>
 

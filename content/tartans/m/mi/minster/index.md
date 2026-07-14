@@ -18,10 +18,10 @@ Its design is pattern [BBBBBBBBGRBGBB](/stripes/bbbbbbbbgrbgbb/) — the page of
 The **Minster** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/">Minster</a></td><td><code>DR/12 DB4 DG6 DB6 R4 G36 DR4 DB32 DR36 DBi6 DR6 DBi4 DR4 DB/12</code></td><td>320</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"><img src="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/sett.png" alt="Minster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/">Minster</a></td><td></td><td><code>DR/12 DB4 DG6 DB6 R4 G36 DR4 DB32 DR36 DBi6 DR6 DBi4 DR4 DB/12</code></td><td>320</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"><img src="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/sett.png" alt="Minster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Dress variant of Campbell, dated 1880, sampled at the Black Watch museum but nev
 The **Campbell Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/">Campbell Dress</a></td><td><code>W/6 K4 W30 DB6 W6 K14 G16 K4 G16 K14 DB16 K2 DB/4</code></td><td>266</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/"><img src="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/sett.png" alt="Campbell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/">Campbell Dress</a></td><td></td><td><code>W/6 K4 W30 DB6 W6 K14 G16 K4 G16 K14 DB16 K2 DB/4</code></td><td>266</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/"><img src="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/sett.png" alt="Campbell Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

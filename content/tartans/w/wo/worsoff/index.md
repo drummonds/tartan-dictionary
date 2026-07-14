@@ -13,10 +13,10 @@ Its design is pattern [BBWBWBBBWBWBGB](/stripes/bbwbwbbbwbwbgb/) — the page of
 The **Worsoff** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/">Worsoff</a></td><td><code>DBi/64 DB2 W4 DBi2 W4 DB2 DBi64 DB2 W4 DB2 W4 DB2 Y10 DB/2</code></td><td>270</td><td>1969</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/"><img src="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/sett.png" alt="Worsoff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/">Worsoff</a></td><td></td><td><code>DBi/64 DB2 W4 DBi2 W4 DB2 DBi64 DB2 W4 DB2 W4 DB2 Y10 DB/2</code></td><td>270</td><td>1969</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/"><img src="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/sett.png" alt="Worsoff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

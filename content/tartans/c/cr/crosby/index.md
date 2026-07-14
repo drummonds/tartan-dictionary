@@ -13,10 +13,10 @@ Its design is pattern [YGGBGBGBGBGGY](/stripes/yggbgbgbgbggy/) — the page of e
 The **Crosby** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1~x6/">Crosby</a></td><td><code>LR/6 DG36 G12 P12 G12 DR36 G6 DR36 G12 P12 G12 DG36 LO/6</code></td><td>456</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1~x6/"><img src="/variants/s13/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1~x6/sett.png" alt="Crosby sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1~x6/">Crosby</a></td><td></td><td><code>LR/6 DG36 G12 P12 G12 DR36 G6 DR36 G12 P12 G12 DG36 LO/6</code></td><td>456</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1~x6/"><img src="/variants/s13/lr1dg6g2p2g2dr6g1dr6g2p2g2dg6lo1~x6/sett.png" alt="Crosby sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

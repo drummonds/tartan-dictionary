@@ -16,10 +16,10 @@ Its design is pattern [GRGRGKGWRWRW](/stripes/grgrgkgwrwrw/) — the page of eve
 The **Macallan Distillery** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/">Macallan Distillery</a></td><td><code>G/16 R2 G4 R6 G24 K24 DY2 LB24 R6 LB4 R2 LB/16</code></td><td>228</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><img src="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/sett.png" alt="Macallan Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/">Macallan Distillery</a></td><td></td><td><code>G/16 R2 G4 R6 G24 K24 DY2 LB24 R6 LB4 R2 LB/16</code></td><td>228</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><img src="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/sett.png" alt="Macallan Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

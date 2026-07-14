@@ -16,10 +16,10 @@ Its design is pattern [BKBBBRB](/stripes/bkbbbrb/) — the page of every tartan 
 The **Lennox Primary School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dp2o1dp10db1n10k1n2~x4/">Lennox Primary School</a></td><td><code>DP/8 O4 DP40 DB4 N40 K4 N/8</code></td><td>200</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp2o1dp10db1n10k1n2~x4/"><img src="/variants/s7/dp2o1dp10db1n10k1n2~x4/sett.png" alt="Lennox Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp2o1dp10db1n10k1n2~x4/">Lennox Primary School</a></td><td></td><td><code>DP/8 O4 DP40 DB4 N40 K4 N/8</code></td><td>200</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp2o1dp10db1n10k1n2~x4/"><img src="/variants/s7/dp2o1dp10db1n10k1n2~x4/sett.png" alt="Lennox Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

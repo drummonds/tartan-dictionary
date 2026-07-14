@@ -16,13 +16,13 @@ The **Maple Leaf MINI** tartan is one sett, recorded at 2 scales — the same pr
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/">Maple Leaf MINI</a></td><td><code>DG/6 R1 DG1 R4 G4 R4 DG1 R1 DG6 DY2 G2 Y/2</code></td><td>60</td><td>1964</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/"><img src="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/sett.png" alt="Maple Leaf MINI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/">Canadian District Tartan</a></td><td><code>DG/24 R4 DG4 R16 G16 R16 DG4 R4 DG24 DY8 G8 Y/8</code></td><td>240</td><td>1964</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x8/">Maple Leaf Canadian District Tartan</a></td><td><code>DG/48 R8 DG8 R32 G32 R32 DG8 R8 DG48 DY16 G16 Y/16</code></td><td>480</td><td>1964</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/">Canadian District Tartan</a> · <a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x8/">Maple Leaf Canadian District Tartan</a></td></tr>
+<tr><td><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/">Maple Leaf MINI</a></td><td></td><td><code>DG/6 R1 DG1 R4 G4 R4 DG1 R1 DG6 DY2 G2 Y/2</code></td><td>60</td><td>1964</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/"><img src="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/sett.png" alt="Maple Leaf MINI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/">Canadian District Tartan</a></td><td>0.00</td><td><code>DG/24 R4 DG4 R16 G16 R16 DG4 R4 DG24 DY8 G8 Y/8</code></td><td>240</td><td>1964</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x8/">Maple Leaf Canadian District Tartan</a></td><td>0.00</td><td><code>DG/48 R8 DG8 R32 G32 R32 DG8 R8 DG48 DY16 G16 Y/16</code></td><td>480</td><td>1964</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/">Canadian District Tartan</a> · <a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x8/">Maple Leaf Canadian District Tartan</a></td></tr>
 </tbody>
 </table>
 

@@ -15,12 +15,12 @@ The **Gouranga** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/">Gouranga</a> ★</td><td><code>DB/30 K6 DB38 W6 DB10 Y10 R6 Y10 LB6 Y10 K/6</code></td><td>240</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/"><img src="/variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/sett.png" alt="Gouranga sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/t15k3t19w3t5y5r3y5lb3y5k3~x2/">(Corporate)</a></td><td><code>T/30 K6 T38 W6 T10 Y10 R6 Y10 LB6 Y10 K/6</code></td><td>240</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/t15k3t19w3t5y5r3y5lb3y5k3~x2/"><img src="/variants/s11/t15k3t19w3t5y5r3y5lb3y5k3~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/">Gouranga</a> ★</td><td></td><td><code>DB/30 K6 DB38 W6 DB10 Y10 R6 Y10 LB6 Y10 K/6</code></td><td>240</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/"><img src="/variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/sett.png" alt="Gouranga sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/t15k3t19w3t5y5r3y5lb3y5k3~x2/">(Corporate)</a></td><td>0.20</td><td><code>T/30 K6 T38 W6 T10 Y10 R6 Y10 LB6 Y10 K/6</code></td><td>240</td><td>~2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/t15k3t19w3t5y5r3y5lb3y5k3~x2/"><img src="/variants/s11/t15k3t19w3t5y5r3y5lb3y5k3~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

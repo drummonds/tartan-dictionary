@@ -20,12 +20,12 @@ The **Lennie** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/">Lennie</a> ★</td><td><code>K/4 DG20 Y4 K18 DP16 DG/4</code></td><td>124</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><img src="/variants/s6/k2dg10y2k9dp8dg2~x2/sett.png" alt="Lennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k2g10lb2k9dp8g2~x2/">Lennie</a></td><td><code>K/4 G20 LB4 K18 DP16 G/4</code></td><td>124</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k2g10lb2k9dp8g2~x2/"><img src="/variants/s6/k2g10lb2k9dp8g2~x2/sett.png" alt="Lennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/">Lennie</a> ★</td><td></td><td><code>K/4 DG20 Y4 K18 DP16 DG/4</code></td><td>124</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><img src="/variants/s6/k2dg10y2k9dp8dg2~x2/sett.png" alt="Lennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k2g10lb2k9dp8g2~x2/">Lennie</a></td><td>0.41</td><td><code>K/4 G20 LB4 K18 DP16 G/4</code></td><td>124</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k2g10lb2k9dp8g2~x2/"><img src="/variants/s6/k2g10lb2k9dp8g2~x2/sett.png" alt="Lennie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

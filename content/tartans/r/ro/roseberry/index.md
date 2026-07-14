@@ -13,10 +13,10 @@ Its design is pattern [RBWGWW](/stripes/rbwgww/) — the page of every tartan sh
 The **Roseberry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w8lb30g5w3db8r5/">Roseberry</a></td><td><code>W/8 LB30 G5 W3 DB8 R/5</code></td><td>105</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w8lb30g5w3db8r5/"><img src="/variants/s6/w8lb30g5w3db8r5/sett.png" alt="Roseberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w8lb30g5w3db8r5/">Roseberry</a></td><td></td><td><code>W/8 LB30 G5 W3 DB8 R/5</code></td><td>105</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w8lb30g5w3db8r5/"><img src="/variants/s6/w8lb30g5w3db8r5/sett.png" alt="Roseberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,14 +16,14 @@ The **Renfrewshire** tartan groups 3 setts — the same named design recorded as
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/">Renfrewshire</a> ★</td><td><code>DY/8 G26 K16 DB50 LB16 DB4 DP/8</code></td><td>240</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><img src="/variants/s7/dy4g13k8db25lb8db2dp4~x2/sett.png" alt="Renfrewshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/">Tartan</a></td><td><code>DP/8 DB4 LB16 DB50 K16 G26 Y/8</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><img src="dp4db2lb8db25k8g13y4-rev.png" alt="Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/">District Tartan</a></td><td><code>DR/8 DB4 LB14 DB40 K14 G20 Y/8</code></td><td>200</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><img src="/variants/s7/dr4db2lb7db20k7g10y4~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/">Renfrewshire</a> ★</td><td></td><td><code>DY/8 G26 K16 DB50 LB16 DB4 DP/8</code></td><td>240</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><img src="/variants/s7/dy4g13k8db25lb8db2dp4~x2/sett.png" alt="Renfrewshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/">Tartan</a></td><td>0.04</td><td><code>DP/8 DB4 LB16 DB50 K16 G26 Y/8</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><img src="dp4db2lb8db25k8g13y4-rev.png" alt="Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/">District Tartan</a></td><td>0.57</td><td><code>DR/8 DB4 LB14 DB40 K14 G20 Y/8</code></td><td>200</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><img src="/variants/s7/dr4db2lb7db20k7g10y4~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

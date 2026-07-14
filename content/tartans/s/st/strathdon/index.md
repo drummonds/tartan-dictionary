@@ -18,10 +18,10 @@ Its design is pattern [BBBBBBBBYBBYBYK](/stripes/bbbbbbbbybbybyk/) — the page 
 The **Strathdon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3~x2/">Strathdon</a></td><td><code>K/6 LY16 DO4 LY16 DT22 DO4 LY8 DR8 DO54 DT2 DO4 DT4 DO4 DT26 DO/6</code></td><td>356</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3~x2/"><img src="/variants/s15/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3~x2/sett.png" alt="Strathdon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3~x2/">Strathdon</a></td><td></td><td><code>K/6 LY16 DO4 LY16 DT22 DO4 LY8 DR8 DO54 DT2 DO4 DT4 DO4 DT26 DO/6</code></td><td>356</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3~x2/"><img src="/variants/s15/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3~x2/sett.png" alt="Strathdon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **Burberry** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k3w3k3ly10r1~x6/">Burberry</a> ★</td><td><code>K/18 W18 K18 LY60 R/6</code></td><td>216</td><td>1920</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k3w3k3ly10r1~x6/"><img src="/variants/s5/k3w3k3ly10r1~x6/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/k3w3k3y10r1~x6/">(6) Burberry</a></td><td><code>K/18 W18 K18 Y60 R/6</code></td><td>216</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k3w3k3y10r1~x6/"><img src="/variants/s5/k3w3k3y10r1~x6/sett.png" alt="(6) Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k3w3k3ly10r1~x6/">Burberry</a> ★</td><td></td><td><code>K/18 W18 K18 LY60 R/6</code></td><td>216</td><td>1920</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k3w3k3ly10r1~x6/"><img src="/variants/s5/k3w3k3ly10r1~x6/sett.png" alt="Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k3w3k3y10r1~x6/">(6) Burberry</a></td><td>0.18</td><td><code>K/18 W18 K18 Y60 R/6</code></td><td>216</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k3w3k3y10r1~x6/"><img src="/variants/s5/k3w3k3y10r1~x6/sett.png" alt="(6) Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

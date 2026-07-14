@@ -13,10 +13,10 @@ Its design is pattern [RGRGRBKWKBGRY](/stripes/rgrgrbkwkbgry/) — the page of e
 The **Sri Lanka** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lo18r3g30t4k2w2k2t4r37y1r3y1r3~x2/">Sri Lanka</a></td><td><code>LO/36 R6 G60 T8 K4 W4 K4 T8 R74 Y2 R6 Y2 R/6</code></td><td>398</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lo18r3g30t4k2w2k2t4r37y1r3y1r3~x2/"><img src="/variants/s13/lo18r3g30t4k2w2k2t4r37y1r3y1r3~x2/sett.png" alt="Sri Lanka sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lo18r3g30t4k2w2k2t4r37y1r3y1r3~x2/">Sri Lanka</a></td><td></td><td><code>LO/36 R6 G60 T8 K4 W4 K4 T8 R74 Y2 R6 Y2 R/6</code></td><td>398</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lo18r3g30t4k2w2k2t4r37y1r3y1r3~x2/"><img src="/variants/s13/lo18r3g30t4k2w2k2t4r37y1r3y1r3~x2/sett.png" alt="Sri Lanka sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

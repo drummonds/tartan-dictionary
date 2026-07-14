@@ -15,11 +15,11 @@ Designed by Hurbert Silver of Vancouver, Canada, to complement his recently gran
 The **Silver** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/">Silver</a></td><td><code>W/24 T24 LB6 W1 DB4 W20 T10 LB3 W/4</code></td><td>328</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/"><img src="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/sett.png" alt="Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/">(Personal)</a> · <a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2~t2205244-db1204274/">Personal Tartan</a></td></tr>
+<tr><td><a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/">Silver</a></td><td></td><td><code>W/24 T24 LB6 W1 DB4 W20 T10 LB3 W/4</code></td><td>328</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/"><img src="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/sett.png" alt="Silver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2/">(Personal)</a> · <a href="/variants/s9/w24t24lb6w1db4w20t10lb3w4~x2~t2205244-db1204274/">Personal Tartan</a></td></tr>
 </tbody>
 </table>
 

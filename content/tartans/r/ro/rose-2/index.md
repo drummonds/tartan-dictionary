@@ -22,15 +22,15 @@ The **Rose** tartan groups 2 setts — the same named design recorded as differe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/">Rose</a> ★</td><td><code>G/8 R64 DB18 R12 DB4 R6 DB4 R24 W/6</code></td><td>278</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/"><img src="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/">Rose</a></td><td><code>G/2 R28 DB6 R5 DB2 R2 DB2 R11 W/2</code></td><td>116</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/"><img src="/variants/s9/g2r28db6r5db2r2db2r11w2/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/g2r28db6r5db2r2db2r11w2/">Rose</a></td><td><code>G/2 R28 DB6 R5 DB2 R2 DB2 R11 W/2</code></td><td>116</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/">Rose</a></td><td><code>G/4 R56 DB12 R10 DB4 R4 DB4 R22 W/4</code></td><td>232</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/g2r28db6r5db2r2db2r11w2/">Rose</a> · <a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/">Rose</a></td></tr>
+<tr><td><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/">Rose</a> ★</td><td></td><td><code>G/8 R64 DB18 R12 DB4 R6 DB4 R24 W/6</code></td><td>278</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/"><img src="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/">Rose</a></td><td>0.29</td><td><code>G/2 R28 DB6 R5 DB2 R2 DB2 R11 W/2</code></td><td>116</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/"><img src="/variants/s9/g2r28db6r5db2r2db2r11w2/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/g2r28db6r5db2r2db2r11w2/">Rose</a></td><td>0.29</td><td><code>G/2 R28 DB6 R5 DB2 R2 DB2 R11 W/2</code></td><td>116</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/">Rose</a></td><td>0.29</td><td><code>G/4 R56 DB12 R10 DB4 R4 DB4 R22 W/4</code></td><td>232</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/g2r28db6r5db2r2db2r11w2/">Rose</a> · <a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/">Rose</a></td></tr>
 </tbody>
 </table>
 

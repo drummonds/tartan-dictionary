@@ -20,10 +20,10 @@ Commemorates NZ soprano Hayley Westenra's 2006 visit to Scotland.
 The **Westenra of Christchurch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k20db4k8dbi9k8db14k8r3w3dbi10k12~x2~db1404245-dbi1406275/">Westenra of Christchurch</a></td><td><code>K/40 DB8 K16 DBi18 K16 DB28 K16 R6 W6 DBi20 K/24</code></td><td>332</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k20db4k8dbi9k8db14k8r3w3dbi10k12~x2~db1404245-dbi1406275/"><img src="/variants/s11/k20db4k8dbi9k8db14k8r3w3dbi10k12~x2~db1404245-dbi1406275/sett.png" alt="Westenra of Christchurch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k20db4k8dbi9k8db14k8r3w3dbi10k12~x2~db1404245-dbi1406275/">Westenra of Christchurch</a></td><td></td><td><code>K/40 DB8 K16 DBi18 K16 DB28 K16 R6 W6 DBi20 K/24</code></td><td>332</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k20db4k8dbi9k8db14k8r3w3dbi10k12~x2~db1404245-dbi1406275/"><img src="/variants/s11/k20db4k8dbi9k8db14k8r3w3dbi10k12~x2~db1404245-dbi1406275/sett.png" alt="Westenra of Christchurch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

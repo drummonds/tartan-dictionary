@@ -16,10 +16,10 @@ Its design is pattern [GKYBWKWK](/stripes/gkybwkwk/) — the page of every tarta
 The **Clyde Valley HOG** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k54lb6k6lb6n20lo40k6y3/">Clyde Valley HOG</a></td><td><code>K/54 LB6 K6 LB6 N20 LO40 K6 Y/3</code></td><td>225</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k54lb6k6lb6n20lo40k6y3/"><img src="/variants/s8/k54lb6k6lb6n20lo40k6y3/sett.png" alt="Clyde Valley HOG sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k54lb6k6lb6n20lo40k6y3/">Clyde Valley HOG</a></td><td></td><td><code>K/54 LB6 K6 LB6 N20 LO40 K6 Y/3</code></td><td>225</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k54lb6k6lb6n20lo40k6y3/"><img src="/variants/s8/k54lb6k6lb6n20lo40k6y3/sett.png" alt="Clyde Valley HOG sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

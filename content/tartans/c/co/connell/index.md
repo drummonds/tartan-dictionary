@@ -18,10 +18,10 @@ Its design is pattern [KRGRGRGRGR](/stripes/krgrgrgrgr/) — the page of every t
 The **Connell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/">Connell</a></td><td><code>R/12 G48 R4 G8 R8 G8 R4 G48 R12 K/4</code></td><td>296</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><img src="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/sett.png" alt="Connell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/">Connell</a></td><td></td><td><code>R/12 G48 R4 G8 R8 G8 R4 G48 R12 K/4</code></td><td>296</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><img src="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/sett.png" alt="Connell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

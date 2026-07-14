@@ -15,10 +15,10 @@ Official New Mexico state tartan, designed 1995 by Ralph L. Stevenson; blue, gre
 The **New Mexico** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g10dp42r5dg42g42ly5g6~g2408144-dg1806142/">New Mexico</a></td><td><code>G/10 DP42 R5 DG42 G42 LY5 G/6</code></td><td>288</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g10dp42r5dg42g42ly5g6~g2408144-dg1806142/"><img src="/variants/s7/g10dp42r5dg42g42ly5g6~g2408144-dg1806142/sett.png" alt="New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g10dp42r5dg42g42ly5g6~g2408144-dg1806142/">New Mexico</a></td><td></td><td><code>G/10 DP42 R5 DG42 G42 LY5 G/6</code></td><td>288</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g10dp42r5dg42g42ly5g6~g2408144-dg1806142/"><img src="/variants/s7/g10dp42r5dg42g42ly5g6~g2408144-dg1806142/sett.png" alt="New Mexico sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

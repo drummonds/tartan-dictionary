@@ -13,10 +13,10 @@ Its design is pattern [KYGKYKWKWGKY](/stripes/kygkykwkwgky/) — the page of eve
 The **Heritage of Ireland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/">Heritage of Ireland</a></td><td><code>K/10 LO8 G50 K28 LO10 K10 W10 K4 W6 G6 K4 LO/10</code></td><td>292</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/"><img src="/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/sett.png" alt="Heritage of Ireland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/">Heritage of Ireland</a></td><td></td><td><code>K/10 LO8 G50 K28 LO10 K10 W10 K4 W6 G6 K4 LO/10</code></td><td>292</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/"><img src="/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/sett.png" alt="Heritage of Ireland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

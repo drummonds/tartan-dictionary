@@ -16,10 +16,10 @@ Its design is pattern [RGRBRGRWRGRBRGRGGRGBRGRGRBW](/stripes/rgrbrgrwrgrbrgrggrg
 The **MacDougall D** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s27/r3g5r1db1r15dg2r1w1r1dg2r15db1r1g5r5g5dg2r1dg2db5r2g1r2g15r1db2w1~x2/">MacDougall D</a></td><td><code>R/6 G10 R2 DB2 R30 DG4 R2 W2 R2 DG4 R30 DB2 R2 G10 R10 G10 DG4 R2 DG4 DB10 R4 G2 R4 G30 R2 DB4 W/2</code></td><td>384</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s27/r3g5r1db1r15dg2r1w1r1dg2r15db1r1g5r5g5dg2r1dg2db5r2g1r2g15r1db2w1~x2/"><img src="/variants/s27/r3g5r1db1r15dg2r1w1r1dg2r15db1r1g5r5g5dg2r1dg2db5r2g1r2g15r1db2w1~x2/sett.png" alt="MacDougall D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s27/r3g5r1db1r15dg2r1w1r1dg2r15db1r1g5r5g5dg2r1dg2db5r2g1r2g15r1db2w1~x2/">MacDougall D</a></td><td></td><td><code>R/6 G10 R2 DB2 R30 DG4 R2 W2 R2 DG4 R30 DB2 R2 G10 R10 G10 DG4 R2 DG4 DB10 R4 G2 R4 G30 R2 DB4 W/2</code></td><td>384</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s27/r3g5r1db1r15dg2r1w1r1dg2r15db1r1g5r5g5dg2r1dg2db5r2g1r2g15r1db2w1~x2/"><img src="/variants/s27/r3g5r1db1r15dg2r1w1r1dg2r15db1r1g5r5g5dg2r1dg2db5r2g1r2g15r1db2w1~x2/sett.png" alt="MacDougall D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

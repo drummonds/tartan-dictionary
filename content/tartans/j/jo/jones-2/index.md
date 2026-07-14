@@ -18,10 +18,10 @@ Its design is pattern [BWBWGBGBGG](/stripes/bwbwgbgbgg/) — the page of every t
 The **Jones** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/">Jones</a></td><td><code>DB/6 LB3 DB3 LB15 DG7 DB7 DG5 DB17 DG46 DGi/4</code></td><td>216</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><img src="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/sett.png" alt="Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/">Jones</a></td><td></td><td><code>DB/6 LB3 DB3 LB15 DG7 DB7 DG5 DB17 DG46 DGi/4</code></td><td>216</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><img src="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/sett.png" alt="Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

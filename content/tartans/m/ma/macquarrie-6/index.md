@@ -18,10 +18,10 @@ Its design is pattern [GRGRGRKRGRGRK](/stripes/grgrgrkrgrgrk/) — the page of e
 The **MacQuarrie 6** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/">MacQuarrie 6</a></td><td><code>K/2 R2 G2 R42 G2 R2 K20 R2 G28 R2 G2 R2 G/2</code></td><td>216</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/"><img src="/variants/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/sett.png" alt="MacQuarrie 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/">MacQuarrie 6</a></td><td></td><td><code>K/2 R2 G2 R42 G2 R2 K20 R2 G28 R2 G2 R2 G/2</code></td><td>216</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/"><img src="/variants/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/sett.png" alt="MacQuarrie 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

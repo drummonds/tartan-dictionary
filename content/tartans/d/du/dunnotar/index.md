@@ -13,10 +13,10 @@ Its design is pattern [BKWK](/stripes/bkwk/) — the page of every tartan sharin
 The **Dunnotar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/k72w3k11db9/">Dunnotar</a></td><td><code>K/72 W3 K11 DB/9</code></td><td>109</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k72w3k11db9/"><img src="/variants/s4/k72w3k11db9/sett.png" alt="Dunnotar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k72w3k11db9/">Dunnotar</a></td><td></td><td><code>K/72 W3 K11 DB/9</code></td><td>109</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/k72w3k11db9/"><img src="/variants/s4/k72w3k11db9/sett.png" alt="Dunnotar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

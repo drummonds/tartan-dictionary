@@ -13,10 +13,10 @@ Its design is pattern [BRBRBRBGRGRGW](/stripes/brbrbrbgrgrgw/) — the page of e
 The **MacCaslan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/">MacCaslan</a></td><td><code>DB/26 R8 DB8 R18 DB28 R8 DB28 G30 R16 G16 R8 G16 W/8</code></td><td>402</td><td>~1890</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/"><img src="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/sett.png" alt="MacCaslan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/">MacCaslan</a></td><td></td><td><code>DB/26 R8 DB8 R18 DB28 R8 DB28 G30 R16 G16 R8 G16 W/8</code></td><td>402</td><td>~1890</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/"><img src="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/sett.png" alt="MacCaslan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

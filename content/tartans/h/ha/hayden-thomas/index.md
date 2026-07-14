@@ -13,10 +13,10 @@ Its design is pattern [GGGGBGGWGG](/stripes/ggggbggwgg/) — the page of every t
 The **Hayden, Thomas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/">Hayden, Thomas</a></td><td><code>G/120 DG10 W10 Y10 DG10 B8 DG10 G10 DG2 Y/10</code></td><td>270</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/"><img src="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/sett.png" alt="Hayden, Thomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/">Hayden, Thomas</a></td><td></td><td><code>G/120 DG10 W10 Y10 DG10 B8 DG10 G10 DG2 Y/10</code></td><td>270</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/"><img src="/variants/s10/g60dg5w5y5dg5b4dg5g5dg1y5~x2/sett.png" alt="Hayden, Thomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BKGKGKGKGKGKYKBRKYKBKWK](/stripes/bkgkgkgkgkgkykbrkykbkwk
 The **Ferrazza** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/">Ferrazza</a></td><td><code>DB/32 K32 G4 K4 G4 K4 G32 K4 G4 K4 G4 K32 LY32 K4 DB4 R4 K4 LY32 K32 DB32 K4 W6 K/4</code></td><td>600</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><img src="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/sett.png" alt="Ferrazza sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/">Ferrazza</a></td><td></td><td><code>DB/32 K32 G4 K4 G4 K4 G32 K4 G4 K4 G4 K32 LY32 K4 DB4 R4 K4 LY32 K32 DB32 K4 W6 K/4</code></td><td>600</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><img src="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/sett.png" alt="Ferrazza sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

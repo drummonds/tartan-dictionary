@@ -15,10 +15,10 @@ Experimental 2006 design using tartan's lines, colour, and spacing to visually d
 The **Beckett Beaumont** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w54dti7w19dt5w8dg8w8dg16dt8dy8w21r11dg7dti11dg8w7~x2~dti1502194-dg1803133/">Beckett Beaumont</a></td><td><code>W/108 DTi14 W38 DT10 W16 DG16 W16 DG32 DT16 DY16 W42 R22 DG14 DTi22 DG16 W/14</code></td><td>702</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w54dti7w19dt5w8dg8w8dg16dt8dy8w21r11dg7dti11dg8w7~x2~dti1502194-dg1803133/"><img src="/variants/s16/w54dti7w19dt5w8dg8w8dg16dt8dy8w21r11dg7dti11dg8w7~x2~dti1502194-dg1803133/sett.png" alt="Beckett Beaumont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w54dti7w19dt5w8dg8w8dg16dt8dy8w21r11dg7dti11dg8w7~x2~dti1502194-dg1803133/">Beckett Beaumont</a></td><td></td><td><code>W/108 DTi14 W38 DT10 W16 DG16 W16 DG32 DT16 DY16 W42 R22 DG14 DTi22 DG16 W/14</code></td><td>702</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w54dti7w19dt5w8dg8w8dg16dt8dy8w21r11dg7dti11dg8w7~x2~dti1502194-dg1803133/"><img src="/variants/s16/w54dti7w19dt5w8dg8w8dg16dt8dy8w21r11dg7dti11dg8w7~x2~dti1502194-dg1803133/sett.png" alt="Beckett Beaumont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

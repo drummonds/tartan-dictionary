@@ -24,16 +24,16 @@ The **Alberta** tartan groups 4 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/">Alberta</a> ★</td><td><code>G/104 K8 R8 K8 T16 K8 LY/32</code></td><td>232</td><td>1961</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><img src="/variants/s7/g13k1r1k1t2k1ly4~x8/sett.png" alt="Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g12k1r1k1lb2k1y4~x2/">District Tartan</a></td><td><code>G/24 K2 R2 K2 LB4 K2 Y/8</code></td><td>56</td><td>1961</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g12k1r1k1lb2k1y4~x2/"><img src="/variants/s7/g12k1r1k1lb2k1y4~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/">(District)</a></td><td><code>G/96 K8 R8 K8 T16 K8 LY/32</code></td><td>224</td><td>1961</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/"><img src="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/">Alberta</a></td><td><code>G/72 K8 B8 K8 LB12 K8 Y/24</code></td><td>184</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/"><img src="/variants/s7/g18k2b2k2lb3k2y6~x4/sett.png" alt="Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/">Alberta</a> ★</td><td></td><td><code>G/104 K8 R8 K8 T16 K8 LY/32</code></td><td>232</td><td>1961</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><img src="/variants/s7/g13k1r1k1t2k1ly4~x8/sett.png" alt="Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g12k1r1k1lb2k1y4~x2/">District Tartan</a></td><td>0.21</td><td><code>G/24 K2 R2 K2 LB4 K2 Y/8</code></td><td>56</td><td>1961</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g12k1r1k1lb2k1y4~x2/"><img src="/variants/s7/g12k1r1k1lb2k1y4~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/">(District)</a></td><td>0.13</td><td><code>G/96 K8 R8 K8 T16 K8 LY/32</code></td><td>224</td><td>1961</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/"><img src="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/">Alberta</a></td><td>1.02</td><td><code>G/72 K8 B8 K8 LB12 K8 Y/24</code></td><td>184</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/"><img src="/variants/s7/g18k2b2k2lb3k2y6~x4/sett.png" alt="Alberta sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

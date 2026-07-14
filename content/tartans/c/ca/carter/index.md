@@ -18,10 +18,10 @@ Its design is pattern [GGGYGWGWGG](/stripes/gggygwgwgg/) — the page of every t
 The **Carter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/">Carter</a></td><td><code>DY/4 DG26 LT1 DG2 LT2 DY4 LG26 DY4 G3 Y/3</code></td><td>—</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/"><img src="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/sett.png" alt="Carter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/">Carter</a></td><td></td><td><code>DY/4 DG26 LT1 DG2 LT2 DY4 LG26 DY4 G3 Y/3</code></td><td>—</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/"><img src="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/sett.png" alt="Carter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [RKRBRKWKGKGRKGKRW](/stripes/rkrbrkwkgkgrkgkrw/) — the p
 The **Scotia Village** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/">Scotia Village</a></td><td><code>R/180 K2 R4 DB16 R4 K24 W2 K4 Y2 K6 G26 R22 K2 G4 K2 R10 W/4</code></td><td>444</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/"><img src="/variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/sett.png" alt="Scotia Village sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/">Scotia Village</a></td><td></td><td><code>R/180 K2 R4 DB16 R4 K24 W2 K4 Y2 K6 G26 R22 K2 G4 K2 R10 W/4</code></td><td>444</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/"><img src="/variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/sett.png" alt="Scotia Village sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

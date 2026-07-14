@@ -15,15 +15,15 @@ The **Applecross** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/">Applecross</a> ★</td><td><code>DG/36 R4 DG14 R/36</code></td><td>108</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><img src="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/sett.png" alt="Applecross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/r18g7r2g18~x4/">(District)</a></td><td><code>R/18 G7 R2 G/18</code></td><td>54</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/r18g7r2g18~x4/"><img src="/variants/s4/r18g7r2g18~x4/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s4/r18g7r2g18~x2/">(MacDonald)</a></td><td><code>R/36 G14 R4 G/36</code></td><td>108</td><td>~1947</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s4/r18g7r2g18~x4/">(District)</a></td><td><code>R/72 G28 R8 G/72</code></td><td>216</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s4/r18g7r2g18~x2/">(MacDonald)</a> · <a href="/variants/s4/r18g7r2g18~x4/">(District)</a></td></tr>
+<tr><td><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/">Applecross</a> ★</td><td></td><td><code>DG/36 R4 DG14 R/36</code></td><td>108</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><img src="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/sett.png" alt="Applecross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r18g7r2g18~x4/">(District)</a></td><td>0.56</td><td><code>R/18 G7 R2 G/18</code></td><td>54</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/r18g7r2g18~x4/"><img src="/variants/s4/r18g7r2g18~x4/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s4/r18g7r2g18~x2/">(MacDonald)</a></td><td>0.56</td><td><code>R/36 G14 R4 G/36</code></td><td>108</td><td>~1947</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s4/r18g7r2g18~x4/">(District)</a></td><td>0.56</td><td><code>R/72 G28 R8 G/72</code></td><td>216</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s4/r18g7r2g18~x2/">(MacDonald)</a> · <a href="/variants/s4/r18g7r2g18~x4/">(District)</a></td></tr>
 </tbody>
 </table>
 

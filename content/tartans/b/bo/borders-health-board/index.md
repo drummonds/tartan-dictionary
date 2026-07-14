@@ -13,10 +13,10 @@ Its design is pattern [GBRBKBKGKG](/stripes/gbrbkbkgkg/) — the page of every t
 The **Borders Health Board** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/">Borders Health Board</a></td><td><code>G/12 K6 G12 K6 T6 K6 T50 R6 T6 Y/6</code></td><td>214</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/"><img src="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/sett.png" alt="Borders Health Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/">Borders Health Board</a></td><td></td><td><code>G/12 K6 G12 K6 T6 K6 T50 R6 T6 Y/6</code></td><td>214</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/"><img src="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/sett.png" alt="Borders Health Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GKWKGKWKWKW](/stripes/gkwkgkwkwkw/) — the page of every
 The **Dalgliesh Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/">Dalgliesh Dress</a></td><td><code>G/20 K20 LB8 K4 DY4 K4 LB6 K24 LB24 K4 LB/6</code></td><td>222</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><img src="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/sett.png" alt="Dalgliesh Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/">Dalgliesh Dress</a></td><td></td><td><code>G/20 K20 LB8 K4 DY4 K4 LB6 K24 LB24 K4 LB/6</code></td><td>222</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><img src="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/sett.png" alt="Dalgliesh Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

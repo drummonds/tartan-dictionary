@@ -15,10 +15,10 @@ Designed for Sophia Joan Chamberlain's 80th birthday, for her own and her immedi
 The **Pitceathley Chamberlain** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/">Pitceathley Chamberlain</a></td><td><code>DB/4 K6 G10 K18 DB42 K4 DB10 K4 G40 W/2</code></td><td>274</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><img src="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/sett.png" alt="Pitceathley Chamberlain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/">Pitceathley Chamberlain</a></td><td></td><td><code>DB/4 K6 G10 K18 DB42 K4 DB10 K4 G40 W/2</code></td><td>274</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><img src="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/sett.png" alt="Pitceathley Chamberlain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

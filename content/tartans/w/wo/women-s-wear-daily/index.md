@@ -13,10 +13,10 @@ Its design is pattern [RKGKRKBKRKGKRKWKGKRKBKRKGKRBW](/stripes/rkgkrkbkrkgkrkwkg
 The **Women's Wear Daily** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/">Women's Wear Daily</a></td><td><code>R/2 K2 Y4 K2 R2 K2 T4 K2 R2 K2 G4 K2 R4 K2 W24 K2 G4 K2 R2 K2 T4 K2 R2 K2 Y4 K2 R2 DB56 W/2</code></td><td>292</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/"><img src="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/sett.png" alt="Women's Wear Daily sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/">Women's Wear Daily</a></td><td></td><td><code>R/2 K2 Y4 K2 R2 K2 T4 K2 R2 K2 G4 K2 R4 K2 W24 K2 G4 K2 R2 K2 T4 K2 R2 K2 Y4 K2 R2 DB56 W/2</code></td><td>292</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/"><img src="/variants/s29/r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r1db28w1~x2/sett.png" alt="Women's Wear Daily sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

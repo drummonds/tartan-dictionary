@@ -21,17 +21,17 @@ The **Scrymgeour** tartan groups 3 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r15k1y2db3r2k1y15~x3/">Scrymgeour</a> ★</td><td><code>R/15 K1 Y2 DB3 R2 K1 Y/15</code></td><td>48</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r15k1y2db3r2k1y15~x3/"><img src="/variants/s7/r15k1y2db3r2k1y15~x3/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×3 — <a href="/variants/s7/r15k1y2db3r2k1y15~x3/">Scrymgeour</a></td><td><code>R/45 K3 Y6 DB9 R6 K3 Y/45</code></td><td>144</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s7/r15k1y2db3r2k1y15~x6/">Scrymgeour</a></td><td><code>R/90 K6 Y12 DB18 R12 K6 Y/90</code></td><td>288</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r15k1y2db3r2k1y15~x3/">Scrymgeour</a> · <a href="/variants/s7/r15k1y2db3r2k1y15~x6/">Scrymgeour</a></td></tr>
-<tr><td><a href="/variants/s7/dy15k1r2db3dy2k1r15~x4/">Family Tartan</a></td><td><code>DY/60 K4 R8 DB12 DY8 K4 R/60</code></td><td>192</td><td>1971</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dy15k1r2db3dy2k1r15~x4/"><img src="dy15k1r2db3dy2k1r15-rev.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r46k3y6db8r6k3y46/">Scrymgeour</a></td><td><code>R/46 K3 Y6 DB8 R6 K3 Y/46</code></td><td>144</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r46k3y6db8r6k3y46/"><img src="/variants/s7/r46k3y6db8r6k3y46/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r15k1y2db3r2k1y15~x3/">Scrymgeour</a> ★</td><td></td><td><code>R/15 K1 Y2 DB3 R2 K1 Y/15</code></td><td>48</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r15k1y2db3r2k1y15~x3/"><img src="/variants/s7/r15k1y2db3r2k1y15~x3/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×3 — <a href="/variants/s7/r15k1y2db3r2k1y15~x3/">Scrymgeour</a></td><td>0.00</td><td><code>R/45 K3 Y6 DB9 R6 K3 Y/45</code></td><td>144</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s7/r15k1y2db3r2k1y15~x6/">Scrymgeour</a></td><td>0.00</td><td><code>R/90 K6 Y12 DB18 R12 K6 Y/90</code></td><td>288</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/r15k1y2db3r2k1y15~x3/">Scrymgeour</a> · <a href="/variants/s7/r15k1y2db3r2k1y15~x6/">Scrymgeour</a></td></tr>
+<tr><td><a href="/variants/s7/dy15k1r2db3dy2k1r15~x4/">Family Tartan</a></td><td>0.17</td><td><code>DY/60 K4 R8 DB12 DY8 K4 R/60</code></td><td>192</td><td>1971</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dy15k1r2db3dy2k1r15~x4/"><img src="dy15k1r2db3dy2k1r15-rev.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r46k3y6db8r6k3y46/">Scrymgeour</a></td><td>0.04</td><td><code>R/46 K3 Y6 DB8 R6 K3 Y/46</code></td><td>144</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r46k3y6db8r6k3y46/"><img src="/variants/s7/r46k3y6db8r6k3y46/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

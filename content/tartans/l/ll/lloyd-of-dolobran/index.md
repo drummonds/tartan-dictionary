@@ -22,12 +22,12 @@ The **Lloyd of Dolobran** tartan groups 2 setts — the same named design record
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/">Lloyd of Dolobran</a> ★</td><td><code>K/40 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K4 DB/20</code></td><td>300</td><td>1950</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/"><img src="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png" alt="Lloyd of Dolobran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/">Family Tartan</a></td><td><code>K/20 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K4 DB/20</code></td><td>280</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><img src="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/">Lloyd of Dolobran</a> ★</td><td></td><td><code>K/40 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K4 DB/20</code></td><td>300</td><td>1950</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/"><img src="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png" alt="Lloyd of Dolobran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/">Family Tartan</a></td><td>0.33</td><td><code>K/20 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K4 DB/20</code></td><td>280</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><img src="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

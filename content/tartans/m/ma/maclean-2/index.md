@@ -18,10 +18,10 @@ Its design is pattern [BBKYKYKBWBWK](/stripes/bbkykykbwbwk/) — the page of eve
 The **MacLean** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db4dr1k3ly1k1lr1k1dbi8lb12dr1lb2k1~x4~db1106275-dbi1406275/">MacLean</a></td><td><code>DB/16 DR4 K12 LY4 K4 LR4 K4 DBi32 LB48 DR4 LB8 K/4</code></td><td>268</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db4dr1k3ly1k1lr1k1dbi8lb12dr1lb2k1~x4~db1106275-dbi1406275/"><img src="/variants/s12/db4dr1k3ly1k1lr1k1dbi8lb12dr1lb2k1~x4~db1106275-dbi1406275/sett.png" alt="MacLean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db4dr1k3ly1k1lr1k1dbi8lb12dr1lb2k1~x4~db1106275-dbi1406275/">MacLean</a></td><td></td><td><code>DB/16 DR4 K12 LY4 K4 LR4 K4 DBi32 LB48 DR4 LB8 K/4</code></td><td>268</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db4dr1k3ly1k1lr1k1dbi8lb12dr1lb2k1~x4~db1106275-dbi1406275/"><img src="/variants/s12/db4dr1k3ly1k1lr1k1dbi8lb12dr1lb2k1~x4~db1106275-dbi1406275/sett.png" alt="MacLean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

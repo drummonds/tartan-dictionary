@@ -13,10 +13,10 @@ Its design is pattern [BBBKGWB](/stripes/bbbkgwb/) — the page of every tartan 
 The **Jack Sinclair** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/">Jack Sinclair</a></td><td><code>DB/8 DR4 DB80 K22 G4 W32 DR/4</code></td><td>296</td><td>1977</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><img src="/variants/s7/db4dr2db40k11g2w16dr2~x2/sett.png" alt="Jack Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/">Jack Sinclair</a></td><td></td><td><code>DB/8 DR4 DB80 K22 G4 W32 DR/4</code></td><td>296</td><td>1977</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><img src="/variants/s7/db4dr2db40k11g2w16dr2~x2/sett.png" alt="Jack Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

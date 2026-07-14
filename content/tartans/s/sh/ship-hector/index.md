@@ -13,10 +13,10 @@ Its design is pattern [KBGBGWGW](/stripes/kbgbgwgw/) — the page of every tarta
 The **Ship Hector** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k4db9y6db22g4w20g6w4/">Ship Hector</a></td><td><code>K/4 DB9 Y6 DB22 G4 W20 G6 W/4</code></td><td>142</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><img src="/variants/s8/k4db9y6db22g4w20g6w4/sett.png" alt="Ship Hector sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k4db9y6db22g4w20g6w4/">Ship Hector</a></td><td></td><td><code>K/4 DB9 Y6 DB22 G4 W20 G6 W/4</code></td><td>142</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><img src="/variants/s8/k4db9y6db22g4w20g6w4/sett.png" alt="Ship Hector sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

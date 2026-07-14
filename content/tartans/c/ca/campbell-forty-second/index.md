@@ -16,10 +16,10 @@ Its design is pattern [KBKBKBKGKGKWBWBWBWBW](/stripes/kbkbkbkgkgkwbwbwbwbw/) —
 The **Campbell, Forty Second** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/">Campbell, Forty Second</a></td><td><code>K/16 DB20 K4 DB4 K4 DB20 K16 G22 K4 G22 K16 W4 DB4 W28 DB2 W6 DB2 W28 DB4 W/4</code></td><td>440</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/"><img src="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/sett.png" alt="Campbell, Forty Second sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/">Campbell, Forty Second</a></td><td></td><td><code>K/16 DB20 K4 DB4 K4 DB20 K16 G22 K4 G22 K16 W4 DB4 W28 DB2 W6 DB2 W28 DB4 W/4</code></td><td>440</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/"><img src="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/sett.png" alt="Campbell, Forty Second sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

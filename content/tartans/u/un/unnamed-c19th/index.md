@@ -13,10 +13,10 @@ Its design is pattern [BYBYGYRYRYB](/stripes/bybygyryryb/) — the page of every
 The **Unnamed C19th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/">Unnamed C19th</a></td><td><code>DB/14 LR4 DP10 LY4 DG14 LY4 R10 LR4 R10 LY4 DB/14</code></td><td>156</td><td>~1900</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/"><img src="/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/sett.png" alt="Unnamed C19th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/">Unnamed C19th</a></td><td></td><td><code>DB/14 LR4 DP10 LY4 DG14 LY4 R10 LR4 R10 LY4 DB/14</code></td><td>156</td><td>~1900</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/"><img src="/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/sett.png" alt="Unnamed C19th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KKKKKKBKGKBKKKW](/stripes/kkkkkkbkgkbkkkw/) — the page 
 The **McCruden, Raymond** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/">McCruden, Raymond</a></td><td><code>K/30 Ki8 K8 Ki8 K8 Ki32 DB32 Ki4 G6 Ki4 DB32 Ki32 K36 Ki2 W/4</code></td><td>458</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/"><img src="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/sett.png" alt="McCruden, Raymond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/">McCruden, Raymond</a></td><td></td><td><code>K/30 Ki8 K8 Ki8 K8 Ki32 DB32 Ki4 G6 Ki4 DB32 Ki32 K36 Ki2 W/4</code></td><td>458</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/"><img src="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/sett.png" alt="McCruden, Raymond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

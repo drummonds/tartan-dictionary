@@ -16,10 +16,10 @@ Its design is pattern [KBKYKBKYKBKYWKY](/stripes/kbkykbkykbkywky/) — the page 
 The **Black Onyx** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/">Black Onyx</a></td><td><code>K/60 N66 K2 LY2 K2 N16 K2 LY4 K2 N6 K2 LY6 W4 K2 LY/14</code></td><td>306</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><img src="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/sett.png" alt="Black Onyx sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/">Black Onyx</a></td><td></td><td><code>K/60 N66 K2 LY2 K2 N16 K2 LY4 K2 N6 K2 LY6 W4 K2 LY/14</code></td><td>306</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><img src="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/sett.png" alt="Black Onyx sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

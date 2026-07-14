@@ -13,10 +13,10 @@ Its design is pattern [BBBKWRBK](/stripes/bbbkwrbk/) — the page of every tarta
 The **Moorpark Primary School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/">Moorpark Primary School</a></td><td><code>DB/6 N20 DB6 K6 W20 R8 N56 K/4</code></td><td>242</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><img src="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/sett.png" alt="Moorpark Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/">Moorpark Primary School</a></td><td></td><td><code>DB/6 N20 DB6 K6 W20 R8 N56 K/4</code></td><td>242</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><img src="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/sett.png" alt="Moorpark Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

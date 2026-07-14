@@ -18,10 +18,10 @@ Its design is pattern [GKGKGKBKBKKGKR](/stripes/gkgkgkbkbkkgkr/) — the page of
 The **Ruxton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/">Ruxton</a></td><td><code>R/42 K6 Y2 K10 DB2 K6 DB16 K58 Y8 K4 Y2 K14 Y/6</code></td><td>304</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/"><img src="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/sett.png" alt="Ruxton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/">Ruxton</a></td><td></td><td><code>R/42 K6 Y2 K10 DB2 K6 DB16 K58 Y8 K4 Y2 K14 Y/6</code></td><td>304</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/"><img src="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/sett.png" alt="Ruxton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

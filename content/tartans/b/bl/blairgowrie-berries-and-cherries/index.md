@@ -15,12 +15,12 @@ The **Blairgowrie Berries and Cherries** tartan groups 2 setts — the same name
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/">Blairgowrie Berries and Cherries</a> ★</td><td><code>DR/4 Ri12 R4 G4 DP/4</code></td><td>48</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/"><img src="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/sett.png" alt="Blairgowrie Berries and Cherries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/">Blairgowrie Berries and Cherries</a></td><td><code>DR/8 R24 Ri8 G8 DP/8</code></td><td>96</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/"><img src="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/sett.png" alt="Blairgowrie Berries and Cherries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/">Blairgowrie Berries and Cherries</a> ★</td><td></td><td><code>DR/4 Ri12 R4 G4 DP/4</code></td><td>48</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/"><img src="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/sett.png" alt="Blairgowrie Berries and Cherries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/">Blairgowrie Berries and Cherries</a></td><td>0.09</td><td><code>DR/8 R24 Ri8 G8 DP/8</code></td><td>96</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/"><img src="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/sett.png" alt="Blairgowrie Berries and Cherries sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

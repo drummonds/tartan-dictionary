@@ -16,10 +16,10 @@ Its design is pattern [WBKBKBBBY](/stripes/wbkbkbbby/) — the page of every tar
 The **East Kilbride** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/">East Kilbride</a></td><td><code>W/8 DR56 K4 N20 K4 N20 DO32 DR40 LY/8</code></td><td>368</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/"><img src="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/sett.png" alt="East Kilbride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/">East Kilbride</a></td><td></td><td><code>W/8 DR56 K4 N20 K4 N20 DO32 DR40 LY/8</code></td><td>368</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/"><img src="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/sett.png" alt="East Kilbride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Recorded by the Scottish Tartans Society between 1970 and 1990; district tartan 
 The **Elgin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/do4o1do5w4k1w1lr1~x4/">Elgin</a></td><td><code>DO/16 O4 DO20 W16 K4 W4 LR/4</code></td><td>116</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/do4o1do5w4k1w1lr1~x4/"><img src="/variants/s7/do4o1do5w4k1w1lr1~x4/sett.png" alt="Elgin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/do4o1do5w4k1w1lr1~x4/">Elgin</a></td><td></td><td><code>DO/16 O4 DO20 W16 K4 W4 LR/4</code></td><td>116</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/do4o1do5w4k1w1lr1~x4/"><img src="/variants/s7/do4o1do5w4k1w1lr1~x4/sett.png" alt="Elgin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

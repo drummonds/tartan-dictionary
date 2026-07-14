@@ -13,10 +13,10 @@ Its design is pattern [GBWBWBBBBBBYW](/stripes/gbwbwbbbbbbyw/) — the page of e
 The **Scottish Tourist Guides Assoc. (Corp** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg12dp3lb3dp3lb3dp12db3dp3db2dp2db14ly1w3~x2/">Scottish Tourist Guides Assoc. (Corp</a></td><td><code>DG/24 DP6 LB6 DP6 LB6 DP24 DB6 DP6 DB4 DP4 DB28 LY2 W/6</code></td><td>226</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg12dp3lb3dp3lb3dp12db3dp3db2dp2db14ly1w3~x2/"><img src="/variants/s13/dg12dp3lb3dp3lb3dp12db3dp3db2dp2db14ly1w3~x2/sett.png" alt="Scottish Tourist Guides Assoc. (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg12dp3lb3dp3lb3dp12db3dp3db2dp2db14ly1w3~x2/">Scottish Tourist Guides Assoc. (Corp</a></td><td></td><td><code>DG/24 DP6 LB6 DP6 LB6 DP24 DB6 DP6 DB4 DP4 DB28 LY2 W/6</code></td><td>226</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg12dp3lb3dp3lb3dp12db3dp3db2dp2db14ly1w3~x2/"><img src="/variants/s13/dg12dp3lb3dp3lb3dp12db3dp3db2dp2db14ly1w3~x2/sett.png" alt="Scottish Tourist Guides Assoc. (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

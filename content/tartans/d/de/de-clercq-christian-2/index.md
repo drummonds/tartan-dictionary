@@ -15,10 +15,10 @@ Designed for the De Clercq family, based on Christian De Clercq's coat of arms g
 The **De Clercq, Christian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/">De Clercq, Christian</a></td><td><code>N/6 DB2 N2 R2 N2 R2 DB20 LB2 N18 LB70 Y4 LB4 Y2 N/4</code></td><td>270</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/"><img src="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/sett.png" alt="De Clercq, Christian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/">De Clercq, Christian</a></td><td></td><td><code>N/6 DB2 N2 R2 N2 R2 DB20 LB2 N18 LB70 Y4 LB4 Y2 N/4</code></td><td>270</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/"><img src="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/sett.png" alt="De Clercq, Christian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

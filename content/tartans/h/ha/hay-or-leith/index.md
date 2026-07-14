@@ -18,10 +18,10 @@ Hay or Leith clan tartan dating from 1810–15, recorded by Wilson and Logan.
 The **Hay or Leith** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/">Hay or Leith</a></td><td><code>DB/82 R4 K84 W4 G82 R6 Y4 R6 G6 R62 K6 Y4 R6 K10 R6 Y4 K6 R62 DB6 R6 Y4 R/6</code></td><td>844</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/"><img src="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/sett.png" alt="Hay or Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/">Hay or Leith</a></td><td></td><td><code>DB/82 R4 K84 W4 G82 R6 Y4 R6 G6 R62 K6 Y4 R6 K10 R6 Y4 K6 R62 DB6 R6 Y4 R/6</code></td><td>844</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/"><img src="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/sett.png" alt="Hay or Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

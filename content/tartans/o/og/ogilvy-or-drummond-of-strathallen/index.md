@@ -13,10 +13,10 @@ Its design is pattern [KRKGBWBGKWKWKRWRWRKGBKBKBGKRWRWRKGBW](/stripes/krkgbwbgkw
 The **Ogilvy or Drummond of Strathallen** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/">Ogilvy or Drummond of Strathallen</a></td><td><code>K/12 R12 K12 Y10 DB10 W10 DB10 Y10 K18 W2 K8 W2 K18 R10 W10 R10 W10 R10 K10 Y10 DB24 K8 DB20 K8 DB24 Y8 K10 R8 W8 R8 W8 R8 K8 Y8 DB8 W/8</code></td><td>736</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/"><img src="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/sett.png" alt="Ogilvy or Drummond of Strathallen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/">Ogilvy or Drummond of Strathallen</a></td><td></td><td><code>K/12 R12 K12 Y10 DB10 W10 DB10 Y10 K18 W2 K8 W2 K18 R10 W10 R10 W10 R10 K10 Y10 DB24 K8 DB20 K8 DB24 Y8 K10 R8 W8 R8 W8 R8 K8 Y8 DB8 W/8</code></td><td>736</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/"><img src="/variants/s36/k6r6k6y5db5w5db5y5k9w1k4w1k9r5w5r5w5r5k5y5db12k4db10k4db12y4k5r4w4r4w4r4k4y4db4w4~x2/sett.png" alt="Ogilvy or Drummond of Strathallen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

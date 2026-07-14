@@ -13,10 +13,10 @@ Its design is pattern [BWBGKGKGKBWBKGKGKG](/stripes/bwbgkgkgkbwbkgkgkg/) — the
 The **Scottish National, dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dg11k2dg3k2dg11k8b6w2b17k8dg11k2dg3k2dg11b12w11b3~x2/">Scottish National, dress</a></td><td><code>DG/22 K4 DG6 K4 DG22 K16 B12 W4 B34 K16 DG22 K4 DG6 K4 DG22 B24 W22 B/6</code></td><td>472</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dg11k2dg3k2dg11k8b6w2b17k8dg11k2dg3k2dg11b12w11b3~x2/"><img src="/variants/s18/dg11k2dg3k2dg11k8b6w2b17k8dg11k2dg3k2dg11b12w11b3~x2/sett.png" alt="Scottish National, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dg11k2dg3k2dg11k8b6w2b17k8dg11k2dg3k2dg11b12w11b3~x2/">Scottish National, dress</a></td><td></td><td><code>DG/22 K4 DG6 K4 DG22 K16 B12 W4 B34 K16 DG22 K4 DG6 K4 DG22 B24 W22 B/6</code></td><td>472</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dg11k2dg3k2dg11k8b6w2b17k8dg11k2dg3k2dg11b12w11b3~x2/"><img src="/variants/s18/dg11k2dg3k2dg11k8b6w2b17k8dg11k2dg3k2dg11b12w11b3~x2/sett.png" alt="Scottish National, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

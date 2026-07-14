@@ -18,10 +18,10 @@ Its design is pattern [GYKBKBBK](/stripes/gykbkbbk/) — the page of every tarta
 The **Waterford** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/">Waterford</a></td><td><code>DG/60 LY6 K40 DR4 K6 B8 DR48 K/6</code></td><td>290</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/"><img src="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/sett.png" alt="Waterford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/">Waterford</a></td><td></td><td><code>DG/60 LY6 K40 DR4 K6 B8 DR48 K/6</code></td><td>290</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/"><img src="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/sett.png" alt="Waterford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

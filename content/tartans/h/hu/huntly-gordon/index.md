@@ -16,10 +16,10 @@ Its design is pattern [GGKBBR](/stripes/ggkbbr/) — the page of every tartan sh
 The **Huntly Gordon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/">Huntly Gordon</a></td><td><code>R/4 B6 N24 K22 DG22 Y/4</code></td><td>156</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><img src="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/sett.png" alt="Huntly Gordon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/">Huntly Gordon</a></td><td></td><td><code>R/4 B6 N24 K22 DG22 Y/4</code></td><td>156</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><img src="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/sett.png" alt="Huntly Gordon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

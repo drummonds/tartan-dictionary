@@ -13,10 +13,10 @@ Its design is pattern [KGWGBKWKGBGWGY](/stripes/kgwgbkwkgbgwgy/) — the page of
 The **Unidentified** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k5g16lb4g4b16k1w4k1g4b16g4lb4g16ly4~x2/">Unidentified</a></td><td><code>K/10 G32 LB8 G8 B32 K2 W8 K2 G8 B32 G8 LB8 G32 LY/8</code></td><td>378</td><td>~2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k5g16lb4g4b16k1w4k1g4b16g4lb4g16ly4~x2/"><img src="/variants/s14/k5g16lb4g4b16k1w4k1g4b16g4lb4g16ly4~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k5g16lb4g4b16k1w4k1g4b16g4lb4g16ly4~x2/">Unidentified</a></td><td></td><td><code>K/10 G32 LB8 G8 B32 K2 W8 K2 G8 B32 G8 LB8 G32 LY/8</code></td><td>378</td><td>~2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k5g16lb4g4b16k1w4k1g4b16g4lb4g16ly4~x2/"><img src="/variants/s14/k5g16lb4g4b16k1w4k1g4b16g4lb4g16ly4~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

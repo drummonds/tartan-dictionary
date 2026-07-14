@@ -13,10 +13,10 @@ Its design is pattern [BRGRBRGRGRGR](/stripes/brgrbrgrgrgr/) — the page of eve
 The **Unidentified Early 18th Centuary** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/">Unidentified Early 18th Centuary</a></td><td><code>R/18 G4 R6 G4 R18 G6 R6 DB6 R6 G6 R6 DB/6</code></td><td>160</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/"><img src="/variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/sett.png" alt="Unidentified Early 18th Centuary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/">Unidentified Early 18th Centuary</a></td><td></td><td><code>R/18 G4 R6 G4 R18 G6 R6 DB6 R6 G6 R6 DB/6</code></td><td>160</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/"><img src="/variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/sett.png" alt="Unidentified Early 18th Centuary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GYGYGYGYGYGYGY](/stripes/gygygygygygygy/) — the page of
 The **Snaefell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/">Snaefell</a></td><td><code>LR/32 DY28 LY4 DY4 LY4 DY4 LY44 DY4 LY4 DY4 LY4 DY28 LR32 DY/6</code></td><td>366</td><td>1979</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/"><img src="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/sett.png" alt="Snaefell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/">Snaefell</a></td><td></td><td><code>LR/32 DY28 LY4 DY4 LY4 DY4 LY44 DY4 LY4 DY4 LY4 DY28 LR32 DY/6</code></td><td>366</td><td>1979</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/"><img src="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/sett.png" alt="Snaefell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

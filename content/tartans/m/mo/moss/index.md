@@ -13,10 +13,10 @@ Its design is pattern [GKGRGKGWGWKW](/stripes/gkgrgkgwgwkw/) — the page of eve
 The **Moss** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/">Moss</a></td><td><code>G/8 K4 G56 R8 G8 K36 G8 LP8 G8 LP14 K2 W/6</code></td><td>318</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><img src="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/sett.png" alt="Moss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/">Moss</a></td><td></td><td><code>G/8 K4 G56 R8 G8 K36 G8 LP8 G8 LP14 K2 W/6</code></td><td>318</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><img src="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/sett.png" alt="Moss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

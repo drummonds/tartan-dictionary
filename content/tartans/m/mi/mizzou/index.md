@@ -15,11 +15,11 @@ Designed by student Lauren Drufke-Mahe and chosen by online vote to represent th
 The **Mizzou** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/">Mizzou</a></td><td><code>Y/8 W8 K2 W6 Y8 K28 R2 K12 Y18 K12 W6 K51 W2 K12 Y8 W8 K2 W6 Y8 DB/2</code></td><td>408</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"><img src="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/sett.png" alt="Mizzou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/">Plaid</a> · <a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2~r2109032/">American Corporate Tartan</a></td></tr>
+<tr><td><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/">Mizzou</a></td><td></td><td><code>Y/8 W8 K2 W6 Y8 K28 R2 K12 Y18 K12 W6 K51 W2 K12 Y8 W8 K2 W6 Y8 DB/2</code></td><td>408</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"><img src="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/sett.png" alt="Mizzou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/">Plaid</a> · <a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2~r2109032/">American Corporate Tartan</a></td></tr>
 </tbody>
 </table>
 

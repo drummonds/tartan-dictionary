@@ -14,13 +14,13 @@ The **Barcelona English School** tartan is one sett, recorded at 2 scales — th
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/">Barcelona English School</a></td><td><code>N/52 G3 W3 DB3 Y3 DB2 R3 DB12 G8 DB2 G6 Y/4</code></td><td>146</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/"><img src="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/sett.png" alt="Barcelona English School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/">Barcelona English School</a></td><td><code>N/52 G3 W3 DB3 Y3 DB2 R3 DB12 G8 DB2 G6 Y/4</code></td><td>146</td><td>2000</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4~x2/">(School)</a></td><td><code>N/104 G6 W6 DB6 Y6 DB4 R6 DB24 G16 DB4 G12 Y/8</code></td><td>292</td><td>~2000</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/">Barcelona English School</a> · <a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4~x2/">(School)</a></td></tr>
+<tr><td><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/">Barcelona English School</a></td><td></td><td><code>N/52 G3 W3 DB3 Y3 DB2 R3 DB12 G8 DB2 G6 Y/4</code></td><td>146</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/"><img src="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/sett.png" alt="Barcelona English School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/">Barcelona English School</a></td><td>0.00</td><td><code>N/52 G3 W3 DB3 Y3 DB2 R3 DB12 G8 DB2 G6 Y/4</code></td><td>146</td><td>2000</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4~x2/">(School)</a></td><td>0.00</td><td><code>N/104 G6 W6 DB6 Y6 DB4 R6 DB24 G16 DB4 G12 Y/8</code></td><td>292</td><td>~2000</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/">Barcelona English School</a> · <a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4~x2/">(School)</a></td></tr>
 </tbody>
 </table>
 

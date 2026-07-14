@@ -16,10 +16,10 @@ Its design is pattern [GBBBBBBYW](/stripes/gbbbbbbyw/) — the page of every tar
 The **Blue Knights, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/">Blue Knights, The</a></td><td><code>W/6 LG30 DB12 DBi4 DB2 DBi4 DB2 DBi42 Y/4</code></td><td>202</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/"><img src="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/sett.png" alt="Blue Knights, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/">Blue Knights, The</a></td><td></td><td><code>W/6 LG30 DB12 DBi4 DB2 DBi4 DB2 DBi42 Y/4</code></td><td>202</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/"><img src="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/sett.png" alt="Blue Knights, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

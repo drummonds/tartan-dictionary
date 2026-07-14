@@ -18,10 +18,10 @@ Its design is pattern [BBBBBBBWBW](/stripes/bbbbbbbwbw/) — the page of every t
 The **Clyde** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/">Clyde</a></td><td><code>LB/10 N6 LB44 DR6 N12 Ni34 DR4 Ni8 DR4 Ni/8</code></td><td>254</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/"><img src="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/sett.png" alt="Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/">Clyde</a></td><td></td><td><code>LB/10 N6 LB44 DR6 N12 Ni34 DR4 Ni8 DR4 Ni/8</code></td><td>254</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/"><img src="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/sett.png" alt="Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

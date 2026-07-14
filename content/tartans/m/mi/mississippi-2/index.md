@@ -21,13 +21,13 @@ The **Mississippi** tartan is one sett, recorded at 2 scales — the same propor
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/">Mississippi</a></td><td><code>K/20 G40 DB4 K20 G20 R8 K20 G20 Y1 LY1 Y1 LY1 W/4</code></td><td>296</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/"><img src="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/sett.png" alt="Mississippi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/">Mississippi</a></td><td><code>K/20 G40 DB4 K20 G20 R8 K20 G20 Y1 LY1 Y1 LY1 W/4</code></td><td>296</td><td>2005</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4~x2/">(Fashion)</a></td><td><code>K/40 G80 DB8 K40 G40 R16 K40 G40 Y2 LY2 Y2 LY2 W/8</code></td><td>592</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/">Mississippi</a> · <a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4~x2/">(Fashion)</a></td></tr>
+<tr><td><a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/">Mississippi</a></td><td></td><td><code>K/20 G40 DB4 K20 G20 R8 K20 G20 Y1 LY1 Y1 LY1 W/4</code></td><td>296</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/"><img src="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/sett.png" alt="Mississippi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/">Mississippi</a></td><td>0.00</td><td><code>K/20 G40 DB4 K20 G20 R8 K20 G20 Y1 LY1 Y1 LY1 W/4</code></td><td>296</td><td>2005</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4~x2/">(Fashion)</a></td><td>0.00</td><td><code>K/40 G80 DB8 K40 G40 R16 K40 G40 Y2 LY2 Y2 LY2 W/8</code></td><td>592</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4/">Mississippi</a> · <a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4~x2/">(Fashion)</a></td></tr>
 </tbody>
 </table>
 

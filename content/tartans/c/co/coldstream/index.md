@@ -18,10 +18,10 @@ Its design is pattern [RBBBBRBRGBW](/stripes/rbbbbrbrgbw/) — the page of every
 The **Coldstream** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/">Coldstream</a></td><td><code>W/12 DB2 G70 R12 Bi16 R12 B16 DB10 B8 DB96 Ri/4</code></td><td>500</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/"><img src="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/sett.png" alt="Coldstream sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/">Coldstream</a></td><td></td><td><code>W/12 DB2 G70 R12 Bi16 R12 B16 DB10 B8 DB96 Ri/4</code></td><td>500</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/"><img src="/variants/s11/w6db1g35r6bi8r6b8db5b4db48ri2~x2~g2204202-r2008022-bi2505279-ri2008029/sett.png" alt="Coldstream sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

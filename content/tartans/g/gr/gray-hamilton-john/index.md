@@ -16,10 +16,10 @@ Its design is pattern [BRBBYYYBYBYYYBBRBY](/stripes/brbbyyybybyyybbrby/) — the
 The **Gray, Hamilton John** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4~x2/">Gray, Hamilton John</a></td><td><code>DT/12 R6 DT20 DB28 LY12 LR36 LY12 DB8 LY4 DB8 LY12 LR36 LY12 DB28 DT20 R6 DT12 LR/8</code></td><td>540</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4~x2/"><img src="/variants/s18/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4~x2/sett.png" alt="Gray, Hamilton John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4~x2/">Gray, Hamilton John</a></td><td></td><td><code>DT/12 R6 DT20 DB28 LY12 LR36 LY12 DB8 LY4 DB8 LY12 LR36 LY12 DB28 DT20 R6 DT12 LR/8</code></td><td>540</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4~x2/"><img src="/variants/s18/dt6r3dt10db14ly6lr18ly6db4ly2db4ly6lr18ly6db14dt10r3dt6lr4~x2/sett.png" alt="Gray, Hamilton John sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

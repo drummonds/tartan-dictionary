@@ -18,10 +18,10 @@ Its design is pattern [RBKGRKRKRGKBR](/stripes/rbkgrkrkrgkbr/) — the page of e
 The **Duff of Careston** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/">Duff of Careston</a></td><td><code>R/64 T24 K32 DG52 R28 K8 R28 K8 R28 DG52 K32 T24 R/32</code></td><td>728</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/"><img src="/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/sett.png" alt="Duff of Careston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/">Duff of Careston</a></td><td></td><td><code>R/64 T24 K32 DG52 R28 K8 R28 K8 R28 DG52 K32 T24 R/32</code></td><td>728</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/"><img src="/variants/s13/r16t6k8dg13r7k2r7k2r7dg13k8t6r8~x4/sett.png" alt="Duff of Careston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

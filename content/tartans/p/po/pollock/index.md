@@ -18,10 +18,10 @@ Its design is pattern [GRGKWRG](/stripes/grgkwrg/) — the page of every tartan 
 The **Pollock** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g3r16w4k6g28r1g3~x2/">Pollock</a></td><td><code>G/6 R32 W8 K12 G56 R2 G/6</code></td><td>232</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><img src="/variants/s7/g3r16w4k6g28r1g3~x2/sett.png" alt="Pollock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g3r16w4k6g28r1g3~x2/">Pollock</a></td><td></td><td><code>G/6 R32 W8 K12 G56 R2 G/6</code></td><td>232</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><img src="/variants/s7/g3r16w4k6g28r1g3~x2/sett.png" alt="Pollock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GKGBKBKBK](/stripes/gkgbkbkbk/) — the page of every tar
 The **Melange** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k80n4k44n50k36n4y12k12y45/">Melange</a></td><td><code>K/80 N4 K44 N50 K36 N4 Y12 K12 Y/45</code></td><td>449</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k80n4k44n50k36n4y12k12y45/"><img src="/variants/s9/k80n4k44n50k36n4y12k12y45/sett.png" alt="Melange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k80n4k44n50k36n4y12k12y45/">Melange</a></td><td></td><td><code>K/80 N4 K44 N50 K36 N4 Y12 K12 Y/45</code></td><td>449</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k80n4k44n50k36n4y12k12y45/"><img src="/variants/s9/k80n4k44n50k36n4y12k12y45/sett.png" alt="Melange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

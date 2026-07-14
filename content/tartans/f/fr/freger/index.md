@@ -18,10 +18,10 @@ Its design is pattern [GWBKGKBKGWGKBKGKWKBWGW](/stripes/gwbkgkbkgwgkbkgkwkbwgw/)
 The **Freger** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/">Freger</a></td><td><code>Y/4 W30 DP20 K46 Y4 K46 DP20 K30 Y4 W4 Y4 K30 DP20 K46 Y4 K4 W4 K46 DP20 W30 Y4 W/4</code></td><td>840</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/"><img src="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/sett.png" alt="Freger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/">Freger</a></td><td></td><td><code>Y/4 W30 DP20 K46 Y4 K46 DP20 K30 Y4 W4 Y4 K30 DP20 K46 Y4 K4 W4 K46 DP20 W30 Y4 W/4</code></td><td>840</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/"><img src="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/sett.png" alt="Freger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

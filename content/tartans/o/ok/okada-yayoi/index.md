@@ -13,10 +13,10 @@ Its design is pattern [BRRKGKGKBGR](/stripes/brrkgkgkbgr/) — the page of every
 The **Okada, Yayoi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db1o1r5k1g1k1g1k5db10g1r1~x4/">Okada, Yayoi</a></td><td><code>DB/4 O4 R20 K4 G4 K4 G4 K20 DB40 G4 R/4</code></td><td>216</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db1o1r5k1g1k1g1k5db10g1r1~x4/"><img src="/variants/s11/db1o1r5k1g1k1g1k5db10g1r1~x4/sett.png" alt="Okada, Yayoi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db1o1r5k1g1k1g1k5db10g1r1~x4/">Okada, Yayoi</a></td><td></td><td><code>DB/4 O4 R20 K4 G4 K4 G4 K20 DB40 G4 R/4</code></td><td>216</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db1o1r5k1g1k1g1k5db10g1r1~x4/"><img src="/variants/s11/db1o1r5k1g1k1g1k5db10g1r1~x4/sett.png" alt="Okada, Yayoi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

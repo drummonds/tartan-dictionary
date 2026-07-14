@@ -13,10 +13,10 @@ Its design is pattern [GBWBKGBWG](/stripes/gbwbkgbwg/) — the page of every tar
 The **Town of Petawawa** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/">Town of Petawawa</a></td><td><code>DG/16 W4 DB8 Y8 K12 DB12 W4 DR88 Y/4</code></td><td>292</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/"><img src="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/sett.png" alt="Town of Petawawa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/">Town of Petawawa</a></td><td></td><td><code>DG/16 W4 DB8 Y8 K12 DB12 W4 DR88 Y/4</code></td><td>292</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/"><img src="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/sett.png" alt="Town of Petawawa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

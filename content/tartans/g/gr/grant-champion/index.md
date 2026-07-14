@@ -16,10 +16,10 @@ Its design is pattern [GGGKGKRGR](/stripes/gggkgkrgr/) — the page of every tar
 The **Grant, Champion** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/">Grant, Champion</a></td><td><code>R/28 Y4 R12 K2 Y28 K2 G20 Y2 G/20</code></td><td>188</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/"><img src="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/sett.png" alt="Grant, Champion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/">Grant, Champion</a></td><td></td><td><code>R/28 Y4 R12 K2 Y28 K2 G20 Y2 G/20</code></td><td>188</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/"><img src="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/sett.png" alt="Grant, Champion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

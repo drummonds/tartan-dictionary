@@ -13,10 +13,10 @@ Its design is pattern [KGWBGGKBWKW](/stripes/kgwbggkbwkw/) — the page of every
 The **Wilson's No.030** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k16g2lb2db4g16y2k15db6lb2k3lb4~x2/">Wilson's No.030</a></td><td><code>K/32 G4 LB4 DB8 G32 Y4 K30 DB12 LB4 K6 LB/8</code></td><td>248</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k16g2lb2db4g16y2k15db6lb2k3lb4~x2/"><img src="/variants/s11/k16g2lb2db4g16y2k15db6lb2k3lb4~x2/sett.png" alt="Wilson's No.030 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k16g2lb2db4g16y2k15db6lb2k3lb4~x2/">Wilson's No.030</a></td><td></td><td><code>K/32 G4 LB4 DB8 G32 Y4 K30 DB12 LB4 K6 LB/8</code></td><td>248</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k16g2lb2db4g16y2k15db6lb2k3lb4~x2/"><img src="/variants/s11/k16g2lb2db4g16y2k15db6lb2k3lb4~x2/sett.png" alt="Wilson's No.030 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

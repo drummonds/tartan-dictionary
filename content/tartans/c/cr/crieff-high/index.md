@@ -16,10 +16,10 @@ Its design is pattern [RBYBRBRBWBKRKBKR](/stripes/rbybrbrbwbkrkbkr/) — the pag
 The **Crieff High** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5~x2/">Crieff High</a></td><td><code>R/10 K2 DB4 K2 R6 K2 DB70 W2 DB4 R6 DB6 R4 DB6 LY2 DB2 R/10</code></td><td>256</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5~x2/"><img src="/variants/s16/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5~x2/sett.png" alt="Crieff High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5~x2/">Crieff High</a></td><td></td><td><code>R/10 K2 DB4 K2 R6 K2 DB70 W2 DB4 R6 DB6 R4 DB6 LY2 DB2 R/10</code></td><td>256</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5~x2/"><img src="/variants/s16/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5~x2/sett.png" alt="Crieff High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

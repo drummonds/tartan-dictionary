@@ -13,11 +13,11 @@ Its design is pattern [BWRWBGRWRGWGRW](/stripes/bwrwbgrwrgwgrw/) — the page of
 The **Barra Fuschia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/">Barra Fuschia</a></td><td><code>DP/12 W12 R6 W60 DP40 G12 O2 W16 O2 G8 W4 G14 O2 W/12</code></td><td>380</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><img src="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/sett.png" alt="Barra Fuschia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/">Barra, Fuschia (Dance)</a> · <a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/">Barra Fuschia</a></td></tr>
+<tr><td><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/">Barra Fuschia</a></td><td></td><td><code>DP/12 W12 R6 W60 DP40 G12 O2 W16 O2 G8 W4 G14 O2 W/12</code></td><td>380</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><img src="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/sett.png" alt="Barra Fuschia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/">Barra, Fuschia (Dance)</a> · <a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/">Barra Fuschia</a></td></tr>
 </tbody>
 </table>
 

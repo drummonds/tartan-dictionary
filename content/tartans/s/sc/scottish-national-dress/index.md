@@ -13,10 +13,10 @@ Its design is pattern [BWRWBGKGKGKBRBWBWBRBKGKGKG](/stripes/bwrwbgkgkgkbrbwbwbrb
 The **Scottish National Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/">Scottish National Dress</a></td><td><code>DB/24 W22 R4 W22 DB24 DG22 K4 DG6 K4 DG22 K16 DB4 R4 DB4 W4 DB22 W4 DB4 R4 DB4 K16 DG22 K4 DG6 K4 DG/22</code></td><td>550</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/"><img src="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/sett.png" alt="Scottish National Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/">Scottish National Dress</a></td><td></td><td><code>DB/24 W22 R4 W22 DB24 DG22 K4 DG6 K4 DG22 K16 DB4 R4 DB4 W4 DB22 W4 DB4 R4 DB4 K16 DG22 K4 DG6 K4 DG/22</code></td><td>550</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/"><img src="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/sett.png" alt="Scottish National Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

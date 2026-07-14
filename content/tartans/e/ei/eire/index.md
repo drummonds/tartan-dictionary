@@ -13,10 +13,10 @@ Its design is pattern [GYGKBKYYY](/stripes/gygkbkyyy/) — the page of every tar
 The **Eire** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/">Eire</a></td><td><code>G/24 LR8 G40 K12 DR4 K12 LO40 LR8 LO/24</code></td><td>296</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/"><img src="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/sett.png" alt="Eire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/">Eire</a></td><td></td><td><code>G/24 LR8 G40 K12 DR4 K12 LO40 LR8 LO/24</code></td><td>296</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/"><img src="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/sett.png" alt="Eire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

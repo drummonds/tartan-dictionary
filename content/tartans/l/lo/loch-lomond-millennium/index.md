@@ -13,10 +13,10 @@ Its design is pattern [GBKGBRBGKBK](/stripes/gbkgbrbgkbk/) — the page of every
 The **Loch Lomond Millennium** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k3b2k12dg4db19r3db19dg4k12b2y3~x2/">Loch Lomond Millennium</a></td><td><code>K/6 B4 K24 DG8 DB38 R6 DB38 DG8 K24 B4 Y/6</code></td><td>320</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k3b2k12dg4db19r3db19dg4k12b2y3~x2/"><img src="/variants/s11/k3b2k12dg4db19r3db19dg4k12b2y3~x2/sett.png" alt="Loch Lomond Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k3b2k12dg4db19r3db19dg4k12b2y3~x2/">Loch Lomond Millennium</a></td><td></td><td><code>K/6 B4 K24 DG8 DB38 R6 DB38 DG8 K24 B4 Y/6</code></td><td>320</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k3b2k12dg4db19r3db19dg4k12b2y3~x2/"><img src="/variants/s11/k3b2k12dg4db19r3db19dg4k12b2y3~x2/sett.png" alt="Loch Lomond Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

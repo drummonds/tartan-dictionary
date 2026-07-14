@@ -18,10 +18,10 @@ Its design is pattern [BWRKBGWRBWGRWR](/stripes/bwrkbgwrbwgrwr/) — the page of
 The **MacFarlane, dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/">MacFarlane, dress</a></td><td><code>DB/8 W4 R12 K2 DB24 G8 W4 R12 B12 W4 G16 R4 W32 R/8</code></td><td>284</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/"><img src="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/sett.png" alt="MacFarlane, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/">MacFarlane, dress</a></td><td></td><td><code>DB/8 W4 R12 K2 DB24 G8 W4 R12 B12 W4 G16 R4 W32 R/8</code></td><td>284</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/"><img src="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/sett.png" alt="MacFarlane, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Designed by Harry Lindley in 1988 for E. Leslie Peter; accredited by the Scottis
 The **Peter of Lee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/">Peter of Lee</a></td><td><code>DB/6 K6 DB42 DG58 K4 DG8 R8 DG8 K4 DG58 DB42 K6 DB6 Y/6</code></td><td>512</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/"><img src="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/sett.png" alt="Peter of Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/">Peter of Lee</a></td><td></td><td><code>DB/6 K6 DB42 DG58 K4 DG8 R8 DG8 K4 DG58 DB42 K6 DB6 Y/6</code></td><td>512</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/"><img src="/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3~x2/sett.png" alt="Peter of Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

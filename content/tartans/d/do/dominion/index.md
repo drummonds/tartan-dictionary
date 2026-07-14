@@ -13,10 +13,10 @@ Its design is pattern [WBWBWRW](/stripes/wbwbwrw/) — the page of every tartan 
 The **Dominion** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/">Dominion</a></td><td><code>LB/12 R2 LB34 DB6 LB6 DB16 LB/2</code></td><td>142</td><td>~1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><img src="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/sett.png" alt="Dominion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/">Dominion</a></td><td></td><td><code>LB/12 R2 LB34 DB6 LB6 DB16 LB/2</code></td><td>142</td><td>~1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><img src="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/sett.png" alt="Dominion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

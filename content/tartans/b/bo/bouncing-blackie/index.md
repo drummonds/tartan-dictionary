@@ -15,12 +15,12 @@ The **Bouncing Blackie** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db13dt13dg21db34dt55do3/">Bouncing Blackie</a> ★</td><td><code>DB/13 DT13 DG21 DB34 DT55 DO/3</code></td><td>262</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db13dt13dg21db34dt55do3/"><img src="/variants/s6/db13dt13dg21db34dt55do3/sett.png" alt="Bouncing Blackie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp5db8dt13dg21db34dt55do3/">(Personal)</a></td><td><code>DP/5 DB8 DT13 DG21 DB34 DT55 DO/3</code></td><td>270</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp5db8dt13dg21db34dt55do3/"><img src="/variants/s7/dp5db8dt13dg21db34dt55do3/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db13dt13dg21db34dt55do3/">Bouncing Blackie</a> ★</td><td></td><td><code>DB/13 DT13 DG21 DB34 DT55 DO/3</code></td><td>262</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db13dt13dg21db34dt55do3/"><img src="/variants/s6/db13dt13dg21db34dt55do3/sett.png" alt="Bouncing Blackie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp5db8dt13dg21db34dt55do3/">(Personal)</a></td><td>0.41</td><td><code>DP/5 DB8 DT13 DG21 DB34 DT55 DO/3</code></td><td>270</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp5db8dt13dg21db34dt55do3/"><img src="/variants/s7/dp5db8dt13dg21db34dt55do3/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

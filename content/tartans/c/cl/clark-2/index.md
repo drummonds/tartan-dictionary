@@ -18,10 +18,10 @@ Its design is pattern [KWWKWKWWWKW](/stripes/kwwkwkwwwkw/) — the page of every
 The **Clark** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/">Clark</a></td><td><code>K/4 LB4 LP28 K32 LB4 K32 LB4 LP8 LB4 K16 LB/4</code></td><td>272</td><td>~1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/"><img src="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/">Clark</a></td><td></td><td><code>K/4 LB4 LP28 K32 LB4 K32 LB4 LP8 LB4 K16 LB/4</code></td><td>272</td><td>~1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/"><img src="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

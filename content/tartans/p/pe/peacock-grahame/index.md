@@ -16,10 +16,10 @@ Its design is pattern [RGRBRGBGRGR](/stripes/rgrbrgbgrgr/) — the page of every
 The **Peacock, Grahame** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/">Peacock, Grahame</a></td><td><code>R/20 G4 R40 G32 DBi6 G32 R6 DB16 R40 G4 R/20</code></td><td>400</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/"><img src="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/sett.png" alt="Peacock, Grahame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/">Peacock, Grahame</a></td><td></td><td><code>R/20 G4 R40 G32 DBi6 G32 R6 DB16 R40 G4 R/20</code></td><td>400</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/"><img src="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/sett.png" alt="Peacock, Grahame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

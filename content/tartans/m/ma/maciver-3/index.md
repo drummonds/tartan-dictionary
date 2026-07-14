@@ -18,10 +18,10 @@ Its design is pattern [BGBGBGGGGGBG](/stripes/bgbgbgggggbg/) — the page of eve
 The **MacIver** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dt32g3dt3g3dt3g26y26g3y26g26dt24g3~x2/">MacIver</a></td><td><code>DT/64 G6 DT6 G6 DT6 G52 Y52 G6 Y52 G52 DT48 G/6</code></td><td>642</td><td>1959</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dt32g3dt3g3dt3g26y26g3y26g26dt24g3~x2/"><img src="/variants/s12/dt32g3dt3g3dt3g26y26g3y26g26dt24g3~x2/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dt32g3dt3g3dt3g26y26g3y26g26dt24g3~x2/">MacIver</a></td><td></td><td><code>DT/64 G6 DT6 G6 DT6 G52 Y52 G6 Y52 G52 DT48 G/6</code></td><td>642</td><td>1959</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dt32g3dt3g3dt3g26y26g3y26g26dt24g3~x2/"><img src="/variants/s12/dt32g3dt3g3dt3g26y26g3y26g26dt24g3~x2/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

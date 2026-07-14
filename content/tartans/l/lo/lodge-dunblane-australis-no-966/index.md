@@ -13,10 +13,10 @@ Its design is pattern [BGBGBGBGBGBGKWKWKWKGBGBGBRBGBGBGGKWKWKWKGG](/stripes/bgbg
 The **Lodge Dunblane Australis No.966** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s42/dg12y1k2w2k2w2k2w2k2y1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4y2dp4dg1dp3dg2dp1~x2/">Lodge Dunblane Australis No.966</a></td><td><code>DG/24 Y2 K4 W4 K4 W4 K4 W4 K4 Y2 DG24 DP2 DG4 DP6 DG2 DP8 R4 DP8 DG2 DP6 DG4 DP2 DG24 K2 LB8 K2 LB8 K2 LB8 K2 DG24 DP2 DG4 DP6 DG2 DP8 Y4 DP8 DG2 DP6 DG4 DP/2</code></td><td>486</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s42/dg12y1k2w2k2w2k2w2k2y1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4y2dp4dg1dp3dg2dp1~x2/"><img src="/variants/s42/dg12y1k2w2k2w2k2w2k2y1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4y2dp4dg1dp3dg2dp1~x2/sett.png" alt="Lodge Dunblane Australis No.966 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s42/dg12y1k2w2k2w2k2w2k2y1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4y2dp4dg1dp3dg2dp1~x2/">Lodge Dunblane Australis No.966</a></td><td></td><td><code>DG/24 Y2 K4 W4 K4 W4 K4 W4 K4 Y2 DG24 DP2 DG4 DP6 DG2 DP8 R4 DP8 DG2 DP6 DG4 DP2 DG24 K2 LB8 K2 LB8 K2 LB8 K2 DG24 DP2 DG4 DP6 DG2 DP8 Y4 DP8 DG2 DP6 DG4 DP/2</code></td><td>486</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s42/dg12y1k2w2k2w2k2w2k2y1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4y2dp4dg1dp3dg2dp1~x2/"><img src="/variants/s42/dg12y1k2w2k2w2k2w2k2y1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4y2dp4dg1dp3dg2dp1~x2/sett.png" alt="Lodge Dunblane Australis No.966 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

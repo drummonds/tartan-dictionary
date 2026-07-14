@@ -18,11 +18,11 @@ Combines Graham of Montrose and Hunter setts to commemorate the 2009 wedding of 
 The **Hunter Graham** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/">Hunter Graham</a></td><td><code>K/20 DG18 W4 DG18 K20 R2 DB16 DP24 K/6</code></td><td>230</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/"><img src="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/sett.png" alt="Hunter Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2/">(Commemorative)</a> · <a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~db1004274-dp1105325/">Commemorative Tartan</a> · <a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/">Hunter Graham</a></td></tr>
+<tr><td><a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/">Hunter Graham</a></td><td></td><td><code>K/20 DG18 W4 DG18 K20 R2 DB16 DP24 K/6</code></td><td>230</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/"><img src="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/sett.png" alt="Hunter Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2/">(Commemorative)</a> · <a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~db1004274-dp1105325/">Commemorative Tartan</a> · <a href="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/">Hunter Graham</a></td></tr>
 </tbody>
 </table>
 

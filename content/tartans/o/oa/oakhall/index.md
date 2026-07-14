@@ -18,10 +18,10 @@ Its design is pattern [BGBGGGKGGGBGBK](/stripes/bgbgggkgggbgbk/) — the page of
 The **Oakhall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/">Oakhall</a></td><td><code>DR/96 G12 DR12 G24 Y6 G4 K6 G4 Y6 G24 DR12 G12 DR96 K/6</code></td><td>538</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/"><img src="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/sett.png" alt="Oakhall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/">Oakhall</a></td><td></td><td><code>DR/96 G12 DR12 G24 Y6 G4 K6 G4 Y6 G24 DR12 G12 DR96 K/6</code></td><td>538</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/"><img src="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/sett.png" alt="Oakhall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

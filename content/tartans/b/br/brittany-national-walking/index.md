@@ -13,10 +13,10 @@ Its design is pattern [GRBKYKBGW](/stripes/grbkykbgw/) — the page of every tar
 The **Brittany National Walking** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lb4dy27n8k4ly8k4n8o11y3~x2/">Brittany National Walking</a></td><td><code>LB/8 DY54 N16 K8 LY16 K8 N16 O22 Y/6</code></td><td>294</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lb4dy27n8k4ly8k4n8o11y3~x2/"><img src="/variants/s9/lb4dy27n8k4ly8k4n8o11y3~x2/sett.png" alt="Brittany National Walking sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lb4dy27n8k4ly8k4n8o11y3~x2/">Brittany National Walking</a></td><td></td><td><code>LB/8 DY54 N16 K8 LY16 K8 N16 O22 Y/6</code></td><td>294</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lb4dy27n8k4ly8k4n8o11y3~x2/"><img src="/variants/s9/lb4dy27n8k4ly8k4n8o11y3~x2/sett.png" alt="Brittany National Walking sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

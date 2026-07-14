@@ -13,10 +13,10 @@ Its design is pattern [BYGKYKYKBKGK](/stripes/bygkykykbkgk/) — the page of eve
 The **Entier** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg1804158-ly2706114/">Entier</a></td><td><code>K/4 DG8 K12 N4 K62 LY4 K2 LY4 K32 DG40 LY2 N/4</code></td><td>348</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg1804158-ly2706114/"><img src="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg1804158-ly2706114/sett.png" alt="Entier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg1804158-ly2706114/">Entier</a></td><td></td><td><code>K/4 DG8 K12 N4 K62 LY4 K2 LY4 K32 DG40 LY2 N/4</code></td><td>348</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg1804158-ly2706114/"><img src="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg1804158-ly2706114/sett.png" alt="Entier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

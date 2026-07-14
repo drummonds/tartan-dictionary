@@ -13,10 +13,10 @@ Its design is pattern [BRBBBRBRYR](/stripes/brbbbrbryr/) — the page of every t
 The **Star Is Born, A** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/">Star Is Born, A</a></td><td><code>R/8 LO56 O56 DR4 R8 DR8 T8 DR8 R80 T/8</code></td><td>472</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/"><img src="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/sett.png" alt="Star Is Born, A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/">Star Is Born, A</a></td><td></td><td><code>R/8 LO56 O56 DR4 R8 DR8 T8 DR8 R80 T/8</code></td><td>472</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/"><img src="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/sett.png" alt="Star Is Born, A sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

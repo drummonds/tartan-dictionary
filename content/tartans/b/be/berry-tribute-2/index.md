@@ -13,10 +13,10 @@ Its design is pattern [GBRBRRGGGRGY](/stripes/gbrbrrgggrgy/) — the page of eve
 The **Berry Tribute** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/">Berry Tribute</a></td><td><code>DG/86 DP6 O6 DP4 O8 R6 G4 DG26 G4 O18 DG2 LY/4</code></td><td>258</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/"><img src="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/sett.png" alt="Berry Tribute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/">Berry Tribute</a></td><td></td><td><code>DG/86 DP6 O6 DP4 O8 R6 G4 DG26 G4 O18 DG2 LY/4</code></td><td>258</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/"><img src="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/sett.png" alt="Berry Tribute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

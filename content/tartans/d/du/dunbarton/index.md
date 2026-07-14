@@ -18,10 +18,10 @@ Its design is pattern [GKGRGRGKGRG](/stripes/gkgrgrgkgrg/) — the page of every
 The **Dunbarton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/y30r2y2k5y3o2y3o22y3k2y3~x2/">Dunbarton</a></td><td><code>Y/60 R4 Y4 K10 Y6 O4 Y6 O44 Y6 K4 Y/6</code></td><td>242</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/y30r2y2k5y3o2y3o22y3k2y3~x2/"><img src="/variants/s11/y30r2y2k5y3o2y3o22y3k2y3~x2/sett.png" alt="Dunbarton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/y30r2y2k5y3o2y3o22y3k2y3~x2/">Dunbarton</a></td><td></td><td><code>Y/60 R4 Y4 K10 Y6 O4 Y6 O44 Y6 K4 Y/6</code></td><td>242</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/y30r2y2k5y3o2y3o22y3k2y3~x2/"><img src="/variants/s11/y30r2y2k5y3o2y3o22y3k2y3~x2/sett.png" alt="Dunbarton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GGKBKBKGGGKY](/stripes/ggkbkbkgggky/) — the page of eve
 The **Paterson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/">Paterson</a></td><td><code>LY/6 K2 G10 Y4 G10 K24 DB30 K4 DB30 K24 G24 Y/4</code></td><td>334</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><img src="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/sett.png" alt="Paterson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/">Paterson</a></td><td></td><td><code>LY/6 K2 G10 Y4 G10 K24 DB30 K4 DB30 K24 G24 Y/4</code></td><td>334</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><img src="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/sett.png" alt="Paterson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

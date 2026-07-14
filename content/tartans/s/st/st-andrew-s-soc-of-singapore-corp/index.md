@@ -13,10 +13,10 @@ Its design is pattern [WBWBRBGBRWRWRW](/stripes/wbwbrbgbrwrwrw/) — the page of
 The **St. Andrew's Soc. of Singapore (Corp** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/">St. Andrew's Soc. of Singapore (Corp</a></td><td><code>W/4 DB80 LB2 DB4 R8 DB2 G2 DB2 R16 W2 R4 W2 R4 W/4</code></td><td>264</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/"><img src="/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/sett.png" alt="St. Andrew's Soc. of Singapore (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/">St. Andrew's Soc. of Singapore (Corp</a></td><td></td><td><code>W/4 DB80 LB2 DB4 R8 DB2 G2 DB2 R16 W2 R4 W2 R4 W/4</code></td><td>264</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/"><img src="/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/sett.png" alt="St. Andrew's Soc. of Singapore (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KWKWGW](/stripes/kwkwgw/) — the page of every tartan sh
 The **Rea** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/">Rea</a></td><td><code>LB/48 Y8 LB4 K20 LB16 K/8</code></td><td>152</td><td>1973</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><img src="/variants/s6/lb12y2lb1k5lb4k2~x4/sett.png" alt="Rea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/">Rea</a></td><td></td><td><code>LB/48 Y8 LB4 K20 LB16 K/8</code></td><td>152</td><td>1973</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><img src="/variants/s6/lb12y2lb1k5lb4k2~x4/sett.png" alt="Rea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

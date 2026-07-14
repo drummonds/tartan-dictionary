@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/) — the page 
 The **78th Regiment** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/">78th Regiment</a></td><td><code>DT/30 K5 DT5 K5 DT5 K31 DG31 K3 W7 K3 DG31 K31 DT31 K3 R/7</code></td><td>419</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/"><img src="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/sett.png" alt="78th Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/">78th Regiment</a></td><td></td><td><code>DT/30 K5 DT5 K5 DT5 K31 DG31 K3 W7 K3 DG31 K31 DT31 K3 R/7</code></td><td>419</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/"><img src="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/sett.png" alt="78th Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

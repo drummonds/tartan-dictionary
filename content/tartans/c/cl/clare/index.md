@@ -18,10 +18,10 @@ Its design is pattern [BYGGR](/stripes/byggr/) — the page of every tartan shar
 The **Clare** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/">Clare</a></td><td><code>DB/5 LO5 DY13 Y41 R/3</code></td><td>—</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/"><img src="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/sett.png" alt="Clare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/">Clare</a></td><td></td><td><code>DB/5 LO5 DY13 Y41 R/3</code></td><td>—</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/"><img src="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/sett.png" alt="Clare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [KGKGK](/stripes/kgkgk/) — the page of every tartan shar
 The **MacCormick Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k3dg20k20g20k3~x2/">MacCormick Hunting</a></td><td><code>K/6 DG40 K40 G40 K/6</code></td><td>252</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k3dg20k20g20k3~x2/"><img src="/variants/s5/k3dg20k20g20k3~x2/sett.png" alt="MacCormick Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k3dg20k20g20k3~x2/">MacCormick Hunting</a></td><td></td><td><code>K/6 DG40 K40 G40 K/6</code></td><td>252</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k3dg20k20g20k3~x2/"><img src="/variants/s5/k3dg20k20g20k3~x2/sett.png" alt="MacCormick Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

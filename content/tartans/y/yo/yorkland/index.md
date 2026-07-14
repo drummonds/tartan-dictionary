@@ -18,10 +18,10 @@ Its design is pattern [BRBWRGGG](/stripes/brbwrggg/) — the page of every tarta
 The **Yorkland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/">Yorkland</a></td><td><code>DB/60 R4 DB8 W2 O22 G8 Y4 G/44</code></td><td>200</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><img src="/variants/s8/db30r2db4w1o11g4y2g22~x2/sett.png" alt="Yorkland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/">Yorkland</a></td><td></td><td><code>DB/60 R4 DB8 W2 O22 G8 Y4 G/44</code></td><td>200</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><img src="/variants/s8/db30r2db4w1o11g4y2g22~x2/sett.png" alt="Yorkland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BBYBBBBBWB](/stripes/bbybbbbbwb/) — the page of every t
 The **Serenade** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db6dp12lg3dp12t6db2t26dp16lb2dp6~x2~lg3005197-lb3300000/">Serenade</a></td><td><code>DB/12 DP24 LG6 DP24 T12 DB4 T52 DP32 LB4 DP/12</code></td><td>340</td><td>~1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db6dp12lg3dp12t6db2t26dp16lb2dp6~x2~lg3005197-lb3300000/"><img src="/variants/s10/db6dp12lg3dp12t6db2t26dp16lb2dp6~x2~lg3005197-lb3300000/sett.png" alt="Serenade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db6dp12lg3dp12t6db2t26dp16lb2dp6~x2~lg3005197-lb3300000/">Serenade</a></td><td></td><td><code>DB/12 DP24 LG6 DP24 T12 DB4 T52 DP32 LB4 DP/12</code></td><td>340</td><td>~1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db6dp12lg3dp12t6db2t26dp16lb2dp6~x2~lg3005197-lb3300000/"><img src="/variants/s10/db6dp12lg3dp12t6db2t26dp16lb2dp6~x2~lg3005197-lb3300000/sett.png" alt="Serenade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

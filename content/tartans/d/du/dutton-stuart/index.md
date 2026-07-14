@@ -13,10 +13,10 @@ Its design is pattern [BBYBYKGKBKB](/stripes/bbybykgkbkb/) — the page of every
 The **Dutton, Stuart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/">Dutton, Stuart</a></td><td><code>DB/8 K8 DB20 K20 DY4 K20 LR8 DB16 LR24 DB4 DP/2</code></td><td>258</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/"><img src="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/sett.png" alt="Dutton, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/">Dutton, Stuart</a></td><td></td><td><code>DB/8 K8 DB20 K20 DY4 K20 LR8 DB16 LR24 DB4 DP/2</code></td><td>258</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/"><img src="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/sett.png" alt="Dutton, Stuart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

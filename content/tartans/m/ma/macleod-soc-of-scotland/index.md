@@ -13,10 +13,10 @@ Its design is pattern [GGRKBGW](/stripes/ggrkbgw/) — the page of every tartan 
 The **MacLeod Soc. of Scotland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/">MacLeod Soc. of Scotland</a></td><td><code>DG/6 G6 R44 K10 DB44 DY4 W/4</code></td><td>226</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/"><img src="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/sett.png" alt="MacLeod Soc. of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/">MacLeod Soc. of Scotland</a></td><td></td><td><code>DG/6 G6 R44 K10 DB44 DY4 W/4</code></td><td>226</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/"><img src="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/sett.png" alt="MacLeod Soc. of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

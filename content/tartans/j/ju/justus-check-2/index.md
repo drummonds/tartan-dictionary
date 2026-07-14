@@ -17,13 +17,13 @@ The **Justus Check** tartan is one sett, recorded at 2 scales — the same propo
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s2/k1y1~x40/">Justus Check</a></td><td><code>K/1 Y/1</code></td><td>2</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s2/k1y1~x40/"><img src="/variants/s2/k1y1~x40/sett.png" alt="Justus Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×40 — <a href="/variants/s2/k1y1~x40/">(Personal)</a></td><td><code>K/40 Y/40</code></td><td>80</td><td>1999</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/k1y1~x100/">Rob Roy, Black &amp; Tan (Fashion)</a></td><td><code>K/100 Y/100</code></td><td>200</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s2/k1y1~x100/">Rob Roy, Black &amp; Tan (Fashion)</a> · <a href="/variants/s2/k1y1~x40/">(Personal)</a></td></tr>
+<tr><td><a href="/variants/s2/k1y1~x40/">Justus Check</a></td><td></td><td><code>K/1 Y/1</code></td><td>2</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s2/k1y1~x40/"><img src="/variants/s2/k1y1~x40/sett.png" alt="Justus Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×40 — <a href="/variants/s2/k1y1~x40/">(Personal)</a></td><td>0.00</td><td><code>K/40 Y/40</code></td><td>80</td><td>1999</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/k1y1~x100/">Rob Roy, Black &amp; Tan (Fashion)</a></td><td>0.00</td><td><code>K/100 Y/100</code></td><td>200</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s2/k1y1~x100/">Rob Roy, Black &amp; Tan (Fashion)</a> · <a href="/variants/s2/k1y1~x40/">(Personal)</a></td></tr>
 </tbody>
 </table>
 

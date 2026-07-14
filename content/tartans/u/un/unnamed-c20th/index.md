@@ -13,10 +13,10 @@ Its design is pattern [BRBRBRKYGRGRG](/stripes/brbrbrkygrgrg/) — the page of e
 The **Unnamed C20th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/">Unnamed C20th</a></td><td><code>DG/26 R4 DG4 R12 DG50 LY4 K54 R4 DB50 R12 DB4 R4 DB/26</code></td><td>456</td><td>~1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><img src="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/">Unnamed C20th</a></td><td></td><td><code>DG/26 R4 DG4 R12 DG50 LY4 K54 R4 DB50 R12 DB4 R4 DB/26</code></td><td>456</td><td>~1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><img src="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/sett.png" alt="Unnamed C20th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

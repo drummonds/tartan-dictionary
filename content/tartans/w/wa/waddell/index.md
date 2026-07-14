@@ -13,10 +13,10 @@ Its design is pattern [BBBBGBGBGBW](/stripes/bbbbgbgbgbw/) — the page of every
 The **Waddell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/">Waddell</a></td><td><code>DR/6 DB4 DR48 DB16 DG4 DB4 DG4 DB4 DG20 DR6 W/4</code></td><td>230</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/"><img src="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/sett.png" alt="Waddell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/">Waddell</a></td><td></td><td><code>DR/6 DB4 DR48 DB16 DG4 DB4 DG4 DB4 DG20 DR6 W/4</code></td><td>230</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/"><img src="/variants/s11/dr3db2dr24db8dg2db2dg2db2dg10dr3w2~x2/sett.png" alt="Waddell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

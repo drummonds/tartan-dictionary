@@ -18,10 +18,10 @@ Its design is pattern [BRBWBW](/stripes/brbwbw/) — the page of every tartan sh
 The **Blue** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/">Blue</a></td><td><code>N/28 R8 N28 LB30 DB26 W/6</code></td><td>218</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/"><img src="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/">Blue</a></td><td></td><td><code>N/28 R8 N28 LB30 DB26 W/6</code></td><td>218</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/"><img src="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

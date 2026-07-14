@@ -13,10 +13,10 @@ Its design is pattern [BGWBRBWGBG](/stripes/bgwbrbwgbg/) — the page of every t
 The **Highlands of Durham** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/">Highlands of Durham</a></td><td><code>DT/74 G54 W4 DT8 R12 DT8 W4 G54 DT74 Y/4</code></td><td>514</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/"><img src="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/sett.png" alt="Highlands of Durham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/">Highlands of Durham</a></td><td></td><td><code>DT/74 G54 W4 DT8 R12 DT8 W4 G54 DT74 Y/4</code></td><td>514</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/"><img src="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/sett.png" alt="Highlands of Durham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

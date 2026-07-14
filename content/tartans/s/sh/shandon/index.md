@@ -18,10 +18,10 @@ Its design is pattern [BBBBBKGKGKWKGK](/stripes/bbbbbkgkgkwkgk/) — the page of
 The **Shandon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k20dg18k2w2k5y2k2dg18k20db18t4db4t4db18~x2~db1406275-t2205244/">Shandon</a></td><td><code>K/40 DG36 K4 W4 K10 Y4 K4 DG36 K40 DB36 T8 DB8 T8 DB/36</code></td><td>472</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k20dg18k2w2k5y2k2dg18k20db18t4db4t4db18~x2~db1406275-t2205244/"><img src="/variants/s14/k20dg18k2w2k5y2k2dg18k20db18t4db4t4db18~x2~db1406275-t2205244/sett.png" alt="Shandon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k20dg18k2w2k5y2k2dg18k20db18t4db4t4db18~x2~db1406275-t2205244/">Shandon</a></td><td></td><td><code>K/40 DG36 K4 W4 K10 Y4 K4 DG36 K40 DB36 T8 DB8 T8 DB/36</code></td><td>472</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k20dg18k2w2k5y2k2dg18k20db18t4db4t4db18~x2~db1406275-t2205244/"><img src="/variants/s14/k20dg18k2w2k5y2k2dg18k20db18t4db4t4db18~x2~db1406275-t2205244/sett.png" alt="Shandon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

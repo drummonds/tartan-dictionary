@@ -22,12 +22,12 @@ The **Grampian** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/">Grampian</a> ★</td><td><code>G/48 R4 G6 DB28 DT48 R4 DT6 DB/6</code></td><td>246</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/"><img src="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/">Grampian</a></td><td><code>G/26 Ri2 G3 DBi15 DB26 R2 DB3 DBi/4</code></td><td>—</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/"><img src="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/">Grampian</a> ★</td><td></td><td><code>G/48 R4 G6 DB28 DT48 R4 DT6 DB/6</code></td><td>246</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/"><img src="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/">Grampian</a></td><td>—</td><td><code>G/26 Ri2 G3 DBi15 DB26 R2 DB3 DBi/4</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/"><img src="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

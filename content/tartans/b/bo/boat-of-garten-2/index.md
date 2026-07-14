@@ -18,10 +18,10 @@ Its design is pattern [BGGBWKWB](/stripes/bggbwkwb/) — the page of every tarta
 The **Boat of Garten** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db62w4k2w7dp2g3y2db16~x2/">Boat of Garten</a></td><td><code>DB/124 W8 K4 W14 DP4 G6 Y4 DB/32</code></td><td>236</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db62w4k2w7dp2g3y2db16~x2/"><img src="/variants/s8/db62w4k2w7dp2g3y2db16~x2/sett.png" alt="Boat of Garten sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db62w4k2w7dp2g3y2db16~x2/">Boat of Garten</a></td><td></td><td><code>DB/124 W8 K4 W14 DP4 G6 Y4 DB/32</code></td><td>236</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db62w4k2w7dp2g3y2db16~x2/"><img src="/variants/s8/db62w4k2w7dp2g3y2db16~x2/sett.png" alt="Boat of Garten sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

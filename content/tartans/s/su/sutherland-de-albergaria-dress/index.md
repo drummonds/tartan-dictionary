@@ -16,10 +16,10 @@ Its design is pattern [RGRGGWGW](/stripes/rgrggwgw/) — the page of every tarta
 The **Sutherland de Albergaria Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w5g1w1g33y3r24g3r4~x2/">Sutherland de Albergaria Dress</a></td><td><code>W/10 G2 W2 G66 Y6 R48 G6 R/8</code></td><td>278</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w5g1w1g33y3r24g3r4~x2/"><img src="/variants/s8/w5g1w1g33y3r24g3r4~x2/sett.png" alt="Sutherland de Albergaria Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w5g1w1g33y3r24g3r4~x2/">Sutherland de Albergaria Dress</a></td><td></td><td><code>W/10 G2 W2 G66 Y6 R48 G6 R/8</code></td><td>278</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w5g1w1g33y3r24g3r4~x2/"><img src="/variants/s8/w5g1w1g33y3r24g3r4~x2/sett.png" alt="Sutherland de Albergaria Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

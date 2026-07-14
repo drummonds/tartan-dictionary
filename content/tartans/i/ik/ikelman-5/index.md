@@ -21,14 +21,14 @@ The **Ikelman** tartan groups 3 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/dr11k4dr4lo4dr11~x4/">Ikelman</a> ★</td><td><code>DR/44 K16 DR16 LO16 DR/44</code></td><td>184</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr11k4dr4lo4dr11~x4/"><img src="/variants/s5/dr11k4dr4lo4dr11~x4/sett.png" alt="Ikelman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/n11k4dr4lo4n1~x4/">#2 (Personal)</a></td><td><code>N/44 K16 DR16 LO16 N/4</code></td><td>144</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/n11k4dr4lo4n1~x4/"><img src="/variants/s5/n11k4dr4lo4n1~x4/sett.png" alt="#2 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/n11k4dr4lo4n11~x4/">#3 (Personal)</a></td><td><code>N/44 K16 DR16 LO16 N/44</code></td><td>184</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/n11k4dr4lo4n11~x4/"><img src="/variants/s5/n11k4dr4lo4n11~x4/sett.png" alt="#3 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr11k4dr4lo4dr11~x4/">Ikelman</a> ★</td><td></td><td><code>DR/44 K16 DR16 LO16 DR/44</code></td><td>184</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dr11k4dr4lo4dr11~x4/"><img src="/variants/s5/dr11k4dr4lo4dr11~x4/sett.png" alt="Ikelman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/n11k4dr4lo4n1~x4/">#2 (Personal)</a></td><td>4.99</td><td><code>N/44 K16 DR16 LO16 N/4</code></td><td>144</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/n11k4dr4lo4n1~x4/"><img src="/variants/s5/n11k4dr4lo4n1~x4/sett.png" alt="#2 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/n11k4dr4lo4n11~x4/">#3 (Personal)</a></td><td>2.00</td><td><code>N/44 K16 DR16 LO16 N/44</code></td><td>184</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/n11k4dr4lo4n11~x4/"><img src="/variants/s5/n11k4dr4lo4n11~x4/sett.png" alt="#3 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

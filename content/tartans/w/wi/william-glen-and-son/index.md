@@ -13,10 +13,10 @@ Its design is pattern [BKBKBWKBWBW](/stripes/bkbkbwkbwbw/) — the page of every
 The **William Glen and Son** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/">William Glen and Son</a></td><td><code>DR/12 K6 N8 K20 N10 LB4 K4 N62 W2 N4 W/4</code></td><td>256</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><img src="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/sett.png" alt="William Glen and Son sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/">William Glen and Son</a></td><td></td><td><code>DR/12 K6 N8 K20 N10 LB4 K4 N62 W2 N4 W/4</code></td><td>256</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><img src="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/sett.png" alt="William Glen and Son sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

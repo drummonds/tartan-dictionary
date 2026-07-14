@@ -17,13 +17,13 @@ The **Western Isles** tartan groups 2 setts — the same named design recorded a
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032/">Western Isles</a> ★</td><td><code>G/9 R2 DP2 G3 DP18 G2 K2 G1 K19 Ri1 DB33 W/2</code></td><td>—</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032/"><img src="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032/sett.png" alt="Western Isles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032-db1204274-w3600000/">Western Isles</a> · <a href="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032/">(Fashion)</a></td></tr>
-<tr><td><a href="/variants/s12/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2~x2~dg1505139-ri1807008-dp1607327-db1204274-w3600000/">Fashion Tartan</a></td><td><code>DG/9 Ri2 DP2 DG3 DP18 DG2 K2 DG1 K19 R1 DB33 W/2</code></td><td>—</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2~x2~dg1505139-ri1807008-dp1607327-db1204274-w3600000/"><img src="/variants/s12/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2~x2~dg1505139-ri1807008-dp1607327-db1204274-w3600000/sett.png" alt="Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032/">Western Isles</a> ★</td><td></td><td><code>G/9 R2 DP2 G3 DP18 G2 K2 G1 K19 Ri1 DB33 W/2</code></td><td>—</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032/"><img src="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032/sett.png" alt="Western Isles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032-db1204274-w3600000/">Western Isles</a> · <a href="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032/">(Fashion)</a></td></tr>
+<tr><td><a href="/variants/s12/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2~x2~dg1505139-ri1807008-dp1607327-db1204274-w3600000/">Fashion Tartan</a></td><td>—</td><td><code>DG/9 Ri2 DP2 DG3 DP18 DG2 K2 DG1 K19 R1 DB33 W/2</code></td><td>—</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2~x2~dg1505139-ri1807008-dp1607327-db1204274-w3600000/"><img src="/variants/s12/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2~x2~dg1505139-ri1807008-dp1607327-db1204274-w3600000/sett.png" alt="Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

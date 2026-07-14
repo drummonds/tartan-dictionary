@@ -20,10 +20,10 @@ Designed by Michael King of Aberdeen to forestall commercial exploitation of the
 The **Braveheart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/">Braveheart</a></td><td><code>W/42 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 O40 K/4</code></td><td>202</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/"><img src="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/sett.png" alt="Braveheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/">Braveheart</a></td><td></td><td><code>W/42 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 W2 DY2 O40 K/4</code></td><td>202</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/"><img src="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/sett.png" alt="Braveheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

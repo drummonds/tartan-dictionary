@@ -13,10 +13,10 @@ Its design is pattern [BWGWBR](/stripes/bwgwbr/) — the page of every tartan sh
 The **McIntosh, Georgina** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/b9lb1g2lb1db4r1~x12/">McIntosh, Georgina</a></td><td><code>B/108 LB12 G24 LB12 DB48 R/12</code></td><td>312</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><img src="/variants/s6/b9lb1g2lb1db4r1~x12/sett.png" alt="McIntosh, Georgina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/b9lb1g2lb1db4r1~x12/">McIntosh, Georgina</a></td><td></td><td><code>B/108 LB12 G24 LB12 DB48 R/12</code></td><td>312</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><img src="/variants/s6/b9lb1g2lb1db4r1~x12/sett.png" alt="McIntosh, Georgina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

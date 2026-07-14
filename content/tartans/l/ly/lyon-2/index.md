@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKGWBWGKBKB](/stripes/bkbkbkgwbwgkbkb/) — the page 
 The **Lyon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/">Lyon</a></td><td><code>T/32 K4 T4 K4 T4 K20 G23 W2 T5 W2 G23 K20 T22 K4 T/4</code></td><td>310</td><td>~1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/"><img src="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/sett.png" alt="Lyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/">Lyon</a></td><td></td><td><code>T/32 K4 T4 K4 T4 K20 G23 W2 T5 W2 G23 K20 T22 K4 T/4</code></td><td>310</td><td>~1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/"><img src="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/sett.png" alt="Lyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

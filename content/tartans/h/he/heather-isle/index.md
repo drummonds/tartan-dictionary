@@ -18,10 +18,10 @@ Designed 2005 for Lochcarron's range; woven in several qualities for kilts, skir
 The **Heather Isle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/">Heather Isle</a></td><td><code>G/160 DB32 DP16 DPi20 G16 LY2 DB12 N/2</code></td><td>358</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/"><img src="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/sett.png" alt="Heather Isle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/">Heather Isle</a></td><td></td><td><code>G/160 DB32 DP16 DPi20 G16 LY2 DB12 N/2</code></td><td>358</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/"><img src="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/sett.png" alt="Heather Isle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

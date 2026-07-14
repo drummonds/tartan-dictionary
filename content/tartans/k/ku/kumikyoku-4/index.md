@@ -18,10 +18,10 @@ Its design is pattern [WGBGBKGBRBKBWBGBWBGBWBKBRBGKBGBGW](/stripes/wgbgbkgbrbkbw
 The **Kumikyoku** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/">Kumikyoku</a></td><td><code>W/2 G26 DB3 G5 DB3 K11 Y2 DB3 R5 DB3 K13 DB3 LB5 DB3 G12 DB3 W5 DB3 G12 DB3 LB5 DB3 K13 DB3 R5 DB3 Y2 K11 DB3 G5 DB3 G25 W/2</code></td><td>412</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/"><img src="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/sett.png" alt="Kumikyoku sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/">Kumikyoku</a></td><td></td><td><code>W/2 G26 DB3 G5 DB3 K11 Y2 DB3 R5 DB3 K13 DB3 LB5 DB3 G12 DB3 W5 DB3 G12 DB3 LB5 DB3 K13 DB3 R5 DB3 Y2 K11 DB3 G5 DB3 G25 W/2</code></td><td>412</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/"><img src="/variants/s33/w2g26db3g5db3k11y2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/sett.png" alt="Kumikyoku sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

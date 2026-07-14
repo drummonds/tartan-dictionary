@@ -18,10 +18,10 @@ Its design is pattern [BK](/stripes/bk/) — the page of every tartan sharing th
 The **Buffalo** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s2/k1db1~x100/">Buffalo</a></td><td><code>K/100 DB/100</code></td><td>200</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s2/k1db1~x100/"><img src="/variants/s2/k1db1~x100/sett.png" alt="Buffalo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s2/k1db1~x100/">Buffalo</a></td><td></td><td><code>K/100 DB/100</code></td><td>200</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s2/k1db1~x100/"><img src="/variants/s2/k1db1~x100/sett.png" alt="Buffalo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

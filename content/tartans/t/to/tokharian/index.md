@@ -13,10 +13,10 @@ Its design is pattern [BRBRBW](/stripes/brbrbw/) — the page of every tartan sh
 The **Tokharian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db1o5db1o5db2w1~x4/">Tokharian</a></td><td><code>DB/4 O20 DB4 O20 DB8 W/4</code></td><td>112</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db1o5db1o5db2w1~x4/"><img src="/variants/s6/db1o5db1o5db2w1~x4/sett.png" alt="Tokharian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db1o5db1o5db2w1~x4/">Tokharian</a></td><td></td><td><code>DB/4 O20 DB4 O20 DB8 W/4</code></td><td>112</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db1o5db1o5db2w1~x4/"><img src="/variants/s6/db1o5db1o5db2w1~x4/sett.png" alt="Tokharian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

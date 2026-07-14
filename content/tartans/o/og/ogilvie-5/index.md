@@ -18,10 +18,10 @@ Its design is pattern [GBGKRKRWKWRWKWRKRKGBWBGKRWRWRKGBGKRKR](/stripes/gbgkrkrwk
 The **Ogilvie 5** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/">Ogilvie 5</a></td><td><code>R/6 K6 R6 K6 Y7 DB7 Y7 K8 R6 W5 R6 W5 R6 K8 Y8 DB8 W7 DB7 Y7 K8 R8 K8 R15 W2 K2 W2 R14 W2 K2 W2 R14 K8 R8 K8 Y6 DB6 Y/6</code></td><td>482</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/"><img src="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/sett.png" alt="Ogilvie 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/">Ogilvie 5</a></td><td></td><td><code>R/6 K6 R6 K6 Y7 DB7 Y7 K8 R6 W5 R6 W5 R6 K8 Y8 DB8 W7 DB7 Y7 K8 R8 K8 R15 W2 K2 W2 R14 W2 K2 W2 R14 K8 R8 K8 Y6 DB6 Y/6</code></td><td>482</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/"><img src="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/sett.png" alt="Ogilvie 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

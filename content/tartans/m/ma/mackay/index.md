@@ -18,10 +18,10 @@ Its design is pattern [GBGKGG](/stripes/gbgkgg/) — the page of every tartan sh
 The **MacKay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/y1g6k5g1db5g1~x2/">MacKay</a></td><td><code>Y/2 G12 K10 G2 DB10 G/2</code></td><td>72</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y1g6k5g1db5g1~x2/"><img src="/variants/s6/y1g6k5g1db5g1~x2/sett.png" alt="MacKay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y1g6k5g1db5g1~x2/">MacKay</a></td><td></td><td><code>Y/2 G12 K10 G2 DB10 G/2</code></td><td>72</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y1g6k5g1db5g1~x2/"><img src="/variants/s6/y1g6k5g1db5g1~x2/sett.png" alt="MacKay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

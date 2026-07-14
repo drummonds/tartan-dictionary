@@ -13,10 +13,10 @@ Its design is pattern [BKBRBKB](/stripes/bkbrbkb/) — the page of every tartan 
 The **Greyhound Grenadiers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db9k7n5r1n5k1n2~x4/">Greyhound Grenadiers</a></td><td><code>DB/36 K28 N20 R4 N20 K4 N/8</code></td><td>196</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db9k7n5r1n5k1n2~x4/"><img src="/variants/s7/db9k7n5r1n5k1n2~x4/sett.png" alt="Greyhound Grenadiers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db9k7n5r1n5k1n2~x4/">Greyhound Grenadiers</a></td><td></td><td><code>DB/36 K28 N20 R4 N20 K4 N/8</code></td><td>196</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db9k7n5r1n5k1n2~x4/"><img src="/variants/s7/db9k7n5r1n5k1n2~x4/sett.png" alt="Greyhound Grenadiers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

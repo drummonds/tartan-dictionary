@@ -18,10 +18,10 @@ Its design is pattern [GBGBGKGKBBBBBKRKBBBBBKGKGBGBGG](/stripes/gbgbgkgkbbbbbkrk
 The **MacWatts** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s30/g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3k2dbi7db2dbi2db12dbi2k12g1k2g2dp12g2dp2g7y4~x2~dbi1406275-db1106275/">MacWatts</a></td><td><code>G/14 DP4 G4 DP24 G4 K4 G2 K24 DBi4 DB24 DBi4 DB4 DBi14 K4 R6 K4 DBi14 DB4 DBi4 DB24 DBi4 K24 G2 K4 G4 DP24 G4 DP4 G14 Y/8</code></td><td>542</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s30/g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3k2dbi7db2dbi2db12dbi2k12g1k2g2dp12g2dp2g7y4~x2~dbi1406275-db1106275/"><img src="/variants/s30/g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3k2dbi7db2dbi2db12dbi2k12g1k2g2dp12g2dp2g7y4~x2~dbi1406275-db1106275/sett.png" alt="MacWatts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s30/g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3k2dbi7db2dbi2db12dbi2k12g1k2g2dp12g2dp2g7y4~x2~dbi1406275-db1106275/">MacWatts</a></td><td></td><td><code>G/14 DP4 G4 DP24 G4 K4 G2 K24 DBi4 DB24 DBi4 DB4 DBi14 K4 R6 K4 DBi14 DB4 DBi4 DB24 DBi4 K24 G2 K4 G4 DP24 G4 DP4 G14 Y/8</code></td><td>542</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s30/g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3k2dbi7db2dbi2db12dbi2k12g1k2g2dp12g2dp2g7y4~x2~dbi1406275-db1106275/"><img src="/variants/s30/g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3k2dbi7db2dbi2db12dbi2k12g1k2g2dp12g2dp2g7y4~x2~dbi1406275-db1106275/sett.png" alt="MacWatts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

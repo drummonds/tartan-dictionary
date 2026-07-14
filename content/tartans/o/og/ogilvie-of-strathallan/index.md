@@ -18,10 +18,10 @@ Its design is pattern [BWRWBWRKRBYWYKRWRKYKRWRKYWYBRKRWBWRWBWRKRBYKWBWKRWRWRKYKY
 The **Ogilvie of Strathallan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/">Ogilvie of Strathallan</a></td><td><code>W/6 LY6 K6 R10 W6 R10 W6 R10 K6 LY6 K12 LY6 K6 R10 W6 R10 W6 R10 K26 W2 DB6 W2 K26 LY38 DB6 R6 K6 R26 W2 DB2 W2 R26 W2 DB2 W2 R26 K6 R6 DB6 LY6 W6 LY6 K10 R10 W6 R10 K6 LY32 K6 R10 W6 R10 K10 LY6 W6 LY6 DB6 R6 K6 R26 W2 DB2 W2 R26 W2 DB/2</code></td><td>1184</td><td>1812</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/"><img src="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/sett.png" alt="Ogilvie of Strathallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/">Ogilvie of Strathallan</a></td><td></td><td><code>W/6 LY6 K6 R10 W6 R10 W6 R10 K6 LY6 K12 LY6 K6 R10 W6 R10 W6 R10 K26 W2 DB6 W2 K26 LY38 DB6 R6 K6 R26 W2 DB2 W2 R26 W2 DB2 W2 R26 K6 R6 DB6 LY6 W6 LY6 K10 R10 W6 R10 K6 LY32 K6 R10 W6 R10 K10 LY6 W6 LY6 DB6 R6 K6 R26 W2 DB2 W2 R26 W2 DB/2</code></td><td>1184</td><td>1812</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/"><img src="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/sett.png" alt="Ogilvie of Strathallan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GKGWKG](/stripes/gkgwkg/) — the page of every tartan sh
 The **Kincardine City** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g3k8g8lb3k18g2~x4/">Kincardine City</a></td><td><code>G/12 K32 G32 LB12 K72 G/8</code></td><td>316</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g3k8g8lb3k18g2~x4/"><img src="/variants/s6/g3k8g8lb3k18g2~x4/sett.png" alt="Kincardine City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g3k8g8lb3k18g2~x4/">Kincardine City</a></td><td></td><td><code>G/12 K32 G32 LB12 K72 G/8</code></td><td>316</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g3k8g8lb3k18g2~x4/"><img src="/variants/s6/g3k8g8lb3k18g2~x4/sett.png" alt="Kincardine City sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

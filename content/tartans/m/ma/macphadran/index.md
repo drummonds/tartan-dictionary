@@ -13,10 +13,10 @@ Its design is pattern [GBBKGRG](/stripes/gbbkgrg/) — the page of every tartan 
 The **MacPhadran** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g3db12b1k12g13r2g2~x2/">MacPhadran</a></td><td><code>G/6 DB24 B2 K24 G26 R4 G/4</code></td><td>170</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g3db12b1k12g13r2g2~x2/"><img src="/variants/s7/g3db12b1k12g13r2g2~x2/sett.png" alt="MacPhadran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g3db12b1k12g13r2g2~x2/">MacPhadran</a></td><td></td><td><code>G/6 DB24 B2 K24 G26 R4 G/4</code></td><td>170</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g3db12b1k12g13r2g2~x2/"><img src="/variants/s7/g3db12b1k12g13r2g2~x2/sett.png" alt="MacPhadran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

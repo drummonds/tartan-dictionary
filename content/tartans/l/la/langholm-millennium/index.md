@@ -13,10 +13,10 @@ Its design is pattern [BBGBWBRGBGBY](/stripes/bbgbwbrgbgby/) — the page of eve
 The **Langholm Millennium** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/">Langholm Millennium</a></td><td><code>DR/86 DB6 DY2 DB4 W2 DB12 R4 G2 DB2 G6 DB2 LY/6</code></td><td>176</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/"><img src="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/sett.png" alt="Langholm Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/">Langholm Millennium</a></td><td></td><td><code>DR/86 DB6 DY2 DB4 W2 DB12 R4 G2 DB2 G6 DB2 LY/6</code></td><td>176</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/"><img src="/variants/s12/dr43db3dy1db2w1db6r2g1db1g3db1ly3~x2~dy1603076-ly3307090/sett.png" alt="Langholm Millennium sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

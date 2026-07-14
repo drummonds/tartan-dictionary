@@ -13,10 +13,10 @@ Its design is pattern [GRGYGYGY](/stripes/grgygygy/) — the page of every tarta
 The **St. Christopher** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/">St. Christopher</a></td><td><code>DG/10 R6 DG6 LY4 DG2 LYi16 DG48 LY/4</code></td><td>178</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><img src="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/sett.png" alt="St. Christopher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/">St. Christopher</a></td><td></td><td><code>DG/10 R6 DG6 LY4 DG2 LYi16 DG48 LY/4</code></td><td>178</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><img src="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/sett.png" alt="St. Christopher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

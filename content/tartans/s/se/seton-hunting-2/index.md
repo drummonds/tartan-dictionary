@@ -18,10 +18,10 @@ Its design is pattern [GWGRRRRRGR](/stripes/gwgrrrrrgr/) — the page of every t
 The **Seton, hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g6w1g12o4r4o2r4o32g1o2~x2/">Seton, hunting</a></td><td><code>G/12 W2 G24 O8 R8 O4 R8 O64 G2 O/4</code></td><td>256</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g6w1g12o4r4o2r4o32g1o2~x2/"><img src="/variants/s10/g6w1g12o4r4o2r4o32g1o2~x2/sett.png" alt="Seton, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g6w1g12o4r4o2r4o32g1o2~x2/">Seton, hunting</a></td><td></td><td><code>G/12 W2 G24 O8 R8 O4 R8 O64 G2 O/4</code></td><td>256</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g6w1g12o4r4o2r4o32g1o2~x2/"><img src="/variants/s10/g6w1g12o4r4o2r4o32g1o2~x2/sett.png" alt="Seton, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BRKWKYWYWYWYWYWYWYWYWYWYKYKYKYKYWYWYWYWYWYWYWYWYWYWGG](/s
 The **All Breeds Dairy Goats** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s53/db10r10k16w4k16ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly22w24g10y10~x2/">All Breeds Dairy Goats</a></td><td><code>DB/20 R20 K32 W8 K32 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 K2 LY2 K2 LY2 K2 LY2 K2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY44 W48 G20 Y/20</code></td><td>624</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s53/db10r10k16w4k16ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly22w24g10y10~x2/"><img src="/variants/s53/db10r10k16w4k16ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly22w24g10y10~x2/sett.png" alt="All Breeds Dairy Goats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s53/db10r10k16w4k16ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly22w24g10y10~x2/">All Breeds Dairy Goats</a></td><td></td><td><code>DB/20 R20 K32 W8 K32 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 K2 LY2 K2 LY2 K2 LY2 K2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY2 W2 LY44 W48 G20 Y/20</code></td><td>624</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s53/db10r10k16w4k16ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly22w24g10y10~x2/"><img src="/variants/s53/db10r10k16w4k16ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly22w24g10y10~x2/sett.png" alt="All Breeds Dairy Goats sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

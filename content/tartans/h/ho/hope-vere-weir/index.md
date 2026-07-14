@@ -13,10 +13,10 @@ Its design is pattern [BKGKBKBKGKGKBKBG](/stripes/bkgkbkbkgkgkbkbg/) — the pag
 The **Hope Vere / Weir** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/">Hope Vere / Weir</a></td><td><code>B/38 K2 G6 K2 B6 K18 B40 K2 Y2 K14 Y2 K2 B42 K24 B4 G/2</code></td><td>372</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/"><img src="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/sett.png" alt="Hope Vere / Weir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/">Hope Vere / Weir</a></td><td></td><td><code>B/38 K2 G6 K2 B6 K18 B40 K2 Y2 K14 Y2 K2 B42 K24 B4 G/2</code></td><td>372</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/"><img src="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/sett.png" alt="Hope Vere / Weir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

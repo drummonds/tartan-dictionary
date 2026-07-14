@@ -13,10 +13,10 @@ Its design is pattern [GWKRWR](/stripes/gwkrwr/) — the page of every tartan sh
 The **Nesbit, Rose** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r6w3r37k16w16g4~x2/">Nesbit, Rose</a></td><td><code>R/12 W6 R74 K32 W32 G/8</code></td><td>308</td><td>~2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r6w3r37k16w16g4~x2/"><img src="/variants/s6/r6w3r37k16w16g4~x2/sett.png" alt="Nesbit, Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r6w3r37k16w16g4~x2/">Nesbit, Rose</a></td><td></td><td><code>R/12 W6 R74 K32 W32 G/8</code></td><td>308</td><td>~2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r6w3r37k16w16g4~x2/"><img src="/variants/s6/r6w3r37k16w16g4~x2/sett.png" alt="Nesbit, Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

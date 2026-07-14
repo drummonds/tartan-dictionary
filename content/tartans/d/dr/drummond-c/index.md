@@ -17,13 +17,13 @@ The **Drummond C** tartan is one sett, recorded at 2 scales — the same proport
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/">Drummond C</a></td><td><code>R/3 K1 R1 G6 R1 G1 R1 K2 R1 W1 R6 DB1 R1 DB1 R/3</code></td><td>54</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/"><img src="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/sett.png" alt="Drummond C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/">Drummond C</a></td><td><code>R/3 K1 R1 G6 R1 G1 R1 K2 R1 W1 R6 DB1 R1 DB1 R/3</code></td><td>54</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3~x2/">Drummond C</a></td><td><code>R/6 K2 R2 G12 R2 G2 R2 K4 R2 W2 R12 DB2 R2 DB2 R/6</code></td><td>108</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/">Drummond C</a> · <a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3~x2/">Drummond C</a></td></tr>
+<tr><td><a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/">Drummond C</a></td><td></td><td><code>R/3 K1 R1 G6 R1 G1 R1 K2 R1 W1 R6 DB1 R1 DB1 R/3</code></td><td>54</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/"><img src="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/sett.png" alt="Drummond C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/">Drummond C</a></td><td>0.00</td><td><code>R/3 K1 R1 G6 R1 G1 R1 K2 R1 W1 R6 DB1 R1 DB1 R/3</code></td><td>54</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3~x2/">Drummond C</a></td><td>0.00</td><td><code>R/6 K2 R2 G12 R2 G2 R2 K4 R2 W2 R12 DB2 R2 DB2 R/6</code></td><td>108</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/">Drummond C</a> · <a href="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3~x2/">Drummond C</a></td></tr>
 </tbody>
 </table>
 

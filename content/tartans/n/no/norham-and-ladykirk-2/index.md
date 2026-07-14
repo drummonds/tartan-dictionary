@@ -13,10 +13,10 @@ Its design is pattern [BWKWKWBBBBG](/stripes/bwkwkwbbbbg/) — the page of every
 The **Norham and Ladykirk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/">Norham and Ladykirk</a></td><td><code>DG/100 DB24 N14 DB24 DR20 W14 K4 W14 K4 W14 DR/20</code></td><td>384</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/"><img src="/variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/sett.png" alt="Norham and Ladykirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/">Norham and Ladykirk</a></td><td></td><td><code>DG/100 DB24 N14 DB24 DR20 W14 K4 W14 K4 W14 DR/20</code></td><td>384</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/"><img src="/variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/sett.png" alt="Norham and Ladykirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

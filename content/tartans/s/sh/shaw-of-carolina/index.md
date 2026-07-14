@@ -20,11 +20,11 @@ Based on a c.1800 cloth fragment and blanket worn by Mary Irvine for husband Joh
 The **Shaw of Carolina** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~db1406275/">Shaw of Carolina</a></td><td><code>G/6 K3 G18 R4 DB4 W4 G18 K3 G6 K3 DB6 K3 DB18 W4 DB4 R4 DB18 K3 DB6 K/3</code></td><td>—</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~db1406275/"><img src="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~db1406275/sett.png" alt="Shaw of Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~db1406275/">Clan Tartan</a> · <a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~r2109032-db1204274/">(Personal)</a></td></tr>
+<tr><td><a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~db1406275/">Shaw of Carolina</a></td><td></td><td><code>G/6 K3 G18 R4 DB4 W4 G18 K3 G6 K3 DB6 K3 DB18 W4 DB4 R4 DB18 K3 DB6 K/3</code></td><td>—</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~db1406275/"><img src="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~db1406275/sett.png" alt="Shaw of Carolina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~db1406275/">Clan Tartan</a> · <a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~r2109032-db1204274/">(Personal)</a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Sample labelled "MacIntosh" rather than the usual "MacKintosh" spelling.
 The **MacIntosh Old** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/">MacIntosh Old</a></td><td><code>R/10 N2 R4 G8 R6 G4 R4 N10 R10 G2 R2 G4 R2 G2 R2 G8 R2 G2 R2 G/4</code></td><td>166</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/"><img src="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/sett.png" alt="MacIntosh Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/">MacIntosh Old</a></td><td></td><td><code>R/10 N2 R4 G8 R6 G4 R4 N10 R10 G2 R2 G4 R2 G2 R2 G8 R2 G2 R2 G/4</code></td><td>166</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/"><img src="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/sett.png" alt="MacIntosh Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

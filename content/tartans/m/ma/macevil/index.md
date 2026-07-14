@@ -15,10 +15,10 @@ Designed 2010 by Rocky Roeger for Clan MacEvil, a group of friends; colours symb
 The **MacEvil** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/">MacEvil</a></td><td><code>DR/35 W8 K85 N6 K4 N14 K2 DP/4</code></td><td>277</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><img src="/variants/s8/dr35w8k85n6k4n14k2dp4/sett.png" alt="MacEvil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/">MacEvil</a></td><td></td><td><code>DR/35 W8 K85 N6 K4 N14 K2 DP/4</code></td><td>277</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dr35w8k85n6k4n14k2dp4/"><img src="/variants/s8/dr35w8k85n6k4n14k2dp4/sett.png" alt="MacEvil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

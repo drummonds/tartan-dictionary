@@ -20,10 +20,10 @@ Registered Dinwiddie clan tartan; Lord Lyon ruled in 1988 they were a sept of no
 The **Dogwood** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/">Dogwood</a></td><td><code>DG/16 DO40 DG40 LY24 DO4 LR104 DG8 DO/4</code></td><td>460</td><td>1968</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/"><img src="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/sett.png" alt="Dogwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/">Dogwood</a></td><td></td><td><code>DG/16 DO40 DG40 LY24 DO4 LR104 DG8 DO/4</code></td><td>460</td><td>1968</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/"><img src="/variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/sett.png" alt="Dogwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

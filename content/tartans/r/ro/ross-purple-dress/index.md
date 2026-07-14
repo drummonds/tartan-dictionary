@@ -18,10 +18,10 @@ Its design is pattern [BRBRBKBKWRWR](/stripes/brbrbkbkwrwr/) — the page of eve
 The **Ross Purple Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/">Ross Purple Dress</a></td><td><code>DP/8 M6 DP6 M8 DP8 K18 DP8 K18 W52 M4 W8 M/4</code></td><td>284</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/"><img src="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/sett.png" alt="Ross Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/">Ross Purple Dress</a></td><td></td><td><code>DP/8 M6 DP6 M8 DP8 K18 DP8 K18 W52 M4 W8 M/4</code></td><td>284</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/"><img src="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/sett.png" alt="Ross Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

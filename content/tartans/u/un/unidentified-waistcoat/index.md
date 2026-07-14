@@ -13,11 +13,11 @@ Its design is pattern [BBGGBBG](/stripes/bbggbbg/) — the page of every tartan 
 The **Unidentified Waistcoat** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0804274-dbi1605267/">Unidentified Waistcoat</a></td><td><code>DB/4 DBi4 DG16 G16 DB4 DBi4 Y/1</code></td><td>372</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0804274-dbi1605267/"><img src="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0804274-dbi1605267/sett.png" alt="Unidentified Waistcoat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0804274-dbi1605267/">Unidentified Waistcoat</a> · <a href="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0805267-dbi1604274/">Unidentified, Waistcoat</a></td></tr>
+<tr><td><a href="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0804274-dbi1605267/">Unidentified Waistcoat</a></td><td></td><td><code>DB/4 DBi4 DG16 G16 DB4 DBi4 Y/1</code></td><td>372</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0804274-dbi1605267/"><img src="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0804274-dbi1605267/sett.png" alt="Unidentified Waistcoat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0804274-dbi1605267/">Unidentified Waistcoat</a> · <a href="/variants/s7/db4dbi4dg16g16db4dbi4y1~x4~db0805267-dbi1604274/">Unidentified, Waistcoat</a></td></tr>
 </tbody>
 </table>
 

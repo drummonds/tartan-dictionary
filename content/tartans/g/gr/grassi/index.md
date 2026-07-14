@@ -18,10 +18,10 @@ Its design is pattern [BBRKBKBKR](/stripes/bbrkbkbkr/) — the page of every tar
 The **Grassi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/">Grassi</a></td><td><code>DP/6 N4 O4 K120 N4 K6 N24 K2 O/6</code></td><td>340</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><img src="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/sett.png" alt="Grassi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/">Grassi</a></td><td></td><td><code>DP/6 N4 O4 K120 N4 K6 N24 K2 O/6</code></td><td>340</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><img src="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/sett.png" alt="Grassi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

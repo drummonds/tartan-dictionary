@@ -18,10 +18,10 @@ Its design is pattern [GBRBWBRGBGW](/stripes/gbrbwbrgbgw/) — the page of every
 The **Cavalier** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/">Cavalier</a></td><td><code>G/80 DT20 O4 DT4 W4 DT6 R16 G12 DT4 G8 W/4</code></td><td>240</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/"><img src="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/sett.png" alt="Cavalier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/">Cavalier</a></td><td></td><td><code>G/80 DT20 O4 DT4 W4 DT6 R16 G12 DT4 G8 W/4</code></td><td>240</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/"><img src="/variants/s11/g40dt10o2dt2w2dt3r8g6dt2g4w2~x2/sett.png" alt="Cavalier sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

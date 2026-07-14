@@ -13,10 +13,10 @@ Its design is pattern [BGBWBKB](/stripes/bgbwbkb/) — the page of every tartan 
 The **Rannoch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dr10y3dr24lb3dr16k3dr8~x2/">Rannoch</a></td><td><code>DR/20 Y6 DR48 LB6 DR32 K6 DR/16</code></td><td>232</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr10y3dr24lb3dr16k3dr8~x2/"><img src="/variants/s7/dr10y3dr24lb3dr16k3dr8~x2/sett.png" alt="Rannoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr10y3dr24lb3dr16k3dr8~x2/">Rannoch</a></td><td></td><td><code>DR/20 Y6 DR48 LB6 DR32 K6 DR/16</code></td><td>232</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr10y3dr24lb3dr16k3dr8~x2/"><img src="/variants/s7/dr10y3dr24lb3dr16k3dr8~x2/sett.png" alt="Rannoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

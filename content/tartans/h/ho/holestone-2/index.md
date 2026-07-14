@@ -18,10 +18,10 @@ Its design is pattern [KYKRGRKW](/stripes/kykrgrkw/) — the page of every tarta
 The **Holestone** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/">Holestone</a></td><td><code>K/8 LY16 K52 O12 G30 O12 K52 W/4</code></td><td>360</td><td>~2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/"><img src="/variants/s8/k4ly8k26o6g15o6k26w2~x2/sett.png" alt="Holestone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/">Holestone</a></td><td></td><td><code>K/8 LY16 K52 O12 G30 O12 K52 W/4</code></td><td>360</td><td>~2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/"><img src="/variants/s8/k4ly8k26o6g15o6k26w2~x2/sett.png" alt="Holestone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

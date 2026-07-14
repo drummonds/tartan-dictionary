@@ -18,10 +18,10 @@ Its design is pattern [RGWKGBKW](/stripes/rgwkgbkw/) — the page of every tarta
 The **Iowa Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r4y3w12k16g5db20k4w2~x2/">Iowa Dress</a></td><td><code>R/8 Y6 W24 K32 G10 DB40 K8 W/4</code></td><td>252</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r4y3w12k16g5db20k4w2~x2/"><img src="/variants/s8/r4y3w12k16g5db20k4w2~x2/sett.png" alt="Iowa Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r4y3w12k16g5db20k4w2~x2/">Iowa Dress</a></td><td></td><td><code>R/8 Y6 W24 K32 G10 DB40 K8 W/4</code></td><td>252</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r4y3w12k16g5db20k4w2~x2/"><img src="/variants/s8/r4y3w12k16g5db20k4w2~x2/sett.png" alt="Iowa Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [BGBBWBW](/stripes/bgbbwbw/) — the page of every tartan 
 The **Blue Boy, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/">Blue Boy, The</a></td><td><code>DB/4 G28 DB28 DBi8 W24 DB4 W/4</code></td><td>192</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/"><img src="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/sett.png" alt="Blue Boy, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/">Blue Boy, The</a></td><td></td><td><code>DB/4 G28 DB28 DBi8 W24 DB4 W/4</code></td><td>192</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/"><img src="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/sett.png" alt="Blue Boy, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

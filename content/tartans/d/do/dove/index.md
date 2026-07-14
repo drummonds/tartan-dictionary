@@ -13,10 +13,10 @@ Its design is pattern [BKGBGKBKW](/stripes/bkgbgkbkw/) — the page of every tar
 The **Dove** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/">Dove</a></td><td><code>DB/66 K32 G34 N6 G34 K32 DB30 K6 W/6</code></td><td>420</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><img src="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/sett.png" alt="Dove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/">Dove</a></td><td></td><td><code>DB/66 K32 G34 N6 G34 K32 DB30 K6 W/6</code></td><td>420</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><img src="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/sett.png" alt="Dove sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

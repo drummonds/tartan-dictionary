@@ -18,10 +18,10 @@ Its design is pattern [GKWBRBWKGR](/stripes/gkwbrbwkgr/) — the page of every t
 The **Sinclair** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/">Sinclair</a></td><td><code>R/60 G24 K10 W4 DB12 R60 DB24 W4 K10 G/24</code></td><td>380</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/"><img src="/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/sett.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/">Sinclair</a></td><td></td><td><code>R/60 G24 K10 W4 DB12 R60 DB24 W4 K10 G/24</code></td><td>380</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/"><img src="/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/sett.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

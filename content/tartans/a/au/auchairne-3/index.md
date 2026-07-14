@@ -18,10 +18,10 @@ Its design is pattern [BBBRBR](/stripes/bbbrbr/) — the page of every tartan sh
 The **Auchairne** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r13n3r4n56b4n4~x2/">Auchairne</a></td><td><code>R/26 N6 R8 N112 B8 N/8</code></td><td>302</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r13n3r4n56b4n4~x2/"><img src="/variants/s6/r13n3r4n56b4n4~x2/sett.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r13n3r4n56b4n4~x2/">Auchairne</a></td><td></td><td><code>R/26 N6 R8 N112 B8 N/8</code></td><td>302</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r13n3r4n56b4n4~x2/"><img src="/variants/s6/r13n3r4n56b4n4~x2/sett.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

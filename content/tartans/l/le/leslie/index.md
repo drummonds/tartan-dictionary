@@ -18,10 +18,10 @@ Its design is pattern [BRKGKRKGKRBRK](/stripes/brkgkrkgkrbrk/) — the page of e
 The **Leslie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db50r2k3y2k3r2k3y2k3r2db3r12k2~x2/">Leslie</a></td><td><code>DB/100 R4 K6 Y4 K6 R4 K6 Y4 K6 R4 DB6 R24 K/4</code></td><td>252</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db50r2k3y2k3r2k3y2k3r2db3r12k2~x2/"><img src="/variants/s13/db50r2k3y2k3r2k3y2k3r2db3r12k2~x2/sett.png" alt="Leslie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db50r2k3y2k3r2k3y2k3r2db3r12k2~x2/">Leslie</a></td><td></td><td><code>DB/100 R4 K6 Y4 K6 R4 K6 Y4 K6 R4 DB6 R24 K/4</code></td><td>252</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db50r2k3y2k3r2k3y2k3r2db3r12k2~x2/"><img src="/variants/s13/db50r2k3y2k3r2k3y2k3r2db3r12k2~x2/sett.png" alt="Leslie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

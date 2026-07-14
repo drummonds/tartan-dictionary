@@ -16,10 +16,10 @@ Its design is pattern [BWBGW](/stripes/bwbgw/) — the page of every tartan shar
 The **Glen Shiel** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/dr13w3dr1dg3w1~x6/">Glen Shiel</a></td><td><code>DR/78 W18 DR6 DG18 W/6</code></td><td>168</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><img src="/variants/s5/dr13w3dr1dg3w1~x6/sett.png" alt="Glen Shiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dr13w3dr1dg3w1~x6/">Glen Shiel</a></td><td></td><td><code>DR/78 W18 DR6 DG18 W/6</code></td><td>168</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><img src="/variants/s5/dr13w3dr1dg3w1~x6/sett.png" alt="Glen Shiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

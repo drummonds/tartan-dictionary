@@ -15,10 +15,10 @@ Fraser of Lovat sett reputedly woven by Wilson's c.1820.
 The **Lovat or Fraser** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/">Lovat or Fraser</a></td><td><code>DP/2 R14 DP44 R46 DP2 R46 G44 R14 DP/2</code></td><td>424</td><td>1820</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/"><img src="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/sett.png" alt="Lovat or Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/">Lovat or Fraser</a></td><td></td><td><code>DP/2 R14 DP44 R46 DP2 R46 G44 R14 DP/2</code></td><td>424</td><td>1820</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/"><img src="/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/sett.png" alt="Lovat or Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

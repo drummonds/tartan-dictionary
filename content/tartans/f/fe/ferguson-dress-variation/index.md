@@ -16,10 +16,10 @@ Its design is pattern [KGRGKWKWKW](/stripes/kgrgkwkwkw/) — the page of every t
 The **Ferguson Dress variation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/">Ferguson Dress variation</a></td><td><code>W/16 K8 W16 K4 W6 K16 DG16 R4 DG16 K/8</code></td><td>196</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/"><img src="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/sett.png" alt="Ferguson Dress variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/">Ferguson Dress variation</a></td><td></td><td><code>W/16 K8 W16 K4 W6 K16 DG16 R4 DG16 K/8</code></td><td>196</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/"><img src="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/sett.png" alt="Ferguson Dress variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GBRRGRBGRGRBRRG](/stripes/gbrrgrbgrgrbrrg/) — the page 
 The **Glen Orchy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2~r2109032-ri2806019/">Glen Orchy</a></td><td><code>DG/10 R8 M2 DB72 R8 DG30 R16 Y2 DB30 R8 DG72 R8 Ri2 DB10 Y/2</code></td><td>548</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2~r2109032-ri2806019/"><img src="/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2~r2109032-ri2806019/sett.png" alt="Glen Orchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2~r2109032-ri2806019/">Glen Orchy</a></td><td></td><td><code>DG/10 R8 M2 DB72 R8 DG30 R16 Y2 DB30 R8 DG72 R8 Ri2 DB10 Y/2</code></td><td>548</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2~r2109032-ri2806019/"><img src="/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2~r2109032-ri2806019/sett.png" alt="Glen Orchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

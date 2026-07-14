@@ -18,10 +18,10 @@ Reproduces the upholstery pattern from 1978 Holden Monaro GTS car seats.
 The **Holden Monaro** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/">Holden Monaro</a></td><td><code>LR/20 K6 LR6 K6 LR6 K22 DY22 O/6</code></td><td>162</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><img src="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/sett.png" alt="Holden Monaro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/">Holden Monaro</a></td><td></td><td><code>LR/20 K6 LR6 K6 LR6 K22 DY22 O/6</code></td><td>162</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><img src="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/sett.png" alt="Holden Monaro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

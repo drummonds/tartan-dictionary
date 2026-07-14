@@ -16,10 +16,10 @@ Its design is pattern [KRWRWRKWK](/stripes/krwrwrkwk/) — the page of every tar
 The **Tweedside Variation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/">Tweedside Variation</a></td><td><code>K/100 W6 K6 R8 W6 R6 W10 R6 K/6</code></td><td>202</td><td>~2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/"><img src="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/sett.png" alt="Tweedside Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/">Tweedside Variation</a></td><td></td><td><code>K/100 W6 K6 R8 W6 R6 W10 R6 K/6</code></td><td>202</td><td>~2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/"><img src="/variants/s9/k50w3k3r4w3r3w5r3k3~x2/sett.png" alt="Tweedside Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

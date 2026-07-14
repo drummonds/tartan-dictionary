@@ -13,10 +13,10 @@ Its design is pattern [BWBKWKBKBK](/stripes/bwbkwkbkbk/) — the page of every t
 The **Scottish Claymores** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db9w2db24k8w5k8dbi15k3dbi15k2~x2~db1404245-dbi1406275/">Scottish Claymores</a></td><td><code>DB/18 W4 DB48 K16 W10 K16 DBi30 K6 DBi30 K/4</code></td><td>342</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db9w2db24k8w5k8dbi15k3dbi15k2~x2~db1404245-dbi1406275/"><img src="/variants/s10/db9w2db24k8w5k8dbi15k3dbi15k2~x2~db1404245-dbi1406275/sett.png" alt="Scottish Claymores sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db9w2db24k8w5k8dbi15k3dbi15k2~x2~db1404245-dbi1406275/">Scottish Claymores</a></td><td></td><td><code>DB/18 W4 DB48 K16 W10 K16 DBi30 K6 DBi30 K/4</code></td><td>342</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db9w2db24k8w5k8dbi15k3dbi15k2~x2~db1404245-dbi1406275/"><img src="/variants/s10/db9w2db24k8w5k8dbi15k3dbi15k2~x2~db1404245-dbi1406275/sett.png" alt="Scottish Claymores sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

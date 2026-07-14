@@ -13,10 +13,10 @@ Its design is pattern [RWBGBWBGRWRW](/stripes/rwbgbwbgrwrw/) — the page of eve
 The **Wilson's No 4** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/">Wilson's No 4</a></td><td><code>R/128 LB32 DP36 Y8 DP8 W8 DP36 G64 R28 LB8 R28 W/6</code></td><td>646</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/"><img src="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/sett.png" alt="Wilson's No 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/">Wilson's No 4</a></td><td></td><td><code>R/128 LB32 DP36 Y8 DP8 W8 DP36 G64 R28 LB8 R28 W/6</code></td><td>646</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/"><img src="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/sett.png" alt="Wilson's No 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

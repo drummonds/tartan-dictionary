@@ -13,10 +13,10 @@ Its design is pattern [BBWBBW](/stripes/bbwbbw/) — the page of every tartan sh
 The **Little's Chauffeur Drive** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db1n8w1db4dr8w1~x6/">Little's Chauffeur Drive</a></td><td><code>DB/6 N48 W6 DB24 DR48 W/6</code></td><td>264</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><img src="/variants/s6/db1n8w1db4dr8w1~x6/sett.png" alt="Little's Chauffeur Drive sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db1n8w1db4dr8w1~x6/">Little's Chauffeur Drive</a></td><td></td><td><code>DB/6 N48 W6 DB24 DR48 W/6</code></td><td>264</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><img src="/variants/s6/db1n8w1db4dr8w1~x6/sett.png" alt="Little's Chauffeur Drive sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

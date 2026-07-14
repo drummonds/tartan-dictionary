@@ -13,10 +13,10 @@ Its design is pattern [RWBWKWKWKWRKRW](/stripes/rwbwkwkwkwrkrw/) — the page of
 The **Duke of Rothesay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/">Duke of Rothesay</a></td><td><code>R/12 W112 DB18 W16 K32 W8 K6 W8 K6 W72 R72 K6 R24 W/6</code></td><td>778</td><td>~1950</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/"><img src="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/sett.png" alt="Duke of Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/">Duke of Rothesay</a></td><td></td><td><code>R/12 W112 DB18 W16 K32 W8 K6 W8 K6 W72 R72 K6 R24 W/6</code></td><td>778</td><td>~1950</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/"><img src="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/sett.png" alt="Duke of Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

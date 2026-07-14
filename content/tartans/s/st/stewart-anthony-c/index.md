@@ -16,10 +16,10 @@ Its design is pattern [KWBGKGR](/stripes/kwbgkgr/) — the page of every tartan 
 The **Stewart, Anthony C** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r72g16k8y4db8w3k50~x2/">Stewart, Anthony C</a></td><td><code>R/144 G32 K16 Y8 DB16 W6 K/100</code></td><td>400</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r72g16k8y4db8w3k50~x2/"><img src="/variants/s7/r72g16k8y4db8w3k50~x2/sett.png" alt="Stewart, Anthony C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r72g16k8y4db8w3k50~x2/">Stewart, Anthony C</a></td><td></td><td><code>R/144 G32 K16 Y8 DB16 W6 K/100</code></td><td>400</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r72g16k8y4db8w3k50~x2/"><img src="/variants/s7/r72g16k8y4db8w3k50~x2/sett.png" alt="Stewart, Anthony C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

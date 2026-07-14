@@ -13,10 +13,10 @@ Its design is pattern [RBKBYR](/stripes/rbkbyr/) — the page of every tartan sh
 The **University of Notre Dame** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r5db35k25db8ly10r5~x2/">University of Notre Dame</a></td><td><code>R/10 DB70 K50 DB16 LY20 R/10</code></td><td>332</td><td>~2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><img src="/variants/s6/r5db35k25db8ly10r5~x2/sett.png" alt="University of Notre Dame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r5db35k25db8ly10r5~x2/">University of Notre Dame</a></td><td></td><td><code>R/10 DB70 K50 DB16 LY20 R/10</code></td><td>332</td><td>~2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><img src="/variants/s6/r5db35k25db8ly10r5~x2/sett.png" alt="University of Notre Dame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

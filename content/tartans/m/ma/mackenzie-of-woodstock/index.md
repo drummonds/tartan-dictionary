@@ -18,10 +18,10 @@ Its design is pattern [BKRKBKGKWKGK](/stripes/bkrkbkgkwkgk/) — the page of eve
 The **Mackenzie of Woodstock** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/">Mackenzie of Woodstock</a></td><td><code>K/64 DG64 K8 W16 K8 DG64 K64 DB64 K8 R16 K8 DB/64</code></td><td>768</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/"><img src="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/sett.png" alt="Mackenzie of Woodstock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/">Mackenzie of Woodstock</a></td><td></td><td><code>K/64 DG64 K8 W16 K8 DG64 K64 DB64 K8 R16 K8 DB/64</code></td><td>768</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/"><img src="/variants/s12/k8dg8k1w2k1dg8k8db8k1r2k1db8~x8/sett.png" alt="Mackenzie of Woodstock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

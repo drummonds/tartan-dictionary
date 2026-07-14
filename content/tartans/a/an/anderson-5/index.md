@@ -18,10 +18,10 @@ Its design is pattern [KGGGKRBWWWBR](/stripes/kgggkrbwwwbr/) — the page of eve
 The **Anderson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k5g15dy8g15k5r4db8lb5w3lb5db8r4~x2/">Anderson</a></td><td><code>K/10 G30 DY16 G30 K10 R8 DB16 LB10 W6 LB10 DB16 R/8</code></td><td>322</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k5g15dy8g15k5r4db8lb5w3lb5db8r4~x2/"><img src="/variants/s12/k5g15dy8g15k5r4db8lb5w3lb5db8r4~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k5g15dy8g15k5r4db8lb5w3lb5db8r4~x2/">Anderson</a></td><td></td><td><code>K/10 G30 DY16 G30 K10 R8 DB16 LB10 W6 LB10 DB16 R/8</code></td><td>322</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k5g15dy8g15k5r4db8lb5w3lb5db8r4~x2/"><img src="/variants/s12/k5g15dy8g15k5r4db8lb5w3lb5db8r4~x2/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

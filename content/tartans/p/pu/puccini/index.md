@@ -13,10 +13,10 @@ Its design is pattern [RKWKRKRWYKWRKRWR](/stripes/rkwkrkrwykwrkrwr/) — the pag
 The **Puccini** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/">Puccini</a></td><td><code>R/12 W2 R2 K30 R2 W4 K2 LY10 W50 Ri10 K2 R10 K2 W10 K2 Ri/10</code></td><td>298</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/"><img src="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/sett.png" alt="Puccini sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/">Puccini</a></td><td></td><td><code>R/12 W2 R2 K30 R2 W4 K2 LY10 W50 Ri10 K2 R10 K2 W10 K2 Ri/10</code></td><td>298</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/"><img src="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/sett.png" alt="Puccini sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

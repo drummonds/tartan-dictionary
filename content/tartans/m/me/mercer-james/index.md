@@ -16,10 +16,10 @@ Its design is pattern [BRBWBGBWB](/stripes/brbwbgbwb/) — the page of every tar
 The **Mercer, James** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/">Mercer, James</a></td><td><code>DB/24 W3 DB4 Y6 DB4 W3 DB15 R52 DB/6</code></td><td>204</td><td>~2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><img src="/variants/s9/db24w3db4y6db4w3db15r52db6/sett.png" alt="Mercer, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/">Mercer, James</a></td><td></td><td><code>DB/24 W3 DB4 Y6 DB4 W3 DB15 R52 DB/6</code></td><td>204</td><td>~2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><img src="/variants/s9/db24w3db4y6db4w3db15r52db6/sett.png" alt="Mercer, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

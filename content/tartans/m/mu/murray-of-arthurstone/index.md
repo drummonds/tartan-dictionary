@@ -18,10 +18,10 @@ Its design is pattern [BKBKGRGKBKBKBKBKBKGRGKBKB](/stripes/bkbkgrgkbkbkbkbkbkgrg
 The **Murray of Arthurstone** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1~x8/">Murray of Arthurstone</a></td><td><code>DB/16 K8 DB48 K48 DG48 R16 DG48 K48 DB8 K8 DB8 K8 DB48 K8 DB8 K8 DB8 K48 DG48 R16 DG48 K48 DB48 K8 DB/8</code></td><td>1304</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1~x8/"><img src="/variants/s25/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1~x8/sett.png" alt="Murray of Arthurstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1~x8/">Murray of Arthurstone</a></td><td></td><td><code>DB/16 K8 DB48 K48 DG48 R16 DG48 K48 DB8 K8 DB8 K8 DB48 K8 DB8 K8 DB8 K48 DG48 R16 DG48 K48 DB48 K8 DB/8</code></td><td>1304</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1~x8/"><img src="/variants/s25/db2k1db6k6dg6r2dg6k6db1k1db1k1db6k1db1k1db1k6dg6r2dg6k6db6k1db1~x8/sett.png" alt="Murray of Arthurstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

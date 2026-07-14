@@ -18,10 +18,10 @@ Its design is pattern [BKBKWKBKBKWKBBWGBKWKBKBKWK](/stripes/bkbkwkbkbkwkbbwgbkwk
 The **Italian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/">Italian</a></td><td><code>DB/48 K4 DB48 K2 LB2 K26 DR4 K4 DR4 K26 LB2 K2 DB48 DR4 LB4 G4 DB48 K2 LB2 K26 DR4 K4 DR4 K26 LB2 K/2</code></td><td>654</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/"><img src="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/sett.png" alt="Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/">Italian</a></td><td></td><td><code>DB/48 K4 DB48 K2 LB2 K26 DR4 K4 DR4 K26 LB2 K2 DB48 DR4 LB4 G4 DB48 K2 LB2 K26 DR4 K4 DR4 K26 LB2 K/2</code></td><td>654</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/"><img src="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/sett.png" alt="Italian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

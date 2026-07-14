@@ -13,10 +13,10 @@ Its design is pattern [BBGKBKBKBG](/stripes/bbgkbkbkbg/) — the page of every t
 The **Matthew Gloag & Son Ltd** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/">Matthew Gloag &amp; Son Ltd</a></td><td><code>G/6 DR40 K4 DB6 K24 DB6 K4 G40 DR6 DB/4</code></td><td>270</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/"><img src="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/sett.png" alt="Matthew Gloag &amp; Son Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/">Matthew Gloag &amp; Son Ltd</a></td><td></td><td><code>G/6 DR40 K4 DB6 K24 DB6 K4 G40 DR6 DB/4</code></td><td>270</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/"><img src="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/sett.png" alt="Matthew Gloag &amp; Son Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

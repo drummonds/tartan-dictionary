@@ -13,10 +13,10 @@ Its design is pattern [GWKWKGKBGKGW](/stripes/gwkwkgkbgkgw/) — the page of eve
 The **MacSheehy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/">MacSheehy</a></td><td><code>DY/8 LB40 K8 W8 K8 DY8 K8 DB12 G12 K8 G8 W/8</code></td><td>256</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/"><img src="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/sett.png" alt="MacSheehy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/">MacSheehy</a></td><td></td><td><code>DY/8 LB40 K8 W8 K8 DY8 K8 DB12 G12 K8 G8 W/8</code></td><td>256</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/"><img src="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/sett.png" alt="MacSheehy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

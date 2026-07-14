@@ -18,10 +18,10 @@ Its design is pattern [GRBRBRRRBRG](/stripes/grbrbrrrbrg/) — the page of every
 The **Hughes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g4ri34db20ri4db8ri6r2ri5db2ri3g4~ri2109032-db1404245/">Hughes</a></td><td><code>G/4 Ri34 DB20 Ri4 DB8 Ri6 R2 Ri5 DB2 Ri3 G/4</code></td><td>176</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g4ri34db20ri4db8ri6r2ri5db2ri3g4~ri2109032-db1404245/"><img src="/variants/s11/g4ri34db20ri4db8ri6r2ri5db2ri3g4~ri2109032-db1404245/sett.png" alt="Hughes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g4ri34db20ri4db8ri6r2ri5db2ri3g4~ri2109032-db1404245/">Hughes</a></td><td></td><td><code>G/4 Ri34 DB20 Ri4 DB8 Ri6 R2 Ri5 DB2 Ri3 G/4</code></td><td>176</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g4ri34db20ri4db8ri6r2ri5db2ri3g4~ri2109032-db1404245/"><img src="/variants/s11/g4ri34db20ri4db8ri6r2ri5db2ri3g4~ri2109032-db1404245/sett.png" alt="Hughes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

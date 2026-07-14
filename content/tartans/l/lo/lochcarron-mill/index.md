@@ -16,10 +16,10 @@ Its design is pattern [BKRKRKBKBKBRBR](/stripes/bkrkrkbkbkbrbr/) — the page of
 The **Lochcarron Mill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/n2k6o2k1o2k1n2k4n6k4n19r2n2r2~x4/">Lochcarron Mill</a></td><td><code>N/8 K24 O8 K4 O8 K4 N8 K16 N24 K16 N76 R8 N8 R/8</code></td><td>424</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/n2k6o2k1o2k1n2k4n6k4n19r2n2r2~x4/"><img src="/variants/s14/n2k6o2k1o2k1n2k4n6k4n19r2n2r2~x4/sett.png" alt="Lochcarron Mill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/n2k6o2k1o2k1n2k4n6k4n19r2n2r2~x4/">Lochcarron Mill</a></td><td></td><td><code>N/8 K24 O8 K4 O8 K4 N8 K16 N24 K16 N76 R8 N8 R/8</code></td><td>424</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/n2k6o2k1o2k1n2k4n6k4n19r2n2r2~x4/"><img src="/variants/s14/n2k6o2k1o2k1n2k4n6k4n19r2n2r2~x4/sett.png" alt="Lochcarron Mill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

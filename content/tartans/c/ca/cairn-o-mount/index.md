@@ -16,10 +16,10 @@ Its design is pattern [BBBGBY](/stripes/bbbgby/) — the page of every tartan sh
 The **Cairn O'Mount** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/">Cairn O'Mount</a></td><td><code>DR/116 DB24 DR10 G56 DR14 LY/10</code></td><td>334</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/"><img src="/variants/s6/dr58db12dr5g28dr7ly5~x2/sett.png" alt="Cairn O'Mount sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/">Cairn O'Mount</a></td><td></td><td><code>DR/116 DB24 DR10 G56 DR14 LY/10</code></td><td>334</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/"><img src="/variants/s6/dr58db12dr5g28dr7ly5~x2/sett.png" alt="Cairn O'Mount sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

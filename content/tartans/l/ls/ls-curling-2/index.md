@@ -13,10 +13,10 @@ Its design is pattern [GBKGKGKKBGBGKKKBKG](/stripes/gbkgkgkkbgbgkkkbkg/) — the
 The **LS Curling** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000/">LS Curling</a></td><td><code>DY/4 DB8 Ki4 DG50 Ki8 DG4 Ki8 K20 DB8 DG4 DB8 DG22 Ki4 K4 Ki48 DB8 Ki4 DY/4</code></td><td>432</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000/"><img src="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000/sett.png" alt="LS Curling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000/">LS Curling</a></td><td></td><td><code>DY/4 DB8 Ki4 DG50 Ki8 DG4 Ki8 K20 DB8 DG4 DB8 DG22 Ki4 K4 Ki48 DB8 Ki4 DY/4</code></td><td>432</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000/"><img src="/variants/s18/dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2~x2~db1406275-ki0700000/sett.png" alt="LS Curling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

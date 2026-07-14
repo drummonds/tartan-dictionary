@@ -18,10 +18,10 @@ Its design is pattern [GKBGBK](/stripes/gkbgbk/) — the page of every tartan sh
 The **Lindsay Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g3k15dr8g2n8k2~x4/">Lindsay Hunting</a></td><td><code>G/12 K60 DR32 G8 N32 K/8</code></td><td>284</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><img src="/variants/s6/g3k15dr8g2n8k2~x4/sett.png" alt="Lindsay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g3k15dr8g2n8k2~x4/">Lindsay Hunting</a></td><td></td><td><code>G/12 K60 DR32 G8 N32 K/8</code></td><td>284</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><img src="/variants/s6/g3k15dr8g2n8k2~x4/sett.png" alt="Lindsay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

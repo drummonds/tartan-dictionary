@@ -13,10 +13,10 @@ Its design is pattern [RBWBGRGBGW](/stripes/rbwbgrgbgw/) — the page of every t
 The **Tennessee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/">Tennessee</a></td><td><code>R/4 DB20 W2 DR2 G2 R2 G12 DR2 G20 W/2</code></td><td>130</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/"><img src="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/sett.png" alt="Tennessee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/">Tennessee</a></td><td></td><td><code>R/4 DB20 W2 DR2 G2 R2 G12 DR2 G20 W/2</code></td><td>130</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/"><img src="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/sett.png" alt="Tennessee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

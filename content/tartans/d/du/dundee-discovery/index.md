@@ -18,10 +18,10 @@ Asymmetric corporate sett designed 1996 by Keith Lumsden for Dundee District Cou
 The **Dundee Discovery** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s30/k14g12dr2g12k14db20k2db4k2db20g12lo3g3lo1k3dr2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/">Dundee Discovery</a></td><td><code>K/28 G24 DR4 G24 K28 DB40 K4 DB8 K4 DB40 G24 LO6 G6 LO2 K6 DR4 K6 LO2 G6 LO6 G24 DB8 K4 DB8 K4 DB44 K4 DB8 K4 DB/8</code></td><td>740</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s30/k14g12dr2g12k14db20k2db4k2db20g12lo3g3lo1k3dr2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/"><img src="/variants/s30/k14g12dr2g12k14db20k2db4k2db20g12lo3g3lo1k3dr2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/sett.png" alt="Dundee Discovery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s30/k14g12dr2g12k14db20k2db4k2db20g12lo3g3lo1k3dr2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/">Dundee Discovery</a></td><td></td><td><code>K/28 G24 DR4 G24 K28 DB40 K4 DB8 K4 DB40 G24 LO6 G6 LO2 K6 DR4 K6 LO2 G6 LO6 G24 DB8 K4 DB8 K4 DB44 K4 DB8 K4 DB/8</code></td><td>740</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s30/k14g12dr2g12k14db20k2db4k2db20g12lo3g3lo1k3dr2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/"><img src="/variants/s30/k14g12dr2g12k14db20k2db4k2db20g12lo3g3lo1k3dr2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/sett.png" alt="Dundee Discovery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

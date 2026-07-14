@@ -13,10 +13,10 @@ Its design is pattern [RGRGRWRWRWRWRWRWRWRWRGRGRW](/stripes/rgrgrwrwrwrwrwrwrwrw
 The **Not Specified** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3~x2/">Not Specified</a></td><td><code>R/6 G100 R6 G2 R6 LB6 R6 LB90 R6 LB6 R100 LB6 R6 LB6 R100 LB6 R6 LB90 R6 LB6 R6 G2 R6 G100 R6 LB/6</code></td><td>1372</td><td>1979</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3~x2/"><img src="/variants/s26/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3~x2/sett.png" alt="Not Specified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3~x2/">Not Specified</a></td><td></td><td><code>R/6 G100 R6 G2 R6 LB6 R6 LB90 R6 LB6 R100 LB6 R6 LB6 R100 LB6 R6 LB90 R6 LB6 R6 G2 R6 G100 R6 LB/6</code></td><td>1372</td><td>1979</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3~x2/"><img src="/variants/s26/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3~x2/sett.png" alt="Not Specified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

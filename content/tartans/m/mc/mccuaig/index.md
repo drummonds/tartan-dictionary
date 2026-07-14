@@ -18,10 +18,10 @@ Its design is pattern [KGKBKGKRW](/stripes/kgkbkgkrw/) — the page of every tar
 The **McCuaig** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/">McCuaig</a></td><td><code>K/20 Y6 K4 T40 K20 G30 K4 R6 W/6</code></td><td>246</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/"><img src="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/sett.png" alt="McCuaig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/">McCuaig</a></td><td></td><td><code>K/20 Y6 K4 T40 K20 G30 K4 R6 W/6</code></td><td>246</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/"><img src="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/sett.png" alt="McCuaig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

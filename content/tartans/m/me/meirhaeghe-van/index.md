@@ -15,12 +15,12 @@ The **Meirhaeghe, Van** tartan groups 2 setts — the same named design recorded
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dbi28k6y2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1208266-db1004274/">Meirhaeghe, Van</a> ★</td><td><code>DBi/56 K12 Y4 R4 K12 DBi24 DB10 DBi10 DB10 DBi6 R16 W/6</code></td><td>278</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dbi28k6y2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1208266-db1004274/"><img src="/variants/s12/dbi28k6y2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1208266-db1004274/sett.png" alt="Meirhaeghe, Van sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/">Meirhaeghe, Van</a></td><td><code>DBi/28 K6 LY2 R2 K6 DBi12 DB5 DBi5 DB5 DBi3 R8 W/3</code></td><td>—</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/"><img src="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/sett.png" alt="Meirhaeghe, Van sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dbi28k6y2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1208266-db1004274/">Meirhaeghe, Van</a> ★</td><td></td><td><code>DBi/56 K12 Y4 R4 K12 DBi24 DB10 DBi10 DB10 DBi6 R16 W/6</code></td><td>278</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dbi28k6y2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1208266-db1004274/"><img src="/variants/s12/dbi28k6y2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1208266-db1004274/sett.png" alt="Meirhaeghe, Van sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/">Meirhaeghe, Van</a></td><td>—</td><td><code>DBi/28 K6 LY2 R2 K6 DBi12 DB5 DBi5 DB5 DBi3 R8 W/3</code></td><td>—</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/"><img src="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/sett.png" alt="Meirhaeghe, Van sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

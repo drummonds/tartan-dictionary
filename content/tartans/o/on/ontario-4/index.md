@@ -18,11 +18,11 @@ Its design is pattern [GRYRYRYRYRYRYRYRGGGYGYGYGYGYGYGYGGYG](/stripes/gryryryryr
 The **Ontario** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4/">Ontario</a></td><td><code>DG/50 LY16 DG8 DY8 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY20 DY40 DG12 DY24 R8 LY1 R1 LY1 R1 LY1 R1 LY1 R1 LY1 R1 LY1 R1 LY28 R6 DY/4</code></td><td>442</td><td>1966</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4/"><img src="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4/sett.png" alt="Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4/">(CIDD 28103) (Commemorative)</a> · <a href="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4~ly2705081/">Centennial</a></td></tr>
+<tr><td><a href="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4/">Ontario</a></td><td></td><td><code>DG/50 LY16 DG8 DY8 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY1 DY1 LY20 DY40 DG12 DY24 R8 LY1 R1 LY1 R1 LY1 R1 LY1 R1 LY1 R1 LY1 R1 LY28 R6 DY/4</code></td><td>442</td><td>1966</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4/"><img src="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4/sett.png" alt="Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4/">(CIDD 28103) (Commemorative)</a> · <a href="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4~ly2705081/">Centennial</a></td></tr>
 </tbody>
 </table>
 

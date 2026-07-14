@@ -13,10 +13,10 @@ Its design is pattern [BWBKBYBGBR](/stripes/bwbkbybgbr/) — the page of every t
 The **Pride of the Highlands** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/">Pride of the Highlands</a></td><td><code>DB/14 W4 DB56 K14 DB6 LY4 DB4 G4 DB26 R/4</code></td><td>254</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/"><img src="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/sett.png" alt="Pride of the Highlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/">Pride of the Highlands</a></td><td></td><td><code>DB/14 W4 DB56 K14 DB6 LY4 DB4 G4 DB26 R/4</code></td><td>254</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/"><img src="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/sett.png" alt="Pride of the Highlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

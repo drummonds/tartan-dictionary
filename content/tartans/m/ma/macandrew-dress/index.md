@@ -18,10 +18,10 @@ Its design is pattern [BRGRKR](/stripes/brgrkr/) — the page of every tartan sh
 The **MacAndrew Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r72k8r4g16r7n2~x2/">MacAndrew Dress</a></td><td><code>R/144 K16 R8 G32 R14 N/4</code></td><td>288</td><td>~2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r72k8r4g16r7n2~x2/"><img src="/variants/s6/r72k8r4g16r7n2~x2/sett.png" alt="MacAndrew Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r72k8r4g16r7n2~x2/">MacAndrew Dress</a></td><td></td><td><code>R/144 K16 R8 G32 R14 N/4</code></td><td>288</td><td>~2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r72k8r4g16r7n2~x2/"><img src="/variants/s6/r72k8r4g16r7n2~x2/sett.png" alt="MacAndrew Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

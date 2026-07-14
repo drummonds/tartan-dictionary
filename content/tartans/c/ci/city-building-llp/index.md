@@ -13,11 +13,11 @@ Its design is pattern [BKBKBKWKBK](/stripes/bkbkbkwkbk/) — the page of every t
 The **City Building LLP** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/">City Building LLP</a></td><td><code>K/6 N12 K16 LB4 K16 N6 K10 N72 K4 N/6</code></td><td>292</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/"><img src="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/sett.png" alt="City Building LLP sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/">City Building (Glasgow) LLP (Corp)</a> · <a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2~n1900000/">City Building (Glasgow) LLP</a></td></tr>
+<tr><td><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/">City Building LLP</a></td><td></td><td><code>K/6 N12 K16 LB4 K16 N6 K10 N72 K4 N/6</code></td><td>292</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/"><img src="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/sett.png" alt="City Building LLP sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/">City Building (Glasgow) LLP (Corp)</a> · <a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2~n1900000/">City Building (Glasgow) LLP</a></td></tr>
 </tbody>
 </table>
 

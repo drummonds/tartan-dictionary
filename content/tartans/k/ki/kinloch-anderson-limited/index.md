@@ -16,10 +16,10 @@ Its design is pattern [RKRKKRKGRGRR](/stripes/rkrkkrkgrgrr/) — the page of eve
 The **Kinloch Anderson Limited** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/">Kinloch Anderson Limited</a></td><td><code>R/8 O28 DG4 O8 DG4 K12 O6 K12 Ki28 R4 Ki8 R/8</code></td><td>244</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/"><img src="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/sett.png" alt="Kinloch Anderson Limited sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/">Kinloch Anderson Limited</a></td><td></td><td><code>R/8 O28 DG4 O8 DG4 K12 O6 K12 Ki28 R4 Ki8 R/8</code></td><td>244</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/"><img src="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/sett.png" alt="Kinloch Anderson Limited sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

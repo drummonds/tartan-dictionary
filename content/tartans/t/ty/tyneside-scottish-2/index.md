@@ -13,10 +13,10 @@ Its design is pattern [GGGGGGGGGGGGG](/stripes/ggggggggggggg/) — the page of e
 The **Tyneside Scottish** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/">Tyneside Scottish</a></td><td><code>DY/44 Y4 DY4 Y4 DY4 Y32 G32 Y4 G32 Y32 DY32 Y4 DY/4</code></td><td>416</td><td>1914</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/"><img src="/variants/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/sett.png" alt="Tyneside Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/">Tyneside Scottish</a></td><td></td><td><code>DY/44 Y4 DY4 Y4 DY4 Y32 G32 Y4 G32 Y32 DY32 Y4 DY/4</code></td><td>416</td><td>1914</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/"><img src="/variants/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/sett.png" alt="Tyneside Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

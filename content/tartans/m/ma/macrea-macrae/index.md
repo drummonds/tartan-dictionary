@@ -13,10 +13,10 @@ Its design is pattern [GRGRGRGRGRG](/stripes/grgrgrgrgrg/) — the page of every
 The **MacRea ? MacRae** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/">MacRea ? MacRae</a></td><td><code>G/44 R8 G44 R44 G4 R6 G4 R6 G4 R6 Y/4</code></td><td>300</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><img src="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/sett.png" alt="MacRea ? MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/">MacRea ? MacRae</a></td><td></td><td><code>G/44 R8 G44 R44 G4 R6 G4 R6 G4 R6 Y/4</code></td><td>300</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><img src="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/sett.png" alt="MacRea ? MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

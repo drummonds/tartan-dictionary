@@ -13,10 +13,10 @@ Its design is pattern [WGBYBYBYBYBYBYYYW](/stripes/wgbybybybybybyyyw/) — the p
 The **Green Thistle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/">Green Thistle</a></td><td><code>LB/6 DG30 N24 LY2 N2 LY2 N2 LY2 N2 LY2 N2 LY2 N2 LY6 LYi6 LY30 LB/6</code></td><td>244</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/"><img src="/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/sett.png" alt="Green Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/">Green Thistle</a></td><td></td><td><code>LB/6 DG30 N24 LY2 N2 LY2 N2 LY2 N2 LY2 N2 LY2 N2 LY6 LYi6 LY30 LB/6</code></td><td>244</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/"><img src="/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/sett.png" alt="Green Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

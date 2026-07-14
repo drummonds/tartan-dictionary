@@ -16,10 +16,10 @@ Its design is pattern [BBBKBRBRBBBKBR](/stripes/bbbkbrbrbbbkbr/) — the page of
 The **Black Rose** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2~x2/">Black Rose</a></td><td><code>R/40 DP6 K16 DP6 DB4 DP48 R4 DP6 R4 DP48 K30 DP2 N6 DP/4</code></td><td>404</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2~x2/"><img src="/variants/s14/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2~x2/sett.png" alt="Black Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2~x2/">Black Rose</a></td><td></td><td><code>R/40 DP6 K16 DP6 DB4 DP48 R4 DP6 R4 DP48 K30 DP2 N6 DP/4</code></td><td>404</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2~x2/"><img src="/variants/s14/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2~x2/sett.png" alt="Black Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

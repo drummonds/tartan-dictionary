@@ -18,10 +18,10 @@ Its design is pattern [RGWRWGWGRW](/stripes/rgwrwgwgrw/) — the page of every t
 The **Hose** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/">Hose</a></td><td><code>R/4 G4 W4 R46 W4 G4 W46 G4 R4 W/4</code></td><td>240</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><img src="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/sett.png" alt="Hose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/">Hose</a></td><td></td><td><code>R/4 G4 W4 R46 W4 G4 W46 G4 R4 W/4</code></td><td>240</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><img src="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/sett.png" alt="Hose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

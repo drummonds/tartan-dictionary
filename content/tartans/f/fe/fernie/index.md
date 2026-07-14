@@ -13,10 +13,10 @@ Its design is pattern [RBRRBW](/stripes/rbrrbw/) — the page of every tartan sh
 The **Fernie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/">Fernie</a></td><td><code>R/50 DT10 Ri4 R24 N2 W/2</code></td><td>132</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/"><img src="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/sett.png" alt="Fernie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/">Fernie</a></td><td></td><td><code>R/50 DT10 Ri4 R24 N2 W/2</code></td><td>132</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/"><img src="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/sett.png" alt="Fernie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RBYBYBRBRW](/stripes/rbybybrbrw/) — the page of every t
 The **MIT1951** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/">MIT1951</a></td><td><code>R/48 DR10 LR14 DT4 LR8 DT28 R22 DT6 R6 LB/8</code></td><td>252</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/"><img src="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/sett.png" alt="MIT1951 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/">MIT1951</a></td><td></td><td><code>R/48 DR10 LR14 DT4 LR8 DT28 R22 DT6 R6 LB/8</code></td><td>252</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/"><img src="/variants/s10/r24dr5lr7dt2lr4dt14r11dt3r3lb4~x2~lr3000000-dt0900000/sett.png" alt="MIT1951 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

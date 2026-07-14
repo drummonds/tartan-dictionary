@@ -20,10 +20,10 @@ Dress variant from 1890s, based on Wilson's 1847 sett; gold and azure derive fro
 The **Malcolm Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/">Malcolm Dress</a></td><td><code>K/28 G36 K8 LY8 K8 DB8 K8 G36 K28 DB28 R8 DB12 R8 DB28 K28 W8 DB8 W44 DB8 W12 DB8 W44 DB8 W8 K28 W8 DB8 W44 DB8 W12 DB8 W44 DB8 W8 K/28</code></td><td>1208</td><td>1888</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/"><img src="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/sett.png" alt="Malcolm Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/">Malcolm Dress</a></td><td></td><td><code>K/28 G36 K8 LY8 K8 DB8 K8 G36 K28 DB28 R8 DB12 R8 DB28 K28 W8 DB8 W44 DB8 W12 DB8 W44 DB8 W8 K28 W8 DB8 W44 DB8 W12 DB8 W44 DB8 W8 K/28</code></td><td>1208</td><td>1888</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/"><img src="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/sett.png" alt="Malcolm Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ District tartan from Gala Water, recorded by Wilson's of Bannockburn; 1819 'New'
 The **Gala Water New** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r5k16lb7dp16w1g21y5~x2/">Gala Water New</a></td><td><code>R/10 K32 LB14 DP32 W2 G42 Y/10</code></td><td>264</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r5k16lb7dp16w1g21y5~x2/"><img src="/variants/s7/r5k16lb7dp16w1g21y5~x2/sett.png" alt="Gala Water New sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r5k16lb7dp16w1g21y5~x2/">Gala Water New</a></td><td></td><td><code>R/10 K32 LB14 DP32 W2 G42 Y/10</code></td><td>264</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r5k16lb7dp16w1g21y5~x2/"><img src="/variants/s7/r5k16lb7dp16w1g21y5~x2/sett.png" alt="Gala Water New sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

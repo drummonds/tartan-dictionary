@@ -18,10 +18,10 @@ Its design is pattern [KWWBWKWKWBWW](/stripes/kwwbwkwkwbww/) — the page of eve
 The **Strathclyde** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2~lb3103284/">Strathclyde</a></td><td><code>LB/32 W4 DB32 W30 K4 W4 K4 W30 DB32 W4 LB32 K/4</code></td><td>388</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2~lb3103284/"><img src="/variants/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2~lb3103284/sett.png" alt="Strathclyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2~lb3103284/">Strathclyde</a></td><td></td><td><code>LB/32 W4 DB32 W30 K4 W4 K4 W30 DB32 W4 LB32 K/4</code></td><td>388</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2~lb3103284/"><img src="/variants/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2~lb3103284/sett.png" alt="Strathclyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

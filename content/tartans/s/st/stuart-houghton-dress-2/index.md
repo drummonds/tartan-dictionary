@@ -13,10 +13,10 @@ Its design is pattern [GWGBWBWBBWBWBWBW](/stripes/gwgbwbwbbwbwbwbw/) — the pag
 The **Stuart-Houghton Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/">Stuart-Houghton Dress</a></td><td><code>W/22 N8 W8 DB4 W8 N8 W22 DR52 N8 W6 N8 W4 DB28 DG20 W32 DG/12</code></td><td>466</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/"><img src="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/sett.png" alt="Stuart-Houghton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/">Stuart-Houghton Dress</a></td><td></td><td><code>W/22 N8 W8 DB4 W8 N8 W22 DR52 N8 W6 N8 W4 DB28 DG20 W32 DG/12</code></td><td>466</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/"><img src="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/sett.png" alt="Stuart-Houghton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

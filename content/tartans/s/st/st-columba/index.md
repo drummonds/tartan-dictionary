@@ -13,10 +13,10 @@ Its design is pattern [BWBGRWWB](/stripes/bwbgrwwb/) — the page of every tarta
 The **St Columba** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/">St Columba</a></td><td><code>DB/60 LB5 W4 O12 G42 DP12 LB5 DP/12</code></td><td>232</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/"><img src="/variants/s8/db60lb5w4o12g42dp12lb5dp12/sett.png" alt="St Columba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/">St Columba</a></td><td></td><td><code>DB/60 LB5 W4 O12 G42 DP12 LB5 DP/12</code></td><td>232</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/"><img src="/variants/s8/db60lb5w4o12g42dp12lb5dp12/sett.png" alt="St Columba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

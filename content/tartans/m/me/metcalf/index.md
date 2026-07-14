@@ -13,10 +13,10 @@ Its design is pattern [BBGBWBWBWKWKWBWBWGB](/stripes/bbgbwbwbwkwkwbwbwgb/) — t
 The **Metcalf** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2~x2/">Metcalf</a></td><td><code>DR/88 G36 LB10 DB4 LB4 DB6 LB18 K14 LB10 K14 LB18 DB6 LB4 DB4 LB10 DR32 G6 DR10 DB/4</code></td><td>504</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2~x2/"><img src="/variants/s19/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2~x2/sett.png" alt="Metcalf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2~x2/">Metcalf</a></td><td></td><td><code>DR/88 G36 LB10 DB4 LB4 DB6 LB18 K14 LB10 K14 LB18 DB6 LB4 DB4 LB10 DR32 G6 DR10 DB/4</code></td><td>504</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2~x2/"><img src="/variants/s19/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2~x2/sett.png" alt="Metcalf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

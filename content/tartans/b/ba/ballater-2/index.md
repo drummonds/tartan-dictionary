@@ -18,10 +18,10 @@ Its design is pattern [RWRWRKRRW](/stripes/rwrwrkrrw/) — the page of every tar
 The **Ballater** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/">Ballater</a></td><td><code>R/24 W4 O6 W4 R6 K10 R4 O36 W/4</code></td><td>168</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/"><img src="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/sett.png" alt="Ballater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/">Ballater</a></td><td></td><td><code>R/24 W4 O6 W4 R6 K10 R4 O36 W/4</code></td><td>168</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/"><img src="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/sett.png" alt="Ballater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

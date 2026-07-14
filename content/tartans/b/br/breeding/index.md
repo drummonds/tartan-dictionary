@@ -13,11 +13,11 @@ Its design is pattern [BBBKBBKWKBKBKBKBKY](/stripes/bbbkbbkwkbkbkbkbky/) — the
 The **Breeding** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/">Breeding</a></td><td><code>LR/12 K4 DR80 K32 DB12 K4 DB8 K4 N8 K4 LB4 K4 N8 DB14 K4 N12 DB2 DR/8</code></td><td>428</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/"><img src="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/sett.png" alt="Breeding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/">(Name)</a> · <a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2~db1404245/">Breeding</a></td></tr>
+<tr><td><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/">Breeding</a></td><td></td><td><code>LR/12 K4 DR80 K32 DB12 K4 DB8 K4 N8 K4 LB4 K4 N8 DB14 K4 N12 DB2 DR/8</code></td><td>428</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/"><img src="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/sett.png" alt="Breeding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/">(Name)</a> · <a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2~db1404245/">Breeding</a></td></tr>
 </tbody>
 </table>
 

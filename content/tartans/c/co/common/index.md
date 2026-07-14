@@ -15,10 +15,10 @@ Wilson's of Bannockburn variant of Black Watch, predating widespread clan naming
 The **Common** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/">Common</a></td><td><code>R/6 K4 DB50 K56 G50 K4 R2 DB/4</code></td><td>342</td><td>~1790</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/"><img src="/variants/s8/r3k2db25k28g25k2r1db2~x2/sett.png" alt="Common sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/">Common</a></td><td></td><td><code>R/6 K4 DB50 K56 G50 K4 R2 DB/4</code></td><td>342</td><td>~1790</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/"><img src="/variants/s8/r3k2db25k28g25k2r1db2~x2/sett.png" alt="Common sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

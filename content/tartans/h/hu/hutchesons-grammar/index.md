@@ -15,11 +15,11 @@ Designed by Colin Hutcheson for Hutchesons' Grammar School, Glasgow, recolouring
 The **Hutchesons' Grammar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/">Hutchesons' Grammar</a></td><td><code>LB/16 N8 DB60 DT60 R6 DT/8</code></td><td>292</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><img src="/variants/s6/lb8n4db30dt30r3dt4~x2/sett.png" alt="Hutchesons' Grammar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/lb8n4db30dt30r3dt4~x2/">(Corporate)</a> · <a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/">School</a></td></tr>
+<tr><td><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/">Hutchesons' Grammar</a></td><td></td><td><code>LB/16 N8 DB60 DT60 R6 DT/8</code></td><td>292</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><img src="/variants/s6/lb8n4db30dt30r3dt4~x2/sett.png" alt="Hutchesons' Grammar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/lb8n4db30dt30r3dt4~x2/">(Corporate)</a> · <a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/">School</a></td></tr>
 </tbody>
 </table>
 

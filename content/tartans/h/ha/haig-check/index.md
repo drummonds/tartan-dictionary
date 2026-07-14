@@ -16,10 +16,10 @@ Its design is pattern [BWKWKWKWKWKWKWB](/stripes/bwkwkwkwkwkwkwb/) — the page 
 The **Haig Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/">Haig Check</a></td><td><code>DB/12 W12 K12 W12 K12 W12 K12 W12 K12 W12 K12 W12 K12 W12 DB/12</code></td><td>336</td><td>1908</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/"><img src="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/sett.png" alt="Haig Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/">Haig Check</a></td><td></td><td><code>DB/12 W12 K12 W12 K12 W12 K12 W12 K12 W12 K12 W12 K12 W12 DB/12</code></td><td>336</td><td>1908</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/"><img src="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/sett.png" alt="Haig Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

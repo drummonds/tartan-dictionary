@@ -13,10 +13,10 @@ Its design is pattern [BGBBBG](/stripes/bgbbbg/) — the page of every tartan sh
 The **Unidentified No 29** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/">Unidentified No 29</a></td><td><code>DB/6 G22 T4 DB22 Ti12 G/6</code></td><td>132</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/"><img src="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/sett.png" alt="Unidentified No 29 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/">Unidentified No 29</a></td><td></td><td><code>DB/6 G22 T4 DB22 Ti12 G/6</code></td><td>132</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/"><img src="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/sett.png" alt="Unidentified No 29 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

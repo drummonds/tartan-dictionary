@@ -13,10 +13,10 @@ Its design is pattern [WRGGWGRRRW](/stripes/wrggwgrrrw/) — the page of every t
 The **Unidentified Silk scarf** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w3ri10dy6y8lb8g32r8ri10r6w3~x4~ri2209032-r2208029/">Unidentified Silk scarf</a></td><td><code>W/12 Ri40 DY24 Y32 LB32 G128 R32 Ri40 R24 W/12</code></td><td>728</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w3ri10dy6y8lb8g32r8ri10r6w3~x4~ri2209032-r2208029/"><img src="/variants/s10/w3ri10dy6y8lb8g32r8ri10r6w3~x4~ri2209032-r2208029/sett.png" alt="Unidentified Silk scarf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w3ri10dy6y8lb8g32r8ri10r6w3~x4~ri2209032-r2208029/">Unidentified Silk scarf</a></td><td></td><td><code>W/12 Ri40 DY24 Y32 LB32 G128 R32 Ri40 R24 W/12</code></td><td>728</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w3ri10dy6y8lb8g32r8ri10r6w3~x4~ri2209032-r2208029/"><img src="/variants/s10/w3ri10dy6y8lb8g32r8ri10r6w3~x4~ri2209032-r2208029/sett.png" alt="Unidentified Silk scarf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

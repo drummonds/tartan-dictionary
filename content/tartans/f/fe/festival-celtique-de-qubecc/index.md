@@ -13,10 +13,10 @@ Its design is pattern [GKGKBWBGWYBRYR](/stripes/gkgkbwbgwybryr/) — the page of
 The **Festival Celtique de Qubecc** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/">Festival Celtique de Qubecc</a></td><td><code>G/20 K4 G20 K4 DB20 W4 DB20 G8 W4 LY8 DB4 R12 LY4 R/12</code></td><td>256</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><img src="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/sett.png" alt="Festival Celtique de Qubecc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/">Festival Celtique de Qubecc</a></td><td></td><td><code>G/20 K4 G20 K4 DB20 W4 DB20 G8 W4 LY8 DB4 R12 LY4 R/12</code></td><td>256</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><img src="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/sett.png" alt="Festival Celtique de Qubecc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

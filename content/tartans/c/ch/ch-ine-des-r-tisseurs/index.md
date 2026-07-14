@@ -13,10 +13,10 @@ Its design is pattern [GRGRGRGRBRGRW](/stripes/grgrgrgrbrgrw/) — the page of e
 The **Châine des Rôtisseurs** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/">Châine des Rôtisseurs</a></td><td><code>DY/8 R4 DY4 R4 DY2 R38 DY6 R4 DB22 R6 DY4 R6 LB/4</code></td><td>212</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/"><img src="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/sett.png" alt="Châine des Rôtisseurs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/">Châine des Rôtisseurs</a></td><td></td><td><code>DY/8 R4 DY4 R4 DY2 R38 DY6 R4 DB22 R6 DY4 R6 LB/4</code></td><td>212</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/"><img src="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/sett.png" alt="Châine des Rôtisseurs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KWKWKWKWR](/stripes/kwkwkwkwr/) — the page of every tar
 The **MacKnight** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/">MacKnight</a></td><td><code>K/24 LB2 K4 LB12 K8 LB6 K8 LB42 R/8</code></td><td>196</td><td>1973</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/"><img src="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/sett.png" alt="MacKnight sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/">MacKnight</a></td><td></td><td><code>K/24 LB2 K4 LB12 K8 LB6 K8 LB42 R/8</code></td><td>196</td><td>1973</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/"><img src="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/sett.png" alt="MacKnight sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

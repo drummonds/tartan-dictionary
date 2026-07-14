@@ -16,10 +16,10 @@ Its design is pattern [BBBBBKBKBK](/stripes/bbbbbkbkbk/) — the page of every t
 The **Lochnagar Dark** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/">Lochnagar Dark</a></td><td><code>K/16 N2 K80 N2 K32 N32 DT12 N6 DR6 N/12</code></td><td>372</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/"><img src="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/sett.png" alt="Lochnagar Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/">Lochnagar Dark</a></td><td></td><td><code>K/16 N2 K80 N2 K32 N32 DT12 N6 DR6 N/12</code></td><td>372</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/"><img src="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/sett.png" alt="Lochnagar Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

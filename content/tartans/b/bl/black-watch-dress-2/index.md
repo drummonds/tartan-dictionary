@@ -16,10 +16,10 @@ Its design is pattern [BKBKGKGKWBWBW](/stripes/bkbkgkgkwbwbw/) — the page of e
 The **Black Watch Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/">Black Watch Dress</a></td><td><code>B/4 K4 B12 K12 DG16 K4 DG16 K12 W4 B4 W24 B4 W/4</code></td><td>232</td><td>1882</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/"><img src="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/sett.png" alt="Black Watch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/">Black Watch Dress</a></td><td></td><td><code>B/4 K4 B12 K12 DG16 K4 DG16 K12 W4 B4 W24 B4 W/4</code></td><td>232</td><td>1882</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/"><img src="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/sett.png" alt="Black Watch Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

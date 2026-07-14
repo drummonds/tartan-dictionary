@@ -20,10 +20,10 @@ Gwynn family tartan designed 2003 by Paul Gwynn of Texas, based on the Welsh nat
 The **Gwynn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k45dy4k4dy9k4dy4k45r4~x2/">Gwynn</a></td><td><code>K/90 DY8 K8 DY18 K8 DY8 K90 R/8</code></td><td>378</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k45dy4k4dy9k4dy4k45r4~x2/"><img src="/variants/s8/k45dy4k4dy9k4dy4k45r4~x2/sett.png" alt="Gwynn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k45dy4k4dy9k4dy4k45r4~x2/">Gwynn</a></td><td></td><td><code>K/90 DY8 K8 DY18 K8 DY8 K90 R/8</code></td><td>378</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k45dy4k4dy9k4dy4k45r4~x2/"><img src="/variants/s8/k45dy4k4dy9k4dy4k45r4~x2/sett.png" alt="Gwynn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

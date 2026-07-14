@@ -13,10 +13,10 @@ Its design is pattern [BGRGBGR](/stripes/bgrgbgr/) — the page of every tartan 
 The **Scottish Piping Soc. of London (Corp** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r30g3db5g21r3g21db2~x2/">Scottish Piping Soc. of London (Corp</a></td><td><code>R/60 G6 DB10 G42 R6 G42 DB/4</code></td><td>276</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><img src="/variants/s7/r30g3db5g21r3g21db2~x2/sett.png" alt="Scottish Piping Soc. of London (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r30g3db5g21r3g21db2~x2/">Scottish Piping Soc. of London (Corp</a></td><td></td><td><code>R/60 G6 DB10 G42 R6 G42 DB/4</code></td><td>276</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><img src="/variants/s7/r30g3db5g21r3g21db2~x2/sett.png" alt="Scottish Piping Soc. of London (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

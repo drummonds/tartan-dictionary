@@ -18,10 +18,10 @@ Its design is pattern [BRWRGRBRWRBWK](/stripes/brwrgrbrwrbwk/) — the page of e
 The **MacGillivray** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k6lb1dp1r57lb2r2dp23r4g30r6lb1r6dp2~x2/">MacGillivray</a></td><td><code>K/12 LB2 DP2 R114 LB4 R4 DP46 R8 G60 R12 LB2 R12 DP/4</code></td><td>548</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k6lb1dp1r57lb2r2dp23r4g30r6lb1r6dp2~x2/"><img src="/variants/s13/k6lb1dp1r57lb2r2dp23r4g30r6lb1r6dp2~x2/sett.png" alt="MacGillivray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k6lb1dp1r57lb2r2dp23r4g30r6lb1r6dp2~x2/">MacGillivray</a></td><td></td><td><code>K/12 LB2 DP2 R114 LB4 R4 DP46 R8 G60 R12 LB2 R12 DP/4</code></td><td>548</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k6lb1dp1r57lb2r2dp23r4g30r6lb1r6dp2~x2/"><img src="/variants/s13/k6lb1dp1r57lb2r2dp23r4g30r6lb1r6dp2~x2/sett.png" alt="MacGillivray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

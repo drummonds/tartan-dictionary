@@ -13,10 +13,10 @@ Its design is pattern [GWGWGWGW](/stripes/gwgwgwgw/) — the page of every tarta
 The **O'Neill Pipe Band 1970** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/">O'Neill Pipe Band 1970</a></td><td><code>G/4 LB16 DY48 LB12 DY24 LB48 G4 LB/4</code></td><td>312</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><img src="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/sett.png" alt="O'Neill Pipe Band 1970 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/">O'Neill Pipe Band 1970</a></td><td></td><td><code>G/4 LB16 DY48 LB12 DY24 LB48 G4 LB/4</code></td><td>312</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><img src="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/sett.png" alt="O'Neill Pipe Band 1970 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

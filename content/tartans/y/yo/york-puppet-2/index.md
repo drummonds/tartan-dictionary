@@ -13,10 +13,10 @@ Its design is pattern [BKBRBRBWKGKRWRBRW](/stripes/bkbrbrbwkgkrwrbrw/) — the p
 The **York Puppet** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/dp11k1b4r1b1r1b3w2k2y2k3o2w3o3db3o2w2~x2/">York Puppet</a></td><td><code>DP/22 K2 B8 R2 B2 R2 B6 W4 K4 Y4 K6 O4 W6 O6 DB6 O4 W/4</code></td><td>158</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/dp11k1b4r1b1r1b3w2k2y2k3o2w3o3db3o2w2~x2/"><img src="/variants/s17/dp11k1b4r1b1r1b3w2k2y2k3o2w3o3db3o2w2~x2/sett.png" alt="York Puppet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/dp11k1b4r1b1r1b3w2k2y2k3o2w3o3db3o2w2~x2/">York Puppet</a></td><td></td><td><code>DP/22 K2 B8 R2 B2 R2 B6 W4 K4 Y4 K6 O4 W6 O6 DB6 O4 W/4</code></td><td>158</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/dp11k1b4r1b1r1b3w2k2y2k3o2w3o3db3o2w2~x2/"><img src="/variants/s17/dp11k1b4r1b1r1b3w2k2y2k3o2w3o3db3o2w2~x2/sett.png" alt="York Puppet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

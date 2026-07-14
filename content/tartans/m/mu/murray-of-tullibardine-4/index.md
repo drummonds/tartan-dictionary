@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRBRBRBRBRGRGRBRB](/stripes/brbrbrbrbrbrbrgrgrbrb/) �
 The **Murray of Tullibardine** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2g2r8g12r4db2r2db1/">Murray of Tullibardine</a></td><td><code>DB/2 R1 DB1 R2 DB4 R2 DB1 R1 DB2 R1 DB1 R24 DB12 R2 G2 R8 G12 R4 DB2 R2 DB/1</code></td><td>171</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2g2r8g12r4db2r2db1/"><img src="/variants/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2g2r8g12r4db2r2db1/sett.png" alt="Murray of Tullibardine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2g2r8g12r4db2r2db1/">Murray of Tullibardine</a></td><td></td><td><code>DB/2 R1 DB1 R2 DB4 R2 DB1 R1 DB2 R1 DB1 R24 DB12 R2 G2 R8 G12 R4 DB2 R2 DB/1</code></td><td>171</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2g2r8g12r4db2r2db1/"><img src="/variants/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2g2r8g12r4db2r2db1/sett.png" alt="Murray of Tullibardine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

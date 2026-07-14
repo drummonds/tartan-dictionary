@@ -18,10 +18,10 @@ Its design is pattern [BBBRBBGBRBG](/stripes/bbbrbbgbrbg/) — the page of every
 The **Mariverain** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db3b8db5r1db5b2y1b2r5db4y1~x2/">Mariverain</a></td><td><code>DB/6 B16 DB10 R2 DB10 B4 Y2 B4 R10 DB8 Y/2</code></td><td>140</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db3b8db5r1db5b2y1b2r5db4y1~x2/"><img src="/variants/s11/db3b8db5r1db5b2y1b2r5db4y1~x2/sett.png" alt="Mariverain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db3b8db5r1db5b2y1b2r5db4y1~x2/">Mariverain</a></td><td></td><td><code>DB/6 B16 DB10 R2 DB10 B4 Y2 B4 R10 DB8 Y/2</code></td><td>140</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db3b8db5r1db5b2y1b2r5db4y1~x2/"><img src="/variants/s11/db3b8db5r1db5b2y1b2r5db4y1~x2/sett.png" alt="Mariverain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BKBGKBKGKBKG](/stripes/bkbgkbkgkbkg/) — the page of eve
 The **Tomatin Distillery** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/">Tomatin Distillery</a></td><td><code>DO/18 K16 N30 DY100 K6 DR4 K4 DG2 K4 DO2 K2 DY/18</code></td><td>376</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/"><img src="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/sett.png" alt="Tomatin Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/">Tomatin Distillery</a></td><td></td><td><code>DO/18 K16 N30 DY100 K6 DR4 K4 DG2 K4 DO2 K2 DY/18</code></td><td>376</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/"><img src="/variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/sett.png" alt="Tomatin Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

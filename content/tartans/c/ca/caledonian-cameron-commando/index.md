@@ -16,10 +16,10 @@ Its design is pattern [RWKWKWKYGRKRWR](/stripes/rwkwkwkygrkrwr/) — the page of
 The **Caledonian Cameron Commando** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/">Caledonian Cameron Commando</a></td><td><code>R/42 LT18 K4 LT4 K4 LT18 K36 LY6 G42 R26 K6 R26 W4 R/26</code></td><td>456</td><td>1818</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/"><img src="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/sett.png" alt="Caledonian Cameron Commando sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/">Caledonian Cameron Commando</a></td><td></td><td><code>R/42 LT18 K4 LT4 K4 LT18 K36 LY6 G42 R26 K6 R26 W4 R/26</code></td><td>456</td><td>1818</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/"><img src="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/sett.png" alt="Caledonian Cameron Commando sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

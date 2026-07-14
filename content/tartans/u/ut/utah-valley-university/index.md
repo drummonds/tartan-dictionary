@@ -13,10 +13,10 @@ Its design is pattern [KGWGKGWK](/stripes/kgwgkgwk/) — the page of every tarta
 The **Utah Valley University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/">Utah Valley University</a></td><td><code>K/6 W14 G6 K32 G34 W2 G16 K/2</code></td><td>216</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/"><img src="/variants/s8/k3w7g3k16g17w1g8k1~x2/sett.png" alt="Utah Valley University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/">Utah Valley University</a></td><td></td><td><code>K/6 W14 G6 K32 G34 W2 G16 K/2</code></td><td>216</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/"><img src="/variants/s8/k3w7g3k16g17w1g8k1~x2/sett.png" alt="Utah Valley University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

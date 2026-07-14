@@ -21,13 +21,13 @@ The **Sutherland** tartan is one sett, recorded at 2 scales — the same proport
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/">Sutherland</a></td><td><code>G/6 W2 G24 K12 DB3 K2 DB2 K2 DB12 R1 DB1 R/3</code></td><td>131</td><td>1829</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/"><img src="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/sett.png" alt="Sutherland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3/">Sutherland</a></td><td><code>G/6 W2 G24 K12 DB3 K2 DB2 K2 DB12 R1 DB1 R/3</code></td><td>131</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/">(Clan)</a></td><td><code>G/12 W4 G48 K24 DB6 K4 DB4 K4 DB24 R2 DB2 R/6</code></td><td>262</td><td>1829</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3/">Sutherland</a> · <a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/">(Clan)</a> · <a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/">Sutherland</a></td></tr>
+<tr><td><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/">Sutherland</a></td><td></td><td><code>G/6 W2 G24 K12 DB3 K2 DB2 K2 DB12 R1 DB1 R/3</code></td><td>131</td><td>1829</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/"><img src="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/sett.png" alt="Sutherland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3/">Sutherland</a></td><td>0.03</td><td><code>G/6 W2 G24 K12 DB3 K2 DB2 K2 DB12 R1 DB1 R/3</code></td><td>131</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/">(Clan)</a></td><td>0.03</td><td><code>G/12 W4 G48 K24 DB6 K4 DB4 K4 DB24 R2 DB2 R/6</code></td><td>262</td><td>1829</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3/">Sutherland</a> · <a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/">(Clan)</a> · <a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/">Sutherland</a></td></tr>
 </tbody>
 </table>
 

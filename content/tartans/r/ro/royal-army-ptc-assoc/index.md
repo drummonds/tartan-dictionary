@@ -13,10 +13,10 @@ Its design is pattern [GKRKRKRK](/stripes/gkrkrkrk/) — the page of every tarta
 The **Royal Army PTC Assoc.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/">Royal Army PTC Assoc.</a></td><td><code>K/118 R6 K12 R6 K16 R30 K4 DY/6</code></td><td>272</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><img src="/variants/s8/k59r3k6r3k8r15k2dy3~x2/sett.png" alt="Royal Army PTC Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/">Royal Army PTC Assoc.</a></td><td></td><td><code>K/118 R6 K12 R6 K16 R30 K4 DY/6</code></td><td>272</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><img src="/variants/s8/k59r3k6r3k8r15k2dy3~x2/sett.png" alt="Royal Army PTC Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

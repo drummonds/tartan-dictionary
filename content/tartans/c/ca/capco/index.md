@@ -13,10 +13,10 @@ Its design is pattern [KWKWBKBW](/stripes/kwkwbkbw/) — the page of every tarta
 The **Capco** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/">Capco</a></td><td><code>K/124 W4 K8 W8 DT12 K8 N16 W/8</code></td><td>244</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><img src="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/sett.png" alt="Capco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/">Capco</a></td><td></td><td><code>K/124 W4 K8 W8 DT12 K8 N16 W/8</code></td><td>244</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><img src="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/sett.png" alt="Capco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

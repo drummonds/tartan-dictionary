@@ -13,10 +13,10 @@ Its design is pattern [BRBRBRWKWKGBGRWR](/stripes/brbrbrwkwkgbgrwr/) — the pag
 The **Royal Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/">Royal Stewart</a></td><td><code>DB/81 R4 DB8 R8 DB4 R12 W16 K8 W32 K16 Y6 DB8 G16 R8 W4 R/24</code></td><td>405</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/"><img src="/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/sett.png" alt="Royal Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/">Royal Stewart</a></td><td></td><td><code>DB/81 R4 DB8 R8 DB4 R12 W16 K8 W32 K16 Y6 DB8 G16 R8 W4 R/24</code></td><td>405</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/"><img src="/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/sett.png" alt="Royal Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

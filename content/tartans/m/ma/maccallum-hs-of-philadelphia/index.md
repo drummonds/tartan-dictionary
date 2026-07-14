@@ -13,10 +13,10 @@ Its design is pattern [BBBBB](/stripes/bbbbb/) — the page of every tartan shar
 The **MacCallum HS of Philadelphia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/n9b3n1b11n1~x6/">MacCallum HS of Philadelphia</a></td><td><code>N/54 B18 N6 B66 N/6</code></td><td>240</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/n9b3n1b11n1~x6/"><img src="/variants/s5/n9b3n1b11n1~x6/sett.png" alt="MacCallum HS of Philadelphia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/n9b3n1b11n1~x6/">MacCallum HS of Philadelphia</a></td><td></td><td><code>N/54 B18 N6 B66 N/6</code></td><td>240</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/n9b3n1b11n1~x6/"><img src="/variants/s5/n9b3n1b11n1~x6/sett.png" alt="MacCallum HS of Philadelphia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

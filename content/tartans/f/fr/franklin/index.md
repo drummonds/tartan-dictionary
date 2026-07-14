@@ -18,10 +18,10 @@ Its design is pattern [BGKGKGRKRBKBKBRKRGKGKGBK](/stripes/bgkgkgrkrbkbkbrkrgkgkg
 The **Franklin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2~x4/">Franklin</a></td><td><code>T/12 Y20 K4 Y8 K4 Y20 R12 K8 R12 T24 K4 T4 K4 T24 R12 K8 R12 Y20 K4 Y8 K4 Y20 T12 K/8</code></td><td>516</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2~x4/"><img src="/variants/s24/t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2~x4/sett.png" alt="Franklin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2~x4/">Franklin</a></td><td></td><td><code>T/12 Y20 K4 Y8 K4 Y20 R12 K8 R12 T24 K4 T4 K4 T24 R12 K8 R12 Y20 K4 Y8 K4 Y20 T12 K/8</code></td><td>516</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2~x4/"><img src="/variants/s24/t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2~x4/sett.png" alt="Franklin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

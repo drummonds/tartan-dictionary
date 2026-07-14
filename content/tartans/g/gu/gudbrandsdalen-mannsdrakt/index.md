@@ -18,10 +18,10 @@ Norwegian district tartan from a jacket at Bjørnsgaard Farm, Dovre; part of Eri
 The **Gudbrandsdalen Mannsdrakt** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/">Gudbrandsdalen Mannsdrakt</a></td><td><code>DG/88 R4 K10 DG8 R4 K2 DG4 R20 DG4 K2 R4 DG8 K10 R4 W2 R/88</code></td><td>348</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/"><img src="/variants/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/sett.png" alt="Gudbrandsdalen Mannsdrakt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/">Gudbrandsdalen Mannsdrakt</a></td><td></td><td><code>DG/88 R4 K10 DG8 R4 K2 DG4 R20 DG4 K2 R4 DG8 K10 R4 W2 R/88</code></td><td>348</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/"><img src="/variants/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/sett.png" alt="Gudbrandsdalen Mannsdrakt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

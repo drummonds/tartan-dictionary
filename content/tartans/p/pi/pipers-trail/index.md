@@ -13,10 +13,10 @@ Its design is pattern [WBKBBY](/stripes/wbkbby/) — the page of every tartan sh
 The **Pipers' Trail** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/ly4t8dp4k53db54w2/">Pipers' Trail</a></td><td><code>LY/4 T8 DP4 K53 DB54 W/2</code></td><td>244</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly4t8dp4k53db54w2/"><img src="/variants/s6/ly4t8dp4k53db54w2/sett.png" alt="Pipers' Trail sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly4t8dp4k53db54w2/">Pipers' Trail</a></td><td></td><td><code>LY/4 T8 DP4 K53 DB54 W/2</code></td><td>244</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ly4t8dp4k53db54w2/"><img src="/variants/s6/ly4t8dp4k53db54w2/sett.png" alt="Pipers' Trail sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

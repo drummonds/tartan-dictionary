@@ -18,10 +18,10 @@ Its design is pattern [WGWGWRWGWGWRWRW](/stripes/wgwgwrwgwgwrwrw/) — the page 
 The **Fraser of Castle Leathers, Major James** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/">Fraser of Castle Leathers, Major James</a></td><td><code>LB/4 R38 LB4 R10 LB4 G26 LB4 G24 LB4 R10 LB4 G28 LB4 G24 LB/4</code></td><td>376</td><td>1730</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><img src="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/sett.png" alt="Fraser of Castle Leathers, Major James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/">Fraser of Castle Leathers, Major James</a></td><td></td><td><code>LB/4 R38 LB4 R10 LB4 G26 LB4 G24 LB4 R10 LB4 G28 LB4 G24 LB/4</code></td><td>376</td><td>1730</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><img src="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/sett.png" alt="Fraser of Castle Leathers, Major James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

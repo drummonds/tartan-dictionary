@@ -20,10 +20,10 @@ Designed 1987 by A.G. Murray as a personal tartan, now available to all of the n
 The **Strachan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/k3db42k3y2k3g22k3r2k3g22k3y2k3db42k3r2~x2~db1406275/">Strachan</a></td><td><code>K/6 DB84 K6 Y4 K6 G44 K6 R4 K6 G44 K6 Y4 K6 DB84 K6 R/4</code></td><td>630</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/k3db42k3y2k3g22k3r2k3g22k3y2k3db42k3r2~x2~db1406275/"><img src="/variants/s16/k3db42k3y2k3g22k3r2k3g22k3y2k3db42k3r2~x2~db1406275/sett.png" alt="Strachan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/k3db42k3y2k3g22k3r2k3g22k3y2k3db42k3r2~x2~db1406275/">Strachan</a></td><td></td><td><code>K/6 DB84 K6 Y4 K6 G44 K6 R4 K6 G44 K6 Y4 K6 DB84 K6 R/4</code></td><td>630</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/k3db42k3y2k3g22k3r2k3g22k3y2k3db42k3r2~x2~db1406275/"><img src="/variants/s16/k3db42k3y2k3g22k3r2k3g22k3y2k3db42k3r2~x2~db1406275/sett.png" alt="Strachan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

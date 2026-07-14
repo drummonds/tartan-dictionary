@@ -13,10 +13,10 @@ Its design is pattern [KGKGBGBGBGBGW](/stripes/kgkgbgbgbgbgw/) — the page of e
 The **Mayhew** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/">Mayhew</a></td><td><code>K/12 G6 K6 G56 T8 G8 T20 G8 T8 G8 T48 G10 W/6</code></td><td>390</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/"><img src="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/sett.png" alt="Mayhew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/">Mayhew</a></td><td></td><td><code>K/12 G6 K6 G56 T8 G8 T20 G8 T8 G8 T48 G10 W/6</code></td><td>390</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/"><img src="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/sett.png" alt="Mayhew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

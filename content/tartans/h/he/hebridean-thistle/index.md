@@ -16,10 +16,10 @@ Its design is pattern [RBRBRBBBW](/stripes/rbrbrbbbw/) — the page of every tar
 The **Hebridean Thistle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/">Hebridean Thistle</a></td><td><code>O/8 DP4 O14 N60 O16 N14 DPi10 DP2 W/4</code></td><td>252</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/"><img src="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/sett.png" alt="Hebridean Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/">Hebridean Thistle</a></td><td></td><td><code>O/8 DP4 O14 N60 O16 N14 DPi10 DP2 W/4</code></td><td>252</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/"><img src="/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2~o2500000-dp1105325-n1900000-dpi1607327/sett.png" alt="Hebridean Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

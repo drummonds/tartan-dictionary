@@ -13,10 +13,10 @@ Its design is pattern [WBGBBBKBKGBGBBKBKBGW](/stripes/wbgbbbkbkgbgbbkbkbgw/) —
 The **McDill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1~x2/">McDill</a></td><td><code>W/2 DR4 Y4 DR40 DB2 DR2 K12 DR12 K12 Y4 DR2 Y4 DB12 DR6 K2 DR6 K40 DR2 Y4 W/2</code></td><td>344</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1~x2/"><img src="/variants/s20/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1~x2/sett.png" alt="McDill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1~x2/">McDill</a></td><td></td><td><code>W/2 DR4 Y4 DR40 DB2 DR2 K12 DR12 K12 Y4 DR2 Y4 DB12 DR6 K2 DR6 K40 DR2 Y4 W/2</code></td><td>344</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1~x2/"><img src="/variants/s20/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1~x2/sett.png" alt="McDill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

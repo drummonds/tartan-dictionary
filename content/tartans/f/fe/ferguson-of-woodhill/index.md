@@ -18,10 +18,10 @@ Its design is pattern [GBRKGKGKRBG](/stripes/gbrkgkgkrbg/) — the page of every
 The **Ferguson of Woodhill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/">Ferguson of Woodhill</a></td><td><code>DG/8 DB48 R4 K48 DG48 K8 DG48 K48 R4 DB48 DG/4</code></td><td>620</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/"><img src="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/sett.png" alt="Ferguson of Woodhill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/">Ferguson of Woodhill</a></td><td></td><td><code>DG/8 DB48 R4 K48 DG48 K8 DG48 K48 R4 DB48 DG/4</code></td><td>620</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/"><img src="/variants/s11/dg2db12r1k12dg12k2dg12k12r1db12dg1~x4/sett.png" alt="Ferguson of Woodhill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

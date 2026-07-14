@@ -15,10 +15,10 @@ Combines colours of six Queen's University academic hoods; marketed by Alumni As
 The **Queens University of Ontario** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/">Queens University of Ontario</a></td><td><code>DB/54 Y9 DB16 Y2 DP3 W3 DP3 R27 DB13 Y3 G5 W/2</code></td><td>224</td><td>1966</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/"><img src="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/sett.png" alt="Queens University of Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/">Queens University of Ontario</a></td><td></td><td><code>DB/54 Y9 DB16 Y2 DP3 W3 DP3 R27 DB13 Y3 G5 W/2</code></td><td>224</td><td>1966</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/"><img src="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/sett.png" alt="Queens University of Ontario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

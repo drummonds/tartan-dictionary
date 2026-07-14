@@ -18,10 +18,10 @@ Its design is pattern [BRKRGRGRKRBR](/stripes/brkrgrgrkrbr/) — the page of eve
 The **MacQuarrie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/">MacQuarrie</a></td><td><code>R/4 DB2 R20 K8 R4 G16 R4 G16 R14 K2 R4 DB/2</code></td><td>186</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><img src="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/sett.png" alt="MacQuarrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/">MacQuarrie</a></td><td></td><td><code>R/4 DB2 R20 K8 R4 G16 R4 G16 R14 K2 R4 DB/2</code></td><td>186</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><img src="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/sett.png" alt="MacQuarrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

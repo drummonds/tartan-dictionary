@@ -13,10 +13,10 @@ Its design is pattern [GBGGYRYG](/stripes/gbggyryg/) — the page of every tarta
 The **Jolley** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g2408144-dg1806142/">Jolley</a></td><td><code>G/8 N4 DG48 DY20 LY24 R2 LY24 DG/4</code></td><td>256</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g2408144-dg1806142/"><img src="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g2408144-dg1806142/sett.png" alt="Jolley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g2408144-dg1806142/">Jolley</a></td><td></td><td><code>G/8 N4 DG48 DY20 LY24 R2 LY24 DG/4</code></td><td>256</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g2408144-dg1806142/"><img src="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g2408144-dg1806142/sett.png" alt="Jolley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

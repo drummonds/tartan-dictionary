@@ -15,10 +15,10 @@ Official Canadian General File thread count for the Lions; archive specimen diff
 The **Lions** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/">Lions</a></td><td><code>DP/50 LB2 W2 K2 Y2 DP6 W2 Y10 DP8 K2 LB4 DP4 W2 LB2 W2 DP4 LB4 DP4 K4 W/10</code></td><td>192</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/"><img src="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/sett.png" alt="Lions sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/">Lions</a></td><td></td><td><code>DP/50 LB2 W2 K2 Y2 DP6 W2 Y10 DP8 K2 LB4 DP4 W2 LB2 W2 DP4 LB4 DP4 K4 W/10</code></td><td>192</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/"><img src="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/sett.png" alt="Lions sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

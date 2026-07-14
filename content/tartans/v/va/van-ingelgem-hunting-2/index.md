@@ -13,10 +13,10 @@ Its design is pattern [BGYGYBYGYGYGGGGGGK](/stripes/bgygybygygyggggggk/) — the
 The **Van Ingelgem Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/">Van Ingelgem Hunting</a></td><td><code>K/6 DG36 DY6 DG6 DY6 DG6 DY36 LY6 DY6 LY6 DY6 LY24 DB4 LY24 DY18 LY24 DG4 DB/4</code></td><td>446</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/"><img src="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/sett.png" alt="Van Ingelgem Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/">Van Ingelgem Hunting</a></td><td></td><td><code>K/6 DG36 DY6 DG6 DY6 DG6 DY36 LY6 DY6 LY6 DY6 LY24 DB4 LY24 DY18 LY24 DG4 DB/4</code></td><td>446</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/"><img src="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/sett.png" alt="Van Ingelgem Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

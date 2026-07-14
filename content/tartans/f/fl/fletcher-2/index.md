@@ -20,10 +20,10 @@ Worn by all Scottish Fletchers; legend ties the clan to first settling Glen Orch
 The **Fletcher** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/">Fletcher</a></td><td><code>DB/22 K6 DB6 K6 DB6 K22 R6 G26 K6 G26 R6 K22 DB22 K6 DB/6</code></td><td>360</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/"><img src="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/sett.png" alt="Fletcher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/">Fletcher</a></td><td></td><td><code>DB/22 K6 DB6 K6 DB6 K22 R6 G26 K6 G26 R6 K22 DB22 K6 DB/6</code></td><td>360</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/"><img src="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/sett.png" alt="Fletcher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

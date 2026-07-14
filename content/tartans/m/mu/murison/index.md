@@ -13,10 +13,10 @@ Its design is pattern [RBWWWGBKBKBW](/stripes/rbwwwgbkbkbw/) — the page of eve
 The **Murison** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/">Murison</a></td><td><code>R/8 DB22 LB8 W6 LB8 Y12 DB6 K6 DB8 K2 DB60 W/6</code></td><td>290</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/"><img src="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/sett.png" alt="Murison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/">Murison</a></td><td></td><td><code>R/8 DB22 LB8 W6 LB8 Y12 DB6 K6 DB8 K2 DB60 W/6</code></td><td>290</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/"><img src="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/sett.png" alt="Murison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

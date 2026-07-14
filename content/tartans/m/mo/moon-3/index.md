@@ -18,10 +18,10 @@ Its design is pattern [KRGKGKWKWKGKGRKRKW](/stripes/krgkgkwkwkgkgrkrkw/) — the
 The **Moon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3~x2~ki0604259/">Moon</a></td><td><code>W/8 K2 R10 Ki6 R16 DG16 K2 Y6 K2 LB8 Ki54 LB8 K2 Y6 K2 DG16 R16 Ki/6</code></td><td>358</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3~x2~ki0604259/"><img src="/variants/s18/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3~x2~ki0604259/sett.png" alt="Moon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3~x2~ki0604259/">Moon</a></td><td></td><td><code>W/8 K2 R10 Ki6 R16 DG16 K2 Y6 K2 LB8 Ki54 LB8 K2 Y6 K2 DG16 R16 Ki/6</code></td><td>358</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3~x2~ki0604259/"><img src="/variants/s18/w4k1r5ki3r8dg8k1y3k1lb4ki27lb4k1y3k1dg8r8ki3~x2~ki0604259/sett.png" alt="Moon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Designed in 1992 for the District of Banff and Buchan, based on the Ogilvy sett,
 The **Banff and Buchan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/">Banff and Buchan</a></td><td><code>K/34 LB4 K6 DB32 T56 DB4 T6 LO/4</code></td><td>254</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/"><img src="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/sett.png" alt="Banff and Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/">Banff and Buchan</a></td><td></td><td><code>K/34 LB4 K6 DB32 T56 DB4 T6 LO/4</code></td><td>254</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/"><img src="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/sett.png" alt="Banff and Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

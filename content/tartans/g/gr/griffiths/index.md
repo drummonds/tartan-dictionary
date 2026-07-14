@@ -18,10 +18,10 @@ Welsh surname tartan woven at Cambrian Woollen Mill, with differing warp and wef
 The **Griffiths** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/">Griffiths</a></td><td><code>LY/4 DO37 DB17 DO4 DB8 DO6 R2 DO5 DB2 DO3 LY/4</code></td><td>176</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/"><img src="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/sett.png" alt="Griffiths sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/">Griffiths</a></td><td></td><td><code>LY/4 DO37 DB17 DO4 DB8 DO6 R2 DO5 DB2 DO3 LY/4</code></td><td>176</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/"><img src="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/sett.png" alt="Griffiths sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

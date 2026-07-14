@@ -15,10 +15,10 @@ Designed by Phil Smith in 1994 for descendants of Benjamin Gibbs; a Buchanan var
 The **Gibbs Gibson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/">Gibbs Gibson</a></td><td><code>K/4 R32 W2 DB4 W2 Y6 W4 Y6 W2 DB4 W2 G32 LB/4</code></td><td>200</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/"><img src="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/sett.png" alt="Gibbs Gibson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/">Gibbs Gibson</a></td><td></td><td><code>K/4 R32 W2 DB4 W2 Y6 W4 Y6 W2 DB4 W2 G32 LB/4</code></td><td>200</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/"><img src="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/sett.png" alt="Gibbs Gibson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

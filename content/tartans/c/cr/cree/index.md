@@ -20,12 +20,12 @@ The **Cree** tartan groups 2 setts — the same named design recorded as differe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/">Cree</a> ★</td><td><code>W/6 R6 K6 R12 DG12 K4 W6 K4 LO6 K12 DB4 DO40 LO/6</code></td><td>236</td><td>1979</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/"><img src="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/sett.png" alt="Cree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/y3do22db2k7y3k2w3k2g7r5k3r3w3~x2/">Cree</a></td><td><code>Y/6 DO44 DB4 K14 Y6 K4 W6 K4 G14 R10 K6 R6 W/6</code></td><td>248</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y3do22db2k7y3k2w3k2g7r5k3r3w3~x2/"><img src="y3do22db2k7y3k2w3k2g7r5k3r3w3-rev.png" alt="Cree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/">Cree</a> ★</td><td></td><td><code>W/6 R6 K6 R12 DG12 K4 W6 K4 LO6 K12 DB4 DO40 LO/6</code></td><td>236</td><td>1979</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/"><img src="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/sett.png" alt="Cree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y3do22db2k7y3k2w3k2g7r5k3r3w3~x2/">Cree</a></td><td>0.75</td><td><code>Y/6 DO44 DB4 K14 Y6 K4 W6 K4 G14 R10 K6 R6 W/6</code></td><td>248</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y3do22db2k7y3k2w3k2g7r5k3r3w3~x2/"><img src="y3do22db2k7y3k2w3k2g7r5k3r3w3-rev.png" alt="Cree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

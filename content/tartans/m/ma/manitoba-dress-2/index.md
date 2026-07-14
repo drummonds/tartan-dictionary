@@ -18,10 +18,10 @@ Its design is pattern [BWBWGWRG](/stripes/bwbwgwrg/) — the page of every tarta
 The **Manitoba Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/">Manitoba Dress</a></td><td><code>DB/16 W4 DB8 W72 G12 W4 R36 Y/16</code></td><td>304</td><td>1958</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><img src="/variants/s8/db4w1db2w18g3w1r9y4~x4/sett.png" alt="Manitoba Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/">Manitoba Dress</a></td><td></td><td><code>DB/16 W4 DB8 W72 G12 W4 R36 Y/16</code></td><td>304</td><td>1958</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><img src="/variants/s8/db4w1db2w18g3w1r9y4~x4/sett.png" alt="Manitoba Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

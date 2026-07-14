@@ -13,10 +13,10 @@ Its design is pattern [GRGWGGGRGRGGGWGR](/stripes/grgwgggrgrgggwgr/) — the pag
 The **Wilson's No.169** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~x2/">Wilson's No.169</a></td><td><code>R/18 G20 W4 G4 Y4 G20 R18 G10 R18 G20 Y4 G4 W4 G20 R18 G/10</code></td><td>364</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~x2/"><img src="/variants/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~x2/sett.png" alt="Wilson's No.169 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~x2/">Wilson's No.169</a></td><td></td><td><code>R/18 G20 W4 G4 Y4 G20 R18 G10 R18 G20 Y4 G4 W4 G20 R18 G/10</code></td><td>364</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~x2/"><img src="/variants/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~x2/sett.png" alt="Wilson's No.169 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

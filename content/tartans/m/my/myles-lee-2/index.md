@@ -13,10 +13,10 @@ Its design is pattern [RKWKWKWRWR](/stripes/rkwkwkwrwr/) — the page of every t
 The **Myles, Lee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/">Myles, Lee</a></td><td><code>R/4 LB6 R2 LB18 K8 LB26 K66 LB2 K8 R/2</code></td><td>278</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><img src="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/sett.png" alt="Myles, Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/">Myles, Lee</a></td><td></td><td><code>R/4 LB6 R2 LB18 K8 LB26 K66 LB2 K8 R/2</code></td><td>278</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><img src="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/sett.png" alt="Myles, Lee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

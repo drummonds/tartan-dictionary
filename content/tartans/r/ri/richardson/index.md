@@ -15,12 +15,12 @@ The **Richardson** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/">Richardson</a> ★</td><td><code>R/50 K2 Y4 K2 Y4 K2 R20 DB36 W4 DB/24</code></td><td>222</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><img src="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/sett.png" alt="Richardson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/">(Personal?)</a></td><td><code>R/50 K2 Y4 K2 Y4 K2 R20 T36 W4 T/24</code></td><td>222</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/"><img src="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/sett.png" alt="(Personal?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/">Richardson</a> ★</td><td></td><td><code>R/50 K2 Y4 K2 Y4 K2 R20 DB36 W4 DB/24</code></td><td>222</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><img src="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/sett.png" alt="Richardson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/">(Personal?)</a></td><td>0.17</td><td><code>R/50 K2 Y4 K2 Y4 K2 R20 T36 W4 T/24</code></td><td>222</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/"><img src="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/sett.png" alt="(Personal?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

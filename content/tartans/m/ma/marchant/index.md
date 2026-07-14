@@ -13,10 +13,10 @@ Its design is pattern [GKBKGKW](/stripes/gkbkgkw/) — the page of every tartan 
 The **Marchant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg15k8db15k8dg23ki8w3~x2~db1003265-ki0503265/">Marchant</a></td><td><code>DG/30 K16 DB30 K16 DG46 Ki16 W/6</code></td><td>284</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg15k8db15k8dg23ki8w3~x2~db1003265-ki0503265/"><img src="/variants/s7/dg15k8db15k8dg23ki8w3~x2~db1003265-ki0503265/sett.png" alt="Marchant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg15k8db15k8dg23ki8w3~x2~db1003265-ki0503265/">Marchant</a></td><td></td><td><code>DG/30 K16 DB30 K16 DG46 Ki16 W/6</code></td><td>284</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg15k8db15k8dg23ki8w3~x2~db1003265-ki0503265/"><img src="/variants/s7/dg15k8db15k8dg23ki8w3~x2~db1003265-ki0503265/sett.png" alt="Marchant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,11 +13,11 @@ Its design is pattern [RBWBRBW](/stripes/rbwbrbw/) — the page of every tartan 
 The **Spirit of Ulster** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w2db4r2db90w2db4r1~x2/">Spirit of Ulster</a></td><td><code>W/4 DB8 R4 DB180 W4 DB8 R/2</code></td><td>414</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w2db4r2db90w2db4r1~x2/"><img src="/variants/s7/w2db4r2db90w2db4r1~x2/sett.png" alt="Spirit of Ulster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/w2db4r2db90w2db4r1~x2/">(Fashion)</a> · <a href="/variants/s7/w2db4r2db90w2db4r1~x2~r2109032/">Spirit of Ulster</a></td></tr>
+<tr><td><a href="/variants/s7/w2db4r2db90w2db4r1~x2/">Spirit of Ulster</a></td><td></td><td><code>W/4 DB8 R4 DB180 W4 DB8 R/2</code></td><td>414</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w2db4r2db90w2db4r1~x2/"><img src="/variants/s7/w2db4r2db90w2db4r1~x2/sett.png" alt="Spirit of Ulster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/w2db4r2db90w2db4r1~x2/">(Fashion)</a> · <a href="/variants/s7/w2db4r2db90w2db4r1~x2~r2109032/">Spirit of Ulster</a></td></tr>
 </tbody>
 </table>
 

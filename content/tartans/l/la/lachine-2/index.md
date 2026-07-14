@@ -18,10 +18,10 @@ Its design is pattern [GRKGWGWGWGWGWWWWWWWWWKR](/stripes/grkgwgwgwgwgwwwwwwwwwkr
 The **Lachine** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/y2r1k1g20w2g2w2g2w2g2w2g8lb8w2lb2w2lb2w2lb2w2lb20k1r1~x2/">Lachine</a></td><td><code>Y/4 R2 K2 G40 W4 G4 W4 G4 W4 G4 W4 G16 LB16 W4 LB4 W4 LB4 W4 LB4 W4 LB40 K2 R/2</code></td><td>354</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/y2r1k1g20w2g2w2g2w2g2w2g8lb8w2lb2w2lb2w2lb2w2lb20k1r1~x2/"><img src="/variants/s23/y2r1k1g20w2g2w2g2w2g2w2g8lb8w2lb2w2lb2w2lb2w2lb20k1r1~x2/sett.png" alt="Lachine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/y2r1k1g20w2g2w2g2w2g2w2g8lb8w2lb2w2lb2w2lb2w2lb20k1r1~x2/">Lachine</a></td><td></td><td><code>Y/4 R2 K2 G40 W4 G4 W4 G4 W4 G4 W4 G16 LB16 W4 LB4 W4 LB4 W4 LB4 W4 LB40 K2 R/2</code></td><td>354</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/y2r1k1g20w2g2w2g2w2g2w2g8lb8w2lb2w2lb2w2lb2w2lb20k1r1~x2/"><img src="/variants/s23/y2r1k1g20w2g2w2g2w2g2w2g8lb8w2lb2w2lb2w2lb2w2lb20k1r1~x2/sett.png" alt="Lachine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

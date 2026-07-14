@@ -18,10 +18,10 @@ Cornish district tartan based on the St Piran flag; worn by a New York pipe band
 The **Cornish Flag** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/w5k20w10k1r2~x2/">Cornish Flag</a></td><td><code>W/10 K40 W20 K2 R/4</code></td><td>138</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/w5k20w10k1r2~x2/"><img src="/variants/s5/w5k20w10k1r2~x2/sett.png" alt="Cornish Flag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w5k20w10k1r2~x2/">Cornish Flag</a></td><td></td><td><code>W/10 K40 W20 K2 R/4</code></td><td>138</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/w5k20w10k1r2~x2/"><img src="/variants/s5/w5k20w10k1r2~x2/sett.png" alt="Cornish Flag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

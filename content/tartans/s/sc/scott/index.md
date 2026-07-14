@@ -18,10 +18,10 @@ Its design is pattern [GWGRGKBKBK](/stripes/gwgrgkbkbk/) — the page of every t
 The **Scott** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/">Scott</a></td><td><code>G/16 W2 G2 R2 G8 K8 DB16 K2 DB2 K/2</code></td><td>102</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><img src="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/">Scott</a></td><td></td><td><code>G/16 W2 G2 R2 G8 K8 DB16 K2 DB2 K/2</code></td><td>102</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><img src="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/sett.png" alt="Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

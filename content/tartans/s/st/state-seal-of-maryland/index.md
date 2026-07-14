@@ -13,10 +13,10 @@ Its design is pattern [KYKBWBGYGKBW](/stripes/kykbwbgygkbw/) — the page of eve
 The **State Seal of Maryland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/">State Seal of Maryland</a></td><td><code>K/6 LY6 K4 T80 W6 T20 G20 LY6 G42 K2 DR6 W/6</code></td><td>396</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/"><img src="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/sett.png" alt="State Seal of Maryland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/">State Seal of Maryland</a></td><td></td><td><code>K/6 LY6 K4 T80 W6 T20 G20 LY6 G42 K2 DR6 W/6</code></td><td>396</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/"><img src="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/sett.png" alt="State Seal of Maryland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

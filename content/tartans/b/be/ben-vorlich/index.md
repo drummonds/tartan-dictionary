@@ -13,10 +13,10 @@ Its design is pattern [WBRBRWWWWWW](/stripes/wbrbrwwwwww/) — the page of every
 The **Ben Vorlich** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/">Ben Vorlich</a></td><td><code>W/136 LB6 W6 LB16 W6 LB6 O48 N32 R6 N40 LB/6</code></td><td>474</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><img src="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/sett.png" alt="Ben Vorlich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/">Ben Vorlich</a></td><td></td><td><code>W/136 LB6 W6 LB16 W6 LB6 O48 N32 R6 N40 LB/6</code></td><td>474</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><img src="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/sett.png" alt="Ben Vorlich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

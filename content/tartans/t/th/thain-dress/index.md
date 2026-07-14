@@ -16,13 +16,13 @@ The **Thain Dress** tartan is one sett, recorded at 2 scales — the same propor
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/">Thain Dress</a></td><td><code>Y/22 W1 Y2 W2 K2 W1 K14 W1 K2 W2 K2 W1 K/14</code></td><td>96</td><td>1940</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/"><img src="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/sett.png" alt="Thain Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x2/">Thain, dress</a></td><td><code>Y/44 W2 Y4 W4 K4 W2 K28 W2 K4 W4 K4 W2 K/28</code></td><td>192</td><td>~2003</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/">#1</a></td><td><code>Y/88 W4 Y8 W8 K8 W4 K56 W4 K8 W8 K8 W4 K/56</code></td><td>384</td><td>1940</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x2/">Thain, dress</a> · <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/">#1</a></td></tr>
+<tr><td><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/">Thain Dress</a></td><td></td><td><code>Y/22 W1 Y2 W2 K2 W1 K14 W1 K2 W2 K2 W1 K/14</code></td><td>96</td><td>1940</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/"><img src="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/sett.png" alt="Thain Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x2/">Thain, dress</a></td><td>0.00</td><td><code>Y/44 W2 Y4 W4 K4 W2 K28 W2 K4 W4 K4 W2 K/28</code></td><td>192</td><td>~2003</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/">#1</a></td><td>0.00</td><td><code>Y/88 W4 Y8 W8 K8 W4 K56 W4 K8 W8 K8 W4 K/56</code></td><td>384</td><td>1940</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x2/">Thain, dress</a> · <a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/">#1</a></td></tr>
 </tbody>
 </table>
 

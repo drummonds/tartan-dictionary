@@ -13,10 +13,10 @@ Its design is pattern [BGBGGWG](/stripes/bgbggwg/) — the page of every tartan 
 The **Doral** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db26dg6db2dg17dy4w1dy4~x4/">Doral</a></td><td><code>DB/104 DG24 DB8 DG68 DY16 W4 DY/16</code></td><td>360</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db26dg6db2dg17dy4w1dy4~x4/"><img src="/variants/s7/db26dg6db2dg17dy4w1dy4~x4/sett.png" alt="Doral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db26dg6db2dg17dy4w1dy4~x4/">Doral</a></td><td></td><td><code>DB/104 DG24 DB8 DG68 DY16 W4 DY/16</code></td><td>360</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db26dg6db2dg17dy4w1dy4~x4/"><img src="/variants/s7/db26dg6db2dg17dy4w1dy4~x4/sett.png" alt="Doral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

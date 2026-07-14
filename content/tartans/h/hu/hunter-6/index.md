@@ -18,10 +18,10 @@ Its design is pattern [GRGRBRWGBGY](/stripes/grgrbrwgbgy/) — the page of every
 The **Hunter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/">Hunter</a></td><td><code>DG/12 R4 DG28 R28 DB4 R28 W4 DG28 DB4 DG8 LY/6</code></td><td>290</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/"><img src="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/sett.png" alt="Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/">Hunter</a></td><td></td><td><code>DG/12 R4 DG28 R28 DB4 R28 W4 DG28 DB4 DG8 LY/6</code></td><td>290</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/"><img src="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/sett.png" alt="Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

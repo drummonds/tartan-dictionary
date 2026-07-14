@@ -15,10 +15,10 @@ Commemorates the 150th anniversary of Michigan State University's founding.
 The **Michigan State University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g18w55n19g20w2g20k5/">Michigan State University</a></td><td><code>G/18 W55 N19 G20 W2 G20 K/5</code></td><td>255</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g18w55n19g20w2g20k5/"><img src="/variants/s7/g18w55n19g20w2g20k5/sett.png" alt="Michigan State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g18w55n19g20w2g20k5/">Michigan State University</a></td><td></td><td><code>G/18 W55 N19 G20 W2 G20 K/5</code></td><td>255</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g18w55n19g20w2g20k5/"><img src="/variants/s7/g18w55n19g20w2g20k5/sett.png" alt="Michigan State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Designed 1988 by Harry Lindlay of Kinloch & Anderson; based on Argyll & Sutherla
 The **Durie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/">Durie</a></td><td><code>DB/48 DR4 DB4 DR4 DB4 DR16 G48 Y4 G/8</code></td><td>224</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/"><img src="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/sett.png" alt="Durie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/">Durie</a></td><td></td><td><code>DB/48 DR4 DB4 DR4 DB4 DR16 G48 Y4 G/8</code></td><td>224</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/"><img src="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/sett.png" alt="Durie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

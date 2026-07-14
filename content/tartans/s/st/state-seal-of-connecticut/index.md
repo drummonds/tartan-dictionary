@@ -13,10 +13,10 @@ Its design is pattern [BGBGWGBBBW](/stripes/bgbgwgbbbw/) — the page of every t
 The **State Seal of Connecticut** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/">State Seal of Connecticut</a></td><td><code>DP/8 G12 DB8 G56 W8 G12 DB12 DBi92 DB2 W/8</code></td><td>420</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/"><img src="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/sett.png" alt="State Seal of Connecticut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/">State Seal of Connecticut</a></td><td></td><td><code>DP/8 G12 DB8 G56 W8 G12 DB12 DBi92 DB2 W/8</code></td><td>420</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/"><img src="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/sett.png" alt="State Seal of Connecticut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

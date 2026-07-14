@@ -16,10 +16,10 @@ Its design is pattern [KBKBGK](/stripes/kbkbgk/) — the page of every tartan sh
 The **Campbell, Sir Walter Scott** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k2g8db2k9dp7k2~x2/">Campbell, Sir Walter Scott</a></td><td><code>K/4 G16 DB4 K18 DP14 K/4</code></td><td>112</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><img src="/variants/s6/k2g8db2k9dp7k2~x2/sett.png" alt="Campbell, Sir Walter Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k2g8db2k9dp7k2~x2/">Campbell, Sir Walter Scott</a></td><td></td><td><code>K/4 G16 DB4 K18 DP14 K/4</code></td><td>112</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><img src="/variants/s6/k2g8db2k9dp7k2~x2/sett.png" alt="Campbell, Sir Walter Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

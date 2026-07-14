@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrbrbrkrbrbrgrg
 The **Murray of Tullibardine 5** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/">Murray of Tullibardine 5</a></td><td><code>DB/6 R5 DB4 R3 DB6 R4 DB4 R5 DB9 R5 DB4 R3 K8 R3 DB4 R36 DB27 R4 G4 R14 G27 R9 DB6 R6 K/3</code></td><td>409</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/"><img src="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/sett.png" alt="Murray of Tullibardine 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/">Murray of Tullibardine 5</a></td><td></td><td><code>DB/6 R5 DB4 R3 DB6 R4 DB4 R5 DB9 R5 DB4 R3 K8 R3 DB4 R36 DB27 R4 G4 R14 G27 R9 DB6 R6 K/3</code></td><td>409</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/"><img src="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/sett.png" alt="Murray of Tullibardine 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

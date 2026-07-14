@@ -20,10 +20,10 @@ Designed 1991 by Dr. Pat Little for the Clan Little Society, incorporating Walla
 The **Little of Morton Rig Family/Clan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/">Little of Morton Rig Family/Clan</a></td><td><code>K/16 LB16 K16 LB16 K16 DR32 K8 DR32 K32 LO/4</code></td><td>356</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/"><img src="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/sett.png" alt="Little of Morton Rig Family/Clan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/">Little of Morton Rig Family/Clan</a></td><td></td><td><code>K/16 LB16 K16 LB16 K16 DR32 K8 DR32 K32 LO/4</code></td><td>356</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/"><img src="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/sett.png" alt="Little of Morton Rig Family/Clan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

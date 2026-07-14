@@ -23,17 +23,17 @@ The **Blais** tartan groups 3 setts — the same named design recorded as differ
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/">Blais</a> ★</td><td><code>DB/20 Y1 DY1 DB3 K1 N2 K1 R10 K1 N2 R/4</code></td><td>68</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/"><img src="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/sett.png" alt="Blais sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/">(Personal)</a></td><td><code>DB/40 Y2 DY2 DB6 K2 N4 K2 R20 K2 N4 R/8</code></td><td>136</td><td>1997</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x4/">(Personal)</a></td><td><code>DB/80 Y4 DY4 DB12 K4 N8 K4 R40 K4 N8 R/16</code></td><td>272</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/">(Personal)</a> · <a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x4/">(Personal)</a></td></tr>
-<tr><td><a href="/variants/s11/db20y1dy1db3k1o2k1r10k1o2r4~x2~o2500000/">Family Tartan</a></td><td><code>DB/40 Y2 DY2 DB6 K2 O4 K2 R20 K2 O4 R/8</code></td><td>136</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db20y1dy1db3k1o2k1r10k1o2r4~x2~o2500000/"><img src="/variants/s11/db20y1dy1db3k1o2k1r10k1o2r4~x2~o2500000/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/">Blais</a></td><td><code>DB/40 Y2 O2 DB6 K2 N4 K2 R20 K2 N4 R/8</code></td><td>136</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/"><img src="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/sett.png" alt="Blais sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/">Blais</a> ★</td><td></td><td><code>DB/20 Y1 DY1 DB3 K1 N2 K1 R10 K1 N2 R/4</code></td><td>68</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/"><img src="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/sett.png" alt="Blais sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/">(Personal)</a></td><td>0.00</td><td><code>DB/40 Y2 DY2 DB6 K2 N4 K2 R20 K2 N4 R/8</code></td><td>136</td><td>1997</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x4/">(Personal)</a></td><td>0.00</td><td><code>DB/80 Y4 DY4 DB12 K4 N8 K4 R40 K4 N8 R/16</code></td><td>272</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/">(Personal)</a> · <a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x4/">(Personal)</a></td></tr>
+<tr><td><a href="/variants/s11/db20y1dy1db3k1o2k1r10k1o2r4~x2~o2500000/">Family Tartan</a></td><td>0.03</td><td><code>DB/40 Y2 DY2 DB6 K2 O4 K2 R20 K2 O4 R/8</code></td><td>136</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db20y1dy1db3k1o2k1r10k1o2r4~x2~o2500000/"><img src="/variants/s11/db20y1dy1db3k1o2k1r10k1o2r4~x2~o2500000/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/">Blais</a></td><td>0.60</td><td><code>DB/40 Y2 O2 DB6 K2 N4 K2 R20 K2 N4 R/8</code></td><td>136</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/"><img src="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/sett.png" alt="Blais sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

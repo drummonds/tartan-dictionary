@@ -13,10 +13,10 @@ Its design is pattern [BGWGBGBWB](/stripes/bgwgbgbwb/) — the page of every tar
 The **Lord Arran** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dr3dy1w12dy2db2dy2db14w2db2~x2~dy1603076-db1406275/">Lord Arran</a></td><td><code>DR/6 DY2 W24 DY4 DB4 DY4 DB28 W4 DB/4</code></td><td>150</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr3dy1w12dy2db2dy2db14w2db2~x2~dy1603076-db1406275/"><img src="/variants/s9/dr3dy1w12dy2db2dy2db14w2db2~x2~dy1603076-db1406275/sett.png" alt="Lord Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr3dy1w12dy2db2dy2db14w2db2~x2~dy1603076-db1406275/">Lord Arran</a></td><td></td><td><code>DR/6 DY2 W24 DY4 DB4 DY4 DB28 W4 DB/4</code></td><td>150</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dr3dy1w12dy2db2dy2db14w2db2~x2~dy1603076-db1406275/"><img src="/variants/s9/dr3dy1w12dy2db2dy2db14w2db2~x2~dy1603076-db1406275/sett.png" alt="Lord Arran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

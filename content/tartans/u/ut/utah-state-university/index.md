@@ -13,10 +13,10 @@ Its design is pattern [WBKBWBKGWKW](/stripes/wbkbwbkgwkw/) — the page of every
 The **Utah State University** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w7db10k7db7lb7db45k21g21lb4k4w7~x2/">Utah State University</a></td><td><code>W/14 DB20 K14 DB14 LB14 DB90 K42 G42 LB8 K8 W/14</code></td><td>532</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w7db10k7db7lb7db45k21g21lb4k4w7~x2/"><img src="/variants/s11/w7db10k7db7lb7db45k21g21lb4k4w7~x2/sett.png" alt="Utah State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w7db10k7db7lb7db45k21g21lb4k4w7~x2/">Utah State University</a></td><td></td><td><code>W/14 DB20 K14 DB14 LB14 DB90 K42 G42 LB8 K8 W/14</code></td><td>532</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w7db10k7db7lb7db45k21g21lb4k4w7~x2/"><img src="/variants/s11/w7db10k7db7lb7db45k21g21lb4k4w7~x2/sett.png" alt="Utah State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

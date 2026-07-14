@@ -16,10 +16,10 @@ Its design is pattern [BRGBGBW](/stripes/brgbgbw/) — the page of every tartan 
 The **Wallace Memorial Centenary** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/">Wallace Memorial Centenary</a></td><td><code>DR/4 R48 DG4 N36 DY4 DB48 LB/4</code></td><td>288</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/"><img src="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/sett.png" alt="Wallace Memorial Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/">Wallace Memorial Centenary</a></td><td></td><td><code>DR/4 R48 DG4 N36 DY4 DB48 LB/4</code></td><td>288</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/"><img src="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/sett.png" alt="Wallace Memorial Centenary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

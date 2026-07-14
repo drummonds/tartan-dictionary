@@ -13,10 +13,10 @@ Its design is pattern [RBKGKWKGKWWWWW](/stripes/rbkgkwkgkwwwww/) — the page of
 The **Land's End** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/">Land's End</a></td><td><code>W/6 LB4 W14 LB4 W4 K14 G16 K2 W4 K2 G16 K14 DB14 R/4</code></td><td>226</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/"><img src="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/sett.png" alt="Land's End sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/">Land's End</a></td><td></td><td><code>W/6 LB4 W14 LB4 W4 K14 G16 K2 W4 K2 G16 K14 DB14 R/4</code></td><td>226</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/"><img src="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/sett.png" alt="Land's End sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

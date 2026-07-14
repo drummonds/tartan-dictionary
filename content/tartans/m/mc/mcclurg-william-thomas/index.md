@@ -16,10 +16,10 @@ Its design is pattern [BWGWGGGGK](/stripes/bwgwggggk/) — the page of every tar
 The **McClurg, William Thomas** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/">McClurg, William Thomas</a></td><td><code>K/8 Y2 G4 Y2 G64 LB2 G6 LB64 DB/6</code></td><td>302</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/"><img src="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/sett.png" alt="McClurg, William Thomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/">McClurg, William Thomas</a></td><td></td><td><code>K/8 Y2 G4 Y2 G64 LB2 G6 LB64 DB/6</code></td><td>302</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/"><img src="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/sett.png" alt="McClurg, William Thomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

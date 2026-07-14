@@ -13,11 +13,11 @@ Its design is pattern [GKWKRKR](/stripes/gkwkrkr/) — the page of every tartan 
 The **Aviemore Highland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/">Aviemore Highland</a></td><td><code>DG/80 K6 W2 K10 R2 K4 Ri/20</code></td><td>148</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/"><img src="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/sett.png" alt="Aviemore Highland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~dg1605139-r2109032-ri2806019/">Aviemore Highland</a> · <a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/">(Corporate)</a></td></tr>
+<tr><td><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/">Aviemore Highland</a></td><td></td><td><code>DG/80 K6 W2 K10 R2 K4 Ri/20</code></td><td>148</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/"><img src="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/sett.png" alt="Aviemore Highland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~dg1605139-r2109032-ri2806019/">Aviemore Highland</a> · <a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/">(Corporate)</a></td></tr>
 </tbody>
 </table>
 

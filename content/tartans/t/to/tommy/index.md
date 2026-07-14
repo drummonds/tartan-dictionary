@@ -13,10 +13,10 @@ Its design is pattern [RKRKBWBKWRWKW](/stripes/rkrkbwbkwrwkw/) — the page of e
 The **Tommy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/">Tommy</a></td><td><code>O/8 K2 O10 K8 DB22 W4 DB22 K8 W4 O4 W30 K4 W/6</code></td><td>250</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><img src="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/sett.png" alt="Tommy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/">Tommy</a></td><td></td><td><code>O/8 K2 O10 K8 DB22 W4 DB22 K8 W4 O4 W30 K4 W/6</code></td><td>250</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><img src="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/sett.png" alt="Tommy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

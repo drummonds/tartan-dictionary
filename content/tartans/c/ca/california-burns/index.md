@@ -13,10 +13,10 @@ Its design is pattern [BGBGBGBWBGBG](/stripes/bgbgbgbwbgbg/) — the page of eve
 The **California Burns** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/">California Burns</a></td><td><code>DR/6 G6 DB6 G28 DB6 G6 DB6 LB10 DB36 Y4 DB16 Y/4</code></td><td>258</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><img src="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/sett.png" alt="California Burns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/">California Burns</a></td><td></td><td><code>DR/6 G6 DB6 G28 DB6 G6 DB6 LB10 DB36 Y4 DB16 Y/4</code></td><td>258</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><img src="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/sett.png" alt="California Burns sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

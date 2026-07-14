@@ -13,10 +13,10 @@ Its design is pattern [GWGKGKGKBKBY](/stripes/gwgkgkgkbkby/) — the page of eve
 The **Bell's Whisky** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/">Bell's Whisky</a></td><td><code>DG/20 W4 DG36 K6 DG6 K6 DG6 K36 DP48 K6 DP6 LY/6</code></td><td>346</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><img src="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/sett.png" alt="Bell's Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/">Bell's Whisky</a></td><td></td><td><code>DG/20 W4 DG36 K6 DG6 K6 DG6 K36 DP48 K6 DP6 LY/6</code></td><td>346</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><img src="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/sett.png" alt="Bell's Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

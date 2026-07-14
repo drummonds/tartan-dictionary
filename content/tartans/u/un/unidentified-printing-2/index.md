@@ -13,10 +13,10 @@ Its design is pattern [GYGBRKR](/stripes/gygbrkr/) — the page of every tartan 
 The **Unidentified Printing** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg2ly1dg6dr4r6k1r2~x4/">Unidentified Printing</a></td><td><code>DG/8 LY4 DG24 DR16 R24 K4 R/8</code></td><td>160</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg2ly1dg6dr4r6k1r2~x4/"><img src="/variants/s7/dg2ly1dg6dr4r6k1r2~x4/sett.png" alt="Unidentified Printing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg2ly1dg6dr4r6k1r2~x4/">Unidentified Printing</a></td><td></td><td><code>DG/8 LY4 DG24 DR16 R24 K4 R/8</code></td><td>160</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg2ly1dg6dr4r6k1r2~x4/"><img src="/variants/s7/dg2ly1dg6dr4r6k1r2~x4/sett.png" alt="Unidentified Printing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

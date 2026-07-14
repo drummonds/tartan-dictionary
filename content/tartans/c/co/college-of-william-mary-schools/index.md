@@ -15,10 +15,10 @@ Designed in 2004 by Carol Worthley for the College of William & Mary, sold as a 
 The **College of William & Mary Schools** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/">College of William &amp; Mary Schools</a></td><td><code>DB/20 DG50 Y4 DG4 Y6 DG4 Y4 DG50 DB20 W6 DB20 DG50 Y4 DG4 Y6 DG4 Y4 DG50 DB20 K/6</code></td><td>646</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/"><img src="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/sett.png" alt="College of William &amp; Mary Schools sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/">College of William &amp; Mary Schools</a></td><td></td><td><code>DB/20 DG50 Y4 DG4 Y6 DG4 Y4 DG50 DB20 W6 DB20 DG50 Y4 DG4 Y6 DG4 Y4 DG50 DB20 K/6</code></td><td>646</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/"><img src="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/sett.png" alt="College of William &amp; Mary Schools sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Its design is pattern [BKBKBKBWBKBRBKGRGRGKWKGRGRGKBKBKB](/stripes/bkbkbkbwbkbrb
 The **Flora MacDonald** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/">Flora MacDonald</a></td><td><code>DB/48 K8 DB8 K8 DB8 K44 DB48 W12 DB48 K44 DB36 R48 DB36 K44 G28 R8 G8 R8 G16 K2 W12 K2 G16 R8 G8 R8 G28 K44 DB8 K8 DB8 K8 DB/48</code></td><td>1336</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/"><img src="/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/sett.png" alt="Flora MacDonald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/">Flora MacDonald</a></td><td></td><td><code>DB/48 K8 DB8 K8 DB8 K44 DB48 W12 DB48 K44 DB36 R48 DB36 K44 G28 R8 G8 R8 G16 K2 W12 K2 G16 R8 G8 R8 G28 K44 DB8 K8 DB8 K8 DB/48</code></td><td>1336</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/"><img src="/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/sett.png" alt="Flora MacDonald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

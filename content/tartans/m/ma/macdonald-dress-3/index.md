@@ -18,10 +18,10 @@ Its design is pattern [BRBRBRBRBRKGRGRGRGRGKWBWKRKWBWKR](/stripes/brbrbrbrbrkgrg
 The **MacDonald Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2db4w16k1r4k1w16db4w2k12r1~x2/">MacDonald Dress</a></td><td><code>DB/24 R6 DB4 R2 DB16 R2 DB4 R6 DB24 R2 K24 G24 R6 G4 R2 G16 R2 G4 R6 G24 K24 W4 DB8 W32 K2 R8 K2 W32 DB8 W4 K24 R/2</code></td><td>678</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2db4w16k1r4k1w16db4w2k12r1~x2/"><img src="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2db4w16k1r4k1w16db4w2k12r1~x2/sett.png" alt="MacDonald Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2db4w16k1r4k1w16db4w2k12r1~x2/">MacDonald Dress</a></td><td></td><td><code>DB/24 R6 DB4 R2 DB16 R2 DB4 R6 DB24 R2 K24 G24 R6 G4 R2 G16 R2 G4 R6 G24 K24 W4 DB8 W32 K2 R8 K2 W32 DB8 W4 K24 R/2</code></td><td>678</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2db4w16k1r4k1w16db4w2k12r1~x2/"><img src="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2db4w16k1r4k1w16db4w2k12r1~x2/sett.png" alt="MacDonald Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

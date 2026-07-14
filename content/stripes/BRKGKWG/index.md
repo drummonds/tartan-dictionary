@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sc/scotch-house-2000-dress/">Scotch House 2000 Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-house-2000-dress/"><img src="/variants/s7/dg22w3k2y3k19r18b4~x2/sett.png" alt="Scotch House 2000 Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sc/scotch-house-2000-dress/"><img src="/variants/s7/g22w3k2y3k19r18db4~x2/sett.png" alt="Scotch House 2000 Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

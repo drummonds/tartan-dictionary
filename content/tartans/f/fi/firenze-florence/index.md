@@ -13,10 +13,10 @@ Its design is pattern [BGWRBRWGBGBGBGWR](/stripes/bgwrbrwgbgbgbgwr/) — the pag
 The **Firenze ~ Florence** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r46w1y3db1y3db1y3db1y3w1r46dp14r2w2g2dp14~x2/">Firenze ~ Florence</a></td><td><code>R/92 W2 Y6 DB2 Y6 DB2 Y6 DB2 Y6 W2 R92 DP28 R4 W4 G4 DP/28</code></td><td>452</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r46w1y3db1y3db1y3db1y3w1r46dp14r2w2g2dp14~x2/"><img src="/variants/s16/r46w1y3db1y3db1y3db1y3w1r46dp14r2w2g2dp14~x2/sett.png" alt="Firenze ~ Florence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r46w1y3db1y3db1y3db1y3w1r46dp14r2w2g2dp14~x2/">Firenze ~ Florence</a></td><td></td><td><code>R/92 W2 Y6 DB2 Y6 DB2 Y6 DB2 Y6 W2 R92 DP28 R4 W4 G4 DP/28</code></td><td>452</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r46w1y3db1y3db1y3db1y3w1r46dp14r2w2g2dp14~x2/"><img src="/variants/s16/r46w1y3db1y3db1y3db1y3w1r46dp14r2w2g2dp14~x2/sett.png" alt="Firenze ~ Florence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

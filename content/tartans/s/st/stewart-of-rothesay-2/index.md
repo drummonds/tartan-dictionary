@@ -20,10 +20,10 @@ Dated 1829; named 'Duke of Rothesay' in Charles Sobieski's drawing in the Dick L
 The **Stewart of Rothesay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g7r122db17r12k12y3k4w3g48r16k4r6w5/">Stewart of Rothesay</a></td><td><code>G/7 R122 DB17 R12 K12 Y3 K4 W3 G48 R16 K4 R6 W/5</code></td><td>506</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g7r122db17r12k12y3k4w3g48r16k4r6w5/"><img src="/variants/s13/g7r122db17r12k12y3k4w3g48r16k4r6w5/sett.png" alt="Stewart of Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g7r122db17r12k12y3k4w3g48r16k4r6w5/">Stewart of Rothesay</a></td><td></td><td><code>G/7 R122 DB17 R12 K12 Y3 K4 W3 G48 R16 K4 R6 W/5</code></td><td>506</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g7r122db17r12k12y3k4w3g48r16k4r6w5/"><img src="/variants/s13/g7r122db17r12k12y3k4w3g48r16k4r6w5/sett.png" alt="Stewart of Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

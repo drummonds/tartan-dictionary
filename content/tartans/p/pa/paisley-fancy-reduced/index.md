@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKG](/stripes/bkbkbkbkgkgk
 The **Paisley Fancy Reduced** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s34/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/">Paisley Fancy Reduced</a></td><td><code>DB/8 K2 DB3 K2 DB2 K3 DB2 K11 G2 K4 G3 K3 G4 K2 G5 K2 G55 R4 G11 R11 W4 R66 K2 R5 K2 R4 K3 R3 K4 R2 K11 G15 K2 Y/4</code></td><td>520</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s34/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/"><img src="/variants/s34/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/sett.png" alt="Paisley Fancy Reduced sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s34/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/">Paisley Fancy Reduced</a></td><td></td><td><code>DB/8 K2 DB3 K2 DB2 K3 DB2 K11 G2 K4 G3 K3 G4 K2 G5 K2 G55 R4 G11 R11 W4 R66 K2 R5 K2 R4 K3 R3 K4 R2 K11 G15 K2 Y/4</code></td><td>520</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s34/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/"><img src="/variants/s34/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/sett.png" alt="Paisley Fancy Reduced sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

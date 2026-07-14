@@ -13,10 +13,10 @@ Its design is pattern [BYGGWR](/stripes/byggwr/) — the page of every tartan sh
 The **College of New Caledonia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db52lo23y6dg5w1r1~x2~lo3006076-y2505139/">College of New Caledonia</a></td><td><code>DB/52 LO23 Y6 DG5 W1 R/1</code></td><td>—</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db52lo23y6dg5w1r1~x2~lo3006076-y2505139/"><img src="/variants/s6/db52lo23y6dg5w1r1~x2~lo3006076-y2505139/sett.png" alt="College of New Caledonia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db52lo23y6dg5w1r1~x2~lo3006076-y2505139/">College of New Caledonia</a></td><td></td><td><code>DB/52 LO23 Y6 DG5 W1 R/1</code></td><td>—</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db52lo23y6dg5w1r1~x2~lo3006076-y2505139/"><img src="/variants/s6/db52lo23y6dg5w1r1~x2~lo3006076-y2505139/sett.png" alt="College of New Caledonia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

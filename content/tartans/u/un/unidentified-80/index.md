@@ -13,10 +13,10 @@ Its design is pattern [RBKBKBKWWWWW](/stripes/rbkbkbkwwwww/) — the page of eve
 The **Unidentified** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w5lb2w2lb3w17k6n2k2n2k2n14r3~x2/">Unidentified</a></td><td><code>W/10 LB4 W4 LB6 W34 K12 N4 K4 N4 K4 N28 R/6</code></td><td>224</td><td>~2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w5lb2w2lb3w17k6n2k2n2k2n14r3~x2/"><img src="/variants/s12/w5lb2w2lb3w17k6n2k2n2k2n14r3~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w5lb2w2lb3w17k6n2k2n2k2n14r3~x2/">Unidentified</a></td><td></td><td><code>W/10 LB4 W4 LB6 W34 K12 N4 K4 N4 K4 N28 R/6</code></td><td>224</td><td>~2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w5lb2w2lb3w17k6n2k2n2k2n14r3~x2/"><img src="/variants/s12/w5lb2w2lb3w17k6n2k2n2k2n14r3~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

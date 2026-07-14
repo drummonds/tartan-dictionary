@@ -13,10 +13,10 @@ Its design is pattern [KBKBKBGK](/stripes/kbkbkbgk/) — the page of every tarta
 The **Scottish Funereal Association** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/">Scottish Funereal Association</a></td><td><code>K/48 DBi4 K8 DB4 K4 DB16 DG4 K/4</code></td><td>132</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/"><img src="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/sett.png" alt="Scottish Funereal Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/">Scottish Funereal Association</a></td><td></td><td><code>K/48 DBi4 K8 DB4 K4 DB16 DG4 K/4</code></td><td>132</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/"><img src="/variants/s8/k12dbi1k2db1k1db4dg1k1~x4~dbi1405255-db0805267/sett.png" alt="Scottish Funereal Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RBRBRBKRKRKWRWRWR](/stripes/rbrbrbkrkrkwrwrwr/) — the p
 The **Angus Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r2t1r1t1r1t14k14r1k3r1k14w14r1w1r1w1r2~x4~w4000000/">Angus Dress</a></td><td><code>R/8 T4 R4 T4 R4 T56 K56 R4 K12 R4 K56 W56 R4 W4 R4 W4 R/8</code></td><td>568</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r2t1r1t1r1t14k14r1k3r1k14w14r1w1r1w1r2~x4~w4000000/"><img src="/variants/s17/r2t1r1t1r1t14k14r1k3r1k14w14r1w1r1w1r2~x4~w4000000/sett.png" alt="Angus Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r2t1r1t1r1t14k14r1k3r1k14w14r1w1r1w1r2~x4~w4000000/">Angus Dress</a></td><td></td><td><code>R/8 T4 R4 T4 R4 T56 K56 R4 K12 R4 K56 W56 R4 W4 R4 W4 R/8</code></td><td>568</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r2t1r1t1r1t14k14r1k3r1k14w14r1w1r1w1r2~x4~w4000000/"><img src="/variants/s17/r2t1r1t1r1t14k14r1k3r1k14w14r1w1r1w1r2~x4~w4000000/sett.png" alt="Angus Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

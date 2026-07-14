@@ -18,10 +18,10 @@ Its design is pattern [RWRRWBWWWBWGGWBWGGWGGWGGWWBWBWWRRWRWRRWWBWBWWGGGWGGGWRRWR
 The **Waggrall** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s57/r4w1ri11r2w2dp11lb4w2lb4dp11w2g4dy4w1dp5w1dy4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2r2ri11w1r4w1ri11r2w2lb2dp6w1dp6lb2w2dg6g2dy2w1dy2g2dg6w2r2ri11w1r4~x2~r2109013-ri2109032/">Waggrall</a></td><td><code>R/8 W2 Ri22 R4 W4 DP22 LB8 W4 LB8 DP22 W4 G8 DY8 W2 DP10 W2 DY8 G8 W4 DG20 G8 W4 G8 DG20 W4 LB4 DP12 W2 DP12 LB4 W4 R4 Ri22 W2 R8 W2 Ri22 R4 W4 LB4 DP12 W2 DP12 LB4 W4 DG12 G4 DY4 W2 DY4 G4 DG12 W4 R4 Ri22 W2 R/8</code></td><td>880</td><td>1797</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s57/r4w1ri11r2w2dp11lb4w2lb4dp11w2g4dy4w1dp5w1dy4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2r2ri11w1r4w1ri11r2w2lb2dp6w1dp6lb2w2dg6g2dy2w1dy2g2dg6w2r2ri11w1r4~x2~r2109013-ri2109032/"><img src="/variants/s57/r4w1ri11r2w2dp11lb4w2lb4dp11w2g4dy4w1dp5w1dy4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2r2ri11w1r4w1ri11r2w2lb2dp6w1dp6lb2w2dg6g2dy2w1dy2g2dg6w2r2ri11w1r4~x2~r2109013-ri2109032/sett.png" alt="Waggrall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s57/r4w1ri11r2w2dp11lb4w2lb4dp11w2g4dy4w1dp5w1dy4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2r2ri11w1r4w1ri11r2w2lb2dp6w1dp6lb2w2dg6g2dy2w1dy2g2dg6w2r2ri11w1r4~x2~r2109013-ri2109032/">Waggrall</a></td><td></td><td><code>R/8 W2 Ri22 R4 W4 DP22 LB8 W4 LB8 DP22 W4 G8 DY8 W2 DP10 W2 DY8 G8 W4 DG20 G8 W4 G8 DG20 W4 LB4 DP12 W2 DP12 LB4 W4 R4 Ri22 W2 R8 W2 Ri22 R4 W4 LB4 DP12 W2 DP12 LB4 W4 DG12 G4 DY4 W2 DY4 G4 DG12 W4 R4 Ri22 W2 R/8</code></td><td>880</td><td>1797</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s57/r4w1ri11r2w2dp11lb4w2lb4dp11w2g4dy4w1dp5w1dy4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2r2ri11w1r4w1ri11r2w2lb2dp6w1dp6lb2w2dg6g2dy2w1dy2g2dg6w2r2ri11w1r4~x2~r2109013-ri2109032/"><img src="/variants/s57/r4w1ri11r2w2dp11lb4w2lb4dp11w2g4dy4w1dp5w1dy4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2r2ri11w1r4w1ri11r2w2lb2dp6w1dp6lb2w2dg6g2dy2w1dy2g2dg6w2r2ri11w1r4~x2~r2109013-ri2109032/sett.png" alt="Waggrall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RKBBKW](/stripes/rkbbkw/) — the page of every tartan sh
 The **Jewell of Kernow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w6k29n29dp7k3r3~x2/">Jewell of Kernow</a></td><td><code>W/12 K58 N58 DP14 K6 R/6</code></td><td>290</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><img src="/variants/s6/w6k29n29dp7k3r3~x2/sett.png" alt="Jewell of Kernow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w6k29n29dp7k3r3~x2/">Jewell of Kernow</a></td><td></td><td><code>W/12 K58 N58 DP14 K6 R/6</code></td><td>290</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><img src="/variants/s6/w6k29n29dp7k3r3~x2/sett.png" alt="Jewell of Kernow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

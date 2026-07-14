@@ -18,10 +18,10 @@ Its design is pattern [BGBRGGGGGRGGG](/stripes/bgbrgggggrggg/) — the page of e
 The **Terry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/b33y1b3r3g3y1g21y1g3r3g3y1g21~x2/">Terry</a></td><td><code>B/66 Y2 B6 R6 G6 Y2 G42 Y2 G6 R6 G6 Y2 G/42</code></td><td>280</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/b33y1b3r3g3y1g21y1g3r3g3y1g21~x2/"><img src="/variants/s13/b33y1b3r3g3y1g21y1g3r3g3y1g21~x2/sett.png" alt="Terry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/b33y1b3r3g3y1g21y1g3r3g3y1g21~x2/">Terry</a></td><td></td><td><code>B/66 Y2 B6 R6 G6 Y2 G42 Y2 G6 R6 G6 Y2 G/42</code></td><td>280</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/b33y1b3r3g3y1g21y1g3r3g3y1g21~x2/"><img src="/variants/s13/b33y1b3r3g3y1g21y1g3r3g3y1g21~x2/sett.png" alt="Terry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

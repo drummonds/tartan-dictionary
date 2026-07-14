@@ -13,10 +13,10 @@ Its design is pattern [RWBWBWGWGWR](/stripes/rwbwbwgwgwr/) — the page of every
 The **Bendigo** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/">Bendigo</a></td><td><code>R/44 W2 Y14 W2 G42 W2 DB24 W2 DR2 W2 R/16</code></td><td>244</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/"><img src="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/sett.png" alt="Bendigo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/">Bendigo</a></td><td></td><td><code>R/44 W2 Y14 W2 G42 W2 DB24 W2 DR2 W2 R/16</code></td><td>244</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/"><img src="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/sett.png" alt="Bendigo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

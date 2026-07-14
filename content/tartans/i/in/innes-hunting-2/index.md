@@ -18,10 +18,10 @@ Its design is pattern [WGKGBGBGGGKGKGKW](/stripes/wgkgbgbgggkgkgkw/) — the pag
 The **Innes Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3y3dy18k3dy3k4dy3k18lb3~x2/">Innes Hunting</a></td><td><code>W/6 DY6 K6 G30 DB6 DY6 DB16 DY6 Y6 DY36 K6 DY6 K8 DY6 K36 LB/6</code></td><td>372</td><td>~1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3y3dy18k3dy3k4dy3k18lb3~x2/"><img src="/variants/s16/w3dy3k3g15db3dy3db8dy3y3dy18k3dy3k4dy3k18lb3~x2/sett.png" alt="Innes Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3y3dy18k3dy3k4dy3k18lb3~x2/">Innes Hunting</a></td><td></td><td><code>W/6 DY6 K6 G30 DB6 DY6 DB16 DY6 Y6 DY36 K6 DY6 K8 DY6 K36 LB/6</code></td><td>372</td><td>~1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3y3dy18k3dy3k4dy3k18lb3~x2/"><img src="/variants/s16/w3dy3k3g15db3dy3db8dy3y3dy18k3dy3k4dy3k18lb3~x2/sett.png" alt="Innes Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

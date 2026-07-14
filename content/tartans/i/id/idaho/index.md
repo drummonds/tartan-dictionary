@@ -15,10 +15,10 @@ Official Idaho state tartan, approved by the Idaho Centennial Commission to mark
 The **Idaho** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/">Idaho</a></td><td><code>DB/24 R4 DB4 R4 DB4 G20 W24 DY6 W24 G20 DB22 R4 DB/4</code></td><td>300</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/"><img src="/variants/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/sett.png" alt="Idaho sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/">Idaho</a></td><td></td><td><code>DB/24 R4 DB4 R4 DB4 G20 W24 DY6 W24 G20 DB22 R4 DB/4</code></td><td>300</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/"><img src="/variants/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/sett.png" alt="Idaho sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

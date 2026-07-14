@@ -13,10 +13,10 @@ Its design is pattern [GBGBGWGYBWK](/stripes/gbgbgwgybwk/) — the page of every
 The **Oregon, State of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/">Oregon, State of</a></td><td><code>DY/12 DP20 G8 DP8 G8 W4 G16 LY48 DR8 LB8 K/8</code></td><td>276</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/"><img src="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/sett.png" alt="Oregon, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/">Oregon, State of</a></td><td></td><td><code>DY/12 DP20 G8 DP8 G8 W4 G16 LY48 DR8 LB8 K/8</code></td><td>276</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/"><img src="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/sett.png" alt="Oregon, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

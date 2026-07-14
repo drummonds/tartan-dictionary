@@ -15,12 +15,12 @@ The **Stansbury** tartan groups 2 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/">Stansbury</a> ★</td><td><code>G/56 R6 K56 DB16 LB2 G16 R4 K/6</code></td><td>262</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><img src="/variants/s8/g28r3k28db8lb1g8r2k3~x2/sett.png" alt="Stansbury sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/">Stansbury</a></td><td><code>DG/56 R6 K56 DB16 LB2 DG16 R4 K/6</code></td><td>262</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/"><img src="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/sett.png" alt="Stansbury sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/">Stansbury</a> ★</td><td></td><td><code>G/56 R6 K56 DB16 LB2 G16 R4 K/6</code></td><td>262</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><img src="/variants/s8/g28r3k28db8lb1g8r2k3~x2/sett.png" alt="Stansbury sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/">Stansbury</a></td><td>0.18</td><td><code>DG/56 R6 K56 DB16 LB2 DG16 R4 K/6</code></td><td>262</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/"><img src="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/sett.png" alt="Stansbury sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

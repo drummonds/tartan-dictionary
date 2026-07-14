@@ -13,10 +13,10 @@ Its design is pattern [WRKGRKRWRW](/stripes/wrkgrkrwrw/) — the page of every t
 The **Unidentified Plaid 10** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/w8r100k42g42r5k3r5lb42r100w8/">Unidentified Plaid 10</a></td><td><code>W/8 R100 K42 G42 R5 K3 R5 LB42 R100 W/8</code></td><td>694</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/w8r100k42g42r5k3r5lb42r100w8/"><img src="/variants/s10/w8r100k42g42r5k3r5lb42r100w8/sett.png" alt="Unidentified Plaid 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w8r100k42g42r5k3r5lb42r100w8/">Unidentified Plaid 10</a></td><td></td><td><code>W/8 R100 K42 G42 R5 K3 R5 LB42 R100 W/8</code></td><td>694</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/w8r100k42g42r5k3r5lb42r100w8/"><img src="/variants/s10/w8r100k42g42r5k3r5lb42r100w8/sett.png" alt="Unidentified Plaid 10 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

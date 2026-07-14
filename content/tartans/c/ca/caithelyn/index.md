@@ -15,12 +15,12 @@ The **Caithelyn** tartan groups 2 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db20k2w2k2db2k10g3k2g20k2g3k10db8k2~x2/">Caithelyn</a> ★</td><td><code>DB/40 K4 W4 K4 DB4 K20 G6 K4 G40 K4 G6 K20 DB16 K/4</code></td><td>308</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db20k2w2k2db2k10g3k2g20k2g3k10db8k2~x2/"><img src="/variants/s14/db20k2w2k2db2k10g3k2g20k2g3k10db8k2~x2/sett.png" alt="Caithelyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/dp20k2w2k2dp2k10g3k2g20k2g3k10dp8k2~x2/">(Personal)</a></td><td><code>DP/40 K4 W4 K4 DP4 K20 G6 K4 G40 K4 G6 K20 DP16 K/4</code></td><td>308</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dp20k2w2k2dp2k10g3k2g20k2g3k10dp8k2~x2/"><img src="/variants/s14/dp20k2w2k2dp2k10g3k2g20k2g3k10dp8k2~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db20k2w2k2db2k10g3k2g20k2g3k10db8k2~x2/">Caithelyn</a> ★</td><td></td><td><code>DB/40 K4 W4 K4 DB4 K20 G6 K4 G40 K4 G6 K20 DB16 K/4</code></td><td>308</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db20k2w2k2db2k10g3k2g20k2g3k10db8k2~x2/"><img src="/variants/s14/db20k2w2k2db2k10g3k2g20k2g3k10db8k2~x2/sett.png" alt="Caithelyn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dp20k2w2k2dp2k10g3k2g20k2g3k10dp8k2~x2/">(Personal)</a></td><td>2.35</td><td><code>DP/40 K4 W4 K4 DP4 K20 G6 K4 G40 K4 G6 K20 DP16 K/4</code></td><td>308</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dp20k2w2k2dp2k10g3k2g20k2g3k10dp8k2~x2/"><img src="/variants/s14/dp20k2w2k2dp2k10g3k2g20k2g3k10dp8k2~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

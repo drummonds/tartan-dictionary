@@ -18,10 +18,10 @@ Its design is pattern [BRGRBRBRGRR](/stripes/brgrbrbrgrr/) — the page of every
 The **Buchanan, hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/">Buchanan, hunting</a></td><td><code>DB/6 O28 G28 O4 DB28 O4 DB28 O4 G28 O28 R/6</code></td><td>372</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><img src="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/sett.png" alt="Buchanan, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/">Buchanan, hunting</a></td><td></td><td><code>DB/6 O28 G28 O4 DB28 O4 DB28 O4 G28 O28 R/6</code></td><td>372</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><img src="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/sett.png" alt="Buchanan, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Dress version of Gayre clan tartan; one of five recorded Gayre setts.
 The **Gayre Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4~x2/">Gayre Dress</a></td><td><code>LB/28 G8 K8 W8 G24 LB8 G24 W8 K8 R12 G8 W8 G6 LB8 K/8</code></td><td>312</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4~x2/"><img src="/variants/s15/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4~x2/sett.png" alt="Gayre Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4~x2/">Gayre Dress</a></td><td></td><td><code>LB/28 G8 K8 W8 G24 LB8 G24 W8 K8 R12 G8 W8 G6 LB8 K/8</code></td><td>312</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4~x2/"><img src="/variants/s15/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4~x2/sett.png" alt="Gayre Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

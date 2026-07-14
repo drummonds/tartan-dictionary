@@ -13,10 +13,10 @@ Its design is pattern [GGKWKRRR](/stripes/ggkwkrrr/) — the page of every tarta
 The **Layton, Mervin** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/o4r3o24k1w7k1g24y3~x2/">Layton, Mervin</a></td><td><code>O/8 R6 O48 K2 W14 K2 G48 Y/6</code></td><td>254</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/o4r3o24k1w7k1g24y3~x2/"><img src="/variants/s8/o4r3o24k1w7k1g24y3~x2/sett.png" alt="Layton, Mervin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/o4r3o24k1w7k1g24y3~x2/">Layton, Mervin</a></td><td></td><td><code>O/8 R6 O48 K2 W14 K2 G48 Y/6</code></td><td>254</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/o4r3o24k1w7k1g24y3~x2/"><img src="/variants/s8/o4r3o24k1w7k1g24y3~x2/sett.png" alt="Layton, Mervin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

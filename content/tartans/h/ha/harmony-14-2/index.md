@@ -18,10 +18,10 @@ Its design is pattern [GBRBGBGBRBW](/stripes/gbrbgbgbrbw/) — the page of every
 The **Harmony 14** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/">Harmony 14</a></td><td><code>G/6 N32 O22 N4 Y22 N4 Y22 N4 O22 N32 W/6</code></td><td>340</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/"><img src="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/sett.png" alt="Harmony 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/">Harmony 14</a></td><td></td><td><code>G/6 N32 O22 N4 Y22 N4 Y22 N4 O22 N32 W/6</code></td><td>340</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/"><img src="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/sett.png" alt="Harmony 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

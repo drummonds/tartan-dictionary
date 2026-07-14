@@ -15,11 +15,11 @@ Designed circa 1930 for the personal use of the Duke of Windsor, known as "David
 The **Prince David Royal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/">Prince David Royal</a></td><td><code>DG/6 G2 LO4 DG6 G2 LO4 DY42 DG36 DY4 DG6 DY4 DG36 DY42 G2 LO/4</code></td><td>390</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/"><img src="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/sett.png" alt="Prince David Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/">Family Tartan</a> · <a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/">Prince David</a></td></tr>
+<tr><td><a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/">Prince David Royal</a></td><td></td><td><code>DG/6 G2 LO4 DG6 G2 LO4 DY42 DG36 DY4 DG6 DY4 DG36 DY42 G2 LO/4</code></td><td>390</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/"><img src="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/sett.png" alt="Prince David Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/">Family Tartan</a> · <a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/">Prince David</a></td></tr>
 </tbody>
 </table>
 

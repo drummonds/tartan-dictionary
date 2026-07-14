@@ -18,10 +18,10 @@ Its design is pattern [RGWKWGW](/stripes/rgwkwgw/) — the page of every tartan 
 The **Lachine** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w13g13lb13k10w7y1r1~x4/">Lachine</a></td><td><code>W/52 G52 LB52 K40 W28 Y4 R/4</code></td><td>408</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w13g13lb13k10w7y1r1~x4/"><img src="/variants/s7/w13g13lb13k10w7y1r1~x4/sett.png" alt="Lachine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w13g13lb13k10w7y1r1~x4/">Lachine</a></td><td></td><td><code>W/52 G52 LB52 K40 W28 Y4 R/4</code></td><td>408</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w13g13lb13k10w7y1r1~x4/"><img src="/variants/s7/w13g13lb13k10w7y1r1~x4/sett.png" alt="Lachine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

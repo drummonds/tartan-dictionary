@@ -16,10 +16,10 @@ Its design is pattern [BBBRBBBBBWB](/stripes/bbbrbbbbbwb/) — the page of every
 The **Highland Dusk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/n43dbi2n2r1n1db11n2dbi2n22w4n7~x2~n2001240-dbi1406275-db1404245/">Highland Dusk</a></td><td><code>N/86 DBi4 N4 R2 N2 DB22 N4 DBi4 N44 W8 N/14</code></td><td>288</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/n43dbi2n2r1n1db11n2dbi2n22w4n7~x2~n2001240-dbi1406275-db1404245/"><img src="/variants/s11/n43dbi2n2r1n1db11n2dbi2n22w4n7~x2~n2001240-dbi1406275-db1404245/sett.png" alt="Highland Dusk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/n43dbi2n2r1n1db11n2dbi2n22w4n7~x2~n2001240-dbi1406275-db1404245/">Highland Dusk</a></td><td></td><td><code>N/86 DBi4 N4 R2 N2 DB22 N4 DBi4 N44 W8 N/14</code></td><td>288</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/n43dbi2n2r1n1db11n2dbi2n22w4n7~x2~n2001240-dbi1406275-db1404245/"><img src="/variants/s11/n43dbi2n2r1n1db11n2dbi2n22w4n7~x2~n2001240-dbi1406275-db1404245/sett.png" alt="Highland Dusk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

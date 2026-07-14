@@ -18,10 +18,10 @@ Its design is pattern [BWGWGWWBWGWGRGRG](/stripes/bwgwgwwbwgwgrgrg/) — the pag
 The **Gordon 1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db14w1g8w1dg16lb6w1db14w1g14lb6g6r8dg6r8dg1~x2/">Gordon 1</a></td><td><code>DB/28 W2 G16 W2 DG32 LB12 W2 DB28 W2 G28 LB12 G12 R16 DG12 R16 DG/2</code></td><td>414</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db14w1g8w1dg16lb6w1db14w1g14lb6g6r8dg6r8dg1~x2/"><img src="/variants/s16/db14w1g8w1dg16lb6w1db14w1g14lb6g6r8dg6r8dg1~x2/sett.png" alt="Gordon 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db14w1g8w1dg16lb6w1db14w1g14lb6g6r8dg6r8dg1~x2/">Gordon 1</a></td><td></td><td><code>DB/28 W2 G16 W2 DG32 LB12 W2 DB28 W2 G28 LB12 G12 R16 DG12 R16 DG/2</code></td><td>414</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db14w1g8w1dg16lb6w1db14w1g14lb6g6r8dg6r8dg1~x2/"><img src="/variants/s16/db14w1g8w1dg16lb6w1db14w1g14lb6g6r8dg6r8dg1~x2/sett.png" alt="Gordon 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

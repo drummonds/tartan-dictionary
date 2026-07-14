@@ -18,10 +18,10 @@ Its design is pattern [BWGGWKG](/stripes/bwggwkg/) — the page of every tartan 
 The **MacLachlan, dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/b34w3dg4g23w24k3dg4~x2/">MacLachlan, dress</a></td><td><code>B/68 W6 DG8 G46 W48 K6 DG/8</code></td><td>304</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/b34w3dg4g23w24k3dg4~x2/"><img src="/variants/s7/b34w3dg4g23w24k3dg4~x2/sett.png" alt="MacLachlan, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/b34w3dg4g23w24k3dg4~x2/">MacLachlan, dress</a></td><td></td><td><code>B/68 W6 DG8 G46 W48 K6 DG/8</code></td><td>304</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/b34w3dg4g23w24k3dg4~x2/"><img src="/variants/s7/b34w3dg4g23w24k3dg4~x2/sett.png" alt="MacLachlan, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

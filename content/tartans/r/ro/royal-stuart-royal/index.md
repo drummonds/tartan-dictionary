@@ -15,10 +15,10 @@ Royal tartan of the Stuart line; spelling adopted by Mary, Queen of Scots, for F
 The **Royal Stuart Royal** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/">Royal Stuart Royal</a></td><td><code>R/6 W56 K4 W4 K4 W4 G24 R16 K2 R2 W/2</code></td><td>240</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><img src="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/sett.png" alt="Royal Stuart Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/">Royal Stuart Royal</a></td><td></td><td><code>R/6 W56 K4 W4 K4 W4 G24 R16 K2 R2 W/2</code></td><td>240</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><img src="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/sett.png" alt="Royal Stuart Royal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

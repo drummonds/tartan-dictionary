@@ -18,10 +18,10 @@ Its design is pattern [KRGBGBKW](/stripes/krgbgbkw/) — the page of every tarta
 The **Rainbow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k1r1g1db1y1dr1k1w1~x2/">Rainbow</a></td><td><code>K/2 R2 G2 DB2 Y2 DR2 K2 W/2</code></td><td>28</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k1r1g1db1y1dr1k1w1~x2/"><img src="/variants/s8/k1r1g1db1y1dr1k1w1~x2/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k1r1g1db1y1dr1k1w1~x2/">Rainbow</a></td><td></td><td><code>K/2 R2 G2 DB2 Y2 DR2 K2 W/2</code></td><td>28</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k1r1g1db1y1dr1k1w1~x2/"><img src="/variants/s8/k1r1g1db1y1dr1k1w1~x2/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

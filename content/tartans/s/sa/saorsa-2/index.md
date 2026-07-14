@@ -18,10 +18,10 @@ Its design is pattern [BGKRBK](/stripes/bgkrbk/) — the page of every tartan sh
 The **Saorsa** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k11db3o5k2g15dp11~x2/">Saorsa</a></td><td><code>K/22 DB6 O10 K4 G30 DP/22</code></td><td>144</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k11db3o5k2g15dp11~x2/"><img src="/variants/s6/k11db3o5k2g15dp11~x2/sett.png" alt="Saorsa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k11db3o5k2g15dp11~x2/">Saorsa</a></td><td></td><td><code>K/22 DB6 O10 K4 G30 DP/22</code></td><td>144</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k11db3o5k2g15dp11~x2/"><img src="/variants/s6/k11db3o5k2g15dp11~x2/sett.png" alt="Saorsa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

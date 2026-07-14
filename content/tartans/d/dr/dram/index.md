@@ -13,10 +13,10 @@ Its design is pattern [BWBWBW](/stripes/bwbwbw/) — the page of every tartan sh
 The **Dram!** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db5lb1db15lb25db1lb5~x4/">Dram!</a></td><td><code>DB/20 LB4 DB60 LB100 DB4 LB/20</code></td><td>376</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db5lb1db15lb25db1lb5~x4/"><img src="/variants/s6/db5lb1db15lb25db1lb5~x4/sett.png" alt="Dram! sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db5lb1db15lb25db1lb5~x4/">Dram!</a></td><td></td><td><code>DB/20 LB4 DB60 LB100 DB4 LB/20</code></td><td>376</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db5lb1db15lb25db1lb5~x4/"><img src="/variants/s6/db5lb1db15lb25db1lb5~x4/sett.png" alt="Dram! sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

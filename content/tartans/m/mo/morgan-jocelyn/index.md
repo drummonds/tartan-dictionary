@@ -16,10 +16,10 @@ Its design is pattern [GYRWGYRWGYBWY](/stripes/gyrwgyrwgybwy/) — the page of e
 The **Morgan Jocelyn . . .** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/">Morgan Jocelyn . . .</a></td><td><code>G/80 LY4 R6 W4 G8 LY2 R36 W2 G4 LY2 T8 W2 LY/6</code></td><td>242</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/"><img src="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/sett.png" alt="Morgan Jocelyn . . . sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/">Morgan Jocelyn . . .</a></td><td></td><td><code>G/80 LY4 R6 W4 G8 LY2 R36 W2 G4 LY2 T8 W2 LY/6</code></td><td>242</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/"><img src="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/sett.png" alt="Morgan Jocelyn . . . sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

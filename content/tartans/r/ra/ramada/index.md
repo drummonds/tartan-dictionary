@@ -17,12 +17,12 @@ The **Ramada** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/">Ramada</a> ★</td><td><code>R/132 T2 DB2 R12 DG60 R12 DB2 T2 R6 DB32 R6 T2 DB2 R108 DG6 O2 R12 DG/12</code></td><td>680</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/"><img src="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/sett.png" alt="Ramada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6~x2~r2008029-n1803284-db1204274-o2704014/">Corporate Tartan</a></td><td><code>R/66 N1 DB1 R6 DG30 R6 DB1 N1 R3 DB16 R3 N1 DB1 R54 DG3 O1 R6 DG/6</code></td><td>—</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6~x2~r2008029-n1803284-db1204274-o2704014/"><img src="/variants/s18/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6~x2~r2008029-n1803284-db1204274-o2704014/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/">Ramada</a> ★</td><td></td><td><code>R/132 T2 DB2 R12 DG60 R12 DB2 T2 R6 DB32 R6 T2 DB2 R108 DG6 O2 R12 DG/12</code></td><td>680</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/"><img src="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/sett.png" alt="Ramada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6~x2~r2008029-n1803284-db1204274-o2704014/">Corporate Tartan</a></td><td>—</td><td><code>R/66 N1 DB1 R6 DG30 R6 DB1 N1 R3 DB16 R3 N1 DB1 R54 DG3 O1 R6 DG/6</code></td><td>—</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6~x2~r2008029-n1803284-db1204274-o2704014/"><img src="/variants/s18/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6~x2~r2008029-n1803284-db1204274-o2704014/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

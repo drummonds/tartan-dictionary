@@ -17,12 +17,12 @@ The **Port Authority of NY & NJ** tartan groups 2 setts — the same named desig
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb9db2lb39dbi33ly2dbi5~x2~db1106275-dbi1404245/">Port Authority of NY &amp; NJ</a> ★</td><td><code>LB/18 DB4 LB78 DBi66 LY4 DBi/10</code></td><td>332</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb9db2lb39dbi33ly2dbi5~x2~db1106275-dbi1404245/"><img src="/variants/s6/lb9db2lb39dbi33ly2dbi5~x2~db1106275-dbi1404245/sett.png" alt="Port Authority of NY &amp; NJ sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/">American Corporate Tartan</a></td><td><code>T/18 DB4 T78 DBi66 LY4 DBi/10</code></td><td>332</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/"><img src="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/sett.png" alt="American Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb9db2lb39dbi33ly2dbi5~x2~db1106275-dbi1404245/">Port Authority of NY &amp; NJ</a> ★</td><td></td><td><code>LB/18 DB4 LB78 DBi66 LY4 DBi/10</code></td><td>332</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb9db2lb39dbi33ly2dbi5~x2~db1106275-dbi1404245/"><img src="/variants/s6/lb9db2lb39dbi33ly2dbi5~x2~db1106275-dbi1404245/sett.png" alt="Port Authority of NY &amp; NJ sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/">American Corporate Tartan</a></td><td>0.16</td><td><code>T/18 DB4 T78 DBi66 LY4 DBi/10</code></td><td>332</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/"><img src="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/sett.png" alt="American Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

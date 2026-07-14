@@ -13,10 +13,10 @@ Its design is pattern [KBKBKBKBKBKBKBKBGKGKYKY](/stripes/kbkbkbkbkbkbkbkbgkgkyky
 The **Zibrant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3lo5k3lo5~x2/">Zibrant</a></td><td><code>K/16 N2 K6 N2 K16 DR18 K12 N8 K12 DR18 K16 N2 K6 N2 K16 N26 DY2 K26 Y10 K6 LO10 K6 LO/10</code></td><td>470</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3lo5k3lo5~x2/"><img src="/variants/s23/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3lo5k3lo5~x2/sett.png" alt="Zibrant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3lo5k3lo5~x2/">Zibrant</a></td><td></td><td><code>K/16 N2 K6 N2 K16 DR18 K12 N8 K12 DR18 K16 N2 K6 N2 K16 N26 DY2 K26 Y10 K6 LO10 K6 LO/10</code></td><td>470</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3lo5k3lo5~x2/"><img src="/variants/s23/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3lo5k3lo5~x2/sett.png" alt="Zibrant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

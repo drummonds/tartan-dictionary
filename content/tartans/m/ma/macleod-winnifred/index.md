@@ -16,10 +16,10 @@ Its design is pattern [KGKWR](/stripes/kgkwr/) — the page of every tartan shar
 The **Macleod, Winnifred** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k23y3k23w36r4~x2/">Macleod, Winnifred</a></td><td><code>K/46 Y6 K46 W72 R/8</code></td><td>302</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k23y3k23w36r4~x2/"><img src="/variants/s5/k23y3k23w36r4~x2/sett.png" alt="Macleod, Winnifred sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k23y3k23w36r4~x2/">Macleod, Winnifred</a></td><td></td><td><code>K/46 Y6 K46 W72 R/8</code></td><td>302</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k23y3k23w36r4~x2/"><img src="/variants/s5/k23y3k23w36r4~x2/sett.png" alt="Macleod, Winnifred sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

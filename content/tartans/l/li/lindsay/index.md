@@ -20,12 +20,12 @@ The **Lindsay** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dg24db3dg3db3dg3db9r24dg3r4~x2/">Lindsay</a> ★</td><td><code>DG/48 DB6 DG6 DB6 DG6 DB18 R48 DG6 R/8</code></td><td>248</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg24db3dg3db3dg3db9r24dg3r4~x2/"><img src="/variants/s9/dg24db3dg3db3dg3db9r24dg3r4~x2/sett.png" alt="Lindsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/dg24b3dg3b3dg3b9r24dg3r4~x2~dg1304144-r1506009/">Lindsay</a></td><td><code>DG/48 B6 DG6 B6 DG6 B18 R48 DG6 R/8</code></td><td>248</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dg24b3dg3b3dg3b9r24dg3r4~x2~dg1304144-r1506009/"><img src="/variants/s9/dg24b3dg3b3dg3b9r24dg3r4~x2~dg1304144-r1506009/sett.png" alt="Lindsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg24db3dg3db3dg3db9r24dg3r4~x2/">Lindsay</a> ★</td><td></td><td><code>DG/48 DB6 DG6 DB6 DG6 DB18 R48 DG6 R/8</code></td><td>248</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg24db3dg3db3dg3db9r24dg3r4~x2/"><img src="/variants/s9/dg24db3dg3db3dg3db9r24dg3r4~x2/sett.png" alt="Lindsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dg24b3dg3b3dg3b9r24dg3r4~x2~dg1304144-r1506009/">Lindsay</a></td><td>0.19</td><td><code>DG/48 B6 DG6 B6 DG6 B18 R48 DG6 R/8</code></td><td>248</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg24b3dg3b3dg3b9r24dg3r4~x2~dg1304144-r1506009/"><img src="/variants/s9/dg24b3dg3b3dg3b9r24dg3r4~x2~dg1304144-r1506009/sett.png" alt="Lindsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

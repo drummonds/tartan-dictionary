@@ -13,10 +13,10 @@ Its design is pattern [BRGRWRBRWBWBRWRGRBW](/stripes/brgrwrbrwbwbrwrgrbw/) — t
 The **Unidentified Scarlett** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/t5r30g26r5w1r5t32r30lb1t3lb1t31r5w1r5g26r32t5w1~x2/">Unidentified Scarlett</a></td><td><code>T/10 R60 G52 R10 W2 R10 T64 R60 LB2 T6 LB2 T62 R10 W2 R10 G52 R64 T10 W/2</code></td><td>968</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/t5r30g26r5w1r5t32r30lb1t3lb1t31r5w1r5g26r32t5w1~x2/"><img src="/variants/s19/t5r30g26r5w1r5t32r30lb1t3lb1t31r5w1r5g26r32t5w1~x2/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/t5r30g26r5w1r5t32r30lb1t3lb1t31r5w1r5g26r32t5w1~x2/">Unidentified Scarlett</a></td><td></td><td><code>T/10 R60 G52 R10 W2 R10 T64 R60 LB2 T6 LB2 T62 R10 W2 R10 G52 R64 T10 W/2</code></td><td>968</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/t5r30g26r5w1r5t32r30lb1t3lb1t31r5w1r5g26r32t5w1~x2/"><img src="/variants/s19/t5r30g26r5w1r5t32r30lb1t3lb1t31r5w1r5g26r32t5w1~x2/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

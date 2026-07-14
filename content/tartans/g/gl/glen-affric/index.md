@@ -16,10 +16,10 @@ Its design is pattern [GBBGBGBGBGBGK](/stripes/gbbgbgbgbgbgk/) — the page of e
 The **Glen Affric** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/">Glen Affric</a></td><td><code>K/8 G8 N40 G8 N28 G8 N28 G8 N20 G8 DR56 N4 G/8</code></td><td>448</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/"><img src="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/sett.png" alt="Glen Affric sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/">Glen Affric</a></td><td></td><td><code>K/8 G8 N40 G8 N28 G8 N28 G8 N20 G8 DR56 N4 G/8</code></td><td>448</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/"><img src="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/sett.png" alt="Glen Affric sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

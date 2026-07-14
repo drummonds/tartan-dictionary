@@ -13,10 +13,10 @@ Its design is pattern [BWBWBW](/stripes/bwbwbw/) — the page of every tartan sh
 The **Butties** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w93n6w13db35w12n6/">Butties</a></td><td><code>W/93 N6 W13 DB35 W12 N/6</code></td><td>231</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w93n6w13db35w12n6/"><img src="/variants/s6/w93n6w13db35w12n6/sett.png" alt="Butties sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w93n6w13db35w12n6/">Butties</a></td><td></td><td><code>W/93 N6 W13 DB35 W12 N/6</code></td><td>231</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w93n6w13db35w12n6/"><img src="/variants/s6/w93n6w13db35w12n6/sett.png" alt="Butties sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

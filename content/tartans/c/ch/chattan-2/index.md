@@ -18,10 +18,10 @@ Its design is pattern [RKWGWKRKRKWWKRKW](/stripes/rkwgwkrkrkwwkrkw/) — the pag
 The **Chattan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4/">Chattan</a></td><td><code>R/120 K4 W2 G32 W4 K7 R7 K2 R7 K7 W4 LB32 K8 R8 K12 W/4</code></td><td>396</td><td>1816</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4/"><img src="/variants/s16/r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4/sett.png" alt="Chattan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4/">Chattan</a></td><td></td><td><code>R/120 K4 W2 G32 W4 K7 R7 K2 R7 K7 W4 LB32 K8 R8 K12 W/4</code></td><td>396</td><td>1816</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4/"><img src="/variants/s16/r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4/sett.png" alt="Chattan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -17,17 +17,17 @@ The **Moncreiffe** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s2/r1g1~x100/">Moncreiffe</a> ★</td><td><code>R/1 G/1</code></td><td>2</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s2/r1g1~x100/"><img src="/variants/s2/r1g1~x100/sett.png" alt="Moncreiffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s2/r1g1/">Moncreiffe</a></td><td><code>R/1 G/1</code></td><td>2</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×50 — <a href="/variants/s2/r1g1~x50/">Moncreiffe</a></td><td><code>R/50 G/50</code></td><td>100</td><td>1819</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×80 — <a href="/variants/s2/r1g1~x80/">Glenlyon (District)</a></td><td><code>R/80 G/80</code></td><td>160</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/r1g1~x100/">Moncrieffe Lachlan (Clan)</a></td><td><code>R/100 G/100</code></td><td>200</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-variants">4 Variants: <a href="/variants/s2/r1g1/">Moncreiffe</a> · <a href="/variants/s2/r1g1~x100/">Moncrieffe Lachlan (Clan)</a> · <a href="/variants/s2/r1g1~x50/">Moncreiffe</a> · <a href="/variants/s2/r1g1~x80/">Glenlyon (District)</a></td></tr>
-<tr><td><a href="/variants/s2/r14g13~x2/">(MacLachlan) Clan Tartan</a></td><td><code>R/28 G/26</code></td><td>54</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s2/r14g13~x2/"><img src="/variants/s2/r14g13~x2/sett.png" alt="(MacLachlan) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s2/r1g1~x100/">Moncreiffe</a> ★</td><td></td><td><code>R/1 G/1</code></td><td>2</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s2/r1g1~x100/"><img src="/variants/s2/r1g1~x100/sett.png" alt="Moncreiffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s2/r1g1/">Moncreiffe</a></td><td>0.00</td><td><code>R/1 G/1</code></td><td>2</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×50 — <a href="/variants/s2/r1g1~x50/">Moncreiffe</a></td><td>0.00</td><td><code>R/50 G/50</code></td><td>100</td><td>1819</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×80 — <a href="/variants/s2/r1g1~x80/">Glenlyon (District)</a></td><td>0.00</td><td><code>R/80 G/80</code></td><td>160</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×100 — <a href="/variants/s2/r1g1~x100/">Moncrieffe Lachlan (Clan)</a></td><td>0.00</td><td><code>R/100 G/100</code></td><td>200</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-variants">4 Variants: <a href="/variants/s2/r1g1/">Moncreiffe</a> · <a href="/variants/s2/r1g1~x100/">Moncrieffe Lachlan (Clan)</a> · <a href="/variants/s2/r1g1~x50/">Moncreiffe</a> · <a href="/variants/s2/r1g1~x80/">Glenlyon (District)</a></td></tr>
+<tr><td><a href="/variants/s2/r14g13~x2/">(MacLachlan) Clan Tartan</a></td><td>0.09</td><td><code>R/28 G/26</code></td><td>54</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s2/r14g13~x2/"><img src="/variants/s2/r14g13~x2/sett.png" alt="(MacLachlan) Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

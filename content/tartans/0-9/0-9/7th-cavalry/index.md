@@ -13,10 +13,10 @@ Its design is pattern [BWGGWGGWRWBBGBBWR](/stripes/bwggwggwrwbbgbbwr/) — the p
 The **7th Cavalry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/">7th Cavalry</a></td><td><code>DT/62 W4 G4 Y2 W2 Y2 G4 W2 R10 W4 DT6 B4 G2 B4 DT6 W4 R/4</code></td><td>186</td><td>~1900</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/"><img src="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/sett.png" alt="7th Cavalry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/">7th Cavalry</a></td><td></td><td><code>DT/62 W4 G4 Y2 W2 Y2 G4 W2 R10 W4 DT6 B4 G2 B4 DT6 W4 R/4</code></td><td>186</td><td>~1900</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/"><img src="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/sett.png" alt="7th Cavalry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

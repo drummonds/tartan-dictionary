@@ -13,10 +13,10 @@ Its design is pattern [GGWGWGWGWG](/stripes/ggwgwgwgwg/) — the page of every t
 The **St. Patrick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/">St. Patrick</a></td><td><code>DY/8 DG4 W6 DG80 W6 DG6 W8 DG6 W26 DG/8</code></td><td>300</td><td>1971</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><img src="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/sett.png" alt="St. Patrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/">St. Patrick</a></td><td></td><td><code>DY/8 DG4 W6 DG80 W6 DG6 W8 DG6 W26 DG/8</code></td><td>300</td><td>1971</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><img src="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/sett.png" alt="St. Patrick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

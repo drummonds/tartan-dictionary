@@ -18,10 +18,10 @@ Its design is pattern [RBRBRBKGRKYKRGKBRBRBR](/stripes/rbrbrbkgrkykrgkbrbrbr/) â
 The **MacLagan of Glenquiech** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5~x2/">MacLagan of Glenquiech</a></td><td><code>R/18 DB10 R6 DB6 R6 DB56 K42 DG56 R4 K4 LY8 K4 R4 DG56 K42 DB56 R6 DB6 R6 DB10 R/10</code></td><td>804</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5~x2/"><img src="/variants/s21/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5~x2/sett.png" alt="MacLagan of Glenquiech sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5~x2/">MacLagan of Glenquiech</a></td><td></td><td><code>R/18 DB10 R6 DB6 R6 DB56 K42 DG56 R4 K4 LY8 K4 R4 DG56 K42 DB56 R6 DB6 R6 DB10 R/10</code></td><td>804</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5~x2/"><img src="/variants/s21/r9db5r3db3r3db28k21dg28r2k2ly4k2r2dg28k21db28r3db3r3db5r5~x2/sett.png" alt="MacLagan of Glenquiech sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

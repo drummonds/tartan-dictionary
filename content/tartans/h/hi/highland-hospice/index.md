@@ -16,10 +16,10 @@ Its design is pattern [GBGYGBGBGY](/stripes/gbgygbgbgy/) — the page of every t
 The **Highland Hospice** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/">Highland Hospice</a></td><td><code>G/102 DP6 G10 LY6 G10 DP10 G10 DP10 G10 LY/6</code></td><td>252</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/"><img src="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/sett.png" alt="Highland Hospice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/">Highland Hospice</a></td><td></td><td><code>G/102 DP6 G10 LY6 G10 DP10 G10 DP10 G10 LY/6</code></td><td>252</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/"><img src="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/sett.png" alt="Highland Hospice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

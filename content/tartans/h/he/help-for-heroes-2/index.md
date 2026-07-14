@@ -15,10 +15,10 @@ Charity tartan for Help for Heroes, woven by Lochcarron; colours represent UK Ar
 The **Help for Heroes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3~x2~lt3606171-db1007262-lr3200000/">Help for Heroes</a></td><td><code>R/12 LT50 DT20 DB2 DT10 DB4 DT8 DB6 DT6 DB6 DT4 DB8 DT2 DB32 LR12 DB/6</code></td><td>358</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3~x2~lt3606171-db1007262-lr3200000/"><img src="/variants/s16/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3~x2~lt3606171-db1007262-lr3200000/sett.png" alt="Help for Heroes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3~x2~lt3606171-db1007262-lr3200000/">Help for Heroes</a></td><td></td><td><code>R/12 LT50 DT20 DB2 DT10 DB4 DT8 DB6 DT6 DB6 DT4 DB8 DT2 DB32 LR12 DB/6</code></td><td>358</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3~x2~lt3606171-db1007262-lr3200000/"><img src="/variants/s16/r6lt25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lr6db3~x2~lt3606171-db1007262-lr3200000/sett.png" alt="Help for Heroes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

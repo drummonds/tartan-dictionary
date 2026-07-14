@@ -18,10 +18,10 @@ Its design is pattern [GRGGGGGRGGWG](/stripes/grgggggrggwg/) — the page of eve
 The **MacKinnon Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dy8w1dy8g8r1g8dy8g1dy8g8r1g8~x8/">MacKinnon Hunting</a></td><td><code>DY/64 W8 DY64 G64 R8 G64 DY64 G8 DY64 G64 R8 G/64</code></td><td>960</td><td>1959</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dy8w1dy8g8r1g8dy8g1dy8g8r1g8~x8/"><img src="/variants/s12/dy8w1dy8g8r1g8dy8g1dy8g8r1g8~x8/sett.png" alt="MacKinnon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dy8w1dy8g8r1g8dy8g1dy8g8r1g8~x8/">MacKinnon Hunting</a></td><td></td><td><code>DY/64 W8 DY64 G64 R8 G64 DY64 G8 DY64 G64 R8 G/64</code></td><td>960</td><td>1959</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dy8w1dy8g8r1g8dy8g1dy8g8r1g8~x8/"><img src="/variants/s12/dy8w1dy8g8r1g8dy8g1dy8g8r1g8~x8/sett.png" alt="MacKinnon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

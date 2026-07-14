@@ -13,10 +13,10 @@ Its design is pattern [RBRWYYWYYWRWYYWYYWRYYBW](/stripes/rbrwyywyywrwyywyywryybw
 The **B & Q** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/">B &amp; Q</a></td><td><code>R/12 N4 R12 W2 LR8 LY4 W2 LY4 LR8 W2 R10 W2 LR6 LY4 W2 LY4 LR6 W2 R80 LR10 LY6 N2 W/6</code></td><td>378</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/"><img src="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/sett.png" alt="B &amp; Q sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/">B &amp; Q</a></td><td></td><td><code>R/12 N4 R12 W2 LR8 LY4 W2 LY4 LR8 W2 R10 W2 LR6 LY4 W2 LY4 LR6 W2 R80 LR10 LY6 N2 W/6</code></td><td>378</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/"><img src="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/sett.png" alt="B &amp; Q sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

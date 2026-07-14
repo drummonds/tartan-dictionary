@@ -18,10 +18,10 @@ Its design is pattern [GWKRKWGKGKGKGKWKWKGKGKGKGWKGKWGKGKGKGKWKWKGKGKGK](/stripe
 The **Recovery dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s48/ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1y1k1w8g1ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1r1k1w8g1~x4~ki0604259/">Recovery dress</a></td><td><code>Ki/4 G4 Ki4 G4 Ki4 G4 Ki32 W4 Ki8 W4 Ki32 G4 Ki4 G4 Ki4 G4 Ki4 G4 W32 K4 Y4 K4 W32 G4 Ki4 G4 Ki4 G4 Ki4 G4 Ki32 W4 Ki8 W4 Ki32 G4 Ki4 G4 Ki4 G4 Ki4 G4 W32 K4 R4 K4 W32 G/4</code></td><td>840</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s48/ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1y1k1w8g1ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1r1k1w8g1~x4~ki0604259/"><img src="/variants/s48/ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1y1k1w8g1ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1r1k1w8g1~x4~ki0604259/sett.png" alt="Recovery dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s48/ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1y1k1w8g1ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1r1k1w8g1~x4~ki0604259/">Recovery dress</a></td><td></td><td><code>Ki/4 G4 Ki4 G4 Ki4 G4 Ki32 W4 Ki8 W4 Ki32 G4 Ki4 G4 Ki4 G4 Ki4 G4 W32 K4 Y4 K4 W32 G4 Ki4 G4 Ki4 G4 Ki4 G4 Ki32 W4 Ki8 W4 Ki32 G4 Ki4 G4 Ki4 G4 Ki4 G4 W32 K4 R4 K4 W32 G/4</code></td><td>840</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s48/ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1y1k1w8g1ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1r1k1w8g1~x4~ki0604259/"><img src="/variants/s48/ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1y1k1w8g1ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1r1k1w8g1~x4~ki0604259/sett.png" alt="Recovery dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

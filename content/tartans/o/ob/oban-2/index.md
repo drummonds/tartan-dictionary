@@ -18,10 +18,10 @@ Its design is pattern [KBBBKBBGBKWBK](/stripes/kbbbkbbgbkwbk/) — the page of e
 The **Oban** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2dr1db9dr2k7db2dr6g6dr2k12lb1n1k1~x4/">Oban</a></td><td><code>K/8 DR4 DB36 DR8 K28 DB8 DR24 G24 DR8 K48 LB4 N4 K/4</code></td><td>404</td><td>1963</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2dr1db9dr2k7db2dr6g6dr2k12lb1n1k1~x4/"><img src="/variants/s13/k2dr1db9dr2k7db2dr6g6dr2k12lb1n1k1~x4/sett.png" alt="Oban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k2dr1db9dr2k7db2dr6g6dr2k12lb1n1k1~x4/">Oban</a></td><td></td><td><code>K/8 DR4 DB36 DR8 K28 DB8 DR24 G24 DR8 K48 LB4 N4 K/4</code></td><td>404</td><td>1963</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2dr1db9dr2k7db2dr6g6dr2k12lb1n1k1~x4/"><img src="/variants/s13/k2dr1db9dr2k7db2dr6g6dr2k12lb1n1k1~x4/sett.png" alt="Oban sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

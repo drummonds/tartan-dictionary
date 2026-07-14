@@ -13,10 +13,10 @@ Its design is pattern [BBWBWBGBRBGB](/stripes/bbwbwbgbrbgb/) — the page of eve
 The **Scottish Parliament** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/">Scottish Parliament</a></td><td><code>N/45 G3 DB7 R2 DB7 G3 N4 W2 DP36 W2 N11 DB/4</code></td><td>203</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><img src="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/sett.png" alt="Scottish Parliament sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/">Scottish Parliament</a></td><td></td><td><code>N/45 G3 DB7 R2 DB7 G3 N4 W2 DP36 W2 N11 DB/4</code></td><td>203</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><img src="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/sett.png" alt="Scottish Parliament sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

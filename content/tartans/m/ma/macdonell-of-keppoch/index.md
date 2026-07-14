@@ -18,10 +18,10 @@ Its design is pattern [RBRGRBRBRGR](/stripes/rbrgrbrbrgr/) — the page of every
 The **MacDonell of Keppoch** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/">MacDonell of Keppoch</a></td><td><code>R/16 G4 R12 DB2 R4 DB2 R16 G24 R28 DB2 R/4</code></td><td>208</td><td>1893</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/"><img src="/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/">MacDonell of Keppoch</a></td><td></td><td><code>R/16 G4 R12 DB2 R4 DB2 R16 G24 R28 DB2 R/4</code></td><td>208</td><td>1893</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/"><img src="/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

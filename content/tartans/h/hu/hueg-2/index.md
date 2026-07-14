@@ -18,10 +18,10 @@ Its design is pattern [BBBGRGRBRWR](/stripes/bbbgrgrbrwr/) — the page of every
 The **Hueg** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/">Hueg</a></td><td><code>R/8 W8 R10 T8 R24 DG8 R24 G16 T26 DB6 T/8</code></td><td>276</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/"><img src="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/sett.png" alt="Hueg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/">Hueg</a></td><td></td><td><code>R/8 W8 R10 T8 R24 DG8 R24 G16 T26 DB6 T/8</code></td><td>276</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/"><img src="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/sett.png" alt="Hueg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

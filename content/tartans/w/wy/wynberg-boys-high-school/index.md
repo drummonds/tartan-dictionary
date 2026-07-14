@@ -13,10 +13,10 @@ Its design is pattern [WBWGKYWBW](/stripes/wbwgkywbw/) — the page of every tar
 The **Wynberg Boys' High School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/">Wynberg Boys' High School</a></td><td><code>W/4 DR13 LB54 DG22 K4 LY20 LB48 DR13 W/4</code></td><td>356</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/"><img src="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/sett.png" alt="Wynberg Boys' High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/">Wynberg Boys' High School</a></td><td></td><td><code>W/4 DR13 LB54 DG22 K4 LY20 LB48 DR13 W/4</code></td><td>356</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/"><img src="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/sett.png" alt="Wynberg Boys' High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Designed by Anthony Thomson in 2005 for a silk stole, later made into a heavywei
 The **Phinn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/">Phinn</a></td><td><code>DG/110 DGi30 DR40 Y20 W/20</code></td><td>310</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><img src="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/sett.png" alt="Phinn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/">Phinn</a></td><td></td><td><code>DG/110 DGi30 DR40 Y20 W/20</code></td><td>310</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><img src="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/sett.png" alt="Phinn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

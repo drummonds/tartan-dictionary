@@ -18,10 +18,10 @@ Its design is pattern [GKGWYKYG](/stripes/gkgwykyg/) — the page of every tarta
 The **Daks** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/">Daks</a></td><td><code>DY/6 K14 DY4 W4 LY24 K4 LY4 DY/6</code></td><td>120</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/"><img src="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/">Daks</a></td><td></td><td><code>DY/6 K14 DY4 W4 LY24 K4 LY4 DY/6</code></td><td>120</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/"><img src="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

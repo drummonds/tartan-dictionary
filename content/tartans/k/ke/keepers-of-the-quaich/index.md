@@ -13,11 +13,11 @@ Its design is pattern [GBGBGY](/stripes/gbgbgy/) — the page of every tartan sh
 The **Keepers of the Quaich** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2/">Keepers of the Quaich</a></td><td><code>LO/6 DY66 DB48 DY4 DB4 DY/4</code></td><td>254</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2/"><img src="/variants/s6/lo3dy33db24dy2db2dy2~x2/sett.png" alt="Keepers of the Quaich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s6/lo3dy33db24dy2db2dy2~x2/">(Corporate)</a> · <a href="/variants/s6/lo3dy33db24dy2db2dy2~x2~db1406275/">Keepers of the Quaich</a></td></tr>
+<tr><td><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2/">Keepers of the Quaich</a></td><td></td><td><code>LO/6 DY66 DB48 DY4 DB4 DY/4</code></td><td>254</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2/"><img src="/variants/s6/lo3dy33db24dy2db2dy2~x2/sett.png" alt="Keepers of the Quaich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/lo3dy33db24dy2db2dy2~x2/">(Corporate)</a> · <a href="/variants/s6/lo3dy33db24dy2db2dy2~x2~db1406275/">Keepers of the Quaich</a></td></tr>
 </tbody>
 </table>
 

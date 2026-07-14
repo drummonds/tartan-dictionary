@@ -13,10 +13,10 @@ Its design is pattern [GRWGGWG](/stripes/grwggwg/) — the page of every tartan 
 The **Deer Park** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g60r7w10dg16g15w3g15~x2/">Deer Park</a></td><td><code>G/120 R14 W20 DG32 G30 W6 G/30</code></td><td>354</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g60r7w10dg16g15w3g15~x2/"><img src="/variants/s7/g60r7w10dg16g15w3g15~x2/sett.png" alt="Deer Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g60r7w10dg16g15w3g15~x2/">Deer Park</a></td><td></td><td><code>G/120 R14 W20 DG32 G30 W6 G/30</code></td><td>354</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g60r7w10dg16g15w3g15~x2/"><img src="/variants/s7/g60r7w10dg16g15w3g15~x2/sett.png" alt="Deer Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

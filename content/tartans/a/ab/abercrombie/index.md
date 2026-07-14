@@ -20,16 +20,16 @@ The **Abercrombie** tartan groups 2 setts — the same named design recorded as 
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/">Abercrombie</a> ★</td><td><code>G/14 W1 G7 K7 DB2 K2 DB2 K2 DB/7</code></td><td>67</td><td>1805</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/"><img src="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/sett.png" alt="Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/g14w1g7k7db2k2db2k2db7/">Abercrombie</a></td><td><code>G/14 W1 G7 K7 DB2 K2 DB2 K2 DB/7</code></td><td>67</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x2/">Abercrombie</a></td><td><code>G/28 W2 G14 K14 DB4 K4 DB4 K4 DB/14</code></td><td>134</td><td>1831</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/">Abercrombie</a></td><td><code>G/56 W4 G28 K28 DB8 K8 DB8 K8 DB/28</code></td><td>268</td><td>1805</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s9/g14w1g7k7db2k2db2k2db7/">Abercrombie</a> · <a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x2/">Abercrombie</a> · <a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/">Abercrombie</a></td></tr>
-<tr><td><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/">Abercrombie</a></td><td><code>DB/28 K8 DB8 K8 DB8 K28 G28 W4 G/28</code></td><td>240</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/"><img src="db7k2db2k2db2k7g7w1g7-rev.png" alt="Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/">Abercrombie</a> ★</td><td></td><td><code>G/14 W1 G7 K7 DB2 K2 DB2 K2 DB/7</code></td><td>67</td><td>1805</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/"><img src="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/sett.png" alt="Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s9/g14w1g7k7db2k2db2k2db7/">Abercrombie</a></td><td>0.00</td><td><code>G/14 W1 G7 K7 DB2 K2 DB2 K2 DB/7</code></td><td>67</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x2/">Abercrombie</a></td><td>0.00</td><td><code>G/28 W2 G14 K14 DB4 K4 DB4 K4 DB/14</code></td><td>134</td><td>1831</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/">Abercrombie</a></td><td>0.00</td><td><code>G/56 W4 G28 K28 DB8 K8 DB8 K8 DB/28</code></td><td>268</td><td>1805</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s9/g14w1g7k7db2k2db2k2db7/">Abercrombie</a> · <a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x2/">Abercrombie</a> · <a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/">Abercrombie</a></td></tr>
+<tr><td><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/">Abercrombie</a></td><td>0.41</td><td><code>DB/28 K8 DB8 K8 DB8 K28 G28 W4 G/28</code></td><td>240</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/"><img src="db7k2db2k2db2k7g7w1g7-rev.png" alt="Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

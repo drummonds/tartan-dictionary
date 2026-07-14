@@ -18,10 +18,10 @@ Its design is pattern [WBKGKYKGKBW](/stripes/wbkgkykgkbw/) — the page of every
 The **MacNeil** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/">MacNeil</a></td><td><code>W/8 DB48 K48 G48 K20 LY4 K20 G48 K48 DB48 W/4</code></td><td>676</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><img src="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/sett.png" alt="MacNeil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/">MacNeil</a></td><td></td><td><code>W/8 DB48 K48 G48 K20 LY4 K20 G48 K48 DB48 W/4</code></td><td>676</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><img src="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/sett.png" alt="MacNeil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Red derived from the Sempill chevron; based on Forbes with white changed to ligh
 The **Sempill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s30/k3db19k15r2g19k1t3k1g19k15db3k3db3k3db22k3db3k3db3k15g19k1t3k1g19r2k15db19k3db3~x2~t2503227/">Sempill</a></td><td><code>K/6 DB38 K30 R4 G38 K2 T6 K2 G38 K30 DB6 K6 DB6 K6 DB44 K6 DB6 K6 DB6 K30 G38 K2 T6 K2 G38 R4 K30 DB38 K6 DB/6</code></td><td>960</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s30/k3db19k15r2g19k1t3k1g19k15db3k3db3k3db22k3db3k3db3k15g19k1t3k1g19r2k15db19k3db3~x2~t2503227/"><img src="/variants/s30/k3db19k15r2g19k1t3k1g19k15db3k3db3k3db22k3db3k3db3k15g19k1t3k1g19r2k15db19k3db3~x2~t2503227/sett.png" alt="Sempill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s30/k3db19k15r2g19k1t3k1g19k15db3k3db3k3db22k3db3k3db3k15g19k1t3k1g19r2k15db19k3db3~x2~t2503227/">Sempill</a></td><td></td><td><code>K/6 DB38 K30 R4 G38 K2 T6 K2 G38 K30 DB6 K6 DB6 K6 DB44 K6 DB6 K6 DB6 K30 G38 K2 T6 K2 G38 R4 K30 DB38 K6 DB/6</code></td><td>960</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s30/k3db19k15r2g19k1t3k1g19k15db3k3db3k3db22k3db3k3db3k15g19k1t3k1g19r2k15db19k3db3~x2~t2503227/"><img src="/variants/s30/k3db19k15r2g19k1t3k1g19k15db3k3db3k3db22k3db3k3db3k15g19k1t3k1g19r2k15db19k3db3~x2~t2503227/sett.png" alt="Sempill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

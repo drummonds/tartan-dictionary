@@ -13,10 +13,10 @@ Its design is pattern [GBGGGGGYGGGGG](/stripes/gbgggggyggggg/) — the page of e
 The **O'Neill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5~x2/">O'Neill</a></td><td><code>DG/48 G4 DG8 G32 DG2 LR4 DG2 G32 DG6 Y2 DG24 N4 DG/10</code></td><td>298</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5~x2/"><img src="/variants/s13/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5~x2/sett.png" alt="O'Neill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5~x2/">O'Neill</a></td><td></td><td><code>DG/48 G4 DG8 G32 DG2 LR4 DG2 G32 DG6 Y2 DG24 N4 DG/10</code></td><td>298</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5~x2/"><img src="/variants/s13/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5~x2/sett.png" alt="O'Neill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

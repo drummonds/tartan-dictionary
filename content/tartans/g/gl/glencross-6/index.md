@@ -18,10 +18,10 @@ Its design is pattern [GGBGBGBGBGBGW](/stripes/ggbgbgbgbgbgw/) — the page of e
 The **Glencross** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w3dg35db3dg2db3dg10dr3dg2dr3dg2dr3dg10y2~x2/">Glencross</a></td><td><code>W/6 DG70 DB6 DG4 DB6 DG20 DR6 DG4 DR6 DG4 DR6 DG20 Y/4</code></td><td>314</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w3dg35db3dg2db3dg10dr3dg2dr3dg2dr3dg10y2~x2/"><img src="/variants/s13/w3dg35db3dg2db3dg10dr3dg2dr3dg2dr3dg10y2~x2/sett.png" alt="Glencross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w3dg35db3dg2db3dg10dr3dg2dr3dg2dr3dg10y2~x2/">Glencross</a></td><td></td><td><code>W/6 DG70 DB6 DG4 DB6 DG20 DR6 DG4 DR6 DG4 DR6 DG20 Y/4</code></td><td>314</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w3dg35db3dg2db3dg10dr3dg2dr3dg2dr3dg10y2~x2/"><img src="/variants/s13/w3dg35db3dg2db3dg10dr3dg2dr3dg2dr3dg10y2~x2/sett.png" alt="Glencross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

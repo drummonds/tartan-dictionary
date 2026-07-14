@@ -15,10 +15,10 @@ Designed 1997 by Kenneth Dalgleish of D C Dalgleish, Selkirk; promoted and copyr
 The **Pride of Scotland General** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/">Pride of Scotland General</a></td><td><code>DG/16 DPi4 DP4 DG6 DP32 DG4 K4 DG2 K32 DB60 W/4</code></td><td>316</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/"><img src="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/sett.png" alt="Pride of Scotland General sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/">Pride of Scotland General</a></td><td></td><td><code>DG/16 DPi4 DP4 DG6 DP32 DG4 K4 DG2 K32 DB60 W/4</code></td><td>316</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/"><img src="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/sett.png" alt="Pride of Scotland General sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

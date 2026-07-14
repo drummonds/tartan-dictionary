@@ -16,10 +16,10 @@ Its design is pattern [KYBYKBW](/stripes/kybykbw/) — the page of every tartan 
 The **Grahame Laurie Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k8ly2dp6ly2k36db84w7/">Grahame Laurie Band</a></td><td><code>K/8 LY2 DP6 LY2 K36 DB84 W/7</code></td><td>275</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><img src="/variants/s7/k8ly2dp6ly2k36db84w7/sett.png" alt="Grahame Laurie Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k8ly2dp6ly2k36db84w7/">Grahame Laurie Band</a></td><td></td><td><code>K/8 LY2 DP6 LY2 K36 DB84 W/7</code></td><td>275</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><img src="/variants/s7/k8ly2dp6ly2k36db84w7/sett.png" alt="Grahame Laurie Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RRWRWRRRWRWBGKBW](/stripes/rrwrwrrrwrwbgkbw/) — the pag
 The **Palmer, General W.J.** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/">Palmer, General W.J.</a></td><td><code>R/8 O4 W4 O46 W4 O4 R8 O4 W4 O4 W24 DB12 Y4 K8 N4 W/4</code></td><td>280</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/"><img src="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/sett.png" alt="Palmer, General W.J. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/">Palmer, General W.J.</a></td><td></td><td><code>R/8 O4 W4 O46 W4 O4 R8 O4 W4 O4 W24 DB12 Y4 K8 N4 W/4</code></td><td>280</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/"><img src="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/sett.png" alt="Palmer, General W.J. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

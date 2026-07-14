@@ -15,10 +15,10 @@ Designed 2009 by Jane Patterson, named for her emigrant grandfather; colours sym
 The **Patterson William John Magee** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/">Patterson William John Magee</a></td><td><code>DB/18 N6 DB4 LR4 DB18 N12 DB6 LR6 DB6 G36 DG16 R/4</code></td><td>250</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/"><img src="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/sett.png" alt="Patterson William John Magee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/">Patterson William John Magee</a></td><td></td><td><code>DB/18 N6 DB4 LR4 DB18 N12 DB6 LR6 DB6 G36 DG16 R/4</code></td><td>250</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/"><img src="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/sett.png" alt="Patterson William John Magee sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

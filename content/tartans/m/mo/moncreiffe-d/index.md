@@ -14,13 +14,13 @@ The **Moncreiffe D** tartan is one sett, recorded at 2 scales — the same propo
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/r1g1r1/">Moncreiffe D</a></td><td><code>R/1 G1 R/1</code></td><td>4</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/r1g1r1/"><img src="/variants/s3/r1g1r1/sett.png" alt="Moncreiffe D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s3/r1g1r1/">Moncreiffe D</a></td><td><code>R/1 G1 R/1</code></td><td>4</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s3/r1g1r1~x2/">Moncreiffe D</a></td><td><code>R/2 G2 R/2</code></td><td>8</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s3/r1g1r1/">Moncreiffe D</a> · <a href="/variants/s3/r1g1r1~x2/">Moncreiffe D</a></td></tr>
+<tr><td><a href="/variants/s3/r1g1r1/">Moncreiffe D</a></td><td></td><td><code>R/1 G1 R/1</code></td><td>4</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/r1g1r1/"><img src="/variants/s3/r1g1r1/sett.png" alt="Moncreiffe D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s3/r1g1r1/">Moncreiffe D</a></td><td>0.00</td><td><code>R/1 G1 R/1</code></td><td>4</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s3/r1g1r1~x2/">Moncreiffe D</a></td><td>0.00</td><td><code>R/2 G2 R/2</code></td><td>8</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s3/r1g1r1/">Moncreiffe D</a> · <a href="/variants/s3/r1g1r1~x2/">Moncreiffe D</a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GKRKRKGRGRGYBYBWYWYW](/stripes/gkrkrkgrgrgybybwywyw/) —
 The **Spice of Life** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4~ly3202111-w3601060/">Spice of Life</a></td><td><code>G/40 K4 R4 K12 R4 K4 G4 R4 G12 R4 G4 LY4 N12 LY4 N4 W4 LY12 W4 LY4 W/40</code></td><td>288</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4~ly3202111-w3601060/"><img src="/variants/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4~ly3202111-w3601060/sett.png" alt="Spice of Life sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4~ly3202111-w3601060/">Spice of Life</a></td><td></td><td><code>G/40 K4 R4 K12 R4 K4 G4 R4 G12 R4 G4 LY4 N12 LY4 N4 W4 LY12 W4 LY4 W/40</code></td><td>288</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4~ly3202111-w3601060/"><img src="/variants/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4~ly3202111-w3601060/sett.png" alt="Spice of Life sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BKBKGGGKWKWKW](/stripes/bkbkgggkwkwkw/) — the page of e
 The **Gordon Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w20k3w3k3w3k16g17y5g17k16db16k3db3~x2/">Gordon Dress</a></td><td><code>W/40 K6 W6 K6 W6 K32 G34 Y10 G34 K32 DB32 K6 DB/6</code></td><td>454</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w20k3w3k3w3k16g17y5g17k16db16k3db3~x2/"><img src="/variants/s13/w20k3w3k3w3k16g17y5g17k16db16k3db3~x2/sett.png" alt="Gordon Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w20k3w3k3w3k16g17y5g17k16db16k3db3~x2/">Gordon Dress</a></td><td></td><td><code>W/40 K6 W6 K6 W6 K32 G34 Y10 G34 K32 DB32 K6 DB/6</code></td><td>454</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w20k3w3k3w3k16g17y5g17k16db16k3db3~x2/"><img src="/variants/s13/w20k3w3k3w3k16g17y5g17k16db16k3db3~x2/sett.png" alt="Gordon Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

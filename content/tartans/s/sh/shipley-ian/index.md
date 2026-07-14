@@ -13,10 +13,10 @@ Its design is pattern [BGBGBKGBGGBKBRBGBGBKBGGBGKBGBGBGRG](/stripes/bgbgbkgbggbk
 The **Shipley, Ian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s34/dg3r3dg3db3g13db5g3db5k9dg3db3dg3g6db3k3db16y3db3dg3db3r3db16k3db3g6dg3db3dg3k9db5g3db5g13db3~x2/">Shipley, Ian</a></td><td><code>DG/6 R6 DG6 DB6 G26 DB10 G6 DB10 K18 DG6 DB6 DG6 G12 DB6 K6 DB32 Y6 DB6 DG6 DB6 R6 DB32 K6 DB6 G12 DG6 DB6 DG6 K18 DB10 G6 DB10 G26 DB/6</code></td><td>684</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s34/dg3r3dg3db3g13db5g3db5k9dg3db3dg3g6db3k3db16y3db3dg3db3r3db16k3db3g6dg3db3dg3k9db5g3db5g13db3~x2/"><img src="/variants/s34/dg3r3dg3db3g13db5g3db5k9dg3db3dg3g6db3k3db16y3db3dg3db3r3db16k3db3g6dg3db3dg3k9db5g3db5g13db3~x2/sett.png" alt="Shipley, Ian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s34/dg3r3dg3db3g13db5g3db5k9dg3db3dg3g6db3k3db16y3db3dg3db3r3db16k3db3g6dg3db3dg3k9db5g3db5g13db3~x2/">Shipley, Ian</a></td><td></td><td><code>DG/6 R6 DG6 DB6 G26 DB10 G6 DB10 K18 DG6 DB6 DG6 G12 DB6 K6 DB32 Y6 DB6 DG6 DB6 R6 DB32 K6 DB6 G12 DG6 DB6 DG6 K18 DB10 G6 DB10 G26 DB/6</code></td><td>684</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s34/dg3r3dg3db3g13db5g3db5k9dg3db3dg3g6db3k3db16y3db3dg3db3r3db16k3db3g6dg3db3dg3k9db5g3db5g13db3~x2/"><img src="/variants/s34/dg3r3dg3db3g13db5g3db5k9dg3db3dg3g6db3k3db16y3db3dg3db3r3db16k3db3g6dg3db3dg3k9db5g3db5g13db3~x2/sett.png" alt="Shipley, Ian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

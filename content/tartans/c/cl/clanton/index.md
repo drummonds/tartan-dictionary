@@ -13,10 +13,10 @@ Its design is pattern [BBBKBBBKB](/stripes/bbbkbbbkb/) — the page of every tar
 The **Clanton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/">Clanton</a></td><td><code>DP/4 K8 DR28 N16 DR8 K16 DR28 N8 DP/4</code></td><td>232</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/"><img src="/variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/sett.png" alt="Clanton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/">Clanton</a></td><td></td><td><code>DP/4 K8 DR28 N16 DR8 K16 DR28 N8 DP/4</code></td><td>232</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/"><img src="/variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/sett.png" alt="Clanton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

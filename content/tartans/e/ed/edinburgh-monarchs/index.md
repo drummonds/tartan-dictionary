@@ -16,10 +16,10 @@ Its design is pattern [BBBBBBBY](/stripes/bbbbbbby/) — the page of every tarta
 The **Edinburgh Monarchs** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/">Edinburgh Monarchs</a></td><td><code>DT/10 DB8 DR2 DB28 DT28 DR2 DT10 LO/6</code></td><td>172</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><img src="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/sett.png" alt="Edinburgh Monarchs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/">Edinburgh Monarchs</a></td><td></td><td><code>DT/10 DB8 DR2 DB28 DT28 DR2 DT10 LO/6</code></td><td>172</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><img src="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/sett.png" alt="Edinburgh Monarchs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

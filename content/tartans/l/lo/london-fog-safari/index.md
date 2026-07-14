@@ -13,10 +13,10 @@ Its design is pattern [BWKWKW](/stripes/bwkwkw/) — the page of every tartan sh
 The **London Fog Safari** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/lb10k2w5k4lb50t2~x2/">London Fog Safari</a></td><td><code>LB/20 K4 W10 K8 LB100 T/4</code></td><td>268</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb10k2w5k4lb50t2~x2/"><img src="/variants/s6/lb10k2w5k4lb50t2~x2/sett.png" alt="London Fog Safari sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb10k2w5k4lb50t2~x2/">London Fog Safari</a></td><td></td><td><code>LB/20 K4 W10 K8 LB100 T/4</code></td><td>268</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb10k2w5k4lb50t2~x2/"><img src="/variants/s6/lb10k2w5k4lb50t2~x2/sett.png" alt="London Fog Safari sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

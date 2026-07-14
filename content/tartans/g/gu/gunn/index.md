@@ -18,10 +18,10 @@ Its design is pattern [GBGKGRGKGBG](/stripes/gbgkgrgkgbg/) — the page of every
 The **Gunn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g4db28g1k28g28r4g28k28g2db28g1~x2/">Gunn</a></td><td><code>G/8 DB56 G2 K56 G56 R8 G56 K56 G4 DB56 G/2</code></td><td>710</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g4db28g1k28g28r4g28k28g2db28g1~x2/"><img src="/variants/s11/g4db28g1k28g28r4g28k28g2db28g1~x2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g4db28g1k28g28r4g28k28g2db28g1~x2/">Gunn</a></td><td></td><td><code>G/8 DB56 G2 K56 G56 R8 G56 K56 G4 DB56 G/2</code></td><td>710</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g4db28g1k28g28r4g28k28g2db28g1~x2/"><img src="/variants/s11/g4db28g1k28g28r4g28k28g2db28g1~x2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

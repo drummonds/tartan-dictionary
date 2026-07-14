@@ -18,10 +18,10 @@ Its design is pattern [KGYGY](/stripes/kgygy/) — the page of every tartan shar
 The **Perry Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/k75g26lr2g4lo5~x2/">Perry Hunting</a></td><td><code>K/150 G52 LR4 G8 LO/10</code></td><td>288</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/k75g26lr2g4lo5~x2/"><img src="/variants/s5/k75g26lr2g4lo5~x2/sett.png" alt="Perry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k75g26lr2g4lo5~x2/">Perry Hunting</a></td><td></td><td><code>K/150 G52 LR4 G8 LO/10</code></td><td>288</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/k75g26lr2g4lo5~x2/"><img src="/variants/s5/k75g26lr2g4lo5~x2/sett.png" alt="Perry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **Hyndman** tartan groups 2 setts — the same named design recorded as diff
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/t4r2t3r4t8g4y2g2k2t6r4t2r2w2~x4~w4000000/">Hyndman</a> ★</td><td><code>T/16 R8 T12 R16 T32 G16 Y8 G8 K8 T24 R16 T8 R8 W/8</code></td><td>352</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/t4r2t3r4t8g4y2g2k2t6r4t2r2w2~x4~w4000000/"><img src="/variants/s14/t4r2t3r4t8g4y2g2k2t6r4t2r2w2~x4~w4000000/sett.png" alt="Hyndman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/t4r2t3r4t8g4lo2g2k2t6r4t2r2w2~x4/">(Name)</a></td><td><code>T/16 R8 T12 R16 T32 G16 LO8 G8 K8 T24 R16 T8 R8 W/8</code></td><td>352</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/t4r2t3r4t8g4lo2g2k2t6r4t2r2w2~x4/"><img src="/variants/s14/t4r2t3r4t8g4lo2g2k2t6r4t2r2w2~x4/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/t4r2t3r4t8g4y2g2k2t6r4t2r2w2~x4~w4000000/">Hyndman</a> ★</td><td></td><td><code>T/16 R8 T12 R16 T32 G16 Y8 G8 K8 T24 R16 T8 R8 W/8</code></td><td>352</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/t4r2t3r4t8g4y2g2k2t6r4t2r2w2~x4~w4000000/"><img src="/variants/s14/t4r2t3r4t8g4y2g2k2t6r4t2r2w2~x4~w4000000/sett.png" alt="Hyndman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/t4r2t3r4t8g4lo2g2k2t6r4t2r2w2~x4/">(Name)</a></td><td>0.30</td><td><code>T/16 R8 T12 R16 T32 G16 LO8 G8 K8 T24 R16 T8 R8 W/8</code></td><td>352</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/t4r2t3r4t8g4lo2g2k2t6r4t2r2w2~x4/"><img src="/variants/s14/t4r2t3r4t8g4lo2g2k2t6r4t2r2w2~x4/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

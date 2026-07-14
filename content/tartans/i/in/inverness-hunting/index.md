@@ -18,10 +18,10 @@ Its design is pattern [BBWBYBYB](/stripes/bbwbybyb/) — the page of every tarta
 The **Inverness Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/">Inverness Hunting</a></td><td><code>DB/122 DR12 W4 DR16 LO4 DB6 LO4 DB/30</code></td><td>244</td><td>~1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/"><img src="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/sett.png" alt="Inverness Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/">Inverness Hunting</a></td><td></td><td><code>DB/122 DR12 W4 DR16 LO4 DB6 LO4 DB/30</code></td><td>244</td><td>~1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/"><img src="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/sett.png" alt="Inverness Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

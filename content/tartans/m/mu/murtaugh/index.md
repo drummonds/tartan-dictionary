@@ -18,10 +18,10 @@ Its design is pattern [KRWKYKWBKBKWYGYWYGYKR](/stripes/krwkykwbkbkwygywygykr/) â
 The **Murtaugh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2~x2/">Murtaugh</a></td><td><code>R/8 K8 LO8 Y4 LO4 W4 LO4 Y4 LO4 W4 K8 DB6 K4 DB48 W4 K4 LO6 K6 W4 R8 K/4</code></td><td>296</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2~x2/"><img src="/variants/s21/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2~x2/sett.png" alt="Murtaugh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2~x2/">Murtaugh</a></td><td></td><td><code>R/8 K8 LO8 Y4 LO4 W4 LO4 Y4 LO4 W4 K8 DB6 K4 DB48 W4 K4 LO6 K6 W4 R8 K/4</code></td><td>296</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2~x2/"><img src="/variants/s21/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2~x2/sett.png" alt="Murtaugh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

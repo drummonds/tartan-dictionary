@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKRKWKRKBKR](/stripes/bkbkbkrkwkrkbkr/) — the page 
 The **Clan Pipers Frankfurt and District Pipe Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/">Clan Pipers Frankfurt and District Pipe Band</a></td><td><code>DB/43 K4 DB4 K4 DB4 K26 R32 K4 W10 K4 R32 K26 DB32 K4 R/10</code></td><td>425</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"><img src="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/sett.png" alt="Clan Pipers Frankfurt and District Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/">Clan Pipers Frankfurt and District Pipe Band</a></td><td></td><td><code>DB/43 K4 DB4 K4 DB4 K26 R32 K4 W10 K4 R32 K26 DB32 K4 R/10</code></td><td>425</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"><img src="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/sett.png" alt="Clan Pipers Frankfurt and District Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

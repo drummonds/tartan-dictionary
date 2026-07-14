@@ -15,10 +15,10 @@ Personal tartan recorded in 2003; the unusual "M'Kleod" spelling prompted a quer
 The **M'Kleod** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/">M'Kleod</a></td><td><code>N/36 K6 G6 R4 W6 DB72 K4 Y/12</code></td><td>244</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><img src="/variants/s8/n18k3g3r2w3db36k2y6~x2/sett.png" alt="M'Kleod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/">M'Kleod</a></td><td></td><td><code>N/36 K6 G6 R4 W6 DB72 K4 Y/12</code></td><td>244</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><img src="/variants/s8/n18k3g3r2w3db36k2y6~x2/sett.png" alt="M'Kleod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

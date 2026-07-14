@@ -13,10 +13,10 @@ Its design is pattern [BGBRBKW](/stripes/bgbrbkw/) — the page of every tartan 
 The **Mensa** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/">Mensa</a></td><td><code>LB/6 K38 DB48 R4 DB4 Y4 DB/4</code></td><td>206</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><img src="/variants/s7/lb3k19db24r2db2y2db2~x2/sett.png" alt="Mensa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/">Mensa</a></td><td></td><td><code>LB/6 K38 DB48 R4 DB4 Y4 DB/4</code></td><td>206</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><img src="/variants/s7/lb3k19db24r2db2y2db2~x2/sett.png" alt="Mensa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

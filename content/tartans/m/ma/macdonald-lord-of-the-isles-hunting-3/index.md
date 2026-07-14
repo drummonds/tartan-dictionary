@@ -13,10 +13,10 @@ Its design is pattern [GWGWGWGWGWGWG](/stripes/gwgwgwgwgwgwg/) — the page of e
 The **MacDonald, Lord of the Isles Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g24w1g2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/">MacDonald, Lord of the Isles Hunting</a></td><td><code>G/48 W2 G4 W4 DG4 W2 DG24 W2 DG4 W4 DG4 W2 DG/24</code></td><td>184</td><td>1950</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g24w1g2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><img src="/variants/s13/g24w1g2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/sett.png" alt="MacDonald, Lord of the Isles Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g24w1g2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/">MacDonald, Lord of the Isles Hunting</a></td><td></td><td><code>G/48 W2 G4 W4 DG4 W2 DG24 W2 DG4 W4 DG4 W2 DG/24</code></td><td>184</td><td>1950</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g24w1g2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><img src="/variants/s13/g24w1g2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/sett.png" alt="MacDonald, Lord of the Isles Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

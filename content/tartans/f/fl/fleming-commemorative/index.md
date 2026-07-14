@@ -18,10 +18,10 @@ Created for Scotland Flanders 2002 as a cultural exchange product.
 The **Fleming Commemorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/">Fleming Commemorative</a></td><td><code>DB/32 K6 DB6 K6 DB6 K32 DB34 K4 DY8 K4 DB34 K32 DB34 K4 W/8</code></td><td>460</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/"><img src="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/sett.png" alt="Fleming Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/">Fleming Commemorative</a></td><td></td><td><code>DB/32 K6 DB6 K6 DB6 K32 DB34 K4 DY8 K4 DB34 K32 DB34 K4 W/8</code></td><td>460</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/"><img src="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/sett.png" alt="Fleming Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

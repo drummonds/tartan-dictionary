@@ -13,10 +13,10 @@ Its design is pattern [RGWGYGYR](/stripes/rgwgygyr/) — the page of every tarta
 The **Duke of Sussex** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/">Duke of Sussex</a></td><td><code>R/228 G20 W6 G32 LY6 G6 LY6 R/56</code></td><td>436</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/"><img src="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/sett.png" alt="Duke of Sussex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/">Duke of Sussex</a></td><td></td><td><code>R/228 G20 W6 G32 LY6 G6 LY6 R/56</code></td><td>436</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/"><img src="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/sett.png" alt="Duke of Sussex sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

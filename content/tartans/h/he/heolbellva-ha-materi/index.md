@@ -13,10 +13,10 @@ Its design is pattern [KWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkw/) — the page of
 The **Heolbellva ha Materi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/">Heolbellva ha Materi</a></td><td><code>W/182 K2 W12 K4 W10 K6 W8 K8 W6 K10 W4 K12 W2 K/14</code></td><td>364</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/"><img src="/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/sett.png" alt="Heolbellva ha Materi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/">Heolbellva ha Materi</a></td><td></td><td><code>W/182 K2 W12 K4 W10 K6 W8 K8 W6 K10 W4 K12 W2 K/14</code></td><td>364</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/"><img src="/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/sett.png" alt="Heolbellva ha Materi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

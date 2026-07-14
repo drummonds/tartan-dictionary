@@ -18,10 +18,10 @@ Its design is pattern [RBRBRBRBRGR](/stripes/rbrbrbrbrgr/) — the page of every
 The **MacQuarrie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r28g64r20db48r60t1r8t1r60db48r10~x2/">MacQuarrie</a></td><td><code>R/56 G128 R40 DB96 R120 T2 R16 T2 R120 DB96 R/20</code></td><td>1316</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r28g64r20db48r60t1r8t1r60db48r10~x2/"><img src="/variants/s11/r28g64r20db48r60t1r8t1r60db48r10~x2/sett.png" alt="MacQuarrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r28g64r20db48r60t1r8t1r60db48r10~x2/">MacQuarrie</a></td><td></td><td><code>R/56 G128 R40 DB96 R120 T2 R16 T2 R120 DB96 R/20</code></td><td>1316</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r28g64r20db48r60t1r8t1r60db48r10~x2/"><img src="/variants/s11/r28g64r20db48r60t1r8t1r60db48r10~x2/sett.png" alt="MacQuarrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

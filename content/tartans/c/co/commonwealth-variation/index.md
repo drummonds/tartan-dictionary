@@ -16,10 +16,10 @@ Its design is pattern [BBBBBKYKYKBBB](/stripes/bbbbbkykykbbb/) — the page of e
 The **Commonwealth Variation** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3~x2/">Commonwealth Variation</a></td><td><code>DB/40 DR6 DB6 DR6 DB6 K20 LR28 K8 LR28 K20 DB28 DR6 DB/6</code></td><td>370</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3~x2/"><img src="/variants/s13/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3~x2/sett.png" alt="Commonwealth Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3~x2/">Commonwealth Variation</a></td><td></td><td><code>DB/40 DR6 DB6 DR6 DB6 K20 LR28 K8 LR28 K20 DB28 DR6 DB/6</code></td><td>370</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3~x2/"><img src="/variants/s13/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3~x2/sett.png" alt="Commonwealth Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -17,10 +17,10 @@ Its design is pattern [GKRK](/stripes/gkrk/) — the page of every tartan sharin
 The **Masai Shuka 26** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/y3k2r10k1~x4/">Masai Shuka 26</a></td><td><code>Y/12 K8 R40 K/4</code></td><td>112</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/y3k2r10k1~x4/"><img src="/variants/s4/y3k2r10k1~x4/sett.png" alt="Masai Shuka 26 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/y3k2r10k1~x4/">Masai Shuka 26</a></td><td></td><td><code>Y/12 K8 R40 K/4</code></td><td>112</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/y3k2r10k1~x4/"><img src="/variants/s4/y3k2r10k1~x4/sett.png" alt="Masai Shuka 26 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

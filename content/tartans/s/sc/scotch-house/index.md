@@ -13,10 +13,10 @@ Its design is pattern [GWGWGKGKGKGR](/stripes/gwgwgkgkgkgr/) — the page of eve
 The **Scotch House** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g2w1g1w1g8k4dg2k1dg1k1dg8r1~x4/">Scotch House</a></td><td><code>G/8 W4 G4 W4 G32 K16 DG8 K4 DG4 K4 DG32 R/4</code></td><td>236</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g2w1g1w1g8k4dg2k1dg1k1dg8r1~x4/"><img src="/variants/s12/g2w1g1w1g8k4dg2k1dg1k1dg8r1~x4/sett.png" alt="Scotch House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g2w1g1w1g8k4dg2k1dg1k1dg8r1~x4/">Scotch House</a></td><td></td><td><code>G/8 W4 G4 W4 G32 K16 DG8 K4 DG4 K4 DG32 R/4</code></td><td>236</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g2w1g1w1g8k4dg2k1dg1k1dg8r1~x4/"><img src="/variants/s12/g2w1g1w1g8k4dg2k1dg1k1dg8r1~x4/sett.png" alt="Scotch House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [WGRGWGGYGYW](/stripes/wgrgwggygyw/) — the page of every
 The **Glenmore** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/">Glenmore</a></td><td><code>W/76 G20 R4 G6 W4 G6 Gi16 LR6 G4 LR6 W/4</code></td><td>224</td><td>~1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/"><img src="/variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/sett.png" alt="Glenmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/">Glenmore</a></td><td></td><td><code>W/76 G20 R4 G6 W4 G6 Gi16 LR6 G4 LR6 W/4</code></td><td>224</td><td>~1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/"><img src="/variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/sett.png" alt="Glenmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

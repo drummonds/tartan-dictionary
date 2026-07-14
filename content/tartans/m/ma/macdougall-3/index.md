@@ -18,10 +18,10 @@ Its design is pattern [RBRRKRBRBRGRBRR](/stripes/rbrrkrbrbrgrbrr/) — the page 
 The **MacDougall 3** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/ri7b5r5ri31k9r4b3ri5b3r4g30ri4b3r5ri5~x2~ri2008029-r1506028/">MacDougall 3</a></td><td><code>Ri/14 B10 R10 Ri62 K18 R8 B6 Ri10 B6 R8 G60 Ri8 B6 R10 Ri/10</code></td><td>468</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/ri7b5r5ri31k9r4b3ri5b3r4g30ri4b3r5ri5~x2~ri2008029-r1506028/"><img src="/variants/s15/ri7b5r5ri31k9r4b3ri5b3r4g30ri4b3r5ri5~x2~ri2008029-r1506028/sett.png" alt="MacDougall 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/ri7b5r5ri31k9r4b3ri5b3r4g30ri4b3r5ri5~x2~ri2008029-r1506028/">MacDougall 3</a></td><td></td><td><code>Ri/14 B10 R10 Ri62 K18 R8 B6 Ri10 B6 R8 G60 Ri8 B6 R10 Ri/10</code></td><td>468</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/ri7b5r5ri31k9r4b3ri5b3r4g30ri4b3r5ri5~x2~ri2008029-r1506028/"><img src="/variants/s15/ri7b5r5ri31k9r4b3ri5b3r4g30ri4b3r5ri5~x2~ri2008029-r1506028/sett.png" alt="MacDougall 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

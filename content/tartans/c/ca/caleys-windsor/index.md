@@ -13,10 +13,10 @@ Its design is pattern [BWBWBWBWBWR](/stripes/bwbwbwbwbwr/) — the page of every
 The **Caleys Windsor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/">Caleys Windsor</a></td><td><code>DB/10 W3 DB3 W3 DB5 W8 DB38 LB8 DB8 LB61 R/6</code></td><td>290</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/"><img src="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/sett.png" alt="Caleys Windsor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/">Caleys Windsor</a></td><td></td><td><code>DB/10 W3 DB3 W3 DB5 W8 DB38 LB8 DB8 LB61 R/6</code></td><td>290</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/"><img src="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/sett.png" alt="Caleys Windsor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

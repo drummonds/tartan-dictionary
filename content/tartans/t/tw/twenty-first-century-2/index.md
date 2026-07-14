@@ -13,10 +13,10 @@ Its design is pattern [GBBWBBGKBWBWR](/stripes/gbbwbbgkbwbwr/) — the page of e
 The **Twenty First Century** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g12db3n3w2n3db3g5k8db31lb5db8w4r6~x2/">Twenty First Century</a></td><td><code>G/24 DB6 N6 W4 N6 DB6 G10 K16 DB62 LB10 DB16 W8 R/12</code></td><td>336</td><td>1995</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g12db3n3w2n3db3g5k8db31lb5db8w4r6~x2/"><img src="/variants/s13/g12db3n3w2n3db3g5k8db31lb5db8w4r6~x2/sett.png" alt="Twenty First Century sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g12db3n3w2n3db3g5k8db31lb5db8w4r6~x2/">Twenty First Century</a></td><td></td><td><code>G/24 DB6 N6 W4 N6 DB6 G10 K16 DB62 LB10 DB16 W8 R/12</code></td><td>336</td><td>1995</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g12db3n3w2n3db3g5k8db31lb5db8w4r6~x2/"><img src="/variants/s13/g12db3n3w2n3db3g5k8db31lb5db8w4r6~x2/sett.png" alt="Twenty First Century sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

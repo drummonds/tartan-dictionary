@@ -18,10 +18,10 @@ Its design is pattern [KRGRKRYRKRWRK](/stripes/krgrkryrkrwrk/) — the page of e
 The **MacKeever** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/">MacKeever</a></td><td><code>K/72 R16 W4 R4 K4 R4 LY4 R48 K6 R4 G12 R4 K/16</code></td><td>308</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><img src="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/sett.png" alt="MacKeever sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/">MacKeever</a></td><td></td><td><code>K/72 R16 W4 R4 K4 R4 LY4 R48 K6 R4 G12 R4 K/16</code></td><td>308</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><img src="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/sett.png" alt="MacKeever sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

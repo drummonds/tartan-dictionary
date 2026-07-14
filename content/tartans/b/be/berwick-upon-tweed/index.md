@@ -16,10 +16,10 @@ Its design is pattern [RYGYGYBKGKGKRW](/stripes/rygygybkgkgkrw/) — the page of
 The **Berwick -upon-Tweed** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/">Berwick -upon-Tweed</a></td><td><code>R/32 LY10 G4 LY8 G4 LY10 N76 K10 G4 K8 G4 K10 R16 LB/8</code></td><td>368</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><img src="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/sett.png" alt="Berwick -upon-Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/">Berwick -upon-Tweed</a></td><td></td><td><code>R/32 LY10 G4 LY8 G4 LY10 N76 K10 G4 K8 G4 K10 R16 LB/8</code></td><td>368</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><img src="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/sett.png" alt="Berwick -upon-Tweed sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

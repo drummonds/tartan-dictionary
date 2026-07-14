@@ -13,10 +13,10 @@ Its design is pattern [KBGGKBWBKGGKBKGGKBRBK](/stripes/kbggkbwbkggkbkggkbrbk/) â
 The **Perthshire Highland Society** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/">Perthshire Highland Society</a></td><td><code>K/30 DB30 R2 DB30 K30 Y2 G30 K2 DB2 K2 G30 Y2 K30 DB30 W2 DB30 K30 Y2 G30 DB2 K/2</code></td><td>668</td><td>1882</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/"><img src="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/sett.png" alt="Perthshire Highland Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/">Perthshire Highland Society</a></td><td></td><td><code>K/30 DB30 R2 DB30 K30 Y2 G30 K2 DB2 K2 G30 Y2 K30 DB30 W2 DB30 K30 Y2 G30 DB2 K/2</code></td><td>668</td><td>1882</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/"><img src="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/sett.png" alt="Perthshire Highland Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

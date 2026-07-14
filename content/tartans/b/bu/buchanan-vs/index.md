@@ -16,10 +16,10 @@ Its design is pattern [KWRWRW](/stripes/kwrwrw/) — the page of every tartan sh
 The **Buchanan VS** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w2r4w2r4w9k1~x2/">Buchanan VS</a></td><td><code>W/4 R8 W4 R8 W18 K/2</code></td><td>82</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w2r4w2r4w9k1~x2/"><img src="/variants/s6/w2r4w2r4w9k1~x2/sett.png" alt="Buchanan VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w2r4w2r4w9k1~x2/">Buchanan VS</a></td><td></td><td><code>W/4 R8 W4 R8 W18 K/2</code></td><td>82</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w2r4w2r4w9k1~x2/"><img src="/variants/s6/w2r4w2r4w9k1~x2/sett.png" alt="Buchanan VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

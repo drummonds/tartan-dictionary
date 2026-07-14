@@ -13,10 +13,10 @@ Its design is pattern [RWRBRGYBYBYBYR](/stripes/rwrbrgybybybyr/) — the page of
 The **Unidentified Scarlett** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r17lg8do2lg2do2lg8do14ly3dy17r9do3r9w2r9~x2/">Unidentified Scarlett</a></td><td><code>R/34 LG16 DO4 LG4 DO4 LG16 DO28 LY6 DY34 R18 DO6 R18 W4 R/18</code></td><td>368</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r17lg8do2lg2do2lg8do14ly3dy17r9do3r9w2r9~x2/"><img src="/variants/s14/r17lg8do2lg2do2lg8do14ly3dy17r9do3r9w2r9~x2/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r17lg8do2lg2do2lg8do14ly3dy17r9do3r9w2r9~x2/">Unidentified Scarlett</a></td><td></td><td><code>R/34 LG16 DO4 LG4 DO4 LG16 DO28 LY6 DY34 R18 DO6 R18 W4 R/18</code></td><td>368</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r17lg8do2lg2do2lg8do14ly3dy17r9do3r9w2r9~x2/"><img src="/variants/s14/r17lg8do2lg2do2lg8do14ly3dy17r9do3r9w2r9~x2/sett.png" alt="Unidentified Scarlett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

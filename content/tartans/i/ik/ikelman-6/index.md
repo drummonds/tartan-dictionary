@@ -18,10 +18,10 @@ Its design is pattern [BWBWBWBWBW](/stripes/bwbwbwbwbw/) — the page of every t
 The **Ikelman** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/">Ikelman</a></td><td><code>DB/64 W8 DB8 W4 DB4 W4 DB8 W8 DB64 W/32</code></td><td>312</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/"><img src="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/sett.png" alt="Ikelman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/">Ikelman</a></td><td></td><td><code>DB/64 W8 DB8 W4 DB4 W4 DB8 W8 DB64 W/32</code></td><td>312</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/"><img src="/variants/s10/db16w2db2w1db1w1db2w2db16w8~x4/sett.png" alt="Ikelman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

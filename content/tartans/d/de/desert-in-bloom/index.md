@@ -13,10 +13,10 @@ Its design is pattern [GYRGWYGY](/stripes/gyrgwygy/) — the page of every tarta
 The **Desert in Bloom** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lo3y12lo12w3y2o26lo3y1~x2/">Desert in Bloom</a></td><td><code>LO/6 Y24 LO24 W6 Y4 O52 LO6 Y/2</code></td><td>240</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lo3y12lo12w3y2o26lo3y1~x2/"><img src="/variants/s8/lo3y12lo12w3y2o26lo3y1~x2/sett.png" alt="Desert in Bloom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lo3y12lo12w3y2o26lo3y1~x2/">Desert in Bloom</a></td><td></td><td><code>LO/6 Y24 LO24 W6 Y4 O52 LO6 Y/2</code></td><td>240</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lo3y12lo12w3y2o26lo3y1~x2/"><img src="/variants/s8/lo3y12lo12w3y2o26lo3y1~x2/sett.png" alt="Desert in Bloom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RBBRBRRGGRW](/stripes/rbbrbrrggrw/) — the page of every
 The **Scottish H & I Film Com** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/">Scottish H &amp; I Film Com</a></td><td><code>O/64 DB32 N8 O8 DB8 O8 R4 G16 DG16 O16 W/8</code></td><td>304</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/"><img src="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/sett.png" alt="Scottish H &amp; I Film Com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/">Scottish H &amp; I Film Com</a></td><td></td><td><code>O/64 DB32 N8 O8 DB8 O8 R4 G16 DG16 O16 W/8</code></td><td>304</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/"><img src="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/sett.png" alt="Scottish H &amp; I Film Com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

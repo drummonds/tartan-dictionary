@@ -13,11 +13,11 @@ Its design is pattern [GRBBYBKWK](/stripes/grbbybkwk/) — the page of every tar
 The **Webster** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2/">Webster</a></td><td><code>G/64 R6 DO24 T6 LY6 T6 K96 LB4 K/8</code></td><td>368</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2/"><img src="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2/sett.png" alt="Webster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2/">(Name)</a> · <a href="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2~lb3300000/">Webster</a></td></tr>
+<tr><td><a href="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2/">Webster</a></td><td></td><td><code>G/64 R6 DO24 T6 LY6 T6 K96 LB4 K/8</code></td><td>368</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2/"><img src="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2/sett.png" alt="Webster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2/">(Name)</a> · <a href="/variants/s9/g32r3do12t3ly3t3k48lb2k4~x2~lb3300000/">Webster</a></td></tr>
 </tbody>
 </table>
 

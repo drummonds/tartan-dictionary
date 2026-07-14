@@ -13,10 +13,10 @@ Its design is pattern [RBRBWRBR](/stripes/rbrbwrbr/) — the page of every tarta
 The **St Andrews** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r11db1r11db1w10o11db1o11~x2/">St Andrews</a></td><td><code>R/22 DB2 R22 DB2 W20 O22 DB2 O/22</code></td><td>184</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r11db1r11db1w10o11db1o11~x2/"><img src="/variants/s8/r11db1r11db1w10o11db1o11~x2/sett.png" alt="St Andrews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r11db1r11db1w10o11db1o11~x2/">St Andrews</a></td><td></td><td><code>R/22 DB2 R22 DB2 W20 O22 DB2 O/22</code></td><td>184</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r11db1r11db1w10o11db1o11~x2/"><img src="/variants/s8/r11db1r11db1w10o11db1o11~x2/sett.png" alt="St Andrews sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GKWGWGWGWGWGWKY](/stripes/gkwgwgwgwgwgwky/) — the page 
 The **Alliance of Border Scots** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1~x8/">Alliance of Border Scots</a></td><td><code>G/8 K48 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 K48 LY/8</code></td><td>384</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1~x8/"><img src="/variants/s15/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1~x8/sett.png" alt="Alliance of Border Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1~x8/">Alliance of Border Scots</a></td><td></td><td><code>G/8 K48 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 K48 LY/8</code></td><td>384</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1~x8/"><img src="/variants/s15/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1~x8/sett.png" alt="Alliance of Border Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

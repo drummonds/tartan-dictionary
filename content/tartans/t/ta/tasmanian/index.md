@@ -18,10 +18,10 @@ Its design is pattern [BBBBGBGBGYB](/stripes/bbbbgbgbgyb/) — the page of every
 The **Tasmanian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/">Tasmanian</a></td><td><code>DR/8 LR4 DG48 N4 DG4 N4 DG12 N16 DR12 N16 B/8</code></td><td>256</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/"><img src="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/sett.png" alt="Tasmanian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/">Tasmanian</a></td><td></td><td><code>DR/8 LR4 DG48 N4 DG4 N4 DG12 N16 DR12 N16 B/8</code></td><td>256</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/"><img src="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/sett.png" alt="Tasmanian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

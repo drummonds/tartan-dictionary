@@ -15,10 +15,10 @@ Family tartan from Paton's collection at the Scottish Tartans Museum, assembled 
 The **MacDona** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r35g52db18g17r12g17k18/">MacDona</a></td><td><code>R/35 G52 DB18 G17 R12 G17 K/18</code></td><td>285</td><td>1892</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r35g52db18g17r12g17k18/"><img src="/variants/s7/r35g52db18g17r12g17k18/sett.png" alt="MacDona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r35g52db18g17r12g17k18/">MacDona</a></td><td></td><td><code>R/35 G52 DB18 G17 R12 G17 K/18</code></td><td>285</td><td>1892</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r35g52db18g17r12g17k18/"><img src="/variants/s7/r35g52db18g17r12g17k18/sett.png" alt="MacDona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

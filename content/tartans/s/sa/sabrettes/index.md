@@ -13,10 +13,10 @@ Its design is pattern [GWRWKWBKRKWKBWKR](/stripes/gwrwkwbkrkwkbwkr/) — the pag
 The **Sabrettes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/">Sabrettes</a></td><td><code>R/30 K10 W4 N14 K8 W16 K4 R52 K10 N4 W4 K14 W4 R10 W4 G/4</code></td><td>350</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/"><img src="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/sett.png" alt="Sabrettes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/">Sabrettes</a></td><td></td><td><code>R/30 K10 W4 N14 K8 W16 K4 R52 K10 N4 W4 K14 W4 R10 W4 G/4</code></td><td>350</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/"><img src="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/sett.png" alt="Sabrettes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

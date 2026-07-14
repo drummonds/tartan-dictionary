@@ -18,10 +18,10 @@ Its design is pattern [WRBRBRBRWBWRW](/stripes/wrbrbrbrwbwrw/) — the page of e
 The **Largs Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/">Largs Dress</a></td><td><code>W/4 R21 DB4 O16 DB4 O8 DB4 O4 W3 DB6 W49 R3 W/4</code></td><td>252</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/"><img src="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/sett.png" alt="Largs Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/">Largs Dress</a></td><td></td><td><code>W/4 R21 DB4 O16 DB4 O8 DB4 O4 W3 DB6 W49 R3 W/4</code></td><td>252</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/"><img src="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/sett.png" alt="Largs Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

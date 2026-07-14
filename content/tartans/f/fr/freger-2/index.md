@@ -18,10 +18,10 @@ Its design is pattern [WGKBKGKWKBWGW](/stripes/wgkbkgkwkbwgw/) — the page of e
 The **Freger** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/">Freger</a></td><td><code>W/2 Y4 K16 DP12 K30 Y2 K2 W2 K30 DP10 W16 Y2 W/2</code></td><td>256</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/"><img src="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/sett.png" alt="Freger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/">Freger</a></td><td></td><td><code>W/2 Y4 K16 DP12 K30 Y2 K2 W2 K30 DP10 W16 Y2 W/2</code></td><td>256</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/"><img src="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/sett.png" alt="Freger sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BBBKWKBB](/stripes/bbbkwkbb/) — the page of every tarta
 The **Weston** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db4dp4k4w1k4dp4db4dbi4~x10~db1106275-dbi1306265/">Weston</a></td><td><code>DB/40 DP40 K40 W10 K40 DP40 DB40 DBi/40</code></td><td>500</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db4dp4k4w1k4dp4db4dbi4~x10~db1106275-dbi1306265/"><img src="/variants/s8/db4dp4k4w1k4dp4db4dbi4~x10~db1106275-dbi1306265/sett.png" alt="Weston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db4dp4k4w1k4dp4db4dbi4~x10~db1106275-dbi1306265/">Weston</a></td><td></td><td><code>DB/40 DP40 K40 W10 K40 DP40 DB40 DBi/40</code></td><td>500</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db4dp4k4w1k4dp4db4dbi4~x10~db1106275-dbi1306265/"><img src="/variants/s8/db4dp4k4w1k4dp4db4dbi4~x10~db1106275-dbi1306265/sett.png" alt="Weston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

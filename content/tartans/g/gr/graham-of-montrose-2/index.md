@@ -20,15 +20,15 @@ The **Graham of Montrose** tartan groups 2 setts — the same named design recor
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k4g4w1g4k4db4k1~x4/">Graham of Montrose</a> ★</td><td><code>K/4 G4 W1 G4 K4 DB4 K/1</code></td><td>39</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k4g4w1g4k4db4k1~x4/"><img src="/variants/s7/k4g4w1g4k4db4k1~x4/sett.png" alt="Graham of Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/k4g4w1g4k4db4k1~x2/">Graham of Montrose</a></td><td><code>K/8 G8 W2 G8 K8 DB8 K/2</code></td><td>78</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/k4g4w1g4k4db4k1~x4/">Graham of Montrose</a></td><td><code>K/16 G16 W4 G16 K16 DB16 K/4</code></td><td>156</td><td>1810</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/k4g4w1g4k4db4k1~x2/">Graham of Montrose</a> · <a href="/variants/s7/k4g4w1g4k4db4k1~x4/">Graham of Montrose</a></td></tr>
-<tr><td><a href="/variants/s7/k9g9w2g9k9db9k3~x2/">1850 (Clan)</a></td><td><code>K/18 G18 W4 G18 K18 DB18 K/6</code></td><td>176</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k9g9w2g9k9db9k3~x2/"><img src="/variants/s7/k9g9w2g9k9db9k3~x2/sett.png" alt="1850 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k4g4w1g4k4db4k1~x4/">Graham of Montrose</a> ★</td><td></td><td><code>K/4 G4 W1 G4 K4 DB4 K/1</code></td><td>39</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k4g4w1g4k4db4k1~x4/"><img src="/variants/s7/k4g4w1g4k4db4k1~x4/sett.png" alt="Graham of Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/k4g4w1g4k4db4k1~x2/">Graham of Montrose</a></td><td>0.00</td><td><code>K/8 G8 W2 G8 K8 DB8 K/2</code></td><td>78</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s7/k4g4w1g4k4db4k1~x4/">Graham of Montrose</a></td><td>0.00</td><td><code>K/16 G16 W4 G16 K16 DB16 K/4</code></td><td>156</td><td>1810</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/k4g4w1g4k4db4k1~x2/">Graham of Montrose</a> · <a href="/variants/s7/k4g4w1g4k4db4k1~x4/">Graham of Montrose</a></td></tr>
+<tr><td><a href="/variants/s7/k9g9w2g9k9db9k3~x2/">1850 (Clan)</a></td><td>0.18</td><td><code>K/18 G18 W4 G18 K18 DB18 K/6</code></td><td>176</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k9g9w2g9k9db9k3~x2/"><img src="/variants/s7/k9g9w2g9k9db9k3~x2/sett.png" alt="1850 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

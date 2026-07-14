@@ -13,10 +13,10 @@ Its design is pattern [BGYGYGRYBGYGW](/stripes/bgygygrybgygw/) — the page of e
 The **Afghanistan Memorial** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/">Afghanistan Memorial</a></td><td><code>DB/16 DG6 LY2 DG2 LY78 DG6 R6 LY4 DB22 DG16 LY4 DG6 W/4</code></td><td>324</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/"><img src="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/sett.png" alt="Afghanistan Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/">Afghanistan Memorial</a></td><td></td><td><code>DB/16 DG6 LY2 DG2 LY78 DG6 R6 LY4 DB22 DG16 LY4 DG6 W/4</code></td><td>324</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/"><img src="/variants/s13/db8dg3ly1dg1ly39dg3r3ly2db11dg8ly2dg3w2~x2/sett.png" alt="Afghanistan Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

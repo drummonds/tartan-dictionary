@@ -16,10 +16,10 @@ Its design is pattern [GYWYWGWGWGYWGR](/stripes/gywywgwgwgywgr/) — the page of
 The **Glen Forest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/o10dy5w8ly8dy5w8dy14w4dy5w4ly5w4ly4y10/">Glen Forest</a></td><td><code>O/10 DY5 W8 LY8 DY5 W8 DY14 W4 DY5 W4 LY5 W4 LY4 Y/10</code></td><td>168</td><td>1972</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/o10dy5w8ly8dy5w8dy14w4dy5w4ly5w4ly4y10/"><img src="/variants/s14/o10dy5w8ly8dy5w8dy14w4dy5w4ly5w4ly4y10/sett.png" alt="Glen Forest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/o10dy5w8ly8dy5w8dy14w4dy5w4ly5w4ly4y10/">Glen Forest</a></td><td></td><td><code>O/10 DY5 W8 LY8 DY5 W8 DY14 W4 DY5 W4 LY5 W4 LY4 Y/10</code></td><td>168</td><td>1972</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/o10dy5w8ly8dy5w8dy14w4dy5w4ly5w4ly4y10/"><img src="/variants/s14/o10dy5w8ly8dy5w8dy14w4dy5w4ly5w4ly4y10/sett.png" alt="Glen Forest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

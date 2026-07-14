@@ -18,10 +18,10 @@ Its design is pattern [BWBWBWBWBWBWG](/stripes/bwbwbwbwbwbwg/) — the page of e
 The **MacDonald, hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/b24w1b2w2do2w1do12w1do2w2do2w1dg12~x2/">MacDonald, hunting</a></td><td><code>B/48 W2 B4 W4 DO4 W2 DO24 W2 DO4 W4 DO4 W2 DG/24</code></td><td>184</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/b24w1b2w2do2w1do12w1do2w2do2w1dg12~x2/"><img src="/variants/s13/b24w1b2w2do2w1do12w1do2w2do2w1dg12~x2/sett.png" alt="MacDonald, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/b24w1b2w2do2w1do12w1do2w2do2w1dg12~x2/">MacDonald, hunting</a></td><td></td><td><code>B/48 W2 B4 W4 DO4 W2 DO24 W2 DO4 W4 DO4 W2 DG/24</code></td><td>184</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/b24w1b2w2do2w1do12w1do2w2do2w1dg12~x2/"><img src="/variants/s13/b24w1b2w2do2w1do12w1do2w2do2w1dg12~x2/sett.png" alt="MacDonald, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BKYBBKBK](/stripes/bkybbkbk/) — the page of every tarta
 The **U.S. Air Force Reserve P. B. (Corpor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/">U.S. Air Force Reserve P. B. (Corpor</a></td><td><code>DB/88 K6 LY40 DR6 DB16 K68 DB10 K/30</code></td><td>410</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/"><img src="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/sett.png" alt="U.S. Air Force Reserve P. B. (Corpor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/">U.S. Air Force Reserve P. B. (Corpor</a></td><td></td><td><code>DB/88 K6 LY40 DR6 DB16 K68 DB10 K/30</code></td><td>410</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/"><img src="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/sett.png" alt="U.S. Air Force Reserve P. B. (Corpor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

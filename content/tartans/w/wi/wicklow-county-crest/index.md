@@ -13,10 +13,10 @@ Its design is pattern [BBYBYBGBW](/stripes/bbybybgbw/) — the page of every tar
 The **Wicklow County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/">Wicklow County Crest</a></td><td><code>DBi/32 DB14 LY8 DB4 LY32 DB4 G48 DB16 LB/22</code></td><td>306</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/"><img src="/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/sett.png" alt="Wicklow County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/">Wicklow County Crest</a></td><td></td><td><code>DBi/32 DB14 LY8 DB4 LY32 DB4 G48 DB16 LB/22</code></td><td>306</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/"><img src="/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/sett.png" alt="Wicklow County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

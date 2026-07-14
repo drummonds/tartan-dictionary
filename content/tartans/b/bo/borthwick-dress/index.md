@@ -21,14 +21,14 @@ The **Borthwick Dress** tartan groups 3 setts — the same named design recorded
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/">Borthwick Dress</a> ★</td><td><code>G/24 K4 R24 K6 W14 K32 W14 K6 W/12</code></td><td>236</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/"><img src="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/sett.png" alt="Borthwick Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/">(Clan)</a></td><td><code>G/28 K4 DR32 K8 W28 K40 W28 K8 W/16</code></td><td>340</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/"><img src="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/">Borthwick, dress</a></td><td><code>G/14 K2 R14 K2 W14 K20 W14 K4 W/8</code></td><td>162</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/"><img src="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/sett.png" alt="Borthwick, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/">Borthwick Dress</a> ★</td><td></td><td><code>G/24 K4 R24 K6 W14 K32 W14 K6 W/12</code></td><td>236</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/"><img src="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/sett.png" alt="Borthwick Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/">(Clan)</a></td><td>0.57</td><td><code>G/28 K4 DR32 K8 W28 K40 W28 K8 W/16</code></td><td>340</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/"><img src="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/">Borthwick, dress</a></td><td>0.55</td><td><code>G/14 K2 R14 K2 W14 K20 W14 K4 W/8</code></td><td>162</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/"><img src="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/sett.png" alt="Borthwick, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Designed by Václav Rout, chairman of Friends of Scotland CZ, as the Czech Natio
 The **Czech National** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/">Czech National</a></td><td><code>DB/8 Y4 DB48 K4 DB10 R6 K28 G28 W6 R6 DB/6</code></td><td>294</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><img src="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/sett.png" alt="Czech National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/">Czech National</a></td><td></td><td><code>DB/8 Y4 DB48 K4 DB10 R6 K28 G28 W6 R6 DB/6</code></td><td>294</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><img src="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/sett.png" alt="Czech National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

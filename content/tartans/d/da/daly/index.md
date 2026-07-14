@@ -13,10 +13,10 @@ Its design is pattern [KRKGKBKBKGKR](/stripes/krkgkbkbkgkr/) — the page of eve
 The **Daly** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/">Daly</a></td><td><code>K/10 R6 K48 DG26 K6 DB6 K6 DB22 K12 DG6 K6 R/6</code></td><td>304</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/"><img src="/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/sett.png" alt="Daly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/">Daly</a></td><td></td><td><code>K/10 R6 K48 DG26 K6 DB6 K6 DB22 K12 DG6 K6 R/6</code></td><td>304</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/"><img src="/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/sett.png" alt="Daly sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,12 +15,12 @@ The **Delaware Fine Spirits Guild** tartan groups 2 setts — the same named des
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k10dg25k10g15y1g5~x2/">Delaware Fine Spirits Guild</a> ★</td><td><code>K/20 DG50 K20 G30 Y2 G/10</code></td><td>234</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k10dg25k10g15y1g5~x2/"><img src="/variants/s6/k10dg25k10g15y1g5~x2/sett.png" alt="Delaware Fine Spirits Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k5dg25k10g15y1g5~x2/">(Corp)</a></td><td><code>K/10 DG50 K20 G30 Y2 G/10</code></td><td>224</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k5dg25k10g15y1g5~x2/"><img src="/variants/s6/k5dg25k10g15y1g5~x2/sett.png" alt="(Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k10dg25k10g15y1g5~x2/">Delaware Fine Spirits Guild</a> ★</td><td></td><td><code>K/20 DG50 K20 G30 Y2 G/10</code></td><td>234</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k10dg25k10g15y1g5~x2/"><img src="/variants/s6/k10dg25k10g15y1g5~x2/sett.png" alt="Delaware Fine Spirits Guild sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k5dg25k10g15y1g5~x2/">(Corp)</a></td><td>0.18</td><td><code>K/10 DG50 K20 G30 Y2 G/10</code></td><td>224</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k5dg25k10g15y1g5~x2/"><img src="/variants/s6/k5dg25k10g15y1g5~x2/sett.png" alt="(Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

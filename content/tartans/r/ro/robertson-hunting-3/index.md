@@ -18,10 +18,10 @@ Its design is pattern [BKGKRKGKBKW](/stripes/bkgkrkgkbkw/) — the page of every
 The **Robertson, hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/">Robertson, hunting</a></td><td><code>DB/56 K24 G32 K2 R4 K2 G32 K24 DB24 K2 W/6</code></td><td>354</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><img src="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/sett.png" alt="Robertson, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/">Robertson, hunting</a></td><td></td><td><code>DB/56 K24 G32 K2 R4 K2 G32 K24 DB24 K2 W/6</code></td><td>354</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><img src="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/sett.png" alt="Robertson, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

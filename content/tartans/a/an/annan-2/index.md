@@ -18,10 +18,10 @@ Its design is pattern [RBKRBRBRBR](/stripes/rbkrbrbrbr/) — the page of every t
 The **Annan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/">Annan</a></td><td><code>O/60 N4 O8 B8 O8 N4 O12 K32 N40 O/12</code></td><td>304</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/"><img src="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/sett.png" alt="Annan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/">Annan</a></td><td></td><td><code>O/60 N4 O8 B8 O8 N4 O12 K32 N40 O/12</code></td><td>304</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/"><img src="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/sett.png" alt="Annan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

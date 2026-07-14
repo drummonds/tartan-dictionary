@@ -14,13 +14,13 @@ The **Prince Albert** tartan is one sett, recorded at 2 scales — the same prop
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/">Prince Albert</a></td><td><code>R/3 DB9 R2 K7 Y2 K2 W2 K2 G6 R5 K2 R2 W/2</code></td><td>87</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/"><img src="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/sett.png" alt="Prince Albert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/">#2</a></td><td><code>R/6 DB18 R4 K14 Y4 K4 W4 K4 G12 R10 K4 R4 W/4</code></td><td>174</td><td>1819</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x4/">#3</a></td><td><code>R/12 DB36 R8 K28 Y8 K8 W8 K8 G24 R20 K8 R8 W/8</code></td><td>348</td><td>1847</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/">#2</a> · <a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x4/">#3</a></td></tr>
+<tr><td><a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/">Prince Albert</a></td><td></td><td><code>R/3 DB9 R2 K7 Y2 K2 W2 K2 G6 R5 K2 R2 W/2</code></td><td>87</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/"><img src="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/sett.png" alt="Prince Albert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/">#2</a></td><td>0.00</td><td><code>R/6 DB18 R4 K14 Y4 K4 W4 K4 G12 R10 K4 R4 W/4</code></td><td>174</td><td>1819</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x4/">#3</a></td><td>0.00</td><td><code>R/12 DB36 R8 K28 Y8 K8 W8 K8 G24 R20 K8 R8 W/8</code></td><td>348</td><td>1847</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/">#2</a> · <a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x4/">#3</a></td></tr>
 </tbody>
 </table>
 

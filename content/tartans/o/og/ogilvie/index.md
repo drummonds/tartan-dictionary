@@ -18,10 +18,10 @@ Its design is pattern [WGKRWRWRKGWRWRWGKRWRWRKGWW](/stripes/wgkrwrwrkgwrwrwgkrwr
 The **Ogilvie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/lb6y2k2r9w2r6w2r9k2y2lb6r2lb6r2lb6y2k2r9w2r6w2r9k2y2lb6w2~x2/">Ogilvie</a></td><td><code>LB/12 Y4 K4 R18 W4 R12 W4 R18 K4 Y4 LB12 R4 LB12 R4 LB12 Y4 K4 R18 W4 R12 W4 R18 K4 Y4 LB12 W/4</code></td><td>416</td><td>1812</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/lb6y2k2r9w2r6w2r9k2y2lb6r2lb6r2lb6y2k2r9w2r6w2r9k2y2lb6w2~x2/"><img src="/variants/s26/lb6y2k2r9w2r6w2r9k2y2lb6r2lb6r2lb6y2k2r9w2r6w2r9k2y2lb6w2~x2/sett.png" alt="Ogilvie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/lb6y2k2r9w2r6w2r9k2y2lb6r2lb6r2lb6y2k2r9w2r6w2r9k2y2lb6w2~x2/">Ogilvie</a></td><td></td><td><code>LB/12 Y4 K4 R18 W4 R12 W4 R18 K4 Y4 LB12 R4 LB12 R4 LB12 Y4 K4 R18 W4 R12 W4 R18 K4 Y4 LB12 W/4</code></td><td>416</td><td>1812</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/lb6y2k2r9w2r6w2r9k2y2lb6r2lb6r2lb6y2k2r9w2r6w2r9k2y2lb6w2~x2/"><img src="/variants/s26/lb6y2k2r9w2r6w2r9k2y2lb6r2lb6r2lb6y2k2r9w2r6w2r9k2y2lb6w2~x2/sett.png" alt="Ogilvie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

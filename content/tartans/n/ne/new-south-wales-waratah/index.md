@@ -13,10 +13,10 @@ Its design is pattern [BGGGGBBBBG](/stripes/bggggbbbbg/) — the page of every t
 The **New South Wales Waratah** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/">New South Wales Waratah</a></td><td><code>G/24 DB4 DR4 DB4 DT52 DG4 G6 DG6 G48 DR/8</code></td><td>288</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/"><img src="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/sett.png" alt="New South Wales Waratah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/">New South Wales Waratah</a></td><td></td><td><code>G/24 DB4 DR4 DB4 DT52 DG4 G6 DG6 G48 DR/8</code></td><td>288</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/"><img src="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/sett.png" alt="New South Wales Waratah sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

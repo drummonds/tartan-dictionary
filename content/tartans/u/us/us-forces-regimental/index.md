@@ -15,10 +15,10 @@ Originally listed as MacNeil; identified by Selkirk weaver Ken Dalgliesh in 1999
 The **US Forces Regimental** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/">US Forces Regimental</a></td><td><code>DB/70 R4 K32 Y4 LB50 W4 LB/12</code></td><td>270</td><td>1986</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><img src="/variants/s7/db35r2k16y2lb25w2lb6~x2/sett.png" alt="US Forces Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/">US Forces Regimental</a></td><td></td><td><code>DB/70 R4 K32 Y4 LB50 W4 LB/12</code></td><td>270</td><td>1986</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><img src="/variants/s7/db35r2k16y2lb25w2lb6~x2/sett.png" alt="US Forces Regimental sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKGKGRRKRKRR](/stripes/gkgkgkgkgrrkrkrr/) — the pag
 The **Lindsay Earl of Crawford** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/">Lindsay Earl of Crawford</a></td><td><code>R/40 Ri80 K8 Ri16 K8 Ri80 R40 DG8 K8 DG8 K8 DG96 K8 DG8 K8 DG/8</code></td><td>816</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/"><img src="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/sett.png" alt="Lindsay Earl of Crawford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/">Lindsay Earl of Crawford</a></td><td></td><td><code>R/40 Ri80 K8 Ri16 K8 Ri80 R40 DG8 K8 DG8 K8 DG96 K8 DG8 K8 DG/8</code></td><td>816</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/"><img src="/variants/s16/r5ri10k1ri2k1ri10r5dg1k1dg1k1dg12k1dg1k1dg1~x8~r1707016-ri2109032/sett.png" alt="Lindsay Earl of Crawford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

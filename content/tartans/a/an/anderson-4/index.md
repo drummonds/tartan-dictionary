@@ -18,10 +18,10 @@ Its design is pattern [GBYGKRKRKBGKRKY](/stripes/gbygkrkrkbgkrky/) — the page 
 The **Anderson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/">Anderson</a></td><td><code>DG/128 DO4 LO4 DG4 K4 O4 K4 O4 K4 DO12 DG8 K4 O16 K4 LO/4</code></td><td>284</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/"><img src="/variants/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/">Anderson</a></td><td></td><td><code>DG/128 DO4 LO4 DG4 K4 O4 K4 O4 K4 DO12 DG8 K4 O16 K4 LO/4</code></td><td>284</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/"><img src="/variants/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/sett.png" alt="Anderson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

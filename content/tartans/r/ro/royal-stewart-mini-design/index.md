@@ -16,14 +16,14 @@ The **Royal Stewart MINI Design** tartan is one sett, recorded at 3 scales — t
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/">Royal Stewart MINI Design</a></td><td><code>R/18 DB2 K3 Y1 K1 W1 K1 G4 R2 K1 R1 W/1</code></td><td>53</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/"><img src="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/sett.png" alt="Royal Stewart MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x2/">Tartan</a></td><td><code>R/36 DB4 K6 Y2 K2 W2 K2 G8 R4 K2 R2 W/2</code></td><td>106</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x4/">Royal Stewart Royal Family Tartan</a></td><td><code>R/72 DB8 K12 Y4 K4 W4 K4 G16 R8 K4 R4 W/4</code></td><td>212</td><td>1831</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/">Royal Stewart (Universal)</a></td><td><code>R/144 DB16 K24 Y8 K8 W8 K8 G32 R16 K8 R8 W/8</code></td><td>424</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-variants">4 Variants: <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x2/">Tartan</a> · <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x4/">Royal Stewart Royal Family Tartan</a> · <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/">Royal Stewart (Universal)</a> · <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8~db1406275/">Stewart/Stuart, Royal #2</a></td></tr>
+<tr><td><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/">Royal Stewart MINI Design</a></td><td></td><td><code>R/18 DB2 K3 Y1 K1 W1 K1 G4 R2 K1 R1 W/1</code></td><td>53</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/"><img src="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/sett.png" alt="Royal Stewart MINI Design sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x2/">Tartan</a></td><td>0.00</td><td><code>R/36 DB4 K6 Y2 K2 W2 K2 G8 R4 K2 R2 W/2</code></td><td>106</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x4/">Royal Stewart Royal Family Tartan</a></td><td>0.00</td><td><code>R/72 DB8 K12 Y4 K4 W4 K4 G16 R8 K4 R4 W/4</code></td><td>212</td><td>1831</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/">Royal Stewart (Universal)</a></td><td>0.00</td><td><code>R/144 DB16 K24 Y8 K8 W8 K8 G32 R16 K8 R8 W/8</code></td><td>424</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-variants">4 Variants: <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x2/">Tartan</a> · <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x4/">Royal Stewart Royal Family Tartan</a> · <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/">Royal Stewart (Universal)</a> · <a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8~db1406275/">Stewart/Stuart, Royal #2</a></td></tr>
 </tbody>
 </table>
 

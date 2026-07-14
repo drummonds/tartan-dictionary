@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/) — the page 
 The **74th Regiment of Foot** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/">74th Regiment of Foot</a></td><td><code>DT/32 K4 DT8 K4 DT8 K24 G32 K4 W8 K4 G32 K24 DT32 K4 DT/8</code></td><td>416</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/"><img src="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/sett.png" alt="74th Regiment of Foot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/">74th Regiment of Foot</a></td><td></td><td><code>DT/32 K4 DT8 K4 DT8 K24 G32 K4 W8 K4 G32 K24 DT32 K4 DT/8</code></td><td>416</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/"><img src="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/sett.png" alt="74th Regiment of Foot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

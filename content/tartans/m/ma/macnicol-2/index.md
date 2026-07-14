@@ -20,16 +20,16 @@ The **MacNicol** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/">MacNicol</a> ★</td><td><code>R/6 G1 R6 K4 R1 LB1 R1 G8 R6 K1 R6 G/1</code></td><td>77</td><td>1845</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/"><img src="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/sett.png" alt="MacNicol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1/">MacNicol</a></td><td><code>R/6 G1 R6 K4 R1 LB1 R1 G8 R6 K1 R6 G/1</code></td><td>77</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x2/">Nicolson, MacNicol</a></td><td><code>R/12 G2 R12 K8 R2 LB2 R2 G16 R12 K2 R12 G/2</code></td><td>154</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/">Nicolson (McIan)</a></td><td><code>R/36 G6 R36 K24 R6 LB6 R6 G48 R36 K6 R36 G/6</code></td><td>462</td><td>1845</td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1/">MacNicol</a> · <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x2/">Nicolson, MacNicol</a> · <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/">Nicolson (McIan)</a></td></tr>
-<tr><td><a href="/variants/s12/r6g1r6k4r1w1r1g8r6k1r6g1/">MacNicol</a></td><td><code>R/6 G1 R6 K4 R1 W1 R1 G8 R6 K1 R6 G/1</code></td><td>77</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r6g1r6k4r1w1r1g8r6k1r6g1/"><img src="/variants/s12/r6g1r6k4r1w1r1g8r6k1r6g1/sett.png" alt="MacNicol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/">MacNicol</a> ★</td><td></td><td><code>R/6 G1 R6 K4 R1 LB1 R1 G8 R6 K1 R6 G/1</code></td><td>77</td><td>1845</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/"><img src="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/sett.png" alt="MacNicol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1/">MacNicol</a></td><td>0.00</td><td><code>R/6 G1 R6 K4 R1 LB1 R1 G8 R6 K1 R6 G/1</code></td><td>77</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x2/">Nicolson, MacNicol</a></td><td>0.00</td><td><code>R/12 G2 R12 K8 R2 LB2 R2 G16 R12 K2 R12 G/2</code></td><td>154</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/">Nicolson (McIan)</a></td><td>0.00</td><td><code>R/36 G6 R36 K24 R6 LB6 R6 G48 R36 K6 R36 G/6</code></td><td>462</td><td>1845</td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1/">MacNicol</a> · <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x2/">Nicolson, MacNicol</a> · <a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/">Nicolson (McIan)</a></td></tr>
+<tr><td><a href="/variants/s12/r6g1r6k4r1w1r1g8r6k1r6g1/">MacNicol</a></td><td>0.30</td><td><code>R/6 G1 R6 K4 R1 W1 R1 G8 R6 K1 R6 G/1</code></td><td>77</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r6g1r6k4r1w1r1g8r6k1r6g1/"><img src="/variants/s12/r6g1r6k4r1w1r1g8r6k1r6g1/sett.png" alt="MacNicol sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

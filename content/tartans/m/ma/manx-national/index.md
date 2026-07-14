@@ -23,22 +23,22 @@ The **Manx National** tartan groups 7 setts — the same named design recorded a
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dp8g31r4dy4db17lb64w4/">Manx National</a> ★</td><td><code>DP/8 G31 R4 DY4 DB17 LB64 W/4</code></td><td>252</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><img src="/variants/s7/dp8g31r4dy4db17lb64w4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp2g6r1dy1db3lb10w1~x2/">District Tartan</a></td><td><code>DP/4 G12 R2 DY2 DB6 LB20 W/2</code></td><td>90</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp2g6r1dy1db3lb10w1~x2/"><img src="/variants/s7/dp2g6r1dy1db3lb10w1~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/">Manx National</a></td><td><code>DP/4 G12 R2 Y2 DB6 B20 W/2</code></td><td>90</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><img src="/variants/s7/dp2g6r1y1db3b10w1~x2/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/">District Tartan</a></td><td><code>DP/8 G32 R4 DY4 DB24 LB60 W/4</code></td><td>260</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/"><img src="/variants/s7/dp2g8r1dy1db6lb15w1~x4/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dp8g31r4y4db17b64w4/">Manx National</a></td><td><code>DP/8 G31 R4 Y4 DB17 B64 W/4</code></td><td>252</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp8g31r4y4db17b64w4/"><img src="/variants/s7/dp8g31r4y4db17b64w4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/">(District)</a></td><td><code>LP/20 G36 R8 DY8 DB24 LB56 W/12</code></td><td>296</td><td>1958</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><img src="/variants/s7/lp5g9r2dy2db6lb14w3~x4/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/">Manx National</a></td><td><code>P/20 G36 R8 DY8 DB24 LB56 W/12</code></td><td>296</td><td>1946</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><img src="/variants/s7/p5g9r2dy2db6lb14w3~x4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp8g31r4dy4db17lb64w4/">Manx National</a> ★</td><td></td><td><code>DP/8 G31 R4 DY4 DB17 LB64 W/4</code></td><td>252</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><img src="/variants/s7/dp8g31r4dy4db17lb64w4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp2g6r1dy1db3lb10w1~x2/">District Tartan</a></td><td>0.44</td><td><code>DP/4 G12 R2 DY2 DB6 LB20 W/2</code></td><td>90</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp2g6r1dy1db3lb10w1~x2/"><img src="/variants/s7/dp2g6r1dy1db3lb10w1~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/">Manx National</a></td><td>0.54</td><td><code>DP/4 G12 R2 Y2 DB6 B20 W/2</code></td><td>90</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><img src="/variants/s7/dp2g6r1y1db3b10w1~x2/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/">District Tartan</a></td><td>0.17</td><td><code>DP/8 G32 R4 DY4 DB24 LB60 W/4</code></td><td>260</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/"><img src="/variants/s7/dp2g8r1dy1db6lb15w1~x4/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp8g31r4y4db17b64w4/">Manx National</a></td><td>0.19</td><td><code>DP/8 G31 R4 Y4 DB17 B64 W/4</code></td><td>252</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp8g31r4y4db17b64w4/"><img src="/variants/s7/dp8g31r4y4db17b64w4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/">(District)</a></td><td>0.63</td><td><code>LP/20 G36 R8 DY8 DB24 LB56 W/12</code></td><td>296</td><td>1958</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><img src="/variants/s7/lp5g9r2dy2db6lb14w3~x4/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/">Manx National</a></td><td>0.61</td><td><code>P/20 G36 R8 DY8 DB24 LB56 W/12</code></td><td>296</td><td>1946</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><img src="/variants/s7/p5g9r2dy2db6lb14w3~x4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

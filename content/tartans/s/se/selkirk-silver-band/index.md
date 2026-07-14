@@ -16,10 +16,10 @@ Its design is pattern [BKBKBKBKBK](/stripes/bkbkbkbkbk/) — the page of every t
 The **Selkirk Silver Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/">Selkirk Silver Band</a></td><td><code>K/150 DR2 K8 N30 K4 N2 K6 DB2 K4 DR/2</code></td><td>268</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/"><img src="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/sett.png" alt="Selkirk Silver Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/">Selkirk Silver Band</a></td><td></td><td><code>K/150 DR2 K8 N30 K4 N2 K6 DB2 K4 DR/2</code></td><td>268</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/"><img src="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/sett.png" alt="Selkirk Silver Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

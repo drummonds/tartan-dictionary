@@ -18,10 +18,10 @@ Its design is pattern [RBRBKWKWKWKWR](/stripes/rbrbkwkwkwkwr/) — the page of e
 The **Hogmany** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/">Hogmany</a></td><td><code>R/8 W26 K12 W12 K12 W12 K10 W2 K48 B56 R4 B4 R/8</code></td><td>412</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/"><img src="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/sett.png" alt="Hogmany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/">Hogmany</a></td><td></td><td><code>R/8 W26 K12 W12 K12 W12 K10 W2 K48 B56 R4 B4 R/8</code></td><td>412</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/"><img src="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/sett.png" alt="Hogmany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

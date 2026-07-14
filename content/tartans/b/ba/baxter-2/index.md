@@ -20,10 +20,10 @@ Recorded by Logan (c.1832) as "Buchanan"; named Baxter in Peter's 1856 Baronage 
 The **Baxter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/">Baxter</a></td><td><code>G/64 K4 B8 K4 LO16 K4 LO16 K4 B8 K4 DR64 W8 DR64 K4 B8 K4 LO16 K4 LO16 K4 B8 K4 G64 B/8</code></td><td>744</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/"><img src="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/sett.png" alt="Baxter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/">Baxter</a></td><td></td><td><code>G/64 K4 B8 K4 LO16 K4 LO16 K4 B8 K4 DR64 W8 DR64 K4 B8 K4 LO16 K4 LO16 K4 B8 K4 G64 B/8</code></td><td>744</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/"><img src="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/sett.png" alt="Baxter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

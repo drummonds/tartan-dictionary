@@ -13,10 +13,10 @@ Its design is pattern [GGBGWGGRGRW](/stripes/ggbgwggrgrw/) — the page of every
 The **Unidentified** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/y3dy24db4dy8w2dy2g10r12dyi2r5w2~x2~dy1203057-dyi1502083/">Unidentified</a></td><td><code>Y/6 DY48 DB8 DY16 W4 DY4 G20 R24 DYi4 R10 W/4</code></td><td>286</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/y3dy24db4dy8w2dy2g10r12dyi2r5w2~x2~dy1203057-dyi1502083/"><img src="/variants/s11/y3dy24db4dy8w2dy2g10r12dyi2r5w2~x2~dy1203057-dyi1502083/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/y3dy24db4dy8w2dy2g10r12dyi2r5w2~x2~dy1203057-dyi1502083/">Unidentified</a></td><td></td><td><code>Y/6 DY48 DB8 DY16 W4 DY4 G20 R24 DYi4 R10 W/4</code></td><td>286</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/y3dy24db4dy8w2dy2g10r12dyi2r5w2~x2~dy1203057-dyi1502083/"><img src="/variants/s11/y3dy24db4dy8w2dy2g10r12dyi2r5w2~x2~dy1203057-dyi1502083/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GGGGGGKYYWKGKWKGKWKG](/stripes/ggggggkyywkgkwkgkwkg/) —
 The **Whisky** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/y10k2w3k6dy4k2lb8k2dy4k6lb3lg49ly4k42dy42y6dy6y6dy6y8~lb3203246-lg2702249/">Whisky</a></td><td><code>Y/10 K2 W3 K6 DY4 K2 LB8 K2 DY4 K6 LB3 LG49 LY4 K42 DY42 Y6 DY6 Y6 DY6 Y/8</code></td><td>420</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/y10k2w3k6dy4k2lb8k2dy4k6lb3lg49ly4k42dy42y6dy6y6dy6y8~lb3203246-lg2702249/"><img src="/variants/s20/y10k2w3k6dy4k2lb8k2dy4k6lb3lg49ly4k42dy42y6dy6y6dy6y8~lb3203246-lg2702249/sett.png" alt="Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/y10k2w3k6dy4k2lb8k2dy4k6lb3lg49ly4k42dy42y6dy6y6dy6y8~lb3203246-lg2702249/">Whisky</a></td><td></td><td><code>Y/10 K2 W3 K6 DY4 K2 LB8 K2 DY4 K6 LB3 LG49 LY4 K42 DY42 Y6 DY6 Y6 DY6 Y/8</code></td><td>420</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/y10k2w3k6dy4k2lb8k2dy4k6lb3lg49ly4k42dy42y6dy6y6dy6y8~lb3203246-lg2702249/"><img src="/variants/s20/y10k2w3k6dy4k2lb8k2dy4k6lb3lg49ly4k42dy42y6dy6y6dy6y8~lb3203246-lg2702249/sett.png" alt="Whisky sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

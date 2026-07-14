@@ -21,17 +21,17 @@ The **Clark** tartan groups 3 setts — the same named design recorded as differ
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/db13k4y4k4r13~x4/">Clark</a> ★</td><td><code>DB/52 K16 Y16 K16 R/52</code></td><td>200</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db13k4y4k4r13~x4/"><img src="/variants/s5/db13k4y4k4r13~x4/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r3k1g1k1lb3~x4/">Clark</a></td><td><code>R/3 K1 G1 K1 LB/3</code></td><td>12</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r3k1g1k1lb3~x4/"><img src="/variants/s5/r3k1g1k1lb3~x4/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s5/r3k1g1k1lb3~x4/">Clark</a></td><td><code>R/12 K4 G4 K4 LB/12</code></td><td>48</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s5/r3k1g1k1lb3~x8/">Clark</a></td><td><code>R/24 K8 G8 K8 LB/24</code></td><td>96</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s5/r3k1g1k1lb3~x4/">Clark</a> · <a href="/variants/s5/r3k1g1k1lb3~x8/">Clark</a></td></tr>
-<tr><td><a href="/variants/s5/r3k1g1k1w3~x4/">Clark</a></td><td><code>R/12 K4 G4 K4 W/12</code></td><td>48</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/r3k1g1k1w3~x4/"><img src="/variants/s5/r3k1g1k1w3~x4/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db13k4y4k4r13~x4/">Clark</a> ★</td><td></td><td><code>DB/52 K16 Y16 K16 R/52</code></td><td>200</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db13k4y4k4r13~x4/"><img src="/variants/s5/db13k4y4k4r13~x4/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r3k1g1k1lb3~x4/">Clark</a></td><td>0.52</td><td><code>R/3 K1 G1 K1 LB/3</code></td><td>12</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r3k1g1k1lb3~x4/"><img src="/variants/s5/r3k1g1k1lb3~x4/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s5/r3k1g1k1lb3~x4/">Clark</a></td><td>0.52</td><td><code>R/12 K4 G4 K4 LB/12</code></td><td>48</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×8 — <a href="/variants/s5/r3k1g1k1lb3~x8/">Clark</a></td><td>0.52</td><td><code>R/24 K8 G8 K8 LB/24</code></td><td>96</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s5/r3k1g1k1lb3~x4/">Clark</a> · <a href="/variants/s5/r3k1g1k1lb3~x8/">Clark</a></td></tr>
+<tr><td><a href="/variants/s5/r3k1g1k1w3~x4/">Clark</a></td><td>1.77</td><td><code>R/12 K4 G4 K4 W/12</code></td><td>48</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r3k1g1k1w3~x4/"><img src="/variants/s5/r3k1g1k1w3~x4/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

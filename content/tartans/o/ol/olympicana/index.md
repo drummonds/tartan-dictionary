@@ -13,10 +13,10 @@ Its design is pattern [YBGBBBWBBGBBKY](/stripes/ybgbbbwbbgbbky/) — the page of
 The **Olympicana** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/lo2k2dr2db2g23dr24db2lb2db2dr2db27g6db2lo2~x2/">Olympicana</a></td><td><code>LO/4 K4 DR4 DB4 G46 DR48 DB4 LB4 DB4 DR4 DB54 G12 DB4 LO/4</code></td><td>392</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/lo2k2dr2db2g23dr24db2lb2db2dr2db27g6db2lo2~x2/"><img src="/variants/s14/lo2k2dr2db2g23dr24db2lb2db2dr2db27g6db2lo2~x2/sett.png" alt="Olympicana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/lo2k2dr2db2g23dr24db2lb2db2dr2db27g6db2lo2~x2/">Olympicana</a></td><td></td><td><code>LO/4 K4 DR4 DB4 G46 DR48 DB4 LB4 DB4 DR4 DB54 G12 DB4 LO/4</code></td><td>392</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/lo2k2dr2db2g23dr24db2lb2db2dr2db27g6db2lo2~x2/"><img src="/variants/s14/lo2k2dr2db2g23dr24db2lb2db2dr2db27g6db2lo2~x2/sett.png" alt="Olympicana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

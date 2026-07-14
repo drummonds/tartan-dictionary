@@ -18,10 +18,10 @@ Its design is pattern [KWRKYWYKGWKRYGWGYRKWWWR](/stripes/kwrkywykgwkrygwgyrkwwwr
 The **MacLeod of Gesto** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/">MacLeod of Gesto</a></td><td><code>R/172 W4 LB12 W4 K4 R8 LY4 G8 W4 G8 LY4 R8 K4 W4 G26 K4 LY4 W4 LY4 K8 R8 W4 K/8</code></td><td>456</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/"><img src="/variants/s23/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/sett.png" alt="MacLeod of Gesto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/">MacLeod of Gesto</a></td><td></td><td><code>R/172 W4 LB12 W4 K4 R8 LY4 G8 W4 G8 LY4 R8 K4 W4 G26 K4 LY4 W4 LY4 K8 R8 W4 K/8</code></td><td>456</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/"><img src="/variants/s23/r86w2lb6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/sett.png" alt="MacLeod of Gesto sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

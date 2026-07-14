@@ -36,7 +36,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/r/ra/rangers-f-c/">Rangers F. C.</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-f-c/"><img src="/variants/s11/r3dbi12k12db32k12dbi2k2dbi2k2dbi4r3~dbi1204274-db1106275/sett.png" alt="Rangers F. C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ra/rangers-f-c-3/">Rangers F.C.</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-f-c-3/"><img src="/variants/s11/r3b14k12db40k12b2k2b2k2b7r3~x2/sett.png" alt="Rangers F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ra/rangers-f-c-3/"><img src="/variants/s11/r3b16k12db34k12b2k2b2k2b7r3~x2/sett.png" alt="Rangers F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

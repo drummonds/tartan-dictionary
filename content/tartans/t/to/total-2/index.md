@@ -18,10 +18,10 @@ Its design is pattern [GBRKWKBKGKBKWKRBR](/stripes/gbrkwkbkgkbkwkrbr/) — the p
 The **Total** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/">Total</a></td><td><code>R/48 B4 R28 K5 W4 K6 B4 K7 G8 K7 B4 K6 W4 K5 Ri24 B4 G/48</code></td><td>336</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/"><img src="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/sett.png" alt="Total sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/">Total</a></td><td></td><td><code>R/48 B4 R28 K5 W4 K6 B4 K7 G8 K7 B4 K6 W4 K5 Ri24 B4 G/48</code></td><td>336</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/"><img src="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/sett.png" alt="Total sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

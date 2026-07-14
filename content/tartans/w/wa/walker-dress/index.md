@@ -20,10 +20,10 @@ Dress variant for the Walker family, submitted by R.W. Hawks in 1992 for general
 The **Walker Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/">Walker Dress</a></td><td><code>DY/4 DB2 R7 DB15 R3 DB3 R3 DB7 W28 R7 W6 R/2</code></td><td>168</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><img src="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/sett.png" alt="Walker Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/">Walker Dress</a></td><td></td><td><code>DY/4 DB2 R7 DB15 R3 DB3 R3 DB7 W28 R7 W6 R/2</code></td><td>168</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><img src="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/sett.png" alt="Walker Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

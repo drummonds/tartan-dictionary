@@ -20,12 +20,12 @@ The **Gracie** tartan groups 2 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/g47dr3g6db35lo3~x2/">Gracie</a> ★</td><td><code>G/94 DR6 G12 DB70 LO/6</code></td><td>276</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/g47dr3g6db35lo3~x2/"><img src="/variants/s5/g47dr3g6db35lo3~x2/sett.png" alt="Gracie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/g47r3g6db35y3~x2/">Gracie</a></td><td><code>G/94 R6 G12 DB70 Y/6</code></td><td>276</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/g47r3g6db35y3~x2/"><img src="/variants/s5/g47r3g6db35y3~x2/sett.png" alt="Gracie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g47dr3g6db35lo3~x2/">Gracie</a> ★</td><td></td><td><code>G/94 DR6 G12 DB70 LO/6</code></td><td>276</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/g47dr3g6db35lo3~x2/"><img src="/variants/s5/g47dr3g6db35lo3~x2/sett.png" alt="Gracie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g47r3g6db35y3~x2/">Gracie</a></td><td>0.32</td><td><code>G/94 R6 G12 DB70 Y/6</code></td><td>276</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/g47r3g6db35y3~x2/"><img src="/variants/s5/g47r3g6db35y3~x2/sett.png" alt="Gracie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,10 +15,10 @@ Name tartan for anyone called Gallacher/Gallagher and spelling variants; no hist
 The **Gallacher** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/">Gallacher</a></td><td><code>G/14 W2 T14 W4 T12 W6 T10 W8 T8 W10 T6 W12 T4 W14 T2 W16 R62 DR62 K20 G/8</code></td><td>566</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/"><img src="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/sett.png" alt="Gallacher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/">Gallacher</a></td><td></td><td><code>G/14 W2 T14 W4 T12 W6 T10 W8 T8 W10 T6 W12 T4 W14 T2 W16 R62 DR62 K20 G/8</code></td><td>566</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/"><img src="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/sett.png" alt="Gallacher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

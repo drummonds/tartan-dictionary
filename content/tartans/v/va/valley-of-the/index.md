@@ -13,10 +13,10 @@ Its design is pattern [GGRGRGKRWRWRW](/stripes/ggrgrgkrwrwrw/) — the page of e
 The **Valley of the** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/">Valley of the</a></td><td><code>W/18 R4 W4 R12 W28 R4 K28 G28 R12 G4 R4 G16 Y/6</code></td><td>312</td><td>1973</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/"><img src="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/sett.png" alt="Valley of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/">Valley of the</a></td><td></td><td><code>W/18 R4 W4 R12 W28 R4 K28 G28 R12 G4 R4 G16 Y/6</code></td><td>312</td><td>1973</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/"><img src="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/sett.png" alt="Valley of the sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

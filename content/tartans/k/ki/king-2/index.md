@@ -13,10 +13,10 @@ Its design is pattern [GBKGBKBGKGR](/stripes/gbkgbkbgkgr/) — the page of every
 The **King** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/">King</a></td><td><code>R/6 G4 K2 G4 DB52 K24 DB8 G30 K2 DB2 Y/6</code></td><td>268</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><img src="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/sett.png" alt="King sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/">King</a></td><td></td><td><code>R/6 G4 K2 G4 DB52 K24 DB8 G30 K2 DB2 Y/6</code></td><td>268</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><img src="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/sett.png" alt="King sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

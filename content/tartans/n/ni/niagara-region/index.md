@@ -13,10 +13,10 @@ Its design is pattern [RGRKRBKBKWKW](/stripes/rgrkrbkbkwkw/) — the page of eve
 The **Niagara Region** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/">Niagara Region</a></td><td><code>W/8 K4 W4 K56 DT8 K4 DT4 R2 K26 R2 G26 R/4</code></td><td>284</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><img src="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/sett.png" alt="Niagara Region sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/">Niagara Region</a></td><td></td><td><code>W/8 K4 W4 K56 DT8 K4 DT4 R2 K26 R2 G26 R/4</code></td><td>284</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><img src="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/sett.png" alt="Niagara Region sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

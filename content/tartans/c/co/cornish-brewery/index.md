@@ -16,10 +16,10 @@ Its design is pattern [WGKGBGY](/stripes/wgkgbgy/) — the page of every tartan 
 The **Cornish Brewery** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/">Cornish Brewery</a></td><td><code>LY/6 G48 DT22 G6 K20 G6 W/4</code></td><td>214</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/"><img src="/variants/s7/ly3g24dt11g3k10g3w2~x2/sett.png" alt="Cornish Brewery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/">Cornish Brewery</a></td><td></td><td><code>LY/6 G48 DT22 G6 K20 G6 W/4</code></td><td>214</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/"><img src="/variants/s7/ly3g24dt11g3k10g3w2~x2/sett.png" alt="Cornish Brewery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -15,12 +15,12 @@ The **Inchforth** tartan groups 2 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/o4dg2o7dt30o8dt7g5dg1w2~x2~o2600000-dt1501240/">Inchforth</a> ★</td><td><code>O/4 DG2 O7 DT30 O8 DT7 G5 DG1 W/2</code></td><td>—</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/o4dg2o7dt30o8dt7g5dg1w2~x2~o2600000-dt1501240/"><img src="/variants/s9/o4dg2o7dt30o8dt7g5dg1w2~x2~o2600000-dt1501240/sett.png" alt="Inchforth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/">(Personal)</a></td><td><code>O/8 DG4 O14 N60 O16 N14 G10 DG2 W/4</code></td><td>252</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/"><img src="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/o4dg2o7dt30o8dt7g5dg1w2~x2~o2600000-dt1501240/">Inchforth</a> ★</td><td></td><td><code>O/4 DG2 O7 DT30 O8 DT7 G5 DG1 W/2</code></td><td>—</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/o4dg2o7dt30o8dt7g5dg1w2~x2~o2600000-dt1501240/"><img src="/variants/s9/o4dg2o7dt30o8dt7g5dg1w2~x2~o2600000-dt1501240/sett.png" alt="Inchforth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/">(Personal)</a></td><td>5.90</td><td><code>O/8 DG4 O14 N60 O16 N14 G10 DG2 W/4</code></td><td>252</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/"><img src="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

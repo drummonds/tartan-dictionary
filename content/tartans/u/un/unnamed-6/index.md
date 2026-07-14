@@ -13,10 +13,10 @@ Its design is pattern [KBWKGKGK](/stripes/kbwkgkgk/) — the page of every tarta
 The **Unnamed 6** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k16g16k2g16k16w2dp16k1~x2/">Unnamed 6</a></td><td><code>K/32 G32 K4 G32 K32 W4 DP32 K/2</code></td><td>306</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k16g16k2g16k16w2dp16k1~x2/"><img src="/variants/s8/k16g16k2g16k16w2dp16k1~x2/sett.png" alt="Unnamed 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k16g16k2g16k16w2dp16k1~x2/">Unnamed 6</a></td><td></td><td><code>K/32 G32 K4 G32 K32 W4 DP32 K/2</code></td><td>306</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k16g16k2g16k16w2dp16k1~x2/"><img src="/variants/s8/k16g16k2g16k16w2dp16k1~x2/sett.png" alt="Unnamed 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

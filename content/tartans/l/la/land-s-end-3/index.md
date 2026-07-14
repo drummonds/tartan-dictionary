@@ -15,12 +15,12 @@ The **Land's End** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/">Land's End</a> ★</td><td><code>DG/4 DB52 G4 DB4 G18 DR4 G18 DB/4</code></td><td>208</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/"><img src="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/sett.png" alt="Land's End sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/">Blue (Fashion)</a></td><td><code>DG/4 DB52 DG4 DB4 DG18 DR4 DG18 DB/4</code></td><td>208</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/"><img src="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/sett.png" alt="Blue (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/">Land's End</a> ★</td><td></td><td><code>DG/4 DB52 G4 DB4 G18 DR4 G18 DB/4</code></td><td>208</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/"><img src="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/sett.png" alt="Land's End sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/">Blue (Fashion)</a></td><td>8.20</td><td><code>DG/4 DB52 DG4 DB4 DG18 DR4 DG18 DB/4</code></td><td>208</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/"><img src="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/sett.png" alt="Blue (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

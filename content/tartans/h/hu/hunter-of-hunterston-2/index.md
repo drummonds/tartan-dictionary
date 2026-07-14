@@ -20,10 +20,10 @@ Authorized by the Clan Society in 1985 for the Hunter of Hunterston chiefly line
 The **Hunter of Hunterston** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/">Hunter of Hunterston</a></td><td><code>G/8 R4 G28 W4 DB28 R4 DB28 G28 DB4 G10 DB4 G28 DB28 R4 DB28 W4 G28 R4 G8 LO/6</code></td><td>562</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/"><img src="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/sett.png" alt="Hunter of Hunterston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/">Hunter of Hunterston</a></td><td></td><td><code>G/8 R4 G28 W4 DB28 R4 DB28 G28 DB4 G10 DB4 G28 DB28 R4 DB28 W4 G28 R4 G8 LO/6</code></td><td>562</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/"><img src="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/sett.png" alt="Hunter of Hunterston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BKRBRBRBBK](/stripes/bkrbrbrbbk/) — the page of every t
 The **Ryukoku University Heian SHS** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/">Ryukoku University Heian SHS</a></td><td><code>DBi/10 K30 O10 N18 O4 DB4 O4 DB4 N18 K/6</code></td><td>200</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/"><img src="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/sett.png" alt="Ryukoku University Heian SHS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/">Ryukoku University Heian SHS</a></td><td></td><td><code>DBi/10 K30 O10 N18 O4 DB4 O4 DB4 N18 K/6</code></td><td>200</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/"><img src="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/sett.png" alt="Ryukoku University Heian SHS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

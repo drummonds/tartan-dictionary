@@ -16,10 +16,10 @@ Its design is pattern [GKGKGKGKGRGR](/stripes/gkgkgkgkgrgr/) — the page of eve
 The **Ross, Ryan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/">Ross, Ryan</a></td><td><code>R/6 DG8 R6 DG8 K8 DG4 K100 DG4 K8 G6 K8 G/6</code></td><td>332</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/"><img src="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/sett.png" alt="Ross, Ryan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/">Ross, Ryan</a></td><td></td><td><code>R/6 DG8 R6 DG8 K8 DG4 K100 DG4 K8 G6 K8 G/6</code></td><td>332</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/"><img src="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/sett.png" alt="Ross, Ryan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

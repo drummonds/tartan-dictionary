@@ -15,10 +15,10 @@ From the 1870 records of Norwich weavers Bolingbroke and Jones.
 The **Unidentified No 14** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/">Unidentified No 14</a></td><td><code>R/22 LB6 DB10 Y4 R4 W4 G22 DB8 Y/3</code></td><td>141</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/"><img src="/variants/s9/r22lb6db10y4r4w4g22db8y3/sett.png" alt="Unidentified No 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/">Unidentified No 14</a></td><td></td><td><code>R/22 LB6 DB10 Y4 R4 W4 G22 DB8 Y/3</code></td><td>141</td><td>1870</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/"><img src="/variants/s9/r22lb6db10y4r4w4g22db8y3/sett.png" alt="Unidentified No 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

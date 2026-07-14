@@ -13,10 +13,10 @@ Its design is pattern [BGGGGBWBR](/stripes/bggggbwbr/) — the page of every tar
 The **Connor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/">Connor</a></td><td><code>DB/4 DY16 G32 Y4 G32 DB48 W4 DB8 R/4</code></td><td>296</td><td>1956</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/"><img src="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/sett.png" alt="Connor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/">Connor</a></td><td></td><td><code>DB/4 DY16 G32 Y4 G32 DB48 W4 DB8 R/4</code></td><td>296</td><td>1956</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/"><img src="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/sett.png" alt="Connor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

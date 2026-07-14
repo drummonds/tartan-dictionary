@@ -13,10 +13,10 @@ Its design is pattern [BKGRGKR](/stripes/bkgrgkr/) — the page of every tartan 
 The **Ednie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/t11k4g4o1g4k1r1~x4/">Ednie</a></td><td><code>T/44 K16 G16 O4 G16 K4 R/4</code></td><td>160</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><img src="/variants/s7/t11k4g4o1g4k1r1~x4/sett.png" alt="Ednie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/t11k4g4o1g4k1r1~x4/">Ednie</a></td><td></td><td><code>T/44 K16 G16 O4 G16 K4 R/4</code></td><td>160</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><img src="/variants/s7/t11k4g4o1g4k1r1~x4/sett.png" alt="Ednie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

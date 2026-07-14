@@ -13,10 +13,10 @@ Its design is pattern [GRGRGWKRWRWRW](/stripes/grgrgwkrwrwrw/) — the page of e
 The **Boston Pipe Band, Greater** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/">Boston Pipe Band, Greater</a></td><td><code>DG/32 R4 DG8 R8 DG48 W4 K48 R4 LB48 R8 LB8 R4 LB/32</code></td><td>448</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/"><img src="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/sett.png" alt="Boston Pipe Band, Greater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/">Boston Pipe Band, Greater</a></td><td></td><td><code>DG/32 R4 DG8 R8 DG48 W4 K48 R4 LB48 R8 LB8 R4 LB/32</code></td><td>448</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/"><img src="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/sett.png" alt="Boston Pipe Band, Greater sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

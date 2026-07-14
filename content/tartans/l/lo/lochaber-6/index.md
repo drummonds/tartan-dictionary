@@ -18,10 +18,10 @@ Its design is pattern [BKBKBKBBRB](/stripes/bkbkbkbbrb/) — the page of every t
 The **Lochaber** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/">Lochaber</a></td><td><code>DO/12 O8 N44 DR8 K44 DO44 K4 DR10 K4 DO/12</code></td><td>356</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"><img src="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/sett.png" alt="Lochaber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/">Lochaber</a></td><td></td><td><code>DO/12 O8 N44 DR8 K44 DO44 K4 DR10 K4 DO/12</code></td><td>356</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"><img src="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/sett.png" alt="Lochaber sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

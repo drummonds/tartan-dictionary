@@ -13,10 +13,10 @@ Its design is pattern [RBRBRGRGRGRGWGRWRBRGRGRGR](/stripes/rbrbrgrgrgrgwgrwrbrgr
 The **Staffa** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14~x2/">Staffa</a></td><td><code>R/34 DG28 R8 DG8 R34 DG8 R8 DB24 R26 W10 R26 DG28 W6 DG28 R8 DG8 R34 DG8 R8 DG16 R8 DB8 R8 DB8 R/28</code></td><td>774</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14~x2/"><img src="/variants/s25/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14~x2/sett.png" alt="Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14~x2/">Staffa</a></td><td></td><td><code>R/34 DG28 R8 DG8 R34 DG8 R8 DB24 R26 W10 R26 DG28 W6 DG28 R8 DG8 R34 DG8 R8 DG16 R8 DB8 R8 DB8 R/28</code></td><td>774</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14~x2/"><img src="/variants/s25/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14~x2/sett.png" alt="Staffa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

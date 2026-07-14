@@ -15,10 +15,10 @@ Created by Kinloch Anderson in 1991 for the Royal Pharmaceutical Society's 150th
 The **Royal Pharmaceutical Society Commemorative** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/">Royal Pharmaceutical Society Commemorative</a></td><td><code>DO/6 DB4 G38 DB12 G4 DB12 LY28 W4 DP8 W/4</code></td><td>230</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/"><img src="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/sett.png" alt="Royal Pharmaceutical Society Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/">Royal Pharmaceutical Society Commemorative</a></td><td></td><td><code>DO/6 DB4 G38 DB12 G4 DB12 LY28 W4 DP8 W/4</code></td><td>230</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/"><img src="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/sett.png" alt="Royal Pharmaceutical Society Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

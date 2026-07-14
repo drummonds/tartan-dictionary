@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKGKGKGKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkgkgkgkgkgkg
 The **Garwhal Rifles** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/">Garwhal Rifles</a></td><td><code>Y/36 K30 Y4 K4 Y4 K30 Y30 K30 Y6 K30 Y36 K4 Y6 K4 Y6 K30 Y6 K4 Y6 K4 Y36 K30 Y/4</code></td><td>720</td><td>~2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/"><img src="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/sett.png" alt="Garwhal Rifles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/">Garwhal Rifles</a></td><td></td><td><code>Y/36 K30 Y4 K4 Y4 K30 Y30 K30 Y6 K30 Y36 K4 Y6 K4 Y6 K30 Y6 K4 Y6 K4 Y36 K30 Y/4</code></td><td>720</td><td>~2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/"><img src="/variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/sett.png" alt="Garwhal Rifles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

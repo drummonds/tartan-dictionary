@@ -20,10 +20,10 @@ Hunting tartan of MacKerrell of Hillhouse, distinctively replacing the yellow wa
 The **MacKerrell of Hillhouse Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/">MacKerrell of Hillhouse Hunting</a></td><td><code>DBi/28 DB49 Y3 DB49 DBi28 W/4</code></td><td>—</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/"><img src="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/sett.png" alt="MacKerrell of Hillhouse Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/">MacKerrell of Hillhouse Hunting</a></td><td></td><td><code>DBi/28 DB49 Y3 DB49 DBi28 W/4</code></td><td>—</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/"><img src="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/sett.png" alt="MacKerrell of Hillhouse Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

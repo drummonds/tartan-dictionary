@@ -15,11 +15,11 @@ Created by a 1967 Cardiff society to assert Welsh nationhood; colours from the W
 The **Welsh National** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/">Welsh National</a></td><td><code>K/16 DY8 R8 DY8 K8 DY60 LY/8</code></td><td>208</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/"><img src="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/sett.png" alt="Welsh National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/">(Fashion)</a> · <a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4~r2806019-ly2705081/">#2</a></td></tr>
+<tr><td><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/">Welsh National</a></td><td></td><td><code>K/16 DY8 R8 DY8 K8 DY60 LY/8</code></td><td>208</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/"><img src="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/sett.png" alt="Welsh National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/">(Fashion)</a> · <a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4~r2806019-ly2705081/">#2</a></td></tr>
 </tbody>
 </table>
 

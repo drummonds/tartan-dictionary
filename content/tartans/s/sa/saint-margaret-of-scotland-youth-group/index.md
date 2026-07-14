@@ -13,10 +13,10 @@ Its design is pattern [RBRBGKBW](/stripes/rbrbgkbw/) — the page of every tarta
 The **Saint Margaret of Scotland Youth Group** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/">Saint Margaret of Scotland Youth Group</a></td><td><code>R/60 DB10 R6 DB66 G16 K6 DB16 W/4</code></td><td>304</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><img src="/variants/s8/r30db5r3db33g8k3db8w2~x2/sett.png" alt="Saint Margaret of Scotland Youth Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/">Saint Margaret of Scotland Youth Group</a></td><td></td><td><code>R/60 DB10 R6 DB66 G16 K6 DB16 W/4</code></td><td>304</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><img src="/variants/s8/r30db5r3db33g8k3db8w2~x2/sett.png" alt="Saint Margaret of Scotland Youth Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

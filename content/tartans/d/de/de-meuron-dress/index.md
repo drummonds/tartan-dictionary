@@ -13,10 +13,10 @@ Its design is pattern [GWBYWBW](/stripes/gwbywbw/) — the page of every tartan 
 The **de Meuron Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/">de Meuron Dress</a></td><td><code>W/80 DP10 W12 LY52 N26 W18 DY/6</code></td><td>322</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/"><img src="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/sett.png" alt="de Meuron Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/">de Meuron Dress</a></td><td></td><td><code>W/80 DP10 W12 LY52 N26 W18 DY/6</code></td><td>322</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/"><img src="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/sett.png" alt="de Meuron Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

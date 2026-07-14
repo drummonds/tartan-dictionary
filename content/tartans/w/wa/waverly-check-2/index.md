@@ -13,10 +13,10 @@ Its design is pattern [BRRRRRRRRRRR](/stripes/brrrrrrrrrrr/) — the page of eve
 The **Waverly, Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/do44oii5o8oii2o2oii2o2oii14oi9o2oi4oii2~x2~oii2104058-o1604043-oi2102055/">Waverly, Check</a></td><td><code>DO/88 Oii10 O16 Oii4 O4 Oii4 O4 Oii28 Oi18 O4 Oi8 Oii/4</code></td><td>292</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/do44oii5o8oii2o2oii2o2oii14oi9o2oi4oii2~x2~oii2104058-o1604043-oi2102055/"><img src="/variants/s12/do44oii5o8oii2o2oii2o2oii14oi9o2oi4oii2~x2~oii2104058-o1604043-oi2102055/sett.png" alt="Waverly, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/do44oii5o8oii2o2oii2o2oii14oi9o2oi4oii2~x2~oii2104058-o1604043-oi2102055/">Waverly, Check</a></td><td></td><td><code>DO/88 Oii10 O16 Oii4 O4 Oii4 O4 Oii28 Oi18 O4 Oi8 Oii/4</code></td><td>292</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/do44oii5o8oii2o2oii2o2oii14oi9o2oi4oii2~x2~oii2104058-o1604043-oi2102055/"><img src="/variants/s12/do44oii5o8oii2o2oii2o2oii14oi9o2oi4oii2~x2~oii2104058-o1604043-oi2102055/sett.png" alt="Waverly, Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

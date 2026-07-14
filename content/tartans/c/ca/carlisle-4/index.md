@@ -18,10 +18,10 @@ Its design is pattern [BYBYKYB](/stripes/bybykyb/) — the page of every tartan 
 The **Carlisle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/">Carlisle</a></td><td><code>T/132 LO24 DR12 LO24 K12 LO60 T/128</code></td><td>524</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/"><img src="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/sett.png" alt="Carlisle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/">Carlisle</a></td><td></td><td><code>T/132 LO24 DR12 LO24 K12 LO60 T/128</code></td><td>524</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/"><img src="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/sett.png" alt="Carlisle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

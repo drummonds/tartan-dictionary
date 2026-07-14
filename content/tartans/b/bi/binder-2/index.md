@@ -18,10 +18,10 @@ Its design is pattern [RKBWKGKGKBKGKGKWBKRW](/stripes/rkbwkgkgkbkgkgkwbkrw/) —
 The **Binder** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r2k26db10w1k2g9k1dg9k26db1k26dg9k1g9k2w1db10k25r2w2~x2/">Binder</a></td><td><code>R/4 K52 DB20 W2 K4 G18 K2 DG18 K52 DB2 K52 DG18 K2 G18 K4 W2 DB20 K50 R4 W/4</code></td><td>688</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r2k26db10w1k2g9k1dg9k26db1k26dg9k1g9k2w1db10k25r2w2~x2/"><img src="/variants/s20/r2k26db10w1k2g9k1dg9k26db1k26dg9k1g9k2w1db10k25r2w2~x2/sett.png" alt="Binder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r2k26db10w1k2g9k1dg9k26db1k26dg9k1g9k2w1db10k25r2w2~x2/">Binder</a></td><td></td><td><code>R/4 K52 DB20 W2 K4 G18 K2 DG18 K52 DB2 K52 DG18 K2 G18 K4 W2 DB20 K50 R4 W/4</code></td><td>688</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r2k26db10w1k2g9k1dg9k26db1k26dg9k1g9k2w1db10k25r2w2~x2/"><img src="/variants/s20/r2k26db10w1k2g9k1dg9k26db1k26dg9k1g9k2w1db10k25r2w2~x2/sett.png" alt="Binder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

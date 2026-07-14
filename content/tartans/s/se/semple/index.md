@@ -20,10 +20,10 @@ Designed in 1996 by Iain Semple of Tamworth for anyone of the name; resembles Se
 The **Semple** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/">Semple</a></td><td><code>T/22 K6 T6 K6 T8 K30 G72 W6 G72 K30 T8 K6 T6 K6 T22 R/8</code></td><td>598</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/"><img src="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/sett.png" alt="Semple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/">Semple</a></td><td></td><td><code>T/22 K6 T6 K6 T8 K30 G72 W6 G72 K30 T8 K6 T6 K6 T22 R/8</code></td><td>598</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/"><img src="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/sett.png" alt="Semple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

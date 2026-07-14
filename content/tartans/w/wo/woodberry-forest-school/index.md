@@ -13,10 +13,10 @@ Its design is pattern [KRGRKWKWKR](/stripes/krgrkwkwkr/) — the page of every t
 The **Woodberry Forest School** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/">Woodberry Forest School</a></td><td><code>O/12 K6 W6 K6 W6 K68 O12 G10 O12 K/10</code></td><td>274</td><td>~2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/"><img src="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/sett.png" alt="Woodberry Forest School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/">Woodberry Forest School</a></td><td></td><td><code>O/12 K6 W6 K6 W6 K68 O12 G10 O12 K/10</code></td><td>274</td><td>~2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/"><img src="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/sett.png" alt="Woodberry Forest School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

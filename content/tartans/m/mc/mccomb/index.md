@@ -15,11 +15,11 @@ MacThomas tartan with the over-check changed to a golf club's colours, designed 
 The **McComb** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/">McComb</a></td><td><code>DB/6 R4 DB36 K12 DG36 Y4 G/6</code></td><td>196</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><img src="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/sett.png" alt="McComb sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/db3r2db18k6dg18y2g3~x2/">McComb</a> · <a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/">(Personal)</a></td></tr>
+<tr><td><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/">McComb</a></td><td></td><td><code>DB/6 R4 DB36 K12 DG36 Y4 G/6</code></td><td>196</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><img src="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/sett.png" alt="McComb sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/db3r2db18k6dg18y2g3~x2/">McComb</a> · <a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/">(Personal)</a></td></tr>
 </tbody>
 </table>
 

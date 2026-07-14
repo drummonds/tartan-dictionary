@@ -13,10 +13,10 @@ Its design is pattern [BBBBBBBBWBWBBBBBBBBG](/stripes/bbbbbbbbwbwbbbbbbbbg/) —
 The **Kilmarnock Football Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~db1106275-dbi1406275/">Kilmarnock Football Club</a></td><td><code>DB/56 DBi22 DB16 DBi30 DP6 DBi6 DP6 DBi8 W6 DBi8 W6 DBi8 DP6 DBi6 DP6 DBi30 DB16 DBi22 DB56 Y/4</code></td><td>588</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~db1106275-dbi1406275/"><img src="/variants/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~db1106275-dbi1406275/sett.png" alt="Kilmarnock Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~db1106275-dbi1406275/">Kilmarnock Football Club</a></td><td></td><td><code>DB/56 DBi22 DB16 DBi30 DP6 DBi6 DP6 DBi8 W6 DBi8 W6 DBi8 DP6 DBi6 DP6 DBi30 DB16 DBi22 DB56 Y/4</code></td><td>588</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~db1106275-dbi1406275/"><img src="/variants/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28y2~x2~db1106275-dbi1406275/sett.png" alt="Kilmarnock Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

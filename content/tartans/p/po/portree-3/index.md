@@ -18,10 +18,10 @@ Its design is pattern [BBBGBWBBBBBW](/stripes/bbbgbwbbbbbw/) — the page of eve
 The **Portree** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/">Portree</a></td><td><code>N/40 T8 N24 Y4 N8 W6 N8 DR36 DO20 N4 DO8 W/4</code></td><td>296</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/"><img src="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/sett.png" alt="Portree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/">Portree</a></td><td></td><td><code>N/40 T8 N24 Y4 N8 W6 N8 DR36 DO20 N4 DO8 W/4</code></td><td>296</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/"><img src="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/sett.png" alt="Portree sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

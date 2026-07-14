@@ -18,10 +18,10 @@ Its design is pattern [BBGBWBWBWKB](/stripes/bbgbwbwbwkb/) — the page of every
 The **Lorne Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/">Lorne Dress</a></td><td><code>DB/6 B2 G40 B40 W4 B4 W4 B4 W64 K2 B/6</code></td><td>340</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/"><img src="/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/sett.png" alt="Lorne Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/">Lorne Dress</a></td><td></td><td><code>DB/6 B2 G40 B40 W4 B4 W4 B4 W64 K2 B/6</code></td><td>340</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/"><img src="/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/sett.png" alt="Lorne Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

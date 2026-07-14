@@ -16,10 +16,10 @@ Its design is pattern [RWYWBYWGWRYRKRYRWY](/stripes/rwywbywgwryrkryrwy/) — the
 The **Campbell, New Louden** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/">Campbell, New Louden</a></td><td><code>R/50 W4 LY10 LB4 DB4 LY10 W4 G24 W4 O4 LY4 R10 K4 R10 LY4 O4 W4 LY/18</code></td><td>284</td><td>1840</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/"><img src="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/sett.png" alt="Campbell, New Louden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/">Campbell, New Louden</a></td><td></td><td><code>R/50 W4 LY10 LB4 DB4 LY10 W4 G24 W4 O4 LY4 R10 K4 R10 LY4 O4 W4 LY/18</code></td><td>284</td><td>1840</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/"><img src="/variants/s18/r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9~x2/sett.png" alt="Campbell, New Louden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,11 +13,11 @@ Its design is pattern [WBWBWBKWKWKBWBWBWWWWWBKWBW](/stripes/wbwbwbkwkwkbwbwbwwww
 The **Round Table** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0804274-dbi1605267/">Round Table</a></td><td><code>LB/11 DB2 LB11 K2 DB2 LB5 W2 LB5 W2 LB5 DB10 LB1 DBi2 LB1 DB10 K4 LB5 K2 LB5 K4 DB2 LB2 DB2 LB11 DBi2 LB/1</code></td><td>420</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0804274-dbi1605267/"><img src="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0804274-dbi1605267/sett.png" alt="Round Table sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0804274-dbi1605267/">Round Table</a> · <a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0805267-dbi1604274/">Round Table</a> · <a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db1204274-dbi1406275/">Corporate Tartan</a></td></tr>
+<tr><td><a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0804274-dbi1605267/">Round Table</a></td><td></td><td><code>LB/11 DB2 LB11 K2 DB2 LB5 W2 LB5 W2 LB5 DB10 LB1 DBi2 LB1 DB10 K4 LB5 K2 LB5 K4 DB2 LB2 DB2 LB11 DBi2 LB/1</code></td><td>420</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0804274-dbi1605267/"><img src="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0804274-dbi1605267/sett.png" alt="Round Table sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">3 Variants: <a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0804274-dbi1605267/">Round Table</a> · <a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0805267-dbi1604274/">Round Table</a> · <a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db1204274-dbi1406275/">Corporate Tartan</a></td></tr>
 </tbody>
 </table>
 

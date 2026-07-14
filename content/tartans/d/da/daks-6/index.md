@@ -20,12 +20,12 @@ The **Daks** tartan groups 2 setts — the same named design recorded as differe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k40db10g6k2g3k2~x2/">Daks</a> ★</td><td><code>K/80 DB20 G12 K4 G6 K/4</code></td><td>168</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k40db10g6k2g3k2~x2/"><img src="/variants/s6/k40db10g6k2g3k2~x2/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/">(Chino Check) (Fashion)</a></td><td><code>Ki/50 K14 Ki4 K4 Ki4 K4 DB20 G12 K4 G6 Ki/4</code></td><td>198</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/"><img src="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/sett.png" alt="(Chino Check) (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k40db10g6k2g3k2~x2/">Daks</a> ★</td><td></td><td><code>K/80 DB20 G12 K4 G6 K/4</code></td><td>168</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k40db10g6k2g3k2~x2/"><img src="/variants/s6/k40db10g6k2g3k2~x2/sett.png" alt="Daks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/">(Chino Check) (Fashion)</a></td><td>7.07</td><td><code>Ki/50 K14 Ki4 K4 Ki4 K4 DB20 G12 K4 G6 Ki/4</code></td><td>198</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/"><img src="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/sett.png" alt="(Chino Check) (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

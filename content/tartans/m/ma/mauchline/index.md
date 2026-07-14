@@ -13,10 +13,10 @@ Its design is pattern [GKWGYBGKGRGWGK](/stripes/gkwgybgkgrgwgk/) — the page of
 The **Mauchline** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/">Mauchline</a></td><td><code>DY/24 K4 W7 DY7 LY4 N28 DY7 K29 DY35 R7 DY7 W4 DY4 K/17</code></td><td>327</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/"><img src="/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/sett.png" alt="Mauchline sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/">Mauchline</a></td><td></td><td><code>DY/24 K4 W7 DY7 LY4 N28 DY7 K29 DY35 R7 DY7 W4 DY4 K/17</code></td><td>327</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/"><img src="/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/sett.png" alt="Mauchline sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

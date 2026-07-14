@@ -18,10 +18,10 @@ Its design is pattern [GKGKWRWRWKW](/stripes/gkgkwrwrwkw/) — the page of every
 The **Liddell** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/">Liddell</a></td><td><code>Y/4 K6 Y4 K44 LB16 R2 LB6 R2 LB44 K2 W/4</code></td><td>260</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><img src="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/sett.png" alt="Liddell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/">Liddell</a></td><td></td><td><code>Y/4 K6 Y4 K44 LB16 R2 LB6 R2 LB44 K2 W/4</code></td><td>260</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><img src="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/sett.png" alt="Liddell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BWKWKBWBGWBWBWRW](/stripes/bwkwkbwbgwbwbwrw/) — the pag
 The **Manhattan Financial** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/w24r1wi3n9w10n4wi3g1n3wi3n2k10wi4k7w12db2~x2~w3600000-wi4000000/">Manhattan Financial</a></td><td><code>W/48 R2 Wi6 N18 W20 N8 Wi6 G2 N6 Wi6 N4 K20 Wi8 K14 W24 DB/4</code></td><td>340</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/w24r1wi3n9w10n4wi3g1n3wi3n2k10wi4k7w12db2~x2~w3600000-wi4000000/"><img src="/variants/s16/w24r1wi3n9w10n4wi3g1n3wi3n2k10wi4k7w12db2~x2~w3600000-wi4000000/sett.png" alt="Manhattan Financial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/w24r1wi3n9w10n4wi3g1n3wi3n2k10wi4k7w12db2~x2~w3600000-wi4000000/">Manhattan Financial</a></td><td></td><td><code>W/48 R2 Wi6 N18 W20 N8 Wi6 G2 N6 Wi6 N4 K20 Wi8 K14 W24 DB/4</code></td><td>340</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/w24r1wi3n9w10n4wi3g1n3wi3n2k10wi4k7w12db2~x2~w3600000-wi4000000/"><img src="/variants/s16/w24r1wi3n9w10n4wi3g1n3wi3n2k10wi4k7w12db2~x2~w3600000-wi4000000/sett.png" alt="Manhattan Financial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

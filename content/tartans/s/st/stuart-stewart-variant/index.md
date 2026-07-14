@@ -13,10 +13,10 @@ Its design is pattern [KGWKWBWKGKGRGRW](/stripes/kgwkwbwkgkgrgrw/) — the page 
 The **Stuart/Stewart variant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/">Stuart/Stewart variant</a></td><td><code>K/6 G10 W10 K2 W23 DB10 W2 K6 Y2 K8 G10 R12 G4 R8 W/4</code></td><td>224</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/"><img src="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/sett.png" alt="Stuart/Stewart variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/">Stuart/Stewart variant</a></td><td></td><td><code>K/6 G10 W10 K2 W23 DB10 W2 K6 Y2 K8 G10 R12 G4 R8 W/4</code></td><td>224</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/"><img src="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/sett.png" alt="Stuart/Stewart variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

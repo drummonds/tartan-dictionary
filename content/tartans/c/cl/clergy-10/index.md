@@ -18,10 +18,10 @@ Its design is pattern [WKWGWKGKGKWKWGWKW](/stripes/wkwgwkgkgkwkwgwkw/) — the p
 The **Clergy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/">Clergy</a></td><td><code>W/1 K5 W1 Y4 W1 K26 W1 K10 Y5 K2 Y5 K10 W1 Y4 W1 K5 W/1</code></td><td>164</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/"><img src="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/">Clergy</a></td><td></td><td><code>W/1 K5 W1 Y4 W1 K26 W1 K10 Y5 K2 Y5 K10 W1 Y4 W1 K5 W/1</code></td><td>164</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/"><img src="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

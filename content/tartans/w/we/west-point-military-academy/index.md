@@ -16,10 +16,10 @@ Its design is pattern [BGBKBKBK](/stripes/bgbkbkbk/) — the page of every tarta
 The **West Point Military Academy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/">West Point Military Academy</a></td><td><code>K/40 N4 K8 N4 K16 N40 Y4 N/8</code></td><td>200</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><img src="/variants/s8/k10n1k2n1k4n10y1n2~x4/sett.png" alt="West Point Military Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/">West Point Military Academy</a></td><td></td><td><code>K/40 N4 K8 N4 K16 N40 Y4 N/8</code></td><td>200</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><img src="/variants/s8/k10n1k2n1k4n10y1n2~x4/sett.png" alt="West Point Military Academy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BWKGBWBWKW](/stripes/bwkgbwbwkw/) — the page of every t
 The **Head of the Lakes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/">Head of the Lakes</a></td><td><code>B/12 W2 K24 G12 DP4 W2 DP4 W2 K24 LB/2</code></td><td>162</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/"><img src="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/sett.png" alt="Head of the Lakes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/">Head of the Lakes</a></td><td></td><td><code>B/12 W2 K24 G12 DP4 W2 DP4 W2 K24 LB/2</code></td><td>162</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/"><img src="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/sett.png" alt="Head of the Lakes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

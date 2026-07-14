@@ -13,10 +13,10 @@ Its design is pattern [BBBGRKBBW](/stripes/bbbgrkbbw/) — the page of every tar
 The **Lochranza** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/">Lochranza</a></td><td><code>DB/12 N4 DB40 G12 R4 K12 DB20 N8 LB/4</code></td><td>216</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/"><img src="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/sett.png" alt="Lochranza sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/">Lochranza</a></td><td></td><td><code>DB/12 N4 DB40 G12 R4 K12 DB20 N8 LB/4</code></td><td>216</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/"><img src="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/sett.png" alt="Lochranza sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

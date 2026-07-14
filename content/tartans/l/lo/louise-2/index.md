@@ -20,10 +20,10 @@ Created for the 1871 wedding of the Marquis of Lorne to Princess Louise; compani
 The **Louise** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/">Louise</a></td><td><code>DB/4 R2 G16 K4 G4 K4 G4 K16 DB4 K4 DB4 K4 DB16 K2 G/4</code></td><td>176</td><td>1871</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><img src="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/sett.png" alt="Louise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/">Louise</a></td><td></td><td><code>DB/4 R2 G16 K4 G4 K4 G4 K16 DB4 K4 DB4 K4 DB16 K2 G/4</code></td><td>176</td><td>1871</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><img src="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/sett.png" alt="Louise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

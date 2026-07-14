@@ -13,10 +13,10 @@ Its design is pattern [KBKWKBKGK](/stripes/kbkwkbkgk/) — the page of every tar
 The **Rainford** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/">Rainford</a></td><td><code>K/24 DB20 K6 LT8 K6 DB20 K24 DG24 K/4</code></td><td>244</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/"><img src="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/sett.png" alt="Rainford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/">Rainford</a></td><td></td><td><code>K/24 DB20 K6 LT8 K6 DB20 K24 DG24 K/4</code></td><td>244</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/"><img src="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/sett.png" alt="Rainford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

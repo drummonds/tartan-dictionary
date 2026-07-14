@@ -18,10 +18,10 @@ Its design is pattern [BKRKBRBYKB](/stripes/bkrkbrbykb/) — the page of every t
 The **Mead** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/">Mead</a></td><td><code>B/72 K6 R12 K6 DB20 R10 DB6 LY8 K2 B/4</code></td><td>216</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/"><img src="/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/sett.png" alt="Mead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/">Mead</a></td><td></td><td><code>B/72 K6 R12 K6 DB20 R10 DB6 LY8 K2 B/4</code></td><td>216</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/"><img src="/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/sett.png" alt="Mead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

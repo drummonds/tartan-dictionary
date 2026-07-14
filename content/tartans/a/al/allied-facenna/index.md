@@ -13,10 +13,10 @@ Its design is pattern [BBKBKBKBKBKBBWBBKBKBKBBG](/stripes/bbkbkbkbkbkbbwbbkbkbkb
 The **Allied Facenna** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/dbi17db17k3db3k3db3k19db3k3db3k3db17dbi17lb3dbi17db17k17db3k3db3k17db17dbi17dy3~x2~dbi1406275-db1404245/">Allied Facenna</a></td><td><code>DBi/34 DB34 K6 DB6 K6 DB6 K38 DB6 K6 DB6 K6 DB34 DBi34 LB6 DBi34 DB34 K34 DB6 K6 DB6 K34 DB34 DBi34 DY/6</code></td><td>872</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/dbi17db17k3db3k3db3k19db3k3db3k3db17dbi17lb3dbi17db17k17db3k3db3k17db17dbi17dy3~x2~dbi1406275-db1404245/"><img src="/variants/s24/dbi17db17k3db3k3db3k19db3k3db3k3db17dbi17lb3dbi17db17k17db3k3db3k17db17dbi17dy3~x2~dbi1406275-db1404245/sett.png" alt="Allied Facenna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/dbi17db17k3db3k3db3k19db3k3db3k3db17dbi17lb3dbi17db17k17db3k3db3k17db17dbi17dy3~x2~dbi1406275-db1404245/">Allied Facenna</a></td><td></td><td><code>DBi/34 DB34 K6 DB6 K6 DB6 K38 DB6 K6 DB6 K6 DB34 DBi34 LB6 DBi34 DB34 K34 DB6 K6 DB6 K34 DB34 DBi34 DY/6</code></td><td>872</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/dbi17db17k3db3k3db3k19db3k3db3k3db17dbi17lb3dbi17db17k17db3k3db3k17db17dbi17dy3~x2~dbi1406275-db1404245/"><img src="/variants/s24/dbi17db17k3db3k3db3k19db3k3db3k3db17dbi17lb3dbi17db17k17db3k3db3k17db17dbi17dy3~x2~dbi1406275-db1404245/sett.png" alt="Allied Facenna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

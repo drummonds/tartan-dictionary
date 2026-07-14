@@ -13,10 +13,10 @@ Its design is pattern [GBBBBBBGG](/stripes/gbbbbbbgg/) — the page of every tar
 The **Children 1st** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/">Children 1st</a></td><td><code>Y/14 DB64 DP8 DB8 DP16 DB8 DP16 G64 Y/6</code></td><td>388</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/"><img src="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/sett.png" alt="Children 1st sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/">Children 1st</a></td><td></td><td><code>Y/14 DB64 DP8 DB8 DP16 DB8 DP16 G64 Y/6</code></td><td>388</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/"><img src="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/sett.png" alt="Children 1st sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

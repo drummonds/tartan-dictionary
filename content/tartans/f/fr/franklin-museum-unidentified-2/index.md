@@ -16,10 +16,10 @@ Its design is pattern [BRBRBRGR](/stripes/brbrbrgr/) — the page of every tarta
 The **Franklin Museum Unidentified 2** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/">Franklin Museum Unidentified 2</a></td><td><code>R/20 G80 R100 DB4 R100 DB80 R20 DB/4</code></td><td>792</td><td>1790</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/"><img src="/variants/s8/r5g20r25db1r25db20r5db1~x4/sett.png" alt="Franklin Museum Unidentified 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/">Franklin Museum Unidentified 2</a></td><td></td><td><code>R/20 G80 R100 DB4 R100 DB80 R20 DB/4</code></td><td>792</td><td>1790</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/"><img src="/variants/s8/r5g20r25db1r25db20r5db1~x4/sett.png" alt="Franklin Museum Unidentified 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

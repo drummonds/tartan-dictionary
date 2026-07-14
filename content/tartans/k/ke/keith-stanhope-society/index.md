@@ -16,10 +16,10 @@ Its design is pattern [BRBGGYGYG](/stripes/brbggygyg/) — the page of every tar
 The **Keith Stanhope Society** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg1806142-g1903114-ly2705081-lyi3407090/">Keith Stanhope Society</a></td><td><code>DB/80 R8 DB20 DG20 G44 LY6 G8 LYi6 G/8</code></td><td>312</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg1806142-g1903114-ly2705081-lyi3407090/"><img src="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg1806142-g1903114-ly2705081-lyi3407090/sett.png" alt="Keith Stanhope Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg1806142-g1903114-ly2705081-lyi3407090/">Keith Stanhope Society</a></td><td></td><td><code>DB/80 R8 DB20 DG20 G44 LY6 G8 LYi6 G/8</code></td><td>312</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg1806142-g1903114-ly2705081-lyi3407090/"><img src="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg1806142-g1903114-ly2705081-lyi3407090/sett.png" alt="Keith Stanhope Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

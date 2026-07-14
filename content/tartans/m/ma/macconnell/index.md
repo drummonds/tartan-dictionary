@@ -22,12 +22,12 @@ The **MacConnell** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/">MacConnell</a> ★</td><td><code>DB/40 DG12 DB12 LB4 DG40 DR16 DG12 DR8 DG20 LR/6</code></td><td>294</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/"><img src="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/sett.png" alt="MacConnell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/">MacConnell</a></td><td><code>DB/44 G12 DB10 LB4 G44 R12 G10 R8 G18 W/6</code></td><td>286</td><td>1989</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/"><img src="/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/sett.png" alt="MacConnell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/">MacConnell</a> ★</td><td></td><td><code>DB/40 DG12 DB12 LB4 DG40 DR16 DG12 DR8 DG20 LR/6</code></td><td>294</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/"><img src="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/sett.png" alt="MacConnell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/">MacConnell</a></td><td>0.58</td><td><code>DB/44 G12 DB10 LB4 G44 R12 G10 R8 G18 W/6</code></td><td>286</td><td>1989</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/"><img src="/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/sett.png" alt="MacConnell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

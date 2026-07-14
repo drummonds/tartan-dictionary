@@ -18,10 +18,10 @@ Designed by Andrew Elliot as Hawick's official district tartan; a Cockburn varia
 The **Hawick Corporate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s33/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2~x2/">Hawick Corporate</a></td><td><code>DG/48 R4 DG24 DB4 W4 DB6 Y4 DB6 LB8 DB6 Y4 DB6 W4 DB4 G24 R4 G24 LB24 R4 LB24 DB4 W4 DB6 Y4 DB6 LB8 DB6 Y4 DB6 W4 DB4 DG24 R/4</code></td><td>588</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s33/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2~x2/"><img src="/variants/s33/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2~x2/sett.png" alt="Hawick Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s33/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2~x2/">Hawick Corporate</a></td><td></td><td><code>DG/48 R4 DG24 DB4 W4 DB6 Y4 DB6 LB8 DB6 Y4 DB6 W4 DB4 G24 R4 G24 LB24 R4 LB24 DB4 W4 DB6 Y4 DB6 LB8 DB6 Y4 DB6 W4 DB4 DG24 R/4</code></td><td>588</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s33/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2~x2/"><img src="/variants/s33/dg24r2dg12db2w2db3y2db3lb4db3y2db3w2db2g12r2g12lb12r2lb12db2w2db3y2db3lb4db3y2db3w2db2dg12r2~x2/sett.png" alt="Hawick Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

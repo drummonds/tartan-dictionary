@@ -13,10 +13,10 @@ Its design is pattern [GKGKYRYRYRYRYKRYR](/stripes/gkgkyryryryrykryr/) — the p
 The **Internationale, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/">Internationale, The</a></td><td><code>R/8 LR4 R48 K2 LR16 R4 LR2 R4 LR8 R4 LR2 R4 LR32 K12 Y4 K2 Y/8</code></td><td>312</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/"><img src="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/sett.png" alt="Internationale, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/">Internationale, The</a></td><td></td><td><code>R/8 LR4 R48 K2 LR16 R4 LR2 R4 LR8 R4 LR2 R4 LR32 K12 Y4 K2 Y/8</code></td><td>312</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/"><img src="/variants/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6y2k1y4~x2~lr2800000-k0800000/sett.png" alt="Internationale, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

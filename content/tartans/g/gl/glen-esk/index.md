@@ -16,11 +16,11 @@ Its design is pattern [GRGRGRG](/stripes/grgrgrg/) — the page of every tartan 
 The **Glen Esk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/">Glen Esk</a></td><td><code>DG/8 R4 DG32 R20 G20 R4 G/8</code></td><td>176</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/"><img src="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/sett.png" alt="Glen Esk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/">(Fashion)</a> · <a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1504144-g1903114/">(1993)</a></td></tr>
+<tr><td><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/">Glen Esk</a></td><td></td><td><code>DG/8 R4 DG32 R20 G20 R4 G/8</code></td><td>176</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/"><img src="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/sett.png" alt="Glen Esk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/">(Fashion)</a> · <a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1504144-g1903114/">(1993)</a></td></tr>
 </tbody>
 </table>
 

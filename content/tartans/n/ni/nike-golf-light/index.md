@@ -13,10 +13,10 @@ Its design is pattern [RWWWWWWWWRWRWRWRW](/stripes/rwwwwwwwwrwrwrwrw/) — the p
 The **Nike Golf Light** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/">Nike Golf Light</a></td><td><code>R/10 W40 LB2 W4 LB2 W4 LB4 W4 LB10 O4 LB4 O4 LB4 O6 LB4 O20 W/6</code></td><td>248</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/"><img src="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/sett.png" alt="Nike Golf Light sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/">Nike Golf Light</a></td><td></td><td><code>R/10 W40 LB2 W4 LB2 W4 LB4 W4 LB10 O4 LB4 O4 LB4 O6 LB4 O20 W/6</code></td><td>248</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/"><img src="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/sett.png" alt="Nike Golf Light sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

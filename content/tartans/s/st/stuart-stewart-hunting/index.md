@@ -13,10 +13,10 @@ Its design is pattern [BGBKGRGKGKGKGKGGGK](/stripes/bgbkgrgkgkgkgkgggk/) — the
 The **Stuart/Stewart Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~x2/">Stuart/Stewart Hunting</a></td><td><code>DB/18 G6 DB18 K8 G20 R8 G20 K12 G4 K14 G4 K14 G4 K12 G20 Y8 G20 K/16</code></td><td>418</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~x2/"><img src="/variants/s18/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~x2/sett.png" alt="Stuart/Stewart Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~x2/">Stuart/Stewart Hunting</a></td><td></td><td><code>DB/18 G6 DB18 K8 G20 R8 G20 K12 G4 K14 G4 K14 G4 K12 G20 Y8 G20 K/16</code></td><td>418</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~x2/"><img src="/variants/s18/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~x2/sett.png" alt="Stuart/Stewart Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **MacDougall** tartan groups 2 setts — the same named design recorded as d
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/ri6dr4r2ri3g34dr3r2ri4r2dr3dp8lb2ri40dr4r2ri6~x2~ri2209032-r2208029/">MacDougall</a> ★</td><td><code>Ri/12 DR8 R4 Ri6 G68 DR6 R4 Ri8 R4 DR6 DP16 LB4 Ri80 DR8 R4 Ri/12</code></td><td>476</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/ri6dr4r2ri3g34dr3r2ri4r2dr3dp8lb2ri40dr4r2ri6~x2~ri2209032-r2208029/"><img src="/variants/s16/ri6dr4r2ri3g34dr3r2ri4r2dr3dp8lb2ri40dr4r2ri6~x2~ri2209032-r2208029/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/ri7r5dr5ri31k9dr4r3ri5r3dr4g30ri4r3dr5ri5~x2~ri2209032-r2208029/">(Kinloch Anderson)</a></td><td><code>Ri/14 R10 DR10 Ri62 K18 DR8 R6 Ri10 R6 DR8 G60 Ri8 R6 DR10 Ri/10</code></td><td>468</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/ri7r5dr5ri31k9dr4r3ri5r3dr4g30ri4r3dr5ri5~x2~ri2209032-r2208029/"><img src="ri7r5dr5ri31k9dr4r3ri5r3dr4g30ri4r3dr5ri5-rev.png" alt="(Kinloch Anderson) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/ri6dr4r2ri3g34dr3r2ri4r2dr3dp8lb2ri40dr4r2ri6~x2~ri2209032-r2208029/">MacDougall</a> ★</td><td></td><td><code>Ri/12 DR8 R4 Ri6 G68 DR6 R4 Ri8 R4 DR6 DP16 LB4 Ri80 DR8 R4 Ri/12</code></td><td>476</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/ri6dr4r2ri3g34dr3r2ri4r2dr3dp8lb2ri40dr4r2ri6~x2~ri2209032-r2208029/"><img src="/variants/s16/ri6dr4r2ri3g34dr3r2ri4r2dr3dp8lb2ri40dr4r2ri6~x2~ri2209032-r2208029/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/ri7r5dr5ri31k9dr4r3ri5r3dr4g30ri4r3dr5ri5~x2~ri2209032-r2208029/">(Kinloch Anderson)</a></td><td>1.00</td><td><code>Ri/14 R10 DR10 Ri62 K18 DR8 R6 Ri10 R6 DR8 G60 Ri8 R6 DR10 Ri/10</code></td><td>468</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/ri7r5dr5ri31k9dr4r3ri5r3dr4g30ri4r3dr5ri5~x2~ri2209032-r2208029/"><img src="ri7r5dr5ri31k9dr4r3ri5r3dr4g30ri4r3dr5ri5-rev.png" alt="(Kinloch Anderson) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/) â
 The **Matheson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/">Matheson</a></td><td><code>Y/32 DB16 Y4 DB4 Y4 DB96 K32 Y16 DB4 Y4 DB4 Y16 DB32 Y4 DB4 Y4 DB4 K32 Y32 DB8 Y/8</code></td><td>680</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/"><img src="/variants/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/sett.png" alt="Matheson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/">Matheson</a></td><td></td><td><code>Y/32 DB16 Y4 DB4 Y4 DB96 K32 Y16 DB4 Y4 DB4 Y16 DB32 Y4 DB4 Y4 DB4 K32 Y32 DB8 Y/8</code></td><td>680</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/"><img src="/variants/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/sett.png" alt="Matheson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

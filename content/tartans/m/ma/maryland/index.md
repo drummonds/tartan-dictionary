@@ -13,10 +13,10 @@ Its design is pattern [BWBWRGKW](/stripes/bwbwrgkw/) — the page of every tarta
 The **Maryland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/">Maryland</a></td><td><code>DB/32 LB4 DBi4 LB4 R48 Y24 K48 W/8</code></td><td>304</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/"><img src="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/sett.png" alt="Maryland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/">Maryland</a></td><td></td><td><code>DB/32 LB4 DBi4 LB4 R48 Y24 K48 W/8</code></td><td>304</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/"><img src="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/sett.png" alt="Maryland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

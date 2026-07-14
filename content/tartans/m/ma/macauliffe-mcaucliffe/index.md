@@ -13,10 +13,10 @@ Its design is pattern [BRBRBGWG](/stripes/brbrbgwg/) — the page of every tarta
 The **MacAuliffe/McAucliffe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/">MacAuliffe/McAucliffe</a></td><td><code>G/76 W4 G12 DB48 O12 DB4 O6 DB/4</code></td><td>252</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><img src="/variants/s8/g38w2g6db24o6db2o3db2~x2/sett.png" alt="MacAuliffe/McAucliffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/">MacAuliffe/McAucliffe</a></td><td></td><td><code>G/76 W4 G12 DB48 O12 DB4 O6 DB/4</code></td><td>252</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><img src="/variants/s8/g38w2g6db24o6db2o3db2~x2/sett.png" alt="MacAuliffe/McAucliffe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

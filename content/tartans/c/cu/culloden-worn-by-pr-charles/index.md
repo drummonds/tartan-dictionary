@@ -16,10 +16,10 @@ Its design is pattern [WGGWGBWBBRWRWGW](/stripes/wggwgbwbbrwrwgw/) — the page 
 The **Culloden Worn by Pr Charles** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/">Culloden Worn by Pr Charles</a></td><td><code>LB/34 G30 Y10 W4 G16 DP12 W4 DB16 DO64 R36 W4 R16 W4 DY100 W/4</code></td><td>670</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/"><img src="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/sett.png" alt="Culloden Worn by Pr Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/">Culloden Worn by Pr Charles</a></td><td></td><td><code>LB/34 G30 Y10 W4 G16 DP12 W4 DB16 DO64 R36 W4 R16 W4 DY100 W/4</code></td><td>670</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/"><img src="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/sett.png" alt="Culloden Worn by Pr Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BKBGKYKBKGRKRWRKRGKBKYKGBKBK](/stripes/bkbgkykbkgrkrwrkrg
 The **Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/">Stewart</a></td><td><code>DB/28 K24 DB6 DG52 K12 LY4 K4 DB4 K4 DG16 R8 K4 R8 LB4 R8 K4 R8 DG16 K4 DB4 K4 LY4 K12 DG52 DB6 K24 DB28 K/8</code></td><td>684</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/"><img src="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/">Stewart</a></td><td></td><td><code>DB/28 K24 DB6 DG52 K12 LY4 K4 DB4 K4 DG16 R8 K4 R8 LB4 R8 K4 R8 DG16 K4 DB4 K4 LY4 K12 DG52 DB6 K24 DB28 K/8</code></td><td>684</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/"><img src="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

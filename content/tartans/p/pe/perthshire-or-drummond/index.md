@@ -17,12 +17,12 @@ The **Perthshire or Drummond** tartan groups 2 setts — the same named design r
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/">Perthshire or Drummond</a> ★</td><td><code>R/82 W4 DP10 DY4 G42 R18 DP10 DB6 W/4</code></td><td>274</td><td>~1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/"><img src="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/sett.png" alt="Perthshire or Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/">Perthshire, or Drummond</a></td><td><code>R/82 W4 DP10 Y4 G42 R18 DP10 DB6 W/4</code></td><td>274</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/"><img src="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/sett.png" alt="Perthshire, or Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/">Perthshire or Drummond</a> ★</td><td></td><td><code>R/82 W4 DP10 DY4 G42 R18 DP10 DB6 W/4</code></td><td>274</td><td>~1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/"><img src="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/sett.png" alt="Perthshire or Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/">Perthshire, or Drummond</a></td><td>0.01</td><td><code>R/82 W4 DP10 Y4 G42 R18 DP10 DB6 W/4</code></td><td>274</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/"><img src="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/sett.png" alt="Perthshire, or Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

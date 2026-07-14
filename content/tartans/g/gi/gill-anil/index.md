@@ -13,10 +13,10 @@ Its design is pattern [GBBBRBRBRW](/stripes/gbbbrbrbrw/) — the page of every t
 The **Gill, Anil** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/">Gill, Anil</a></td><td><code>G/2 DB60 DP64 DB2 R10 DB2 Ri8 DB2 R4 W/2</code></td><td>308</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/"><img src="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/sett.png" alt="Gill, Anil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/">Gill, Anil</a></td><td></td><td><code>G/2 DB60 DP64 DB2 R10 DB2 Ri8 DB2 R4 W/2</code></td><td>308</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/"><img src="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/sett.png" alt="Gill, Anil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

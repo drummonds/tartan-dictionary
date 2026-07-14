@@ -15,10 +15,10 @@ Commemorates the Border Reivers ballad farmer Jamie Telfer; derived from Telfer 
 The **Telfer, Jamie of the Fair Dodhead** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1~x4/">Telfer, Jamie of the Fair Dodhead</a></td><td><code>DY/4 DR20 DP4 DG8 DR4 DG48 DP4 DG8 DP24 DB20 B/4</code></td><td>288</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1~x4/"><img src="/variants/s11/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1~x4/sett.png" alt="Telfer, Jamie of the Fair Dodhead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1~x4/">Telfer, Jamie of the Fair Dodhead</a></td><td></td><td><code>DY/4 DR20 DP4 DG8 DR4 DG48 DP4 DG8 DP24 DB20 B/4</code></td><td>288</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1~x4/"><img src="/variants/s11/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1~x4/sett.png" alt="Telfer, Jamie of the Fair Dodhead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

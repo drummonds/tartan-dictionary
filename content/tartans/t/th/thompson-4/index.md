@@ -18,10 +18,10 @@ Its design is pattern [BWGBGRGBGWBR](/stripes/bwgbgrgbgwbr/) — the page of eve
 The **Thompson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/">Thompson</a></td><td><code>T/60 W52 DY24 T8 DY8 R8 DY8 T8 DY24 W52 T60 R/12</code></td><td>576</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/"><img src="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/sett.png" alt="Thompson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/">Thompson</a></td><td></td><td><code>T/60 W52 DY24 T8 DY8 R8 DY8 T8 DY24 W52 T60 R/12</code></td><td>576</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/"><img src="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/sett.png" alt="Thompson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

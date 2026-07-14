@@ -13,10 +13,10 @@ Its design is pattern [BGBGBKBGBKWKRKWKBGBKBGBGBG](/stripes/bgbgbkbgbkwkrkwkbgbk
 The **Wupper** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s26/db2y1db2y1db3k6db18g1db18k4w1k4o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/">Wupper</a></td><td><code>DB/4 Y2 DB4 Y2 DB6 K12 DB36 G2 DB36 K8 W2 K8 O4 K8 W2 K8 DB36 G2 DB36 K12 DB6 Y2 DB4 Y2 DB4 Y/4</code></td><td>496</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s26/db2y1db2y1db3k6db18g1db18k4w1k4o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/"><img src="/variants/s26/db2y1db2y1db3k6db18g1db18k4w1k4o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/sett.png" alt="Wupper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s26/db2y1db2y1db3k6db18g1db18k4w1k4o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/">Wupper</a></td><td></td><td><code>DB/4 Y2 DB4 Y2 DB6 K12 DB36 G2 DB36 K8 W2 K8 O4 K8 W2 K8 DB36 G2 DB36 K12 DB6 Y2 DB4 Y2 DB4 Y/4</code></td><td>496</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s26/db2y1db2y1db3k6db18g1db18k4w1k4o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/"><img src="/variants/s26/db2y1db2y1db3k6db18g1db18k4w1k4o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/sett.png" alt="Wupper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

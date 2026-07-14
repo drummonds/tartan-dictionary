@@ -20,10 +20,10 @@ Recorded in the Smiths' 'Authenticated Tartans of the Clans and Families of Scot
 The **MacWhirter** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/">MacWhirter</a></td><td><code>DG/32 K4 LB8 K4 Y8 K4 LB8 K4 R32 W4 LB4 W4 R32 K4 LB8 K4 Y8 K4 LB8 K4 DG32 LB/4</code></td><td>412</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/"><img src="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/sett.png" alt="MacWhirter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/">MacWhirter</a></td><td></td><td><code>DG/32 K4 LB8 K4 Y8 K4 LB8 K4 R32 W4 LB4 W4 R32 K4 LB8 K4 Y8 K4 LB8 K4 DG32 LB/4</code></td><td>412</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/"><img src="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/sett.png" alt="MacWhirter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

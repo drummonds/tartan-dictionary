@@ -20,10 +20,10 @@ Asymmetrical sett, also MacIntyre and Glenorchy; adopted by Buchan family c.1965
 The **Buchan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/">Buchan</a></td><td><code>R/12 G12 R4 K48 R4 DB4 K4 R4 K48 R4 G12 R12 DB4 K12 R4 G54 R4 K4 R4 G54 R4 K12 DB/4</code></td><td>640</td><td>1790</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/"><img src="/variants/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/sett.png" alt="Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/">Buchan</a></td><td></td><td><code>R/12 G12 R4 K48 R4 DB4 K4 R4 K48 R4 G12 R12 DB4 K12 R4 G54 R4 K4 R4 G54 R4 K12 DB/4</code></td><td>640</td><td>1790</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/"><img src="/variants/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/sett.png" alt="Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

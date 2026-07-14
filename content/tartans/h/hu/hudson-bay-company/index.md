@@ -16,10 +16,10 @@ Its design is pattern [WBWBRGWBWGRRBRW](/stripes/wbwbrgwbwgrrbrw/) — the page 
 The **Hudson Bay Company** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2~x2~o2102055-oi2104058/">Hudson Bay Company</a></td><td><code>W/18 O28 DO22 O6 Oi22 Y14 W2 DO6 W2 Y14 O14 DO6 W4 B4 W/4</code></td><td>310</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2~x2~o2102055-oi2104058/"><img src="/variants/s15/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2~x2~o2102055-oi2104058/sett.png" alt="Hudson Bay Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2~x2~o2102055-oi2104058/">Hudson Bay Company</a></td><td></td><td><code>W/18 O28 DO22 O6 Oi22 Y14 W2 DO6 W2 Y14 O14 DO6 W4 B4 W/4</code></td><td>310</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2~x2~o2102055-oi2104058/"><img src="/variants/s15/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2~x2~o2102055-oi2104058/sett.png" alt="Hudson Bay Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

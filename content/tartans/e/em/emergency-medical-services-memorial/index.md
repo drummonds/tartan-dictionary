@@ -13,10 +13,10 @@ Its design is pattern [KWKWKWRWGWWWGWRWKWKWK](/stripes/kwkwkwrwgwwwgwrwkwkwk/) â
 The **Emergency Medical Services Memorial** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/">Emergency Medical Services Memorial</a></td><td><code>K/14 LB4 K4 LB4 K4 LB4 R14 LB38 Y8 LB3 W3 LB3 G8 LB38 R14 LB4 K4 LB4 K4 LB4 K/14</code></td><td>366</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/"><img src="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/sett.png" alt="Emergency Medical Services Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/">Emergency Medical Services Memorial</a></td><td></td><td><code>K/14 LB4 K4 LB4 K4 LB4 R14 LB38 Y8 LB3 W3 LB3 G8 LB38 R14 LB4 K4 LB4 K4 LB4 K/14</code></td><td>366</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/"><img src="/variants/s21/k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14/sett.png" alt="Emergency Medical Services Memorial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

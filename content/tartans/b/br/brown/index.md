@@ -19,13 +19,13 @@ The **Brown** tartan is one sett, recorded at 2 scales — the same proportion w
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/">Brown</a></td><td><code>DB/6 R1 DB2 R1 DB2 K18 R8 G/2</code></td><td>72</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/"><img src="/variants/s8/db6r1db2r1db2k18r8g2~x4/sett.png" alt="Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/db6r1db2r1db2k18r8g2~x2/">Brown</a></td><td><code>DB/12 R2 DB4 R2 DB4 K36 R16 G/4</code></td><td>144</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/">Brown</a></td><td><code>DB/24 R4 DB8 R4 DB8 K72 R32 G/8</code></td><td>288</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/db6r1db2r1db2k18r8g2~x2/">Brown</a> · <a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/">Brown</a></td></tr>
+<tr><td><a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/">Brown</a></td><td></td><td><code>DB/6 R1 DB2 R1 DB2 K18 R8 G/2</code></td><td>72</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/"><img src="/variants/s8/db6r1db2r1db2k18r8g2~x4/sett.png" alt="Brown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/db6r1db2r1db2k18r8g2~x2/">Brown</a></td><td>0.00</td><td><code>DB/12 R2 DB4 R2 DB4 K36 R16 G/4</code></td><td>144</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/">Brown</a></td><td>0.00</td><td><code>DB/24 R4 DB8 R4 DB8 K72 R32 G/8</code></td><td>288</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/db6r1db2r1db2k18r8g2~x2/">Brown</a> · <a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/">Brown</a></td></tr>
 </tbody>
 </table>
 

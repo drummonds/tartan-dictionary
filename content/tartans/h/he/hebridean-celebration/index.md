@@ -16,10 +16,10 @@ Its design is pattern [KGKGBGBW](/stripes/kgkgbgbw/) — the page of every tarta
 The **Hebridean Celebration** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/">Hebridean Celebration</a></td><td><code>K/4 G24 K24 G4 DP8 DY8 DB24 W/4</code></td><td>192</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/"><img src="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/sett.png" alt="Hebridean Celebration sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/">Hebridean Celebration</a></td><td></td><td><code>K/4 G24 K24 G4 DP8 DY8 DB24 W/4</code></td><td>192</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/"><img src="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/sett.png" alt="Hebridean Celebration sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

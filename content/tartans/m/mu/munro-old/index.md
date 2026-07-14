@@ -18,10 +18,10 @@ Plaid found at Culloden battlefield (1745), part of the MacGregor Hastie Collect
 The **Munro Old** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/">Munro Old</a></td><td><code>DB/12 R16 DB2 R4 Y10 R10 DB10 R10 Y2 R4 DB2 R4 DB1 R/12</code></td><td>174</td><td>1745</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/"><img src="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/sett.png" alt="Munro Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/">Munro Old</a></td><td></td><td><code>DB/12 R16 DB2 R4 Y10 R10 DB10 R10 Y2 R4 DB2 R4 DB1 R/12</code></td><td>174</td><td>1745</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/"><img src="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/sett.png" alt="Munro Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,12 +20,12 @@ The **Outlander** tartan groups 2 setts — the same named design recorded as di
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/lb14n7dy6n2~x8/">Outlander</a> ★</td><td><code>LB/112 N56 DY48 N/16</code></td><td>336</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/lb14n7dy6n2~x8/"><img src="/variants/s4/lb14n7dy6n2~x8/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/">#1</a></td><td><code>LB/104 Y4 N48 DR6 DY52 N/8</code></td><td>332</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/"><img src="/variants/s6/lb52y2n24dr3dy26n4~x2/sett.png" alt="#1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/lb14n7dy6n2~x8/">Outlander</a> ★</td><td></td><td><code>LB/112 N56 DY48 N/16</code></td><td>336</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/lb14n7dy6n2~x8/"><img src="/variants/s4/lb14n7dy6n2~x8/sett.png" alt="Outlander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/">#1</a></td><td>1.27</td><td><code>LB/104 Y4 N48 DR6 DY52 N/8</code></td><td>332</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/"><img src="/variants/s6/lb52y2n24dr3dy26n4~x2/sett.png" alt="#1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

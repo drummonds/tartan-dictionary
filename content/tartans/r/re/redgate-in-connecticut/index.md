@@ -16,10 +16,10 @@ Its design is pattern [BRBGBGBKWKGRGR](/stripes/brbgbgbkwkgrgr/) — the page of
 The **Redgate in Connecticut** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/">Redgate in Connecticut</a></td><td><code>DB/12 R6 DB22 DY4 DB6 DY4 DB6 K20 W2 K20 G18 R4 G8 R/12</code></td><td>264</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/"><img src="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/sett.png" alt="Redgate in Connecticut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/">Redgate in Connecticut</a></td><td></td><td><code>DB/12 R6 DB22 DY4 DB6 DY4 DB6 K20 W2 K20 G18 R4 G8 R/12</code></td><td>264</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/"><img src="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/sett.png" alt="Redgate in Connecticut sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

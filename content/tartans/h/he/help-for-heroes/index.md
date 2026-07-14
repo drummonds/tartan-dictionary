@@ -13,10 +13,10 @@ Its design is pattern [BGBBBBBBBBBBBBGR](/stripes/bgbbbbbbbbbbbbgr/) — the pag
 The **Help for Heroes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/r12dy50n20db2n10db4n8db6n6db6n4db8n2db32g12db5/">Help for Heroes</a></td><td><code>R/12 DY50 N20 DB2 N10 DB4 N8 DB6 N6 DB6 N4 DB8 N2 DB32 G12 DB/5</code></td><td>357</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/r12dy50n20db2n10db4n8db6n6db6n4db8n2db32g12db5/"><img src="/variants/s16/r12dy50n20db2n10db4n8db6n6db6n4db8n2db32g12db5/sett.png" alt="Help for Heroes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/r12dy50n20db2n10db4n8db6n6db6n4db8n2db32g12db5/">Help for Heroes</a></td><td></td><td><code>R/12 DY50 N20 DB2 N10 DB4 N8 DB6 N6 DB6 N4 DB8 N2 DB32 G12 DB/5</code></td><td>357</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/r12dy50n20db2n10db4n8db6n6db6n4db8n2db32g12db5/"><img src="/variants/s16/r12dy50n20db2n10db4n8db6n6db6n4db8n2db32g12db5/sett.png" alt="Help for Heroes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

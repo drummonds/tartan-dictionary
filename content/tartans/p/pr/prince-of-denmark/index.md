@@ -13,10 +13,10 @@ Its design is pattern [BWBWRGRGR](/stripes/bwbwrgrgr/) — the page of every tar
 The **Prince of Denmark** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/">Prince of Denmark</a></td><td><code>R/208 DG8 R8 DG8 R12 W12 DB8 W8 DB/8</code></td><td>344</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><img src="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/sett.png" alt="Prince of Denmark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/">Prince of Denmark</a></td><td></td><td><code>R/208 DG8 R8 DG8 R12 W12 DB8 W8 DB/8</code></td><td>344</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><img src="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/sett.png" alt="Prince of Denmark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

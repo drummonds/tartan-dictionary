@@ -17,13 +17,13 @@ The **Lumsden Boghead** tartan is one sett, recorded at 2 scales — the same pr
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/">Lumsden Boghead</a></td><td><code>DB/1 R5 DB4 R1 G1 R1 G4 R5 G/1</code></td><td>44</td><td>1797</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/"><img src="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/sett.png" alt="Lumsden Boghead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×14 — <a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/">Lumsden Boghead</a></td><td><code>DB/14 R70 DB56 R14 G14 R14 G56 R70 G/14</code></td><td>616</td><td>1797</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×20 — <a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x20/">Lumsden 1797</a></td><td><code>DB/20 R100 DB80 R20 G20 R20 G80 R100 G/20</code></td><td>880</td><td>1797</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/">Lumsden Boghead</a> · <a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x20/">Lumsden 1797</a></td></tr>
+<tr><td><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/">Lumsden Boghead</a></td><td></td><td><code>DB/1 R5 DB4 R1 G1 R1 G4 R5 G/1</code></td><td>44</td><td>1797</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/"><img src="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/sett.png" alt="Lumsden Boghead sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×14 — <a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/">Lumsden Boghead</a></td><td>0.00</td><td><code>DB/14 R70 DB56 R14 G14 R14 G56 R70 G/14</code></td><td>616</td><td>1797</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×20 — <a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x20/">Lumsden 1797</a></td><td>0.00</td><td><code>DB/20 R100 DB80 R20 G20 R20 G80 R100 G/20</code></td><td>880</td><td>1797</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/">Lumsden Boghead</a> · <a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x20/">Lumsden 1797</a></td></tr>
 </tbody>
 </table>
 

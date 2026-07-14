@@ -18,10 +18,10 @@ Its design is pattern [GBYGWGWBWGR](/stripes/gbygwgwbwgr/) — the page of every
 The **McAleavy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/">McAleavy</a></td><td><code>G/112 N12 LY12 Y4 W4 Y4 W32 N20 W4 G12 R/6</code></td><td>326</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/"><img src="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/sett.png" alt="McAleavy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/">McAleavy</a></td><td></td><td><code>G/112 N12 LY12 Y4 W4 Y4 W32 N20 W4 G12 R/6</code></td><td>326</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/"><img src="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/sett.png" alt="McAleavy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

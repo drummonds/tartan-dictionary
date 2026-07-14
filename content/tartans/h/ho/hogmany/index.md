@@ -18,10 +18,10 @@ Its design is pattern [RBRBBWBWBWBWR](/stripes/rbrbbwbwbwbwr/) — the page of e
 The **Hogmany** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r2w7db3w3db3w3db3w1db12dbi14r1dbi1r2~x2~db1404245-dbi1406275/">Hogmany</a></td><td><code>R/4 W14 DB6 W6 DB6 W6 DB6 W2 DB24 DBi28 R2 DBi2 R/4</code></td><td>212</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r2w7db3w3db3w3db3w1db12dbi14r1dbi1r2~x2~db1404245-dbi1406275/"><img src="/variants/s13/r2w7db3w3db3w3db3w1db12dbi14r1dbi1r2~x2~db1404245-dbi1406275/sett.png" alt="Hogmany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r2w7db3w3db3w3db3w1db12dbi14r1dbi1r2~x2~db1404245-dbi1406275/">Hogmany</a></td><td></td><td><code>R/4 W14 DB6 W6 DB6 W6 DB6 W2 DB24 DBi28 R2 DBi2 R/4</code></td><td>212</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r2w7db3w3db3w3db3w1db12dbi14r1dbi1r2~x2~db1404245-dbi1406275/"><img src="/variants/s13/r2w7db3w3db3w3db3w1db12dbi14r1dbi1r2~x2~db1404245-dbi1406275/sett.png" alt="Hogmany sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

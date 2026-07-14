@@ -13,10 +13,10 @@ Its design is pattern [BWKWBKBKYKGBKBKBKBKG](/stripes/bwkwbkbkykgbkbkbkbkg/) —
 The **Quadra** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/">Quadra</a></td><td><code>G/8 K6 DR2 K6 DR4 K4 DR8 K2 DR8 G6 K4 LO4 K4 DR4 K12 DB12 LB28 K6 LB6 DR/6</code></td><td>266</td><td>1981</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/"><img src="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/sett.png" alt="Quadra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/">Quadra</a></td><td></td><td><code>G/8 K6 DR2 K6 DR4 K4 DR8 K2 DR8 G6 K4 LO4 K4 DR4 K12 DB12 LB28 K6 LB6 DR/6</code></td><td>266</td><td>1981</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/"><img src="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/sett.png" alt="Quadra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [BGKGBRKRKRGKBKG](/stripes/bgkgbrkrkrgkbkg/) — the page 
 The **Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/">Stewart</a></td><td><code>DB/17 G4 K4 G4 DB17 R6 K12 R4 K12 R6 G17 K4 DB2 K4 G/17</code></td><td>226</td><td>~2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/"><img src="/variants/s15/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/">Stewart</a></td><td></td><td><code>DB/17 G4 K4 G4 DB17 R6 K12 R4 K12 R6 G17 K4 DB2 K4 G/17</code></td><td>226</td><td>~2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/"><img src="/variants/s15/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GKGBGKGBGKGKW](/stripes/gkgbgkgbgkgkw/) — the page of e
 The **Robieson, Graham Alexander** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/">Robieson, Graham Alexander</a></td><td><code>Y/6 K6 DG48 DB6 DG6 K48 DG6 DB48 DG6 K6 DG48 K6 W/6</code></td><td>480</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/"><img src="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/sett.png" alt="Robieson, Graham Alexander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/">Robieson, Graham Alexander</a></td><td></td><td><code>Y/6 K6 DG48 DB6 DG6 K48 DG6 DB48 DG6 K6 DG48 K6 W/6</code></td><td>480</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/"><img src="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/sett.png" alt="Robieson, Graham Alexander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

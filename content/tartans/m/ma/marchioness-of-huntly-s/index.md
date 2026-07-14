@@ -13,10 +13,10 @@ Its design is pattern [GRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGRG](/stripes/grgrbrbrbrbrb
 The **Marchioness of Huntly's** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s33/g32r7g32r33g4r12g4r33lb3r12ly3dp33r7dp33ly3r12lb3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r7g32~x2/">Marchioness of Huntly's</a></td><td><code>G/64 R14 G64 R66 G8 R24 G8 R66 LB6 R24 LY6 DP66 R14 DP66 LY6 R24 LB6 R66 DP4 R4 DP10 R4 DP4 R66 DP4 R4 DP10 R4 DP4 R66 G64 R14 G/64</code></td><td>1720</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s33/g32r7g32r33g4r12g4r33lb3r12ly3dp33r7dp33ly3r12lb3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r7g32~x2/"><img src="/variants/s33/g32r7g32r33g4r12g4r33lb3r12ly3dp33r7dp33ly3r12lb3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r7g32~x2/sett.png" alt="Marchioness of Huntly's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s33/g32r7g32r33g4r12g4r33lb3r12ly3dp33r7dp33ly3r12lb3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r7g32~x2/">Marchioness of Huntly's</a></td><td></td><td><code>G/64 R14 G64 R66 G8 R24 G8 R66 LB6 R24 LY6 DP66 R14 DP66 LY6 R24 LB6 R66 DP4 R4 DP10 R4 DP4 R66 DP4 R4 DP10 R4 DP4 R66 G64 R14 G/64</code></td><td>1720</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s33/g32r7g32r33g4r12g4r33lb3r12ly3dp33r7dp33ly3r12lb3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r7g32~x2/"><img src="/variants/s33/g32r7g32r33g4r12g4r33lb3r12ly3dp33r7dp33ly3r12lb3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r7g32~x2/sett.png" alt="Marchioness of Huntly's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RGKGBW](/stripes/rgkgbw/) — the page of every tartan sh
 The **Irving of Bonshaw Tower** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r1g1k1g9db9w1~x6/">Irving of Bonshaw Tower</a></td><td><code>R/6 G6 K6 G54 DB54 W/6</code></td><td>252</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r1g1k1g9db9w1~x6/"><img src="/variants/s6/r1g1k1g9db9w1~x6/sett.png" alt="Irving of Bonshaw Tower sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r1g1k1g9db9w1~x6/">Irving of Bonshaw Tower</a></td><td></td><td><code>R/6 G6 K6 G54 DB54 W/6</code></td><td>252</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r1g1k1g9db9w1~x6/"><img src="/variants/s6/r1g1k1g9db9w1~x6/sett.png" alt="Irving of Bonshaw Tower sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

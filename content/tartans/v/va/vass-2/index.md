@@ -18,10 +18,10 @@ Its design is pattern [BWYGR](/stripes/bwygr/) — the page of every tartan shar
 The **Vass** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/db6w1ly6dy12r2~x4/">Vass</a></td><td><code>DB/24 W4 LY24 DY48 R/8</code></td><td>184</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db6w1ly6dy12r2~x4/"><img src="/variants/s5/db6w1ly6dy12r2~x4/sett.png" alt="Vass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db6w1ly6dy12r2~x4/">Vass</a></td><td></td><td><code>DB/24 W4 LY24 DY48 R/8</code></td><td>184</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db6w1ly6dy12r2~x4/"><img src="/variants/s5/db6w1ly6dy12r2~x4/sett.png" alt="Vass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -21,15 +21,15 @@ The **Wallace** tartan is one sett, recorded at 4 scales — the same proportion
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/k1r8k8y1~x6/">Wallace</a></td><td><code>K/1 R8 K8 Y/1</code></td><td>34</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k1r8k8y1~x6/"><img src="/variants/s4/k1r8k8y1~x6/sett.png" alt="Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s4/k1r8k8y1/">Wallace</a></td><td><code>K/1 R8 K8 Y/1</code></td><td>34</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s4/k1r8k8y1~x2/">Wallace</a></td><td><code>K/2 R16 K16 Y/2</code></td><td>68</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s4/k1r8k8y1~x4/">(Clan)</a></td><td><code>K/4 R32 K32 Y/4</code></td><td>136</td><td>1842</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s4/k1r8k8y1~x6/">Wallace</a></td><td><code>K/6 R48 K48 Y/6</code></td><td>204</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-variants">4 Variants: <a href="/variants/s4/k1r8k8y1/">Wallace</a> · <a href="/variants/s4/k1r8k8y1~x2/">Wallace</a> · <a href="/variants/s4/k1r8k8y1~x4/">(Clan)</a> · <a href="/variants/s4/k1r8k8y1~x6/">Wallace</a></td></tr>
+<tr><td><a href="/variants/s4/k1r8k8y1~x6/">Wallace</a></td><td></td><td><code>K/1 R8 K8 Y/1</code></td><td>34</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/k1r8k8y1~x6/"><img src="/variants/s4/k1r8k8y1~x6/sett.png" alt="Wallace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s4/k1r8k8y1/">Wallace</a></td><td>0.00</td><td><code>K/1 R8 K8 Y/1</code></td><td>34</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s4/k1r8k8y1~x2/">Wallace</a></td><td>0.00</td><td><code>K/2 R16 K16 Y/2</code></td><td>68</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s4/k1r8k8y1~x4/">(Clan)</a></td><td>0.00</td><td><code>K/4 R32 K32 Y/4</code></td><td>136</td><td>1842</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s4/k1r8k8y1~x6/">Wallace</a></td><td>0.00</td><td><code>K/6 R48 K48 Y/6</code></td><td>204</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-variants">4 Variants: <a href="/variants/s4/k1r8k8y1/">Wallace</a> · <a href="/variants/s4/k1r8k8y1~x2/">Wallace</a> · <a href="/variants/s4/k1r8k8y1~x4/">(Clan)</a> · <a href="/variants/s4/k1r8k8y1~x6/">Wallace</a></td></tr>
 </tbody>
 </table>
 

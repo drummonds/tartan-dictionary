@@ -15,12 +15,12 @@ The **Westminster College** tartan groups 2 setts — the same named design reco
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/">Westminster College</a> ★</td><td><code>DB/4 K4 DB4 K42 DB4 R4 G42 DB4 K4 DB4 T4 DB84 LR2 DB42 T/4</code></td><td>496</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/"><img src="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/sett.png" alt="Westminster College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2dbi2db42lr1db21dbi2~x2~dbi1406275-lr2800000/">(Corporate)</a></td><td><code>DB/4 K4 DB4 K42 DB4 R4 G42 DB4 K4 DB4 DBi4 DB84 LR2 DB42 DBi/4</code></td><td>496</td><td>~2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2dbi2db42lr1db21dbi2~x2~dbi1406275-lr2800000/"><img src="/variants/s15/db2k2db2k21db2r2g21db2k2db2dbi2db42lr1db21dbi2~x2~dbi1406275-lr2800000/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/">Westminster College</a> ★</td><td></td><td><code>DB/4 K4 DB4 K42 DB4 R4 G42 DB4 K4 DB4 T4 DB84 LR2 DB42 T/4</code></td><td>496</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/"><img src="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/sett.png" alt="Westminster College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2dbi2db42lr1db21dbi2~x2~dbi1406275-lr2800000/">(Corporate)</a></td><td>0.02</td><td><code>DB/4 K4 DB4 K42 DB4 R4 G42 DB4 K4 DB4 DBi4 DB84 LR2 DB42 DBi/4</code></td><td>496</td><td>~2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/db2k2db2k21db2r2g21db2k2db2dbi2db42lr1db21dbi2~x2~dbi1406275-lr2800000/"><img src="/variants/s15/db2k2db2k21db2r2g21db2k2db2dbi2db42lr1db21dbi2~x2~dbi1406275-lr2800000/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

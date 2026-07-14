@@ -15,12 +15,12 @@ The **Prince of Orange** tartan groups 2 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/db6lo25dy16k2db3~x2/">Prince of Orange</a> ★</td><td><code>DB/12 LO50 DY32 K4 DB/6</code></td><td>190</td><td>1973</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/db6lo25dy16k2db3~x2/"><img src="/variants/s5/db6lo25dy16k2db3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/lb6lo28dy20lb3~x2/">Tartan</a></td><td><code>LB/12 LO56 DY40 LB/6</code></td><td>210</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/lb6lo28dy20lb3~x2/"><img src="/variants/s4/lb6lo28dy20lb3~x2/sett.png" alt="Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db6lo25dy16k2db3~x2/">Prince of Orange</a> ★</td><td></td><td><code>DB/12 LO50 DY32 K4 DB/6</code></td><td>190</td><td>1973</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db6lo25dy16k2db3~x2/"><img src="/variants/s5/db6lo25dy16k2db3~x2/sett.png" alt="Prince of Orange sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/lb6lo28dy20lb3~x2/">Tartan</a></td><td>0.70</td><td><code>LB/12 LO56 DY40 LB/6</code></td><td>210</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/lb6lo28dy20lb3~x2/"><img src="/variants/s4/lb6lo28dy20lb3~x2/sett.png" alt="Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

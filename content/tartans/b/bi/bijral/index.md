@@ -13,10 +13,10 @@ Its design is pattern [KRGKWKWKWKW](/stripes/krgkwkwkwkw/) — the page of every
 The **Bijral** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/k2r1dg10k10lb4k2lb2k2lb5k2lb2~x2/">Bijral</a></td><td><code>K/4 R2 DG20 K20 LB8 K4 LB4 K4 LB10 K4 LB/4</code></td><td>160</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/k2r1dg10k10lb4k2lb2k2lb5k2lb2~x2/"><img src="/variants/s11/k2r1dg10k10lb4k2lb2k2lb5k2lb2~x2/sett.png" alt="Bijral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k2r1dg10k10lb4k2lb2k2lb5k2lb2~x2/">Bijral</a></td><td></td><td><code>K/4 R2 DG20 K20 LB8 K4 LB4 K4 LB10 K4 LB/4</code></td><td>160</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k2r1dg10k10lb4k2lb2k2lb5k2lb2~x2/"><img src="/variants/s11/k2r1dg10k10lb4k2lb2k2lb5k2lb2~x2/sett.png" alt="Bijral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

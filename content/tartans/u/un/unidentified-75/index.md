@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKG](/stripes/bkbkbkbkgkgk
 The **Unidentified** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s34/db4k1db2k1db1k2db1k6g1k2g2k2g2k1g3k1g28r2g6r6w2r33k1r3k1r2k2r2k2r1k6g8k1dy2~x2/">Unidentified</a></td><td><code>DB/8 K2 DB4 K2 DB2 K4 DB2 K12 G2 K4 G4 K4 G4 K2 G6 K2 G56 R4 G12 R12 W4 R66 K2 R6 K2 R4 K4 R4 K4 R2 K12 G16 K2 DY/4</code></td><td>548</td><td>1875</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s34/db4k1db2k1db1k2db1k6g1k2g2k2g2k1g3k1g28r2g6r6w2r33k1r3k1r2k2r2k2r1k6g8k1dy2~x2/"><img src="/variants/s34/db4k1db2k1db1k2db1k6g1k2g2k2g2k1g3k1g28r2g6r6w2r33k1r3k1r2k2r2k2r1k6g8k1dy2~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s34/db4k1db2k1db1k2db1k6g1k2g2k2g2k1g3k1g28r2g6r6w2r33k1r3k1r2k2r2k2r1k6g8k1dy2~x2/">Unidentified</a></td><td></td><td><code>DB/8 K2 DB4 K2 DB2 K4 DB2 K12 G2 K4 G4 K4 G4 K2 G6 K2 G56 R4 G12 R12 W4 R66 K2 R6 K2 R4 K4 R4 K4 R2 K12 G16 K2 DY/4</code></td><td>548</td><td>1875</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s34/db4k1db2k1db1k2db1k6g1k2g2k2g2k1g3k1g28r2g6r6w2r33k1r3k1r2k2r2k2r1k6g8k1dy2~x2/"><img src="/variants/s34/db4k1db2k1db1k2db1k6g1k2g2k2g2k1g3k1g28r2g6r6w2r33k1r3k1r2k2r2k2r1k6g8k1dy2~x2/sett.png" alt="Unidentified sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

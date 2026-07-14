@@ -15,12 +15,12 @@ The **Joss** tartan groups 2 setts — the same named design recorded as differe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r3dg1db2dg4db30k2db4k2db30dg27y3k3w3~x2/">Joss</a> ★</td><td><code>R/6 DG2 DB4 DG8 DB60 K4 DB8 K4 DB60 DG54 Y6 K6 W/6</code></td><td>444</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r3dg1db2dg4db30k2db4k2db30dg27y3k3w3~x2/"><img src="/variants/s13/r3dg1db2dg4db30k2db4k2db30dg27y3k3w3~x2/sett.png" alt="Joss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/">Joss</a></td><td><code>R/6 G2 DB4 G8 DB60 K4 DB8 K4 DB60 G54 Y6 K6 W/6</code></td><td>444</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><img src="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/sett.png" alt="Joss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r3dg1db2dg4db30k2db4k2db30dg27y3k3w3~x2/">Joss</a> ★</td><td></td><td><code>R/6 DG2 DB4 DG8 DB60 K4 DB8 K4 DB60 DG54 Y6 K6 W/6</code></td><td>444</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r3dg1db2dg4db30k2db4k2db30dg27y3k3w3~x2/"><img src="/variants/s13/r3dg1db2dg4db30k2db4k2db30dg27y3k3w3~x2/sett.png" alt="Joss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/">Joss</a></td><td>0.13</td><td><code>R/6 G2 DB4 G8 DB60 K4 DB8 K4 DB60 G54 Y6 K6 W/6</code></td><td>444</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><img src="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/sett.png" alt="Joss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

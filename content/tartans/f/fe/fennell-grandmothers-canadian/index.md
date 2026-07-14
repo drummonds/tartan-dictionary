@@ -13,10 +13,10 @@ Its design is pattern [RBGRBRGBRGRBGKWGRKBW](/stripes/rbgrbrgbrgrbgkwgrkbw/) —
 The **Fennell Grandmothers Canadian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/">Fennell Grandmothers Canadian</a></td><td><code>R/110 DP2 Y2 R6 DP14 R6 Y2 DP2 R6 G32 R6 DP2 Y2 K6 W2 G10 R6 K4 DP4 W/2</code></td><td>340</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/"><img src="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/sett.png" alt="Fennell Grandmothers Canadian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/">Fennell Grandmothers Canadian</a></td><td></td><td><code>R/110 DP2 Y2 R6 DP14 R6 Y2 DP2 R6 G32 R6 DP2 Y2 K6 W2 G10 R6 K4 DP4 W/2</code></td><td>340</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/"><img src="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/sett.png" alt="Fennell Grandmothers Canadian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [RWKYR](/stripes/rwkyr/) — the page of every tartan shar
 The **Burberry Counterfeit** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/o3w3k3ly10r1~x6~o2005046-w3802111/">Burberry Counterfeit</a></td><td><code>O/18 W18 K18 LY60 R/6</code></td><td>216</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/o3w3k3ly10r1~x6~o2005046-w3802111/"><img src="/variants/s5/o3w3k3ly10r1~x6~o2005046-w3802111/sett.png" alt="Burberry Counterfeit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/o3w3k3ly10r1~x6~o2005046-w3802111/">Burberry Counterfeit</a></td><td></td><td><code>O/18 W18 K18 LY60 R/6</code></td><td>216</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/o3w3k3ly10r1~x6~o2005046-w3802111/"><img src="/variants/s5/o3w3k3ly10r1~x6~o2005046-w3802111/sett.png" alt="Burberry Counterfeit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

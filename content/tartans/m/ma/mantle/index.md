@@ -15,10 +15,10 @@ Combines Sinclair Hunting and MacQueen tartans, reflecting Swan and Sinclair fam
 The **Mantle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/">Mantle</a></td><td><code>DR/6 G4 DR6 G36 K28 W4 DB32 G/6</code></td><td>232</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/"><img src="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/sett.png" alt="Mantle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/">Mantle</a></td><td></td><td><code>DR/6 G4 DR6 G36 K28 W4 DB32 G/6</code></td><td>232</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/"><img src="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/sett.png" alt="Mantle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

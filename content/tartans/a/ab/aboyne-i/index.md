@@ -16,10 +16,10 @@ Its design is pattern [RYRYKBYKYRYKY](/stripes/ryrykbykyryky/) — the page of e
 The **Aboyne I** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4~x2/">Aboyne I</a></td><td><code>LO/24 K2 LO2 R56 LO8 K16 LR2 DO22 K16 LO64 R22 LO12 R/8</code></td><td>476</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4~x2/"><img src="/variants/s13/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4~x2/sett.png" alt="Aboyne I sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4~x2/">Aboyne I</a></td><td></td><td><code>LO/24 K2 LO2 R56 LO8 K16 LR2 DO22 K16 LO64 R22 LO12 R/8</code></td><td>476</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4~x2/"><img src="/variants/s13/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4~x2/sett.png" alt="Aboyne I sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

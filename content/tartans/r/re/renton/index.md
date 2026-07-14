@@ -18,10 +18,10 @@ Its design is pattern [KBBKBKBBKBKBKBKRBR](/stripes/kbbkbkbbkbkbkbkrbr/) — the
 The **Renton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/">Renton</a></td><td><code>O/16 DO4 O16 K8 DR6 K8 DO16 K4 DO16 K8 DB42 T16 K4 DO6 K4 T16 DB48 K/6</code></td><td>466</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/"><img src="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/sett.png" alt="Renton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/">Renton</a></td><td></td><td><code>O/16 DO4 O16 K8 DR6 K8 DO16 K4 DO16 K8 DB42 T16 K4 DO6 K4 T16 DB48 K/6</code></td><td>466</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/"><img src="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/sett.png" alt="Renton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

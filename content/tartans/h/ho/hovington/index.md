@@ -18,10 +18,10 @@ Its design is pattern [KWGRWKYGYKYGY](/stripes/kwgrwkygykygy/) — the page of e
 The **Hovington** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/k2w1y6r6w1k2ly2dy3ly2k1ly2g3ly2~x2/">Hovington</a></td><td><code>K/4 W2 Y12 R12 W2 K4 LY4 DY6 LY4 K2 LY4 G6 LY/4</code></td><td>124</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/k2w1y6r6w1k2ly2dy3ly2k1ly2g3ly2~x2/"><img src="/variants/s13/k2w1y6r6w1k2ly2dy3ly2k1ly2g3ly2~x2/sett.png" alt="Hovington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k2w1y6r6w1k2ly2dy3ly2k1ly2g3ly2~x2/">Hovington</a></td><td></td><td><code>K/4 W2 Y12 R12 W2 K4 LY4 DY6 LY4 K2 LY4 G6 LY/4</code></td><td>124</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k2w1y6r6w1k2ly2dy3ly2k1ly2g3ly2~x2/"><img src="/variants/s13/k2w1y6r6w1k2ly2dy3ly2k1ly2g3ly2~x2/sett.png" alt="Hovington sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

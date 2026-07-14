@@ -13,10 +13,10 @@ Its design is pattern [WKGBWKWKWKY](/stripes/wkgbwkwkwky/) — the page of every
 The **Sligo County Crest** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/">Sligo County Crest</a></td><td><code>LO/8 K16 LB8 K52 LB6 K5 W27 DR20 G14 K5 LB/6</code></td><td>320</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/"><img src="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/sett.png" alt="Sligo County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/">Sligo County Crest</a></td><td></td><td><code>LO/8 K16 LB8 K52 LB6 K5 W27 DR20 G14 K5 LB/6</code></td><td>320</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/"><img src="/variants/s11/lo8k16lb8k52lb6k5w27dr20g14k5lb6/sett.png" alt="Sligo County Crest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

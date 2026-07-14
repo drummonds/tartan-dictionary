@@ -13,10 +13,10 @@ Its design is pattern [GRRGRRGRBRGRGRGRWR](/stripes/grrgrrgrbrgrgrgrwr/) — the
 The **Dalriada** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/">Dalriada</a></td><td><code>R/220 W4 Ri4 G8 R8 G196 Ri8 G8 R8 DB60 R8 G8 Ri8 R212 G8 R8 Ri8 G/40</code></td><td>1388</td><td>1730</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/"><img src="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/sett.png" alt="Dalriada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/">Dalriada</a></td><td></td><td><code>R/220 W4 Ri4 G8 R8 G196 Ri8 G8 R8 DB60 R8 G8 Ri8 R212 G8 R8 Ri8 G/40</code></td><td>1388</td><td>1730</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/"><img src="/variants/s18/r55w1ri1g2r2g49ri2g2r2db15r2g2ri2r53g2r2ri2g10~x4~r2209032-ri2806019/sett.png" alt="Dalriada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

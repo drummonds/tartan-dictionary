@@ -13,10 +13,10 @@ Its design is pattern [GBKBKBKBGKGKG](/stripes/gbkbkbkbgkgkg/) — the page of e
 The **Etihad Airways** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/">Etihad Airways</a></td><td><code>DY/6 K28 DY4 K4 DY12 DO32 K4 DO3 K4 DO3 K4 DO14 Y/4</code></td><td>234</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/"><img src="/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/sett.png" alt="Etihad Airways sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/">Etihad Airways</a></td><td></td><td><code>DY/6 K28 DY4 K4 DY12 DO32 K4 DO3 K4 DO3 K4 DO14 Y/4</code></td><td>234</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/"><img src="/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/sett.png" alt="Etihad Airways sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Royal Stewart variant with light Scottish blue replacing the red ground and whit
 The **Stewart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/">Stewart</a></td><td><code>LB/58 DB6 K20 Y4 K4 LB4 K4 G20 R10 K6 R4 LB/4</code></td><td>226</td><td>1956</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/"><img src="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/">Stewart</a></td><td></td><td><code>LB/58 DB6 K20 Y4 K4 LB4 K4 G20 R10 K6 R4 LB/4</code></td><td>226</td><td>1956</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/"><img src="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/sett.png" alt="Stewart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

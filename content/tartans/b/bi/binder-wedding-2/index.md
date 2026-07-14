@@ -16,10 +16,10 @@ Its design is pattern [KBKBKWBK](/stripes/kbkbkwbk/) — the page of every tarta
 The **Binder Wedding** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k1db5w2k30db30k1db1k1~x2/">Binder Wedding</a></td><td><code>K/2 DB10 W4 K60 DB60 K2 DB2 K/2</code></td><td>280</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k1db5w2k30db30k1db1k1~x2/"><img src="/variants/s8/k1db5w2k30db30k1db1k1~x2/sett.png" alt="Binder Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k1db5w2k30db30k1db1k1~x2/">Binder Wedding</a></td><td></td><td><code>K/2 DB10 W4 K60 DB60 K2 DB2 K/2</code></td><td>280</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k1db5w2k30db30k1db1k1~x2/"><img src="/variants/s8/k1db5w2k30db30k1db1k1~x2/sett.png" alt="Binder Wedding sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

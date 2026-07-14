@@ -13,10 +13,10 @@ Its design is pattern [BBBBGRYBBBBR](/stripes/bbbbgrybbbbr/) — the page of eve
 The **Maple Leaf** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/">Maple Leaf</a></td><td><code>DR/60 DB12 DR12 DB76 G24 O24 LY24 DB76 DR12 DB12 DR60 O/52</code></td><td>776</td><td>1964</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/"><img src="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/sett.png" alt="Maple Leaf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/">Maple Leaf</a></td><td></td><td><code>DR/60 DB12 DR12 DB76 G24 O24 LY24 DB76 DR12 DB12 DR60 O/52</code></td><td>776</td><td>1964</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/"><img src="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/sett.png" alt="Maple Leaf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

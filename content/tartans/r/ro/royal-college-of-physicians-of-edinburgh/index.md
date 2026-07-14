@@ -13,10 +13,10 @@ Its design is pattern [BRKRGG](/stripes/brkrgg/) — the page of every tartan sh
 The **Royal College of Physicians of Edinburgh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/db28r4k14r4dg33y4~x2/">Royal College of Physicians of Edinburgh</a></td><td><code>DB/56 R8 K28 R8 DG66 Y/8</code></td><td>284</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><img src="/variants/s6/db28r4k14r4dg33y4~x2/sett.png" alt="Royal College of Physicians of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db28r4k14r4dg33y4~x2/">Royal College of Physicians of Edinburgh</a></td><td></td><td><code>DB/56 R8 K28 R8 DG66 Y/8</code></td><td>284</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><img src="/variants/s6/db28r4k14r4dg33y4~x2/sett.png" alt="Royal College of Physicians of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

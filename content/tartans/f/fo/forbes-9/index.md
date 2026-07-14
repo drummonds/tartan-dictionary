@@ -18,10 +18,10 @@ Its design is pattern [KBYBKYYYYY](/stripes/kbybkyyyyy/) — the page of every t
 The **Forbes** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k46dr8lr1dr8k8lr6lo6lr14lo1lr6~x4/">Forbes</a></td><td><code>K/184 DR32 LR4 DR32 K32 LR24 LO24 LR56 LO4 LR/24</code></td><td>624</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k46dr8lr1dr8k8lr6lo6lr14lo1lr6~x4/"><img src="/variants/s10/k46dr8lr1dr8k8lr6lo6lr14lo1lr6~x4/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k46dr8lr1dr8k8lr6lo6lr14lo1lr6~x4/">Forbes</a></td><td></td><td><code>K/184 DR32 LR4 DR32 K32 LR24 LO24 LR56 LO4 LR/24</code></td><td>624</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k46dr8lr1dr8k8lr6lo6lr14lo1lr6~x4/"><img src="/variants/s10/k46dr8lr1dr8k8lr6lo6lr14lo1lr6~x4/sett.png" alt="Forbes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

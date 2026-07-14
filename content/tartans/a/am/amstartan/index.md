@@ -13,10 +13,10 @@ Its design is pattern [KBKBKBKWKWKBKBKBWKWKBWBWK](/stripes/kbkbkbkwkwkbkbkbwkwkb
 The **Amstartan** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/">Amstartan</a></td><td><code>K/6 DR5 K5 DR5 K5 DR5 K12 W2 K2 W2 K12 DR5 K38 DR21 K6 DR21 W2 K12 W2 K12 DR3 W2 DR3 W2 K/6</code></td><td>380</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/"><img src="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/sett.png" alt="Amstartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/">Amstartan</a></td><td></td><td><code>K/6 DR5 K5 DR5 K5 DR5 K12 W2 K2 W2 K12 DR5 K38 DR21 K6 DR21 W2 K12 W2 K12 DR3 W2 DR3 W2 K/6</code></td><td>380</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/"><img src="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/sett.png" alt="Amstartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

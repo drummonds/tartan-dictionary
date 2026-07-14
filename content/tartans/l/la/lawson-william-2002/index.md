@@ -13,10 +13,10 @@ Its design is pattern [GGKGKWK](/stripes/ggkgkwk/) — the page of every tartan 
 The **Lawson, William 2002** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/">Lawson, William 2002</a></td><td><code>K/8 W38 K22 DG30 K6 DG32 Y/6</code></td><td>270</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><img src="/variants/s7/k4w19k11dg15k3dg16y3~x2/sett.png" alt="Lawson, William 2002 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/">Lawson, William 2002</a></td><td></td><td><code>K/8 W38 K22 DG30 K6 DG32 Y/6</code></td><td>270</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><img src="/variants/s7/k4w19k11dg15k3dg16y3~x2/sett.png" alt="Lawson, William 2002 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

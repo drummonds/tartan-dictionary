@@ -18,10 +18,10 @@ Its design is pattern [GBRGRBRGRBBR](/stripes/gbrgrbrgrbbr/) — the page of eve
 The **MacDonald of Glenaladale** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/">MacDonald of Glenaladale</a></td><td><code>R/14 B4 DB4 R4 G64 R12 DB24 R82 G4 R10 B4 G/10</code></td><td>448</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/"><img src="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/sett.png" alt="MacDonald of Glenaladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/">MacDonald of Glenaladale</a></td><td></td><td><code>R/14 B4 DB4 R4 G64 R12 DB24 R82 G4 R10 B4 G/10</code></td><td>448</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/"><img src="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/sett.png" alt="MacDonald of Glenaladale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

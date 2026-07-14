@@ -13,10 +13,10 @@ Its design is pattern [BWBKGKGKBKGKGKBWB](/stripes/bwbkgkgkbkgkgkbwb/) — the p
 The **Psychological Operations Regiment** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4~x2/">Psychological Operations Regiment</a></td><td><code>N/10 LB4 N24 K42 DG24 K8 DG8 K8 DR8 K8 DG8 K8 DG24 K42 N24 LB4 N/8</code></td><td>506</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4~x2/"><img src="/variants/s17/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4~x2/sett.png" alt="Psychological Operations Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4~x2/">Psychological Operations Regiment</a></td><td></td><td><code>N/10 LB4 N24 K42 DG24 K8 DG8 K8 DR8 K8 DG8 K8 DG24 K42 N24 LB4 N/8</code></td><td>506</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4~x2/"><img src="/variants/s17/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4~x2/sett.png" alt="Psychological Operations Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

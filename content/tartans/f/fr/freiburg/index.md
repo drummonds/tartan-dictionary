@@ -13,10 +13,10 @@ Its design is pattern [BWBGBRBGBGWBWG](/stripes/bwbgbrbgbgwbwg/) — the page of
 The **Freiburg** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/">Freiburg</a></td><td><code>DB/10 W10 N72 Y6 N6 R6 N6 Y6 N18 DG16 W6 DB6 W6 DG/6</code></td><td>344</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/"><img src="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/sett.png" alt="Freiburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/">Freiburg</a></td><td></td><td><code>DB/10 W10 N72 Y6 N6 R6 N6 Y6 N18 DG16 W6 DB6 W6 DG/6</code></td><td>344</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/"><img src="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/sett.png" alt="Freiburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

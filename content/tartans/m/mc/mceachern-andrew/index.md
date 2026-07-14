@@ -13,10 +13,10 @@ Its design is pattern [BWRBGW](/stripes/bwrbgw/) — the page of every tartan sh
 The **McEachern, Andrew** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/n7w1r6db10dg10w1~x4/">McEachern, Andrew</a></td><td><code>N/28 W4 R24 DB40 DG40 W/4</code></td><td>248</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><img src="/variants/s6/n7w1r6db10dg10w1~x4/sett.png" alt="McEachern, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/n7w1r6db10dg10w1~x4/">McEachern, Andrew</a></td><td></td><td><code>N/28 W4 R24 DB40 DG40 W/4</code></td><td>248</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><img src="/variants/s6/n7w1r6db10dg10w1~x4/sett.png" alt="McEachern, Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

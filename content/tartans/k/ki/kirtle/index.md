@@ -13,10 +13,10 @@ Its design is pattern [BBRBBRBRBRB](/stripes/bbrbbrbrbrb/) — the page of every
 The **Kirtle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/dr42r10n2r2db2r2dr10db6r2db3dr2~x2/">Kirtle</a></td><td><code>DR/84 R20 N4 R4 DB4 R4 DR20 DB12 R4 DB6 DR/4</code></td><td>244</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/dr42r10n2r2db2r2dr10db6r2db3dr2~x2/"><img src="/variants/s11/dr42r10n2r2db2r2dr10db6r2db3dr2~x2/sett.png" alt="Kirtle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dr42r10n2r2db2r2dr10db6r2db3dr2~x2/">Kirtle</a></td><td></td><td><code>DR/84 R20 N4 R4 DB4 R4 DR20 DB12 R4 DB6 DR/4</code></td><td>244</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dr42r10n2r2db2r2dr10db6r2db3dr2~x2/"><img src="/variants/s11/dr42r10n2r2db2r2dr10db6r2db3dr2~x2/sett.png" alt="Kirtle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

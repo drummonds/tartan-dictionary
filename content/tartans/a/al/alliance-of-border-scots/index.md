@@ -13,10 +13,10 @@ Its design is pattern [GKWGWGWGWGWGWKYKWGWGWGWGWGWKG](/stripes/gkwgwgwgwgwgwkykw
 The **Alliance of Border Scots** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8~w3600000/">Alliance of Border Scots</a></td><td><code>G/8 K48 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 K48 LY8 K48 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 K48 G/8</code></td><td>768</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8~w3600000/"><img src="/variants/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8~w3600000/sett.png" alt="Alliance of Border Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8~w3600000/">Alliance of Border Scots</a></td><td></td><td><code>G/8 K48 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 K48 LY8 K48 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 DY8 W8 K48 G/8</code></td><td>768</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8~w3600000/"><img src="/variants/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8~w3600000/sett.png" alt="Alliance of Border Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

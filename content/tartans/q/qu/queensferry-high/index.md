@@ -16,10 +16,10 @@ Its design is pattern [BWWBWBBWW](/stripes/bwwbwbbww/) — the page of every tar
 The **Queensferry High** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/">Queensferry High</a></td><td><code>N/5 LBi3 LB7 N5 LB27 B8 DB43 W3 LB/3</code></td><td>200</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/"><img src="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/sett.png" alt="Queensferry High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/">Queensferry High</a></td><td></td><td><code>N/5 LBi3 LB7 N5 LB27 B8 DB43 W3 LB/3</code></td><td>200</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/"><img src="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/sett.png" alt="Queensferry High sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBGBGBGBW](/stripes/bbgbgbgbw/) — the page of every tar
 The **Wicklow County, Crest Range** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi1406275-db1004274/">Wicklow County, Crest Range</a></td><td><code>DBi/32 DB14 DY8 DB4 DY32 DB4 G48 DB16 LB/22</code></td><td>306</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi1406275-db1004274/"><img src="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi1406275-db1004274/sett.png" alt="Wicklow County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi1406275-db1004274/">Wicklow County, Crest Range</a></td><td></td><td><code>DBi/32 DB14 DY8 DB4 DY32 DB4 G48 DB16 LB/22</code></td><td>306</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi1406275-db1004274/"><img src="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi1406275-db1004274/sett.png" alt="Wicklow County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

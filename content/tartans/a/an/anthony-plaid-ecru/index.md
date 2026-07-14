@@ -16,10 +16,10 @@ Its design is pattern [YBKBYKGKY](/stripes/ybkbykgky/) — the page of every tar
 The **Anthony Plaid Ecru** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lr18k1dy3k1lr2dr2k2dr2lr2~x4/">Anthony Plaid Ecru</a></td><td><code>LR/72 K4 DY12 K4 LR8 DR8 K8 DR8 LR/8</code></td><td>184</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lr18k1dy3k1lr2dr2k2dr2lr2~x4/"><img src="/variants/s9/lr18k1dy3k1lr2dr2k2dr2lr2~x4/sett.png" alt="Anthony Plaid Ecru sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lr18k1dy3k1lr2dr2k2dr2lr2~x4/">Anthony Plaid Ecru</a></td><td></td><td><code>LR/72 K4 DY12 K4 LR8 DR8 K8 DR8 LR/8</code></td><td>184</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lr18k1dy3k1lr2dr2k2dr2lr2~x4/"><img src="/variants/s9/lr18k1dy3k1lr2dr2k2dr2lr2~x4/sett.png" alt="Anthony Plaid Ecru sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

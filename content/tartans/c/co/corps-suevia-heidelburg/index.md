@@ -13,10 +13,10 @@ Its design is pattern [GKWGKGWKGKGWGKGK](/stripes/gkwgkgwkgkgwgkgk/) — the pag
 The **Corps Suevia Heidelburg** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20~x2/">Corps Suevia Heidelburg</a></td><td><code>DY/42 K4 W4 DY4 K4 DY4 W4 K4 DY4 K4 DY4 W12 DY4 K4 DY6 K/40</code></td><td>214</td><td>2001</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20~x2/"><img src="/variants/s16/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20~x2/sett.png" alt="Corps Suevia Heidelburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20~x2/">Corps Suevia Heidelburg</a></td><td></td><td><code>DY/42 K4 W4 DY4 K4 DY4 W4 K4 DY4 K4 DY4 W12 DY4 K4 DY6 K/40</code></td><td>214</td><td>2001</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20~x2/"><img src="/variants/s16/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20~x2/sett.png" alt="Corps Suevia Heidelburg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

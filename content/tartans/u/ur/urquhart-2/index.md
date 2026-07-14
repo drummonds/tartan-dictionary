@@ -18,10 +18,10 @@ Its design is pattern [RBKBKRKRKRWR](/stripes/rbkbkrkrkrwr/) — the page of eve
 The **Urquhart** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/">Urquhart</a></td><td><code>O/9 W2 O18 K3 O3 K3 O3 K12 N30 K6 N6 R/6</code></td><td>187</td><td>1980</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><img src="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/">Urquhart</a></td><td></td><td><code>O/9 W2 O18 K3 O3 K3 O3 K12 N30 K6 N6 R/6</code></td><td>187</td><td>1980</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><img src="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

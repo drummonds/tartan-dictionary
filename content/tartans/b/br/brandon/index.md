@@ -13,10 +13,10 @@ Its design is pattern [RKYGKY](/stripes/rkygky/) — the page of every tartan sh
 The **Brandon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/o84k35lr3dg35k3ly10~o2205070-dg1806142/">Brandon</a></td><td><code>O/84 K35 LR3 DG35 K3 LY/10</code></td><td>246</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/o84k35lr3dg35k3ly10~o2205070-dg1806142/"><img src="/variants/s6/o84k35lr3dg35k3ly10~o2205070-dg1806142/sett.png" alt="Brandon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/o84k35lr3dg35k3ly10~o2205070-dg1806142/">Brandon</a></td><td></td><td><code>O/84 K35 LR3 DG35 K3 LY/10</code></td><td>246</td><td>1982</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/o84k35lr3dg35k3ly10~o2205070-dg1806142/"><img src="/variants/s6/o84k35lr3dg35k3ly10~o2205070-dg1806142/sett.png" alt="Brandon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

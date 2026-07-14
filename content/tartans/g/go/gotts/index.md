@@ -13,10 +13,10 @@ Its design is pattern [GGBGBGBKBKBKBW](/stripes/ggbgbgbkbkbkbw/) — the page of
 The **Gotts** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/">Gotts</a></td><td><code>DY/4 G38 DB4 G4 DB6 G4 DB16 K16 DR4 K6 DR4 K4 DR38 W/4</code></td><td>296</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/"><img src="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/sett.png" alt="Gotts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/">Gotts</a></td><td></td><td><code>DY/4 G38 DB4 G4 DB6 G4 DB16 K16 DR4 K6 DR4 K4 DR38 W/4</code></td><td>296</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/"><img src="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/sett.png" alt="Gotts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

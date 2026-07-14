@@ -18,10 +18,10 @@ Its design is pattern [RGRBWBRBWBRGR](/stripes/rgrbwbrbwbrgr/) — the page of e
 The **Chisholm of that Ilk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/">Chisholm of that Ilk</a></td><td><code>R/20 DG64 R20 DB16 W8 DB16 R88 DB16 W8 DB16 R20 DG64 R/20</code></td><td>712</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/"><img src="/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/sett.png" alt="Chisholm of that Ilk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/">Chisholm of that Ilk</a></td><td></td><td><code>R/20 DG64 R20 DB16 W8 DB16 R88 DB16 W8 DB16 R20 DG64 R/20</code></td><td>712</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/"><img src="/variants/s13/r5dg16r5db4w2db4r22db4w2db4r5dg16r5~x4/sett.png" alt="Chisholm of that Ilk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GBGWGGG](/stripes/gbgwggg/) — the page of every tartan 
 The **Rhode Island State** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/">Rhode Island State</a></td><td><code>DG/8 T56 DG22 W4 DG4 G28 Y/4</code></td><td>240</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/"><img src="/variants/s7/dg4t28dg11w2dg2g14y2~x2/sett.png" alt="Rhode Island State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/">Rhode Island State</a></td><td></td><td><code>DG/8 T56 DG22 W4 DG4 G28 Y/4</code></td><td>240</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/"><img src="/variants/s7/dg4t28dg11w2dg2g14y2~x2/sett.png" alt="Rhode Island State sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

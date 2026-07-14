@@ -17,15 +17,15 @@ The **Dunblane** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/">Dunblane</a> ★</td><td><code>DG/6 Y5 W1 DG2 W1 DG5 W1 DG2 W1 R15 DP2 W/1</code></td><td>77</td><td>1822</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><img src="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/sett.png" alt="Dunblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/">Dunblane</a></td><td><code>DG/12 Y10 W2 DG4 W2 DG10 W2 DG4 W2 R30 DP4 W/2</code></td><td>154</td><td>1822</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x4/">(District)</a></td><td><code>DG/24 Y20 W4 DG8 W4 DG20 W4 DG8 W4 R60 DP8 W/4</code></td><td>308</td><td>~1822</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/">Dunblane</a> · <a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x4/">(District)</a></td></tr>
-<tr><td><a href="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/">Dunblane</a></td><td><code>G/12 Y10 W2 G4 W2 G10 W2 G4 W2 R30 DB4 W/2</code></td><td>154</td><td>1729</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/"><img src="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/sett.png" alt="Dunblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/">Dunblane</a> ★</td><td></td><td><code>DG/6 Y5 W1 DG2 W1 DG5 W1 DG2 W1 R15 DP2 W/1</code></td><td>77</td><td>1822</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><img src="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/sett.png" alt="Dunblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/">Dunblane</a></td><td>0.00</td><td><code>DG/12 Y10 W2 DG4 W2 DG10 W2 DG4 W2 R30 DP4 W/2</code></td><td>154</td><td>1822</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x4/">(District)</a></td><td>0.00</td><td><code>DG/24 Y20 W4 DG8 W4 DG20 W4 DG8 W4 R60 DP8 W/4</code></td><td>308</td><td>~1822</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/">Dunblane</a> · <a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x4/">(District)</a></td></tr>
+<tr><td><a href="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/">Dunblane</a></td><td>0.41</td><td><code>G/12 Y10 W2 G4 W2 G10 W2 G4 W2 R30 DB4 W/2</code></td><td>154</td><td>1729</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/"><img src="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/sett.png" alt="Dunblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

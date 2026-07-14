@@ -13,10 +13,10 @@ Its design is pattern [BKBKRKWKWKWKGKBKR](/stripes/bkbkrkwkwkwkgkbkr/) — the p
 The **Kilburnie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db12k2db2k2r3k2lb6k2w2k2lb6k2y2k2db6k2r2~x2/">Kilburnie</a></td><td><code>DB/24 K4 DB4 K4 R6 K4 LB12 K4 W4 K4 LB12 K4 Y4 K4 DB12 K4 R/4</code></td><td>200</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db12k2db2k2r3k2lb6k2w2k2lb6k2y2k2db6k2r2~x2/"><img src="/variants/s17/db12k2db2k2r3k2lb6k2w2k2lb6k2y2k2db6k2r2~x2/sett.png" alt="Kilburnie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db12k2db2k2r3k2lb6k2w2k2lb6k2y2k2db6k2r2~x2/">Kilburnie</a></td><td></td><td><code>DB/24 K4 DB4 K4 R6 K4 LB12 K4 W4 K4 LB12 K4 Y4 K4 DB12 K4 R/4</code></td><td>200</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db12k2db2k2r3k2lb6k2w2k2lb6k2y2k2db6k2r2~x2/"><img src="/variants/s17/db12k2db2k2r3k2lb6k2w2k2lb6k2y2k2db6k2r2~x2/sett.png" alt="Kilburnie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

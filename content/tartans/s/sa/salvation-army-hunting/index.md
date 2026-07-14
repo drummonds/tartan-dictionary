@@ -15,10 +15,10 @@ Hunting variant for Perth Citadel Corps Centenary, replacing red with green.
 The **Salvation Army Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/">Salvation Army Hunting</a></td><td><code>DG/32 K4 Y8 K4 DG32 DB16 DG32 K4 Y8 K4 DG32 DB/20</code></td><td>340</td><td>1983</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/"><img src="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/sett.png" alt="Salvation Army Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/">Salvation Army Hunting</a></td><td></td><td><code>DG/32 K4 Y8 K4 DG32 DB16 DG32 K4 Y8 K4 DG32 DB/20</code></td><td>340</td><td>1983</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/"><img src="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/sett.png" alt="Salvation Army Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -19,13 +19,13 @@ The **Clergy** tartan is one sett, recorded at 2 scales — the same proportion 
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/">Clergy</a></td><td><code>W/1 K5 W1 N4 W1 K26 W1 K10 N5 K2 N5 K10 W1 N4 W1 K5 W/1</code></td><td>164</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/"><img src="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/">Clergy</a></td><td><code>W/1 K5 W1 N4 W1 K26 W1 K10 N5 K2 N5 K10 W1 N4 W1 K5 W/1</code></td><td>164</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/">5</a></td><td><code>W/2 K10 W2 N8 W2 K52 W2 K20 N10 K4 N10 K20 W2 N8 W2 K10 W/2</code></td><td>328</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/">Clergy</a> · <a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/">5</a></td></tr>
+<tr><td><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/">Clergy</a></td><td></td><td><code>W/1 K5 W1 N4 W1 K26 W1 K10 N5 K2 N5 K10 W1 N4 W1 K5 W/1</code></td><td>164</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/"><img src="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/">Clergy</a></td><td>0.00</td><td><code>W/1 K5 W1 N4 W1 K26 W1 K10 N5 K2 N5 K10 W1 N4 W1 K5 W/1</code></td><td>164</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/">5</a></td><td>0.00</td><td><code>W/2 K10 W2 N8 W2 K52 W2 K20 N10 K4 N10 K20 W2 N8 W2 K10 W/2</code></td><td>328</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/">Clergy</a> · <a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/">5</a></td></tr>
 </tbody>
 </table>
 

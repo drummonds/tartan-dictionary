@@ -13,11 +13,11 @@ Its design is pattern [GYGYWYBY](/stripes/gygywyby/) — the page of every tarta
 The **Cladish** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10/">Cladish</a></td><td><code>Y/10 LO5 Y54 LO2 W32 LY54 T4 LY/10</code></td><td>322</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10/"><img src="/variants/s8/y10lo5y54lo2w32ly54t4ly10/sett.png" alt="Cladish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10/">Cladish</a> · <a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10~ly2503076/">Weavers Tartan</a></td></tr>
+<tr><td><a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10/">Cladish</a></td><td></td><td><code>Y/10 LO5 Y54 LO2 W32 LY54 T4 LY/10</code></td><td>322</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10/"><img src="/variants/s8/y10lo5y54lo2w32ly54t4ly10/sett.png" alt="Cladish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10/">Cladish</a> · <a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10~ly2503076/">Weavers Tartan</a></td></tr>
 </tbody>
 </table>
 

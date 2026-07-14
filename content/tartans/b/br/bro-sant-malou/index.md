@@ -13,10 +13,10 @@ Its design is pattern [GGWWRK](/stripes/ggwwrk/) — the page of every tartan sh
 The **Bro-sant-Malou** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/k3r24lb16w11y1g3~x2/">Bro-sant-Malou</a></td><td><code>K/6 R48 LB32 W22 Y2 G/6</code></td><td>220</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/k3r24lb16w11y1g3~x2/"><img src="/variants/s6/k3r24lb16w11y1g3~x2/sett.png" alt="Bro-sant-Malou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3r24lb16w11y1g3~x2/">Bro-sant-Malou</a></td><td></td><td><code>K/6 R48 LB32 W22 Y2 G/6</code></td><td>220</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k3r24lb16w11y1g3~x2/"><img src="/variants/s6/k3r24lb16w11y1g3~x2/sett.png" alt="Bro-sant-Malou sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

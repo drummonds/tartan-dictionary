@@ -18,10 +18,10 @@ Its design is pattern [RGRGRGRBYRBRYBRGRBYR](/stripes/rgrgrgrbyrbrybrgrbyr/) —
 The **Munro of Lindertis** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/">Munro of Lindertis</a></td><td><code>R/104 DG12 R12 DG12 R12 DG12 R104 DB4 LY12 R12 DB24 R12 LY4 DB4 R12 DG104 R12 DB4 LY4 R/52</code></td><td>900</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/"><img src="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/sett.png" alt="Munro of Lindertis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/">Munro of Lindertis</a></td><td></td><td><code>R/104 DG12 R12 DG12 R12 DG12 R104 DB4 LY12 R12 DB24 R12 LY4 DB4 R12 DG104 R12 DB4 LY4 R/52</code></td><td>900</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/"><img src="/variants/s20/r26dg3r3dg3r3dg3r26db1ly3r3db6r3ly1db1r3dg26r3db1ly1r13~x4/sett.png" alt="Munro of Lindertis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [RBWRWBGRWBWRRGWBW](/stripes/rbwrwbgrwbwrrgwbw/) — the p
 The **Jacobite, dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/">Jacobite, dress</a></td><td><code>R/32 DO8 W12 R12 W40 DO30 G8 O30 W2 DO6 W2 O10 R12 G8 W6 DB6 W/6</code></td><td>422</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/"><img src="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/sett.png" alt="Jacobite, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/">Jacobite, dress</a></td><td></td><td><code>R/32 DO8 W12 R12 W40 DO30 G8 O30 W2 DO6 W2 O10 R12 G8 W6 DB6 W/6</code></td><td>422</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/"><img src="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/sett.png" alt="Jacobite, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

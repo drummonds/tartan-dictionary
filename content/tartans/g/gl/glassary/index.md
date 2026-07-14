@@ -18,10 +18,10 @@ Its design is pattern [WGGGWKWGKGKGKWWWKGKGKRWKWRGRW](/stripes/wgggwkwgkgkgkwwwk
 The **Glassary** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/">Glassary</a></td><td><code>W/4 R4 G6 R12 W2 K2 W2 R12 K2 G6 K2 DY8 K2 W2 LB4 W2 K2 DY8 K2 G6 K2 Y12 W2 K2 W2 Y12 G6 Y4 W/4</code></td><td>264</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/"><img src="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/sett.png" alt="Glassary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/">Glassary</a></td><td></td><td><code>W/4 R4 G6 R12 W2 K2 W2 R12 K2 G6 K2 DY8 K2 W2 LB4 W2 K2 DY8 K2 G6 K2 Y12 W2 K2 W2 Y12 G6 Y4 W/4</code></td><td>264</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/"><img src="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/sett.png" alt="Glassary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

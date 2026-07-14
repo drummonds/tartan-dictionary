@@ -18,10 +18,10 @@ Its design is pattern [WRBRGRGRBRBRBRGRGRBRRBRW](/stripes/wrbrgrgrbrbrbrgrgrbrrb
 The **MacDougall 5** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s24/lb1r5b2ri3g24ri5g2ri5db11r3b2ri2b2r3g11ri11g11ri2db2ri25r3b2ri5lb1~x2~r1707016-ri2008029/">MacDougall 5</a></td><td><code>LB/2 R10 B4 Ri6 G48 Ri10 G4 Ri10 DB22 R6 B4 Ri4 B4 R6 G22 Ri22 G22 Ri4 DB4 Ri50 R6 B4 Ri10 LB/2</code></td><td>568</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s24/lb1r5b2ri3g24ri5g2ri5db11r3b2ri2b2r3g11ri11g11ri2db2ri25r3b2ri5lb1~x2~r1707016-ri2008029/"><img src="/variants/s24/lb1r5b2ri3g24ri5g2ri5db11r3b2ri2b2r3g11ri11g11ri2db2ri25r3b2ri5lb1~x2~r1707016-ri2008029/sett.png" alt="MacDougall 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s24/lb1r5b2ri3g24ri5g2ri5db11r3b2ri2b2r3g11ri11g11ri2db2ri25r3b2ri5lb1~x2~r1707016-ri2008029/">MacDougall 5</a></td><td></td><td><code>LB/2 R10 B4 Ri6 G48 Ri10 G4 Ri10 DB22 R6 B4 Ri4 B4 R6 G22 Ri22 G22 Ri4 DB4 Ri50 R6 B4 Ri10 LB/2</code></td><td>568</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s24/lb1r5b2ri3g24ri5g2ri5db11r3b2ri2b2r3g11ri11g11ri2db2ri25r3b2ri5lb1~x2~r1707016-ri2008029/"><img src="/variants/s24/lb1r5b2ri3g24ri5g2ri5db11r3b2ri2b2r3g11ri11g11ri2db2ri25r3b2ri5lb1~x2~r1707016-ri2008029/sett.png" alt="MacDougall 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

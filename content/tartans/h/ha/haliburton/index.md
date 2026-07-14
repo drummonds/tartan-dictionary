@@ -15,10 +15,10 @@ Canadian tartan registered in 1978, likely with the Canadian Patent Office.
 The **Haliburton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/">Haliburton</a></td><td><code>LB/12 G4 LB4 G20 R8 DO16 LB12 G8 W4 LB4 Y4 G4 DO8 R8 Y/4</code></td><td>224</td><td>1963</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/"><img src="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/sett.png" alt="Haliburton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/">Haliburton</a></td><td></td><td><code>LB/12 G4 LB4 G20 R8 DO16 LB12 G8 W4 LB4 Y4 G4 DO8 R8 Y/4</code></td><td>224</td><td>1963</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/"><img src="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/sett.png" alt="Haliburton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

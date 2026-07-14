@@ -18,10 +18,10 @@ Its design is pattern [RGKWKGRKRGKWKGR](/stripes/rgkwkgrkrgkwkgr/) — the page 
 The **MacDiarmid** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/">MacDiarmid</a></td><td><code>R/10 G112 K4 W10 K4 G112 R32 K166 R32 G112 K4 W10 K4 G112 R/10</code></td><td>1448</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/"><img src="/variants/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/sett.png" alt="MacDiarmid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/">MacDiarmid</a></td><td></td><td><code>R/10 G112 K4 W10 K4 G112 R32 K166 R32 G112 K4 W10 K4 G112 R/10</code></td><td>1448</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/"><img src="/variants/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/sett.png" alt="MacDiarmid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

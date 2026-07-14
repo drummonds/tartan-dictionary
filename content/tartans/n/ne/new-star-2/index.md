@@ -13,10 +13,10 @@ Its design is pattern [BYKBKBKBKBKBYBYBYBYKW](/stripes/bykbkbkbkbkbybybybykw/) â
 The **New Star** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>Î”Tartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/">New Star</a></td><td><code>DP/6 LY2 K8 DP2 K8 DP2 K82 DP2 K8 DP2 K8 DR30 LY2 DR6 LY4 DR6 LY6 DR2 LY12 K2 W/4</code></td><td>398</td><td>~2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/"><img src="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/sett.png" alt="New Star sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/">New Star</a></td><td></td><td><code>DP/6 LY2 K8 DP2 K8 DP2 K82 DP2 K8 DP2 K8 DR30 LY2 DR6 LY4 DR6 LY6 DR2 LY12 K2 W/4</code></td><td>398</td><td>~2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/"><img src="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/sett.png" alt="New Star sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

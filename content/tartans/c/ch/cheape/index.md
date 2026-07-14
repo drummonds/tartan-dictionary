@@ -19,13 +19,13 @@ The **Cheape** tartan is one sett, recorded at 2 scales — the same proportion 
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/">Cheape</a></td><td><code>DB/6 K1 DB1 K1 DB1 K6 G6 LB2 G6 K6 DB6 K1 DB/2</code></td><td>82</td><td>~1906</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/"><img src="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/sett.png" alt="Cheape sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/">of Torosay</a></td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 LB4 G12 K12 DB12 K2 DB/4</code></td><td>164</td><td>~1906</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x4/">of Torosay (Clan)</a></td><td><code>DB/24 K4 DB4 K4 DB4 K24 G24 LB8 G24 K24 DB24 K4 DB/8</code></td><td>328</td><td>~1934</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/">of Torosay</a> · <a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x4/">of Torosay (Clan)</a></td></tr>
+<tr><td><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/">Cheape</a></td><td></td><td><code>DB/6 K1 DB1 K1 DB1 K6 G6 LB2 G6 K6 DB6 K1 DB/2</code></td><td>82</td><td>~1906</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/"><img src="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/sett.png" alt="Cheape sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/">of Torosay</a></td><td>0.00</td><td><code>DB/12 K2 DB2 K2 DB2 K12 G12 LB4 G12 K12 DB12 K2 DB/4</code></td><td>164</td><td>~1906</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x4/">of Torosay (Clan)</a></td><td>0.00</td><td><code>DB/24 K4 DB4 K4 DB4 K24 G24 LB8 G24 K24 DB24 K4 DB/8</code></td><td>328</td><td>~1934</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/">of Torosay</a> · <a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x4/">of Torosay (Clan)</a></td></tr>
 </tbody>
 </table>
 

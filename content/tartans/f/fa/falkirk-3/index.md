@@ -18,10 +18,10 @@ Its design is pattern [BRGRGRBKBKBK](/stripes/brgrgrbkbkbk/) — the page of eve
 The **Falkirk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/">Falkirk</a></td><td><code>DB/16 O54 Y4 R6 Y4 O54 DB44 K4 DB8 K4 DB8 K/8</code></td><td>404</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/"><img src="/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/sett.png" alt="Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/">Falkirk</a></td><td></td><td><code>DB/16 O54 Y4 R6 Y4 O54 DB44 K4 DB8 K4 DB8 K/8</code></td><td>404</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/"><img src="/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/sett.png" alt="Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

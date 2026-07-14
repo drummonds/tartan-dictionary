@@ -16,10 +16,10 @@ Its design is pattern [YBKBKBKBY](/stripes/ybkbkbkby/) — the page of every tar
 The **Elgin City Band** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/ly1t12k6db1k1db1k1db6ly1~x4/">Elgin City Band</a></td><td><code>LY/4 T48 K24 DB4 K4 DB4 K4 DB24 LY/4</code></td><td>232</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/ly1t12k6db1k1db1k1db6ly1~x4/"><img src="/variants/s9/ly1t12k6db1k1db1k1db6ly1~x4/sett.png" alt="Elgin City Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/ly1t12k6db1k1db1k1db6ly1~x4/">Elgin City Band</a></td><td></td><td><code>LY/4 T48 K24 DB4 K4 DB4 K4 DB24 LY/4</code></td><td>232</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/ly1t12k6db1k1db1k1db6ly1~x4/"><img src="/variants/s9/ly1t12k6db1k1db1k1db6ly1~x4/sett.png" alt="Elgin City Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

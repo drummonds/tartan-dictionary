@@ -18,10 +18,10 @@ Its design is pattern [GBGBGBGKGKGRGRGRGKGKGBGBG](/stripes/gbgbgbgkgkgrgrgrgkgkg
 The **Ross, hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s25/g4b2g3b3g4k5g3k5g28r2g4r2g4r2g28k5g3k5g4b2g2b2g3b4g3~x2/">Ross, hunting</a></td><td><code>G/8 B4 G6 B6 G8 K10 G6 K10 G56 R4 G8 R4 G8 R4 G56 K10 G6 K10 G8 B4 G4 B4 G6 B8 G/6</code></td><td>514</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s25/g4b2g3b3g4k5g3k5g28r2g4r2g4r2g28k5g3k5g4b2g2b2g3b4g3~x2/"><img src="/variants/s25/g4b2g3b3g4k5g3k5g28r2g4r2g4r2g28k5g3k5g4b2g2b2g3b4g3~x2/sett.png" alt="Ross, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s25/g4b2g3b3g4k5g3k5g28r2g4r2g4r2g28k5g3k5g4b2g2b2g3b4g3~x2/">Ross, hunting</a></td><td></td><td><code>G/8 B4 G6 B6 G8 K10 G6 K10 G56 R4 G8 R4 G8 R4 G56 K10 G6 K10 G8 B4 G4 B4 G6 B8 G/6</code></td><td>514</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/g4b2g3b3g4k5g3k5g28r2g4r2g4r2g28k5g3k5g4b2g2b2g3b4g3~x2/"><img src="/variants/s25/g4b2g3b3g4k5g3k5g28r2g4r2g4r2g28k5g3k5g4b2g2b2g3b4g3~x2/sett.png" alt="Ross, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

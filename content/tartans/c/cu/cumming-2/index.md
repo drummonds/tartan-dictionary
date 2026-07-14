@@ -18,10 +18,10 @@ Its design is pattern [KRGRKWRGRKRWKRKRGRWKRGR](/stripes/krgrkwrgrkrwkrkrgrwkrgr
 The **Cumming** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1~x4/">Cumming</a></td><td><code>K/4 R4 G32 R4 K24 LB4 R24 G24 R4 K32 R4 LB4 K4 R4 K32 R4 G24 R24 LB4 K24 R4 G32 R/4</code></td><td>640</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1~x4/"><img src="/variants/s23/k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1~x4/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1~x4/">Cumming</a></td><td></td><td><code>K/4 R4 G32 R4 K24 LB4 R24 G24 R4 K32 R4 LB4 K4 R4 K32 R4 G24 R24 LB4 K24 R4 G32 R/4</code></td><td>640</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1~x4/"><img src="/variants/s23/k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1~x4/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

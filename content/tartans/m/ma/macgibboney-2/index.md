@@ -18,10 +18,10 @@ Its design is pattern [GWBWGW](/stripes/gwbwgw/) — the page of every tartan sh
 The **MacGibboney** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/">MacGibboney</a></td><td><code>Y/1 LB1 T1 LB5 G5 W/1</code></td><td>—</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/"><img src="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/sett.png" alt="MacGibboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/">MacGibboney</a></td><td></td><td><code>Y/1 LB1 T1 LB5 G5 W/1</code></td><td>—</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/"><img src="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/sett.png" alt="MacGibboney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

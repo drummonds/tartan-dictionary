@@ -18,10 +18,10 @@ Its design is pattern [BBWBGRGGBBBGGRG](/stripes/bbwbgrggbbbggrg/) — the page 
 The **Contrecoeur** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/y10o1g2y2b2dr1b2y2g2o1y10dr7w3dr13db5~x2/">Contrecoeur</a></td><td><code>Y/20 O2 G4 Y4 B4 DR2 B4 Y4 G4 O2 Y20 DR14 W6 DR26 DB/10</code></td><td>222</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/y10o1g2y2b2dr1b2y2g2o1y10dr7w3dr13db5~x2/"><img src="/variants/s15/y10o1g2y2b2dr1b2y2g2o1y10dr7w3dr13db5~x2/sett.png" alt="Contrecoeur sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/y10o1g2y2b2dr1b2y2g2o1y10dr7w3dr13db5~x2/">Contrecoeur</a></td><td></td><td><code>Y/20 O2 G4 Y4 B4 DR2 B4 Y4 G4 O2 Y20 DR14 W6 DR26 DB/10</code></td><td>222</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/y10o1g2y2b2dr1b2y2g2o1y10dr7w3dr13db5~x2/"><img src="/variants/s15/y10o1g2y2b2dr1b2y2g2o1y10dr7w3dr13db5~x2/sett.png" alt="Contrecoeur sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

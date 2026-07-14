@@ -13,10 +13,10 @@ Its design is pattern [BYBBBYGBY](/stripes/bybbbygby/) — the page of every tar
 The **Land's End Maroon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/">Land's End Maroon</a></td><td><code>DB/46 LY4 DR6 DBi14 DR6 LY4 G30 DR42 LY/10</code></td><td>268</td><td>1992</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><img src="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/sett.png" alt="Land's End Maroon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/">Land's End Maroon</a></td><td></td><td><code>DB/46 LY4 DR6 DBi14 DR6 LY4 G30 DR42 LY/10</code></td><td>268</td><td>1992</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><img src="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/sett.png" alt="Land's End Maroon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

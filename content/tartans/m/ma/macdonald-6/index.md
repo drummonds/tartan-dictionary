@@ -18,10 +18,10 @@ Its design is pattern [GRGRGKRKRKRK](/stripes/grgrgkrkrkrk/) — the page of eve
 The **MacDonald 6** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/">MacDonald 6</a></td><td><code>K/12 R2 K2 R8 K14 R2 K14 G12 R10 G2 R2 G/10</code></td><td>158</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/"><img src="/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/sett.png" alt="MacDonald 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/">MacDonald 6</a></td><td></td><td><code>K/12 R2 K2 R8 K14 R2 K14 G12 R10 G2 R2 G/10</code></td><td>158</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/"><img src="/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/sett.png" alt="MacDonald 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [KGKGKGK](/stripes/kgkgkgk/) — the page of every tartan 
 The **Taiheiyo Club, Inc** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k46dg6k6dg6k42dg47k12/">Taiheiyo Club, Inc</a></td><td><code>K/46 DG6 K6 DG6 K42 DG47 K/12</code></td><td>272</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><img src="/variants/s7/k46dg6k6dg6k42dg47k12/sett.png" alt="Taiheiyo Club, Inc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k46dg6k6dg6k42dg47k12/">Taiheiyo Club, Inc</a></td><td></td><td><code>K/46 DG6 K6 DG6 K42 DG47 K/12</code></td><td>272</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><img src="/variants/s7/k46dg6k6dg6k42dg47k12/sett.png" alt="Taiheiyo Club, Inc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

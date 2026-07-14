@@ -16,10 +16,10 @@ Its design is pattern [BRBRBWRB](/stripes/brbrbwrb/) — the page of every tarta
 The **Orkney Slate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/">Orkney Slate</a></td><td><code>N/8 O74 LB8 N42 O11 DP2 O16 N/4</code></td><td>318</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/"><img src="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/sett.png" alt="Orkney Slate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/">Orkney Slate</a></td><td></td><td><code>N/8 O74 LB8 N42 O11 DP2 O16 N/4</code></td><td>318</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/"><img src="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/sett.png" alt="Orkney Slate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

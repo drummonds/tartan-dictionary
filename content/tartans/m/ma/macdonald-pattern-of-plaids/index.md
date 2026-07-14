@@ -13,10 +13,10 @@ Its design is pattern [BRBRBRKWRWRW](/stripes/brbrbrkwrwrw/) — the page of eve
 The **MacDonald Pattern of Plaids** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/">MacDonald Pattern of Plaids</a></td><td><code>DB/16 R4 DB6 R10 DB30 R4 K30 W34 R9 W6 R4 W/16</code></td><td>306</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"><img src="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/sett.png" alt="MacDonald Pattern of Plaids sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/">MacDonald Pattern of Plaids</a></td><td></td><td><code>DB/16 R4 DB6 R10 DB30 R4 K30 W34 R9 W6 R4 W/16</code></td><td>306</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"><img src="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/sett.png" alt="MacDonald Pattern of Plaids sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

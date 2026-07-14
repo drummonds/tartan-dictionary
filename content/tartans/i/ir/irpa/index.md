@@ -13,10 +13,10 @@ Its design is pattern [RBRBKRKWRWW](/stripes/rbrbkrkwrww/) — the page of every
 The **IRPA** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/r6n2r2n23k2r4k2lb21r2lb2w6~x2/">IRPA</a></td><td><code>R/12 N4 R4 N46 K4 R8 K4 LB42 R4 LB4 W/12</code></td><td>264</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/r6n2r2n23k2r4k2lb21r2lb2w6~x2/"><img src="/variants/s11/r6n2r2n23k2r4k2lb21r2lb2w6~x2/sett.png" alt="IRPA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r6n2r2n23k2r4k2lb21r2lb2w6~x2/">IRPA</a></td><td></td><td><code>R/12 N4 R4 N46 K4 R8 K4 LB42 R4 LB4 W/12</code></td><td>264</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r6n2r2n23k2r4k2lb21r2lb2w6~x2/"><img src="/variants/s11/r6n2r2n23k2r4k2lb21r2lb2w6~x2/sett.png" alt="IRPA sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

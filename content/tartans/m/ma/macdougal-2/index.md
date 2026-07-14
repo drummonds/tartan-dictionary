@@ -18,11 +18,11 @@ Its design is pattern [WRRGRGRBRRRGRGRBRRRW](/stripes/wrrgrgrbrrrgrgrbrrrw/) —
 The **MacDougal 2** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2008029/">MacDougal 2</a></td><td><code>LB/2 R24 Ri8 G144 Ri16 G8 Ri16 DB36 R24 Ri8 R24 G36 Ri36 G36 Ri16 DB8 Ri144 R12 Ri8 LB/2</code></td><td>1212</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2008029/"><img src="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2008029/sett.png" alt="MacDougal 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2008029/">MacDougal 2</a> · <a href="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2209032/">MacDougall (Logan)</a></td></tr>
+<tr><td><a href="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2008029/">MacDougal 2</a></td><td></td><td><code>LB/2 R24 Ri8 G144 Ri16 G8 Ri16 DB36 R24 Ri8 R24 G36 Ri36 G36 Ri16 DB8 Ri144 R12 Ri8 LB/2</code></td><td>1212</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2008029/"><img src="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2008029/sett.png" alt="MacDougal 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2008029/">MacDougal 2</a> · <a href="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2209032/">MacDougall (Logan)</a></td></tr>
 </tbody>
 </table>
 

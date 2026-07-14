@@ -13,10 +13,10 @@ Its design is pattern [WBBGRW](/stripes/wbbgrw/) — the page of every tartan sh
 The **Eeraerts, Laurent** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/">Eeraerts, Laurent</a></td><td><code>W/12 B48 DB4 G60 O12 W/4</code></td><td>264</td><td>2016</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><img src="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/sett.png" alt="Eeraerts, Laurent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/">Eeraerts, Laurent</a></td><td></td><td><code>W/12 B48 DB4 G60 O12 W/4</code></td><td>264</td><td>2016</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><img src="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/sett.png" alt="Eeraerts, Laurent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

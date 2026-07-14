@@ -13,10 +13,10 @@ Its design is pattern [GRKBRWR](/stripes/grkbrwr/) — the page of every tartan 
 The **Allman-Jones** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/">Allman-Jones</a></td><td><code>R/6 W4 O14 N50 K16 O30 DG/4</code></td><td>238</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/"><img src="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/sett.png" alt="Allman-Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/">Allman-Jones</a></td><td></td><td><code>R/6 W4 O14 N50 K16 O30 DG/4</code></td><td>238</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/"><img src="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/sett.png" alt="Allman-Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

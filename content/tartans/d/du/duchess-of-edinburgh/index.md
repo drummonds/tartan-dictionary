@@ -13,10 +13,10 @@ Its design is pattern [RWKGKWKGRKRWRKRGKWKGKWGRGKBKBKGKRKW](/stripes/rwkgkwkgrkr
 The **Duchess of Edinburgh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/">Duchess of Edinburgh</a></td><td><code>R/24 LB16 K16 Y4 K4 W4 K4 G24 R16 K4 R10 W4 R10 K4 R16 G24 K4 W4 K4 Y4 K16 LB16 G64 R8 G64 K8 DB20 K16 DB8 K10 Y4 K8 R8 K8 LB/24</code></td><td>916</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/"><img src="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/sett.png" alt="Duchess of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/">Duchess of Edinburgh</a></td><td></td><td><code>R/24 LB16 K16 Y4 K4 W4 K4 G24 R16 K4 R10 W4 R10 K4 R16 G24 K4 W4 K4 Y4 K16 LB16 G64 R8 G64 K8 DB20 K16 DB8 K10 Y4 K8 R8 K8 LB/24</code></td><td>916</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/"><img src="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/sett.png" alt="Duchess of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -20,10 +20,10 @@ Logan's MacAulay sett, illustrated by MacIan (1847); approved by the head of the
 The **Cumming** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r3g9w1g9r3g6r18k2~x2/">Cumming</a></td><td><code>R/6 G18 W2 G18 R6 G12 R36 K/4</code></td><td>194</td><td>1850</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r3g9w1g9r3g6r18k2~x2/"><img src="/variants/s8/r3g9w1g9r3g6r18k2~x2/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r3g9w1g9r3g6r18k2~x2/">Cumming</a></td><td></td><td><code>R/6 G18 W2 G18 R6 G12 R36 K/4</code></td><td>194</td><td>1850</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r3g9w1g9r3g6r18k2~x2/"><img src="/variants/s8/r3g9w1g9r3g6r18k2~x2/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

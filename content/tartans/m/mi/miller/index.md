@@ -13,10 +13,10 @@ Its design is pattern [BBGBBBGY](/stripes/bbgbbbgy/) — the page of every tarta
 The **Miller** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/">Miller</a></td><td><code>DR/4 DB12 G30 T18 DB60 T18 G12 LO/4</code></td><td>308</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><img src="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/sett.png" alt="Miller sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/">Miller</a></td><td></td><td><code>DR/4 DB12 G30 T18 DB60 T18 G12 LO/4</code></td><td>308</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><img src="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/sett.png" alt="Miller sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

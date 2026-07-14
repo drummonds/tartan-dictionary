@@ -16,10 +16,10 @@ Its design is pattern [RGRGRGY](/stripes/rgrgrgy/) — the page of every tartan 
 The **Burns' Birthplace** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/o1dy1o1dy1o4dy3ly1~x12/">Burns' Birthplace</a></td><td><code>O/12 DY12 O12 DY12 O48 DY36 LY/12</code></td><td>264</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/o1dy1o1dy1o4dy3ly1~x12/"><img src="/variants/s7/o1dy1o1dy1o4dy3ly1~x12/sett.png" alt="Burns' Birthplace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/o1dy1o1dy1o4dy3ly1~x12/">Burns' Birthplace</a></td><td></td><td><code>O/12 DY12 O12 DY12 O48 DY36 LY/12</code></td><td>264</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/o1dy1o1dy1o4dy3ly1~x12/"><img src="/variants/s7/o1dy1o1dy1o4dy3ly1~x12/sett.png" alt="Burns' Birthplace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

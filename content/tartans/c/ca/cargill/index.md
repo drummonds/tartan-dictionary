@@ -15,10 +15,10 @@ Black, white and grey design known as Clergy or Beachan na Clerich; also called 
 The **Cargill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1~x4~db1406275/">Cargill</a></td><td><code>DB/1 G1 DB6 K6 G1 K6 G1 DB2 G1 DB3 G1 DB3 G1 DB2 G1 K6 G1 K6 DB6 G/1</code></td><td>—</td><td>1880</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1~x4~db1406275/"><img src="/variants/s20/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1~x4~db1406275/sett.png" alt="Cargill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1~x4~db1406275/">Cargill</a></td><td></td><td><code>DB/1 G1 DB6 K6 G1 K6 G1 DB2 G1 DB3 G1 DB3 G1 DB2 G1 K6 G1 K6 DB6 G/1</code></td><td>—</td><td>1880</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1~x4~db1406275/"><img src="/variants/s20/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1~x4~db1406275/sett.png" alt="Cargill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

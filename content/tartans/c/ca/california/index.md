@@ -13,10 +13,10 @@ Its design is pattern [BKBKGRGRGRGKG](/stripes/bkbkgrgrgrgkg/) — the page of e
 The **California** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/">California</a></td><td><code>Y/8 K2 G20 R4 G20 R8 G20 R4 G20 K32 DB56 K2 B/8</code></td><td>392</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><img src="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/sett.png" alt="California sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/">California</a></td><td></td><td><code>Y/8 K2 G20 R4 G20 R8 G20 R4 G20 K32 DB56 K2 B/8</code></td><td>392</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><img src="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/sett.png" alt="California sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [RKGGRKWW](/stripes/rkggrkww/) — the page of every tarta
 The **MacIngust** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/r70k2y1dg18r10k4lb4w1~x2/">MacIngust</a></td><td><code>R/140 K4 Y2 DG36 R20 K8 LB8 W/2</code></td><td>298</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/r70k2y1dg18r10k4lb4w1~x2/"><img src="/variants/s8/r70k2y1dg18r10k4lb4w1~x2/sett.png" alt="MacIngust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r70k2y1dg18r10k4lb4w1~x2/">MacIngust</a></td><td></td><td><code>R/140 K4 Y2 DG36 R20 K8 LB8 W/2</code></td><td>298</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r70k2y1dg18r10k4lb4w1~x2/"><img src="/variants/s8/r70k2y1dg18r10k4lb4w1~x2/sett.png" alt="MacIngust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BBYKBYW](/stripes/bbykbyw/) — the page of every tartan 
 The **Ritchie, Stephen James** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/">Ritchie, Stephen James</a></td><td><code>DB/8 N38 LR4 K38 N4 LR50 LB/4</code></td><td>280</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><img src="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/sett.png" alt="Ritchie, Stephen James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/">Ritchie, Stephen James</a></td><td></td><td><code>DB/8 N38 LR4 K38 N4 LR50 LB/4</code></td><td>280</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><img src="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/sett.png" alt="Ritchie, Stephen James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

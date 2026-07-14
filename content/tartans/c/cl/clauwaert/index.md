@@ -13,10 +13,10 @@ Its design is pattern [BYBWWKWWKWYKYKBWR](/stripes/bybwwkwwkwykykbwr/) — the p
 The **Clauwaert** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/">Clauwaert</a></td><td><code>DB/8 LY4 DB8 LB12 W4 K4 LB12 W4 K4 LB26 LY6 K8 LY6 K16 DB12 W4 R/8</code></td><td>276</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/"><img src="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/sett.png" alt="Clauwaert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/">Clauwaert</a></td><td></td><td><code>DB/8 LY4 DB8 LB12 W4 K4 LB12 W4 K4 LB26 LY6 K8 LY6 K16 DB12 W4 R/8</code></td><td>276</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/"><img src="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/sett.png" alt="Clauwaert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

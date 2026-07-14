@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBKBKBKBKWBWKRBRBRBRBRBRBRBRKWK](/stripes/bkbkbkbkbk
 The **Quebec, Centennial** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/">Quebec, Centennial</a></td><td><code>DB/20 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K8 W8 DB16 W50 K4 R6 DB28 R1 DB1 R1 DB1 R1 DB1 R1 DB1 R1 DB1 R1 DB1 R8 K24 W12 K/4</code></td><td>400</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/"><img src="/variants/s36/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/sett.png" alt="Quebec, Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/">Quebec, Centennial</a></td><td></td><td><code>DB/20 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K8 W8 DB16 W50 K4 R6 DB28 R1 DB1 R1 DB1 R1 DB1 R1 DB1 R1 DB1 R1 DB1 R8 K24 W12 K/4</code></td><td>400</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/"><img src="/variants/s36/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/sett.png" alt="Quebec, Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

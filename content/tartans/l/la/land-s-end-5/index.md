@@ -13,10 +13,10 @@ Its design is pattern [GBGGBBBGK](/stripes/gbggbbbgk/) — the page of every tar
 The **Land's End** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/">Land's End</a></td><td><code>K/46 Y4 DR6 DB14 DR6 Y4 DG30 DR42 Y/10</code></td><td>268</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/"><img src="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/sett.png" alt="Land's End sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/">Land's End</a></td><td></td><td><code>K/46 Y4 DR6 DB14 DR6 Y4 DG30 DR42 Y/10</code></td><td>268</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/"><img src="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/sett.png" alt="Land's End sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

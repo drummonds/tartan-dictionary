@@ -18,10 +18,10 @@ Its design is pattern [GBGRYRBBBRBW](/stripes/gbgryrbbbrbw/) — the page of eve
 The **Wcwm 1243** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/">Wcwm 1243</a></td><td><code>G/12 DB4 G24 R24 LO4 R24 N24 DB4 N24 R8 N24 LB/4</code></td><td>344</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/"><img src="/variants/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/sett.png" alt="Wcwm 1243 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/">Wcwm 1243</a></td><td></td><td><code>G/12 DB4 G24 R24 LO4 R24 N24 DB4 N24 R8 N24 LB/4</code></td><td>344</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/"><img src="/variants/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/sett.png" alt="Wcwm 1243 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

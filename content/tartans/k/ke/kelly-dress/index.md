@@ -16,11 +16,11 @@ Its design is pattern [GGGRGWGGGGGW](/stripes/gggrgwgggggw/) — the page of eve
 The **Kelly Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/">Kelly Dress</a></td><td><code>Y/136 DY8 G18 R4 G6 W6 G6 DY24 Y12 G6 Y6 W/6</code></td><td>334</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/"><img src="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/sett.png" alt="Kelly Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/">(Name)</a> · <a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2~g1903152/">Kelly Dress</a></td></tr>
+<tr><td><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/">Kelly Dress</a></td><td></td><td><code>Y/136 DY8 G18 R4 G6 W6 G6 DY24 Y12 G6 Y6 W/6</code></td><td>334</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/"><img src="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/sett.png" alt="Kelly Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2/">(Name)</a> · <a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2~g1903152/">Kelly Dress</a></td></tr>
 </tbody>
 </table>
 

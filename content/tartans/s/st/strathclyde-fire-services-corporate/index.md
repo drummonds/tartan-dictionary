@@ -16,10 +16,10 @@ Its design is pattern [RKRWGYGBKBGW](/stripes/rkrwgygbkbgw/) — the page of eve
 The **Strathclyde Fire Services (Corporate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/">Strathclyde Fire Services (Corporate</a></td><td><code>R/74 K6 R14 W6 DG6 LY6 DG4 DB20 K12 DB6 DG6 W/8</code></td><td>254</td><td>~2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><img src="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/sett.png" alt="Strathclyde Fire Services (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/">Strathclyde Fire Services (Corporate</a></td><td></td><td><code>R/74 K6 R14 W6 DG6 LY6 DG4 DB20 K12 DB6 DG6 W/8</code></td><td>254</td><td>~2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><img src="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/sett.png" alt="Strathclyde Fire Services (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

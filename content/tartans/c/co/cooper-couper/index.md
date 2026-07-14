@@ -13,10 +13,10 @@ Its design is pattern [RBRBKBGRBRKBGBGBRR](/stripes/rbrbkbgrbrkbgbgbrr/) — the
 The **Cooper/Couper** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/">Cooper/Couper</a></td><td><code>R/4 M6 DB4 G64 DB6 G2 DB6 K28 M6 DB4 M6 G24 DB2 K2 DB60 M8 DB4 M/4</code></td><td>472</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/"><img src="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/sett.png" alt="Cooper/Couper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/">Cooper/Couper</a></td><td></td><td><code>R/4 M6 DB4 G64 DB6 G2 DB6 K28 M6 DB4 M6 G24 DB2 K2 DB60 M8 DB4 M/4</code></td><td>472</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/"><img src="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/sett.png" alt="Cooper/Couper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

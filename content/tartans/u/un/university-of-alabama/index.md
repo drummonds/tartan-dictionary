@@ -13,10 +13,10 @@ Its design is pattern [RKBWBKRKRKWKRW](/stripes/rkbwbkrkrkwkrw/) — the page of
 The **University of Alabama** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r32k2n3w4n3k2r22k1r5k2w6k2r4w5~x2/">University of Alabama</a></td><td><code>R/64 K4 N6 W8 N6 K4 R44 K2 R10 K4 W12 K4 R8 W/10</code></td><td>298</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r32k2n3w4n3k2r22k1r5k2w6k2r4w5~x2/"><img src="/variants/s14/r32k2n3w4n3k2r22k1r5k2w6k2r4w5~x2/sett.png" alt="University of Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r32k2n3w4n3k2r22k1r5k2w6k2r4w5~x2/">University of Alabama</a></td><td></td><td><code>R/64 K4 N6 W8 N6 K4 R44 K2 R10 K4 W12 K4 R8 W/10</code></td><td>298</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r32k2n3w4n3k2r22k1r5k2w6k2r4w5~x2/"><img src="/variants/s14/r32k2n3w4n3k2r22k1r5k2w6k2r4w5~x2/sett.png" alt="University of Alabama sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

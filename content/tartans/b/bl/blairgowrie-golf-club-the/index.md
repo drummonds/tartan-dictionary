@@ -13,10 +13,10 @@ Its design is pattern [GBGBWRW](/stripes/gbgbwrw/) — the page of every tartan 
 The **Blairgowrie Golf Club, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/">Blairgowrie Golf Club, The</a></td><td><code>Y/6 DB76 G14 DP8 LB10 R10 W/6</code></td><td>248</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/"><img src="/variants/s7/y3db38g7dp4lb5r5w3~x2/sett.png" alt="Blairgowrie Golf Club, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/">Blairgowrie Golf Club, The</a></td><td></td><td><code>Y/6 DB76 G14 DP8 LB10 R10 W/6</code></td><td>248</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/"><img src="/variants/s7/y3db38g7dp4lb5r5w3~x2/sett.png" alt="Blairgowrie Golf Club, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

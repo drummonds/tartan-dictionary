@@ -18,10 +18,10 @@ Its design is pattern [BRWBRBWB](/stripes/brwbrbwb/) — the page of every tarta
 The **Americana** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/">Americana</a></td><td><code>DB/66 W14 DB10 R4 DB10 W4 R26 DB/6</code></td><td>208</td><td>1978</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><img src="/variants/s8/db33w7db5r2db5w2r13db3~x2/sett.png" alt="Americana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/">Americana</a></td><td></td><td><code>DB/66 W14 DB10 R4 DB10 W4 R26 DB/6</code></td><td>208</td><td>1978</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><img src="/variants/s8/db33w7db5r2db5w2r13db3~x2/sett.png" alt="Americana sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

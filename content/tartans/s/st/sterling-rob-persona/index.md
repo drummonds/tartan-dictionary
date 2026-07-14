@@ -15,10 +15,10 @@ Designed by Rob Sterling of St. Petersburg, Florida, for his family and associat
 The **Sterling, Rob (Persona** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/">Sterling, Rob (Persona</a></td><td><code>G/22 Y20 DP22 N66 W/6</code></td><td>244</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><img src="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/sett.png" alt="Sterling, Rob (Persona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/">Sterling, Rob (Persona</a></td><td></td><td><code>G/22 Y20 DP22 N66 W/6</code></td><td>244</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><img src="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/sett.png" alt="Sterling, Rob (Persona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

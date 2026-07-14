@@ -22,15 +22,15 @@ The **Shaw of Tordarroch** tartan groups 2 setts — the same named design recor
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/lb5k1r30dp15r8dg30r8dp2~x2~dg1806142/">Shaw of Tordarroch</a> ★</td><td><code>LB/10 K2 R60 DP30 R16 DG60 R16 DP/4</code></td><td>382</td><td>1971</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb5k1r30dp15r8dg30r8dp2~x2~dg1806142/"><img src="/variants/s8/lb5k1r30dp15r8dg30r8dp2~x2~dg1806142/sett.png" alt="Shaw of Tordarroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/">Shaw Red of Tordarroch Dress (Clan 2</a></td><td><code>LB/5 K1 R30 DP15 R8 G30 R8 DP/2</code></td><td>191</td><td>1969</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/"><img src="/variants/s8/lb5k1r30dp15r8g30r8dp2/sett.png" alt="Shaw Red of Tordarroch Dress (Clan 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/">Clan Tartan</a></td><td><code>LB/5 K1 R30 DP15 R8 G30 R8 DP/2</code></td><td>191</td><td>1969</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/lb5k1r30dp15r8g30r8dp2~x2/">Shaw Red of Tordarroch Dress (Clan 2</a></td><td><code>LB/10 K2 R60 DP30 R16 G60 R16 DP/4</code></td><td>382</td><td>1971</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/">Clan Tartan</a> · <a href="/variants/s8/lb5k1r30dp15r8g30r8dp2~x2/">Shaw Red of Tordarroch Dress (Clan 2</a></td></tr>
+<tr><td><a href="/variants/s8/lb5k1r30dp15r8dg30r8dp2~x2~dg1806142/">Shaw of Tordarroch</a> ★</td><td></td><td><code>LB/10 K2 R60 DP30 R16 DG60 R16 DP/4</code></td><td>382</td><td>1971</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb5k1r30dp15r8dg30r8dp2~x2~dg1806142/"><img src="/variants/s8/lb5k1r30dp15r8dg30r8dp2~x2~dg1806142/sett.png" alt="Shaw of Tordarroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/">Shaw Red of Tordarroch Dress (Clan 2</a></td><td>0.07</td><td><code>LB/5 K1 R30 DP15 R8 G30 R8 DP/2</code></td><td>191</td><td>1969</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/"><img src="/variants/s8/lb5k1r30dp15r8g30r8dp2/sett.png" alt="Shaw Red of Tordarroch Dress (Clan 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/">Clan Tartan</a></td><td>0.07</td><td><code>LB/5 K1 R30 DP15 R8 G30 R8 DP/2</code></td><td>191</td><td>1969</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/lb5k1r30dp15r8g30r8dp2~x2/">Shaw Red of Tordarroch Dress (Clan 2</a></td><td>0.07</td><td><code>LB/10 K2 R60 DP30 R16 G60 R16 DP/4</code></td><td>382</td><td>1971</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/">Clan Tartan</a> · <a href="/variants/s8/lb5k1r30dp15r8g30r8dp2~x2/">Shaw Red of Tordarroch Dress (Clan 2</a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [WKWBRBRW](/stripes/wkwbrbrw/) — the page of every tarta
 The **Merida Dance** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w8k4w54db18r6db8r49w6/">Merida Dance</a></td><td><code>W/8 K4 W54 DB18 R6 DB8 R49 W/6</code></td><td>292</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w8k4w54db18r6db8r49w6/"><img src="/variants/s8/w8k4w54db18r6db8r49w6/sett.png" alt="Merida Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w8k4w54db18r6db8r49w6/">Merida Dance</a></td><td></td><td><code>W/8 K4 W54 DB18 R6 DB8 R49 W/6</code></td><td>292</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w8k4w54db18r6db8r49w6/"><img src="/variants/s8/w8k4w54db18r6db8r49w6/sett.png" alt="Merida Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGGBGBGY](/stripes/gggbgbgy/) — the page of every tarta
 The **Dalbraith-Eastern Western (Corporate** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/">Dalbraith-Eastern Western (Corporate</a></td><td><code>DY/56 G4 DY8 DB36 G46 DB4 G6 LY/8</code></td><td>272</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><img src="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/sett.png" alt="Dalbraith-Eastern Western (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/">Dalbraith-Eastern Western (Corporate</a></td><td></td><td><code>DY/56 G4 DY8 DB36 G46 DB4 G6 LY/8</code></td><td>272</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><img src="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/sett.png" alt="Dalbraith-Eastern Western (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

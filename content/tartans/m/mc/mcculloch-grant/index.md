@@ -13,10 +13,10 @@ Its design is pattern [BBBBBWRWGBGBG](/stripes/bbbbbwrwgbgbg/) — the page of e
 The **McCulloch, Grant** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g6db1g1db1g3lb2r1lb2t3db1t1db1t6~x4/">McCulloch, Grant</a></td><td><code>G/24 DB4 G4 DB4 G12 LB8 R4 LB8 T12 DB4 T4 DB4 T/24</code></td><td>184</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g6db1g1db1g3lb2r1lb2t3db1t1db1t6~x4/"><img src="/variants/s13/g6db1g1db1g3lb2r1lb2t3db1t1db1t6~x4/sett.png" alt="McCulloch, Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g6db1g1db1g3lb2r1lb2t3db1t1db1t6~x4/">McCulloch, Grant</a></td><td></td><td><code>G/24 DB4 G4 DB4 G12 LB8 R4 LB8 T12 DB4 T4 DB4 T/24</code></td><td>184</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g6db1g1db1g3lb2r1lb2t3db1t1db1t6~x4/"><img src="/variants/s13/g6db1g1db1g3lb2r1lb2t3db1t1db1t6~x4/sett.png" alt="McCulloch, Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

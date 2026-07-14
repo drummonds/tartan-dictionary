@@ -15,10 +15,10 @@ Personal tartan designed 2005 by Douglas Gregor for Margot Coogan of County Laoi
 The **Cougan Irish** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/">Cougan Irish</a></td><td><code>DB/132 DR32 W4 DR2 W2 DR2 W4 DR32 DB132 Y/4</code></td><td>556</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/"><img src="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/sett.png" alt="Cougan Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/">Cougan Irish</a></td><td></td><td><code>DB/132 DR32 W4 DR2 W2 DR2 W4 DR32 DB132 Y/4</code></td><td>556</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/"><img src="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/sett.png" alt="Cougan Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

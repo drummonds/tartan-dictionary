@@ -13,10 +13,10 @@ Its design is pattern [GKYKRYR](/stripes/gkykryr/) — the page of every tartan 
 The **Alister Grant 'Mohr', the Laird's Champion** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/">Alister Grant 'Mohr', the Laird's Champion</a></td><td><code>Y/60 K8 LG20 K8 R10 LG10 R/30</code></td><td>202</td><td>1714</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/"><img src="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/sett.png" alt="Alister Grant 'Mohr', the Laird's Champion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/">Alister Grant 'Mohr', the Laird's Champion</a></td><td></td><td><code>Y/60 K8 LG20 K8 R10 LG10 R/30</code></td><td>202</td><td>1714</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/"><img src="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/sett.png" alt="Alister Grant 'Mohr', the Laird's Champion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

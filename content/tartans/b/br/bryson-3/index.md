@@ -18,10 +18,10 @@ Its design is pattern [WKBRY](/stripes/wkbry/) — the page of every tartan shar
 The **Bryson** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/">Bryson</a></td><td><code>LR/16 R8 T56 K56 LB/8</code></td><td>264</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><img src="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/sett.png" alt="Bryson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/">Bryson</a></td><td></td><td><code>LR/16 R8 T56 K56 LB/8</code></td><td>264</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><img src="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/sett.png" alt="Bryson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

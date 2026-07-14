@@ -18,10 +18,10 @@ Its design is pattern [BBBBBKBR](/stripes/bbbbbkbr/) — the page of every tarta
 The **Little Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db1004274-dbi1406275/">Little Hunting</a></td><td><code>DB/10 DBi6 DB8 DBi6 DB8 K56 DB16 R/2</code></td><td>212</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db1004274-dbi1406275/"><img src="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db1004274-dbi1406275/sett.png" alt="Little Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db1004274-dbi1406275/">Little Hunting</a></td><td></td><td><code>DB/10 DBi6 DB8 DBi6 DB8 K56 DB16 R/2</code></td><td>212</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db1004274-dbi1406275/"><img src="/variants/s8/db5dbi3db4dbi3db4k28db8r1~x2~db1004274-dbi1406275/sett.png" alt="Little Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

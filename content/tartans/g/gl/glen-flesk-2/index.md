@@ -18,10 +18,10 @@ Designed 1997 by Lochcarron for The Check Trading Co, Tokyo; based on the Burns 
 The **Glen Flesk** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2ly1lb1ly1~x4/">Glen Flesk</a></td><td><code>DG/4 LB4 DG4 LB8 K8 LB8 K8 LB8 K8 LB8 LY4 LB4 LY/4</code></td><td>152</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2ly1lb1ly1~x4/"><img src="/variants/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2ly1lb1ly1~x4/sett.png" alt="Glen Flesk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2ly1lb1ly1~x4/">Glen Flesk</a></td><td></td><td><code>DG/4 LB4 DG4 LB8 K8 LB8 K8 LB8 K8 LB8 LY4 LB4 LY/4</code></td><td>152</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2ly1lb1ly1~x4/"><img src="/variants/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2ly1lb1ly1~x4/sett.png" alt="Glen Flesk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

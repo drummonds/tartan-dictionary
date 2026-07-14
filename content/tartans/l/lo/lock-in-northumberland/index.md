@@ -15,12 +15,12 @@ The **Lock in Northumberland** tartan groups 2 setts — the same named design r
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/">Lock in Northumberland</a> ★</td><td><code>DR/180 K6 LB20 K10 R4 K4 LB/4</code></td><td>272</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><img src="/variants/s7/dr90k3lb10k5r2k2lb2~x2/sett.png" alt="Lock in Northumberland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/">(Name)</a></td><td><code>DR/180 LR2 K4 LB20 K10 R4 LR4 LB/4</code></td><td>272</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/"><img src="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/">Lock in Northumberland</a> ★</td><td></td><td><code>DR/180 K6 LB20 K10 R4 K4 LB/4</code></td><td>272</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><img src="/variants/s7/dr90k3lb10k5r2k2lb2~x2/sett.png" alt="Lock in Northumberland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/">(Name)</a></td><td>1.09</td><td><code>DR/180 LR2 K4 LB20 K10 R4 LR4 LB/4</code></td><td>272</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/"><img src="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

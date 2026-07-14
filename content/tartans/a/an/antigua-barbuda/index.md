@@ -13,11 +13,11 @@ Its design is pattern [RGYGYGYGYGYGYR](/stripes/rgygygygygygyr/) — the page of
 The **Antigua & Barbuda** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/">Antigua &amp; Barbuda</a></td><td><code>R/60 G6 LO6 G6 LO6 G6 LO6 G6 LO6 G6 LO6 G6 LO20 R/10</code></td><td>242</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/"><img src="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/sett.png" alt="Antigua &amp; Barbuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/">(District)</a> · <a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2~g2408144/">Antigua &amp; Barbuda</a></td></tr>
+<tr><td><a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/">Antigua &amp; Barbuda</a></td><td></td><td><code>R/60 G6 LO6 G6 LO6 G6 LO6 G6 LO6 G6 LO6 G6 LO20 R/10</code></td><td>242</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/"><img src="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/sett.png" alt="Antigua &amp; Barbuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/">(District)</a> · <a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2~g2408144/">Antigua &amp; Barbuda</a></td></tr>
 </tbody>
 </table>
 

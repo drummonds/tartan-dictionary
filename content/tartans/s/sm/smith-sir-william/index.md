@@ -16,10 +16,10 @@ Its design is pattern [WBKGKY](/stripes/wbkgky/) — the page of every tartan sh
 The **Smith, Sir William** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/ly3k1g20k20db18lb3~x2/">Smith, Sir William</a></td><td><code>LY/6 K2 G40 K40 DB36 LB/6</code></td><td>248</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/ly3k1g20k20db18lb3~x2/"><img src="/variants/s6/ly3k1g20k20db18lb3~x2/sett.png" alt="Smith, Sir William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/ly3k1g20k20db18lb3~x2/">Smith, Sir William</a></td><td></td><td><code>LY/6 K2 G40 K40 DB36 LB/6</code></td><td>248</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ly3k1g20k20db18lb3~x2/"><img src="/variants/s6/ly3k1g20k20db18lb3~x2/sett.png" alt="Smith, Sir William sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

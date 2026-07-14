@@ -18,10 +18,10 @@ Its design is pattern [GRGRBRBRBRBRBRBRBRBRGRGRGRGRGRBRBRBR](/stripes/grgrbrbrbr
 The **Ross 1** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/r32db3r3db8r3db3r23g20r6g20r6g20r22g5r10g5r22db24r5db24r23db3r3db8r3db3r32db3r3db8r3db3r23g20r6g20/">Ross 1</a></td><td><code>R/32 DB3 R3 DB8 R3 DB3 R23 G20 R6 G20 R6 G20 R22 G5 R10 G5 R22 DB24 R5 DB24 R23 DB3 R3 DB8 R3 DB3 R32 DB3 R3 DB8 R3 DB3 R23 G20 R6 G/20</code></td><td>804</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/r32db3r3db8r3db3r23g20r6g20r6g20r22g5r10g5r22db24r5db24r23db3r3db8r3db3r32db3r3db8r3db3r23g20r6g20/"><img src="/variants/s36/r32db3r3db8r3db3r23g20r6g20r6g20r22g5r10g5r22db24r5db24r23db3r3db8r3db3r32db3r3db8r3db3r23g20r6g20/sett.png" alt="Ross 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/r32db3r3db8r3db3r23g20r6g20r6g20r22g5r10g5r22db24r5db24r23db3r3db8r3db3r32db3r3db8r3db3r23g20r6g20/">Ross 1</a></td><td></td><td><code>R/32 DB3 R3 DB8 R3 DB3 R23 G20 R6 G20 R6 G20 R22 G5 R10 G5 R22 DB24 R5 DB24 R23 DB3 R3 DB8 R3 DB3 R32 DB3 R3 DB8 R3 DB3 R23 G20 R6 G/20</code></td><td>804</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/r32db3r3db8r3db3r23g20r6g20r6g20r22g5r10g5r22db24r5db24r23db3r3db8r3db3r32db3r3db8r3db3r23g20r6g20/"><img src="/variants/s36/r32db3r3db8r3db3r23g20r6g20r6g20r22g5r10g5r22db24r5db24r23db3r3db8r3db3r32db3r3db8r3db3r23g20r6g20/sett.png" alt="Ross 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

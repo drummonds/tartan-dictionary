@@ -13,10 +13,10 @@ Its design is pattern [GBRKWGGGY](/stripes/gbrkwgggy/) — the page of every tar
 The **Thistle Stop LLC** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/">Thistle Stop LLC</a></td><td><code>LG/32 G2 DG2 G2 LB48 K24 O32 DP4 G/4</code></td><td>264</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/"><img src="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/sett.png" alt="Thistle Stop LLC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/">Thistle Stop LLC</a></td><td></td><td><code>LG/32 G2 DG2 G2 LB48 K24 O32 DP4 G/4</code></td><td>264</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/"><img src="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/sett.png" alt="Thistle Stop LLC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

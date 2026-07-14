@@ -13,10 +13,10 @@ Its design is pattern [BRBKBKBKBY](/stripes/brbkbkbkby/) — the page of every t
 The **Brady 60th** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/">Brady 60th</a></td><td><code>N/4 R4 N28 K12 N4 K4 N4 K4 DB36 LY/4</code></td><td>200</td><td>2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/"><img src="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/sett.png" alt="Brady 60th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/">Brady 60th</a></td><td></td><td><code>N/4 R4 N28 K12 N4 K4 N4 K4 DB36 LY/4</code></td><td>200</td><td>2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/"><img src="/variants/s10/n1r1n7k3n1k1n1k1db9ly1~x4/sett.png" alt="Brady 60th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

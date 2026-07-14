@@ -18,10 +18,10 @@ Its design is pattern [BRKRGRBRGRKRKRKRKRGRBRGRKRBRBRBRBRKRGRBRBRK](/stripes/brk
 The **MacIntosh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s43/k72r4db4r4db4r72g90r2k2r24db2r2db2r4db2r2db2r24k2r2g30r26db23r26g7r2k2r2k2r24k2r2k2r2g7r24db24r26g25r2k2r26db30/">MacIntosh</a></td><td><code>K/72 R4 DB4 R4 DB4 R72 G90 R2 K2 R24 DB2 R2 DB2 R4 DB2 R2 DB2 R24 K2 R2 G30 R26 DB23 R26 G7 R2 K2 R2 K2 R24 K2 R2 K2 R2 G7 R24 DB24 R26 G25 R2 K2 R26 DB/30</code></td><td>1178</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s43/k72r4db4r4db4r72g90r2k2r24db2r2db2r4db2r2db2r24k2r2g30r26db23r26g7r2k2r2k2r24k2r2k2r2g7r24db24r26g25r2k2r26db30/"><img src="/variants/s43/k72r4db4r4db4r72g90r2k2r24db2r2db2r4db2r2db2r24k2r2g30r26db23r26g7r2k2r2k2r24k2r2k2r2g7r24db24r26g25r2k2r26db30/sett.png" alt="MacIntosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s43/k72r4db4r4db4r72g90r2k2r24db2r2db2r4db2r2db2r24k2r2g30r26db23r26g7r2k2r2k2r24k2r2k2r2g7r24db24r26g25r2k2r26db30/">MacIntosh</a></td><td></td><td><code>K/72 R4 DB4 R4 DB4 R72 G90 R2 K2 R24 DB2 R2 DB2 R4 DB2 R2 DB2 R24 K2 R2 G30 R26 DB23 R26 G7 R2 K2 R2 K2 R24 K2 R2 K2 R2 G7 R24 DB24 R26 G25 R2 K2 R26 DB/30</code></td><td>1178</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s43/k72r4db4r4db4r72g90r2k2r24db2r2db2r4db2r2db2r24k2r2g30r26db23r26g7r2k2r2k2r24k2r2k2r2g7r24db24r26g25r2k2r26db30/"><img src="/variants/s43/k72r4db4r4db4r72g90r2k2r24db2r2db2r4db2r2db2r24k2r2g30r26db23r26g7r2k2r2k2r24k2r2k2r2g7r24db24r26g25r2k2r26db30/sett.png" alt="MacIntosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

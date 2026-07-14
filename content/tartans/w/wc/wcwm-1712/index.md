@@ -18,10 +18,10 @@ Its design is pattern [BWBKGKGKGYGY](/stripes/bwbkgkgkgygy/) — the page of eve
 The **Wcwm 1712** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/">Wcwm 1712</a></td><td><code>DR/16 W4 DR44 K16 DG12 K12 DG12 K12 DG16 LG6 DG6 LG/6</code></td><td>302</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><img src="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/sett.png" alt="Wcwm 1712 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/">Wcwm 1712</a></td><td></td><td><code>DR/16 W4 DR44 K16 DG12 K12 DG12 K12 DG16 LG6 DG6 LG/6</code></td><td>302</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><img src="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/sett.png" alt="Wcwm 1712 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [WBWBWW](/stripes/wbwbww/) — the page of every tartan sh
 The **Lochnagar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w1dp1lb7n4lb1w1~x4/">Lochnagar</a></td><td><code>W/4 DP4 LB28 N16 LB4 W/4</code></td><td>112</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w1dp1lb7n4lb1w1~x4/"><img src="/variants/s6/w1dp1lb7n4lb1w1~x4/sett.png" alt="Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w1dp1lb7n4lb1w1~x4/">Lochnagar</a></td><td></td><td><code>W/4 DP4 LB28 N16 LB4 W/4</code></td><td>112</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w1dp1lb7n4lb1w1~x4/"><img src="/variants/s6/w1dp1lb7n4lb1w1~x4/sett.png" alt="Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

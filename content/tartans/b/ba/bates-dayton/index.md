@@ -13,10 +13,10 @@ Its design is pattern [BRKYKBKRBKBY](/stripes/brkykbkrbkby/) — the page of eve
 The **Bates-Dayton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/dp3r17k3ly3k3dp3k3r7dp8k3dp1ly3~x4~dp1607327/">Bates-Dayton</a></td><td><code>DP/12 R68 K12 LY12 K12 DP12 K12 R28 DP32 K12 DP4 LY/12</code></td><td>432</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/dp3r17k3ly3k3dp3k3r7dp8k3dp1ly3~x4~dp1607327/"><img src="/variants/s12/dp3r17k3ly3k3dp3k3r7dp8k3dp1ly3~x4~dp1607327/sett.png" alt="Bates-Dayton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dp3r17k3ly3k3dp3k3r7dp8k3dp1ly3~x4~dp1607327/">Bates-Dayton</a></td><td></td><td><code>DP/12 R68 K12 LY12 K12 DP12 K12 R28 DP32 K12 DP4 LY/12</code></td><td>432</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dp3r17k3ly3k3dp3k3r7dp8k3dp1ly3~x4~dp1607327/"><img src="/variants/s12/dp3r17k3ly3k3dp3k3r7dp8k3dp1ly3~x4~dp1607327/sett.png" alt="Bates-Dayton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

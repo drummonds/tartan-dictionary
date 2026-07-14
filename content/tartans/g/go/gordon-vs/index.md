@@ -19,13 +19,13 @@ The **Gordon VS** tartan is one sett, recorded at 2 scales — the same proporti
 finer or broader. The top row is the unit proportion; each scale row is one weaving of it.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/">Gordon VS</a></td><td><code>DB/28 K1 DB1 K1 DB3 K12 G24 Y1 G1 Y2 G1 Y1 G24 K12 DB18 K1 DB/4</code></td><td>238</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/"><img src="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/sett.png" alt="Gordon VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4/">Gordon VS</a></td><td><code>DB/28 K1 DB1 K1 DB3 K12 G24 Y1 G1 Y2 G1 Y1 G24 K12 DB18 K1 DB/4</code></td><td>238</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/">Gordon, Ancient</a></td><td><code>DB/56 K2 DB2 K2 DB6 K24 G48 Y2 G2 Y4 G2 Y2 G48 K24 DB36 K2 DB/8</code></td><td>476</td><td>1842</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4/">Gordon VS</a> · <a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/">Gordon, Ancient</a></td></tr>
+<tr><td><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/">Gordon VS</a></td><td></td><td><code>DB/28 K1 DB1 K1 DB3 K12 G24 Y1 G1 Y2 G1 Y1 G24 K12 DB18 K1 DB/4</code></td><td>238</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/"><img src="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/sett.png" alt="Gordon VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4/">Gordon VS</a></td><td>0.00</td><td><code>DB/28 K1 DB1 K1 DB3 K12 G24 Y1 G1 Y2 G1 Y1 G24 K12 DB18 K1 DB/4</code></td><td>238</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/">Gordon, Ancient</a></td><td>0.00</td><td><code>DB/56 K2 DB2 K2 DB6 K24 G48 Y2 G2 Y4 G2 Y2 G48 K24 DB36 K2 DB/8</code></td><td>476</td><td>1842</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4/">Gordon VS</a> · <a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/">Gordon, Ancient</a></td></tr>
 </tbody>
 </table>
 

@@ -18,10 +18,10 @@ Its design is pattern [WRGBRGRBGRGWRW](/stripes/wrgbrgrbgrgwrw/) — the page of
 The **MacKinnon 9** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/">MacKinnon 9</a></td><td><code>W/4 R8 G4 DB4 R12 G8 R4 DB10 G4 R40 G14 W4 R8 W/4</code></td><td>248</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/"><img src="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/sett.png" alt="MacKinnon 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/">MacKinnon 9</a></td><td></td><td><code>W/4 R8 G4 DB4 R12 G8 R4 DB10 G4 R40 G14 W4 R8 W/4</code></td><td>248</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/"><img src="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/sett.png" alt="MacKinnon 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

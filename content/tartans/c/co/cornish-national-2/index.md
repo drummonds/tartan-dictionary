@@ -20,16 +20,16 @@ The **Cornish National** tartan groups 4 setts — the same named design recorde
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/w2k11y11db3k1r1~x2/">Cornish National</a> ★</td><td><code>W/4 K22 Y22 DB6 K2 R/2</code></td><td>110</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w2k11y11db3k1r1~x2/"><img src="/variants/s6/w2k11y11db3k1r1~x2/sett.png" alt="Cornish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w5k26dy26lb7k3r3~x2/">District Tartan</a></td><td><code>W/10 K52 DY52 LB14 K6 R/6</code></td><td>264</td><td>1963</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w5k26dy26lb7k3r3~x2/"><img src="/variants/s6/w5k26dy26lb7k3r3~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w5k26ly26lb7k3r3~x2/">(District)</a></td><td><code>W/10 K52 LY52 LB14 K6 R/6</code></td><td>264</td><td>1963</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w5k26ly26lb7k3r3~x2/"><img src="/variants/s6/w5k26ly26lb7k3r3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w5k26y26lb7k3r3~x2/">Cornish, National</a></td><td><code>W/10 K52 Y52 LB14 K6 R/6</code></td><td>264</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w5k26y26lb7k3r3~x2/"><img src="/variants/s6/w5k26y26lb7k3r3~x2/sett.png" alt="Cornish, National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w2k11y11db3k1r1~x2/">Cornish National</a> ★</td><td></td><td><code>W/4 K22 Y22 DB6 K2 R/2</code></td><td>110</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w2k11y11db3k1r1~x2/"><img src="/variants/s6/w2k11y11db3k1r1~x2/sett.png" alt="Cornish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w5k26dy26lb7k3r3~x2/">District Tartan</a></td><td>0.41</td><td><code>W/10 K52 DY52 LB14 K6 R/6</code></td><td>264</td><td>1963</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w5k26dy26lb7k3r3~x2/"><img src="/variants/s6/w5k26dy26lb7k3r3~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w5k26ly26lb7k3r3~x2/">(District)</a></td><td>0.40</td><td><code>W/10 K52 LY52 LB14 K6 R/6</code></td><td>264</td><td>1963</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w5k26ly26lb7k3r3~x2/"><img src="/variants/s6/w5k26ly26lb7k3r3~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w5k26y26lb7k3r3~x2/">Cornish, National</a></td><td>0.34</td><td><code>W/10 K52 Y52 LB14 K6 R/6</code></td><td>264</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w5k26y26lb7k3r3~x2/"><img src="/variants/s6/w5k26y26lb7k3r3~x2/sett.png" alt="Cornish, National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

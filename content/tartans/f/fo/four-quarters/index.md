@@ -15,10 +15,10 @@ Designed in 2007 from old earth religions, its colours represent the four elemen
 The **Four Quarters** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7~x2/">Four Quarters</a></td><td><code>W/14 DP14 W2 G26 W2 DP4 W2 DB28 W2 DP4 W2 R22 W2 DP4 W2 Y14 W2 DP4 W/14</code></td><td>300</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7~x2/"><img src="/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7~x2/sett.png" alt="Four Quarters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7~x2/">Four Quarters</a></td><td></td><td><code>W/14 DP14 W2 G26 W2 DP4 W2 DB28 W2 DP4 W2 R22 W2 DP4 W2 Y14 W2 DP4 W/14</code></td><td>300</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7~x2/"><img src="/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7~x2/sett.png" alt="Four Quarters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

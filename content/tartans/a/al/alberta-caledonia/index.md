@@ -16,10 +16,10 @@ Its design is pattern [RBKBKBKGBRKRW](/stripes/rbkbkbkgbrkrw/) — the page of e
 The **Alberta Caledonia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/">Alberta Caledonia</a></td><td><code>R/12 DB18 K4 DB4 K4 DB18 K20 Y8 N34 R10 K4 R10 W/8</code></td><td>288</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/"><img src="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/sett.png" alt="Alberta Caledonia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/">Alberta Caledonia</a></td><td></td><td><code>R/12 DB18 K4 DB4 K4 DB18 K20 Y8 N34 R10 K4 R10 W/8</code></td><td>288</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/"><img src="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/sett.png" alt="Alberta Caledonia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

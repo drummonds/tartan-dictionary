@@ -18,10 +18,10 @@ Black and grey design evoking Byron's "Dark Lochnagar," with purple for Royal li
 The **Lochnagar Dark** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/">Lochnagar Dark</a></td><td><code>DT/12 O2 DT80 N2 DT24 O24 DP12 O4 R4 O/8</code></td><td>324</td><td>1999</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/"><img src="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/sett.png" alt="Lochnagar Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/">Lochnagar Dark</a></td><td></td><td><code>DT/12 O2 DT80 N2 DT24 O24 DP12 O4 R4 O/8</code></td><td>324</td><td>1999</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/"><img src="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/sett.png" alt="Lochnagar Dark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

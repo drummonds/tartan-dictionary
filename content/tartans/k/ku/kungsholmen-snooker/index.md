@@ -13,10 +13,10 @@ Its design is pattern [KGKGKRKGKGKYWGWW](/stripes/kgkgkrkgkgkywgww/) — the pag
 The **Kungsholmen Snooker** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4~x4~r2109032-lr3104014/">Kungsholmen Snooker</a></td><td><code>K/52 DY4 K4 G4 K4 R8 K4 G4 K4 DY4 K52 LR4 LB52 Y8 LB4 W/16</code></td><td>388</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4~x4~r2109032-lr3104014/"><img src="/variants/s16/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4~x4~r2109032-lr3104014/sett.png" alt="Kungsholmen Snooker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4~x4~r2109032-lr3104014/">Kungsholmen Snooker</a></td><td></td><td><code>K/52 DY4 K4 G4 K4 R8 K4 G4 K4 DY4 K52 LR4 LB52 Y8 LB4 W/16</code></td><td>388</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4~x4~r2109032-lr3104014/"><img src="/variants/s16/k13dy1k1g1k1r2k1g1k1dy1k13lr1lb13y2lb1w4~x4~r2109032-lr3104014/sett.png" alt="Kungsholmen Snooker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

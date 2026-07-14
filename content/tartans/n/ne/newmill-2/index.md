@@ -20,10 +20,10 @@ Corporate design for Johnstons of Elgin mill shop refurbishment, based on house-
 The **Newmill** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/">Newmill</a></td><td><code>DR/8 N40 DT24 DB88 DT24 N40 LO/8</code></td><td>448</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/"><img src="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/sett.png" alt="Newmill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/">Newmill</a></td><td></td><td><code>DR/8 N40 DT24 DB88 DT24 N40 LO/8</code></td><td>448</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/"><img src="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/sett.png" alt="Newmill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

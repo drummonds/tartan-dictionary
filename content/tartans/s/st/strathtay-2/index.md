@@ -18,10 +18,10 @@ Its design is pattern [KGRKRKKKKGWGW](/stripes/kgrkrkkkkgwgw/) — the page of e
 The **Strathtay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/lb6dg2lb2dg5k49r2k2r4g10k2~x2/">Strathtay</a></td><td><code>LB/12 DG4 LB4 DG10 K98 R4 K4 R8 G20 K/4</code></td><td>320</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/lb6dg2lb2dg5k49r2k2r4g10k2~x2/"><img src="/variants/s10/lb6dg2lb2dg5k49r2k2r4g10k2~x2/sett.png" alt="Strathtay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/lb6dg2lb2dg5k49r2k2r4g10k2~x2/">Strathtay</a></td><td></td><td><code>LB/12 DG4 LB4 DG10 K98 R4 K4 R8 G20 K/4</code></td><td>320</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lb6dg2lb2dg5k49r2k2r4g10k2~x2/"><img src="/variants/s10/lb6dg2lb2dg5k49r2k2r4g10k2~x2/sett.png" alt="Strathtay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

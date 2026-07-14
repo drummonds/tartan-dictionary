@@ -13,10 +13,10 @@ Its design is pattern [KRKGKGKGBGBYBGKGKGKRK](/stripes/krkgkgkgbgbybgkgkgkrk/) �
 The **Kinnear Barony of..** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/">Kinnear Barony of..</a></td><td><code>K/4 R2 K12 G4 K12 G48 K8 G4 DR6 Y2 DR4 LR2 DR6 G4 K8 G48 K12 G4 K12 R2 K/4</code></td><td>408</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/"><img src="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/sett.png" alt="Kinnear Barony of.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/">Kinnear Barony of..</a></td><td></td><td><code>K/4 R2 K12 G4 K12 G48 K8 G4 DR6 Y2 DR4 LR2 DR6 G4 K8 G48 K12 G4 K12 R2 K/4</code></td><td>408</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/"><img src="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/sett.png" alt="Kinnear Barony of.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

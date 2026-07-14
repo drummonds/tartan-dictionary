@@ -20,10 +20,10 @@ Canadian family tartan designed by Alfred Arnold Smither, open to all of the nam
 The **Smithers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/">Smithers</a></td><td><code>G/20 K4 G20 K24 T16 LB4 T12 N4 T24 DP8 T24 N4 T12 LB4 T16 K24 G20 K4 G20 DP/8</code></td><td>516</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><img src="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/sett.png" alt="Smithers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/">Smithers</a></td><td></td><td><code>G/20 K4 G20 K24 T16 LB4 T12 N4 T24 DP8 T24 N4 T12 LB4 T16 K24 G20 K4 G20 DP/8</code></td><td>516</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><img src="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/sett.png" alt="Smithers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

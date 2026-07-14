@@ -13,11 +13,11 @@ Its design is pattern [RKWBBKWKR](/stripes/rkwbbkwkr/) — the page of every tar
 The **Bradey Blue Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r1k1w13t13db7k7w13k1r1~x4/">Bradey Blue Dress</a></td><td><code>R/4 K4 W52 T52 DB28 K28 W52 K4 R/4</code></td><td>448</td><td>2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r1k1w13t13db7k7w13k1r1~x4/"><img src="/variants/s9/r1k1w13t13db7k7w13k1r1~x4/sett.png" alt="Bradey Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s9/r1k1w13t13db7k7w13k1r1~x4/">Bradey Dress, Blue (Fashion)</a> · <a href="/variants/s9/r1k1w13t13db7k7w13k1r1~x4~t2205244-db1106275/">Bradey Blue Dress</a></td></tr>
+<tr><td><a href="/variants/s9/r1k1w13t13db7k7w13k1r1~x4/">Bradey Blue Dress</a></td><td></td><td><code>R/4 K4 W52 T52 DB28 K28 W52 K4 R/4</code></td><td>448</td><td>2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r1k1w13t13db7k7w13k1r1~x4/"><img src="/variants/s9/r1k1w13t13db7k7w13k1r1~x4/sett.png" alt="Bradey Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s9/r1k1w13t13db7k7w13k1r1~x4/">Bradey Dress, Blue (Fashion)</a> · <a href="/variants/s9/r1k1w13t13db7k7w13k1r1~x4~t2205244-db1106275/">Bradey Blue Dress</a></td></tr>
 </tbody>
 </table>
 

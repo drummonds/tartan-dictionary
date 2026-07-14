@@ -20,10 +20,10 @@ Clan tartan from the Barony of Guthrie in Angus; name possibly derived from Scan
 The **Guthrie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1~x4~g2203152/">Guthrie</a></td><td><code>G/48 K48 R4 K4 R4 K48 T48 R4 T48 K48 R4 K4 R4 K48 G48 K/4</code></td><td>780</td><td>1996</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1~x4~g2203152/"><img src="/variants/s16/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1~x4~g2203152/sett.png" alt="Guthrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1~x4~g2203152/">Guthrie</a></td><td></td><td><code>G/48 K48 R4 K4 R4 K48 T48 R4 T48 K48 R4 K4 R4 K48 G48 K/4</code></td><td>780</td><td>1996</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1~x4~g2203152/"><img src="/variants/s16/g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1~x4~g2203152/sett.png" alt="Guthrie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

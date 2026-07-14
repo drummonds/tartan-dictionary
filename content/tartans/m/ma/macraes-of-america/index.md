@@ -18,10 +18,10 @@ Its design is pattern [RWBWBGBW](/stripes/rwbwbgbw/) — the page of every tarta
 The **MacRaes of America** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/w8db4y2db36lb48db2lb4r5~x2/">MacRaes of America</a></td><td><code>W/16 DB8 Y4 DB72 LB96 DB4 LB8 R/10</code></td><td>410</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/w8db4y2db36lb48db2lb4r5~x2/"><img src="/variants/s8/w8db4y2db36lb48db2lb4r5~x2/sett.png" alt="MacRaes of America sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w8db4y2db36lb48db2lb4r5~x2/">MacRaes of America</a></td><td></td><td><code>W/16 DB8 Y4 DB72 LB96 DB4 LB8 R/10</code></td><td>410</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w8db4y2db36lb48db2lb4r5~x2/"><img src="/variants/s8/w8db4y2db36lb48db2lb4r5~x2/sett.png" alt="MacRaes of America sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

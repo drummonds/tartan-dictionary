@@ -18,11 +18,11 @@ Its design is pattern [WKGKGKGKGGWGKW](/stripes/wkgkgkgkggwgkw/) — the page of
 The **Avalon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2/">Avalon</a></td><td><code>W/6 K2 G30 K12 G10 K6 G16 K4 G10 Y6 W4 Y8 K2 W/6</code></td><td>232</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2/"><img src="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2/sett.png" alt="Avalon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2/">Calvert House (Corporate)</a> · <a href="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2~g2203152/">Calvert House</a></td></tr>
+<tr><td><a href="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2/">Avalon</a></td><td></td><td><code>W/6 K2 G30 K12 G10 K6 G16 K4 G10 Y6 W4 Y8 K2 W/6</code></td><td>232</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2/"><img src="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2/sett.png" alt="Avalon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2/">Calvert House (Corporate)</a> · <a href="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2~g2203152/">Calvert House</a></td></tr>
 </tbody>
 </table>
 

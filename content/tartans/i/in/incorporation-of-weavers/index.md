@@ -13,10 +13,10 @@ Its design is pattern [BBBBKBGKG](/stripes/bbbbkbgkg/) — the page of every tar
 The **Incorporation of Weavers** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/">Incorporation of Weavers</a></td><td><code>DB/6 N6 DB72 DBi14 K6 DBi12 G10 K2 Y/6</code></td><td>256</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/"><img src="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/sett.png" alt="Incorporation of Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/">Incorporation of Weavers</a></td><td></td><td><code>DB/6 N6 DB72 DBi14 K6 DBi12 G10 K2 Y/6</code></td><td>256</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/"><img src="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/sett.png" alt="Incorporation of Weavers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

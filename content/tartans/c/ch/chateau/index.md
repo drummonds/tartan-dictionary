@@ -15,10 +15,10 @@ Fashion tartan from Reis of New Haven, Connecticut, 1970; same sett as #4490.
 The **Chateau** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/">Chateau</a></td><td><code>R/144 K12 DY12 DR4 DY12 K12 R16 DY24 K4 DR/8</code></td><td>344</td><td>1970</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/"><img src="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/sett.png" alt="Chateau sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/">Chateau</a></td><td></td><td><code>R/144 K12 DY12 DR4 DY12 K12 R16 DY24 K4 DR/8</code></td><td>344</td><td>1970</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/"><img src="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/sett.png" alt="Chateau sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

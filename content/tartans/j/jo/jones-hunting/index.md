@@ -18,10 +18,10 @@ Its design is pattern [GBGBKWBWBWBWKBGBGG](/stripes/gbgbkwbwbwbwkbgbgg/) — the
 The **Jones Hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dg24dp4dg3dp8k3lb8dp2lb2dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/">Jones Hunting</a></td><td><code>DG/48 DP8 DG6 DP16 K6 LB16 DP4 LB4 DP8 LB4 DP4 LB16 K6 DP16 DG6 DP8 DG48 G/4</code></td><td>404</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dg24dp4dg3dp8k3lb8dp2lb2dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><img src="/variants/s18/dg24dp4dg3dp8k3lb8dp2lb2dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/sett.png" alt="Jones Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dg24dp4dg3dp8k3lb8dp2lb2dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/">Jones Hunting</a></td><td></td><td><code>DG/48 DP8 DG6 DP16 K6 LB16 DP4 LB4 DP8 LB4 DP4 LB16 K6 DP16 DG6 DP8 DG48 G/4</code></td><td>404</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dg24dp4dg3dp8k3lb8dp2lb2dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><img src="/variants/s18/dg24dp4dg3dp8k3lb8dp2lb2dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/sett.png" alt="Jones Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

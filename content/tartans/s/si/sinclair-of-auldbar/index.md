@@ -18,10 +18,10 @@ Its design is pattern [RBWKGR](/stripes/rbwkgr/) — the page of every tartan sh
 The **Sinclair of Auldbar** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r36t8w1k5dg20r18~x4/">Sinclair of Auldbar</a></td><td><code>R/144 T32 W4 K20 DG80 R/72</code></td><td>488</td><td>1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r36t8w1k5dg20r18~x4/"><img src="/variants/s6/r36t8w1k5dg20r18~x4/sett.png" alt="Sinclair of Auldbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r36t8w1k5dg20r18~x4/">Sinclair of Auldbar</a></td><td></td><td><code>R/144 T32 W4 K20 DG80 R/72</code></td><td>488</td><td>1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r36t8w1k5dg20r18~x4/"><img src="/variants/s6/r36t8w1k5dg20r18~x4/sett.png" alt="Sinclair of Auldbar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

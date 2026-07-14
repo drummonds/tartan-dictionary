@@ -13,10 +13,10 @@ Its design is pattern [BYBYBYKBBBBBBBBBBBW](/stripes/bybybykbbbbbbbbbbbw/) — t
 The **Declaration of Scottish Independence** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s19/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/">Declaration of Scottish Independence</a></td><td><code>W/16 T38 DB2 T6 DB2 T4 DB4 T2 DB6 T2 DB12 DR16 K8 LY8 DR4 LY3 DR2 LY16 DR/10</code></td><td>296</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s19/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/"><img src="/variants/s19/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/sett.png" alt="Declaration of Scottish Independence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/">Declaration of Scottish Independence</a></td><td></td><td><code>W/16 T38 DB2 T6 DB2 T4 DB4 T2 DB6 T2 DB12 DR16 K8 LY8 DR4 LY3 DR2 LY16 DR/10</code></td><td>296</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s19/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/"><img src="/variants/s19/w16t38db2t6db2t4db4t2db6t2db12dr16k8ly8dr4ly3dr2ly16dr10/sett.png" alt="Declaration of Scottish Independence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

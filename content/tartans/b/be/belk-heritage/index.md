@@ -13,10 +13,10 @@ Its design is pattern [GKBKGKBYGBKWKYK](/stripes/gkbkgkbygbkwkyk/) — the page 
 The **Belk Heritage** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/">Belk Heritage</a></td><td><code>K/32 LY2 K8 W4 K8 DR2 DG82 LY4 DR72 K2 DG6 K2 DR6 K2 DG/8</code></td><td>440</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/"><img src="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/sett.png" alt="Belk Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/">Belk Heritage</a></td><td></td><td><code>K/32 LY2 K8 W4 K8 DR2 DG82 LY4 DR72 K2 DG6 K2 DR6 K2 DG/8</code></td><td>440</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/"><img src="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/sett.png" alt="Belk Heritage sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

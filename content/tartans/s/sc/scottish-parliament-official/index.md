@@ -15,10 +15,10 @@ Designed by a student in a 2009 competition marking 10 years of Devolution; insp
 The **Scottish Parliament Official** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/">Scottish Parliament Official</a></td><td><code>O/120 G4 DB8 R2 DB8 G4 O6 W2 DP40 W2 O10 DB/4</code></td><td>296</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/"><img src="/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/sett.png" alt="Scottish Parliament Official sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/">Scottish Parliament Official</a></td><td></td><td><code>O/120 G4 DB8 R2 DB8 G4 O6 W2 DP40 W2 O10 DB/4</code></td><td>296</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/"><img src="/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/sett.png" alt="Scottish Parliament Official sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

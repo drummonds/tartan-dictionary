@@ -18,10 +18,10 @@ Its design is pattern [BGYGYKYGYGYKYGYGW](/stripes/bgygykygygykygygw/) — the p
 The **Australian** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/">Australian</a></td><td><code>DB/4 DY30 LY20 DY8 LY4 K4 LY4 DY8 LY100 DY8 LY4 K4 LY4 DY8 LY20 DY30 W/4</code></td><td>520</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/"><img src="/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/sett.png" alt="Australian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/">Australian</a></td><td></td><td><code>DB/4 DY30 LY20 DY8 LY4 K4 LY4 DY8 LY100 DY8 LY4 K4 LY4 DY8 LY20 DY30 W/4</code></td><td>520</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/"><img src="/variants/s17/db2dy15ly10dy4ly2k2ly2dy4ly50dy4ly2k2ly2dy4ly10dy15w2~x2/sett.png" alt="Australian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

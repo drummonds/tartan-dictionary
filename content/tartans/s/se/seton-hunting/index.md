@@ -22,13 +22,13 @@ The **Seton Hunting** tartan groups 2 setts — the same named design recorded a
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/">Seton Hunting</a> ★</td><td><code>DY/12 G4 DY60 R8 DY4 R8 DY4 G28 W4 G/8</code></td><td>260</td><td>1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><img src="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/sett.png" alt="Seton Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/">Seton Htg (Clan)</a> · <a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4~g2203152/">Seton Hunting</a></td></tr>
-<tr><td><a href="/variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/">Family Tartan</a></td><td><code>G/12 W2 G24 DY8 R8 DY4 R8 DY64 G2 DY/4</code></td><td>256</td><td>~1930</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><img src="g6w1g12dy4r4dy2r4dy32g1dy2-rev.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/">Seton Hunting</a> ★</td><td></td><td><code>DY/12 G4 DY60 R8 DY4 R8 DY4 G28 W4 G/8</code></td><td>260</td><td>1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><img src="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/sett.png" alt="Seton Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/">Seton Htg (Clan)</a> · <a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4~g2203152/">Seton Hunting</a></td></tr>
+<tr><td><a href="/variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/">Family Tartan</a></td><td>0.52</td><td><code>G/12 W2 G24 DY8 R8 DY4 R8 DY64 G2 DY/4</code></td><td>256</td><td>~1930</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><img src="g6w1g12dy4r4dy2r4dy32g1dy2-rev.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -17,10 +17,10 @@ Its design is pattern [GKR](/stripes/gkr/) — the page of every tartan sharing 
 The **Masai Shuka 20** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/r30k10y3~x4/">Masai Shuka 20</a></td><td><code>R/120 K40 Y/12</code></td><td>212</td><td>~2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/r30k10y3~x4/"><img src="/variants/s3/r30k10y3~x4/sett.png" alt="Masai Shuka 20 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/r30k10y3~x4/">Masai Shuka 20</a></td><td></td><td><code>R/120 K40 Y/12</code></td><td>212</td><td>~2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/r30k10y3~x4/"><img src="/variants/s3/r30k10y3~x4/sett.png" alt="Masai Shuka 20 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

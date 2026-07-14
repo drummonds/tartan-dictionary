@@ -13,11 +13,11 @@ Its design is pattern [KBGWKWK](/stripes/kbgwkwk/) — the page of every tartan 
 The **Wild Highlanders** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/">Wild Highlanders</a></td><td><code>K/72 W6 K20 W6 DG56 DR12 K/36</code></td><td>308</td><td>2000</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/"><img src="/variants/s7/k36w3k10w3dg28dr6k18~x2/sett.png" alt="Wild Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/">(Corporate)</a> · <a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/">Wild Highlanders</a></td></tr>
+<tr><td><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/">Wild Highlanders</a></td><td></td><td><code>K/72 W6 K20 W6 DG56 DR12 K/36</code></td><td>308</td><td>2000</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/"><img src="/variants/s7/k36w3k10w3dg28dr6k18~x2/sett.png" alt="Wild Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/">(Corporate)</a> · <a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/">Wild Highlanders</a></td></tr>
 </tbody>
 </table>
 

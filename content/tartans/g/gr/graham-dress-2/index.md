@@ -18,10 +18,10 @@ Its design is pattern [GKRGKGRKG](/stripes/gkrgkgrkg/) — the page of every tar
 The **Graham Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/">Graham Dress</a></td><td><code>Y/8 K8 R64 DG64 K48 Y32 R64 K8 Y/8</code></td><td>592</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/"><img src="/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/sett.png" alt="Graham Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/">Graham Dress</a></td><td></td><td><code>Y/8 K8 R64 DG64 K48 Y32 R64 K8 Y/8</code></td><td>592</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/"><img src="/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/sett.png" alt="Graham Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

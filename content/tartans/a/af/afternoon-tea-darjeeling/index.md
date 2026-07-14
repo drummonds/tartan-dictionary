@@ -15,12 +15,12 @@ The **Afternoon Tea / Darjeeling** tartan groups 2 setts — the same named desi
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/y15db8r25db72dg98w15/">Afternoon Tea / Darjeeling</a> ★</td><td><code>Y/15 DB8 R25 DB72 DG98 W/15</code></td><td>436</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/y15db8r25db72dg98w15/"><img src="/variants/s6/y15db8r25db72dg98w15/sett.png" alt="Afternoon Tea / Darjeeling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w15dg98db72dr25db8ly15/">Afternoon Tea / Darjeeling</a></td><td><code>W/15 DG98 DB72 DR25 DB8 LY/15</code></td><td>436</td><td>2015</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/w15dg98db72dr25db8ly15/"><img src="w15dg98db72dr25db8ly15-rev.png" alt="Afternoon Tea / Darjeeling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/y15db8r25db72dg98w15/">Afternoon Tea / Darjeeling</a> ★</td><td></td><td><code>Y/15 DB8 R25 DB72 DG98 W/15</code></td><td>436</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y15db8r25db72dg98w15/"><img src="/variants/s6/y15db8r25db72dg98w15/sett.png" alt="Afternoon Tea / Darjeeling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w15dg98db72dr25db8ly15/">Afternoon Tea / Darjeeling</a></td><td>0.09</td><td><code>W/15 DG98 DB72 DR25 DB8 LY/15</code></td><td>436</td><td>2015</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w15dg98db72dr25db8ly15/"><img src="w15dg98db72dr25db8ly15-rev.png" alt="Afternoon Tea / Darjeeling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

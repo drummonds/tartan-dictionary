@@ -18,10 +18,10 @@ Its design is pattern [BKGKBKGKWBWBWBWBWKGKBKGKBKRKBKWBWBWB](/stripes/bkgkbkgkwb
 The **Campbell of Cawdor Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/">Campbell of Cawdor Dress</a></td><td><code>DB/20 K20 G20 K2 DB4 K2 G20 K20 W4 DB4 W48 DB4 W4 DB4 W48 DB4 W4 K20 G20 K2 DB4 K2 G20 K20 DB20 K4 R6 K4 DB20 K20 W4 DB4 W48 DB4 W4 DB/4</code></td><td>900</td><td>1985</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/"><img src="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/sett.png" alt="Campbell of Cawdor Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/">Campbell of Cawdor Dress</a></td><td></td><td><code>DB/20 K20 G20 K2 DB4 K2 G20 K20 W4 DB4 W48 DB4 W4 DB4 W48 DB4 W4 K20 G20 K2 DB4 K2 G20 K20 DB20 K4 R6 K4 DB20 K20 W4 DB4 W48 DB4 W4 DB/4</code></td><td>900</td><td>1985</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/"><img src="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/sett.png" alt="Campbell of Cawdor Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

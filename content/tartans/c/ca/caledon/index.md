@@ -13,10 +13,10 @@ Its design is pattern [BWBKBKRGR](/stripes/bwbkbkrgr/) — the page of every tar
 The **Caledon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/">Caledon</a></td><td><code>DB/16 W6 DB50 K6 DB8 K16 R62 Y4 R/10</code></td><td>330</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><img src="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/sett.png" alt="Caledon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/">Caledon</a></td><td></td><td><code>DB/16 W6 DB50 K6 DB8 K16 R62 Y4 R/10</code></td><td>330</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><img src="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/sett.png" alt="Caledon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

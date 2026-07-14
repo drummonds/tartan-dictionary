@@ -16,10 +16,10 @@ Its design is pattern [BKBKBKBKWWWB](/stripes/bkbkbkbkwwwb/) — the page of eve
 The **Grampian Police** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/">Grampian Police</a></td><td><code>DB/10 LB4 W2 LB4 K64 DB6 K8 DB58 K4 DBi2 K6 DB/6</code></td><td>332</td><td>2006</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/"><img src="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/sett.png" alt="Grampian Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/">Grampian Police</a></td><td></td><td><code>DB/10 LB4 W2 LB4 K64 DB6 K8 DB58 K4 DBi2 K6 DB/6</code></td><td>332</td><td>2006</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/"><img src="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/sett.png" alt="Grampian Police sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

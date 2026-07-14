@@ -18,10 +18,10 @@ Its design is pattern [KRWRKRGRGWBKW](/stripes/krwrkrgrgwbkw/) — the page of e
 The **Peacock** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/">Peacock</a></td><td><code>W/8 K4 T8 LB4 DG16 R4 DG16 R12 K12 R48 LB4 R8 K/4</code></td><td>284</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><img src="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/sett.png" alt="Peacock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/">Peacock</a></td><td></td><td><code>W/8 K4 T8 LB4 DG16 R4 DG16 R12 K12 R48 LB4 R8 K/4</code></td><td>284</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><img src="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/sett.png" alt="Peacock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

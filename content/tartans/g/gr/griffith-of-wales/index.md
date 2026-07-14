@@ -18,10 +18,10 @@ Its design is pattern [BBBBBRBBBYBBBRBBBBBY](/stripes/bbbbbrbbbybbbrbbbbby/) —
 The **Griffith of Wales** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/">Griffith of Wales</a></td><td><code>DO/37 DB17 DO4 DB8 DO6 R2 DO5 DB2 DO3 LY4 DO3 DB2 DO5 R2 DO6 DB8 DO4 DB17 DO37 LY/4</code></td><td>311</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/"><img src="/variants/s20/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/sett.png" alt="Griffith of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/">Griffith of Wales</a></td><td></td><td><code>DO/37 DB17 DO4 DB8 DO6 R2 DO5 DB2 DO3 LY4 DO3 DB2 DO5 R2 DO6 DB8 DO4 DB17 DO37 LY/4</code></td><td>311</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/"><img src="/variants/s20/do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4/sett.png" alt="Griffith of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

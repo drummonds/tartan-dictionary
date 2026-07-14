@@ -13,10 +13,10 @@ Its design is pattern [BKGKBKGKBKWBWKBKGK](/stripes/bkgkbkgkbkwbwkbkgk/) — the
 The **City of New Bern 300** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/dr12k2y2k2dr2k2y2k2dr12k1w2db3w2k1dr12k2y2k2~x2/">City of New Bern 300</a></td><td><code>DR/24 K4 Y4 K4 DR4 K4 Y4 K4 DR24 K2 W4 DB6 W4 K2 DR24 K4 Y4 K/4</code></td><td>232</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/dr12k2y2k2dr2k2y2k2dr12k1w2db3w2k1dr12k2y2k2~x2/"><img src="/variants/s18/dr12k2y2k2dr2k2y2k2dr12k1w2db3w2k1dr12k2y2k2~x2/sett.png" alt="City of New Bern 300 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/dr12k2y2k2dr2k2y2k2dr12k1w2db3w2k1dr12k2y2k2~x2/">City of New Bern 300</a></td><td></td><td><code>DR/24 K4 Y4 K4 DR4 K4 Y4 K4 DR24 K2 W4 DB6 W4 K2 DR24 K4 Y4 K/4</code></td><td>232</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dr12k2y2k2dr2k2y2k2dr12k1w2db3w2k1dr12k2y2k2~x2/"><img src="/variants/s18/dr12k2y2k2dr2k2y2k2dr12k1w2db3w2k1dr12k2y2k2~x2/sett.png" alt="City of New Bern 300 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

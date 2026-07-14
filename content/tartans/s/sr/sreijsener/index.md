@@ -13,10 +13,10 @@ Its design is pattern [RRKRKBKW](/stripes/rrkrkbkw/) — the page of every tarta
 The **Sreijsener** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/">Sreijsener</a></td><td><code>Ri/8 R12 K6 R33 K72 N6 K8 W/6</code></td><td>288</td><td>~2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/"><img src="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/sett.png" alt="Sreijsener sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/">Sreijsener</a></td><td></td><td><code>Ri/8 R12 K6 R33 K72 N6 K8 W/6</code></td><td>288</td><td>~2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/"><img src="/variants/s8/ri8r12k6r33k72n6k8w6~ri2108022-r1707008/sett.png" alt="Sreijsener sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

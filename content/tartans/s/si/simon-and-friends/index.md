@@ -13,10 +13,10 @@ Its design is pattern [GKGKWKBGBKGKGK](/stripes/gkgkwkbgbkgkgk/) — the page of
 The **Simon and Friends** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/">Simon and Friends</a></td><td><code>K/12 DG10 K12 DG24 K46 DO26 Y12 DO26 K24 W4 K46 DG24 K12 DG/10</code></td><td>554</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/"><img src="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/sett.png" alt="Simon and Friends sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/">Simon and Friends</a></td><td></td><td><code>K/12 DG10 K12 DG24 K46 DO26 Y12 DO26 K24 W4 K46 DG24 K12 DG/10</code></td><td>554</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/"><img src="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/sett.png" alt="Simon and Friends sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

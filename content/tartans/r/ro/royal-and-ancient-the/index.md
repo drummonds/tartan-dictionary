@@ -13,10 +13,10 @@ Its design is pattern [BRBRBG](/stripes/brbrbg/) — the page of every tartan sh
 The **Royal and Ancient, The** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/g49db16o3db2o2db6~x2/">Royal and Ancient, The</a></td><td><code>G/98 DB32 O6 DB4 O4 DB/12</code></td><td>202</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/g49db16o3db2o2db6~x2/"><img src="/variants/s6/g49db16o3db2o2db6~x2/sett.png" alt="Royal and Ancient, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g49db16o3db2o2db6~x2/">Royal and Ancient, The</a></td><td></td><td><code>G/98 DB32 O6 DB4 O4 DB/12</code></td><td>202</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g49db16o3db2o2db6~x2/"><img src="/variants/s6/g49db16o3db2o2db6~x2/sett.png" alt="Royal and Ancient, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

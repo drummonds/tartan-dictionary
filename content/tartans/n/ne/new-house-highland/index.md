@@ -13,10 +13,10 @@ Its design is pattern [KGKBKGKBKGBGKBKBKY](/stripes/kgkbkgkbkgbgkbkbky/) — the
 The **New House Highland** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/">New House Highland</a></td><td><code>LY/6 K2 DR44 K2 DR2 K20 DG2 DR2 DG22 K2 DR8 K2 DG16 K2 DR8 K2 DG96 K/2</code></td><td>472</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/"><img src="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/sett.png" alt="New House Highland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/">New House Highland</a></td><td></td><td><code>LY/6 K2 DR44 K2 DR2 K20 DG2 DR2 DG22 K2 DR8 K2 DG16 K2 DR8 K2 DG96 K/2</code></td><td>472</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/"><img src="/variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/sett.png" alt="New House Highland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

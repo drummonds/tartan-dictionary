@@ -13,10 +13,10 @@ Its design is pattern [KWKWKGKWKGKWKW](/stripes/kwkwkgkwkgkwkw/) — the page of
 The **Unidentified Plaid 13** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/w100k15w2k4y2k6w10k4y2k13w4k100w3k2/">Unidentified Plaid 13</a></td><td><code>W/100 K15 W2 K4 Y2 K6 W10 K4 Y2 K13 W4 K100 W3 K/2</code></td><td>432</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/w100k15w2k4y2k6w10k4y2k13w4k100w3k2/"><img src="/variants/s14/w100k15w2k4y2k6w10k4y2k13w4k100w3k2/sett.png" alt="Unidentified Plaid 13 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w100k15w2k4y2k6w10k4y2k13w4k100w3k2/">Unidentified Plaid 13</a></td><td></td><td><code>W/100 K15 W2 K4 Y2 K6 W10 K4 Y2 K13 W4 K100 W3 K/2</code></td><td>432</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/w100k15w2k4y2k6w10k4y2k13w4k100w3k2/"><img src="/variants/s14/w100k15w2k4y2k6w10k4y2k13w4k100w3k2/sett.png" alt="Unidentified Plaid 13 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [GKRKBKBKR](/stripes/gkrkbkbkr/) — the page of every tar
 The **Borthwick D** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/">Borthwick D</a></td><td><code>G/24 K2 R20 K4 N20 K28 N20 K4 R/8</code></td><td>228</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/"><img src="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/sett.png" alt="Borthwick D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/">Borthwick D</a></td><td></td><td><code>G/24 K2 R20 K4 N20 K28 N20 K4 R/8</code></td><td>228</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/"><img src="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/sett.png" alt="Borthwick D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

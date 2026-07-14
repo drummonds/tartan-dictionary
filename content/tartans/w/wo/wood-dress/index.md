@@ -18,10 +18,10 @@ Its design is pattern [KGKGKGBRGRGRGRGRBGKGKWK](/stripes/kgkgkgbrgrgrgrgrbgkgkwk
 The **Wood Dress** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/">Wood Dress</a></td><td><code>K/2 Y2 K4 G2 K2 G20 DB16 R20 G4 R20 G4 R60 G4 R20 G4 R20 DB16 G20 K2 G2 K4 W2 K/2</code></td><td>500</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/"><img src="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/sett.png" alt="Wood Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/">Wood Dress</a></td><td></td><td><code>K/2 Y2 K4 G2 K2 G20 DB16 R20 G4 R20 G4 R60 G4 R20 G4 R20 DB16 G20 K2 G2 K4 W2 K/2</code></td><td>500</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/"><img src="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/sett.png" alt="Wood Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

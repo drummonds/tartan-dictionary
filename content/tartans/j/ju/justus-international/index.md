@@ -20,16 +20,16 @@ The **Justus International** tartan groups 2 setts — the same named design rec
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/">Justus International</a> ★</td><td><code>DP/48 DG24 DP24 W24 DP24 Y24 DP/48</code></td><td>336</td><td>1982</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/"><img src="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/sett.png" alt="Justus International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/">(Personal)</a> · <a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24~w4000000/">(Personal)</a></td></tr>
-<tr><td><a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/">Justus International</a></td><td><code>DP/2 Y1 DP1 W1 DP1 G1 DP/2</code></td><td>14</td><td>~2003</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/"><img src="dp2y1dp1w1dp1g1dp2-rev.png" alt="Justus International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/">Tartan</a></td><td><code>DP/12 Y6 DP6 W6 DP6 G6 DP/12</code></td><td>84</td><td>~2003</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×24 — <a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x24/">Justus International</a></td><td><code>DP/48 Y24 DP24 W24 DP24 G24 DP/48</code></td><td>336</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x24/">Justus International</a> · <a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/">Tartan</a></td></tr>
+<tr><td><a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/">Justus International</a> ★</td><td></td><td><code>DP/48 DG24 DP24 W24 DP24 Y24 DP/48</code></td><td>336</td><td>1982</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/"><img src="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/sett.png" alt="Justus International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/">(Personal)</a> · <a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24~w4000000/">(Personal)</a></td></tr>
+<tr><td><a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/">Justus International</a></td><td>0.07</td><td><code>DP/2 Y1 DP1 W1 DP1 G1 DP/2</code></td><td>14</td><td>~2003</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/"><img src="dp2y1dp1w1dp1g1dp2-rev.png" alt="Justus International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/">Tartan</a></td><td>0.07</td><td><code>DP/12 Y6 DP6 W6 DP6 G6 DP/12</code></td><td>84</td><td>~2003</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×24 — <a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x24/">Justus International</a></td><td>0.07</td><td><code>DP/48 Y24 DP24 W24 DP24 G24 DP/48</code></td><td>336</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x24/">Justus International</a> · <a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/">Tartan</a></td></tr>
 </tbody>
 </table>
 

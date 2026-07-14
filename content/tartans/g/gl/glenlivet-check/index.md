@@ -16,10 +16,10 @@ Its design is pattern [BGYGBGBG](/stripes/bgygbgbg/) — the page of every tarta
 The **Glenlivet Check** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/">Glenlivet Check</a></td><td><code>DG/18 DR6 DG75 B6 DG13 LY35 DG12 B/6</code></td><td>318</td><td>1987</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><img src="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/sett.png" alt="Glenlivet Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/">Glenlivet Check</a></td><td></td><td><code>DG/18 DR6 DG75 B6 DG13 LY35 DG12 B/6</code></td><td>318</td><td>1987</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><img src="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/sett.png" alt="Glenlivet Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

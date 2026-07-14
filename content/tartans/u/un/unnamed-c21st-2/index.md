@@ -13,10 +13,10 @@ Its design is pattern [RGRBRWR](/stripes/rgrbrwr/) — the page of every tartan 
 The **Unnamed C21st** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/m3dg8m3db8m20w2m2~x4/">Unnamed C21st</a></td><td><code>M/12 DG32 M12 DB32 M80 W8 M/8</code></td><td>348</td><td>~2011</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/m3dg8m3db8m20w2m2~x4/"><img src="/variants/s7/m3dg8m3db8m20w2m2~x4/sett.png" alt="Unnamed C21st sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/m3dg8m3db8m20w2m2~x4/">Unnamed C21st</a></td><td></td><td><code>M/12 DG32 M12 DB32 M80 W8 M/8</code></td><td>348</td><td>~2011</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/m3dg8m3db8m20w2m2~x4/"><img src="/variants/s7/m3dg8m3db8m20w2m2~x4/sett.png" alt="Unnamed C21st sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

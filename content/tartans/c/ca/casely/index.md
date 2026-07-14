@@ -23,14 +23,14 @@ The **Casely** tartan groups 3 setts — the same named design recorded as diffe
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/">Casely</a> ★</td><td><code>R/16 DG44 K44 DG8 DB44 G/12</code></td><td>308</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><img src="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/sett.png" alt="Casely sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r4g11k11g2db11dg3~x4/">Casely</a></td><td><code>R/16 G44 K44 G8 DB44 DG/12</code></td><td>308</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r4g11k11g2db11dg3~x4/"><img src="/variants/s6/r4g11k11g2db11dg3~x4/sett.png" alt="Casely sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r4g11k11g2db11dy3~x4/">(Name)</a></td><td><code>R/16 G44 K44 G8 DB44 DY/12</code></td><td>308</td><td>1990</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r4g11k11g2db11dy3~x4/"><img src="/variants/s6/r4g11k11g2db11dy3~x4/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/">Casely</a> ★</td><td></td><td><code>R/16 DG44 K44 DG8 DB44 G/12</code></td><td>308</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><img src="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/sett.png" alt="Casely sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r4g11k11g2db11dg3~x4/">Casely</a></td><td>2.45</td><td><code>R/16 G44 K44 G8 DB44 DG/12</code></td><td>308</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r4g11k11g2db11dg3~x4/"><img src="/variants/s6/r4g11k11g2db11dg3~x4/sett.png" alt="Casely sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r4g11k11g2db11dy3~x4/">(Name)</a></td><td>0.37</td><td><code>R/16 G44 K44 G8 DB44 DY/12</code></td><td>308</td><td>1990</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r4g11k11g2db11dy3~x4/"><img src="/variants/s6/r4g11k11g2db11dy3~x4/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

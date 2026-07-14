@@ -16,10 +16,10 @@ Its design is pattern [GGRBKBWBKBRKBR](/stripes/ggrbkbwbkbrkbr/) — the page of
 The **MacLellan, McLellan hunting** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/">MacLellan, McLellan hunting</a></td><td><code>R/4 DB14 K10 R4 DB10 K2 DB10 W2 DB10 K2 DB10 R4 G14 Y/4</code></td><td>192</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/"><img src="/variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/sett.png" alt="MacLellan, McLellan hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/">MacLellan, McLellan hunting</a></td><td></td><td><code>R/4 DB14 K10 R4 DB10 K2 DB10 W2 DB10 K2 DB10 R4 G14 Y/4</code></td><td>192</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/"><img src="/variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/sett.png" alt="MacLellan, McLellan hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

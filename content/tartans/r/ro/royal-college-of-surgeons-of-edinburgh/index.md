@@ -13,10 +13,10 @@ Its design is pattern [WBKBKBKGW](/stripes/wbkbkbkgw/) — the page of every tar
 The **Royal College of Surgeons of Edinburgh** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/">Royal College of Surgeons of Edinburgh</a></td><td><code>W/8 DG40 K26 B4 K4 B4 K4 B32 LB/8</code></td><td>244</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/"><img src="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/sett.png" alt="Royal College of Surgeons of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/">Royal College of Surgeons of Edinburgh</a></td><td></td><td><code>W/8 DG40 K26 B4 K4 B4 K4 B32 LB/8</code></td><td>244</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/"><img src="/variants/s9/w4dg20k13b2k2b2k2b16lb4~x2/sett.png" alt="Royal College of Surgeons of Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

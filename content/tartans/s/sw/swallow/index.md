@@ -13,10 +13,10 @@ Its design is pattern [KBWBRKW](/stripes/kbwbrkw/) — the page of every tartan 
 The **Swallow** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/k11dr11w11dr11r30k3w3~x2/">Swallow</a></td><td><code>K/22 DR22 W22 DR22 R60 K6 W/6</code></td><td>292</td><td>2009</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/k11dr11w11dr11r30k3w3~x2/"><img src="/variants/s7/k11dr11w11dr11r30k3w3~x2/sett.png" alt="Swallow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k11dr11w11dr11r30k3w3~x2/">Swallow</a></td><td></td><td><code>K/22 DR22 W22 DR22 R60 K6 W/6</code></td><td>292</td><td>2009</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/k11dr11w11dr11r30k3w3~x2/"><img src="/variants/s7/k11dr11w11dr11r30k3w3~x2/sett.png" alt="Swallow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

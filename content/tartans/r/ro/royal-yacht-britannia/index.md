@@ -13,10 +13,10 @@ Its design is pattern [KGGWBGBR](/stripes/kggwbgbr/) — the page of every tarta
 The **Royal Yacht Britannia** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/">Royal Yacht Britannia</a></td><td><code>K/86 DY6 DG2 W2 DB2 DY6 DB50 R/4</code></td><td>226</td><td>1998</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/"><img src="/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/sett.png" alt="Royal Yacht Britannia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/">Royal Yacht Britannia</a></td><td></td><td><code>K/86 DY6 DG2 W2 DB2 DY6 DB50 R/4</code></td><td>226</td><td>1998</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/"><img src="/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/sett.png" alt="Royal Yacht Britannia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

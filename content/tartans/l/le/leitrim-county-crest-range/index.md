@@ -13,10 +13,10 @@ Its design is pattern [GKGKGKGKBW](/stripes/gkgkgkgkbw/) — the page of every t
 The **Leitrim County, Crest Range** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/y10k24y5k13y24k5g52k5db18w8/">Leitrim County, Crest Range</a></td><td><code>Y/10 K24 Y5 K13 Y24 K5 G52 K5 DB18 W/8</code></td><td>310</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/y10k24y5k13y24k5g52k5db18w8/"><img src="/variants/s10/y10k24y5k13y24k5g52k5db18w8/sett.png" alt="Leitrim County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/y10k24y5k13y24k5g52k5db18w8/">Leitrim County, Crest Range</a></td><td></td><td><code>Y/10 K24 Y5 K13 Y24 K5 G52 K5 DB18 W/8</code></td><td>310</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/y10k24y5k13y24k5g52k5db18w8/"><img src="/variants/s10/y10k24y5k13y24k5g52k5db18w8/sett.png" alt="Leitrim County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

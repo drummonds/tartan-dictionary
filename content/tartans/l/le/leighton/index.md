@@ -18,10 +18,10 @@ Its design is pattern [BGBGBRBR](/stripes/bgbgbrbr/) — the page of every tarta
 The **Leighton** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/b20y3b20dg36b20o16b28r8~dg1104144-o1604043/">Leighton</a></td><td><code>B/20 Y3 B20 DG36 B20 O16 B28 R/8</code></td><td>274</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/b20y3b20dg36b20o16b28r8~dg1104144-o1604043/"><img src="/variants/s8/b20y3b20dg36b20o16b28r8~dg1104144-o1604043/sett.png" alt="Leighton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/b20y3b20dg36b20o16b28r8~dg1104144-o1604043/">Leighton</a></td><td></td><td><code>B/20 Y3 B20 DG36 B20 O16 B28 R/8</code></td><td>274</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/b20y3b20dg36b20o16b28r8~dg1104144-o1604043/"><img src="/variants/s8/b20y3b20dg36b20o16b28r8~dg1104144-o1604043/sett.png" alt="Leighton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

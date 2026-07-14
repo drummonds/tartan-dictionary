@@ -18,10 +18,10 @@ Based on Clan Campbell sett with Morrison red and Club-arms blue, navy and purpl
 The **Caledonian Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/">Caledonian Club</a></td><td><code>B/24 DB4 B4 DB4 B4 DB20 DP32 N4 DP32 DB35 R5 DB/4</code></td><td>316</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/"><img src="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/sett.png" alt="Caledonian Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/">Caledonian Club</a></td><td></td><td><code>B/24 DB4 B4 DB4 B4 DB20 DP32 N4 DP32 DB35 R5 DB/4</code></td><td>316</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/"><img src="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/sett.png" alt="Caledonian Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

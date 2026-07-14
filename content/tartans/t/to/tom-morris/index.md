@@ -13,10 +13,10 @@ Its design is pattern [WBWBWBWGWBWBW](/stripes/wbwbwbwgwbwbw/) — the page of e
 The **Tom Morris** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/">Tom Morris</a></td><td><code>LB/38 DP5 LB6 DP5 LB4 DB20 LB38 Y12 W3 N30 W3 N2 W/7</code></td><td>301</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><img src="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/sett.png" alt="Tom Morris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/">Tom Morris</a></td><td></td><td><code>LB/38 DP5 LB6 DP5 LB4 DB20 LB38 Y12 W3 N30 W3 N2 W/7</code></td><td>301</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><img src="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/sett.png" alt="Tom Morris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

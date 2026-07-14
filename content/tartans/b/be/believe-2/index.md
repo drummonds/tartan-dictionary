@@ -18,10 +18,10 @@ Its design is pattern [KBRKBKBW](/stripes/kbrkbkbw/) — the page of every tarta
 The **Believe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/">Believe</a></td><td><code>K/8 DR16 R60 K16 DR12 K16 DR24 W/6</code></td><td>302</td><td>2014</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/"><img src="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/sett.png" alt="Believe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/">Believe</a></td><td></td><td><code>K/8 DR16 R60 K16 DR12 K16 DR24 W/6</code></td><td>302</td><td>2014</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/"><img src="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/sett.png" alt="Believe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

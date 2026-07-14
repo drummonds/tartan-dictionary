@@ -13,10 +13,10 @@ Its design is pattern [BKBKBKBKBKBKBW](/stripes/bkbkbkbkbkbkbw/) — the page of
 The **Chicago, University of** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/">Chicago, University of</a></td><td><code>DR/60 K16 DR4 K4 DR8 K4 DR64 K4 DR8 K4 DR4 K16 DR60 LB/6</code></td><td>458</td><td>1991</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/"><img src="/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/sett.png" alt="Chicago, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/">Chicago, University of</a></td><td></td><td><code>DR/60 K16 DR4 K4 DR8 K4 DR64 K4 DR8 K4 DR4 K16 DR60 LB/6</code></td><td>458</td><td>1991</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/"><img src="/variants/s14/dr30k8dr2k2dr4k2dr32k2dr4k2dr2k8dr30lb3~x2/sett.png" alt="Chicago, University of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

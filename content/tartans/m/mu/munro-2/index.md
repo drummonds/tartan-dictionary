@@ -20,12 +20,12 @@ The **Munro** tartan groups 2 setts — the same named design recorded as differ
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/">Munro</a> ★</td><td><code>R/40 G4 R4 G4 R4 G4 R38 DB2 Y2 R4 DB8 R4 Y2 DB2 R4 G36 R4 DB2 Y2 R/38</code></td><td>338</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/"><img src="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/sett.png" alt="Munro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/">Munro</a></td><td><code>R/104 G12 R12 G12 R12 G12 R104 DB4 LY4 R12 DB24 R12 LY4 DB4 R12 G104 R12 DB4 LY4 R/52</code></td><td>884</td><td>1831</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/"><img src="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/sett.png" alt="Munro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/">Munro</a> ★</td><td></td><td><code>R/40 G4 R4 G4 R4 G4 R38 DB2 Y2 R4 DB8 R4 Y2 DB2 R4 G36 R4 DB2 Y2 R/38</code></td><td>338</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/"><img src="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/sett.png" alt="Munro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/">Munro</a></td><td>0.45</td><td><code>R/104 G12 R12 G12 R12 G12 R104 DB4 LY4 R12 DB24 R12 LY4 DB4 R12 G104 R12 DB4 LY4 R/52</code></td><td>884</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/"><img src="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/sett.png" alt="Munro sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

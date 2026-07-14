@@ -13,10 +13,10 @@ Its design is pattern [GGGRGKGRGBY](/stripes/gggrgkgrgby/) — the page of every
 The **California Department of Forestry** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/">California Department of Forestry</a></td><td><code>Y/120 DG20 G12 R4 G12 K4 G12 R4 G12 DB4 LO/4</code></td><td>292</td><td>1994</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/"><img src="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/sett.png" alt="California Department of Forestry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/">California Department of Forestry</a></td><td></td><td><code>Y/120 DG20 G12 R4 G12 K4 G12 R4 G12 DB4 LO/4</code></td><td>292</td><td>1994</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/"><img src="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/sett.png" alt="California Department of Forestry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

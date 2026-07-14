@@ -18,10 +18,10 @@ Its design is pattern [GKYKYKYKYKYKYKYKY](/stripes/gkykykykykykykyky/) — the p
 The **Carnegie** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/">Carnegie</a></td><td><code>DY/12 K2 LR2 K2 LR2 K2 LR2 K2 LR2 K2 LR4 K4 LR4 K4 LR4 K4 LR/4</code></td><td>100</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><img src="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/sett.png" alt="Carnegie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/">Carnegie</a></td><td></td><td><code>DY/12 K2 LR2 K2 LR2 K2 LR2 K2 LR2 K2 LR4 K4 LR4 K4 LR4 K4 LR/4</code></td><td>100</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><img src="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/sett.png" alt="Carnegie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

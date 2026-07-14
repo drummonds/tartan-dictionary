@@ -18,10 +18,10 @@ Its design is pattern [BBBBBGGGWGGRGBBB](/stripes/bbbbbgggwggrgbbb/) — the pag
 The **Forbes, of Druminnor** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s16/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2~x2/">Forbes, of Druminnor</a></td><td><code>DB/12 B4 DB4 B4 DB4 DG12 G16 DG2 W4 DG2 G16 O4 DG8 DB16 B4 DB/4</code></td><td>216</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s16/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2~x2/"><img src="/variants/s16/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2~x2/sett.png" alt="Forbes, of Druminnor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s16/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2~x2/">Forbes, of Druminnor</a></td><td></td><td><code>DB/12 B4 DB4 B4 DB4 DG12 G16 DG2 W4 DG2 G16 O4 DG8 DB16 B4 DB/4</code></td><td>216</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s16/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2~x2/"><img src="/variants/s16/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2~x2/sett.png" alt="Forbes, of Druminnor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -16,10 +16,10 @@ Its design is pattern [RBRRRRRRRRRR](/stripes/rbrrrrrrrrrr/) — the page of eve
 The **Ferguson Red, George** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/">Ferguson Red, George</a></td><td><code>R/8 DR48 Riii6 Ri48 Riii3 Ri6 Riii6 Ri4 Riii8 Ri2 Riii22 Rii/8</code></td><td>322</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/"><img src="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/sett.png" alt="Ferguson Red, George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/">Ferguson Red, George</a></td><td></td><td><code>R/8 DR48 Riii6 Ri48 Riii3 Ri6 Riii6 Ri4 Riii8 Ri2 Riii22 Rii/8</code></td><td>322</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/"><img src="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/sett.png" alt="Ferguson Red, George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

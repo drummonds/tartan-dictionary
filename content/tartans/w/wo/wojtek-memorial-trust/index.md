@@ -15,12 +15,12 @@ The **Wojtek Memorial Trust** tartan groups 2 setts — the same named design re
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/">Wojtek Memorial Trust</a> ★</td><td><code>W/6 DB30 R12 DB6 R6 DB8 DG22 G6 DG6 G56 LO/6</code></td><td>316</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><img src="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/sett.png" alt="Wojtek Memorial Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/">Wojtek Memorial Trust</a></td><td><code>W/6 G56 DG6 G6 DG22 DB8 R6 DB6 R12 DB30 Wi/6</code></td><td>316</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/"><img src="w3g28dg3g3dg11db4r3db3r6db15wi3-rev.png" alt="Wojtek Memorial Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/">Wojtek Memorial Trust</a> ★</td><td></td><td><code>W/6 DB30 R12 DB6 R6 DB8 DG22 G6 DG6 G56 LO/6</code></td><td>316</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><img src="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/sett.png" alt="Wojtek Memorial Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/">Wojtek Memorial Trust</a></td><td>0.02</td><td><code>W/6 G56 DG6 G6 DG22 DB8 R6 DB6 R12 DB30 Wi/6</code></td><td>316</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/"><img src="w3g28dg3g3dg11db4r3db3r6db15wi3-rev.png" alt="Wojtek Memorial Trust sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BGBWGBBWGG](/stripes/bgbwgbbwgg/) — the page of every t
 The **Islay Whisky Club** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/">Islay Whisky Club</a></td><td><code>DR/60 DGi8 DP6 LB6 DGi8 DR60 DP6 LB6 DG8 DY/4</code></td><td>280</td><td>2002</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/"><img src="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/sett.png" alt="Islay Whisky Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/">Islay Whisky Club</a></td><td></td><td><code>DR/60 DGi8 DP6 LB6 DGi8 DR60 DP6 LB6 DG8 DY/4</code></td><td>280</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/"><img src="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/sett.png" alt="Islay Whisky Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

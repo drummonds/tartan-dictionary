@@ -15,10 +15,10 @@ Part of Lochcarron's 1997 collection acknowledging early historical and cultural
 The **All Irish** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/">All Irish</a></td><td><code>DGi/12 G4 DR4 DGi60 LO4 G8 LO4 DG4 LO2 DG40 LO2 G4 DR/8</code></td><td>292</td><td>1997</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/"><img src="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/sett.png" alt="All Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/">All Irish</a></td><td></td><td><code>DGi/12 G4 DR4 DGi60 LO4 G8 LO4 DG4 LO2 DG40 LO2 G4 DR/8</code></td><td>292</td><td>1997</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/"><img src="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/sett.png" alt="All Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

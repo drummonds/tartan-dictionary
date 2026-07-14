@@ -13,10 +13,10 @@ Its design is pattern [KGBKBKGKR](/stripes/kgbkbkgkr/) — the page of every tar
 The **Red Chapeau** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/">Red Chapeau</a></td><td><code>R/54 K6 G6 K6 DP36 K6 DP36 Y6 K/12</code></td><td>270</td><td>2007</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/"><img src="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/sett.png" alt="Red Chapeau sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/">Red Chapeau</a></td><td></td><td><code>R/54 K6 G6 K6 DP36 K6 DP36 Y6 K/12</code></td><td>270</td><td>2007</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/"><img src="/variants/s9/r9k1g1k1dp6k1dp6y1k2~x6/sett.png" alt="Red Chapeau sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

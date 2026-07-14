@@ -18,11 +18,11 @@ Its design is pattern [RWWBWGBWBWWWBWBWBWBWBWBWWWBWRRW](/stripes/rwwbwgbwbwwwbwb
 The **Brides** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2~r2109032-ri2807025/">Brides</a></td><td><code>R/8 W2 LB4 DP8 W2 G4 DB16 W2 DP4 LB4 W2 LB4 DP4 W2 DP32 W2 DP12 W2 DP12 W2 DP32 W2 DP4 LB4 W2 LB4 DP4 W2 R16 Ri12 W/2</code></td><td>414</td><td>1720</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2~r2109032-ri2807025/"><img src="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2~r2109032-ri2807025/sett.png" alt="Brides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2~r2109032-ri2406019/">Plaid Artifact Tartan</a> · <a href="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2~r2109032-ri2807025/">Plaid</a></td></tr>
+<tr><td><a href="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2~r2109032-ri2807025/">Brides</a></td><td></td><td><code>R/8 W2 LB4 DP8 W2 G4 DB16 W2 DP4 LB4 W2 LB4 DP4 W2 DP32 W2 DP12 W2 DP12 W2 DP32 W2 DP4 LB4 W2 LB4 DP4 W2 R16 Ri12 W/2</code></td><td>414</td><td>1720</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2~r2109032-ri2807025/"><img src="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2~r2109032-ri2807025/sett.png" alt="Brides sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2~r2109032-ri2406019/">Plaid Artifact Tartan</a> · <a href="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2~r2109032-ri2807025/">Plaid</a></td></tr>
 </tbody>
 </table>
 

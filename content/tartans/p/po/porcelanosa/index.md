@@ -13,10 +13,10 @@ Its design is pattern [GBRW](/stripes/gbrw/) — the page of every tartan sharin
 The **Porcelanosa** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/">Porcelanosa</a></td><td><code>LB/48 O18 N46 Y/6</code></td><td>182</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><img src="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/sett.png" alt="Porcelanosa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/">Porcelanosa</a></td><td></td><td><code>LB/48 O18 N46 Y/6</code></td><td>182</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><img src="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/sett.png" alt="Porcelanosa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

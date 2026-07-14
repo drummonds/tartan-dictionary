@@ -18,10 +18,10 @@ Its design is pattern [GRGRGRY](/stripes/grgrgry/) — the page of every tartan 
 The **Wolfe** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/">Wolfe</a></td><td><code>DG/8 R8 DG26 R26 DG8 R72 LO/8</code></td><td>296</td><td>1950</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/"><img src="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/sett.png" alt="Wolfe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/">Wolfe</a></td><td></td><td><code>DG/8 R8 DG26 R26 DG8 R72 LO/8</code></td><td>296</td><td>1950</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/"><img src="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/sett.png" alt="Wolfe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

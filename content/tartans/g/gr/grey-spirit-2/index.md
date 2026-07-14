@@ -15,10 +15,10 @@ Fashion tartan created by ACS Clothing of Glasgow for kilt hire; woven by Lochca
 The **Grey Spirit** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/">Grey Spirit</a></td><td><code>N/90 K34 N12 K34 N12 K34 N12 K34 N90 K/8</code></td><td>622</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><img src="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/sett.png" alt="Grey Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/">Grey Spirit</a></td><td></td><td><code>N/90 K34 N12 K34 N12 K34 N12 K34 N90 K/8</code></td><td>622</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><img src="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/sett.png" alt="Grey Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

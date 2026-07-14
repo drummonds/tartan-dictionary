@@ -13,10 +13,10 @@ Its design is pattern [GGYGWGWGWGWGWGWWG](/stripes/ggygwgwgwgwgwgwwg/) — the p
 The **Prickly Thistle** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3~x2~gi2408144-g1903114/">Prickly Thistle</a></td><td><code>Gi/6 G30 LY6 G6 LP2 G2 LP2 G2 LP2 G2 LP2 G2 LP2 G2 LP24 LB30 Gi/6</code></td><td>244</td><td>2013</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3~x2~gi2408144-g1903114/"><img src="/variants/s17/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3~x2~gi2408144-g1903114/sett.png" alt="Prickly Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3~x2~gi2408144-g1903114/">Prickly Thistle</a></td><td></td><td><code>Gi/6 G30 LY6 G6 LP2 G2 LP2 G2 LP2 G2 LP2 G2 LP2 G2 LP24 LB30 Gi/6</code></td><td>244</td><td>2013</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3~x2~gi2408144-g1903114/"><img src="/variants/s17/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3~x2~gi2408144-g1903114/sett.png" alt="Prickly Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

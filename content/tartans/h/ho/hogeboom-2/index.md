@@ -18,10 +18,10 @@ Its design is pattern [GGGBGBRWR](/stripes/gggbgbrwr/) — the page of every tar
 The **Hogeboom** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/">Hogeboom</a></td><td><code>Gi/8 G6 Gi18 B28 Y16 B4 R70 LP4 R/6</code></td><td>306</td><td>2012</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/"><img src="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/sett.png" alt="Hogeboom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/">Hogeboom</a></td><td></td><td><code>Gi/8 G6 Gi18 B28 Y16 B4 R70 LP4 R/6</code></td><td>306</td><td>2012</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/"><img src="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/sett.png" alt="Hogeboom sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [GGBGBR](/stripes/ggbgbr/) — the page of every tartan sh
 The **Isle of Rona** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s6/r4t19g10n10dy15y2~x2/">Isle of Rona</a></td><td><code>R/8 T38 G20 N20 DY30 Y/4</code></td><td>228</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><img src="/variants/s6/r4t19g10n10dy15y2~x2/sett.png" alt="Isle of Rona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r4t19g10n10dy15y2~x2/">Isle of Rona</a></td><td></td><td><code>R/8 T38 G20 N20 DY30 Y/4</code></td><td>228</td><td>2008</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><img src="/variants/s6/r4t19g10n10dy15y2~x2/sett.png" alt="Isle of Rona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

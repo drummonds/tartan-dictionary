@@ -18,10 +18,10 @@ Stewart clan branch tartan from Galloway and South West Scotland.
 The **Crieff and Strathearn** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/">Crieff and Strathearn</a></td><td><code>G/110 DP14 R48 G24 DB8 Y6 DB/8</code></td><td>318</td><td>1988</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><img src="/variants/s7/g55dp7r24g12db4y3db4~x2/sett.png" alt="Crieff and Strathearn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/">Crieff and Strathearn</a></td><td></td><td><code>G/110 DP14 R48 G24 DB8 Y6 DB/8</code></td><td>318</td><td>1988</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><img src="/variants/s7/g55dp7r24g12db4y3db4~x2/sett.png" alt="Crieff and Strathearn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

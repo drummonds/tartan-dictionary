@@ -13,10 +13,10 @@ Its design is pattern [BKBK](/stripes/bkbk/) — the page of every tartan sharin
 The **Auchincloss** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s4/k34db13k7db14~x2/">Auchincloss</a></td><td><code>K/68 DB26 K14 DB/28</code></td><td>176</td><td>2004</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s4/k34db13k7db14~x2/"><img src="/variants/s4/k34db13k7db14~x2/sett.png" alt="Auchincloss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k34db13k7db14~x2/">Auchincloss</a></td><td></td><td><code>K/68 DB26 K14 DB/28</code></td><td>176</td><td>2004</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s4/k34db13k7db14~x2/"><img src="/variants/s4/k34db13k7db14~x2/sett.png" alt="Auchincloss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

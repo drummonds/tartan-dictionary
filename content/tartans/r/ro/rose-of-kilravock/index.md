@@ -18,10 +18,10 @@ Its design is pattern [KRBRBRBRW](/stripes/krbrbrbrw/) — the page of every tar
 The **Rose of Kilravock** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/">Rose of Kilravock</a></td><td><code>K/4 R70 DB12 R10 DB4 R4 DB4 R28 W/4</code></td><td>272</td><td>—</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><img src="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/sett.png" alt="Rose of Kilravock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/">Rose of Kilravock</a></td><td></td><td><code>K/4 R70 DB12 R10 DB4 R4 DB4 R28 W/4</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><img src="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/sett.png" alt="Rose of Kilravock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

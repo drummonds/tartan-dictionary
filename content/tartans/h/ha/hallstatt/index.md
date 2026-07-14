@@ -15,10 +15,10 @@ Its design is pattern [GGG](/stripes/ggg/) — the page of every tartan sharing 
 The **Hallstatt** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/g16dy3g2~x10/">Hallstatt</a></td><td><code>G/160 DY30 G/20</code></td><td>240</td><td>~400 BCE</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/g16dy3g2~x10/"><img src="/variants/s3/g16dy3g2~x10/sett.png" alt="Hallstatt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/g16dy3g2~x10/">Hallstatt</a></td><td></td><td><code>G/160 DY30 G/20</code></td><td>240</td><td>~400 BCE</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/g16dy3g2~x10/"><img src="/variants/s3/g16dy3g2~x10/sett.png" alt="Hallstatt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

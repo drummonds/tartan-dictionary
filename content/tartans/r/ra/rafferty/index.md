@@ -13,10 +13,10 @@ Its design is pattern [BBYBWBWBY](/stripes/bbybwbwby/) — the page of every tar
 The **Rafferty** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/">Rafferty</a></td><td><code>DR/60 T8 LY4 T40 W4 T8 W4 T8 LY/4</code></td><td>216</td><td>2005</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/"><img src="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/sett.png" alt="Rafferty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/">Rafferty</a></td><td></td><td><code>DR/60 T8 LY4 T40 W4 T8 W4 T8 LY/4</code></td><td>216</td><td>2005</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/"><img src="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/sett.png" alt="Rafferty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

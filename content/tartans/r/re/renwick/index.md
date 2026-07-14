@@ -15,10 +15,10 @@ Designed for Robin Rennie; Rennies are a sept of MacDonell of Keppoch.
 The **Renwick** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/">Renwick</a></td><td><code>K/6 G4 K40 R4 K24 G4 K8 G4 K12 G/4</code></td><td>210</td><td>1975</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><img src="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/sett.png" alt="Renwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/">Renwick</a></td><td></td><td><code>K/6 G4 K40 R4 K24 G4 K8 G4 K12 G/4</code></td><td>210</td><td>1975</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><img src="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/sett.png" alt="Renwick sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -13,10 +13,10 @@ Its design is pattern [BKG](/stripes/bkg/) — the page of every tartan sharing 
 The **Glenlyon** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s3/g3k2db2~x4/">Glenlyon</a></td><td><code>G/12 K8 DB/8</code></td><td>36</td><td>1800</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s3/g3k2db2~x4/"><img src="/variants/s3/g3k2db2~x4/sett.png" alt="Glenlyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/g3k2db2~x4/">Glenlyon</a></td><td></td><td><code>G/12 K8 DB/8</code></td><td>36</td><td>1800</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s3/g3k2db2~x4/"><img src="/variants/s3/g3k2db2~x4/sett.png" alt="Glenlyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

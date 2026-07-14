@@ -18,10 +18,10 @@ Its design is pattern [GKGKGRKKK](/stripes/gkgkgrkkk/) — the page of every tar
 The **Lindsay** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/">Lindsay</a></td><td><code>G/48 K4 G4 K4 G4 R20 Ki40 K4 Ki/8</code></td><td>216</td><td>~1856</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/"><img src="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/sett.png" alt="Lindsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/">Lindsay</a></td><td></td><td><code>G/48 K4 G4 K4 G4 R20 Ki40 K4 Ki/8</code></td><td>216</td><td>~1856</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/"><img src="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/sett.png" alt="Lindsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

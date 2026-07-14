@@ -13,10 +13,10 @@ Its design is pattern [GKYRWBKRKRKRK](/stripes/gkyrwbkrkrkrk/) — the page of e
 The **Norwich No.158** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/">Norwich No.158</a></td><td><code>G/16 K2 LY2 R2 W2 DB16 K2 R8 K2 R8 K2 R8 K/2</code></td><td>126</td><td>1870</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/"><img src="/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/sett.png" alt="Norwich No.158 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/">Norwich No.158</a></td><td></td><td><code>G/16 K2 LY2 R2 W2 DB16 K2 R8 K2 R8 K2 R8 K/2</code></td><td>126</td><td>1870</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/"><img src="/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/sett.png" alt="Norwich No.158 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

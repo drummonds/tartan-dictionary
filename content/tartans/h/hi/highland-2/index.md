@@ -20,12 +20,12 @@ The **Highland** tartan groups 2 setts — the same named design recorded as dif
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/">Highland</a> ★</td><td><code>DP/8 G26 DB10 Y6 LB12 Y6 DB10 N12 DB56 W/4</code></td><td>288</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/"><img src="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/sett.png" alt="Highland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/dp4g13db5y3lb6y3db5n6g28w2~x2/">Green (Corporate)</a></td><td><code>DP/8 G26 DB10 Y6 LB12 Y6 DB10 N12 G56 W/4</code></td><td>288</td><td>1993</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s10/dp4g13db5y3lb6y3db5n6g28w2~x2/"><img src="/variants/s10/dp4g13db5y3lb6y3db5n6g28w2~x2/sett.png" alt="Green (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/">Highland</a> ★</td><td></td><td><code>DP/8 G26 DB10 Y6 LB12 Y6 DB10 N12 DB56 W/4</code></td><td>288</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/"><img src="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/sett.png" alt="Highland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dp4g13db5y3lb6y3db5n6g28w2~x2/">Green (Corporate)</a></td><td>1.20</td><td><code>DP/8 G26 DB10 Y6 LB12 Y6 DB10 N12 G56 W/4</code></td><td>288</td><td>1993</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/dp4g13db5y3lb6y3db5n6g28w2~x2/"><img src="/variants/s10/dp4g13db5y3lb6y3db5n6g28w2~x2/sett.png" alt="Green (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

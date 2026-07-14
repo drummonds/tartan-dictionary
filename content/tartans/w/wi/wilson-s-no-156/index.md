@@ -13,10 +13,10 @@ Its design is pattern [RKRWRGGKWKWKGKWWR](/stripes/rkrwrggkwkwkgkwwr/) — the p
 The **Wilson's No.156** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/">Wilson's No.156</a></td><td><code>R/60 W4 LB8 K8 Y4 K4 W12 K4 LB22 K30 Y6 G40 R28 W8 R8 K4 R/16</code></td><td>456</td><td>1819</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/"><img src="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/sett.png" alt="Wilson's No.156 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/">Wilson's No.156</a></td><td></td><td><code>R/60 W4 LB8 K8 Y4 K4 W12 K4 LB22 K30 Y6 G40 R28 W8 R8 K4 R/16</code></td><td>456</td><td>1819</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/"><img src="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/sett.png" alt="Wilson's No.156 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

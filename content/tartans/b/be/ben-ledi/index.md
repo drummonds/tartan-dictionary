@@ -13,10 +13,10 @@ Its design is pattern [RBRBGRWRWRW](/stripes/rbrbgrwrwrw/) — the page of every
 The **Ben Ledi** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/">Ben Ledi</a></td><td><code>W/60 O3 W3 O8 W3 O3 DG24 N12 O3 N16 O/4</code></td><td>214</td><td>1984</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><img src="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/sett.png" alt="Ben Ledi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/">Ben Ledi</a></td><td></td><td><code>W/60 O3 W3 O8 W3 O3 DG24 N12 O3 N16 O/4</code></td><td>214</td><td>1984</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><img src="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/sett.png" alt="Ben Ledi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

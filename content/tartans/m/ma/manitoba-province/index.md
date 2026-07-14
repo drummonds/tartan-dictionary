@@ -16,10 +16,10 @@ Its design is pattern [BGGGWGWGWGGGBY](/stripes/bgggwgwgwgggby/) — the page of
 The **Manitoba Province** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/">Manitoba Province</a></td><td><code>DR/48 G4 DG12 G80 LB4 G4 LB12 G4 LB4 G80 DG12 G4 DR48 LY/12</code></td><td>596</td><td>1961</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/"><img src="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/sett.png" alt="Manitoba Province sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/">Manitoba Province</a></td><td></td><td><code>DR/48 G4 DG12 G80 LB4 G4 LB12 G4 LB4 G80 DG12 G4 DR48 LY/12</code></td><td>596</td><td>1961</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/"><img src="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/sett.png" alt="Manitoba Province sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

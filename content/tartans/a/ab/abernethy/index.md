@@ -18,10 +18,10 @@ Its design is pattern [YBRGRGY](/stripes/ybrgrgy/) — the page of every tartan 
 The **Abernethy** tartan is recorded as a single sett.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<thead><tr><th>Sett</th><th>ΔTartan</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/variants/s7/lo1db14r28g14r1g14lo1~x2/">Abernethy</a></td><td><code>LO/2 DB28 R56 G28 R2 G28 LO/2</code></td><td>288</td><td>2010</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/variants/s7/lo1db14r28g14r1g14lo1~x2/"><img src="/variants/s7/lo1db14r28g14r1g14lo1~x2/sett.png" alt="Abernethy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/lo1db14r28g14r1g14lo1~x2/">Abernethy</a></td><td></td><td><code>LO/2 DB28 R56 G28 R2 G28 LO/2</code></td><td>288</td><td>2010</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/lo1db14r28g14r1g14lo1~x2/"><img src="/variants/s7/lo1db14r28g14r1g14lo1~x2/sett.png" alt="Abernethy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
